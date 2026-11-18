@@ -3,5 +3,6 @@ __pycache__/
 node_modules/
 .impeccable/
 .wrangler/
+web/md/
 .DS_Store
 Thumbs.db

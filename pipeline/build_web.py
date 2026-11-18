@@ -5,7 +5,7 @@ Uso: python -I pipeline/build_web.py <raiz_proyecto>
 La clasificación se casa con los extractos por la huella de (partido, texto), no por id,
 para que sobreviva a un nuevo troceado que desplace los ids.
 """
-import json, re, sys, html, pathlib, hashlib, datetime
+import json, re, sys, html, pathlib, hashlib, datetime, shutil
 
 raiz = pathlib.Path(sys.argv[1])
 data = raiz / 'data'
@@ -192,8 +192,16 @@ def main():
         partidos.append({'id': pt['id'], 'corto': pt['corto'], **({'sigla': pt['sigla']} if 'sigla' in pt else {}), 'nombre': fm['partido'], 'titulo': fm['titulo'],
                          'fuente': fm['fuente_pdf'], 'tipoFuente': fm['tipo_fuente'],
                          'paginas': int(fm['paginas_pdf']), 'descarga': fm['fecha_descarga'],
-                         'color': pt['color'], 'base': pt['base']})
+                         'color': pt['color'], 'base': pt['base'], 'md': f"md/programa-29n-{pt['id']}.md"})
     ids = {p['id'] for p in partidos}
+    # el Markdown de cada programa, para descargarlo desde la web (web/md/ se genera aquí; no se versiona)
+    dir_md = raiz / 'web' / 'md'
+    dir_md.mkdir(parents=True, exist_ok=True)
+    for viejo in dir_md.glob('*.md'):
+        viejo.unlink()
+    for pt in PARTIDOS:
+        if pt['id'] in ids:
+            shutil.copyfile(raiz / 'markdown' / f"{pt['clave']}_2026_programa.md", dir_md / f"programa-29n-{pt['id']}.md")
     salida = [x for x in salida if x['p'] in ids]
     marcas = [m for m in marcas if m[1].split('-')[0] in ids]
 

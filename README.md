@@ -39,7 +39,7 @@ Las visitas se cuentan con Cloudflare Web Analytics, que no usa cookies ni guard
 
 | Carpeta | Qué hay |
 |---|---|
-| `web/` | La web: HTML, CSS y JavaScript sin framework. `data.js` se genera. |
+| `web/` | La web: HTML, CSS y JavaScript sin framework. `data.js` y `md/` (el Markdown de cada programa, para descargarlo) los genera `build_web.py`. |
 | `dist/` | La web en un único HTML. |
 | `pipeline/` | Los scripts que convierten los PDF en los datos de la web. |
 | `descargas/` | Los PDF oficiales (y alguna página web) tal como los publicó cada partido. |

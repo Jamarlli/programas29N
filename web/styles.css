@@ -377,7 +377,9 @@ a.pt:hover { box-shadow: inset 0 0 0 1.5px var(--ink); }
 .pg-s b { color: var(--ink); font-weight: 700; }
 .pg-a { display: inline-flex; align-items: center; gap: 6px; margin-top: auto; padding-top: 14px; font-weight: 700; }
 .pg:hover .pg-a { text-decoration: underline; }
-.pg-pdf { position: absolute; top: 26px; right: 24px; display: inline-flex; align-items: center; gap: 4px; font-size: .8125rem; font-weight: 600; }
+.pg-pdf, .pg-md { position: absolute; right: 24px; display: inline-flex; align-items: center; gap: 4px; font-size: .8125rem; font-weight: 600; }
+.pg-pdf { top: 26px; }
+.pg-md { bottom: 22px; }
 
 .prog-titulo { font-family: var(--serif); font-weight: 500; letter-spacing: -.01em; }
 .ficha { display: grid; gap: 6px; margin-top: 16px; font-size: .875rem; color: var(--ink-2); max-width: 70ch; }
@@ -716,6 +718,7 @@ html:has(.dlg[open]) { overflow: hidden; }
   .ex--aqui { margin-left: calc(-1 * var(--gut) + 4px); margin-right: calc(-1 * var(--gut) + 4px); padding-left: calc(var(--gut) - 4px); padding-right: calc(var(--gut) - 4px); }
   .pg { padding: 18px 18px 16px; }
   .pg-pdf { top: 22px; right: 18px; }
+  .pg-md { bottom: 18px; right: 18px; }
   .cab { padding-top: 28px; }
   .cab .lead, .hero .lead { font-size: 1.0625rem; }
   .chip .largo { display: none; }
