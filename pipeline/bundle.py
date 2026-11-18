@@ -1,11 +1,14 @@
-"""Une web/index.html, styles.css, data.js y app.js en un único HTML: dist/programas29N.html.
+"""Une web/index.html, styles.css, data.js, app.js y las fuentes en un único HTML: dist/programas29N.html.
 Uso, desde la raíz del proyecto: python -I pipeline/bundle.py"""
-import pathlib
+import base64, pathlib, re
 
 raiz = pathlib.Path(__file__).resolve().parent.parent
 web = raiz / 'web'
 html = (web / 'index.html').read_text(encoding='utf-8')
 css = (web / 'styles.css').read_text(encoding='utf-8')
+fuente = lambda m: 'url("data:font/woff2;base64,' + base64.b64encode((web / m[1]).read_bytes()).decode() + '")'
+css = re.sub(r'url\("(fonts/[^"]+\.woff2)"\)', fuente, css)
+html = re.sub(r'<link rel="preload" href="fonts/[^"]+"[^>]*>\n', '', html)
 js = lambda n: (web / n).read_text(encoding='utf-8').replace('</script', '<\\/script')
 
 piezas = {

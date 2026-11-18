@@ -59,4 +59,5 @@ Los cuatro primeros programas (PP, PSOE, Vox y Frente Amplio) se convirtieron co
 
 - **Código** (`web/`, `pipeline/` y los scripts): [MIT](LICENSE).
 - **Datos propios** (titulares, clasificación por temas, marcas de «Dónde chocan», taxonomía, mapa y listado de candidaturas): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Puedes reutilizarlos citando la fuente.
+- **Fuentes tipográficas** (Newsreader y Schibsted Grotesk, en `web/fonts/`): [SIL Open Font License 1.1](web/fonts/). Se sirven desde la propia web, sin pasar por Google Fonts.
 - **Los programas electorales son de cada partido.** Los PDF de `descargas/`, su conversión en `markdown/` y el texto literal de los extractos no están cubiertos por ninguna de las dos licencias; se incluyen para que todo se pueda comprobar.
