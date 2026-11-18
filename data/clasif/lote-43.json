@@ -1,0 +1,3027 @@
+[
+ {
+  "id": "comuns-0616",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Permiso retribuido para cuidar a familiares dependientes y doblar la prestación por cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0617",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Prestación provisional si la dependencia no se resuelve en tres meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0618",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Fondo finalista para ayuntamientos contra la soledad no deseada 2026-2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0619",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Garantizar servicios de dependencia culturalmente adecuados con mediación intercultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0620",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Diagnóstico: el IMV solo llega al 31 % de las personas en pobreza severa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0621",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "No exigir la devolución de prestaciones indebidas por errores de la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0622",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "No reclamar prestaciones usadas para necesidades básicas de personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0623",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Pagar el IMV de oficio y revisar los ingresos cada mes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0624",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Subir el IMV al 60 % de la renta mediana y las pensiones mínimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0625",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Cobrar el incentivo al empleo del IMV según los ingresos en tiempo real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0626",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Revisar los requisitos de residencia del IMV y eliminar barreras documentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0627",
+  "subtema": "fam-infancia",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Plan contra la pobreza infantil con comedor escolar y extraescolares gratuitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0628",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Subir el IPREM 100 euros, hasta 700, y actualizarlo periódicamente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0629",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Diagnóstico: brecha de género de un tercio en las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0630",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar en la Constitución la revalorización de las pensiones con el IPC real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0631",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Devolver la edad de jubilación a los 65 años",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0632",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Actualización automática de todas las modalidades de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0633",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Ninguna pensión mínima contributiva por debajo del salario mínimo interprofesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0634",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Aumentar el complemento por brecha de género y computar como cotizados los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0635",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Completar el destope de las bases máximas de cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0636",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación sin penalización con 44 años cotizados y a los 60 en oficios duros",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0637",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reducir la edad de jubilación en oficios y profesiones penosos",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0638",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Evaluar el impacto de la discriminación laboral y los cuidados en las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0639",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Eliminar incentivos fiscales a los planes individuales e impulsar planes colectivos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0640",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Publicar la auditoría de cotizaciones y gasto de la Seguridad Social 1967-2019",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0641",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Ampliar los convenios internacionales de Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0642",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "La salud como servicio público y derecho humano, no como negocio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0643",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Un sistema de salud equitativo con la misma calidad en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0644",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Sistema Nacional de Salud público en titularidad y gestión",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0645",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Gasto sanitario mínimo del 8 % del PIB y 25 % para primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0646",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Recuperar la universalidad de la sanidad y cumplir el Real Decreto ley 7/2018",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0647",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Fijar responsabilidades de CCAA y Estado en nuevas prestaciones y vacunas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0648",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Ampliar la cartera de salud comunitaria con salud mental, logopedia y odontología",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0649",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Equipos de atención primaria reforzados para zonas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0650",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Integrar los sistemas de información del cáncer para mejorar los cribados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0651",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "san-farmacia"
+  ],
+  "titular": "Aprobar las leyes del medicamento, de pacientes, de alcohol y menores y antitabaco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0652",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Aprobar una Ley Celíaca con sello de control y ayudas económicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0653",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Acceso efectivo a la sanidad independientemente de la situación administrativa",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0654",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Incorporar el impacto del racismo y el desplazamiento en la salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0655",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Crear un Observatorio independiente de evaluación y calidad del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0656",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Plan de reversión de los servicios sanitarios privatizados",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0657",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Financiar audífonos, preservativos para jóvenes y copas menstruales gratuitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0658",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Independencia del sistema sanitario respecto de la industria farmacéutica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0659",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Desplegar la Agencia de Salud Pública y la respuesta a emergencias sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0660",
+  "subtema": "san-modelo",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ampliar la cartera de servicios de los hospitales rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0661",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reclasificar a técnicos superiores sanitarios en el grupo B y TCAE en C1",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0662",
+  "subtema": "san-listas-espera",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Financiación finalista a las CCAA para mejorar la resolución y las listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0663",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Reducir las listas de espera en todos los niveles del sistema",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0664",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Plan estatal para renovar la tecnología diagnóstica de los hospitales públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0665",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Criterios de buena praxis para patologías como fibromialgia o fatiga crónica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0666",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Revisar la oferta de plazas de estudios y especialidades sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0667",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Actualizar los criterios del FOGA y el FCS y liquidar la asistencia a turistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0668",
+  "subtema": "san-modelo",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Reforzar la privacidad y confidencialidad de los datos clínicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0669",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Invertir en salud laboral y condiciones de los profesionales sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0670",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Regular las terapias complementarias aplicadas por profesionales sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0671",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Reforzar la atención comunitaria en salud mental para reducir los suicidios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0672",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Participación de profesionales y ciudadanía en la gobernanza sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0673",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Crear una Agencia de Calidad y Evaluación independiente del sistema sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0674",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Que todo el gasto asistencial vaya a la salud y no al lucro privado",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0675",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Garantizar el aborto seguro, legal y gratuito en todo el territorio",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0676",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Investigación en salud con perspectiva de género, salud sexual y menopausia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0677",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Cribado de cáncer de mama de 45 a 74 años en todas las CCAA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0678",
+  "subtema": "san-mental",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Psicólogos de cabecera en atención primaria con enfoque preventivo y comunitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0679",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Al menos 10 profesionales de salud mental por cada 100.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0680",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Definir las profesiones de los equipos multidisciplinares de salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0681",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Desarrollar la estrategia «Cero Contenciones»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0682",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Garantizar recursos de salud mental en la red pública de las CCAA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0683",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Garantizar los cuidados paliativos y proteger la prestación de ayuda para morir",
+  "ejes": [
+   {
+    "eje": "eje-eutanasia",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0684",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Escuela pública, gratuita, inclusiva y en catalán, con más inversión",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0685",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Retos educativos: salud mental, segregación escolar y nuevas tecnologías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0686",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Inversión educativa del 5 % del PIB en 2027 hasta llegar al 7 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0687",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Más plazas públicas y financiación para que centros privados pasen a la red pública",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0688",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Detectar irregularidades en la concertada con penalizaciones y revocación de conciertos",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0689",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Defender la inmersión lingüística con el catalán como lengua vehicular",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0690",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Plan estatal de infraestructuras educativas con climatización de las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0691",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Plan estatal de aprendizaje de las lenguas oficiales en todas las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0692",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Culminar una Ley de Ratios más ambiciosa con doble cómputo del alumnado con necesidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0693",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Universalizar la etapa 0-3 con gratuidad de las nuevas plazas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0694",
+  "subtema": "edu-escuela",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Potenciar la escuela pública rural para fijar población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0695",
+  "subtema": "edu-escuela",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Incorporar profesionales de psicología y enfermería a los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0696",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Más recursos contra el acoso escolar y para la salud mental infantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0697",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "No reducir las horas de las optativas científicas de bachillerato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0698",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Informar de la voluntariedad de las aportaciones en centros sostenidos con fondos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0699",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Reforzar en el currículo los valores democráticos, la igualdad y la memoria democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0700",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Combatir la segregación escolar limitando la concentración de alumnado con NEE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0701",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Transformar la UNED para ampliar la oferta universitaria pública presencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0702",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Plan para atender al alumnado con trastornos del neurodesarrollo y del aprendizaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0703",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reforzar el criterio de renta familiar en las becas para alumnado con NEAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0704",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Plan estatal de educación inclusiva para financiar a las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0705",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Integrar los centros de educación especial en la red ordinaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0706",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Red de centros para alumnado con dificultades severas de aprendizaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0707",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Crear unidades de emergencia de salud mental y suicidio con las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0708",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación en el respeto y recursos contra el acoso escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0709",
+  "subtema": "edu-becas",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Becas para estudiantes rurales que cubran transporte, alojamiento y manutención",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0710",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Aumentar las becas a niveles europeos y duplicarlas para familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0711",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Aumentar un 60 % las becas del alumnado con necesidades específicas de apoyo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0712",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Más financiación a las administraciones educativas y a los programas de cooperación territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0713",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Becas suficientes hacia una educación pública completamente gratuita",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0714",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Eliminar las tasas de la educación postobligatoria según el nivel de renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0715",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Planes para centros de alta complejidad contra el abandono escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0716",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Comedor escolar gratuito en Infantil y Primaria en la red pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0717",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Detectar barreras administrativas que impidan la igualdad de trato en la escuela",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0718",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Plan para atender al alumnado con trastornos del neurodesarrollo y del aprendizaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0719",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reforzar el criterio de renta familiar en las becas para alumnado con NEAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0720",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Garantizar el acceso a extraescolares y apoyo escolar del alumnado vulnerable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0721",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ampliar la personalización de la atención y el aprendizaje del alumnado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0722",
+  "subtema": "igu-racismo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Protocolos escolares contra el racismo y el acoso racista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0723",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Acuerdo de garantías comunes contra el acoso y el ciberacoso escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0724",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Exigir el Reglamento de Servicios Digitales y más obligaciones a las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0725",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Canales de denuncia con revisión humana y retirada de contenidos ilícitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0726",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Reforzar el 024 para la infancia y crear un fondo de salud mental infantojuvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0727",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Garantizar el acceso efectivo a la atención farmacéutica de urgencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0728",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Aumentar las plantillas docentes y de profesionales de apoyo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0729",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Reducir la interinidad y mejorar las condiciones laborales del profesorado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0730",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Internalizar y dignificar al personal de apoyo, cocina y limpieza escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0731",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Plan de formación permanente del profesorado dentro de la jornada lectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0732",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Seguir negociando el Estatuto del Docente con la comunidad educativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0733",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Reconocer la tutoría como elemento fundamental de orientación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0734",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Incluir la gestión de conflictos y del aula en la formación docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0735",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Estudio sobre el uso de la inteligencia artificial en las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0736",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Regular el uso de la inteligencia artificial y los móviles en el aula",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0737",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Programas de nuevas oportunidades para jóvenes con abandono escolar prematuro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0738",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Red pública suficiente de centros de educación de personas adultas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0739",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Reforzar la FP pública con financiación estable y conexión con el empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0740",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Auditar la calidad de la FP impartida por entidades privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0741",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Actualizar y flexibilizar el currículo de la Formación Profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0742",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Becas de transporte para estudiar Formación Profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0743",
+  "subtema": "edu-fp",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Garantizar el acceso de las personas recién llegadas a la FP con itinerarios integrados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0744",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Culminar el despliegue de la Ley de enseñanzas artísticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0745",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Formación artística diversa en toda la educación obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0746",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Red territorial de espacios de formación y práctica artística para todas las edades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0747",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reforzar la formación e investigación en los oficios culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0748",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Proyectos interdisciplinares entre artes, ciencias y humanidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0749",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Impulsar la educación audiovisual y digital crítica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0750",
+  "subtema": "cultura",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Más presencia de creadores migrantes y racializados en programaciones y ayudas culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0751",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Diagnóstico: las universidades, 70 % de la ciencia y 25 % de la financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0752",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Fomentar residencias públicas de estudiantes a precios asequibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0753",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Financiación plurianual estable y suficiente para la universidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0754",
+  "subtema": "edu-universidad",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Plazas públicas y becas salario para garantizar el derecho a estudiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0755",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "No autorizar nuevas universidades privadas sin acreditación rigurosa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0756",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Impedir que la universidad privada sea la vía fácil sin plaza en la pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0757",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Planificación pública del mapa universitario priorizando la universidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0758",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Más ayudas de residencia y beca salario en la enseñanza postobligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0759",
+  "subtema": "edu-becas",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Facilitar el acceso a becas y matrícula del estudiantado extranjero y refugiado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0760",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Plan plurianual de estabilización y promoción del personal universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0761",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Convertir plazas temporales en estructurales y desplegar la carrera del PTGAS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0762",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Mejorar los salarios del profesorado novel y del personal investigador en formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0763",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reducir la temporalidad del PDI, que llega a 14 años de contratos temporales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0764",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Evitar discontinuidades en la carrera académica para no perder personal formado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0765",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Recuperar los derechos del personal universitario perdidos con los recortes de 2012",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0766",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Aumentar las plantillas de personal técnico, de gestión y de servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0767",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Prohibir la subcontratación precaria en las universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0768",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Acabar con la doble escala salarial del personal universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0769",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Ajustar las ratios entre personal docente y técnico a los estándares europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0770",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reducir la masificación y las ratios de alumnado por profesor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0771",
+  "subtema": "igu-racismo",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Protocolos contra el racismo en universidades y centros de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0772",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Plan cuatrienal de recuperación universitaria con evaluación anual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0773",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Objetivos medibles de financiación, plazas, becas y ratios universitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0774",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Publicar cada año los resultados universitarios y dotar recursos para corregir retrasos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0775",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Que la equidad en el acceso no reduzca la calidad docente ni los servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0776",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Adecuar la oferta docente a las necesidades económicas y sociales, no a la demanda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0777",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "El deporte como derecho ciudadano, salud e integración social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0778",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Garantizar el acceso a la práctica deportiva con igualdad de oportunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0779",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Aumentar el presupuesto del deporte hasta el 0,25 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0780",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Crear el Observatorio Estatal del Deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0781",
+  "subtema": "deporte",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Formación especializada en deporte y profesionales del deporte en atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0782",
+  "subtema": "deporte",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Prescripción de actividad física desde la atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0783",
+  "subtema": "deporte",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Formación y protocolos contra los abusos y la violencia sexual en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0784",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Campañas sobre hábitos saludables, antirracismo e igualdad en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0785",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Simplificar trámites y exigir buen gobierno y transparencia a las federaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0786",
+  "subtema": "deporte",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Revisar la normativa contra la violencia, el racismo y la xenofobia en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0787",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Más mujeres en cargos federativos y técnicos y planes de igualdad en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0788",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Programa para aumentar la participación de niñas y adolescentes en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0789",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Marco legal que dé seguridad jurídica a los profesionales del deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0790",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Plan Estatal de apoyo a la formación de deportistas de alto nivel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0791",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Actualizar la relación laboral especial de los deportistas profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0792",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Estudiar un régimen de cotización para el deporte formativo no profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0793",
+  "subtema": "deporte",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Revisar los requisitos que impiden inscribir a menores migrantes en competiciones de base",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0794",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Financiación estatal para rehabilitar y ampliar instalaciones deportivas municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0795",
+  "subtema": "deporte",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Plan para el Deporte Adaptado con un área específica en el CSD",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0796",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Seguir previniendo y sancionando el dopaje en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0797",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Crear un Fondo Social del Deporte para zonas deprimidas e intervención social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0798",
+  "subtema": "deporte",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reconocer las selecciones catalanas en competiciones internacionales oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0799",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Ayudas según renta para cuotas, licencias y material del deporte infantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0800",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Vías alternativas de acreditación para que la falta de documentación no excluya a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0801",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Financiación estable para entidades deportivas sin ánimo de lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0802",
+  "subtema": "deporte",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Financiar proyectos deportivos y culturales con personas de orígenes diversos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0803",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Igualdad efectiva en el deporte y mejores condiciones laborales para las deportistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0804",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Priorizar el interés social en la gestión de instalaciones deportivas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0805",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Balance: el Plan de Derechos Culturales y el Bono Cultural Joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0806",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Balance: reforma laboral de las artes escénicas y fiscalidad de los artistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0807",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Balance: cultura, memoria democrática y diplomacia cultural en la legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0808",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Los derechos culturales como eje de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0809",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Seguir desplegando el Estatuto del artista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0810",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ley estatal de derechos culturales y fondo estatal de equidad cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0811",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Más transparencia fiscal y trazabilidad en el mecenazgo cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0812",
+  "subtema": "cultura",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Casilla cultural en el IRPF e IVA del 4 % para productos culturales",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0813",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Marco fiscal específico para donaciones a crowdfunding cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0814",
+  "subtema": "cultura",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Promover la economía social y cooperativa en el sector cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0815",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ayudas para la participación cultural de los sectores con menos recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0816",
+  "subtema": "cultura",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Red de apoyo a la gestión cultural pública en territorios despoblados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0817",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Abrir museos y archivos como espacios de participación ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0818",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Actualizar la ley de autoría y la trazabilidad de las producciones digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0819",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Transparencia sobre los contenidos generados o modificados por IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0820",
+  "subtema": "cultura",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Combatir los recargos abusivos y la opacidad en la venta de entradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0821",
+  "subtema": "cultura",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Consolidar el IVA reducido cultural y extenderlo a otros bienes culturales",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0822",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Dar visibilidad a la cultura creada desde la ciudadanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0823",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Regular el mercado de obras digitales y su conservación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0824",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Simplificar las subvenciones culturales y potenciar convenios plurianuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0825",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ampliar el reconocimiento del patrimonio con perspectiva de género, clase y diversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0826",
+  "subtema": "cultura",
+  "otros": [
+   "animales"
+  ],
+  "titular": "No dar apoyo público a prácticas culturales con maltrato animal o que vulneren derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0827",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Culminar los procedimientos contra las fundaciones que hagan apología del franquismo",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0828",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Incorporar la memoria del colonialismo y la esclavitud a los museos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0829",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Salvaguardar los juegos de mesa y tradicionales con valor patrimonial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0830",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Consolidar el videojuego como sector cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0831",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reconocimiento cultural del diseño, la arquitectura y los oficios artesanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0832",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Colaboración entre servicios culturales, educativos, sociales y de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0833",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "La participación cultural para combatir la soledad y reforzar vínculos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0834",
+  "subtema": "cultura",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Diplomacia cultural y cultura de paz en la acción exterior del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0835",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Recuperar la obra de mujeres creadoras y personas invisibilizadas por orientación sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0836",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Igualdad de género en jurados e instituciones culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0837",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Indicadores de sostenibilidad y derechos laborales en las ayudas culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0838",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Renovables y autoconsumo en espacios culturales y patrimoniales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0839",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reconocer la diversidad lingüística y la realidad plurilingüe y plurinacional del Estado",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0840",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Proteger y promover el catalán y las demás lenguas propias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0841",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Pluralidad lingüística en las instituciones y la proyección cultural exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0842",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Reforzar el apoyo a las lenguas minorizadas o en riesgo de desaparición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0843",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Apoyar los contenidos culturales en catalán y otras lenguas propias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0844",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Programas de traducción de obras entre las lenguas del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0845",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reconocimiento del catalán y las lenguas cooficiales en las instituciones europeas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0846",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Aprobar una Ley de Lenguas que reconozca la realidad plurilingüe del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0847",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Un Instituto Cervantes plurilingüe coordinado con el Institut Ramon Llull",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0848",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Oficialidad del catalán en toda la administración estatal, especialmente la Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0849",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Proteger frente a patrones oscuros y precios dinámicos y prohibir la especulación en catástrofes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0850",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Estudio sobre el acceso a una dieta saludable y sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0851",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Reducir el consumo de ultraprocesados y bebidas azucaradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0852",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Revisar el etiquetado para informar del consumo saludable y evitar el greenwashing",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0853",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Infraestructuras públicas de productos saludables y de proximidad y apoyo a cooperativas de consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0854",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Prueba piloto de Seguridad Social de la Alimentación con tarjeta monedero universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0855",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Culminar la Ley de Consumo Sostenible: reparabilidad y límites a la reventa de entradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0856",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ley que garantice cajeros automáticos en municipios en riesgo de exclusión financiera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0857",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Autoridad independiente de defensa del cliente financiero con dictámenes vinculantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0858",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Prevenir la discriminación por origen o nacionalidad en bancos y seguros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0859",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "El feminismo como transformación que pone la vida en el centro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0860",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Perspectiva feminista en todas las políticas para una igualdad material",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0861",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: feminización de la pobreza, brecha salarial y sobrecarga de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0862",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Los cuidados como derecho universal y responsabilidad colectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0863",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Contra las violencias machistas y por los derechos sexuales y reproductivos",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0864",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Feminismo y diversidad sexual y de género, una misma lucha por las libertades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0865",
+  "subtema": "igu-vida",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reformar la Constitución para que el aborto sea un derecho fundamental",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0866",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Equidad territorial en el aborto y cubrir los desplazamientos necesarios",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0867",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Regular la objeción de conciencia para que no obstaculice el aborto",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0868",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permisos de nacimiento y cuidado de un año, retribuidos e intransferibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0869",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ley estatal de familias monoparentales y monomarentales con ventajas de familia numerosa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0870",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Marco jurídico para familias elegidas y redes de cuidados, incluidas las poliamorosas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: derecho de familia y modelos de convivencia"
+ },
+ {
+  "id": "comuns-0871",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Reconocimiento voluntario de las redes de cuidados sin obligaciones automáticas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: derecho de familia y modelos de convivencia"
+ },
+ {
+  "id": "comuns-0872",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Estado y comunidades garantizarán cuidados universales sin depender del entorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0873",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforzar el marco estatal contra todas las formas de violencia machista",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0874",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Respuesta integral a las violencias sexuales sin revictimización institucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0875",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Aborto seguro y gratuito en la red pública con independencia de la situación administrativa",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0876",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Reforzar la reproducción asistida pública con bancos públicos de óvulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0877",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Acceso equitativo a la PrEP y la PEP contra el VIH en zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0878",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Acceso a la PrEP y la PEP contra el VIH en máximo tres meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0879",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Observatorio Estatal y estrategia contra la LGTBQAifobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0880",
+  "subtema": "inm-asilo",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Acogida segura a las personas LGTBIQ+ solicitantes de protección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0881",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Atención sanitaria despatologizada a las personas trans basada en el consentimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0882",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Culminar la tipificación penal de las terapias de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0883",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Tratar a las personas trans y no binarias por su nombre sentido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0884",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reconocer a las personas no binarias en el Registro Civil y el DNI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0885",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aumentar un 10 % los recursos contra la violencia machista",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0886",
+  "subtema": "igu-violencia",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Acceso a vivienda pública para mujeres víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0887",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Más juzgados de Violencia sobre la Mujer con más medios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0888",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Atender a víctimas de violencia machista sin exigir denuncia ni residencia regular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0889",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Dotar de personal y medios suficientes a los Centros de Crisis 24 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0890",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Partidas plurianuales para el Pacto de Estado contra la Violencia de Género",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0891",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforzar VioGén con valoración del riesgo de violencia vicaria para hijos e hijas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0892",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Reformar la LOPIVI para ampliar la definición de violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0893",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Hacer cumplir la prohibición del Síndrome de Alienación Parental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0894",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Proteger y dar derechos a las personas que ejercen la prostitución",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "derechos"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0895",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Proteger a quienes ejercen la prostitución de proxenetas y de la criminalización",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "derechos"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0896",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Eliminar las normas que penalizan a las personas que ejercen la prostitución",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "derechos"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0897",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Red de atención integral y reinserción laboral para personas que ejercen la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0898",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "La transversalidad de género como herramienta de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0899",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Listas cremallera como garantía mínima de paridad en la normativa electoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0900",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Planes de igualdad obligatorios en empresas de más de 50 personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0901",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Consolidar y ampliar el Ministerio de Igualdad con presupuesto suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0902",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Presupuestos con perspectiva de género y auditorías de género del gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0903",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Analizar en presupuestos y planes de igualdad las desigualdades de género, origen y racialización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0904",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Evaluación de impacto rural en todas las leyes, planes y presupuestos del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0905",
+  "subtema": "igu-violencia",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Igual acceso a los servicios contra la violencia machista en municipios pequeños",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0906",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Elevar la inversión en infancia y familias al 2,4 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0907",
+  "subtema": "inm-asilo",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Plan Integral de Atención, Protección e Inclusión de la infancia migrante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0908",
+  "subtema": "fam-infancia",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Programa plurianual para contratar profesionales de salud mental infantojuvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0909",
+  "subtema": "fam-infancia",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Coordinación de bienestar y protección del alumnado con financiación estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0910",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Impulsar el acogimiento familiar y la desinstitucionalización de la infancia tutelada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0911",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Desplegar la Estrategia Nacional de Entornos Digitales Seguros para la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0912",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Reforzar la protección frente a la violencia contra la infancia con más financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0913",
+  "subtema": "inm-asilo",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Evitar pruebas invasivas en la determinación de edad y garantizar asistencia letrada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0914",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Que la gente joven pueda desarrollar un proyecto de vida autónomo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0915",
+  "subtema": "fam-juventud",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reformar la LOREG para votar a los 16 años en todas las elecciones",
+  "ejes": [
+   {
+    "eje": "eje-voto16",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0916",
+  "subtema": "fam-juventud",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Reforzar la educación política y democrática en secundaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0917",
+  "subtema": "fam-juventud",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Regular por ley el derecho a huelga estudiantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0918",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Garantizar un empleo juvenil de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0919",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Rebajar los requisitos de la prestación por desempleo para las personas jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0920",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Fomentar el cooperativismo y la formación en derechos laborales entre jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0921",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Ley de generaciones futuras que evalúe el impacto de las normas en el bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0922",
+  "subtema": "fam-juventud",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Incluir a la juventud migrante, refugiada y extutelada en los programas de emancipación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0923",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Estudiar el transporte público estatal gratuito para jóvenes de 16 a 22 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0924",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Nuevos programas de intercambio estudiantil con países del Sur global",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0925",
+  "subtema": "ext-ue",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Oponerse a recortes del presupuesto de la UE y blindar los programas para jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0926",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Penalizar las terapias y productos de salud sin eficacia científica probada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0927",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Red de psicólogos públicos con tiempos de espera dignos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0928",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Regular por ley la responsabilidad de las plataformas en la adicción a pantallas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0929",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Plan de Emancipación Juvenil: vivienda asequible, empleo estable y participación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0930",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ayudas para rehabilitar viviendas vacías en zonas rurales para que los jóvenes se queden",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0931",
+  "subtema": "fam-infancia",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Plan para jóvenes extutelados con continuidad residencial y apoyo económico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0932",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Envejecimiento digno y erradicación del edadismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0933",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Combatir el edadismo y avanzar en la desinstitucionalización de las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0934",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Fomentar la participación ciudadana y política de las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0935",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Perspectiva de edad en la gobernanza y la evaluación de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0936",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Campañas de sensibilización contra el edadismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0937",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Impulsar un gran pacto social intergeneracional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0938",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Garantizar la no discriminación por edad en movilidad, empleo, salud y educación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0939",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Mediación intercultural en la atención a mayores y medidas contra la soledad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0940",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "La suficiencia económica de las personas mayores y el peso de las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0941",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Que ninguna persona mayor sufra pobreza económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0942",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Facilitar el acceso a servicios sociales de las personas mayores en situación precaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0943",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Las barreras de accesibilidad que afrontan las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0944",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Derecho de los mayores de 65 años a atención presencial en bancos y Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0945",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Plan de alfabetización digital y ocio cultural para personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0946",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "El envejecimiento activo como parte de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0947",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Promover la salud física y mental para un envejecimiento activo y saludable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0948",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Fomentar la actividad física y la participación con Ciudades Amigas de las Personas Mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0949",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Reforzar el carácter social del programa de turismo del Imserso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0950",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Programa de formación y apoyo a la transición hacia la jubilación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0951",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Desinstitucionalización y unidades de convivencia en residencias públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0952",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Fomentar el buen trato a las personas mayores y detectar las malas praxis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0953",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Compatibilizar la pensión con actividades productivas de servicio social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0954",
+  "subtema": "fam-mayores",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Revisar la incapacitación y la tutela, el testamento vital y la muerte digna",
+  "ejes": [],
+  "nota": ""
+ }
+]

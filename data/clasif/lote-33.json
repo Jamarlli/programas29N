@@ -1,0 +1,2188 @@
+[
+ {
+  "id": "pfac-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: una herramienta política propia del feminismo para intervenir en las instituciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "El programa como contrato exigible y el feminismo como perspectiva transversal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Ninguna política es justa si ignora la desigualdad entre mujeres y hombres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Compromiso con la transformación feminista de la sociedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0005",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "La Agenda Feminista como piedra angular del proyecto político",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0006",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: la violencia machista como violencia estructural del patriarcado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0007",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Denuncia de la violencia machista en todas sus formas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0008",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Erradicar la violencia machista con recursos, formación y coeducación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0009",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Tipificar la misoginia como delito de odio en el Código Penal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0010",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Sustituir en las leyes «violencia de género» por «violencia machista»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0011",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ampliar la definición de violencia de la LIVG a nuevas formas, incluidos los deepfakes",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0012",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Armonizar las definiciones de violencia machista en todas las comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0013",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Evaluar de forma sistemática e independiente la aplicación de la LIVG",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0014",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Recuperar y endurecer las penas de la ley de libertad sexual",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0015",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Equiparar a las víctimas de violencia sexual con las de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0016",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Impulsar la ley de violencia vicaria y una Ley Integral contra la violencia machista",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0017",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Tipificar en el Código Penal la violencia económica de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0018",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Actualizar con el IPC el anticipo del Fondo de Garantía de Alimentos (300 €)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0019",
+  "subtema": "igu-violencia",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Reconocer como víctimas a mujeres afectadas por el cambio registral de sexo del agresor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0020",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Plan integral contra la violencia machista ejercida por menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0021",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Incluir la violencia machista en la formación de profesionales de sanidad, educación y justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0022",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Exigir cualificación en violencia machista a los profesionales de servicios especializados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0023",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Eliminar los juicios rápidos y las conformidades en casos de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0024",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Escuchar a los menores en los procesos y suspender medidas paternofiliales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0025",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Eliminar la coordinación de parentalidad y el Síndrome de Alienación Parental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0026",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Extender hasta los 26 años los recursos para hijos e hijas de mujeres asesinadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0027",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Revisar protocolos judiciales para evitar la revictimización de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0028",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Acabar con la saturación de los Juzgados de violencia de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0029",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reformar integralmente el Sistema VioGén mediante una auditoría y más recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0030",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Gestión pública, sin externalizaciones, de los servicios a víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0031",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Incluir todos los feminicidios en las cifras oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0032",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Extender automáticamente las órdenes de protección a toda la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0033",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Perseguir los matrimonios forzados y la mutilación genital femenina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0034",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Destinar íntegramente los fondos del Pacto de Estado a la violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0035",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Atención especializada a la violencia contra mujeres mayores, rurales, inmigrantes y discapacitadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0036",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforzar la responsabilidad patrimonial del Estado cuando falla la protección a las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0037",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Campañas sobre el carácter estructural de las violencias hacia las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0038",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Perseguir el negacionismo de la violencia machista y los bulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0039",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Promover el rechazo social a la minimización de comportamientos ofensivos cotidianos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0040",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Programas de prevención del ciberacoso y la violencia machista online",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0041",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Guías para docentes y familias ante el «sexting» no consentido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0042",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Fomentar la implantación de «puntos violeta» en comercios, empresas y organismos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0043",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: la prostitución como violencia sexual institucionalizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0044",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: OnlyFans como nueva forma de prostitución y de captación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0045",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "La abolición del sistema prostitucional como prioridad estructural",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0046",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aprobar con urgencia la Ley Orgánica para la Abolición del Sistema Prostitucional",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0047",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Contenido de la LOASP: reparación a las víctimas y sanción a proxenetas y prostituidores",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0048",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Medidas adicionales sobre la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0049",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Considerar víctimas de violencia machista a las mujeres del sistema prostitucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0050",
+  "subtema": "igu-violencia",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Programas de trabajo garantizado para mujeres que han estado en la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0051",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Suprimir la prostitución del cálculo del PIB y de la CNAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0052",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ordenanzas abolicionistas que penalicen a puteros y proxenetas, no a las mujeres",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0053",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Eximir a las víctimas de trata de denunciar para evitar su expulsión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0054",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Facilitar regularización y nacionalidad a mujeres que salen de la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0055",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Denegar subvenciones a entidades que blanqueen la explotación sexual, incluida la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0056",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Perseguir y penalizar la llamada asistencia sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0057",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Garantizar el retorno asistido a mujeres en prostitución que lo soliciten",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0058",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Programas autonómicos de apoyo integral a mujeres en prostitución y trata",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0059",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Difundir los canales de emergencia policiales para mujeres prostituidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0060",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Prohibir y perseguir plataformas como OnlyFans que captan para pornografía y prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0061",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: la violencia contra las mujeres en la nueva pornografía en línea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0062",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: el consumo de pornografía aumenta la violencia sexual y afecta a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0063",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Impedir el acceso de menores a la pornografía y prohibir contenidos degradantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0064",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Medidas para abolir la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0065",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Inspeccionar y prohibir plataformas que distribuyen pornografía violenta o degradante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0066",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Exigir controles eficaces que impidan el acceso de menores a la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0067",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Filtros obligatorios en los proveedores de internet que bloqueen la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0068",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Responsabilidad jurídica de las webs por alojar contenido sin consentimiento verificado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0069",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prohibir la creación, distribución y comercialización de material pornográfico",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir la pornografía? → sí, prohibirla"
+ },
+ {
+  "id": "pfac-0070",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Endurecer las penas para consumidores de pornografía no consentida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0071",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prohibir a bancos y plataformas de pago procesar compras de pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0072",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prohibir la publicidad que banalice o blanquee la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0073",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Subvencionar la investigación sobre los efectos del consumo de pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0074",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Implantar la educación afectivo-sexual y digital en el currículo escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0075",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Atención sociosanitaria especializada a personas expuestas a la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0076",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Considerar víctimas de violencia sexual a las mujeres explotadas en la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0077",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Programas institucionales sobre los efectos de la pornografía en la salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0078",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Guías familiares para prevenir el consumo de pornografía en menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0079",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Diagnóstico: la gestación subrogada como explotación reproductiva de las mujeres",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0080",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Diagnóstico: más de 1.000 niños al año nacen por gestación subrogada en el extranjero",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0081",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Perseguir la explotación reproductiva y prohibir el registro de bebés comprados",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir la gestación subrogada? → perseguirla y prohibir el registro de bebés nacidos en el extranjero"
+ },
+ {
+  "id": "pfac-0082",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Actuaciones contra la explotación reproductiva",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0083",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Declarar la gestación subrogada delito universal de lesa humanidad",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0084",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Legislar contra las empresas españolas que intermedian en gestación subrogada",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0085",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Acabar con la promoción de la gestación subrogada por asociaciones de compradores",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0086",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Prohibir alterar la filiación y borrar los datos de la madre en el registro",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0087",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Acabar con el anonimato para garantizar el derecho a conocer los orígenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0088",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Campañas sobre la gestación subrogada como violencia para las mujeres",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0089",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Cerrar las webs que ofertan gestación subrogada en terceros países",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0090",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Impedir en espacios públicos eventos que blanqueen la explotación reproductiva",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0091",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Retirar subvenciones a entidades que organicen actos sobre gestación subrogada",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0092",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Apoyar que la gestación subrogada se considere delito a nivel europeo",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada y explotación reproductiva"
+ },
+ {
+  "id": "pfac-0093",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Acabar con el comercio de óvulos eliminando la compensación económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0094",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Convertir el SIRHA en órgano de control y limitar la donación de óvulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0095",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Auditar a la Sociedad Española de Fertilidad y aumentar los controles a las clínicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0096",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Concienciar sobre los riesgos para la salud de la extracción de óvulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0097",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Seguimiento ginecológico de la salud de las proveedoras de óvulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0098",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Trasladar a las clínicas privadas el coste del seguimiento sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0099",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Combatir la publicidad de clínicas que ofrecen compensación por donar gametos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0100",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Prohibir anuncios de clínicas de reproducción asistida en las universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0101",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Incluir contenidos sobre fertilidad y reserva ovárica en secundaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0102",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Rechazo a las leyes transgeneristas por suponer el borrado jurídico de las mujeres",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0103",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Crítica a la ideología transgenerista y a los intereses industriales que la sostienen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0104",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Derogar la ley trans estatal y las autonómicas y prohibir la promoción del transgenerismo",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0105",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Actuaciones para abolir el género como categoría jurídica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0106",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Derogar la Ley 4/2023 y llevar los derechos LGB a una ley integral propia",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0107",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Revisar los formularios públicos para registrar el sexo y excluir la opción «no binario»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0108",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Eliminar los términos que borran a las mujeres de la legislación y la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0109",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Aplicar leyes de violencia y acción positiva solo a mujeres por sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0110",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Desagregar todas las estadísticas por sexo biológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0111",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Diagnóstico diferencial de la disforia de género con tratamiento psicoterapéutico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0112",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Prohibir bloqueadores de la pubertad en menores, hormonas cruzadas y cirugías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0113",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Intervención psicoterapéutica en lugar de terapia afirmativa ante la disforia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0114",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Diagnósticos de disforia sin los indicadores sexistas del DSM-5",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0115",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Acompañamiento e indemnizaciones a personas en destransición, especialmente menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0116",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Cerrar y auditar los servicios de tratamiento de la «identidad de género»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0117",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Eliminar los protocolos educativos sobre el llamado «alumnado trans»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0118",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Impedir la promoción del transgenerismo, especialmente en el ámbito educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0119",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Restablecer la coeducación y la educación sexoafectiva con perspectiva feminista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0120",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Organizar prisiones, centros de acogida, vestuarios y baños según el sexo biológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0121",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Categorías por sexo en el deporte y restitución de premios a mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0122",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Acabar con la censura o cancelación de feministas opuestas al transgenerismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0123",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Retirar subvenciones a entidades activistas del transgenerismo y auditarlas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0124",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Campañas informativas contra los estereotipos sexistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0125",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Diagnóstico: la democracia en riesgo y la aspiración de ampliar los derechos fundamentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0126",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Actualizar el lenguaje de la Constitución y blindar las conquistas sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0127",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "igu-vida",
+   "igu-libertades"
+  ],
+  "titular": "Blindar en la Constitución sexo, laicidad, servicios públicos y aborto; derogar la Ley Mordaza",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   },
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0128",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Concreción de las reformas constitucionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0129",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "igu-vida",
+   "trab-pensiones"
+  ],
+  "titular": "Blindar en la Constitución aborto, sanidad pública, pensiones y derechos ambientales",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0130",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Explicitar en la Constitución que el sexo es una categoría biológica protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0131",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Derecho constitucional de las mujeres a su imagen, sin cosificación ni publicidad sexista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0132",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Derecho constitucional a la integridad de las mujeres: abolir prostitución, pornografía y gestación subrogada",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0133",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Redactar la nueva Constitución con lenguaje no sexista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0134",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar los elementos lesivos de la «Ley mordaza» y no criminalizar la protesta",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0135",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Legislar los derechos digitales: privacidad, neutralidad de la red y desconexión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0136",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Proteger la propia imagen frente a deepfakes generados con IA y castigarlos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0137",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Proteger frente a la discriminación y la violencia tecnológica, especialmente a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0138",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Eliminar las barreras tecnológicas para personas mayores y residentes rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0139",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Crear un Comité de Seguimiento de las resoluciones internacionales de derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0140",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Derogar los delitos contra los sentimientos religiosos del Código Penal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0141",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Prohibir en las escuelas la indumentaria que simbolice la sumisión de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0142",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Compromiso con la verdad, la justicia y la reparación de las víctimas del franquismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0143",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Memoria democrática en el currículo e investigar el Patronato de Protección a la Mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0144",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Actuaciones adicionales en memoria democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0145",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Dotar de recursos la Ley de Memoria Democrática: ADN, exhumaciones e ilegalizar fundaciones franquistas",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0146",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Reconocer la contribución del exilio republicano a las libertades europeas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0147",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Aprobar la Ley sobre Bebés Robados y declarar imprescriptibles estos delitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0148",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Investigar y reparar los abusos del Patronato de Protección a la Mujer (1941-1985)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0149",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Reconocer el papel de las mujeres en la democracia y reparar su represión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0150",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Reconocer a las asociaciones feministas en la resistencia antifranquista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0151",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Reforma integral de la Administración y empleo público estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0152",
+  "subtema": "inst-administracion",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Administración eficaz, sin cita previa obligatoria y con más plantillas estables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0153",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Actuaciones para mejorar la Administración pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0154",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Aprobar la Ley de la Función Pública de la Administración del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0155",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Cartera de servicios básicos del sector público en lenguaje claro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0156",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Difundir, simplificar y completar Mi Carpeta Ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0157",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Atención presencial sin cita previa a un máximo de 30 minutos de cada hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0158",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Plazo máximo legal de 30 días para prestaciones como desempleo o dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0159",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Atención preferente y multicanal para mayores de 65 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0160",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Incrementar las ofertas de empleo público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0161",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Acelerar la estabilización del empleo público temporal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0162",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Limitar las asistencias técnicas como privatizaciones encubiertas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0163",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Mejorar la coordinación entre Administraciones para evitar duplicidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0164",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Unificar el régimen jurídico del empleo público y rejuvenecer plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0165",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Revisar el cumplimiento del protocolo contra el acoso sexual en la AGE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0166",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Plan de Igualdad de la AGE con objetivos, indicadores y plazos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0167",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Elevar al 10 % la reserva de plazas públicas para personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0168",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Eliminar los cupos de empleo público para personas autoidentificadas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0169",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Participación, transparencia e integridad para regenerar la vida pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0170",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Aprobar una Ley Orgánica de Integridad Pública con tolerancia cero a la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0171",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Medidas adicionales contra la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0172",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Decomisar bienes de la corrupción y endurecer los delitos de corrupción y fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0173",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Contratos en tiempo real, regular lobbies, eliminar indultos e inviolabilidad del monarca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0174",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reformar la Ley de Transparencia de 2013",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0175",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Rendición de cuentas y portales de transparencia en todos los poderes públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0176",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Publicar agendas, viajes, bienes y personal eventual de los cargos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0177",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Transparencia sobre asesores y cargos de confianza y sus retribuciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0178",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Auditar la deuda y los beneficiarios de los contratos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0179",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Reforma contra el odio en internet: verificación de identidad y control de algoritmos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0180",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Diagnóstico: el transgenerismo como amenaza a la libertad de orientación sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0181",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Eliminar los obstáculos a la igualdad de las personas LGB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0182",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Combatir la homofobia formando a profesionales públicos ante los delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0183",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Medidas adicionales contra la homofobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0184",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Combatir de forma transversal la homofobia y la homofobia interiorizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0185",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Coordinar las fuerzas de seguridad para detectar delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0186",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Formar a profesionales públicos contra la homofobia y los discursos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0187",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Educación feminista en todos los niveles con referentes LGB en el currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0188",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Financiar programas educativos contra el acoso por orientación sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0189",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Tratar por separado los derechos por orientación sexual y las medidas para personas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0190",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Revisar la normativa para no confundir orientación sexual con identidad de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0191",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Revisar los protocolos de salud ginecológica para no discriminar a las lesbianas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0192",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Financiar estudios sobre la salud ginecológica de las mujeres lesbianas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0193",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Formar a profesionales sanitarios para prevenir terapias de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0194",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Campañas sobre prácticas sexuales de riesgo libres de sesgos homófobos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0195",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Formar al personal de salud pública en chemsex y adicciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0196",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Formularios familiares con la opción de dos mamás o dos papás",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0197",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Agilizar las adopciones y firmar convenios con países sin barreras para familias LGB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0198",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Verificar el reconocimiento de la madre no gestante desde el nacimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0199",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Alianzas con entidades por la igualdad LGB en otros países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0200",
+  "subtema": "ext-politica",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Presión diplomática sobre los países que persiguen la homosexualidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0201",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Política lingüística feminista y refuerzo del castellano y las lenguas cooficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0202",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Implantar la comunicación no sexista en lo público y eliminar la «neolengua queer»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0203",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Actuaciones para la comunicación no sexista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0204",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Evitar el masculino genérico y reconocer el lenguaje feminista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0205",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Protocolos para que los medios informen sobre violencia machista sin revictimizar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0206",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Redactar todas las leyes y normas en lenguaje no sexista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0207",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Eliminar los términos de la «neolengua queer» de la legislación y la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0208",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Proyecto con la RAE para rectificar acepciones misóginas y feminizar profesiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0209",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Instar a la RAE a rechazar el morfema -e como neutro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0210",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Impulsar el castellano en el mundo y apoyar al Instituto Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0211",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Clases de español y lenguas cooficiales para la población emigrada adulta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0212",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Programas de enseñanza de todas las lenguas oficiales en TVE Internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0213",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Impulsar la inteligencia artificial en castellano y lenguas cooficiales mediante el PERTE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0214",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Perspectiva feminista en el PERTE Nueva Economía de la Lengua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0215",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Apoyar la oficialidad del asturiano y el aragonés y las lenguas cooficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0216",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Promover la oficialidad del catalán y el euskera en Francia y Cerdeña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0217",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Apoyar las lenguas cooficiales como vehiculares en la educación",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0218",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Incrementar las ayudas a la traducción de libros en las lenguas del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0219",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Diagnóstico: la migración ordenada como respuesta al reto demográfico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0220",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "La política migratoria como estrategia de Estado a largo plazo, frente a la polarización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0221",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Diagnóstico: la irregularidad prolongada favorece la explotación laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0222",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-regularizacion",
+   "inm-integracion"
+  ],
+  "titular": "Política migratoria ordenada: control de fronteras, vías seguras e integración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0223",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Medidas para ordenar la política migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0224",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Reformar la Ley de Extranjería para reducir la irregularidad prolongada",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0225",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Simplificar y agilizar los procedimientos de residencia y trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0226",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Política migratoria planificada según demografía, mercado laboral y servicios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0227",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Sistema estatal de planificación, alerta temprana y evaluación migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0228",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Vías legales y seguras para migrar que reduzcan la actividad de las mafias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0229",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Respetar los derechos humanos y la protección internacional en la política migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0230",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Política migratoria europea basada en la corresponsabilidad y la solidaridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0231",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Control efectivo de las fronteras con más medios humanos y tecnológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0232",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Inteligencia y alerta temprana ante presión migratoria extraordinaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0233",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Retornos eficaces de quienes no tengan derecho a permanecer en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0234",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Reforzar la lucha contra las redes de tráfico de personas y trata",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0235",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Protección integral de mujeres y niñas migrantes frente a trata, MGF y matrimonios forzados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0236",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Acuerdos con países de origen y tránsito contra la migración irregular y para retornos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0237",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Orientar la cooperación a reducir las causas de la migración forzada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0238",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la Inspección de Trabajo contra la explotación laboral de personas migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0239",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Sistema estatal de emergencia para menores no acompañados en las primeras 72 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0240",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Programas gratuitos de castellano y lenguas oficiales para personas migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0241",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Formación obligatoria en igualdad y contra la violencia machista para la población migrante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0242",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Estrategia Estatal de Integración coordinada con comunidades y entidades locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0243",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Marco común de acceso de migrantes a empleo, educación, sanidad y vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0244",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Igualdad ante la ley con independencia del origen o la nacionalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0245",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Ninguna tradición o creencia religiosa justifica vulnerar derechos de mujeres y niñas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0246",
+  "subtema": "inm-integracion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Participación de organizaciones feministas en las políticas para mujeres migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0247",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Coordinación permanente entre administraciones en la política migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0248",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Evaluar las políticas migratorias con indicadores públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0249",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Priorizar la acogida de quienes huyen de guerras u opresión por sexo",
+  "ejes": [],
+  "nota": ""
+ }
+]

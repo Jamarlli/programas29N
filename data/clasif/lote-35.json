@@ -1,0 +1,2287 @@
+[
+ {
+  "id": "pfac-0429",
+  "subtema": "edu-modelo",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Promover la coeducación como principio transversal del sistema educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0430",
+  "subtema": "edu-modelo",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Revertir el androcentrismo en currículos e incorporar las aportaciones de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0431",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Prohibir toda discriminación y exclusión sexista en los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0432",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Prohibir en los centros escolares la indumentaria símbolo de sumisión de las mujeres",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir en los centros escolares la indumentaria que simboliza sumisión de las mujeres? → sí"
+ },
+ {
+  "id": "pfac-0433",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Protocolos contra la discriminación sexista y el acoso sexual en los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0434",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Garantizar baños y vestuarios separados por sexo en los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0435",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Promover una educación sexoafectiva con perspectiva feminista en todos los niveles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0436",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Formación en coeducación y violencia machista para todos los profesionales de la educación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0437",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación inclusiva con especialistas y recursos para el alumnado con necesidades específicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0438",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Garantizar comedores, bibliotecas y actividades complementarias públicas en la educación obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0439",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Asegurar becas y ayudas suficientes, con atención al alumnado vulnerable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0440",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reducir el abandono educativo temprano, atendiendo a niñas y adolescentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0441",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Garantizar la educación pública de personas adultas y el aprendizaje permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0442",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Reforzar una Formación Profesional pública con oferta suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0443",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Regular las pantallas y la inteligencia artificial en el ámbito educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0444",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Mejorar las condiciones laborales y reducir la burocracia del personal educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0445",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Reducir la temporalidad docente y estabilizar al profesorado interino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0446",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Elaborar un Estatuto de la Función Docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0447",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Formación del profesorado con atención a coeducación e igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0448",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Garantizar una universidad pública suficientemente financiada y accesible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0449",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Incorporar obligatoriamente la perspectiva feminista en la educación superior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0450",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reducir la precariedad del Personal Docente e Investigador universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0451",
+  "subtema": "edu-universidad",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Aprobar el Estatuto de las personas en formación práctica no laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0452",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Dotar de recursos y autonomía a las unidades universitarias de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0453",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Mecanismos con capacidad sancionadora contra el acoso sexual en las universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0454",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Promover la autonomía universitaria y la libertad de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0455",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Favorecer la participación de la comunidad educativa y la conciliación corresponsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0456",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Promover un Pacto de Estado por la Educación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0457",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "El sistema público de pensiones como derecho que debe garantizar el poder adquisitivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0458",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Diagnóstico: pensiones mínimas precarias y brecha de pensiones entre sexos del 31 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0459",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Los cuidados asumidos por las mujeres penalizan sus pensiones; rechazo a recortes y privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0460",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Las pensiones tienen un problema de ingresos, no de gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0461",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Recuperar los 65 años como edad ordinaria de jubilación",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0462",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación a los 60 años en construcción, limpieza, ayuda a domicilio y pesca",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0463",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Elevar las pensiones mínimas y no contributivas al menos hasta el SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0464",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar los topes máximos de las bases de cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0465",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "imp-sociedades",
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Transferencia estructural de los Presupuestos a las pensiones, financiada gravando banca y gran capital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0466",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reforzar el MEI aumentando la aportación empresarial a la hucha de las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0467",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Elevar por ley las pensiones mínimas al 60 % de la mediana de ingresos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0468",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Mantener la revalorización automática de las pensiones con el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0469",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reforzar y aplicar de oficio el complemento de brecha de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0470",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Flexibilizar requisitos de cotización para no penalizar el trabajo reproductivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0471",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Cubrir al 100 % las lagunas de cotización de mujeres por trabajo reproductivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0472",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Crear una unidad de cotización que compute los años de crianza y cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0473",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Los servicios sociales, pilar más débil del bienestar, son para toda la ciudadanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0474",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Diagnóstico: España gasta en protección social por debajo de la media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0475",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Apostar por la gestión directa de los servicios sociales y recursos específicos para mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0476",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Aumentar el gasto en protección social hasta la media de la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0477",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Impulsar una Ley General de Servicios Sociales de ámbito estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0478",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Desarrollar el decreto de entidades del Tercer Sector de Acción Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0479",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Pacto de Estado para consagrar los servicios sociales como derecho fundamental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0480",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Recuperar la gestión pública directa de los servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0481",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Marco estatal y financiación plurianual estable para el tercer sector de acción social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0482",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Políticas sociales centradas en la autonomía y no en el asistencialismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0483",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Mejorar las condiciones laborales y las ratios de las profesiones de servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0484",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Actualizar los mapas de servicios sociales y ordenar competencias autonómicas y locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0485",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Actualizar y ampliar los catálogos de prestaciones y carteras de servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0486",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Crear recursos sociales que atiendan las diferentes necesidades de hombres y mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0487",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Completar el Sistema de Información Estatal de Servicios Sociales con datos abiertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0488",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "La autonomía de las personas con discapacidad y dependencia como derecho universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0489",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Diagnóstico: solo una de cada cuatro personas con discapacidad trabaja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0490",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Barreras, atención temprana universal y capacidad jurídica de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0491",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Doble discriminación de las mujeres con discapacidad y cuidados como responsabilidad colectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0492",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Automatizar subsidios y beneficios fiscales por discapacidad y retribuir a las personas cuidadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0493",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Más fondos para la infancia y favorecer el acogimiento familiar frente al residencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0494",
+  "subtema": "fam-juventud",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-compra"
+  ],
+  "titular": "Plan de emancipación juvenil con empleo estable, vivienda pública y avales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0495",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "san-mental",
+   "fam-juventud"
+  ],
+  "titular": "Exigir el Plan Integral de Salud de la Juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0496",
+  "subtema": "fam-mayores",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Priorizar la asistencia en el hogar y residencias públicas pequeñas para mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0497",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Otras medidas en materia de discapacidad y dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0498",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Subsanar la Ley 4/2026: beneficios fiscales, CUME más allá de 26 años y plazos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0499",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Financiación pública suficiente y finalista del sistema de dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0500",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Revisar los copagos para que nadie quede excluido por motivos económicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0501",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Desvincular el reconocimiento de discapacidad del acceso a ciertos apoyos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0502",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Revisar la valoración de enfermedades infravaloradas, también las que afectan a mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0503",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Garantizar una red pública de ayuda a domicilio con más horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0504",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Priorizar servicios para vivir en casa: viviendas accesibles y con apoyos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0505",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reforzar los centros de día y los recursos comunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0506",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reducir el peso de la prestación por cuidados en el entorno familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0507",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reconocer derechos, respiro y Seguridad Social a las personas cuidadoras no profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0508",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Apoyos específicos a mujeres con discapacidad que también cuidan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0509",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Evitar que la falta de recursos públicos genere servidumbre familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0510",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Catálogo de enfermedades profesionales del sector de la dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0511",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Regular ratios máximos de pacientes por profesional en dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0512",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Ningún convenio del sector de la dependencia por debajo del 110 % del SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0513",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reforzar la formación y la seguridad en ayuda a domicilio y residencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0514",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Limitar la parcialidad involuntaria con un mínimo de 30 horas semanales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0515",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Más inspecciones de trabajo en la ayuda a domicilio frente a abusos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0516",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Inspección y control frente a abusos en residencias públicas y privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0517",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Plan Nacional de Formación Continua Gratuita para el personal cuidador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0518",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Financiar hasta el 100 % la acreditación de competencias del personal sin titulación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0519",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Apoyos para la toma de decisiones respetando la voluntad de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0520",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Garantizar un parque suficiente de viviendas públicas accesibles y con apoyos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0521",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Programas de apoyo para personas que viven solas o sin redes familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0522",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Facilitar la participación en actividades culturales, deportivas y comunitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0523",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar productos de apoyo con sistemas públicos de préstamo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0524",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Atención temprana pública y gratuita ampliada hasta los 8 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0525",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Equipos multidisciplinares suficientes y fin de las listas de espera en atención temprana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0526",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Evitar interrupciones de los apoyos en los cambios de etapa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0527",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar información y apoyo psicológico a las familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0528",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Reforzar el empleo de personas con discapacidad y su cuota de contratación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0529",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar ajustes razonables y adaptación del puesto de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0530",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Itinerarios de formación y empleo que no reproduzcan la segregación laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0531",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Medidas específicas para aumentar el empleo de las mujeres con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0532",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar condiciones laborales dignas en los Centros Especiales de Empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0533",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Reforzar los servicios públicos de empleo y revisar el empleo protegido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0534",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Garantizar las reservas y adaptaciones en el acceso al empleo público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0535",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Facilitar el trabajo autónomo de personas con discapacidad cuando sea elegido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0536",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Prestaciones suficientes para los costes adicionales de la discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0537",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Eliminar incompatibilidades injustificadas entre prestaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0538",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Mejorar la protección económica de personas con discapacidad en la vejez",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0539",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Equipos públicos especializados en deterioro cognitivo y físico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0540",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Atención psicológica pública ante duelo, soledad o pérdida de autonomía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0541",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Atención sanitaria accesible con personal formado en discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0542",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Garantizar cuidados paliativos y la ayuda para morir, salvo por falta de medios materiales",
+  "ejes": [
+   {
+    "eje": "eje-eutanasia",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0543",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Garantizar la intimidad en residencias y combatir las contenciones injustificadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0544",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Sistemas de apoyo a la toma de decisiones según la voluntad de cada persona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0545",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar el derecho efectivo al voto y a la participación política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0546",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Asegurar procesos electorales accesibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0547",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Información política y administrativa en formatos accesibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0548",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Eliminar barreras cognitivas, comunicativas y físicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0549",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Incorporar a las organizaciones de personas con discapacidad al diseño de políticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0550",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Cumplir la accesibilidad universal en edificios, transporte, web e inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0551",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Asegurar el acceso a la cultura, el deporte, la educación y el ocio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0552",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Desarrollar redes comunitarias de apoyo a la participación social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0553",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Incorporar la perspectiva de discapacidad en las políticas contra las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0554",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Formación específica de profesionales sanitarios, sociales, policiales y judiciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0555",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Protocolos y plazas accesibles en casas de acogida para mujeres con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0556",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Perseguir la violencia sexual y la esterilización sin consentimiento de mujeres con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0557",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Protocolos frente a la violencia contra mujeres mayores con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0558",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Propuestas para la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0559",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Destinar el 2,5 % del PIB a protección social de infancia y familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0560",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Ampliar y universalizar los servicios de atención a la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0561",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Crear espacios de ocio, juego y deporte para la infancia en barrios y pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0562",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Elevar la inversión en becas del 0,21 % al 0,44 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0563",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Equidad territorial en la aplicación de las leyes de protección al menor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0564",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Prohibir el desalojo de familias con menores sin vivienda alternativa digna",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0565",
+  "subtema": "inm-asilo",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Más recursos para los centros de menores extranjeros no acompañados y protocolos contra captadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0566",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Facilitar el acogimiento familiar frente al residencial, sobre todo en la primera infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0567",
+  "subtema": "fam-infancia",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Crear un Consejo Audiovisual que proteja el honor y la imagen de los menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0568",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Completar la implantación de la ley de protección infantil frente a la violencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0569",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Propuestas para la juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0570",
+  "subtema": "fam-juventud",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-compra"
+  ],
+  "titular": "Plan de emancipación juvenil con vivienda pública, ayudas directas y avales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0571",
+  "subtema": "fam-juventud",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Programas de empleo juvenil de calidad con perspectiva feminista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0572",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "san-mental",
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Plan Integral de Salud de la Juventud: salud mental, sexual y prevención de adicciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0573",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Transporte gratuito o simbólico para jóvenes en desempleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0574",
+  "subtema": "cultura",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Ampliar el Bono Cultural Joven a la creación y producción cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0575",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Políticas de participación juvenil y apoyo al asociacionismo juvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0576",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Renovar las Casas de la Juventud como espacios participativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0577",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Propuestas para la vejez",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0578",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Pacto de Estado por los derechos de las personas mayores contra el edadismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0579",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Plan nacional de alfabetización digital para personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0580",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Apoyar la Convención Internacional de los Derechos de las Personas Mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0581",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Promocionar prácticas de envejecimiento saludable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0582",
+  "subtema": "fam-mayores",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Estrategias de salud mental para mayores y contra la soledad no deseada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0583",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Plan Nacional Intersectorial de Prevención de Caídas de Personas Mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0584",
+  "subtema": "fam-mayores",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Sustituir las macro-residencias por unidades de convivencia de 15 a 20 personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0585",
+  "subtema": "fam-mayores",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Financiar cohousing público, viviendas tuteladas y complejos intergeneracionales para mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0586",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Adaptar la vivienda, teleasistencia universal y ayuda a domicilio para envejecer en el entorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0587",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Prohibir el desalojo de mayores de 65 años o dependientes sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0588",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Vivienda y transporte como derechos ligados al urbanismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0589",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Urbanismo, vivienda y transporte como política de igualdad, no subordinada al mercado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0590",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "El Estado debe garantizar vivienda digna y urbanismo con perspectiva de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0591",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-especulacion",
+   "vivienda-publica"
+  ],
+  "titular": "Limitar el precio de los alquileres, prórrogas automáticas y limitar el alquiler turístico",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0592",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Propuestas para garantizar el derecho a una vivienda digna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0593",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Elevar el gasto público en vivienda del 0,5 % al 2 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0594",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Plan de Vivienda Social: parque público de alquiler del 3,3 % al 8 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0595",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Programas específicos para erradicar los desahucios por hipoteca",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0596",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Prestaciones para familias vulnerables ante las subidas de tipos de interés",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0597",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Créditos blandos para jóvenes y ayudas al alquiler con precios controlados",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0598",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Ayudas al alquiler para mujeres vulnerables, con prioridad a familias monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0599",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Explorar formas alternativas de tenencia como el cooperativismo en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0600",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-especulacion",
+   "vivienda-derecho"
+  ],
+  "titular": "Reformar la Ley de Vivienda: topes al alquiler, contrato indefinido y gran tenedor",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "mantener-ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0601",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Prohibir a los fondos comprar viviendas y vetar sus desahucios de vulnerables",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0602",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Extender indefinidamente la suspensión de desahucios de familias vulnerables",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0603",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Favorecer fiscalmente la vivienda habitual y gravar la acumulación especulativa y vacía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0604",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reforzar y ampliar el sistema público de avales y garantías del alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0605",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Expropiar a grandes tenedores y recuperar el rescate bancario con viviendas de los bancos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0606",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Diseñar barrios autosuficientes con servicios básicos de salud, educación y cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0607",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Otras propuestas de planificación urbana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0608",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Colaboración entre administraciones en urbanismo, suelo y vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0609",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Usar informes sectoriales para orientar las modificaciones de los PGOU",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0610",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Incentivar Programas de Actuación Urbanística con barrios autosuficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0611",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Entornos urbanos seguros para transitar sin temor a la violencia sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0612",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Ciudades y pueblos transitables para todas las capacidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0613",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "El transporte público como clave de justicia espacial y social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0614",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Transporte público con más frecuencias, accesible, barato y seguro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0615",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Añadir conexiones circulares periféricas y mejorar las radiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0616",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Tarifas asequibles, descuentos y abonos para el transporte público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0617",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Planes de Transporte al Trabajo obligatorios para grandes centros de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0618",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Accesibilidad universal en vehículos y paradas de transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0619",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Botones de emergencia e iluminación en vehículos y paradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0620",
+  "subtema": "igu-violencia",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Protocolos y formación del personal frente a agresiones sexuales en el transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0621",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Paradas de autobús flexibles de noche para mujeres que viajan solas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0622",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Garantizar la movilidad en el medio rural y las periferias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0623",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Fomentar parkings disuasorios en periferias y junto a estaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0624",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Informe anual sobre vivienda, movilidad y autonomía de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0625",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Reforzar los Consorcios de Transportes e integrar tarifas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0626",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Completar la red ferroviaria, recuperar líneas abandonadas y electrificarla al 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0627",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Garantizar la seguridad ferroviaria con formación, mantenimiento y sistemas fiables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0628",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Por un modelo cultural público, accesible y sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0629",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Por una cultura feminista que cuestione los relatos patriarcales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0630",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Apoyar la creación cultural de mujeres y combatir su representación estereotipada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0631",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Otras actuaciones en materia de cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0632",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Financiación pública estable para la cultura y condiciones laborales dignas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0633",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aplicar el decreto de la relación laboral especial de las personas artistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0634",
+  "subtema": "cultura",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Ley de derechos de imagen, voz y propiedad intelectual frente a la IA generativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0635",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Subvenciones y deducciones para salas de música en vivo y pequeños escenarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0636",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Tasa o aportación sobre entradas de macroeventos para financiar la cultura de base",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0637",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Programas de ayudas públicas a jóvenes creadoras y creadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0638",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Red pública suficiente de bibliotecas, museos, archivos y centros culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0639",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reforzar la cultura de proximidad en zonas rurales y pequeños municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0640",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Mejorar las condiciones laborales de las personas trabajadoras de la cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0641",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Financiar el asociacionismo cultural y las iniciativas autogestionadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0642",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Planes de choque para abaratar los precios de taquilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0643",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger el patrimonio histórico, artístico, cultural y lingüístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0644",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Exposiciones itinerantes de los fondos de los Museos Estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0645",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Apoyar la creación del Museo Nacional del Cine",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0646",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger el patrimonio etnográfico e industrial, material e inmaterial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0647",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cooperación entre administraciones para una política cultural coordinada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0648",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Promover la diversidad lingüística y cultural del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0649",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Criterios de igualdad en subvenciones, jurados y premios culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0650",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Becas, ayudas y residencias artísticas para la creación de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0651",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Promover el reconocimiento de las mujeres en todos los ámbitos de la creación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0652",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Recuperar y divulgar las aportaciones culturales de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0653",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Revisar fondos de museos y bibliotecas para corregir la invisibilización de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0654",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Financiar la producción artística de jóvenes talentos, especialmente mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0655",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Combatir la sexualización y cosificación de las mujeres en producciones culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0656",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "cultura",
+   "inst-medios"
+  ],
+  "titular": "Acabar con la influencia del transgenerismo en el sector cultural y los medios públicos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Limitar los contenidos sobre identidades de género en los medios públicos y la cultura subvencionada? → sí"
+ },
+ {
+  "id": "pfac-0657",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Perspectiva feminista en las políticas de patrimonio cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0658",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Integrar la igualdad en las políticas culturales de transformación digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0659",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cooperación institucional y con organizaciones feministas por una cultura crítica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0660",
+  "subtema": "cultura",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Visibilizar las aportaciones de las mujeres en los medios de comunicación públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0661",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Por un deporte público, accesible y seguro que proteja el deporte femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0662",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Oferta adecuada de instalaciones deportivas públicas en barrios desfavorecidos y zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0663",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Otras actuaciones en materia de deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0664",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Becas y ayudas para el acceso universal al deporte base",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0665",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Oferta suficiente de instalaciones deportivas públicas en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0666",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Campañas de fomento del deporte que rompan estereotipos de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0667",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Promover un modelo deportivo basado en la cooperación y no en la rivalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0668",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Datos deportivos desagregados por sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0669",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Proteger las categorías deportivas femeninas basadas en el sexo biológico",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Reservar las categorías deportivas femeninas según el sexo biológico? → sí"
+ },
+ {
+  "id": "pfac-0670",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Facilitar la permanencia de niñas y mujeres en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0671",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Más inspección laboral para erradicar la brecha salarial en el deporte femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0672",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Más cobertura en medios públicos y patrocinio del deporte femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0673",
+  "subtema": "deporte",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Proteger la maternidad de las deportistas para que no penalice su carrera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0674",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Incorporar mujeres a los equipos técnicos y al arbitraje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0675",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Paridad en los órganos de gobierno de las federaciones con fondos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0676",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "La igualdad como criterio transversal de las políticas deportivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0677",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Colaboración entre administraciones y entidades para promover el deporte femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0678",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Evaluación periódica de las políticas de igualdad en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0679",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Instalaciones deportivas seguras y espacios segregados por sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0680",
+  "subtema": "deporte",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Protocolos obligatorios contra el acoso sexual y la violencia machista en las federaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0681",
+  "subtema": "deporte",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Formación obligatoria en prevención de violencias machistas para obtener licencias deportivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0682",
+  "subtema": "deporte",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Sancionar como muy grave el encubrimiento de acoso en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0683",
+  "subtema": "deporte",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Crear una Oficina de Atención Integral a la Mujer Deportista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0684",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Diagnóstico: lentitud, falta de recursos y colapso de la justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0685",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Fallos de gestión judicial y necesidad de un poder judicial independiente sin lawfare",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0686",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: poca paridad judicial y estadísticas alteradas por la autodeterminación del sexo",
+  "ejes": [],
+  "nota": ""
+ }
+]

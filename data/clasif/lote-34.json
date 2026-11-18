@@ -1,0 +1,1663 @@
+[
+ {
+  "id": "pfac-0250",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Agilizar la tramitación de las peticiones de refugio y asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0251",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Entradilla de las medidas adicionales sobre asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0252",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Garantizar una valoración individualizada de las solicitudes sin demoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0253",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Agilizar los procedimientos de asilo y protección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0254",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Mejorar los recursos de acogida para solicitantes de asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0255",
+  "subtema": "inm-asilo",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Proteger a mujeres y niñas solas solicitantes frente a la violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0256",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "El Ingreso Mínimo Vital como derecho de ciudadanía ligado al empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0257",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-natalidad",
+   "fam-dependencia"
+  ],
+  "titular": "Ampliar el IMV, agilizar su tramitación y revisar las ayudas a crianza y dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0258",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Entradilla del desglose de la medida sobre el IMV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0259",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Equiparar el umbral del IMV a la pobreza moderada e incluir a menores irregulares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0260",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Garantizar el IMV a familias en trámite de asilo o protección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0261",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Eliminar las restricciones por edad y los requisitos reforzados para jóvenes en el IMV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0262",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: el modelo económico precariza y descarga el trabajo reproductivo en las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0263",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Hoja de ruta para subordinar la economía a la vida y al bien común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0264",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Crear empresas estatales en sectores estratégicos y regular precios de vivienda y energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0265",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-constitucion",
+   "inst-local"
+  ],
+  "titular": "Reformar el artículo 135 y derogar la Ley de Estabilidad Presupuestaria",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener las reglas de estabilidad presupuestaria (artículo 135, LOEPSF)? → reformarlas o derogarlas"
+ },
+ {
+  "id": "pfac-0266",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Crear una banca pública estatal participada por Estado, comunidades y ayuntamientos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Crear una banca pública? → sí"
+ },
+ {
+  "id": "pfac-0267",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Condicionar las subvenciones a criterios ambientales y de igualdad retributiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0268",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Planificar el desarrollo productivo con soberanía alimentaria y descentralización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0269",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Auditar los presupuestos y endurecer incompatibilidades para prohibir las puertas giratorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0270",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres",
+   "naturaleza"
+  ],
+  "titular": "Impulsar el sector primario: relevo generacional, agricultura ecológica, precios justos y pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0271",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-innovacion",
+   "eco-publico-banca"
+  ],
+  "titular": "Reconstruir el tejido industrial con un escudo público, I+D y descarbonización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0272",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "vivienda-especulacion",
+   "imp-verdes"
+  ],
+  "titular": "Turismo sostenible, ecotasa, moratoria de licencias turísticas y apoyo al comercio de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0273",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Intervención pública contra la precariedad y hacia el Trabajo Garantizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0274",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Reconocer el trabajo reproductivo y dignificar a quienes cuidan profesionalmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0275",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Diagnóstico: las reformas laborales de 2010, 2012 y 2021 precarizaron el empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0276",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Diagnóstico: alto desempleo con brecha entre sexos, 11,02 % de paro femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0277",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "El Trabajo Garantizado: el Estado como empleador de última instancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0278",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Acabar con la discriminación laboral de las mujeres por razón de maternidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0279",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Subir el SMI un 30 % sobre el alquiler medio y ligarlo al IPC",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0280",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada laboral a 30 horas sin reducción salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0281",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Erradicar la discriminación por maternidad y separar la baja por parto del permiso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0282",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Entradilla de las medidas para dignificar el mercado laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0283",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada a 30 horas semanales sin reducción salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0284",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Desvincular los cuidados de la figura femenina mediante reformas integrales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0285",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Socializar el trabajo doméstico y de cuidados con servicios públicos de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0286",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Campañas para redistribuir la carga de los trabajos domésticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0287",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Mejorar los empleos feminizados y eliminar la figura de la interna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0288",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Crear un certificado público obligatorio de igualdad salarial para las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0289",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reforzar pensiones no contributivas para mujeres con trayectorias laborales interrumpidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0290",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Promover el acceso de las mujeres a la industria, la tecnología y la ciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0291",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reducir la temporalidad y el tiempo parcial involuntario en sectores feminizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0292",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Reconocer automáticamente el 33 % de discapacidad por fibromialgia o fatiga crónica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0293",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la Inspección de Trabajo contra la precariedad y la discriminación salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0294",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Indemnización de 45 días por año en el despido improcedente, máximo 42 mensualidades",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0295",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Abonar los salarios de tramitación en el despido improcedente indemnizado",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0296",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Exigir proporcionalidad en las causas de despidos objetivos y colectivos",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0297",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Recuperar la autorización administrativa previa para los ERE de extinción",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0298",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Limitar la modificación unilateral de las condiciones de trabajo por la empresa",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0299",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Restablecer la prevalencia del convenio sectorial y suprimir los descuelgues",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0300",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Cubrir todo puesto estructural con un contrato indefinido ordinario",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0301",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Limitar el contrato fijo discontinuo a actividades realmente discontinuas",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0302",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reducir los periodos de prueba e impedir su uso fraudulento",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0303",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Crear programas públicos de Trabajo Garantizado en dos fases",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Garantizar un empleo público a toda persona desempleada (Trabajo Garantizado)? → sí"
+ },
+ {
+  "id": "pfac-0304",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Reconocer legalmente la maternidad con descanso, acompañamiento y blindaje laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0305",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Reconocer el «acoso maternal» de forma autónoma en el código laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0306",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Planes de la Inspección de Trabajo contra formas latentes de acoso laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0307",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Baja obligatoria de 6 semanas por parto, al 100 %, separada del permiso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0308",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permisos parentales iguales e intransferibles para cuidar en casa el primer año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0309",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Prestación universal por crianza de al menos 1.440 € anuales por hijo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0310",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Duplicar la renta crianza a 2.400 € para madres con rentas bajo 18.000 €",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0311",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Financiar la gratuidad de la educación infantil de 1 a 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0312",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Financiar espacios comunitarios de día para la infancia y quienes la cuidan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0313",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Diagnóstico: desigualdades estructurales y falta de servicios para las mujeres rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0314",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: explotaciones a nombre de varones y feminización del éxodo rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0315",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Hacer obligatoria la cotitularidad de propiedades rurales con trabajo agropecuario conjunto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0316",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Entradilla de las medidas sobre titularidad compartida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0317",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres",
+   "igu-violencia"
+  ],
+  "titular": "Impulsar la titularidad compartida con bonificación del 100 % de cuotas cinco años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0318",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Impulsar la incorporación de las mujeres a la actividad agraria y ganadera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0319",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Reconocer el trabajo de las mujeres rurales y combatir la economía sumergida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0320",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Condicionar las ayudas del FEGA a la paridad en cooperativas, regantes y cofradías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0321",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Incentivar con subvenciones la presencia de consejeras en el sector primario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0322",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Priorizar el asociacionismo de mujeres en los pequeños municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0323",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Presencia paritaria en los Grupos de Acción Local del programa LEADER",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0324",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-transporte-publico",
+   "infra-digital"
+  ],
+  "titular": "Garantizar servicios públicos rurales a un máximo de 30 minutos del domicilio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0325",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "La permanencia en el medio rural como opción de vida digna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0326",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Garantizar una red rural de educación, sanidad, servicios sociales y dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0327",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Impulsar el «país de los 30 minutos» para los servicios esenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0328",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Reforzar las infraestructuras y el transporte público rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0329",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Fomentar la coeducación con perspectiva feminista en las zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0330",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-digital"
+  ],
+  "titular": "Impulsar la inversión pública y privada en conectividad rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0331",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Unidades móviles y Guardia Civil especializada contra la violencia machista rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0332",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: solo el 39,6 % del personal investigador son mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0333",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: el androcentrismo científico invisibiliza las realidades de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0334",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: la doctrina queer desvirtúa la perspectiva de género en la investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0335",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Diagnóstico: abusos a científicas y financiación de la investigación del 0,63 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0336",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Diagnóstico: las tasas de reposición bloquean la carrera científica joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0337",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Apoyar la investigación científica con perspectiva feminista contra los sesgos sexistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0338",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Entradilla de las medidas adicionales sobre ciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0339",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Revisar el sistema de méritos del PDI para corregir sesgos sexistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0340",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Garantizar la libertad de pensamiento y expresión de las científicas feministas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0341",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Revalorizar las áreas feminizadas e incluir la perspectiva feminista en la Oficina C",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0342",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Acercar la financiación de la investigación al 3 % del PIB con contratos indefinidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0343",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Elaborar un Estatuto del Personal Investigador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0344",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Promocionar la investigación en enfermedades olvidadas con prioridad para mujeres y niñas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0345",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Financiación específica para la investigación feminista y su difusión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0346",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Prohibir consorcios con centros de investigación de Israel en el programa Horizon",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0347",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Incluir los estudios feministas como línea prioritaria del Plan Estatal de Investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0348",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Datos desagregados por sexo sin sustituir la variable sexo por identidad de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0349",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Formación obligatoria en perspectiva feminista para evaluar proyectos de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0350",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Protocolos con competencia disciplinaria contra la violencia sexual en la ciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0351",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Reforma tributaria integral para recaudar más y que paguen más quienes más tienen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0352",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Aumentar la progresividad fiscal subiendo o eliminando los topes superiores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0353",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Entradilla de las actuaciones de la reforma fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0354",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Convertir Patrimonio en un impuesto sobre grandes fortunas sin bonificaciones autonómicas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0355",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Fijar tramos y tipos idénticos de IRPF en todas las comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0356",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Horquillas ajustadas en Sucesiones y Donaciones contra la competencia fiscal",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0357",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Añadir tramos superiores al IRPF con tipos más altos",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0358",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Hacer más progresiva la escala de las rentas del capital",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0359",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Elevar los impuestos a la banca por los fondos de sus clientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0360",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Eliminar la deducción de gastos educativos en el IRPF",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0361",
+  "subtema": "imp-irpf",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Eliminar las deducciones por planes de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0362",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Política fiscal y de gasto social orientada a colectivos vulnerables y monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0363",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Mejorar la fiscalidad de autónomos y pymes con incentivos para emprendedoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0364",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Hacer más progresivo el Impuesto sobre Sociedades y revisar sus beneficios fiscales",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0365",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Eliminar la exención de IVA a la educación y la sanidad privadas",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0366",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IBI progresivo según valor catastral, con más carga a inmuebles de lujo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0367",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Gravar las transacciones financieras especulativas, incluidos los derivados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0368",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Redefinir un catálogo consensuado de impuestos medioambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0369",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Compensar a los hogares afectados por los tributos medioambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0370",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Destinar la recaudación ambiental a producir bienes socialmente necesarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0371",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Centrar la inspección de la AEAT en grandes empresas y fortunas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0372",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Reforzar la plantilla de la AEAT hasta prácticamente doblarla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0373",
+  "subtema": "imp-fraude",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Prohibir a exinspectores durante 5 años actividades privadas ligadas a la inspección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0374",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Reforzar la IGAE para controlar el gasto y las subvenciones a grandes empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0375",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Controlar sociedades patrimoniales y entidades usadas para eludir el IRPF",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0376",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Plan de choque contra la economía sumergida y el fraude fiscal y laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0377",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Crear una Base de Datos Fiscales Única entre administraciones tributarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0378",
+  "subtema": "imp-fraude",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Aumentar las penas y los plazos de prescripción de los delitos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0379",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Impulsar acuerdos en la OCDE para acabar con los paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0380",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Acuerdos con entidades financieras y emisoras de tarjetas contra la evasión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0381",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Los servicios públicos como garantía de derechos y de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0382",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Incorporar la perspectiva feminista a los cuatro pilares del bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0383",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Garantizar recursos suficientes a los servicios públicos y revisar la gestión externalizada",
+  "ejes": [],
+  "nota": "SIN ENCAJE: servicios públicos en general (suficiencia y gestión pública frente a externalización)"
+ },
+ {
+  "id": "pfac-0384",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revalorizar las pensiones con el IPC y reforzar el MEI con más aportación empresarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0385",
+  "subtema": "inst-administracion",
+  "otros": [
+   "vivienda-publica",
+   "infra-transporte-publico"
+  ],
+  "titular": "Garantizar la calidad de sanidad, educación, servicios sociales, vivienda y transporte",
+  "ejes": [],
+  "nota": "SIN ENCAJE: servicios públicos en general (suficiencia y gestión pública frente a externalización)"
+ },
+ {
+  "id": "pfac-0386",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "san-sexual-reproductiva",
+   "edu-escuela"
+  ],
+  "titular": "Perspectiva feminista en los servicios públicos: violencia obstétrica y coeducación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0387",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: declive del SNS por recortes, infrafinanciación y privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0388",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Diagnóstico: escasez de personal en Atención Primaria y de enfermería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0389",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Diagnóstico: déficit de más de 4.500 médicos de familia y de psicología clínica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0390",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Diagnóstico: la falta de atención en salud mental y más de 3.800 suicidios anuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0391",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Aumentar el gasto sanitario público hasta el 8 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0392",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Recuperar la sanidad universal previa al RDL 16/2012 para todas las personas residentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0393",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Fortalecer la atención primaria con una carta de servicios homogénea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0394",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Revertir las privatizaciones sanitarias y derogar la Ley 15/1997",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0395",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Justificar y penalizar las derivaciones a la privada hasta llegar a cero",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0396",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Internalizar progresivamente los servicios no clínicos de la sanidad pública",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0397",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Eliminar los copagos del RDL 16/2012 y revisar a la baja los demás",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0398",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Garantizar el acceso a cribados de calidad con resultados rápidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0399",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Vigilar y sancionar las listas de espera de especialidades no justificadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0400",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Facilitar las vacunas del VPH, herpes zóster y neumococo a quien las solicite",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0401",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Programas de salud mental dotados y con perspectiva de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0402",
+  "subtema": "san-mental",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Psicología clínica en todos los centros de primaria sin derivación previa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0403",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Aprobar una Ley Nacional de Prevención del Suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0404",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Reforzar la interoperabilidad de la Historia Clínica Digital del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0405",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Actualizar la Estrategia Nacional de Salud Sexual y Reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0406",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Ley de auditoría salarial en sanidad contra la brecha del 18 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0407",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Cuotas progresivas para la paridad en la alta gestión sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0408",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Garantizar el aborto público en cada provincia y sancionar la objeción solo pública",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0409",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Servicios completos de salud sexual y reproductiva y atención ginecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0410",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Formación feminista obligatoria en obstetricia para prevenir la violencia obstétrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0411",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Certificación IHAN en todos los hospitales del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0412",
+  "subtema": "san-mental",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Cribados de salud mental en el embarazo y el posparto en atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0413",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Protocolos de prevención y sanción de la violencia obstétrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0414",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Financiar la investigación en enfermedades de alta prevalencia en mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0415",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Investigación segregada por sexos y representación equitativa en ensayos clínicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0416",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Incluir la perspectiva feminista y la violencia machista en la formación sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0417",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Estudiar por sexo la prescripción de psicofármacos y penalizar la psiquiatrización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0418",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Analizar cualitativamente los factores que condicionan la salud de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0419",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Formación en salud, sexo y perspectiva feminista para todo el personal del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0420",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Que la AEMPS solo valide fármacos testados con criterio de sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0421",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Estandarizar los cribados de cáncer de mama y cérvix en todo el país",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0422",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Auditar los retrasos diagnósticos y esperas más largas que sufren las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0423",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Programa público de prevención y tratamiento de la osteoporosis en la menopausia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0424",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Una educación pública, laica y coeducativa contra las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0425",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Recuperar las aportaciones de las mujeres en los contenidos educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0426",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Asegurar una educación pública, laica y coeducativa con recursos suficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0427",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Reducir progresivamente las ratios por aula y reforzar las plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0428",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Revisar los conciertos, priorizar la red pública y no financiar centros sexistas",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ }
+]

@@ -1,0 +1,2920 @@
+[
+ {
+  "id": "nex-0004",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Congelar los alquileres mientras dure la emergencia habitacional",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0005",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Mismos derechos en el alquiler de temporada y por habitaciones si es residencia permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0006",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ningún desahucio de una familia vulnerable sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0007",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Fin del régimen fiscal especial de las SOCIMIs en toda España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0008",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Destinar las viviendas de Sareb en Extremadura a alquiler social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0009",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Cesión obligatoria del uso de la vivienda vacía de grandes propietarios para alquiler social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0010",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Protección permanente de toda vivienda protegida construida con dinero público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0011",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Precios de referencia del alquiler por código postal ligados a los ingresos",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0012",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Limitar la compra especulativa y por empresas en zonas tensionadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0013",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Datos públicos sobre la propiedad de los grandes tenedores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0014",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "0 % de impuestos en la compra de la primera vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0015",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Plan Estatal de Vivienda: parque público de alquiler social a precio de coste",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0016",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Plan estatal de rehabilitación de vivienda vacía y en ruina para alquiler social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0017",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Incluir la construcción bioclimática en el Código Técnico de la Edificación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0018",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Recurrir ante el Constitucional las leyes autonómicas que esquiven la Ley de Vivienda",
+  "ejes": [
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "mantener-ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0019",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Las medidas de vivienda son reglas sin coste público y no expropian la propiedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0020",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Ley de Garantía de Empleo estatal ante un paro del 13 % en Extremadura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0021",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Derecho a un empleo de utilidad social para toda persona en paro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0022",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Empleo garantizado con salario mínimo, 30 horas semanales y formación continua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0023",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Funcionamiento del trabajo garantizado: inscripción, proyectos locales y salto al empleo privado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0024",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Trabajos garantizados en cuidados, incendios, rehabilitación y actividades comunitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0025",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Coste neto del trabajo garantizado: 0,79 % del PIB, 13.300 M€",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0026",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Salario mínimo de 1.500 euros en 14 pagas y ligado al IPC",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0027",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Ley de actualización de los salarios con la inflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0028",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Jornada de 32 horas, y de 30 en grandes empresas, sin bajar el sueldo",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0029",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Limitar la jornada partida, con mejor cotización y descanso pagado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0030",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Más negociación colectiva y voz de los trabajadores en las grandes empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0031",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Plan de choque contra los accidentes laborales y reforma de la Ley de Prevención",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0032",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Buzón de denuncias anónimas conectado con la Inspección de Trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0033",
+  "subtema": "trab-jornada",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Jornada de 32 horas en la Administración General del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0034",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cuota cero de autónomos para quien ingrese menos del salario mínimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0035",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Baja médica de autónomos cobrada al 100 % desde el primer día",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0036",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "30 días de vacaciones pagadas para autónomos mediante una prestación de la Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0037",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "El Estado paga el salario del sustituto durante los permisos de nacimiento y cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0038",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Fondo público de anticipo de facturas y reforma de la Ley de Morosidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0039",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Datáfonos sin comisiones abusivas para el pequeño comercio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0040",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ley de Red Pública de Estaciones de Servicio: 212 municipios extremeños sin gasolinera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0041",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Ley y fondo estatal para gasolineras públicas gestionadas por comunidades y ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0042",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Prioridad de las gasolineras públicas para municipios sin gasolinera y zonas agrícolas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0043",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Combustible público a precio de coste más un margen mínimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0044",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Convenios con cooperativas para abrir sus surtidores al público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0045",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Combustible garantizado y a precio justo para el campo mientras se descarboniza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0046",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Gasolineras públicas: 10 a 20 céntimos menos por litro, 250.000 euros por estación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0047",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: la producción industrial extremeña cae un 4 % frente al +2,5 % estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0048",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Cuantificar la deuda histórica del Estado con Extremadura y calendario anual de pago",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0049",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Reclamar la deuda histórica por la vía bilateral Junta-Estado con comisión de seguimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0050",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Financiación autonómica que pese la dispersión, el envejecimiento y la superficie",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0051",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reindustrialización como pago de la deuda: inversión estatal en transformación agraria y energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0052",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reabrir la Ruta de la Plata con partidas y fechas en los Presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0053",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Completar la electrificación y un tren digno que vertebre Extremadura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0054",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Vía doble en los grandes ejes ferroviarios extremeños",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0055",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a la Junta de Extremadura los servicios ferroviarios regionales con financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0056",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudiar trenes de proximidad entre Zafra y Navalmoral de la Mata",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0057",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudiar nuevas líneas Coria-Plasencia, Villanueva-Herrera del Duque y Cáceres-Trujillo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0058",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Más frecuencias en las líneas ferroviarias extremeñas existentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0059",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reabrir líneas y estaciones de tren clausuradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0060",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Tren de Media Distancia y Regional Exprés gratuito dentro de Extremadura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0061",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Independencia energética en 2040 electrificando hogares, industria y transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0062",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Fondo Generacional de la Energía: participación pública del 30 % en renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0063",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Consulta vecinal vinculante para plantas de más de 50 MW",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0064",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Agrivoltaica obligatoria y parques renovables como refugios de biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0065",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Peaje eléctrico a las megaplantas para abaratar la luz donde se genera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0066",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reversión pública de los saltos hidroeléctricos del Tajo y el Guadiana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0067",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reformar la Ley de Minas de 1973 con consulta vecinal vinculante para la megaminería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0068",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Almaraz como nodo de estabilidad de la red, con garantía de empleo comarcal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0069",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Bombeo reversible como almacenamiento energético en la planificación nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0070",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Impuestos de los parques para comunidades energéticas y marco estatal del autoconsumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0071",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Posición extremeña en los planes hidrológicos del Tajo y el Guadiana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0072",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Moratoria a nuevos regadíos superintensivos y freno a usos como los centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0073",
+  "subtema": "agua",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Plan Nacional de Siembra de Agua: acequias, zanjas de infiltración y recuperación del castor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0074",
+  "subtema": "agua",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Recarga de acuíferos y reforestación autóctona de las cabeceras de cuenca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0075",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "No a Mercosur ni a tratados comerciales sin cláusulas espejo",
+  "ejes": [
+   {
+    "eje": "eje-mercosur",
+    "posicion": "rechazar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0076",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plan Nacional de Agricultura Regenerativa: 6 millones de hectáreas ecológicas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0077",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Una PAC para la agricultura familiar, regenerativa y cooperativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0078",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Sello público Ecorregenerativo (ECO+) con valor añadido para el agricultor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0079",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ley de la Cadena Alimentaria más dura: precios dignos en origen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0080",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Seguros agrarios públicos contra el clima y las plagas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0081",
+  "subtema": "rural-agro",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Pago por la captura de carbono en suelos agrarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0082",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Flexibilidades europeas de higiene para pequeños productores y venta directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0083",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Registro público de semillas autóctonas de libre circulación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0084",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Normativa básica contra las macrogranjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0085",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Titularidad compartida de las explotaciones para las mujeres rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0086",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Convertir pinares de repoblación en bosques diversos que frenen grandes incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0087",
+  "subtema": "naturaleza",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Más medios estatales contra incendios, con brigadas activas todo el año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0088",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Ley de Herbivoría: pastoreo de conservación pagado por hectárea en montes públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0089",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Recuperar las vías pecuarias como corredores de vida y trashumancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0090",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "La UME, a reforestar y regenerar suelos degradados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0091",
+  "subtema": "naturaleza",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Consejos biorregionales y Cuerpo Civil de Regeneración con 20.000 empleos al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0092",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Desbloquear los traspasos pendientes y cumplir íntegramente el Estatuto de Autonomía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0093",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Proteger el estremeñu, A Fala y el portugués raiano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0094",
+  "subtema": "inst-local",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Concejo abierto en todos los municipios de menos de 5.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0095",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reformar la ley de Administración Local para recuperar la gestión directa de servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0096",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fondo estatal contra la despoblación: sanidad, transporte, internet y efectivo en cada pueblo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0097",
+  "subtema": "infra-digital",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Banda ancha y móvil en todo el medio rural como servicio universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0098",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Devolver a Extremadura su patrimonio arqueológico y artístico de museos estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0099",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Aplicar la Ley de Memoria Democrática en Extremadura con financiación para exhumaciones",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0100",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Cooperación transfronteriza con Portugal a lo largo de la Raya",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0101",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Apoyo estatal a los Hogares Extremeños y a la memoria de la emigración",
+  "ejes": [],
+  "nota": "SIN ENCAJE: emigración interior y casas regionales"
+ },
+ {
+  "id": "nex-0102",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Limitar el sueldo de diputados y senadores al salario medio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0103",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Fin de los aforamientos de diputados, senadores y cargos autonómicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0104",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "15 años de incompatibilidad para altos cargos contra las puertas giratorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0105",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Auditoría patrimonial de entrada y salida y registro obligatorio de lobbies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0106",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Reforma constitucional para ampliar los referéndums y democracia directa comarcal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0107",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Rebajar las 500.000 firmas exigidas para la Iniciativa Legislativa Popular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0108",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Diagnóstico: 36,6 % de empleo temporal en las administraciones extremeñas frente al 8 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0109",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Suprimir la tasa de reposición y la Ley Montoro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0110",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Más plazas MIR y de especialistas para Extremadura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0111",
+  "subtema": "san-profesionales",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Incentivos estatales para plazas rurales de difícil cobertura en sanidad y educación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0112",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Más inspectores de Trabajo en Extremadura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0113",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Recargos a la vivienda vacía en IRPF y Patrimonio y más margen en IBI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0114",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Más margen municipal en el IAE a multinacionales y tasas a plataformas de reparto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0115",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "IVA reducido en la factura de la luz para el consumo básico",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0116",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Limitar la subcontratación a un solo nivel en los contratos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0117",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Empleo estable como criterio obligatorio de adjudicación de contratos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0118",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Estabilizar el empleo público cumpliendo la directiva y sentencias europeas sobre temporalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0119",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Valorar la cercanía y el tamaño de la empresa en las licitaciones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0120",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Alimentos de cercanía en comedores de colegios, hospitales y residencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0121",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permisos de nacimiento de un año, iguales e intransferibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0122",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permiso adicional por cesárea o parto con complicaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0123",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Derecho a adaptar y reducir la jornada con hijos de 0 a 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0124",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Más derechos de conciliación para familias con personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0125",
+  "subtema": "fam-juventud",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Estatuto del Becario: prácticas 100 % remuneradas en FP y universidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0126",
+  "subtema": "fam-juventud",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Aprobar un Estatuto del Trabajador Joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0127",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Bono Alquiler Joven y Aval Joven al alcance de cualquier joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0128",
+  "subtema": "fam-juventud",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Becas Retorno para que los jóvenes que emigraron puedan volver",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0129",
+  "subtema": "fam-juventud",
+  "otros": [
+   "inst-gobierno-parlamento"
+  ],
+  "titular": "Alto Comisionado independiente para las Generaciones Futuras que evalúe cada ley",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0130",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Salud mental en el Seguro Escolar en todos los niveles educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0131",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensión mínima por encima de 1.200 euros y rebaja de la edad de jubilación",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0132",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Integrar las Clases Pasivas en el régimen general respetando las pensiones reconocidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0133",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Más financiación estatal de la Dependencia y de plazas residenciales públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0134",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Diagnóstico: hasta 14 días de espera para cita en atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0135",
+  "subtema": "san-listas-espera",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Tiempos máximos garantizados: cita en atención primaria en 48 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0136",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Terapia psicológica gratuita hasta los 35 años en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0137",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Gafas y lentes en la cartera de servicios de la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0138",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Plan Nacional de Salud Mental y Prevención del Suicidio con financiación autonómica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0139",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Derogar la Ley 15/1997 que abrió la gestión privada de la sanidad pública",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0140",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley estatal contra el cáncer con diagnóstico y tratamiento iguales en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0141",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Aborto garantizado en los centros públicos",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0142",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Pacto de Estado por la Educación con marco estable e inversión mínima blindada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0143",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Bajar las ratios de alumnos por aula",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0144",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Fondos estatales para aulas climatizadas y patios verdes en centros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0145",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Nuevo sistema estatal de acceso a la docencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0146",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Estabilizar al profesorado interino con más de tres años de servicio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0147",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Títulos de FP adaptados a la realidad productiva de cada territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0148",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Becas solo por renta, sin requisitos de nota añadidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0149",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Plazas en los másteres habilitantes para todos los titulados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0150",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Becas de doctorado de cuatro años en todas las áreas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0151",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Homologación salarial y estabilización del personal docente e investigador universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0152",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Llevar a una ley los requisitos para crear universidades privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0153",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Blindar los derechos LGTBI y reforzar el Pacto contra la Violencia de Género",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "nex-0154",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Más protección frente al racismo y los delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0155",
+  "subtema": "seg-penal",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Delito específico para la pornografía infantil con IA y los deepfakes sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0156",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Accesibilidad universal, también en los procesos electorales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0157",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Asistencia jurídica gratuita más accesible para personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0158",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cooperación al desarrollo del 0,7 % de la RNB con senda plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0159",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Acción humanitaria basada en el Derecho Internacional Humanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0160",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Defensa del espacio cívico y apoyo a ONGD y organizaciones sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0161",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reforzar la cooperación descentralizada de comunidades y ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "nex-0162",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Embargo de armas y sanciones ante violaciones de derechos humanos, empezando por Palestina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un Senado útil para llevar a Madrid los problemas de La Gomera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0002",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Que vivir en La Gomera no sea un privilegio ni obligue a marcharse",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0003",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Plan estatal de vivienda para islas no capitalinas con financiación para La Gomera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0004",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ampliar el alquiler público permanente con construcción, compra y rehabilitación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0005",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Rehabilitación, bolsa pública de alquiler y prioridad residencial frente al alquiler turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0006",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "La distancia no puede limitar el acceso a derechos y oportunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0007",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Revisar las compensaciones al transporte aéreo y marítimo por la doble insularidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0008",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Frecuencias mínimas de transporte y ayudas a pacientes que se desplacen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0009",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Financiar los servicios esenciales según su coste real, no solo por habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0010",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "El REF debe beneficiar a la mayoría social y no a unos pocos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0011",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Un REF que llegue a autónomos, familias y jóvenes y compense la doble insularidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0012",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Recuperar las medianías y asegurar futuro a la actividad productiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0013",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fondo estatal plurianual contra el abandono rural insular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0014",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyo a la agricultura familiar, cesión de fincas abandonadas y compra pública local",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0015",
+  "subtema": "trab-empleo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Empleo local en bancales, gestión forestal, senderos y patrimonio natural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0016",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Conectividad digital en todos los núcleos y apoyo al teletrabajo y emprendimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0017",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Una transición ecológica justa, participativa y al servicio de la población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0018",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Finalizar las obras hidráulicas pendientes y conectar los depósitos de la isla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0019",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Plan estatal de garantía hídrica para las islas menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0020",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Autoconsumo y comunidades energéticas, priorizando cubiertas frente a suelo agrario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0021",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Financiación estable para prevención de incendios, monteverde y adaptación del litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0022",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Envejecer con dignidad y poder vivir en el propio pueblo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0023",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Más financiación estatal de dependencia, ayuda a domicilio y centros de día",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0024",
+  "subtema": "san-listas-espera",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Atención especializada periódica, transporte a consultas y lucha contra la soledad no deseada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0025",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Empleo y FP en cuidados, y arraigo y retorno de jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0026",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Compromisos de trabajo parlamentario por La Gomera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0027",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ponencia en el Senado sobre las necesidades de las islas menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0028",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Defender partidas estatales para La Gomera y preguntar por compromisos pendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0029",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Oficina territorial presencial y balance público de actividad cada seis meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "ixlg-0030",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Consultar a la ciudadanía y a los municipios y rendir cuentas públicamente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Lo que se exigirá con representación: del olvido al futuro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0002",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-inversion-territorial"
+  ],
+  "titular": "Programa específico para Soria con un Fondo de Inversiones como el de Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0003",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Ayudas al funcionamiento al máximo legal permitido por la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0004",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Internet de alta velocidad y cobertura móvil en todos los municipios sorianos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0005",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-autonomos-pymes",
+   "rural-agro"
+  ],
+  "titular": "Ayudas directas para que jóvenes asuman negocios y explotaciones de quienes se jubilan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0006",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-compra",
+   "rural-despoblacion"
+  ],
+  "titular": "Programa nacional de construcción de viviendas en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0007",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyo a agricultores y ganaderos con menos burocracia y relevo generacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0008",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aprovechar los recursos forestales y compensar a los municipios por sus montes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0009",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Finalizar la A-11 hasta Valladolid y la A-15 hasta Navarra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0010",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Autovías Soria-Logroño, Soria-Calamocha y Soria-Segovia y variante de San Esteban",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0011",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Modernizar integralmente la circunvalación SO-20",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0012",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Electrificación y doble vía Soria-Torralba y más frecuencias a Madrid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0013",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reabrir la línea ferroviaria Soria-Castejón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0014",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estación de AVE en el sur de Soria en la línea Madrid-Zaragoza-Barcelona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0015",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Impulsar el corredor ferroviario Valladolid-Aranda-Soria-Zaragoza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0016",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Inversión en redes eléctricas y compensaciones a Soria por la energía generada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0017",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Servicios públicos esenciales a un máximo de 30 minutos de cualquier residencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0018",
+  "subtema": "edu-becas",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Becas especiales de movilidad y ayudas al retorno de jóvenes titulados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0019",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Autovía Soria-Burgos para llegar al hospital de referencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0020",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Puerto seco en el Alto Jalón para corregir el déficit logístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0021",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Incentivos a la inversión y atracción de nómadas digitales en zonas despobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0022",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Cuota de autónomos reducida de 80 euros en zonas escasamente pobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "soria-0023",
+  "subtema": "inst-administracion",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Organismos estatales en Soria: Academia de Bomberos Forestales y unidad de la UME",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0001",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Limpieza política integral contra el clientelismo y la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0002",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Diagnóstico: el enchufismo y los cargos de carnet degradan la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0003",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Reducir un 90 % los asesores: máximo 4 por ministro y 20 en Presidencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0004",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Asesores temporales del Presidente solo mediante proceso abierto y meritocrático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0005",
+  "subtema": "inst-administracion",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Asesores sin chóferes ni prebendas y publicación de sus nombres y salarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0006",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Todos los cargos de la Administración y empresas públicas por mérito y capacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0007",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Tipificar el delito de enchufismo e inhabilitar a quien nombre sin mérito",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0008",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Libre designación solo para el cargo de Secretario de Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0009",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Inspección en 6 meses de los cargos de libre designación existentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0010",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Prohibir que cargos públicos paguen un porcentaje de su sueldo a su partido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0011",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Diagnóstico: la corrupción cuesta el 4,5 % del PIB, unos 60.000 M€ al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0012",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Crear juzgados especializados en corrupción con medios suficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0013",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Revisar las reglas procesales para agilizar los juicios por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0014",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Órgano judicial que revise cada dos meses los procedimientos impugnados por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0015",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Juzgar la corrupción autonómica en el tribunal de una comunidad adyacente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0016",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Dar a la IGAE los mismos medios tecnológicos que la Agencia Tributaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0017",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Pluses de productividad para los funcionarios de la IGAE por resultados de control",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0018",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Interventores con independencia presupuestaria y auditoría en tiempo real del gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0019",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Interventor General del Estado con mandato de seis años, irrevocable y no renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0020",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Doblar los recursos de la Fiscalía Anticorrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0021",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Oficina Anticorrupción preventiva con sanciones de hasta el 10 % del negocio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0022",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Financiar la lucha anticorrupción con el 100 % de lo recuperado a los corruptos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0023",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Responsabilidad penal del cargo público que no denuncie la corrupción conocida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0024",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Control de toda la contratación pública con IA, incluidos los contratos menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0025",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Responsabilidad civil subsidiaria de los partidos por la corrupción de sus dirigentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0026",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Suspender la financiación pública de partidos con dirigentes investigados por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0027",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Imprescriptibilidad de los delitos de corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0028",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Inhabilitación de por vida para los políticos condenados por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0029",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Diagnóstico: el reparto partidista de puestos hunde la confianza en las instituciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0030",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Vocales judiciales del CGPJ elegidos por los jueces, sin asociaciones judiciales",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0031",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Fiscal General elegido por el Gobierno de una terna del Congreso por 3/5",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0032",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Nombramientos abiertos en organismos independientes por 3/5 y sorteo si hay bloqueo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0033",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Prohibir nombrar en organismos independientes a quien haya sido político en 10 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0034",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Diagnóstico: más de 250.000 cargos aforados en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0035",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Eliminar de inmediato los aforamientos no previstos en la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0036",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reforma constitucional para suprimir el aforamiento de diputados y senadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0037",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Diagnóstico: el 75 % cree que los partidos ignoran a la ciudadanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0038",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Diputados y senadores obligados a reunirse con ciudadanos cada dos semanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0039",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Asamblea anual por sorteo «Cara a Cara con la Ciudadanía» con el Presidente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0040",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Asambleas Ciudadanas por sorteo activables con el 1 % del censo y referéndum consultivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0041",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Diputados y senadores sin sueldo cuando falten a plenos y comisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0042",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Suspender el sueldo del Gobierno si no presenta los Presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0043",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Cese del Gobierno tras más de un año sin presentar presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0044",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Evaluación pública de eficacia, impacto y coste de los programas de gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0045",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Balance anual verificable del cumplimiento de objetivos del Gobierno ante el Parlamento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0046",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Portal de Evaluación con objetivos, gasto y resultados de cada Ministerio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0047",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Diagnóstico: el 95 % quiere un código ético obligatorio para los cargos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0048",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Código ético obligatorio: conflictos de interés, puertas giratorias y no mentir al Parlamento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0049",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ampliar la Ley de Conflictos de Interés a los requisitos de la OCDE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0050",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Comisión Ética y Experto Independiente para vigilar el código ético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0051",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Dos mandatos como máximo en los cargos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0052",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Límite legal de dos mandatos u ocho años en un mismo cargo público",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Limitar los mandatos de los cargos públicos? → sí, dos mandatos u ocho años"
+ },
+ {
+  "id": "d21-0053",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Diagnóstico: el 94 % quiere cambiar el sistema electoral y sus listas cerradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0054",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Reformar la Ley Electoral con listas desbloqueadas y abiertas",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Listas electorales abiertas o desbloqueadas? → sí"
+ },
+ {
+  "id": "d21-0055",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Un Estado facilitador que avise, pague de oficio y ayude a tener hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0056",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Prioridades: vivienda, Administración a un clic, Estado proactivo e impuestos justos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0057",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: la vivienda absorbe hasta el 100 % de los ingresos juveniles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0058",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Plan de vivienda en dos fases: choque inmediato y Plan Nacional de Barrios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0059",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Pacto de Reconciliación del Alquiler: limitar precios temporalmente y proteger a propietarios",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0060",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Reasignar 10.000 millones de fondos europeos a un fondo soberano de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0061",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Cero impuestos en la compra de vivienda habitual para menores de 35 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0062",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Plan Nacional de Barrios a 10 años para construir vivienda asequible protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0063",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Hoja de ruta: movilizar los pisos vacíos y construir los barrios que faltan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0064",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Objetivo de la fase 1: movilizar de inmediato toda la vivienda existente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0065",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Limitación temporal de alquileres en zonas tensionadas con el índice SERPAVI",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0066",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-alquiler",
+   "seg-penal"
+  ],
+  "titular": "Juzgados de arrendamientos con resolución en 90 días y fin a la inquiokupación",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0067",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Garantía pública del cobro del alquiler cuando el inquilino sea vulnerable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0068",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Regular el alquiler por habitaciones en la LAU y perseguir falsos contratos temporales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0069",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Fondo Público Soberano de Vivienda con 10.000 M€ de fondos europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0070",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Eliminar IVA, ITP y AJD en la vivienda habitual de menores de 35",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0071",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Vivienda habitual: ITP al 2 %, AJD cero e IVA al 4 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0072",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Bonificaciones en IRPF e IBI a propietarios que alquilen a precio asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0073",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Rehabilitación de viviendas a cambio de usufructo temporal para alquiler asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0074",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Recargo mínimo del 10 % a la compra de vivienda por no residentes extracomunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0075",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "IVA del 10 % a los alquileres turísticos de corta estancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0076",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Objetivo de la fase 2: construir a escala industrial la vivienda asequible necesaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0077",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Colaboración público-privada en suelo público con derecho de superficie a 75 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0078",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Barrios completos y demanda pública estable para industrializar la construcción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0079",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IVA del 4 % para construir o rehabilitar vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0080",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Subrogar a la comunidad autónoma la competencia urbanística del ayuntamiento que bloquee",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0081",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Licencias de obra mayor en 30 días y oficinas autonómicas de urbanismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0082",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Suprimir la licencia para obras menores sustituyéndola por declaración responsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0083",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ley Urgente de Desbloqueo Urbanístico y reforma de la Ley del Suelo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0084",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Obligar a liberar el suelo público retenido e incentivar el suelo privado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0085",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Portal Nacional de Trazabilidad Urbanística con canal de denuncia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0086",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Diagnóstico: la burocracia cuesta a las familias más de 4.000 € al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0087",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Autopista Digital en una legislatura: todos los trámites desde el móvil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0088",
+  "subtema": "inst-administracion",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Ley de Interoperabilidad con estándares comunes para todas las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0089",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Administración proactiva que gestione de oficio los derechos con garantías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0090",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Cumplir el principio de «una sola vez» en la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0091",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Atención presencial sin cita obligatoria y Red de Asistencia Digital en bibliotecas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0092",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Compensación económica automática al ciudadano cuando la Administración incumpla plazos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0093",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Agencia Nacional de Ciberseguridad Independiente que unifique INCIBE, CCN y CNPIC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0094",
+  "subtema": "seg-ciberseguridad",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Repositorio Nacional de Ciberseguridad Abierta y software público con licencias abiertas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0095",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Registro en tiempo real de quién accede a los datos de cada ciudadano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0096",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Medios técnicos de ciberseguridad compartidos para todas las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0097",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Diagnóstico: más de la mitad de hogares con derecho al IMV no lo pide",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0098",
+  "subtema": "inst-administracion",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Ley de Administración Proactiva: prestaciones y deducciones concedidas de oficio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0099",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Red de Alerta Social para tramitar de oficio el IMV y el CAPI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0100",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Plataforma de ayudas ante catástrofes con pagos en un máximo de 72 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0101",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "infra-inversion-territorial"
+  ],
+  "titular": "Unidad estatal de apoyo técnico a ayuntamientos para la reconstrucción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0102",
+  "subtema": "inst-administracion",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Equipos tecnológicos públicos propios y compra pública innovadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0103",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Registro público de algoritmos, código abierto y revisión humana de toda denegación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0104",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Sin subir ni bajar impuestos: un sistema progresivo, transparente y sencillo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0105",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Recibo del Contribuyente: desglose anual de lo pagado y su destino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0106",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "La renta en un clic: Hacienda prepara y presenta las declaraciones sencillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0107",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Derecho al error: corrección guiada sin sanción cuando no haya mala fe",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0108",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Actualizar por ley cada año los tramos y mínimos del IRPF según el IPC",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0109",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Las ganancias de activos de menos de un año tributarán como el trabajo",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0110",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Hacienda comprobará con IA los incentivos a startups e I+D en un mes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0111",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Concentrar la inspección en el gran fraude, no en el Bizum",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0112",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Beneficios fiscales con evaluación y caducidad, e impuestos especiales equiparados a la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0113",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Cambios tributarios solo el 1 de enero, anunciados con seis meses y sin retroactividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0114",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Diagnóstico: más de un millón de páginas de regulación al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0115",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Auditoría de Barreras para derogar en 12 meses normas y trámites injustificados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0116",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Simplificación por sectores económicos con participación de empresas y autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0117",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Panel digital público que mida mes a mes la desburocratización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0118",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Validez en toda España de licencias y títulos aprobados en una comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0119",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Prohibir repetir trámites o pagar tasas duplicadas para operar en otras regiones",
+  "ejes": [],
+  "nota": ""
+ }
+]

@@ -34,7 +34,7 @@ Todo el texto de los partidos es literal: se cita, no se parafrasea. Cada extrac
 ## Capabilities and Constraints
 
 - **Ruta de navegación:** 17 bloques → 111 subtemas → extractos. Hay 40 ejes de contraste con posiciones enfrentadas, y cada extracto puede marcar posición en uno o varios.
-- **Datos actuales:** 7.268 extractos, unas 404.000 palabras, en 20 programas. Por defecto se comparan PP, PSOE, Vox y Frente Amplio; el resto se añade desde «Añadir partidos».
+- **Datos actuales:** 10.206 extractos, unas 561.000 palabras, en 27 programas. Por defecto se comparan PP, PSOE, Vox y Frente Amplio; el resto se añade desde «Añadir partidos».
 - **Extensible:** añadir partidos no debe obligar a tocar la interfaz. La lista de partidos sale de los datos.
 - **Neutralidad:**
   - todos los partidos se tratan igual en orden, tamaño y peso visual;

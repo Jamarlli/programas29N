@@ -1,0 +1,1698 @@
+[
+ {
+  "eje": "eje-violencia-genero",
+  "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarlas o sustituirlas"
+   },
+   {
+    "id": "mantener-reforzar",
+    "nombre": "Mantenerlas o reforzarlas"
+   }
+  ],
+  "n": 135,
+  "palabras": 7542,
+  "candidatos": [
+   {
+    "id": "pfac-0006",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la violencia machista como violencia estructural del patriarcado",
+    "marca_actual": [],
+    "texto": "La violencia machista es la manifestación más extrema de desigualdad y de la opresión ejercida por los hombres contra las mujeres por el hecho de serlo. Sus raíces se sustentan en el patriarcado, sistema histórico de organización social, jurídico, económico y simbólico, basado en la subordinación de las mujeres respecto a los hombres.\n\nLa violencia machista se ejerce mediante relaciones de poder y control donde los hombres ocupan una posición de privilegio a través del dominio de las mujeres y sus vidas. Hablamos de un hecho estructural y, por tanto, político y cultural, cuyo impacto sobre las mujeres y sobre sus hijas e hijos es devastador y requiere una respuesta conjunta de toda la sociedad y de las instituciones públicas.\n\nEn el PFAC luchamos por desmantelar las estructuras que permiten, reproducen y legitiman estas violencias: la justicia patriarcal, la subordinación económica, las múltiples formas de explotación de las mujeres, la impunidad de los agresores, la impunidad de los poderes públicos, la impunidad del Estado, la pornificación de la sociedad que banaliza y promueve la violencia sexual, la ausencia de formación feminista y la escasez de recursos destinados a la educación, prevención y a dar respuesta a la violencia."
+   },
+   {
+    "id": "pfac-0007",
+    "partido": "pfac",
+    "titular": "Denuncia de la violencia machista en todas sus formas",
+    "marca_actual": [],
+    "texto": "Denunciamos esta violencia en todas sus formas: física, psicológica, sexual, simbólica, económica, obstétrica, institucional, digital y vicaria. Todas ellas son expresiones del dominio de los hombres sobre las mujeres y sus vidas.\n\nEl PFAC considera que la lucha contra la violencia machista requiere:"
+   },
+   {
+    "id": "pfac-0008",
+    "partido": "pfac",
+    "titular": "Erradicar la violencia machista con recursos, formación y coeducación",
+    "marca_actual": [],
+    "texto": "- MEDIDA 1. **ERRADICAR LA VIOLENCIA MACHISTA**: Garantizar un compromiso real para acabar con la violencia machista en todas sus formas, con recursos suficientes y máximo protección a las víctimas y a sus hijas e hijos, formación contra las prácticas machistas de judicatura y policía y coeducación real para prevenirla desde la escuela, a partir de las siguientes actuaciones:"
+   },
+   {
+    "id": "pfac-0009",
+    "partido": "pfac",
+    "titular": "Tipificar la misoginia como delito de odio en el Código Penal",
+    "marca_actual": [],
+    "texto": "1. Tipificar como delito de odio en el Código Penal la misoginia. Al igual que lo están la homofobia y el racismo."
+   },
+   {
+    "id": "pfac-0010",
+    "partido": "pfac",
+    "titular": "Sustituir en las leyes «violencia de género» por «violencia machista»",
+    "marca_actual": [],
+    "texto": "2. Sustituir en las leyes el término “violencia de género” por “violencia machista”, término más adecuado para definir el contexto."
+   },
+   {
+    "id": "pfac-0011",
+    "partido": "pfac",
+    "titular": "Ampliar la definición de violencia de la LIVG a nuevas formas, incluidos los deepfakes",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "3. Ampliar la definición de violencia recogida en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género (LIVG) para incorporar las nuevas formas de violencia machista como las violencias económica, obstétrica, institucional y digital, sin olvidar el uso de la IA para generar « _deepfakes_ », suplantación de identidad y acosos automatizados en redes sociales. Además, ampliar la definición de violencia machista para perseguir y proteger a las mujeres con independencia de la relación que exista entre la víctima y el agresor."
+   },
+   {
+    "id": "pfac-0012",
+    "partido": "pfac",
+    "titular": "Armonizar las definiciones de violencia machista en todas las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "4. Tomar medidas legislativas que armonicen las definiciones de violencia machista en todas las Comunidades Autónomas del Estado español."
+   },
+   {
+    "id": "pfac-0013",
+    "partido": "pfac",
+    "titular": "Evaluar de forma sistemática e independiente la aplicación de la LIVG",
+    "marca_actual": [],
+    "texto": "5. Evaluar, de forma sistemática e independiente y a partir de indicadores predefinidos, la eficacia y aplicación de la LIVG en colaboración con las CCAA y con el asesoramiento de expertas en violencia, tanto de instituciones como de asociaciones feministas."
+   },
+   {
+    "id": "pfac-0014",
+    "partido": "pfac",
+    "titular": "Recuperar y endurecer las penas de la ley de libertad sexual",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "6. Modificar la Ley 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual para recuperar las penas anteriores a la entrada en vigor de dicha Ley e incrementar las que correspondan, como acción disuasoria de la comisión de delitos de mayor frecuencia o emergentes, como los delitos de sumisión química o la grabación de violaciones y posterior difusión. Revisar las eximentes que puedan tener un componente androcéntrico: arrepentimiento, realización de cursos, alcoholismo, dilaciones indebidas, etc."
+   },
+   {
+    "id": "pfac-0015",
+    "partido": "pfac",
+    "titular": "Equiparar a las víctimas de violencia sexual con las de violencia machista",
+    "marca_actual": [],
+    "texto": "7. Lograr la equiparación de las víctimas de violencia sexual como víctimas de violencia machista. De esta manera podrán acceder a una atención integral tal y como recoge la LIVG."
+   },
+   {
+    "id": "pfac-0016",
+    "partido": "pfac",
+    "titular": "Impulsar la ley de violencia vicaria y una Ley Integral contra la violencia machista",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "8. Impulsar el Proyecto de Ley Orgánica de medidas en materia de violencia vicaria, actualmente en tramitación parlamentaria, mientras se aprueba la Ley Integral contra todas las formas de violencia machista que deberá integrar sus contenidos."
+   },
+   {
+    "id": "pfac-0017",
+    "partido": "pfac",
+    "titular": "Tipificar en el Código Penal la violencia económica de género",
+    "marca_actual": [],
+    "texto": "9. Modificar el Código Penal vigente para tipificar de forma específica la violencia económica de género, bajo las siguientes directrices y consideraciones técnicas:\n - Crear un tipo penal específico que sancione las acciones destinadas a limitar la capacidad financiera de las mujeres (control coactivo del dinero, apropiación sistemática de ingresos, generación de deudas no consentidas o fraudulentas, y prohibición o boicot al acceso y permanencia en el empleo.\n - Agravar las penas del delito de impago de pensiones alimenticias cuando dicha omisión se utilice de forma deliberada como un instrumento de dominación, control o violencia psicológica, atendiendo especialmente a la situación de vulnerabilidad en la que quedan las mujeres y las personas menores a su cargo.\n - Establecer un régimen de intereses de demora agravado para las responsabilidades civiles derivadas de estos impagos instrumentales, garantizando la reparación integral del daño mediante la cuantificación del perjuicio patrimonial, el daño moral y las secuelas psicológicas ocasionadas a las víctimas."
+   },
+   {
+    "id": "pfac-0019",
+    "partido": "pfac",
+    "titular": "Reconocer como víctimas a mujeres afectadas por el cambio registral de sexo del agresor",
+    "marca_actual": [],
+    "texto": "11. Reconocer la condición de víctima de violencia machista a las mujeres que, debido al cambio de la mención registral del sexo de sus agresores al amparo de la legislación estatal en materia trans, hayan visto imposibilitado su acceso a los recursos y medidas de protección establecidos en la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género."
+   },
+   {
+    "id": "pfac-0020",
+    "partido": "pfac",
+    "titular": "Plan integral contra la violencia machista ejercida por menores",
+    "marca_actual": [],
+    "texto": "12. Elaborar un Plan integral de actuación contra la violencia machista ejercida por menores, ante el crecimiento exponencial de agresiones sexuales cometidas por estos."
+   },
+   {
+    "id": "pfac-0021",
+    "partido": "pfac",
+    "titular": "Incluir la violencia machista en la formación de profesionales de sanidad, educación y justicia",
+    "marca_actual": [],
+    "texto": "13. Incluir la formación en prevención y respuesta a la violencia machista en la educación formal de los y las profesionales de sanidad, educación, justicia, servicios sociales y cuerpos y fuerzas de seguridad, entre otros."
+   },
+   {
+    "id": "pfac-0022",
+    "partido": "pfac",
+    "titular": "Exigir cualificación en violencia machista a los profesionales de servicios especializados",
+    "marca_actual": [],
+    "texto": "14. Exigir la cualificación obligatoria en estudios de violencia machista para los y las profesionales de los servicios especializados en la prevención, detección y respuesta a la violencia machista, con especial atención al personal que quiera trabajar en los Juzgados de Violencia y en la Asistencia Jurídica Gratuita del turno de oficio."
+   },
+   {
+    "id": "pfac-0023",
+    "partido": "pfac",
+    "titular": "Eliminar los juicios rápidos y las conformidades en casos de violencia machista",
+    "marca_actual": [],
+    "texto": "15. Reformar el procedimiento judicial tanto penal como administrativo: eliminar juicios rápidos y las conformidades que eliminan cualquier intento de apelación ante lo que se resuelve, por la desprotección que suponen para las mujeres."
+   },
+   {
+    "id": "pfac-0024",
+    "partido": "pfac",
+    "titular": "Escuchar a los menores en los procesos y suspender medidas paternofiliales",
+    "marca_actual": [],
+    "texto": "16. Incluir la escucha activa de los y las menores en los procesos, teniendo en cuenta el grado de afectación de su salud física, psicológica o sexual ante la violencia machista sufrida o presenciada para agravar las penas y para la suspensión de las medidas paternofiliales e incluso de la patria potestad. Para ello, se llevará a cabo una revisión de la práctica judicial, en cuanto a las medidas civiles a adoptar, para garantizar el bien superior de las y los menores y eliminar cualquier intento de violencia vicaria."
+   },
+   {
+    "id": "pfac-0025",
+    "partido": "pfac",
+    "titular": "Eliminar la coordinación de parentalidad y el Síndrome de Alienación Parental",
+    "marca_actual": [],
+    "texto": "17. Eliminar de forma absoluta y efectiva el uso de estrategias judiciales y psicosociales como la coordinación de parentalidad y el uso del Síndrome de Alienación Parental (SAP). Para ello, se contará con un Protocolo sancionador que sea aplicable tanto para profesionales como para instituciones."
+   },
+   {
+    "id": "pfac-0026",
+    "partido": "pfac",
+    "titular": "Extender hasta los 26 años los recursos para hijos e hijas de mujeres asesinadas",
+    "marca_actual": [],
+    "texto": "18. Extender hasta los 26 años el acceso a recursos socioeconómicos como víctimas directas de la violencia machista a las hijas e hijos de las mujeres asesinadas."
+   },
+   {
+    "id": "pfac-0027",
+    "partido": "pfac",
+    "titular": "Revisar protocolos judiciales para evitar la revictimización de las mujeres",
+    "marca_actual": [],
+    "texto": "19. Aumentar los esfuerzos en el ámbito judicial para prevenir la violencia institucional contra las mujeres, revisando protocolos y procedimientos para evitar su revictimización."
+   },
+   {
+    "id": "pfac-0028",
+    "partido": "pfac",
+    "titular": "Acabar con la saturación de los Juzgados de violencia de género",
+    "marca_actual": [],
+    "texto": "20. Acabar con la saturación en los Juzgados de violencia de género y con la falta de medios materiales, lo que ralentiza la aplicación de medidas cautelares o resoluciones y desprotege a las víctimas."
+   },
+   {
+    "id": "pfac-0029",
+    "partido": "pfac",
+    "titular": "Reformar integralmente el Sistema VioGén mediante una auditoría y más recursos",
+    "marca_actual": [],
+    "texto": "21. Reformar integralmente el Sistema VioGén mediante una auditoría exhaustiva en colaboración con mujeres expertas y asociaciones especializadas en violencia machista, con el fin de garantizar que el Estado ofrezca la máxima protección y acompañamiento, sin escatimar medios ni recursos, a las mujeres que han conseguido dar el paso de acogerse a su protección. Para lograrlo, se implementarán las siguientes actuaciones:\n - Actualizar las herramientas de evaluación, incluyendo los indicadores, niveles de riesgo, encuestas y algoritmos de asignación, incorporando nuevas tecnologías para una mayor precisión.\n - Optimizar de forma prioritaria el funcionamiento y la eficacia de los dispositivos telemáticos (pulseras de control de agresor/víctima).\n - Perfeccionar los protocolos de seguimiento y la coordinación tanto entre administraciones como entre las diferentes fuerzas y cuerpos de seguridad.\n - Incrementar los recursos humanos, el personal policial especializado y los servicios de atención y protección disponibles las 24 horas.\n - Sistemática de oficio: Reforzar las actuaciones de oficio para no hacer recaer toda la carga del proceso sobre la víctima.\n - Personalización: Ampliar las medidas de protección mediante el desarrollo de planes de seguridad personalizados y adaptados a las necesidades de cada mujer afectada."
+   },
+   {
+    "id": "pfac-0030",
+    "partido": "pfac",
+    "titular": "Gestión pública, sin externalizaciones, de los servicios a víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "22. Revertir las privatizaciones para que los servicios de crisis, de acogida, de atención y de protección sean de gestión pública, sin externalizaciones que los convierta en actividades lucrativas para el sector privado, acabando con los recortes y cierres en los recursos de ayuda a las víctimas de violencia machista, camuflados como «reorganizaciones geográficas y operativas»."
+   },
+   {
+    "id": "pfac-0031",
+    "partido": "pfac",
+    "titular": "Incluir todos los feminicidios en las cifras oficiales",
+    "marca_actual": [],
+    "texto": "23. Incluir en las cifras oficiales todos los feminicidios, con independencia de la relación entre la mujer y el asesino."
+   },
+   {
+    "id": "pfac-0032",
+    "partido": "pfac",
+    "titular": "Extender automáticamente las órdenes de protección a toda la Unión Europea",
+    "marca_actual": [],
+    "texto": "24. Conseguir que una Orden de Protección dictada en España se extienda de forma automática y directa a todo el territorio de la Unión Europea, garantizando así el derecho de las mujeres víctimas a la libertad de movimiento, sin que sus derechos de protección sean puestos en riesgo o vulnerados."
+   },
+   {
+    "id": "pfac-0033",
+    "partido": "pfac",
+    "titular": "Perseguir los matrimonios forzados y la mutilación genital femenina",
+    "marca_actual": [],
+    "texto": "25. Perseguir de manera efectiva los matrimonios forzados de mujeres y niñas, así como la mutilación genital femenina (MGF) que se producen en nuestro país; o en el extranjero por personas residentes en nuestro país."
+   },
+   {
+    "id": "pfac-0034",
+    "partido": "pfac",
+    "titular": "Destinar íntegramente los fondos del Pacto de Estado a la violencia machista",
+    "marca_actual": [],
+    "texto": "26. Destinar los fondos del Pacto de Estado contra la Violencia Machista íntegramente a la lucha contra la violencia machista ejercida sobre las mujeres por razón de su sexo. Persiguiendo penalmente, en su caso, a las personas o entidades responsables del desvío de estos fondos"
+   },
+   {
+    "id": "pfac-0035",
+    "partido": "pfac",
+    "titular": "Atención especializada a la violencia contra mujeres mayores, rurales, inmigrantes y discapacitadas",
+    "marca_actual": [],
+    "texto": "27. Atender, de manera especializada e individualizada, las violencias específicas que sufren las mujeres mayores, las jóvenes, las que viven en entornos rurales, las inmigrantes y las discapacitadas, por ser los colectivos más vulnerables e invisibilizados."
+   },
+   {
+    "id": "pfac-0036",
+    "partido": "pfac",
+    "titular": "Reforzar la responsabilidad patrimonial del Estado cuando falla la protección a las víctimas",
+    "marca_actual": [],
+    "texto": "28. Reforzar los mecanismos de responsabilidad patrimonial del Estado para hacer efectivo el derecho de las víctimas de violencia machista y sus familiares a ser indemnizados cuando —por mal funcionamiento de la justicia, error judicial o falta de diligencia debida en la protección— no previene una agresión o un asesinato a pesar de existir denuncias previas, de conformidad con el artículo 106.2 de la Constitución."
+   },
+   {
+    "id": "pfac-0037",
+    "partido": "pfac",
+    "titular": "Campañas sobre el carácter estructural de las violencias hacia las mujeres",
+    "marca_actual": [],
+    "texto": "29. Realizar campañas que hagan pedagogía, expliquen y conciencien a la ciudadanía sobre las violencias hacia las mujeres y su carácter estructural."
+   },
+   {
+    "id": "pfac-0038",
+    "partido": "pfac",
+    "titular": "Perseguir el negacionismo de la violencia machista y los bulos",
+    "marca_actual": [],
+    "texto": "30. Perseguir, denunciar y tomar medidas para eliminar el negacionismo de la violencia machista, los bulos y falsas noticias, las estadísticas manipuladas y la divulgación de datos carentes de base científica en medios de comunicación y redes sociales."
+   },
+   {
+    "id": "pfac-0039",
+    "partido": "pfac",
+    "titular": "Promover el rechazo social a la minimización de comportamientos ofensivos cotidianos",
+    "marca_actual": [],
+    "texto": "31. Promover el rechazo social activo a la minimización de comportamientos ofensivos cotidianos y el apoyo público de los derechos y la seguridad de las mujeres."
+   },
+   {
+    "id": "pfac-0040",
+    "partido": "pfac",
+    "titular": "Programas de prevención del ciberacoso y la violencia machista online",
+    "marca_actual": [],
+    "texto": "32. Fomentar la creación de programas de concienciación y prevención del ciberacoso y la violencia machista online, incluyendo estrategias integrales que eduquen, sobre todo a la población más joven, en el respeto, la empatía y la seguridad en redes sociales, informando, de las consecuencias, a corto y largo plazo, del «sexting» consentido (envío voluntario de mensajes, fotografías o videos con contenido sexual o erótico a través de teléfonos móviles y dispositivos electrónicos)."
+   },
+   {
+    "id": "pfac-0041",
+    "partido": "pfac",
+    "titular": "Guías para docentes y familias ante el «sexting» no consentido",
+    "marca_actual": [],
+    "texto": "33. Elaborar guías claras para que el personal docente y las familias sepan cómo intervenir ante casos de «sexting» no consentido."
+   },
+   {
+    "id": "pfac-0042",
+    "partido": "pfac",
+    "titular": "Fomentar la implantación de «puntos violeta» en comercios, empresas y organismos",
+    "marca_actual": [],
+    "texto": "34. Fomentar la implantación de «puntos violeta» para transformar cualquier espacio (comercios, empresas, entidades y organismos públicos) en lugares seguros y de apoyo, con información y guías de actuación para la prevención y denuncia de violencias machistas."
+   },
+   {
+    "id": "pfac-0043",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la prostitución como violencia sexual institucionalizada",
+    "marca_actual": [],
+    "texto": "La prostitución es violencia sexual socialmente institucionalizada, una de las formas más extremas de violencia contra mujeres, niñas y niños y una escuela de desigualdad entre hombres y mujeres. Es una institución fundacional del patriarcado que históricamente reproduce la opresión y la subordinación sexual de las mujeres, la esclavitud sexual.\n\nEspaña es el país con mayor demanda de prostitución a nivel europeo: se estima que al menos un 32% de los hombres mayores de 16 años han pagado, alguna vez en la vida, para abusar sexualmente de mujeres en contexto de prostitución (CIS, 2009).\n\nEn enero de 2025, el Estado español dio un paso clave, para normalizar la explotación sexual y caminar hacia su regulación como un negocio más, al hacer oficial su reconocimiento como actividad económica, incluyéndola en la Clasificación Nacional de Actividades Económicas (CNAE). Además, en el cálculo del Producto Interior Bruto (PIB) español está incorporada la estimación de ingresos de la actividad prostitucional. Desde 2014, el Instituto Nacional de Estadística calcula que la industria prostitucional supone para España el 0,35 % del PIB, es decir, entre 4.000 y 6.000 millones de euros anuales."
+   },
+   {
+    "id": "pfac-0044",
+    "partido": "pfac",
+    "titular": "Diagnóstico: OnlyFans como nueva forma de prostitución y de captación",
+    "marca_actual": [],
+    "texto": "En los últimos años, sobre todo tras el confinamiento por el COVID, se ha extendido una nueva forma de prostitución online en páginas web como _OnlyFans_ , en las que no solamente se vende material pornográfico, sino que las mujeres y menores de edad lo graban de manera personalizada. De hecho, muchas de estas mujeres están en realidad explotadas por proxenetas, que son quienes gestionan sus canales, cuando no son directamente víctimas de trata. Y no solo eso, estas páginas web son además una forma de captación para la prostitución «convencional», ya que muchas de estas mujeres terminan siendo explotadas en encuentros con los prostituidores.\n\nSon múltiples las estrategias de captación de chicas jóvenes como objetos de consumo sexual y de chicos jóvenes como consumidores, promovidas por los discursos que banalizan la violencia sexual de la pornografía y la prostitución a través de la industria del entretenimiento, los medios de comunicación e incluso en el ámbito educativo. Como consecuencia de esto, las adolescentes españolas, de incluso 12 años, consideran _OnlyFans_ como una salida profesional atractiva, apelando a su agencia sexual y los beneficios económicos y minimizando el impacto de esta práctica a lo largo de la vida."
+   },
+   {
+    "id": "pfac-0045",
+    "partido": "pfac",
+    "titular": "La abolición del sistema prostitucional como prioridad estructural",
+    "marca_actual": [],
+    "texto": "La difusión, a través de la nueva pornografía en línea, de contenidos cada vez más violentos, en los que se normaliza y erotiza la violencia sexual más extrema, está teniendo un impacto importante en el contexto de la prostitución, ya que los prostituidores exigen a las mujeres prostituidas llevar a cabo las prácticas que consumen en la pornografía.\n\nPor otro lado, el elevado consumo de pornografía entre adolescentes está provocando la normalización, entre jóvenes de edades cada vez más tempranas, no solo de la violencia en las relaciones sexuales, sino también de la prostitución.\n\nUn estado democrático y de derecho no puede tolerar la explotación sexual de las mujeres y niñas sino, por el contrario, promover el respeto a su dignidad humana. La abolición del Sistema Prostitucional es una prioridad estructural en la agenda del PFAC y por ello defendemos:"
+   },
+   {
+    "id": "pfac-0046",
+    "partido": "pfac",
+    "titular": "Aprobar con urgencia la Ley Orgánica para la Abolición del Sistema Prostitucional",
+    "marca_actual": [],
+    "texto": "- MEDIDA 2. **ABOLIR LA PROSTITUCIÓN**: Aprobar con urgencia la Ley Orgánica para la Abolición del Sistema Prostitucional (LOASP), para poner fin a la explotación sexual de las mujeres prostituidas y garantizar su derecho a la reparación integral incluyendo protección y ayudas dignas, y que persiga y penalice a proxenetas, puteros y demás cooperadores necesarios."
+   },
+   {
+    "id": "pfac-0047",
+    "partido": "pfac",
+    "titular": "Contenido de la LOASP: reparación a las víctimas y sanción a proxenetas y prostituidores",
+    "marca_actual": [],
+    "texto": "1. Aprobar con urgencia la LOASP, supone:\n - Reconocer la prostitución como una forma extrema de violencia contra las mujeres y una violación de los derechos humanos, considerando a las mujeres que están en situación de prostitución o lo hayan estado como víctimas de violencia sexual.\n - Garantizar a las mujeres en situación de prostitución y a las supervivientes del sistema prostitucional el derecho a la reparación integral, asistencia jurídica gratuita, atención psicológica, inserción socio-laboral y recursos económicos (como rentas mínimas o ayudas de asilo y residencia).\n - Aplicar medidas de sensibilización, prevención y formación del personal funcionario de educación, sanidad y sistema judicial.\n - Acabar con la impunidad, desmantelando la industria de la explotación sexual, prohibiendo y persiguiendo todas las formas de proxenetismo, incluida la tercería locativa.\n - Desactivar la demanda de prostitución sancionando y penalizando a los prostituidores."
+   },
+   {
+    "id": "pfac-0049",
+    "partido": "pfac",
+    "titular": "Considerar víctimas de violencia machista a las mujeres del sistema prostitucional",
+    "marca_actual": [],
+    "texto": "2. Hasta la aprobación de la LOASP, considerar a todas las mujeres que están o han estado dentro del sistema prostitucional como víctimas de violencia machista, garantizando su acceso a todos los recursos sociales establecidos por la ley en este caso. Es decir, las mujeres y su descendencia tendrán garantizado el acceso a la atención integral y a los mismos derechos que cualquier otra víctima de violencia machista como recoge la LIVG."
+   },
+   {
+    "id": "pfac-0050",
+    "partido": "pfac",
+    "titular": "Programas de trabajo garantizado para mujeres que han estado en la prostitución",
+    "marca_actual": [],
+    "texto": "3. Promover y financiar programas de trabajo garantizado para facilitar la inserción sociolaboral de las mujeres que están o han estado dentro del sistema prostitucional."
+   },
+   {
+    "id": "pfac-0051",
+    "partido": "pfac",
+    "titular": "Suprimir la prostitución del cálculo del PIB y de la CNAE",
+    "marca_actual": [],
+    "texto": "4. Suprimir del cálculo del PIB la estimación de los ingresos por prostitución y que desaparezcan de la CNAE todas las actividades relativas a “servicios sexuales” y otras actividades análogas (“citas”, “servicios de acompañantes”, “saunas”, “masajes” ...)."
+   },
+   {
+    "id": "pfac-0052",
+    "partido": "pfac",
+    "titular": "Ordenanzas abolicionistas que penalicen a puteros y proxenetas, no a las mujeres",
+    "marca_actual": [],
+    "texto": "5. Eliminar de las normativas municipales la penalización de las mujeres en situación de prostitución y promover ordenanzas abolicionistas que penalicen a puteros y proxenetas."
+   },
+   {
+    "id": "pfac-0053",
+    "partido": "pfac",
+    "titular": "Eximir a las víctimas de trata de denunciar para evitar su expulsión",
+    "marca_actual": [],
+    "texto": "6. Modificar el artículo 59.1 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social para eliminar la obligación de las víctimas de trata de denunciar o de cooperar y colaborar con las autoridades en el proceso contra las redes de trata para poder quedar exentas de responsabilidad administrativa y no ser expulsadas, garantizando su acceso a la nacionalidad española."
+   },
+   {
+    "id": "pfac-0054",
+    "partido": "pfac",
+    "titular": "Facilitar regularización y nacionalidad a mujeres que salen de la prostitución",
+    "marca_actual": [],
+    "texto": "7. Facilitar a las mujeres que consiguen salir del sistema prostitucional la regularización de su situación y la obtención de la nacionalidad española."
+   },
+   {
+    "id": "pfac-0055",
+    "partido": "pfac",
+    "titular": "Denegar subvenciones a entidades que blanqueen la explotación sexual, incluida la pornografía",
+    "marca_actual": [],
+    "texto": "8. Denegar subvenciones a cualquier entidad pública, social o privada que promueva o blanquee cualquier ámbito que suponga la explotación sexual de las mujeres, incluida la pornografía."
+   },
+   {
+    "id": "pfac-0056",
+    "partido": "pfac",
+    "titular": "Perseguir y penalizar la llamada asistencia sexual",
+    "marca_actual": [],
+    "texto": "9. Perseguir y penalizar a las organizaciones que se lucran con la llamada asistencia sexual y a quienes hacen uso de ella."
+   },
+   {
+    "id": "pfac-0057",
+    "partido": "pfac",
+    "titular": "Garantizar el retorno asistido a mujeres en prostitución que lo soliciten",
+    "marca_actual": [],
+    "texto": "10. Garantizar a las mujeres en situación de prostitución, si así lo solicitaran, el derecho al retorno asistido y seguro a sus países de origen."
+   },
+   {
+    "id": "pfac-0058",
+    "partido": "pfac",
+    "titular": "Programas autonómicos de apoyo integral a mujeres en prostitución y trata",
+    "marca_actual": [],
+    "texto": "11. Proponer y fomentar la implantación autonómica de programas de apoyo integral, alojamiento de emergencia, asesoramiento jurídico e itinerarios de inserción para mujeres en contextos de prostitución y trata."
+   },
+   {
+    "id": "pfac-0059",
+    "partido": "pfac",
+    "titular": "Difundir los canales de emergencia policiales para mujeres prostituidas",
+    "marca_actual": [],
+    "texto": "12. Difundir los canales de emergencia de la Policía Nacional y de la Guardia Civil para luchar contra la violencia machista ejercida sobre mujeres prostituidas."
+   },
+   {
+    "id": "pfac-0060",
+    "partido": "pfac",
+    "titular": "Prohibir y perseguir plataformas como OnlyFans que captan para pornografía y prostitución",
+    "marca_actual": [],
+    "texto": "13. Prohibir y perseguir la actividad impune de las plataformas como OnlyFans dedicadas a la captación de niñas y mujeres para la industria pornográfica y la prostitución."
+   },
+   {
+    "id": "pfac-0061",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la violencia contra las mujeres en la nueva pornografía en línea",
+    "marca_actual": [],
+    "texto": "El desarrollo las tecnologías digitales en las últimas décadas, ha impulsado la producción de un número casi ilimitado de material sexualmente explícito, denominada «nueva pornografía en línea», al que las personas acceden de forma gratuita y anónima.\n\nDurante el año 2025, _PornHub_ , una de las páginas pornográficas con mayor popularidad a nivel mundial, registró un promedio aproximado de 120 millones de visitas diarias y España se consolidó dentro del Top 10 de los países con mayor tráfico en _PornHub_ a nivel mundial.\n\nLos actos de violencia explícita y de violencia simbólica son casi omnipresentes en la pornografía _mainstream_ . El análisis del contenido pornográfico más visionado en línea muestra una pornografía centrada en el placer masculino, que representa a la mujer como un objeto sexual, despersonalizado, fragmentado y al servicio de los deseos de los hombres. La humillación, el abuso y la coerción hacia las mujeres son frecuentes en la pornografía. Los comportamientos agresivos son erotizados, mediante imágenes de mujeres que ceden y responden con muestras de placer a la coerción masculina.\n\nLa exposición a la pornografía no solo promueve actitudes y valores sexistas contrarios a la igualdad entre mujeres y hombres, sino que modela el comportamiento sexual."
+   },
+   {
+    "id": "pfac-0062",
+    "partido": "pfac",
+    "titular": "Diagnóstico: el consumo de pornografía aumenta la violencia sexual y afecta a menores",
+    "marca_actual": [],
+    "texto": "Actualmente, existe evidencia empírica de que el consumo de pornografía en hombres incrementa la probabilidad de que ejerzan tanto violencia sexual como otros tipos de violencia dentro y fuera de la pareja. Por otra parte, las mujeres que consumen pornografía tienen un mayor riesgo de victimización sexual por medio de la aceptación de prácticas sexuales coercitivas.\n\nEl impacto del consumo de pornografía tiene consecuencias nefastas para el conjunto de la población, pero éste es alarmante entre los y las menores en un contexto donde las leyes educativas actuales —Ley Orgánica 3/2020, de 29 de diciembre— promueven la educación afectivo-sexual transversal, pero no garantizan el acceso universal a ella.\n\nEste hecho, sumado a la falta de control del acceso a la pornografía digital, así como el uso universalizado de teléfonos móviles inteligentes desde edades muy tempranas, promueve que los y las menores se expongan a la pornografía, sustituyendo a la educación sexual.\n\nEn consecuencia, el PFAC considera la pornografía prostitución filmada y, en base a ello, propone:"
+   },
+   {
+    "id": "pfac-0063",
+    "partido": "pfac",
+    "titular": "Impedir el acceso de menores a la pornografía y prohibir contenidos degradantes",
+    "marca_actual": [],
+    "texto": "- MEDIDA 3. ABOLIR LA PORNOGRAFÍA DEGRADANTE Y VIOLENTA CONTRA LAS MUJERES: Poner en marcha -con carácter urgente- todas las medidas necesarias para impedir el acceso de menores a la pornografía, principal causa del aumento de la violencia sexual, mientras se avanza en la prohibición de contenidos degradantes y violentos contra mujeres e infancia."
+   },
+   {
+    "id": "pfac-0064",
+    "partido": "pfac",
+    "titular": "Medidas para abolir la pornografía",
+    "marca_actual": [],
+    "texto": "Para conseguirlo, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0065",
+    "partido": "pfac",
+    "titular": "Inspeccionar y prohibir plataformas que distribuyen pornografía violenta o degradante",
+    "marca_actual": [],
+    "texto": "1. Inspeccionar y, en su caso, prohibir, las plataformas de vídeos y redes sociales que se lucran con la distribución de contenido pornográfico violento o degradante hacia las mujeres."
+   },
+   {
+    "id": "pfac-0068",
+    "partido": "pfac",
+    "titular": "Responsabilidad jurídica de las webs por alojar contenido sin consentimiento verificado",
+    "marca_actual": [],
+    "texto": "4. Exigir responsabilidades jurídicas estrictas a las páginas web por alojar contenido sin consentimiento explícito verificado, facilitando que las víctimas puedan demandar a los sitios de distribución."
+   },
+   {
+    "id": "pfac-0069",
+    "partido": "pfac",
+    "titular": "Prohibir la creación, distribución y comercialización de material pornográfico",
+    "marca_actual": [],
+    "texto": "5. Prohibir la creación, distribución y comercialización de material pornográfico, persiguiendo legalmente a las empresas del sector bajo normativas contra la explotación o el proxenetismo."
+   },
+   {
+    "id": "pfac-0070",
+    "partido": "pfac",
+    "titular": "Endurecer las penas para consumidores de pornografía no consentida",
+    "marca_actual": [],
+    "texto": "6. Endurecer las penas para los consumidores de cualquier modalidad de pornografía no consentida, grabaciones de abusos o contenidos que vulneren los derechos humanos."
+   },
+   {
+    "id": "pfac-0071",
+    "partido": "pfac",
+    "titular": "Prohibir a bancos y plataformas de pago procesar compras de pornografía",
+    "marca_actual": [],
+    "texto": "7. Prohibir a las entidades bancarias y plataformas de pago (como tarjetas de crédito o pasarelas de pago electrónico) procesar transacciones destinadas a la compra de contenidos pornográficos."
+   },
+   {
+    "id": "pfac-0072",
+    "partido": "pfac",
+    "titular": "Prohibir la publicidad que banalice o blanquee la pornografía",
+    "marca_actual": [],
+    "texto": "8. Prohibir la promoción y la publicidad de material que banalice o blanquee la producción de pornografía."
+   },
+   {
+    "id": "pfac-0073",
+    "partido": "pfac",
+    "titular": "Subvencionar la investigación sobre los efectos del consumo de pornografía",
+    "marca_actual": [],
+    "texto": "9. Subvencionar la investigación científica sobre efectos del consumo de pornografía (adicción, percepción de la sexualidad, violencia, desigualdad de género)."
+   },
+   {
+    "id": "pfac-0076",
+    "partido": "pfac",
+    "titular": "Considerar víctimas de violencia sexual a las mujeres explotadas en la pornografía",
+    "marca_actual": [],
+    "texto": "12. Considerar víctimas de violencia sexual a todas las mujeres que están o han estado sexualmente explotadas para la producción de contenido pornográfico, garantizando su acceso a todos los recursos sociales establecidos por la ley en este caso."
+   },
+   {
+    "id": "pfac-0106",
+    "partido": "pfac",
+    "titular": "Derogar la Ley 4/2023 y llevar los derechos LGB a una ley integral propia",
+    "marca_actual": [],
+    "texto": "1. Eliminar del marco normativo de nuestro país toda la infiltración transgenerista que, al utilizar términos anticientíficos, subjetivos e indemostrables —como ‘identidad de género’ o ‘identidad sexual’—, pretende sustituir al sexo como categoría jurídica, vulnerando la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. En especial:\n - Derogar la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI y trasladar la protección y los derechos de las personas LGB a una ley integral que regule de manera específica y efectiva los derechos vinculados a la orientación sexual.\n - Derogar las leyes trans autonómicas, así como otras normativas y protocolos autonómicos y estatales que incluyen postulados transgeneristas.\n - Revisar y reformar el resto del corpus legislativo aprobado en los últimos años para eliminar la intrusión transgenerista en su articulado."
+   },
+   {
+    "id": "pfac-0109",
+    "partido": "pfac",
+    "titular": "Aplicar leyes de violencia y acción positiva solo a mujeres por sexo",
+    "marca_actual": [],
+    "texto": "4. Asegurar que las leyes concebidas para proteger a las mujeres de la violencia estructural se apliquen de forma exclusiva a estas en base a su sexo, sin que quepa extenderla a las personas que hayan hecho uso de la ficción jurídica del sexo registral. Igualmente debe procederse con la acción positiva establecida para corregir la desigualdad estructural por razón de su sexo y que, por ello, solo cabe aplicar a las mujeres."
+   },
+   {
+    "id": "pfac-0132",
+    "partido": "pfac",
+    "titular": "Derecho constitucional a la integridad de las mujeres: abolir prostitución, pornografía y gestación subrogada",
+    "marca_actual": [],
+    "texto": "4. Incluir el derecho a la integridad de las mujeres, aboliendo toda forma de mercantilización, incluidas la prostitución, la pornografía y la gestación subrogada. Ninguna parte del cuerpo de una mujer puede ser objeto de compraventa."
+   },
+   {
+    "id": "pfac-0165",
+    "partido": "pfac",
+    "titular": "Revisar el cumplimiento del protocolo contra el acoso sexual en la AGE",
+    "marca_actual": [],
+    "texto": "12. Revisar el cumplimiento del Protocolo de actuación frente al acoso sexual y acoso por razón de sexo en el ámbito de la Administración General del Estado (AGE) y de sus organismos públicos aprobado en 2024."
+   },
+   {
+    "id": "pfac-0179",
+    "partido": "pfac",
+    "titular": "Reforma contra el odio en internet: verificación de identidad y control de algoritmos",
+    "marca_actual": [],
+    "texto": "8. Realizar una reforma legal integral para frenar la impunidad, la desinformación y los discursos misóginos, negacionistas de la violencia machista y otros delitos de odio en internet, garantizando que el entorno digital se rija por los mismos principios de responsabilidad que el espacio público. Esta reforma deberá asegurar:\n - La identificación responsable, exigiendo sistemas de verificación de identidad vinculados a los perfiles en redes sociales para acabar con el anonimato que ampara el acoso, la misoginia y la difusión intencionada de bulos.\n - La transparencia económica y de datos, obligando a los medios digitales y canales de gran difusión a declarar públicamente sus fuentes de financiación y a publicar el origen de sus datos.\n - El control de algoritmos, impulsando auditorías y mecanismos de denuncia frente a las malas prácticas algorítmicas que priorizan el odio y la polarización para maximizar el beneficio.\n - El refuerzo legal contra el odio, ampliando y endureciendo el marco jurídico para sancionar con eficacia los discursos de odio y la violencia machista ejercida o amplificada a través de plataformas digitales."
+   },
+   {
+    "id": "pfac-0205",
+    "partido": "pfac",
+    "titular": "Protocolos para que los medios informen sobre violencia machista sin revictimizar",
+    "marca_actual": [],
+    "texto": "2. Implementar protocolos para que los medios de comunicación públicos y privados utilicen un lenguaje adecuado en la redacción de noticias relacionadas con la violencia machista, evitando la minimización de los actos del agresor y la revictimización de las mujeres víctimas."
+   },
+   {
+    "id": "pfac-0234",
+    "partido": "pfac",
+    "titular": "Reforzar la lucha contra las redes de tráfico de personas y trata",
+    "marca_actual": [],
+    "texto": "11. Reforzar la lucha contra las organizaciones criminales dedicadas al tráfico de personas, la trata y la explotación sexual, fortaleciendo la cooperación policial y judicial."
+   },
+   {
+    "id": "pfac-0235",
+    "partido": "pfac",
+    "titular": "Protección integral de mujeres y niñas migrantes frente a trata, MGF y matrimonios forzados",
+    "marca_actual": [],
+    "texto": "12. Garantizar una protección específica e integral para las mujeres y las niñas migrantes frente a cualquier forma de violencia, incluyendo la trata con fines de explotación sexual, la prostitución, la mutilación genital femenina y los matrimonios forzados, reforzando su identificación, protección y acceso a recursos especializados y asegurando la coordinación entre las administraciones competentes."
+   },
+   {
+    "id": "pfac-0255",
+    "partido": "pfac",
+    "titular": "Proteger a mujeres y niñas solas solicitantes frente a la violencia machista",
+    "marca_actual": [],
+    "texto": "4. Prestar especial atención a las mujeres y niñas solas que puedan encontrarse en situaciones de persecución o violencia por razón de sexo, garantizando y todo momento su seguridad frente a cualquier violencia machista."
+   },
+   {
+    "id": "pfac-0317",
+    "partido": "pfac",
+    "titular": "Impulsar la titularidad compartida con bonificación del 100 % de cuotas cinco años",
+    "marca_actual": [],
+    "texto": "1. Impulsar la efectiva implantación de la Ley de Titularidad Compartida en las explotaciones agrarias para garantizar la equidad laboral en el medio rural, mediante el desarrollo conjunto de las siguientes actuaciones:\n - Simplificar y agilizar los trámites de inscripción en el registro mediante una ventanilla única digital que coordine de forma directa las Oficinas Agrarias y la Seguridad Social.\n - Abonar una bonificación del 100% en las cuotas de la Seguridad Social durante los primeros cinco años a quienes se incorporen como cotitulares.\n - Establecer deducciones fiscales específicas en el IRPF y priorizar el acceso a las ayudas de la PAC y fondos de desarrollo rural a las explotaciones con gestión compartida formalizada.\n - Garantizar el acceso igualitario a la titularidad agraria y a los derechos económicos derivados mediante la reforma de la Ley de Titularidad Compartida, estableciendo su obligatoriedad legal en todos los casos donde se verifique el desarrollo de un trabajo agropecuario compartido.\n - Tipificar como una modalidad de violencia económica la privación deliberada del derecho a la cotitularidad o propiedad de la explotación hacia la pareja que ejerce el trabajo agrario, promoviendo su reconocimiento e inclusión dentro del marco legal del Estado en materia de prevención de la violencia machista.\n - Desarrollar campañas permanentes de difusión institucional y formación del personal técnico orientadas a asesorar de manera directa y próxima a las familias del sector agropecuario.\n - Crear un observatorio de seguimiento estatal para corregir los desequilibrios de inscripción entre las distintas comunidades autónomas y vincular esta figura legal a los planes de relevo generacional."
+   },
+   {
+    "id": "pfac-0331",
+    "partido": "pfac",
+    "titular": "Unidades móviles y Guardia Civil especializada contra la violencia machista rural",
+    "marca_actual": [],
+    "texto": "6. Asegurar la atención integral y la protección de las víctimas de violencia machista en el medio rural y zonas de interior mediante el despliegue de unidades móviles y servicios comarcales multidisciplinares, asegurando el acceso equitativo a recursos jurídicos, psicológicos y asistenciales para superar el aislamiento territorial. Asimismo, reforzar y especializar de forma específica las unidades de la Guardia Civil desplegadas en el ámbito rural, dotándolas de las herramientas y la formación necesarias para la prevención, detección y respuesta inmediata ante situaciones de violencia machista en los municipios de menor población."
+   },
+   {
+    "id": "pfac-0350",
+    "partido": "pfac",
+    "titular": "Protocolos con competencia disciplinaria contra la violencia sexual en la ciencia",
+    "marca_actual": [],
+    "texto": "12. Luchar contra el abuso de poder y erradicar la violencia sexual que se sigue reproduciendo en el entorno científico, estableciendo mejores mecanismos de prevención, detección y sanción, así como de protección y reparación a las víctimas. Para hacerlo posible, el PFAC reclama protocolos eficaces, autónomos y con participación de mujeres expertas independientes, no subordinadas a jerarquías académicas. Y a cuyo efecto, y como primera medida, debe otorgarse competencia disciplinaria a los protocolos contra el acoso sexual y por razón de sexo, sin que resulte aplicable en este ámbito el régimen disciplinario del funcionariado público."
+   },
+   {
+    "id": "pfac-0433",
+    "partido": "pfac",
+    "titular": "Protocolos contra la discriminación sexista y el acoso sexual en los centros educativos",
+    "marca_actual": [],
+    "texto": "8. Establecer protocolos eficaces contra la discriminación sexista y el acoso sexual en todos los centros educativos, garantizando mecanismos accesibles de detección, protección, denuncia y actuación."
+   },
+   {
+    "id": "pfac-0436",
+    "partido": "pfac",
+    "titular": "Formación en coeducación y violencia machista para todos los profesionales de la educación",
+    "marca_actual": [],
+    "texto": "11. Impulsar la formación transversal en coeducación, igualdad y prevención, detección y atención a las víctimas de violencia machista para la totalidad de profesionales de la educación."
+   },
+   {
+    "id": "pfac-0453",
+    "partido": "pfac",
+    "titular": "Mecanismos con capacidad sancionadora contra el acoso sexual en las universidades",
+    "marca_actual": [],
+    "texto": "28. Impulsar mecanismos efectivos de prevención, detección, denuncia, investigación y actuación frente al acoso sexual y por razón de sexo en las universidades, con procedimientos accesibles, dotados de capacidad disciplinaria y sancionadora directa derivada de sus actuaciones, sin perjuicio de las garantías que correspondan a las personas afectadas."
+   },
+   {
+    "id": "pfac-0553",
+    "partido": "pfac",
+    "titular": "Incorporar la perspectiva de discapacidad en las políticas contra las violencias machistas",
+    "marca_actual": [],
+    "texto": "56. Incorporar la perspectiva de discapacidad en todas las políticas contra las violencias machistas."
+   },
+   {
+    "id": "pfac-0555",
+    "partido": "pfac",
+    "titular": "Protocolos y plazas accesibles en casas de acogida para mujeres con discapacidad",
+    "marca_actual": [],
+    "texto": "58. Crear protocolos específicos para mujeres con discapacidad en situación de violencia, garantizando plazas accesibles en casas de acogida, viviendas de emergencia y recursos de protección."
+   },
+   {
+    "id": "pfac-0556",
+    "partido": "pfac",
+    "titular": "Perseguir la violencia sexual y la esterilización sin consentimiento de mujeres con discapacidad",
+    "marca_actual": [],
+    "texto": "59. Prevenir y perseguir la violencia sexual, la explotación y la trata de mujeres con discapacidad y garantizar sus derechos sexuales y reproductivos, combatiendo cualquier esterilización o intervención sobre el cuerpo realizada sin consentimiento libre e informado de la mujer."
+   },
+   {
+    "id": "pfac-0557",
+    "partido": "pfac",
+    "titular": "Protocolos frente a la violencia contra mujeres mayores con discapacidad",
+    "marca_actual": [],
+    "texto": "60. Establecer protocolos específicos frente a las distintas formas de violencia que pueden sufrir las mujeres mayores con discapacidad."
+   },
+   {
+    "id": "pfac-0565",
+    "partido": "pfac",
+    "titular": "Más recursos para los centros de menores extranjeros no acompañados y protocolos contra captadores",
+    "marca_actual": [],
+    "texto": "7. Dotar de mayores recursos a los centros de acogida de Menores Extranjeros No Acompañados con el fin de evitar su masificación, optimizar la formación multidisciplinar del personal y reforzar la seguridad. Asimismo, se deben establecer protocolos claros de detección temprana para identificar captadores o perfiles falsos, impidiendo así su infiltración en el sistema de tutela y protegiendo a los menores, especialmente a las niñas, frente a las redes de explotación sexual."
+   },
+   {
+    "id": "pfac-0611",
+    "partido": "pfac",
+    "titular": "Entornos urbanos seguros para transitar sin temor a la violencia sexual",
+    "marca_actual": [],
+    "texto": "4. Utilizar todas las herramientas competenciales del Estado para promover entornos urbanos y cinturones verdes seguros, donde todas las personas, especialmente las mujeres, puedan transitar sin temor a la violencia sexual."
+   },
+   {
+    "id": "pfac-0620",
+    "partido": "pfac",
+    "titular": "Protocolos y formación del personal frente a agresiones sexuales en el transporte",
+    "marca_actual": [],
+    "texto": "7. Establecer protocolos para el abordaje de agresiones sexuales, habilitar líneas de atención y denuncia, y formar al personal de transporte para que sepa cómo actuar en casos de acoso y agresión."
+   },
+   {
+    "id": "pfac-0680",
+    "partido": "pfac",
+    "titular": "Protocolos obligatorios contra el acoso sexual y la violencia machista en las federaciones",
+    "marca_actual": [],
+    "texto": "17. Establecer protocolos de actuación obligatorios y unificados en todas las federaciones deportivas nacionales para la prevención, detección precoz, denuncia y sanción inmediata de conductas de acoso sexual, acoso por razón de sexo y cualquier forma de violencia machista contra las mujeres, asegurando que estos mecanismos incluyan canales de denuncia anónimos, seguros e independientes de las propias entidades deportivas."
+   },
+   {
+    "id": "pfac-0681",
+    "partido": "pfac",
+    "titular": "Formación obligatoria en prevención de violencias machistas para obtener licencias deportivas",
+    "marca_actual": [],
+    "texto": "18. Implementar programas anuales de formación continua en perspectiva feminista, igualdad de trato y prevención de las violencias machistas destinados obligatoriamente a todo el personal técnico, directivo, arbitral y de entrenamiento del sistema deportivo nacional, vinculando la obtención y renovación de licencias oficiales a la superación de estas capacitaciones teóricas y prácticas."
+   },
+   {
+    "id": "pfac-0682",
+    "partido": "pfac",
+    "titular": "Sancionar como muy grave el encubrimiento de acoso en el deporte",
+    "marca_actual": [],
+    "texto": "19. Establecer un régimen de tolerancia cero frente al encubrimiento en el deporte mediante la reforma del marco sancionador de la Ley del Deporte, tipificando como infracción muy grave la ocultación, obstaculización o dilación deliberada en la tramitación de expedientes de violencia o acoso contra las mujeres por parte de directivos, lo que facultará a la administración para decretar la suspensión cautelar inmediata de toda financiación pública y ayudas institucionales a la entidad implicada desde el inicio de la investigación, garantizando el reintegro de los fondos del ejercicio y la inhabilitación definitiva de los responsables para erradicar el corporativismo machista en las estructuras deportivas."
+   },
+   {
+    "id": "pfac-0683",
+    "partido": "pfac",
+    "titular": "Crear una Oficina de Atención Integral a la Mujer Deportista",
+    "marca_actual": [],
+    "texto": "20. Impulsar la creación de una Oficina de Atención Integral a la Mujer Deportista adscrita al Consejo Superior de Deportes, dotada de recursos presupuestarios propios, que ofrezca asistencia jurídica especializada, apoyo psicológico y acompañamiento integral a las víctimas de acoso y violencia en el deporte desde el primer momento en que se formalice la queja o denuncia."
+   },
+   {
+    "id": "pfac-0690",
+    "partido": "pfac",
+    "titular": "Dotar de recursos a la justicia y especializarla en violencia machista",
+    "marca_actual": [],
+    "texto": "- MEDIDA 35. DOTAR DE RECURSOS SUFICIENTES A LA JUSTICIA para que esta cumpla sus objetivos con rapidez y eficacia. Garantizando la especialización de los operadores jurídicos que deban intervenir en casos de violencia machista para posibilitar la erradicación de prejuicios o estereotipos basados en el sexo, y evitando que los operadores jurídicos puedan llegar a encubrir, minimizar, justificar -e incluso negar- las violencias machistas."
+   },
+   {
+    "id": "pfac-0703",
+    "partido": "pfac",
+    "titular": "Formación obligatoria en igualdad en Derecho y cumplir la Ley 1/2004",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "12. Introducir la formación obligatoria en igualdad y en perspectiva feminista en los estudios de derecho. Además, exigir el cumplimiento de la Ley 1/2004 que, en su artículo 47, dispone que: “El Gobierno, el Consejo General del Poder Judicial y las comunidades autónomas, en el ámbito de sus respectivas competencias, asegurarán una formación específica relativa a la igualdad y no discriminación por razón de sexo y sobre violencia machista en los cursos de formación de Jueces y Magistrados, Fiscales, Secretarios Judiciales, Fuerzas y Cuerpos de Seguridad y Médicos Forenses. En todo caso, en los cursos de formación anteriores se introducirá el enfoque de la discapacidad de las víctimas y se tendrá en cuenta la violencia vicaria”."
+   },
+   {
+    "id": "pfac-0704",
+    "partido": "pfac",
+    "titular": "Prohibir interrogatorios basados en estereotipos que revictimizan a las mujeres",
+    "marca_actual": [],
+    "texto": "13. Prohibir prácticas procesales que supongan una segunda victimización para las mujeres, impidiendo interrogatorios basados en estereotipos sobre su comportamiento."
+   },
+   {
+    "id": "pfac-0705",
+    "partido": "pfac",
+    "titular": "Prohibir el uso del Síndrome de Alienación Parental en procesos de custodia",
+    "marca_actual": [],
+    "texto": "14. Garantizar el cumplimiento de la prohibición de tomar en consideración el Síndrome de Alienación Parental (SAP), o de teorías similares que pretendan sustituirlo sin aval científico, en los procesos de custodia y familia."
+   },
+   {
+    "id": "pfac-0706",
+    "partido": "pfac",
+    "titular": "Ampliar los Juzgados de Violencia sobre la Mujer a todas las violencias machistas",
+    "marca_actual": [],
+    "texto": "15. Ampliar la red de Juzgados de Violencia sobre la Mujer para extender su competencia a todas las formas de violencia machista —asegurando su proximidad y despliegue en las zonas rurales— y garantizar la especialización obligatoria, continua y evaluable de su personal en perspectiva feminista, infancia y psicología del trauma, erradicando así los estereotipos y la violencia institucional durante los procesos judiciales."
+   },
+   {
+    "id": "pfac-0707",
+    "partido": "pfac",
+    "titular": "Rechazar la justicia restaurativa para mujeres víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "16. Rechazar las medidas alternativas de resolución de conflictos y justicia restaurativa para las mujeres víctimas de violencia machista."
+   },
+   {
+    "id": "pfac-0708",
+    "partido": "pfac",
+    "titular": "Garantizar a las víctimas todas las medidas de protección del programa",
+    "marca_actual": [],
+    "texto": "17. Garantizar a las mujeres víctimas todas las medidas de protección recogidas en el apartado dedicado a erradicar la violencia machista en este programa."
+   },
+   {
+    "id": "pfac-0712",
+    "partido": "pfac",
+    "titular": "Tratamiento obligatorio para condenados por violencia machista sin reducción de condena",
+    "marca_actual": [],
+    "texto": "21. Mejorar e implementar de manera obligatoria y oportuna programas de tratamiento de eficacia contrastada para hombres condenados por violencia machista y violencia sexual, con el fin de prevenir la reincidencia, garantizando que estas intervenciones no comporten reducciones de condena ni se financien con cargo a los fondos del Pacto de Estado contra la Violencia de Género."
+   },
+   {
+    "id": "pfac-0889",
+    "partido": "pfac",
+    "titular": "Contabilizar la violencia contra mascotas en las estadísticas de violencia machista",
+    "marca_actual": [],
+    "texto": "11. Contabilizar la violencia contra las mascotas en las estadísticas oficiales de violencia machista para visibilizar su incidencia."
+   },
+   {
+    "id": "pfac-0890",
+    "partido": "pfac",
+    "titular": "Incluir a los animales de compañía en la futura Ley de violencia vicaria",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "12. Incluir a los animales de compañía en el Proyecto de Ley de violencia vicaria que está en preparación."
+   },
+   {
+    "id": "pfac-0891",
+    "partido": "pfac",
+    "titular": "Medidas cautelares para proteger a las mascotas de los maltratadores",
+    "marca_actual": [],
+    "texto": "13. Establecer medidas cautelares para la protección de mascotas frente a los maltratadores, incluyendo la retirada de la titularidad y custodia del animal."
+   },
+   {
+    "id": "pfac-0892",
+    "partido": "pfac",
+    "titular": "Reforzar el programa ACOPET de acogida de mascotas de víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "14. Reforzar el Programa ACOPET de acogida temporal gratuita para las mascotas de mujeres víctimas de violencia machista que ingresan en recursos habitacionales de emergencia, siempre que en estos recursos resulte imposible su tenencia."
+   },
+   {
+    "id": "pfac-0893",
+    "partido": "pfac",
+    "titular": "Intervención policial temprana ante maltrato animal en hogares con alerta de violencia machista",
+    "marca_actual": [],
+    "texto": "15. Fomentar la intervención temprana de las fuerzas de seguridad ante indicios de maltrato animal en hogares con alerta de violencia machista, al detectarse como un factor clave de control coercitivo."
+   },
+   {
+    "id": "pfac-0894",
+    "partido": "pfac",
+    "titular": "Campañas en clínicas veterinarias para detectar violencia vicaria sobre mascotas",
+    "marca_actual": [],
+    "texto": "16. Realizar campañas informativas, dirigidas al personal de las clínicas veterinarias, encaminadas a la detección y actuación ante posibles casos de violencia vicaria ejercida sobre mascotas."
+   },
+   {
+    "id": "pfac-0931",
+    "partido": "pfac",
+    "titular": "Contra la industria global de la explotación sexual y reproductiva",
+    "marca_actual": [],
+    "texto": "En el PFAC luchamos contra la expansión global de la industria de la explotación sexual y sus cadenas económicas transnacionales, y contra la explotación reproductiva impulsadas por intereses corporativos, que afectan especialmente a las mujeres más vulnerables. Es imprescindible visibilizar y confrontar los entramados que mercantilizan los cuerpos y reproducen la violencia, protegiendo a las víctimas, así como plantear marcos jurídicos y políticas públicas que reconozcan el sexo como variable central para analizar y combatir la discriminación contra las mujeres.\n\nPor otra parte, la revolución digital y el desarrollo de la inteligencia artificial plantean oportunidades y riesgos: reproducen estereotipos sexistas y sesgos de clase, y amplían la brecha digital limitando el acceso de muchas mujeres a empleos de calidad y a la participación en igualdad de condiciones. Por ello vemos necesarias políticas que combatan esos sesgos, promuevan la alfabetización digital con perspectiva feminista y garanticen el acceso equitativo a las oportunidades tecnológicas.\n\nLa paz y la desmilitarización son condiciones necesarias para la igualdad. Las mujeres y niñas son las primeras víctimas en contextos de guerra y ocupación y su protección efectiva deberían ser prioridades ineludibles. Defendemos que los gobiernos cumplan sus compromisos internacionales en materia de derechos humanos, situando la igualdad como una prioridad real."
+   },
+   {
+    "id": "pfac-0936",
+    "partido": "pfac",
+    "titular": "Impulsar la abolición internacional de la prostitución y prohibir la gestación subrogada",
+    "marca_actual": [],
+    "texto": "3. Impulsar la abolición de la prostitución y la prohibición de la explotación reproductiva (“gestación subrogada”) en el ámbito internacional, mediante acuerdos internacionales, resoluciones en la Unión Europea y la ONU, convenios internacionales, sanciones, cooperación policial y judicial, así como respaldando programas de protección, inserción y atención integral para las víctimas."
+   },
+   {
+    "id": "pfac-0937",
+    "partido": "pfac",
+    "titular": "Prohibir globalmente los «vientres de alquiler» como delito de lesa humanidad",
+    "marca_actual": [],
+    "texto": "4. En el caso de la explotación reproductiva, además promover las reformas jurídicas internacionales necesarias para que la gestación por sustitución (\"vientres de alquiler\") sea prohibida de forma global y catalogada como un Delito Universal de Lesa Humanidad, persiguiendo su práctica en todas sus fases, modalidades y países de origen."
+   },
+   {
+    "id": "pfac-0963",
+    "partido": "pfac",
+    "titular": "Financiar investigaciones sobre la violencia sexual como arma de guerra",
+    "marca_actual": [],
+    "texto": "10. Promover y financiar investigaciones internacionales sobre crímenes contra mujeres y niñas en contextos de guerra y ocupación, priorizando la persecución judicial del uso de la violencia sexual como arma militar, con el objetivo de identificar a los responsables y combatir la impunidad."
+   },
+   {
+    "id": "pfac-1026",
+    "partido": "pfac",
+    "titular": "Reforzar la protección frente a matrimonios forzados y mutilación genital femenina",
+    "marca_actual": [],
+    "texto": "25. Reforzar la protección frente a prácticas como los matrimonios forzados, la mutilación genital femenina o cualquier otra forma de violencia ejercida contra mujeres y niñas que se pretenda amparar en creencias o tradiciones."
+   },
+   {
+    "id": "nex-0153",
+    "partido": "nex",
+    "titular": "Blindar los derechos LGTBI y reforzar el Pacto contra la Violencia de Género",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "141. Blindaje legal de los derechos LGTBI y refuerzo del Pacto de Estado contra la Violencia de Género."
+   },
+   {
+    "id": "d21-0012",
+    "partido": "d21",
+    "titular": "Crear juzgados especializados en corrupción con medios suficientes",
+    "marca_actual": [],
+    "texto": "- Se crearán **juzgados especializados en corrupción**, replicando el modelo organizativo de los juzgados de violencia de género. Serán dotados de suficientes medios de personal y tecnológicos."
+   },
+   {
+    "id": "d21-0197",
+    "partido": "d21",
+    "titular": "Reforzar la persecución de delitos de odio y denunciar sin riesgo de expulsión",
+    "marca_actual": [],
+    "texto": "- **Tolerancia Cero con la Xenofobia:** quien señala a un vecino por su origen no defiende España: la divide. Rechazamos frontalmente el discurso xenófobo y racista, y lo combatiremos. Reforzaremos con fiscales y medios la persecución de los delitos de odio y extenderemos las pruebas de discriminación en el alquiler de vivienda y en los procesos de selección, con sanciones para quien cierre la puerta por un color de piel o un apellido. Y quien sea víctima de un delito de odio o de explotación laboral podrá denunciarlo sin que su denuncia active un expediente de expulsión, como ya ocurre con las víctimas de violencia de género y de trata."
+   },
+   {
+    "id": "d21-0284",
+    "partido": "d21",
+    "titular": "Ley de la Carrera Militar sin salida forzosa a los 45 años",
+    "marca_actual": [],
+    "texto": "- **Fin de la Salida Forzosa a los 45 - Una Carrera para Toda la Vida:** aprobaremos una Ley Integral de la Carrera Militar que elimine de forma progresiva la salida forzosa de soldados y marineros a los 45 años y ofrezca a tropa y marinería una carrera estable hasta la reserva, con promoción interna sin límite de convocatorias. Completaremos la homologación de la formación militar: título de FP de grado medio al ser soldado o marinero y de técnico superior al ascender a cabo primero. Promoveremos convenios con Comunidades Autónomas y Ayuntamientos para que su experiencia cuente en el acceso a policías autonómicas y locales, bomberos y emergencias."
+   },
+   {
+    "id": "d21-0329",
+    "partido": "d21",
+    "titular": "Bloquear cualquier intento de desmantelar la protección a víctimas de violencia machista",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- **Ninguna Concesión al Negacionismo:** no permitiremos, bajo ninguna circunstancia ni acuerdo político, que se cuestione la existencia de la violencia de género. Bloquearemos cualquier iniciativa que pretenda desmantelar, desfinanciar o invisibilizar la red pública de protección a las víctimas de violencia machista."
+   },
+   {
+    "id": "d21-0354",
+    "partido": "d21",
+    "titular": "Reconocer como cotizados los años de carrera de deportistas de alto nivel desde 1980",
+    "marca_actual": [],
+    "texto": "- **Jubilación Justa para Quienes Nos Representaron:** el Real Decreto 739/2026 es un primer paso, pero insuficiente: solo cubre a quienes tenían contrato profesional e ignora a la inmensa mayoría de nuestros atletas olímpicos, paralímpicos y becados. Aprobaremos una ley integral que reconozca a efectos de cotización los años de carrera de todos los deportistas de alto nivel y de selección nacional desde 1980, aunque no tuvieran contrato laboral. El Estado asumirá el coste."
+   },
+   {
+    "id": "comuns-0325",
+    "partido": "comuns",
+    "titular": "Protocolos contra el acoso sexual, LGTBIfóbico y racista en todas las empresas",
+    "marca_actual": [],
+    "texto": "- Aplicar el Conveni 190 de l’OIT amb protocols negociats contra l’assetjament sexual, per raó de sexe, LGTBIfòbic, racista, xenòfob i religiós a totes les empreses, amb denúncia segura i protecció davant represàlies. Incorporar professionals de mediació intercultural i serveis d’interpretació per superar barreres lingüístiques en la informació, l’assessorament i la denúncia"
+   },
+   {
+    "id": "comuns-0783",
+    "partido": "comuns",
+    "titular": "Formación y protocolos contra los abusos y la violencia sexual en el deporte",
+    "marca_actual": [],
+    "texto": "- Fomentarem els cursos de formació i protocols per combatre els abusos i la violència sexual en l’esport i la protecció dels menors."
+   },
+   {
+    "id": "comuns-0863",
+    "partido": "comuns",
+    "titular": "Contra las violencias machistas y por los derechos sexuales y reproductivos",
+    "marca_actual": [],
+    "texto": "La lluita contra les violències masclistes és una de les reivindicacions centrals del moviment feminista i una responsabilitat ineludible de les institucions públiques. Malgrat els avenços legislatius i les polítiques desenvolupades, les violències continuen presents en múltiples àmbits de la vida i afecten de manera diversa les dones i les persones amb identitats, orientacions i expressions de gènere no normatives.\n\nDefensem la plena garantia dels drets sexuals i reproductius i la sobirania de totes les persones sobre els seus cossos i les seves vides. Això significa garantir l’accés universal i efectiu a la salut sexual i reproductiva, a l’anticoncepció, a l’avortament voluntari, a la reproducció assistida i a una atenció respectuosa durant l’embaràs, el part i el postpart. També implica combatre la violència obstètrica, les pràctiques paternalistes i les barreres administratives, econòmiques o territorials que limiten l’exercici d’aquests drets.\n\nDefensem una educació sexual integral, diversa i no discriminatòria, que permeti viure la sexualitat i les relacions afectives amb llibertat, coneixement i respecte, sense tabús ni prejudicis. Els drets sexuals i reproductius són drets humans i han d’estar garantits per una xarxa pública accessible i de qualitat."
+   },
+   {
+    "id": "comuns-0873",
+    "partido": "comuns",
+    "titular": "Reforzar el marco estatal contra todas las formas de violencia machista",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- Enfortir el marc estatal de prevenció, protecció, atenció i reparació de totes les formes de violència masclista, incloses les violències sexuals, econòmiques, digitals, institucionals i les que afecten dones en situacions de discriminació múltiple."
+   },
+   {
+    "id": "comuns-0874",
+    "partido": "comuns",
+    "titular": "Respuesta integral a las violencias sexuales sin revictimización institucional",
+    "marca_actual": [],
+    "texto": "- Garantir una resposta integral a les violències sexuals, incloses les agressions fora de la parella, amb serveis accessibles a tot el territori i sense revictimització institucional."
+   },
+   {
+    "id": "comuns-0885",
+    "partido": "comuns",
+    "titular": "Aumentar un 10 % los recursos contra la violencia machista",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- Augmentarem un 10% els recursos contra la violència masclista. El Pla Conjunt Plurianual en matèria de violència contra les dones ha creat una xarxa de col·laboració entre administracions per a protegir a les víctimes, formar i educar a les escoles, donar suport als col·lectius més vulnerables i sensibilitzar."
+   },
+   {
+    "id": "comuns-0886",
+    "partido": "comuns",
+    "titular": "Acceso a vivienda pública para mujeres víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "- Garantirem l’accés a l’habitatge públic i protegit per a les dones víctimes de violència masclista."
+   },
+   {
+    "id": "comuns-0887",
+    "partido": "comuns",
+    "titular": "Más juzgados de Violencia sobre la Mujer con más medios",
+    "marca_actual": [],
+    "texto": "- Crearem més jutjats de Violència sobre la Dona, i reforçarem els mitjans materials i humans."
+   },
+   {
+    "id": "comuns-0888",
+    "partido": "comuns",
+    "titular": "Atender a víctimas de violencia machista sin exigir denuncia ni residencia regular",
+    "marca_actual": [],
+    "texto": "- Garantir atenció a les víctimes de violències masclistes sense exigir denúncia prèvia ni residència regular, amb interpretació professional, mediació intercultural i assessorament jurídic especialitzat."
+   },
+   {
+    "id": "comuns-0889",
+    "partido": "comuns",
+    "titular": "Dotar de personal y medios suficientes a los Centros de Crisis 24 horas",
+    "marca_actual": [],
+    "texto": "- Dotarem de personal i mitjans suficients els Centres de Crisi 24h"
+   },
+   {
+    "id": "comuns-0890",
+    "partido": "comuns",
+    "titular": "Partidas plurianuales para el Pacto de Estado contra la Violencia de Género",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- Donarem caràcter plurianual a les partides estructurals del Pacte d’Estat contra la Violència de Gènere."
+   },
+   {
+    "id": "comuns-0891",
+    "partido": "comuns",
+    "titular": "Reforzar VioGén con valoración del riesgo de violencia vicaria para hijos e hijas",
+    "marca_actual": [],
+    "texto": "- Reforçarem el sistema VioGén per millorar la detecció del risc i la protecció de les víctimes, incorporant una valoració específica del risc per a les filles i fills per prevenir la violència vicària i reforçant la formació policial. Millorar la interoperabilitat amb els sistemes autonòmics, incorporant una perspectiva integral del risc i garantint el reconeixement dels models i instruments propis de cada territori."
+   },
+   {
+    "id": "comuns-0892",
+    "partido": "comuns",
+    "titular": "Reformar la LOPIVI para ampliar la definición de violencia vicaria",
+    "marca_actual": [],
+    "texto": "- Reformarem la LOPIVI per ampliar la definició de violència vicaria i reforçar el sistema VioGén incorporant una evaluació del risc especifica per els fills i filles de les víctimes de violència."
+   },
+   {
+    "id": "comuns-0893",
+    "partido": "comuns",
+    "titular": "Hacer cumplir la prohibición del Síndrome de Alienación Parental",
+    "marca_actual": [],
+    "texto": "- Aprovarem nous mecanismes que garanteixin el compliment efectiu de la prohibició de la Síndrome d’ Alienació Parental (SAP)"
+   },
+   {
+    "id": "comuns-0894",
+    "partido": "comuns",
+    "titular": "Proteger y dar derechos a las personas que ejercen la prostitución",
+    "marca_actual": [],
+    "texto": "- Protegir les persones que exerceixen la prostitució. Un dels instruments fonamentals per lluitar contra la tracta d’éssers humans amb finalitat de prostitució forçada es protegir i donar drets a les persones que exerceixen la prostitució. Les mesures prohibicionistes contra clients i persones que exerceixen la prostitució acaben penalitzant a aquestes darreres i empitjora les seves condicions de vida, salut i treball, creant un clima d’inseguretat que augmenta la vulnerabilitat, afavoreix la figura del proxeneta i beneficia, per l’assetjament al carrer, a les persones propietàries dels bordells."
+   },
+   {
+    "id": "comuns-0895",
+    "partido": "comuns",
+    "titular": "Proteger a quienes ejercen la prostitución de proxenetas y de la criminalización",
+    "marca_actual": [],
+    "texto": "- Cal protegir les persones que exerceixen la prostitució dels abusos i violències de proxenetes, així com de la criminalització institucional. Cal assegurar els seus drets de ciutadania i l’accés no estigmatitzat als serveis públics i a la justícia. I cal un cos normatiu que garanteixi tots els drets."
+   },
+   {
+    "id": "comuns-0896",
+    "partido": "comuns",
+    "titular": "Eliminar las normas que penalizan a las personas que ejercen la prostitución",
+    "marca_actual": [],
+    "texto": "- En aquest sentit, proposem eliminar totes aquelles lleis i normatives que penalitzen les persones que exerceixen la prostitució. Vetllar pels seus drets socials, laborals i de ciutadania de les persones que exerceixen la prostitució, respectant el seu treball autònom. Obstaculitzar l’existència de negocis del sexe per part de tercers, erradicant les figures de proxenetes."
+   },
+   {
+    "id": "comuns-0897",
+    "partido": "comuns",
+    "titular": "Red de atención integral y reinserción laboral para personas que ejercen la prostitución",
+    "marca_actual": [],
+    "texto": "- Desplegar una xarxa d’atenció integral per a persones que exerceixen la prostitució en tots els territoris. Revisar i assegurar la disponibilitat de programes de reinserció laboral per a les persones que exerceixen o han exercit la prostitució."
+   },
+   {
+    "id": "comuns-0905",
+    "partido": "comuns",
+    "titular": "Igual acceso a los servicios contra la violencia machista en municipios pequeños",
+    "marca_actual": [],
+    "texto": "- Garantir que les dones que viuen en municipis petits tinguin el mateix accés als serveis d’atenció a la violència masclista, amb equips itinerants i punts d’atenció comarcals, transport gratuït per anar als serveis, als jutjats i a les revisions mèdiques, i cobertura efectiva dels dispositius de protecció i teleassistència a les zones amb mala connexió mòbil."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 36,
+  "palabras": 2706,
+  "candidatos": [
+   {
+    "id": "pfac-0219",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la migración ordenada como respuesta al reto demográfico",
+    "marca_actual": [],
+    "texto": "España ha sido históricamente un país de emigración y, desde hace décadas, también un país de acogida. Miles de personas llegan cada año buscando seguridad, libertad y oportunidades o huyendo de la guerra, la persecución, la pobreza, el cambio climático o la violencia. Migrar forma parte de la historia de la humanidad y responde al legítimo deseo de construir un proyecto de vida mejor.\n\nNuestro país afronta, además, un importante reto demográfico. El envejecimiento de la población y la baja natalidad reducen progresivamente el número de personas en edad de trabajar, poniendo en riesgo la sostenibilidad del Estado del bienestar. En este contexto, una política migratoria ordenada, planificada y respetuosa con los Derechos Humanos puede contribuir a afrontar este reto, favoreciendo la incorporación de población en edad de trabajar, fortaleciendo la economía y contribuyendo al sostenimiento de los servicios públicos y del sistema público de pensiones."
+   },
+   {
+    "id": "pfac-0220",
+    "partido": "pfac",
+    "titular": "La política migratoria como estrategia de Estado a largo plazo, frente a la polarización",
+    "marca_actual": [],
+    "texto": "Una política migratoria eficaz no puede improvisarse ni responder únicamente a situaciones de emergencia. Debe formar parte de una estrategia de Estado a largo plazo que tenga en cuenta la evolución demográfica, las necesidades económicas del país, la capacidad de los servicios públicos, la prevención, la respuesta ante situaciones migratorias extraordinarias y el objetivo de garantizar una integración efectiva basada en la igualdad de derechos y deberes. Solo así será posible construir una sociedad más cohesionada, proteger los derechos de todas las personas y responder con responsabilidad a los desafíos presentes y futuros.\n\nEn los últimos años, el debate sobre la inmigración se ha visto marcado por la desinformación, la polarización y el uso del miedo como herramienta política, dificultando un análisis sereno de uno de los grandes retos sociales de nuestro tiempo. El PFAC rechaza -tanto los discursos que responsabilizan a las personas migrantes de problemas cuya causa se encuentra en la falta de planificación, la precariedad laboral o la insuficiente inversión en los servicios públicos- como aquellos que ignoran los desafíos que plantea una integración insuficiente. Una buena política migratoria debe ofrecer respuestas eficaces, garantizar la seguridad, combatir la explotación y fortalecer la cohesión social desde el pleno respeto a los Derechos Humanos."
+   },
+   {
+    "id": "pfac-0222",
+    "partido": "pfac",
+    "titular": "Política migratoria ordenada: control de fronteras, vías seguras e integración",
+    "marca_actual": [],
+    "texto": "- MEDIDA 12. ORDENAR LAS POLÍTICAS MIGRATORIAS Y REFORZAR LAS POLÍTICAS EFECTIVAS DE INTEGRACIÓN: Instaurar una política migratoria ordenada, responsable y segura, garantizando un control efectivo de las fronteras, creando vías seguras y persiguiendo la actividad de las mafias, reforzando las políticas de integración efectiva con el fin de garantizar la convivencia y prohibiendo la explotación laboral y la discriminación social que se deriva de sus posibles situaciones de irregularidad e inseguridad."
+   },
+   {
+    "id": "pfac-0223",
+    "partido": "pfac",
+    "titular": "Medidas para ordenar la política migratoria",
+    "marca_actual": [],
+    "texto": "Eso requiere, a su vez, todo un despliegue de medidas, tales como:"
+   },
+   {
+    "id": "pfac-0226",
+    "partido": "pfac",
+    "titular": "Política migratoria planificada según demografía, mercado laboral y servicios públicos",
+    "marca_actual": [],
+    "texto": "3. Desarrollar una política migratoria planificada que tenga en cuenta la evolución demográfica, las necesidades del mercado laboral, la capacidad de los servicios públicos y el objetivo de garantizar una integración efectiva, evitando situaciones de sobrecarga territorial y favoreciendo una distribución equilibrada de los recursos y de las capacidades de acogida."
+   },
+   {
+    "id": "pfac-0240",
+    "partido": "pfac",
+    "titular": "Programas gratuitos de castellano y lenguas oficiales para personas migrantes",
+    "marca_actual": [],
+    "texto": "17. Garantizar el acceso a programas gratuitos de aprendizaje del castellano y, cuando corresponda, de las demás lenguas oficiales, como herramienta fundamental para favorecer la autonomía personal, el acceso al empleo y la integración social, en coordinación con las comunidades autónomas y las entidades locales."
+   },
+   {
+    "id": "pfac-0241",
+    "partido": "pfac",
+    "titular": "Formación obligatoria en igualdad y contra la violencia machista para la población migrante",
+    "marca_actual": [],
+    "texto": "18. Establecer programas formativos -obligatorios y gratuitos- en materia de igualdad entre los sexos y contra la violencia machista, que sensibilicen a la población migrante y le hagan patente la necesidad de que cualquier persona cumpla los mandatos legales establecidos en nuestro país al respecto."
+   },
+   {
+    "id": "pfac-0242",
+    "partido": "pfac",
+    "titular": "Estrategia Estatal de Integración coordinada con comunidades y entidades locales",
+    "marca_actual": [],
+    "texto": "19. Impulsar una Estrategia Estatal de Integración, coordinada con las comunidades autónomas y las entidades locales, que establezca objetivos comunes, favorezca la igualdad de oportunidades y promueva una integración basada en los derechos y deberes compartidos."
+   },
+   {
+    "id": "pfac-0243",
+    "partido": "pfac",
+    "titular": "Marco común de acceso de migrantes a empleo, educación, sanidad y vivienda",
+    "marca_actual": [],
+    "texto": "20. Impulsar, en colaboración con las comunidades autónomas y las entidades locales, un marco común de políticas que favorezcan el acceso al empleo, la educación, la sanidad, la vivienda y la participación en la vida social, evitando situaciones de exclusión y segregación y favoreciendo la igualdad de oportunidades."
+   },
+   {
+    "id": "pfac-0244",
+    "partido": "pfac",
+    "titular": "Igualdad ante la ley con independencia del origen o la nacionalidad",
+    "marca_actual": [],
+    "texto": "21. Defender la igualdad ante la ley de todas las personas, con independencia de su origen o nacionalidad, garantizando al mismo tiempo el cumplimiento de los derechos y deberes establecidos por nuestro ordenamiento jurídico."
+   },
+   {
+    "id": "pfac-0246",
+    "partido": "pfac",
+    "titular": "Participación de organizaciones feministas en las políticas para mujeres migrantes",
+    "marca_actual": [],
+    "texto": "23. Garantizar que las políticas dirigidas a mujeres migrantes cuenten con la participación activa de organizaciones feministas y de las propias mujeres, evitando que su representación recaiga exclusivamente en estructuras comunitarias o religiosas que no garanticen plenamente sus derechos."
+   },
+   {
+    "id": "pfac-0247",
+    "partido": "pfac",
+    "titular": "Coordinación permanente entre administraciones en la política migratoria",
+    "marca_actual": [],
+    "texto": "24. Reforzar la cooperación y los mecanismos permanentes de coordinación entre el Estado, las comunidades autónomas y las entidades locales, tanto en la gestión ordinaria de las políticas migratorias como en la respuesta ante situaciones migratorias extraordinarias, garantizando una actuación coherente y eficaz en materia de integración, protección social y atención a las personas migrantes."
+   },
+   {
+    "id": "pfac-0248",
+    "partido": "pfac",
+    "titular": "Evaluar las políticas migratorias con indicadores públicos",
+    "marca_actual": [],
+    "texto": "25. Evaluar periódicamente los resultados de las políticas migratorias mediante indicadores públicos sobre integración, empleo, educación, vivienda, conocimiento de las lenguas oficiales, protección de mujeres y menores y lucha contra la explotación, garantizando la transparencia de los resultados y que las decisiones públicas se basen en datos objetivos y evaluaciones verificables."
+   },
+   {
+    "id": "pfac-0272",
+    "partido": "pfac",
+    "titular": "Turismo sostenible, ecotasa, moratoria de licencias turísticas y apoyo al comercio de proximidad",
+    "marca_actual": [],
+    "texto": "9. Modernizar el sector servicios, a partir de:\n - Establecer líneas de financiación preferente y subsidios públicos condicionados de forma exclusiva a pymes, microempresas y cooperativas de propiedad local, limitando el acaparamiento de las ayudas estatales por parte de los grandes conglomerados y cadenas hoteleras transnacionales.\n - Impulsar la Estrategia de Turismo Sostenible 2030 para promover un turismo respetuoso con el medio ambiente y sostenible en todas sus vertientes: económica, social, digital, medioambiental y territorial.\n - Crear un Sello de Retorno Económico Comunitario de carácter público para identificar y premiar a aquellas empresas del sector de la hostelería y el alojamiento que reinviertan un porcentaje mínimo de sus beneficios netos anuales en proyectos de desarrollo social y comercial del propio municipio.\n - Aprobar una Ecotasa Finalista Autonómica sobre las pernoctaciones y las escalas de grandes cruceros, destinando la totalidad de la recaudación a sufragar los costes de mantenimiento de las infraestructuras públicas, la gestión de residuos y el sobrecoste hídrico que actualmente asume la ciudadanía local a través de sus impuestos ordinarios.\n - Girar tipos impositivos incrementales en el Impuesto sobre Actividades Económicas (IAE) para los establecimientos turísticos de gran escala situados en zonas declaradas de alta saturación, desincentivando la masificación y captando recursos para las arcas públicas municipales.\n - Eliminar las bonificaciones fiscales existentes para los fondos de inversión inmobiliaria y las SOCIMI orientadas al sector vacacional, reorientando de forma inmediata esos incentivos fiscales hacia el comercio de proximidad y la producción artesanal local.\n - Fijar un gravamen específico a las comisiones de las multinacionales de reservas y plataformas digitales de alojamiento por la actividad económica realizada dentro del territorio nacional, asegurando que la riqueza generada tribute donde se produce el servicio y evitando la evasión fiscal hacia paraísos corporativos.\n - Establecer moratorias temporales de licencias de uso turístico en los mercados inmobiliarios declarados como zonas tensionadas, con el objetivo de estabilizar el precio de los arrendamientos residenciales y garantizar que los ingresos de las familias se destinen al consumo en la economía local en lugar de absorberse por rentas especulativas.\n - Sancionar económicamente a las plataformas digitales que comercialicen u ofrezcan publicidad a plazas hoteleras o viviendas vacacionales que carezcan del número de registro oficial obligatorio, vinculando la cuantía de la multa directamente al volumen de facturación global de la empresa tecnológica infractora.\n - Limitar la capacidad de carga económica de los destinos de costa e interior mediante planes de ordenación que protejan el valor de los activos ecosistémicos a largo plazo, evitando la depreciación del propio destino y la pérdida de rentabilidad que provoca la sobreexplotación descontrolada.\n - Subvencionar la reconversión de infraestructuras obsoletas en el litoral y las zonas de montaña, priorizando la demolición de construcciones declaradas ilegales o que resulten ajenas a la fisonomía arquitectónica tradicional, para recuperar los espacios naturales como un activo de alto valor añadido.\n - Financiar planes de dinamización del patrimonio inmaterial y de la producción agroecológica en las zonas del interior rural, articulando circuitos económicos cortos que conecten de manera directa el gasto de las personas usuarias del turismo con el sector primario y productivo de la comarca.\n - Ampliar los destinos de los programas de turismo y de termalismo del IMSERSO para contemplar mejor las preferencias de las personas usuarias.\n - Facilitar el acceso de las familias a la red pública de Paradores de Turismo mediante la creación de bonos sociales, tarifas reducidas y programas de estancias asequibles, financiando esta medida a través de una tasa sobre las pernoctaciones del turismo internacional de lujo y la optimización de los propios excedentes comerciales de la red, con el fin de democratizar el disfrute del patrimonio natural, paisajístico, histórico y cultural y fomentar un turismo sostenible y de proximidad para toda la ciudadanía.\n - Financiar redes de turismo cultural y patrimonial cogestionadas por las propias comunidades residentes y los colectivos artísticos de las zonas de interior y de montaña, diseñando itinerarios de alto valor añadido que conviertan la preservación de la memoria histórica, las lenguas propias, la artesanía tradicional y el patrimonio inmaterial en el eje central de un modelo económico no estacional.\n - Mantener el apoyo, a través de líneas de ayudas específicas al comercio minorista, que le permita incorporar soluciones tecnológicas y procesos innovadores en su actividad, así como fomentar el uso de herramientas digitales como el comercio en línea, la factura electrónica o los servicios en nube.\n - Aprobar una reforma fiscal sectorial que contemple incentivos y deducciones en el Impuesto sobre Sociedades y en el régimen de personas trabajadoras autónomas para aquellos negocios de proximidad que realicen inversiones acreditadas en digitalización y eficiencia energética.\n - Dotar un fondo estatal específico de financiación, en colaboración con el Instituto de Crédito Oficial (ICO), que integre ayudas directas, líneas de crédito bonificadas y microcréditos a interés cero para fomentar el relevo generacional, la transmisión empresarial y la apertura de nuevos establecimientos, evitando así el cierre de negocios viables.\n - Crear una plataforma digital estatal de recursos y formación abierta que sirva de apoyo a la capacitación técnica de la población comerciante en competencias digitales y estrategias de comercialización omnicanal.\n - Coordinar con las comunidades autónomas una red nacional de protección del comercio de proximidad en el medio rural y en zonas afectadas por la despoblación, declarando el comercio rural como \"servicio de interés económico general\" para garantizar su supervivencia y arraigo.\n - Establecer la Estrategia Nacional de Mercados Municipales y Áreas Comerciales Urbanas, coordinando ayudas con las Administraciones locales y autonómicas para la rehabilitación energética de las infraestructuras comerciales y la reducción de la huella de carbono.\n - Promover un sello estatal de calidad y sostenibilidad para distinguir a los establecimientos comerciales minoristas que prioricen la venta de productos de kilómetro cero y la economía circular.\n - Lanzar campañas nacionales de concienciación y promoción del consumo responsable en el comercio local, visibilizando su valor como elemento vertebrador de la sociedad y dinamizador de la economía real.\n - Reorientar las políticas de comercio exterior para que los Acuerdos Comerciales y de Inversión sean coherentes con los derechos humanos, los sociales y las exigencias medioambientales."
+   },
+   {
+    "id": "pfac-0392",
+    "partido": "pfac",
+    "titular": "Recuperar la sanidad universal previa al RDL 16/2012 para todas las personas residentes",
+    "marca_actual": [],
+    "texto": "2. Recuperar la sanidad universal en los mismos términos en los que estaba antes del Real Decreto Ley 16/2012, garantizando la Tarjeta Sanitaria a todos las personas residentes en el Estado español."
+   },
+   {
+    "id": "pfac-0496",
+    "partido": "pfac",
+    "titular": "Priorizar la asistencia en el hogar y residencias públicas pequeñas para mayores",
+    "marca_actual": [],
+    "texto": "- MEDIDA 30. DISEÑAR POLÍTICAS PÚBLICAS PARA PERSONAS MAYORES QUE PRIORICEN LA ASISTENCIA TUTELADA EN EL HOGAR. Así como los centros de día y las residencias públicas de tamaño pequeño o mediano, eliminando progresivamente las de carácter hospitalario. Y garantizando a las personas mayores con suficiente autonomía, que fueran desalojadas por orden judicial, una solución habitacional digna en su entorno o próximo a él para evitar el desarraigo."
+   },
+   {
+    "id": "pfac-0586",
+    "partido": "pfac",
+    "titular": "Adaptar la vivienda, teleasistencia universal y ayuda a domicilio para envejecer en el entorno",
+    "marca_actual": [],
+    "texto": "9. Fortalecer el arraigo de las personas en su entorno sociocomunitario a través de medidas políticas de choque para la adaptación de la vivienda tradicional, incluyendo la teleasistencia avanzada universal, la ayuda a domicilio extendida y las subvenciones de accesibilidad."
+   },
+   {
+    "id": "ph-0048",
+    "partido": "ph",
+    "titular": "Regularizar a todas las personas migrantes residentes y abrir vías legales seguras",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Vías legales seguras y regularización extraordinaria** Apertura de vías legales, estables y seguras para los flujos migratorios. Regularización administrativa inmediata de todas las personas migrantes residentes actualmente en España, reconociendo de pleno derecho sus aportaciones fiscales y sociales. Derecho a elegir y ser elegidos en todas las convocatorias electorales a las personas que lleven viviendo en España más de tres años."
+   },
+   {
+    "id": "ph-0049",
+    "partido": "ph",
+    "titular": "Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública",
+    "marca_actual": [],
+    "texto": "- **Propuesta 3: Integración efectiva y convivencia intercultural. La educación como puente de la ciudadanía universal** Desarrollo de un Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública como eje vertebrador de la cohesión comunitaria. Garantía de acceso inmediato a la formación lingüística, planes de inmersión escolar con refuerzo docente en el barrio y mediación cultural para las familias. Se erradicará cualquier traba burocrática en la homologación de títulos y en la escolarización de menores, promoviendo espacios vecinales de encuentro e intercambio y educando en la no discriminación activa para transformar la diversidad en enriquecimiento social y superar el aislamiento y la exclusión."
+   },
+   {
+    "id": "ixlg-0025",
+    "partido": "ixlg",
+    "titular": "Empleo y FP en cuidados, y arraigo y retorno de jóvenes",
+    "marca_actual": [],
+    "texto": "03. Promover empleo estable y formación profesional en cuidados, así como vivienda, trabajo y formación que faciliten el arraigo y el retorno de jóvenes."
+   },
+   {
+    "id": "d21-0196",
+    "partido": "d21",
+    "titular": "Itinerario de acogida gratuito con idioma, orientación laboral y Constitución",
+    "marca_actual": [],
+    "texto": "- **Incentivos a la Integración:** integrarse empieza por entender el idioma y las reglas del juego. Toda persona que obtenga su primera autorización de residencia tendrá acceso gratuito a un itinerario de acogida: español (y la lengua cooficial donde la haya), orientación laboral y un módulo sobre la Constitución, nuestros derechos y deberes y el funcionamiento de los servicios públicos, también en formato digital para compatibilizarlo con el trabajo. Completarlo agilizará las renovaciones y preparará directamente los exámenes de idioma y cultura que exige la nacionalidad. Quien se esfuerza por integrarse tendrá siempre su recompensa."
+   },
+   {
+    "id": "comuns-0608",
+    "partido": "comuns",
+    "titular": "Prestación por crianza para todos los niños residentes, sin importar su situación administrativa",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Garantir la prestació per criança a tots els infants residents, independentment de la situació administrativa familiar, amb vies alternatives d’acreditació per als nascuts a l’estranger."
+   },
+   {
+    "id": "comuns-0626",
+    "partido": "comuns",
+    "titular": "Revisar los requisitos de residencia del IMV y eliminar barreras documentales",
+    "marca_actual": [],
+    "texto": "- Revisar els requisits de residència de l’IMV i eliminar barreres documentals injustificades, amb assessorament presencial i mediació intercultural."
+   },
+   {
+    "id": "comuns-0653",
+    "partido": "comuns",
+    "titular": "Acceso efectivo a la sanidad independientemente de la situación administrativa",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Garantirem l’accés efectiu a la sanitat independentment de la situació administrativa, eliminant barreres documentals i incorporant interpretació professional i mediació intercultural."
+   },
+   {
+    "id": "comuns-0743",
+    "partido": "comuns",
+    "titular": "Garantizar el acceso de las personas recién llegadas a la FP con itinerarios integrados",
+    "marca_actual": [],
+    "texto": "- Garantir l’accés de les persones nouvingudes a la formació professional. Desenvolupar, amb les administracions educatives, itineraris integrats de llengua, competències bàsiques, orientació i formació professionalitzadora, que prioritizi l’eliminació de barreres i tingui connexió amb l’ocupació."
+   },
+   {
+    "id": "comuns-0759",
+    "partido": "comuns",
+    "titular": "Facilitar el acceso a becas y matrícula del estudiantado extranjero y refugiado",
+    "marca_actual": [],
+    "texto": "- Evitar exclusions de l’estudiantat estranger i facilitar l’accés de les persones refugiades amb la revisió dels requisits administratius de les beques i els preus de matrícula."
+   },
+   {
+    "id": "comuns-0793",
+    "partido": "comuns",
+    "titular": "Revisar los requisitos que impiden inscribir a menores migrantes en competiciones de base",
+    "marca_actual": [],
+    "texto": "- Impulsarem, en coordinació amb les federacions esportives, les CCAA i els organismes estatals competents, la revisió dels requisits documentals que impedeixen la inscripció de menors migrants en competicions de base."
+   },
+   {
+    "id": "comuns-0922",
+    "partido": "comuns",
+    "titular": "Incluir a la juventud migrante, refugiada y extutelada en los programas de emancipación",
+    "marca_actual": [],
+    "texto": "- Garantir que els programes d’emancipació incloguin la joventut migrant, refugiada i extutelada, amb acompanyament per superar barreres documentals i discriminacions en l’accés a l’habitatge i l’ocupació."
+   },
+   {
+    "id": "comuns-0973",
+    "partido": "comuns",
+    "titular": "Financiación estatal estable de los servicios de acogida y acceso a derechos",
+    "marca_actual": [],
+    "texto": "- Establir, en cooperació amb les comunitats autònomes i els ajuntaments, un finançament estatal estable per reforçar els serveis d’acollida i accés als drets, incloent assessorament jurídic d’estrangeria, suport a l’empadronament, interpretació, mediació intercultural i acompanyament davant les discriminacions, amb atenció presencial i serveis itinerants als municipis petits i la participació de les entitats i les persones migrants i racialitzades."
+   },
+   {
+    "id": "comuns-0986",
+    "partido": "comuns",
+    "titular": "Garantizar el sufragio según la residencia, sin discriminar por país de origen",
+    "marca_actual": [],
+    "texto": "Les persones que viuen al país han de poder intervenir en les decisions que les afecten, tenint garantit el sufragi segons la seva residència, sense discriminació pel país d’origen."
+   },
+   {
+    "id": "comuns-0987",
+    "partido": "comuns",
+    "titular": "Voto municipal de las personas extranjeras tras un año de residencia",
+    "marca_actual": [],
+    "texto": "- Promoure les reformes constitucionals i de la LOREG per reconèixer el sufragi actiu i passiu en les eleccions municipals a les persones estrangeres a partir d’un any de residència, com a altres països de la UE."
+   },
+   {
+    "id": "comuns-0988",
+    "partido": "comuns",
+    "titular": "Eliminar el requisito de reciprocidad para el voto de las personas extranjeras",
+    "marca_actual": [],
+    "texto": "- Eliminar el requisit de reciprocitat entre països i establir un procediment censal accessible, amb informació multilingüe."
+   },
+   {
+    "id": "comuns-0989",
+    "partido": "comuns",
+    "titular": "Espacios estables de participación de comunidades migrantes y racializadas en políticas públicas",
+    "marca_actual": [],
+    "texto": "- Crear espais estables de participació de les comunitats migrants i racialitzades en el disseny i l’avaluació de les polítiques públiques, amb retorn motivat de les propostes."
+   },
+   {
+    "id": "comuns-0990",
+    "partido": "comuns",
+    "titular": "Facilitar la participación de las comunidades en consejos y consultas",
+    "marca_actual": [],
+    "texto": "- Facilitar la participació en consells, consultes i processos públics, amb resposta motivada a les aportacions de les comunitats."
+   },
+   {
+    "id": "comuns-1026",
+    "partido": "comuns",
+    "titular": "Que el traspaso en migración refuerce la acogida y la igualdad de derechos",
+    "marca_actual": [],
+    "texto": "- Garantir que qualsevol traspàs en migració reforci l’acollida, la igualtat de drets i la seguretat jurídica, amb recursos suficients i participació de les persones afectades."
+   },
+   {
+    "id": "comuns-1076",
+    "partido": "comuns",
+    "titular": "Derecho de voto de las personas inmigradas en todas las elecciones tras tres años",
+    "marca_actual": [],
+    "texto": "- Garantir el dret de vot per a les persones immigrades en totes les eleccions, a partir dels tres anys de residència."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jornada",
+  "pregunta": "¿Reducir la jornada laboral por ley?",
+  "posiciones": [
+   {
+    "id": "reducir",
+    "nombre": "Sí, reducirla sin bajar el sueldo"
+   },
+   {
+    "id": "no",
+    "nombre": "No por ley"
+   }
+  ],
+  "n": 32,
+  "palabras": 2111,
+  "candidatos": [
+   {
+    "id": "pfac-0273",
+    "partido": "pfac",
+    "titular": "Intervención pública contra la precariedad y hacia el Trabajo Garantizado",
+    "marca_actual": [],
+    "texto": "Frente a la lógica del mercado, el PFAC propugna una intervención pública decidida y valiente que reorganice las prioridades del Estado. Para lograrlo, situamos la socialización de la economía reproductiva y la garantía universal de los servicios públicos en el núcleo de la política económica, superando las camisas de fuerza fiscales como el artículo 135 de la Constitución. Esta reorientación exige reconfigurar el mercado laboral para acabar con la precariedad estructural, reducir la jornada laboral, erradicar las brechas salariales y dignificar los sectores feminizados, avanzando hacia el Trabajo Garantizado y asegurando el derecho a un empleo digno y con plenos derechos para toda la población.\n\nHistóricamente, la división sexual del trabajo ha situado a las mujeres en una posición de mayor precariedad, caracterizada por la concentración en sectores peor remunerados, el empleo a tiempo parcial y constantes interrupciones en sus trayectorias laborales. Al mismo tiempo, las ha hecho responsables del trabajo reproductivo no remunerado, el cual es indispensable para el mantenimiento de un sistema económico basado en el beneficio empresarial."
+   },
+   {
+    "id": "pfac-0280",
+    "partido": "pfac",
+    "titular": "Reducir la jornada laboral a 30 horas sin reducción salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- MEDIDA 16.REDUCIR LA JORNADA LABORAL A 30 HORAS SIN REDUCCIÓN SALARIAL, para mejorar la conciliación corresponsable, garantizando la Igualdad real en el empleo, poniendo fin a la brecha salarial y a los obstáculos para la progresión laboral de las mujeres."
+   },
+   {
+    "id": "pfac-0283",
+    "partido": "pfac",
+    "titular": "Reducir la jornada a 30 horas semanales sin reducción salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "1. Garantizar que la reducción de la jornada laboral a 30 horas semanales se genere sin reducción salarial, como medida de redistribución del tiempo de trabajo y del tiempo libre, acompañándola de las políticas necesarias para evitar que la reducción del tiempo laboral se traduzca en una sobrecarga de trabajo no remunerado para las mujeres."
+   },
+   {
+    "id": "pfac-0498",
+    "partido": "pfac",
+    "titular": "Subsanar la Ley 4/2026: beneficios fiscales, CUME más allá de 26 años y plazos",
+    "marca_actual": [],
+    "texto": "1. Subsanar las deficiencias y lagunas de la vigente Ley 4/2026 para garantizar la protección económica y la equiparación real de las personas con discapacidad y gran dependencia. Para ello debemos:\n - Equiparar de forma efectiva los beneficios fiscales: Automatizar la concesión de las deducciones y ventajas tributarias vinculadas a los grados de discapacidad (33% y 65%) a toda persona que tenga reconocido el Grado I o los Grados II y III de dependencia, unificando los criterios para evitar duplicidades burocráticas a las familias.\n - Blindar el subsidio por el cuidado de hijos o hijas con enfermedades graves: Modificar la Ley General de la Seguridad Social para garantizar por ley la percepción de la prestación económica (CUME) más allá de los 26 años, asegurando que el derecho laboral a la reducción de jornada esté siempre respaldado por su correspondiente cobertura económica.\n - Corregir las desigualdades territoriales en la asistencia: Habilitar una partida presupuestaria finalista y coordinada con las comunidades autónomas — incluyendo las adaptaciones necesarias en los regímenes civiles propios como el de Cataluña— para garantizar que el acceso a las prestaciones y los derechos de accesibilidad universal sean idénticos en todo el territorio estatal.\n - Adelantar los plazos de implantación de las ayudas: Adelantar la entrada en vigor de la compatibilidad total de prestaciones al próximo ejercicio fiscal y asegurar el cumplimiento real del plazo máximo de tres meses en la resolución de expedientes, eliminando el calendario de transitoriedad que pospone las mejoras hasta 2030."
+   },
+   {
+    "id": "pfac-0514",
+    "partido": "pfac",
+    "titular": "Limitar la parcialidad involuntaria con un mínimo de 30 horas semanales",
+    "marca_actual": [],
+    "texto": "17. Limitar los contratos a tiempo parcial involuntario, fijando un mínimo de 30 horas semanales obligatorias salvo petición expresa de la trabajadora o el trabajador."
+   },
+   {
+    "id": "pfac-0517",
+    "partido": "pfac",
+    "titular": "Plan Nacional de Formación Continua Gratuita para el personal cuidador",
+    "marca_actual": [],
+    "texto": "20. Crear un Plan Nacional de Formación Continua Gratuita dentro de la jornada laboral para el personal cuidador."
+   },
+   {
+    "id": "pfac-0862",
+    "partido": "pfac",
+    "titular": "Conciliación en empresas energéticas, donde las mujeres son el 18,2 % del empleo",
+    "marca_actual": [],
+    "texto": "23. Implementar políticas de flexibilización y conciliación laboral en empresas energéticas para revertir el hecho de que solo el 18,2% del empleo en este ámbito esté ocupado por mujeres."
+   },
+   {
+    "id": "ph-0010",
+    "partido": "ph",
+    "titular": "Reducir la jornada a 30 horas semanales en 4 días sin bajar el salario",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- **Propuesta 3: Reducción de la jornada laboral a 30 horas semanales** Reducción legal de la jornada ordinaria laboral a 30 horas semanales distribuidas en 4 días, sin reducción del salario. Esta medida redistribuye el trabajo existente frente al impacto de la automatización, mejora la salud física y mental de los trabajadores y fomenta la conciliación personal y comunitaria."
+   },
+   {
+    "id": "nex-0022",
+    "partido": "nex",
+    "titular": "Empleo garantizado con salario mínimo, 30 horas semanales y formación continua",
+    "marca_actual": [],
+    "texto": "18. Salario mínimo, 30 horas semanales y formación continua para dar el salto al empleo privado."
+   },
+   {
+    "id": "nex-0028",
+    "partido": "nex",
+    "titular": "Jornada de 32 horas, y de 30 en grandes empresas, sin bajar el sueldo",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "21. Jornada de 32 horas en todas las empresas y de 30 en las grandes, sin bajar el sueldo y con un año de apoyo a las pymes para contratar."
+   },
+   {
+    "id": "nex-0029",
+    "partido": "nex",
+    "titular": "Limitar la jornada partida, con mejor cotización y descanso pagado",
+    "marca_actual": [],
+    "texto": "22. Límites a la jornada partida, con mejor cotización y parte del descanso pagado."
+   },
+   {
+    "id": "nex-0033",
+    "partido": "nex",
+    "titular": "Jornada de 32 horas en la Administración General del Estado",
+    "marca_actual": [],
+    "texto": "26. Jornada de 32 horas en la Administración General del Estado y en todas las administraciones que lo decidan."
+   },
+   {
+    "id": "nex-0123",
+    "partido": "nex",
+    "titular": "Derecho a adaptar y reducir la jornada con hijos de 0 a 3 años",
+    "marca_actual": [],
+    "texto": "112. Derecho a adaptar y reducir la jornada con hijos de 0 a 3 años."
+   },
+   {
+    "id": "d21-0249",
+    "partido": "d21",
+    "titular": "Cotizar al 100 % la reducción de jornada por hijos hasta los 12 años",
+    "marca_actual": [],
+    "texto": "- **Criar sin Renunciar – Carreras y Pensiones sin Penalización:** la llegada de un hijo sigue frenando la carrera de la mayoría de las madres, y esa factura se paga décadas después en forma de pensiones más bajas. Hoy la reducción de jornada por cuidado de hijos solo cotiza al 100% durante tres años: ampliaremos esa protección a todo el periodo, hasta que el menor cumpla 12 años. Y como la adolescencia también necesita presencia, madres y padres podrán adaptar su horario o reducir su jornada hasta que sus hijos cumplan 16 años, y no solo hasta los 12 como ahora."
+   },
+   {
+    "id": "comuns-0074",
+    "partido": "comuns",
+    "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "Paral·lelament s’ha d’avançar en un model de fiscalitat més just per garantir uns serveis públics de qualitat a la ciutadania. Les pràctiques de reducció impositiva practicada en alguns països s’han mostrat no només nocives en termes de desigualtat entre ciutadans, també són un llast pel creixement econòmic i un risc per la democràcia. Per això hem d’aprofundir en mesures efectives que gravin els grans patrimonis que sovint han estat capaços de defugir el pagament d’impostos i especialment els ultrarics. No s’ha d’oblidar la importància de fiscalitat verda per fer efectiu el principi de qui contamina paga o el reforç de la imposició sobre qualsevol pràctica que desviï l’ús de l’habitatge residencial cap a altres usos o que afavoreixi l’especulació i la concentració de propietat. En definitiva, una fiscalitat en favor del 99%, ecològica i justa.\n\nEn l’àmbit laboral perseguirem la reducció de jornada i una millor conciliació. S’ha desmentit completament el mantra de que les pujades de salari mínim generen atur i queda desmentit que la reducció de la jornada laboral redueix la productivitat. Seguirem treballant per la qualitat de l’ocupació perquè aquesta és condició necessària per garantir una economia estable i productiva."
+   },
+   {
+    "id": "comuns-0211",
+    "partido": "comuns",
+    "titular": "Balance: empleo indefinido, SMI un 66 % más alto y 35 horas públicas",
+    "marca_actual": [],
+    "texto": "La legislatura que acaba ha demostrat que es poden ampliar drets laborals i crear ocupació alhora, perquè la reforma laboral ha fet de la feina indefinida la norma, el salari mínim ha crescut més d’un 66% des de 2018 i les pensions tornen a revaloritzar-se amb l’IPC, mentre que a l’Administració General de l’Estat la jornada ha baixat a 35 hores setmanals des del 16 d’abril de 2026, una mesura que beneficia unes 220.000 persones i que ha de servir de referència per a la resta d’administracions i empreses públiques. També ha mostrat, però, què passa quan una majoria del Congrés es posa al servei de les patronals, ja que PP, Vox i Junts van tombar la reducció de la jornada a 37,5 hores, i la dissolució de les Corts ha deixat sense aprovar la nova Llei de prevenció de riscos laborals pactada amb CCOO i UGT i el reial decret del registre de jornada digital.\n\nHem posat al davant la prevenció de riscos laborals i el registre de jornada, perquè sense salut a la feina i sense un control real del temps de treball la resta de drets es queden sense manera de fer-se complir."
+   },
+   {
+    "id": "comuns-0214",
+    "partido": "comuns",
+    "titular": "Ley del registro de jornada digital con acceso remoto de la Inspección",
+    "marca_actual": [],
+    "texto": "- Una llei del registre de jornada que incorpori a l’Estatut dels Treballadors el registre digital i l’accés remot de la Inspecció de Treball."
+   },
+   {
+    "id": "comuns-0215",
+    "partido": "comuns",
+    "titular": "Ley de jornada máxima de 37,5 horas semanales sin pérdida salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- La llei de reducció de la jornada màxima a 37,5 hores setmanals sense pèrdua salarial."
+   },
+   {
+    "id": "comuns-0237",
+    "partido": "comuns",
+    "titular": "Diagnóstico: 2,5 millones de horas extra semanales sin pagar ni cotizar",
+    "marca_actual": [],
+    "texto": "Segons l’informe de CCOO publicat l’agost de 2026, cada setmana es fan a l’Estat 6,4 milions d’hores extraordinàries, i 2,5 milions d’aquestes hores no es paguen ni es cotitzen, cosa que representa uns 3.400 milions d’euros l’any que deixen de cobrar les persones treballadores, la Seguretat Social i Hisenda, i l’equivalent a 68.000 llocs de treball a jornada completa.\n\nEl 2019 el Tribunal de Justícia de la Unió Europea va donar la raó a CCOO en el cas contra Deutsche Bank i va establir que les empreses han de tenir un sistema objectiu, fiable i accessible per registrar la jornada de cada persona. L’Estat ja havia introduït aquell mateix any l’obligació de registre a l’article 34.9 de l’Estatut dels Treballadors, però sense concretar com havia de ser, i encara avui es poden fer servir fulls de paper o de càlcul fàcils de manipular. El reial decret que havia de fer obligatori el registre digital va rebre el març de 2026 un dictamen contrari del Consell d’Estat i conti, però tant si s’aprova abans com si no, proposem elevar-lo a llei per donar-li més garanties i fer-lo independent d’un tràmit reglamentari."
+   },
+   {
+    "id": "comuns-0238",
+    "partido": "comuns",
+    "titular": "Jornada máxima de 37,5 horas por ley y diálogo social para llegar a 32",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Aprovar per llei la jornada màxima de 37,5 hores setmanals sense pèrdua salarial i obrir un procés de diàleg social per arribar a les 32 hores de mitjana en còmput anual al final de la legislatura, amb un programa d’ajuts per a les pimes que avancin la reducció mantenint l’ocupació."
+   },
+   {
+    "id": "comuns-0239",
+    "partido": "comuns",
+    "titular": "Extender las 35 horas a todo el sector público y avanzar hacia 32",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Estendre la jornada de 35 hores a totes les administracions i empreses públiques, avançar cap a les 32 hores setmanals al sector públic i incentivar que la resta de sectors redueixin la jornada setmanal o ampliïn els dies de vacances."
+   },
+   {
+    "id": "comuns-0240",
+    "partido": "comuns",
+    "titular": "Registro de jornada obligatoriamente digital, objetivo e inalterable",
+    "marca_actual": [],
+    "texto": "- Modificar l’article 34.9 de l’Estatut dels Treballadors perquè el registre de jornada sigui obligatòriament digital, personal, objectiu i inalterable, amb una traçabilitat que permeti saber qui ha fet cada anotació i quan, de manera que qualsevol modificació quedi registrada i justificada."
+   },
+   {
+    "id": "comuns-0241",
+    "partido": "comuns",
+    "titular": "Registrar todo el tiempo de trabajo, incluidas guardias y conexión en teletrabajo",
+    "marca_actual": [],
+    "texto": "- Registrar tot el temps de treball, incloent-hi l’inici i l’acabament de la jornada, les pauses, les hores extraordinàries i complementàries identificades com a tals, el temps de guàrdia i de disponibilitat, els desplaçaments entre centres i el temps de connexió en el teletreball i a les plataformes."
+   },
+   {
+    "id": "comuns-0242",
+    "partido": "comuns",
+    "titular": "Acceso remoto y en tiempo real de la Inspección a los registros de jornada",
+    "marca_actual": [],
+    "texto": "- Garantir l’accés remot, permanent i en temps real de la Inspecció de Treball i Seguretat Social als registres, amb un format interoperable i comú per a tots els programes de control horari, perquè la Inspecció pugui detectar els excessos de jornada sense desplaçar-se a l’empresa."
+   },
+   {
+    "id": "comuns-0243",
+    "partido": "comuns",
+    "titular": "Derecho a consultar el propio registro de jornada y a un resumen mensual",
+    "marca_actual": [],
+    "texto": "- Reconèixer el dret de cada persona treballadora a consultar el seu registre en qualsevol moment i a rebre un resum mensual amb la nòmina, i el dret de la representació legal a accedir als registres individuals i dades agregades per departaments i categories."
+   },
+   {
+    "id": "comuns-0244",
+    "partido": "comuns",
+    "titular": "Presumir válida la jornada declarada por el trabajador si no hay registro fiable",
+    "marca_actual": [],
+    "texto": "- Establir que, quan l’empresa no tingui un registre que compleixi la llei o el registre no sigui fiable, es presumeixi que la jornada realitzada és la que declara la persona treballadora i que totes les hores per sobre de la pactada s’han de pagar com a extraordinàries."
+   },
+   {
+    "id": "comuns-0245",
+    "partido": "comuns",
+    "titular": "Multas según los afectados e infracción muy grave manipular el registro",
+    "marca_actual": [],
+    "texto": "- Calcular les sancions en funció del nombre de persones treballadores afectades, perquè les multes siguin proporcionals a la mida del frau, i qualificar com a infracció molt greu la manipulació del registre i les hores extraordinàries no pagades ni cotitzades."
+   },
+   {
+    "id": "comuns-0246",
+    "partido": "comuns",
+    "titular": "Excluir datos biométricos y geolocalización permanente del registro de jornada",
+    "marca_actual": [],
+    "texto": "- Impedir que el registre de jornada serveixi per vigilar la plantilla, excloent-ne les dades biomètriques i la geolocalització permanent, en la línia dels criteris de l’Agència Espanyola de Protecció de Dades."
+   },
+   {
+    "id": "comuns-0247",
+    "partido": "comuns",
+    "titular": "Plan de choque de la Inspección contra las horas extra no pagadas",
+    "marca_actual": [],
+    "texto": "- Posar en marxa un pla de xoc de la Inspecció de Treball contra les hores extraordinàries no pagades, amb campanyes sectorials a l’educació, l’hostaleria, el comerç, la indústria i el transport, i destinar les cotitzacions recuperades a reforçar la mateixa Inspecció."
+   },
+   {
+    "id": "comuns-0248",
+    "partido": "comuns",
+    "titular": "Desconexión digital con protocolos obligatorios y adaptación de jornada por cuidados",
+    "marca_actual": [],
+    "texto": "- Fer efectiu el dret a la desconnexió digital, amb protocols negociats obligatoris i sanció en cas d’incompliment, i reforçar el dret a adaptar la jornada per motius de cura, amb resposta motivada de l’empresa en un termini màxim de quinze dies."
+   },
+   {
+    "id": "comuns-0330",
+    "partido": "comuns",
+    "titular": "Adaptar los permisos de cuidado y defunción a desplazamientos internacionales",
+    "marca_actual": [],
+    "texto": "- Adaptar els permisos de cura i per defunció a les necessitats de desplaçament internacional, amb terminis suficients i procediments accessibles per acreditar el vincle familiar i la causa del permís."
+   },
+   {
+    "id": "comuns-0862",
+    "partido": "comuns",
+    "titular": "Los cuidados como derecho universal y responsabilidad colectiva",
+    "marca_actual": [],
+    "texto": "Cal situar les cures com un dret universal i una responsabilitat col·lectiva, defensem la corresponsabilitat entre homes i dones, les administracions, les empreses i el conjunt de la societat. Apostem per la reducció de la jornada laboral, la reorganització dels temps de treball, la conciliació de les diferents esferes de la vida i unes polítiques públiques que garanteixin recursos suficients per sostenir la vida individual, familiar i comunitària. La qualitat de les cures ha d’anar necessàriament acompanyada de drets laborals, reconeixement professional i finançament públic suficient.\n\nLa salut, l’educació, els serveis socials i tots els àmbits relacionats amb la reproducció de la vida són pilars fonamentals de la democràcia i la cohesió social. Cal garantir-ne el finançament, la universalitat i la qualitat, i evitar que les retallades, la privatització o la manca de recursos tornin a situar les necessitats de les persones en un segon pla."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jefatura",
+  "pregunta": "¿Monarquía o república?",
+  "posiciones": [
+   {
+    "id": "monarquia",
+    "nombre": "Defender la monarquía o la Corona"
+   },
+   {
+    "id": "republica",
+    "nombre": "Avanzar hacia una república"
+   }
+  ],
+  "n": 10,
+  "palabras": 1238,
+  "candidatos": [
+   {
+    "id": "pfac-0143",
+    "partido": "pfac",
+    "titular": "Memoria democrática en el currículo e investigar el Patronato de Protección a la Mujer",
+    "marca_actual": [],
+    "texto": "- MEDIDA 7. SALVAGUARDAR LA MEMORIA DEMOCRÁTICA: Incluir la memoria democrática en el currículo educativo, visibilizando a las personas represaliadas, la resistencia feminista y la contribución del exilio republicano antifascista. Así como Investigar y depurar responsabilidades por las violaciones de derechos humanos contra mujeres y niñas del Patronato de Protección a la Mujer (1941-1985)."
+   },
+   {
+    "id": "pfac-0146",
+    "partido": "pfac",
+    "titular": "Reconocer la contribución del exilio republicano a las libertades europeas",
+    "marca_actual": [],
+    "texto": "2. Continuar con el reconocimiento de la contribución del exilio republicano en la recuperación de las libertades en los países europeos tras la II Guerra Mundial, contribución que supuso el exterminio de muchos compatriotas en los campos de concentración nazis y cuyo sacrificio se pretende ocultar con el resurgir de los fascismos."
+   },
+   {
+    "id": "pfac-0947",
+    "partido": "pfac",
+    "titular": "Presionar a Afganistán, Arabia Saudí, Irán y Siria por los derechos de las mujeres",
+    "marca_actual": [],
+    "texto": "14. Mantener una defensa activa de los derechos de las mujeres en entornos hostiles o bajo regímenes opresores, con atención a los contextos de los países en los que se desarrollan. En particular:\n - Reclamar que la legislación internacional permita identificar y clasificar a los países que niegan los derechos humanos de las mujeres como Estados que practican opresión o discriminación agravada por razón de sexo. Y que tal clasificación suponga un boicot internacional, de mayor dureza cuanto mayor sea la opresión o discriminación ejercida, mientras esos Estados mantengan esas políticas opresoras o discriminatorias.\n - Realizar acciones conjuntas con otros países y la ONU para exigir a Afganistán la inmediata restitución de todos los derechos de las mujeres y las niñas afganas, en plano de igualdad con los varones y niños y, hasta que los restituyan, adoptar cuantas medidas disuasorias estén al alcance de la comunidad internacional para conseguirlo. Reclamar que Afganistán declarado un Estado que practica opresión o discriminación agravada por razón de sexo, aplicándole un boicot radical en base a la dureza de sus políticas misóginas.\n - Liderar la presión internacional exigiendo a Arabia Saudí, Emiratos Árabes Unidos y otros países de la Península Arábiga la abolición total de la tutela masculina y la imposición del uso de la _abaya_ , así como la liberación inmediata de las activistas encarceladas. Condicionar las relaciones diplomáticas y comerciales con estos países al cumplimiento estricto de los derechos humanos de las mujeres, rechazando el lavado de imagen de estos regímenes y priorizando siempre su libertad y emancipación real.\n - Tras el fracaso institucional de la República Islámica de Irán para imponer el velo en la sociedad, exigir la eliminación de su uso en la administración pública, la derogación de las leyes de discriminación familiar sistémica, la abolición de la pena de muerte y la liberación inmediata de todas las mujeres defensoras encarceladas. Así mismo, impulsar una investigación internacional independiente de los crímenes de lesa humanidad cometidos durante la represión de las protestas contra el gobierno de Irán.\n - Congelar las relaciones diplomáticas con Siria hasta que no se celebren unas elecciones democráticas y exigir una investigación de las desapariciones y secuestros de mujeres y niñas, todas ellas en riesgo de violencia sexual y matrimonios forzados, y apoyo a las organizaciones feministas sirias y kurdas que defienden los derechos de las mujeres.\n - Vigilar y denunciar la violencia sistémica contra las mujeres en cualquier parte del mundo: violaciones de guerra, trata con fines de explotación sexual, feminicidios y ecofeminicidios, desapariciones forzadas, matrimonios de menores, mutilación genital femenina, etc. etc., reclamando de los Estados que la autoricen o consientan su total erradicación."
+   },
+   {
+    "id": "pfac-0996",
+    "partido": "pfac",
+    "titular": "Monarquía incompatible con el feminismo y defensa de un modelo federal",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "Desde la aprobación de la Constitución de 1978, España es un Estado aconfesional en régimen de monarquía parlamentaria, organizado en Comunidades Autónomas.\n\nDurante la transición se hurtó a la ciudadanía la posibilidad de optar a una jefatura de Estado republicana que restaurase la normalidad democrática perdida por el golpe de estado de 1936; por ello, nuestro país mantiene una monarquía hereditaria incompatible con la igualdad democrática y, por tanto, con el feminismo.\n\nPor otra parte, el PFAC es consciente de que el actual modelo territorial, definido por Comunidades Autónomas y elaborado con la práctica exclusión de las mujeres en su construcción, requiere una profunda revisión para garantizar, simultáneamente, la autonomía de los territorios de un país claramente plurinacional y la equidad entre los mismos. El PFAC defiende un modelo territorial basado en principios cooperativos, en vez de competitivos, y en estructuras horizontales, en detrimento de las verticales. Ambos principios están demostradamente presentes en modelos plenamente federales y resultan operativos y eficaces de los modelos plenamente federales. La federalización del Estado acabaría con los conflictos competenciales y competitivos entre las administraciones estatales y las autonómicas."
+   },
+   {
+    "id": "pfac-1001",
+    "partido": "pfac",
+    "titular": "Avanzar hacia un Estado republicano, federal y laico y derogar el concordato",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "- MEDIDA 50. AVANZAR HACIA UN ESTADO REPUBLICANO, FEDERAL Y LAICO. Abrir, sin más dilaciones, el debate social y político sobre el modelo de Estado; derogar el concordato con la Santa Sede y, en general, cualquier acuerdo con la Iglesia Católica, la Comisión Islámica y resto de religiones."
+   },
+   {
+    "id": "pfac-1002",
+    "partido": "pfac",
+    "titular": "Referéndum vinculante sobre la forma de Estado, apoyando una república federal",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "1. Impulsar un referéndum vinculante sobre la forma de Estado, apoyando la opción de una república laica, federal y feminista, basada en la cooperación solidaria entre pueblos y regiones."
+   },
+   {
+    "id": "pfac-1003",
+    "partido": "pfac",
+    "titular": "Difundir los valores ilustrados, igualitarios y feministas de la república",
+    "marca_actual": [],
+    "texto": "2. Promover y apoyar iniciativas democráticas encaminadas a difundir y extender los valores ilustrados, igualitarios y feministas de la república."
+   },
+   {
+    "id": "ph-0062",
+    "partido": "ph",
+    "titular": "Una Jefatura del Estado elegida y revocable frente a la monarquía hereditaria",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "Respecto a la Jefatura del Estado, el hecho de que sea de sucesión hereditaria es para los humanistas algo anacrónico e irracional que se mantiene porque su actual importancia es simbólica. No obstante, los símbolos juegan su papel y el de la monarquía hereditaria es totalmente contrario al principio de “nada por encima del ser humano y ningún ser humano por debajo de otro”. Para nosotros la Jefatura del Estado como cualquier otro puesto político debe ser elegido por la gente, sujeto a las mismas leyes que los demás ciudadanos y a la posibilidad de ser revocado por el pueblo, quién detenta la verdadera soberanía según la Constitución.\n\nEl Estado, como cualquier otra construcción humana, es histórico y por tanto sujeto a variación. En consonancia con nuestra aspiración de un nuevo tipo de ser humano solidario y no-violento, los humanistas aspiramos a la superación de un Estado y una organización social donde el ser humano no es el valor central y a la construcción de la Nación Humana Universal como la única patria digna del ser humano futuro."
+   },
+   {
+    "id": "comuns-1008",
+    "partido": "comuns",
+    "titular": "Resolver el encaje de Cataluña refrendando un acuerdo de federalismo plurinacional",
+    "marca_actual": [],
+    "texto": "Per això és important recordar que històricament, els grans avenços en l’autogovern i en el reconeixement nacional de Catalunya s’han produït quan hi ha unitat de les forces democràtiques i catalanistes en uns objectius compartits. I també quan a l’Estat hi ha hagut majories d’esquerres.\n\nEn la IVa Assemblea Nacional els Comuns vam manifestar que: “L’encaix de Catalunya a l’Estat continua sent una qüestió pendent de resoldre. Catalunya continua sent l’única comunitat que no té un Estatut aprovat per la seva ciutadania i les seves institucions i bona part del país expressa la seva desafecció cap a l’Estat. Pels Comuns, que tenim el referèndum com a horitzó, la resolució del conflicte implica referendar un acord. Un acord que cal construir entre les forces catalanes i després pactar amb l’Estat com a culminació del procés de diàleg”.\n\nAquest acord, pels Comuns, hauria de suposar l’encaix de Catalunya en un model d’Estat basat en els principis democràtics i republicans del federalisme plurinacional, de sobirania compartida i de ple reconeixement i articulació de la diversitat nacional, lingüística i territorial de l’Estat, amb les reformes legislatives i constitucionals necessàries."
+   },
+   {
+    "id": "comuns-1010",
+    "partido": "comuns",
+    "titular": "Horizonte de un Estado republicano, federal y plurinacional que regule el referéndum",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "Per resoldre de forma estructural l’articulació de la diversitat nacional de l’Estat l’horitzó que proposem és un model d’Estat republicà, federal i plurinacional, que reguli el referèndum, i reconegui plenament realitats nacionals com la catalana. Per això cal construir una majoria social i política a Catalunya i a l’Estat."
+   }
+  ]
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 2,
+  "palabras": 244,
+  "candidatos": [
+   {
+    "id": "comuns-1013",
+    "partido": "comuns",
+    "titular": "Balance: la amnistía y los acuerdos de la legislatura para Cataluña",
+    "marca_actual": [
+     "defender"
+    ],
+    "texto": "Aquesta legislatura ha estat la culminació del procés de desjudicialització del conflicte polític català amb la llei de l’amnistia, malgrat la resistència en la seva aplicació per part del Tribunal Suprem. És un èxit de l’estratègia de diàleg, negociació i acord que sempre hem defensat els Comuns.\n\nEl Govern de Coalició Progressista, del qual formem part, i els acords parlamentaris amb les altres forces catalanes, ha permès avenços importants per Catalunya com: l’ús de les llengües cooficials al Congrés, l’assumpció per part del Govern del reconeixement de l’oficialitat del català a Europa, el traspàs de la gestió de l’ingrés mínim vital, la creació d’una empresa mixta per operar els serveis de regionals i rodalies, el compromís del traspàs de diferents línies ferroviàries, el traspàs de les beques universitàries, a més dels acords en la condonació del deute del FLA i l’acord per un nou model de finançament. Altres acords com el traspàs en matèria d’immigració i el consorci d’inversions no han anat endavant perquè van ser rebutjats al Congrés.\n\nL’única via d’avenç possible per Catalunya és el diàleg i la cooperació. Els Comuns plantegem un pacte territorial en una doble dimensió: bilateral, en els espais previstos a l’Estatut, entre Catalunya i l’Estat, i multilateral, entre l’Estat i el conjunt de les comunitats autònomes."
+   },
+   {
+    "id": "comuns-1080",
+    "partido": "comuns",
+    "titular": "Reformar la memoria democrática y la amnistía de 1977 para juzgar el franquismo",
+    "marca_actual": [],
+    "texto": "- Reformarem de la Llei de memòria democràtica, la Llei d’amnistia de 1977 i la legislació penal per eliminar els obstacles legals a la investigació i l’enjudiciament dels crims del franquisme."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mercosur",
+  "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+  "posiciones": [
+   {
+    "id": "rechazar",
+    "nombre": "Rechazarlo o exigir cláusulas espejo"
+   },
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarlo"
+   },
+   {
+    "id": "salvaguardas",
+    "nombre": "Aplicarlo con salvaguardas y control"
+   }
+  ],
+  "n": 3,
+  "palabras": 198,
+  "candidatos": [
+   {
+    "id": "pfac-0977",
+    "partido": "pfac",
+    "titular": "Suspender el acuerdo con Mercosur y condicionar los acuerdos comerciales",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "1. Promover dentro de la UE que los Acuerdos Comerciales y de Inversión con países extracomunitarios sean coherentes con los objetivos sociales y medioambientales de los pueblos. En particular, proponer la suspensión del acuerdo con Mercosur que tendrá un impacto negativo en el sector agrario y ganadero europeo."
+   },
+   {
+    "id": "nex-0075",
+    "partido": "nex",
+    "titular": "No a Mercosur ni a tratados comerciales sin cláusulas espejo",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "65. No a Mercosur ni a ningún tratado comercial sin cláusulas espejo: las mismas exigencias laborales, ambientales y sanitarias para lo que viene de fuera."
+   },
+   {
+    "id": "comuns-0528",
+    "partido": "comuns",
+    "titular": "Rechazo al acuerdo UE-Mercosur y defensa de la soberanía alimentaria",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "Rebutgem i seguirem denunciant l’aplicació de l’acord entre la Unió Europea i Mercosur, i d’altres es facin en els mateixos termes, el nostre model, necessitem un nou model agroalimentari que garanteixi el dret a una alimentació saludable, la viabilitat de la pagesia i la ramaderia, la protecció del territori i la sobirania alimentària del país. El sector agrari no pot ser tractat com un sector residual ni subordinat als interessos de les grans cadenes de distribució, dels fons d’inversió o de les empreses integradores. És un sector estratègic des del punt de vista econòmic, social, territorial i ambiental. Sense pagesia no hi ha pobles vius, no hi ha gestió del territori, no hi ha alimentació de proximitat i no hi ha una transició ecològica justa"
+   }
+  ]
+ }
+]

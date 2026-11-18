@@ -247,7 +247,7 @@
       <section class="hero">
         <h1>Qué proponen los partidos para el 29N</h1>
         <p class="lead">Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href="#/" data-salto="h-temas">cada tema</a> y <a href="#/choques">dónde chocan</a> entre sí. No es lo que "dijo" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.</p>
-        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} págs.</span></li>`).join('')}</ul>
+        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} ${p.paginas === 1 ? 'pág.' : 'págs.'}</span></li>`).join('')}</ul>
       </section>
       <section class="bloque" aria-labelledby="h-temas">
         <div class="bloque-h"><h2 id="h-temas">Elige un tema</h2><p class="bloque-d">${D.bloques.length} temas y ${nSubtemas} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.</p></div>
@@ -388,7 +388,7 @@
             <span class="pg-n">${punto(p)}${esc(p.corto)}</span>
             <span class="pg-t">${esc(p.titulo)}</span>
             <span class="pg-d">${esc(p.nombre)}</span>
-            <span class="pg-s"><span><b>${p.paginas}</b> páginas</span><span><b>${fmt(nExt[p.id])}</b> extractos</span><span><b>${fmt(palabras[p.id])}</b> palabras</span></span>
+            <span class="pg-s"><span><b>${p.paginas}</b> ${p.paginas === 1 ? 'página' : 'páginas'}</span><span><b>${fmt(nExt[p.id])}</b> extractos</span><span><b>${fmt(palabras[p.id])}</b> palabras</span></span>
             <span class="pg-a">Leer el programa${ICO.der}</span>
           </a>
           <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF original${ICO.ext}</a>
@@ -425,7 +425,7 @@
             <h1>${esc(p.corto)}: <span class="prog-titulo">${esc(p.titulo)}</span></h1>
             <dl class="ficha">
               <div><dt>Candidatura</dt><dd>${esc(p.nombre)}</dd></div>
-              <div><dt>Fuente</dt><dd><a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} páginas${ICO.ext}</a> · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
+              <div><dt>Fuente</dt><dd><a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a> · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
               <div><dt>Contenido</dt><dd>${plural(l.length, 'extracto', 'extractos')}, ${fmt(palabras[pid])} palabras. Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.</dd></div>
             </dl>
             ${toc.length > 1 ? `<details class="toc-m"><summary>${ICO.chev}Índice del programa</summary><ol>${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}">${esc(c.t)}</a></li>`).join('')}</ol></details>` : ''}
@@ -715,7 +715,7 @@
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
     <details class="pie-fuentes">
       <summary>${ICO.chev}Fuentes: los ${todos.length} programas oficiales</summary>
-      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul>
+      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} ${p.paginas === 1 ? 'pág.' : 'págs.'}</li>`).join('')}</ul>
       <p>Datos del ${esc(fecha(D.generado))}.</p>
     </details>
     ${EMAILJS.plantilla ? `<form class="opina" novalidate>

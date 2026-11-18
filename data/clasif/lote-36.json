@@ -1,0 +1,2283 @@
+[
+ {
+  "id": "pfac-0687",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Diagnóstico: las mujeres víctimas, cuestionadas y sin apoyos en los procesos judiciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0688",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Diagnóstico: mujeres presas, el 7,1 %, con solo 4 prisiones femeninas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0689",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Diagnóstico: déficit del tratamiento penitenciario femenino y varones en módulos de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0690",
+  "subtema": "seg-justicia",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Dotar de recursos a la justicia y especializarla en violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0691",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Introducción a más medidas sobre justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0692",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Corregir las deficiencias del Plan Justicia 2030 para evitar dilaciones indebidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0693",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Elevar la ratio de jueces de 11,9 a 17,4 por cada 100.000 personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0694",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Garantizar la justicia gratuita a personas sin recursos y víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0695",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Ley de Garantías y Acceso Universal a la Justicia con Turno de Oficio público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0696",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Digitalizar la Administración de Justicia y permitir juicios telemáticos desde cada municipio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0697",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Mejorar y simplificar la Carpeta Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0698",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Modernizar los edificios y sedes judiciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0699",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Rebajar las mayorías parlamentarias para elegir a los vocales judiciales del CGPJ",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "parlamento"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0700",
+  "subtema": "seg-justicia",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Fiscalía investigadora, regular la acción popular y responsabilidad civil de la judicatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0701",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Representación paritaria de mujeres y hombres en todos los niveles de la judicatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0702",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Incrementar las cuotas de mujeres en las Fuerzas y Cuerpos de Seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0703",
+  "subtema": "igu-violencia",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Formación obligatoria en igualdad en Derecho y cumplir la Ley 1/2004",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0704",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Prohibir interrogatorios basados en estereotipos que revictimizan a las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0705",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prohibir el uso del Síndrome de Alienación Parental en procesos de custodia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0706",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Ampliar los Juzgados de Violencia sobre la Mujer a todas las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0707",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Rechazar la justicia restaurativa para mujeres víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0708",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Garantizar a las víctimas todas las medidas de protección del programa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0709",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Crear centros penitenciarios exclusivos para mujeres y ampliar las Unidades de Madres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0710",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Eliminar el sesgo sexista en la formación y reinserción de las mujeres presas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0711",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Programas de tratamiento específicos para mujeres en prisión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0712",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Tratamiento obligatorio para condenados por violencia machista sin reducción de condena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0713",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Crear puestos para profesionales de la criminología en prisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0714",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Más apoyo a mujeres presas y a aquellas cuyas parejas están en prisión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0715",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Separar las prisiones por sexo biológico, sin varones autoidentificados en módulos de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0716",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Cacheos solo por personal del mismo sexo, sin poder alegar el sexo registral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0717",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: emergencia climática y ambiental causada por la actividad humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0718",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Apoyo al Pacto Verde Europeo y su neutralidad climática para 2050",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0719",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Defensa del enfoque «Una sola salud» para personas, animales y ecosistemas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0720",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Acelerar la transición ecológica y repensar el modelo de producción y consumo",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0721",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "El ecofeminismo crítico como práctica política de transformación social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0722",
+  "subtema": "clima",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Incorporar el enfoque feminista y la participación de las mujeres en la transición ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0723",
+  "subtema": "clima",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Financiar la transición verde eliminando subsidios a combustibles fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0724",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Introducción a más medidas de transición ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0725",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Complementar el PIB con indicadores de bienestar social y ecológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0726",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Plan de Transición Ecológica Justa con un órgano interministerial de seguimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0727",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Elevar el gasto en protección ambiental del 1,59 % al 2,5 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0728",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reconversión industrial con empleos sostenibles y formación de plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0729",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Auditar los presupuestos y eliminar subsidios a combustibles fósiles y megaproyectos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0730",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Participación equitativa de las mujeres en las decisiones sobre territorio y energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0731",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Evitar que la transición ecológica aumente la pobreza energética de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0732",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Evaluar el impacto de las políticas verdes sobre la igualdad entre mujeres y hombres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0733",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Invertir en investigación para la transición ecológica en energía, industria y transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0734",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Rediseñar las ciudades según la «ciudad de los 15 minutos»",
+  "ejes": [],
+  "nota": "SIN ENCAJE: urbanismo y modelo de ciudad"
+ },
+ {
+  "id": "pfac-0735",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reformar los currículos para enseñar interdependencia y ecodependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0736",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Campañas divulgativas sobre una transición ecológica justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0737",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Impulsar políticas democráticas de decrecimiento en sectores no esenciales",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Crecimiento económico o decrecimiento? → decrecimiento"
+ },
+ {
+  "id": "pfac-0738",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Fomentar cooperativas de consumo y mercados de proximidad, con menos impuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0739",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Incentivar el transporte colectivo terrestre y desincentivar los vuelos no imprescindibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0740",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Combatir el consumo masivo y los imperativos de género en la publicidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0741",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Multar a empresas que venden productos de baja calidad y corta duración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0742",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Blindar por ley la jerarquía de los residuos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0743",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Erradicar la obsolescencia programada y obligar a productos reparables y reciclables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0744",
+  "subtema": "residuos",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Leyes de economía circular, impuestos al vertido y responsabilidad ampliada del productor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0745",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Vigilar la implantación del Sistema de Devolución y Retorno de envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0746",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Eliminar progresivamente los materiales no reciclables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0747",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Eliminar embalajes en comercios con sanciones y promover la venta a granel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0748",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Incentivar bioplásticos y embalajes reciclables y biodegradables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0749",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Ayudas a las industrias que usen menos envoltorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0750",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Tasas de basura según la cantidad generada: «quien contamina, paga»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0751",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Promover la municipalización de la recogida de basuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0752",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Impulsar la venta a granel en el comercio local con apoyo fiscal y económico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0753",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Espacios para donaciones, segunda mano y préstamo de herramientas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0754",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Promover espacios públicos compartidos para lavar ropa y textil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0755",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: impactos ambientales y sanitarios del modelo agroindustrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0756",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: las agricultoras no poseen la tierra y cobran un 25 % menos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0757",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Defensa de la soberanía alimentaria con perspectiva feminista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0758",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Establecer la soberanía alimentaria priorizando economías locales y cooperativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0759",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Introducción a más medidas de alimentación y soberanía alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0760",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Regular toda la cadena alimentaria para reducir riesgos nutricionales y químicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0761",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Retirar los pesticidas y fertilizantes químicos de alta toxicidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0762",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Mejorar el control de los Límites de Residuos Máximos en los alimentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0763",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Reforzar los sistemas de alerta rápida de productos contaminados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0764",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Incentivar los canales cortos de comercialización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0765",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Financiar la investigación pública en biofertilizantes y biopesticidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0766",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Prohibir los cultivos transgénicos que permitan el uso masivo de herbicidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0767",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Ayudas a alimentos saludables y tasas a los que no lo son",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0768",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Guías de alimentación saludable diferenciadas por sexo y etapa vital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0769",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Transición ecosocial y feminista hacia la sostenibilidad de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0770",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Impedir la privatización de bienes comunes como el agua, la tierra y las semillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0771",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Créditos preferenciales para maquinaria de precisión y riego eficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0772",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Inversión pública en cooperativas agrarias ecológicas, sobre todo de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0773",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Precios agrarios por encima de costes y prohibir la venta a pérdidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0774",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Control público de los precios de los alimentos básicos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Controlar o topar los precios de los alimentos básicos? → sí"
+ },
+ {
+  "id": "pfac-0775",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Revertir la privatización de los comedores en educación, sanidad y residencias",
+  "ejes": [],
+  "nota": "SIN ENCAJE: alimentación y comedores públicos"
+ },
+ {
+  "id": "pfac-0776",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Comedores de escuelas, hospitales y prisiones con producción local y ecológica",
+  "ejes": [],
+  "nota": "SIN ENCAJE: alimentación y comedores públicos"
+ },
+ {
+  "id": "pfac-0777",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Explorar una Red Pública de Supermercados para garantizar el derecho a la alimentación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0778",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Promover el agua envasada en vidrio con retorno de envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0779",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Bancos de tierras públicas para jóvenes y mujeres rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0780",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Etiquetado obligatorio del origen y la huella de carbono de los ingredientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0781",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto ecológico a grandes cadenas de distribución y ventajas a cooperativas agroecológicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0782",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Redirigir la PAC hacia prácticas sostenibles y no a la agricultura latifundista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0783",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Formación y empleo ecológico para mujeres en el mundo rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0784",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Financiar proyectos ecológicos que beneficien directamente a mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0785",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Estatuto del Personal Agrícola con igualdad salarial entre mujeres y hombres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0786",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: el medioambiente como determinante de la salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0787",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: España lidera en plaguicidas y transgénicos y pierde biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0788",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Introducción a las medidas para proteger los ecosistemas y la biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0789",
+  "subtema": "naturaleza",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Aplicar con más rigor la normativa de contaminación y sancionar a grandes empresas infractoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0790",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Apoyar cooperativas y startups de bioeconomía y economía circular lideradas por mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0791",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Capacitación en tecnologías verdes, especialmente entre las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0792",
+  "subtema": "naturaleza",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Regular más restrictivamente las sustancias tóxicas en materiales y productos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0793",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar el Plan Nacional de Restauración de la Naturaleza, con metas hasta 2050",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0794",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reforzar la prevención y alerta temprana de especies exóticas invasoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0795",
+  "subtema": "clima",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Planes para reducir las emisiones agrícolas y ganaderas y recuperar superficie forestal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0796",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Incluir en todas las políticas medidas contra la pérdida de biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0797",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Marcos jurídicos para proteger los bosques y el suelo forestal tras incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0798",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Fomentar la ganadería extensiva y el pastoreo para prevenir incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0799",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Moratorias a los megaproyectos de minería de tierras raras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0800",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ampliar la protección costera y demoler infraestructuras ilegales en primera línea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0801",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Recuperar suelo rústico y moratorias de construcción en municipios saturados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0802",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Regular el turismo con tasas ambientales y límites a cruceros y aforos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0803",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Investigar el efecto de la contaminación en la salud, desagregando por sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0804",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reducir progresivamente los plásticos en productos de consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0805",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Cumplir el Acuerdo 30x30 de protección del 30 % del territorio y el mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0806",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reforzar la protección de la Red Natura 2000 y sus planes de gestión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0807",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Invertir en humedales como Doñana, el Mar Menor y la Albufera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0808",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Apoyar la Estrategia Nacional de Infraestructura Verde y conectividad ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0809",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Apoyar la Estrategia Nacional de Lucha contra la Desertificación hasta 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0810",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: emergencia climática, negacionismo y DANA más destructivas en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0811",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "La justicia climática feminista y el liderazgo de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0812",
+  "subtema": "clima",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Pacto de Estado ante la emergencia climática y revisar al alza los compromisos",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0813",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Introducción a más medidas de justicia climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0814",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Paridad en los espacios de decisión sobre emergencias ambientales y leyes climáticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0815",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Cumplir taxativamente los compromisos climáticos de España",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0816",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Revisar al alza los compromisos climáticos y apoyar mayores exigencias internacionales",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0817",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Integrar ciencia y saberes tradicionales en las soluciones al cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0818",
+  "subtema": "clima",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Aplicar soluciones basadas en la naturaleza en ciudades, bosques y costas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0819",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Invertir en modelos urbanos e infraestructuras frente al calor extremo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0820",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Planificar la respuesta a emergencias derivadas de la crisis climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0821",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Reforzar el Plan Estratégico de Protección de la Costa frente al cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0822",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Proteger del impacto climático la economía y el empleo del sector marítimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0823",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Actualizar los Planes de Gestión de las Sequías con tecnologías digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0824",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Mejorar la coordinación en los Planes de Gestión del Riesgo de Inundación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0825",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Adecuar las infraestructuras hidráulicas a situaciones climáticas extremas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0826",
+  "subtema": "agua",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Limpiar cauces y endurecer la prohibición de construir en zonas inundables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0827",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Adaptar los planes de prevención y extinción de incendios a la nueva situación climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0828",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Financiar la prevención de incendios con gestión activa de los ecosistemas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0829",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Investigación y formación ante incendios de sexta generación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0830",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Ampliar las plantillas de bomberos forestales y agentes forestales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0831",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Renovar e incrementar la flota aérea contra incendios forestales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0832",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Fomentar la gestión forestal sostenible y su viabilidad económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0833",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Impulsar la Ley de Montes de Socios para gestionar terrenos forestales abandonados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0834",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Diagnóstico: agua y energía mercantilizadas como parte del derecho a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0835",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: brecha entre sexos en el acceso al agua y la energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0836",
+  "subtema": "ener-modelo",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Modelo energético descentralizado y plan de nacionalización de empresas de energía y agua",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Nacionalizar las empresas estratégicas de energía y agua? → sí"
+ },
+ {
+  "id": "pfac-0837",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Introducción a las medidas por un agua sostenible y un modelo energético limpio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0838",
+  "subtema": "ener-modelo",
+  "otros": [
+   "agua",
+   "eco-publico-banca"
+  ],
+  "titular": "Agua y energía como derechos: suministro mínimo, sin cortes y nacionalizar empresas",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Nacionalizar las empresas estratégicas de energía y agua? → sí"
+ },
+ {
+  "id": "pfac-0839",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Introducción a más medidas sobre agua y energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0840",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Cumplir la Directiva Marco del Agua en depuración y redes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0841",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Reformar y actualizar el Plan Hidrológico Nacional de 2001",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0842",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Presencia paritaria de mujeres en los órganos de gestión del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0843",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Ley del ciclo integral del agua con gestión pública directa y municipalizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0844",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Prohibir la privatización de manantiales y expropiar a las embotelladoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0845",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Auditorías feministas del efecto de los cortes de suministro sobre las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0846",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Invertir para garantizar agua de calidad y promover el agua del grifo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0847",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Controlar y minimizar las pérdidas en las redes de suministro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0848",
+  "subtema": "agua",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Frenar el urbanismo expansivo y los macro-regadíos que agotan acuíferos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0849",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Reducir la desalinización y usar siempre energía renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0850",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Normativas para aprovechar aguas grises y pluviales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0851",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Campañas para un consumo de agua consciente y eficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0852",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Aseos públicos gratuitos contra la pobreza hídrica y menstrual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0853",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Multiplicar las fuentes de agua potable en parques y calles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0854",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Nacionalizar las energéticas estratégicas y garantizar un mínimo energético barato o gratuito",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Nacionalizar las empresas estratégicas de energía y agua? → sí"
+ },
+ {
+  "id": "pfac-0855",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Campañas para un consumo de energía consciente y eficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0856",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Compromisos con las energéticas para renovables de proximidad en zonas degradadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0857",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "No prorrogar ninguna central nuclear y cerrarlas en el plazo establecido",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "cerrar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0858",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Prohibir la importación de gas obtenido por fracking",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0859",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Mejorar la normativa de comunidades energéticas y autoproducción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0860",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Programas de capacitación para que las mujeres trabajen en energías limpias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0861",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Cláusulas en contratos públicos energéticos para incorporar trabajadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0862",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Conciliación en empresas energéticas, donde las mujeres son el 18,2 % del empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0863",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Becas para cerrar la brecha entre sexos en ingenierías y renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0864",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Impulsar la I+D+i en energía mareomotriz, biomasa y tecnologías verdes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0865",
+  "subtema": "ener-modelo",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Eficiencia energética en edificios y objetivos de reducción de consumo por sectores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0866",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ayudas de «rehabilitación exprés» priorizando hogares vulnerables encabezados por mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0867",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Auditorías de impacto ambiental también para las renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0868",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Potenciar microcomunidades energéticas con liderazgo de mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0869",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Interconectar redes eléctricas entre países para evitar islas energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0870",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Invertir en grandes baterías e hidroeléctricas reversibles de bombeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0871",
+  "subtema": "residuos",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Convertir residuos no reciclables en energía para usos industriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0872",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Diagnóstico: zoonosis, resistencia a antibióticos y tráfico de fauna exótica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0873",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Vínculo entre bienestar humano y animal y protagonismo de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0874",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Diagnóstico: violencia vicaria con mascotas y más de 290.000 abandonos al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0875",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Diagnóstico: tauromaquia protegida, excepciones culturales y leyes animales dispares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0876",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Eliminar las excepciones de la ley de protección animal y prohibir los espectáculos taurinos",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0877",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Plan de acción estatal para la prevención de las zoonosis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0878",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Introducción a más medidas de salud y bienestar animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0879",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reconocer el bienestar animal como parte de la salud pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0880",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Implantar con la Alianza Cuatripartita el Plan de Acción «Una sola salud»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0881",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Plan «Una sola salud» coordinando sanidad, agricultura y medio ambiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0882",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Investigación y personal especializado en «Una sola salud» con paridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0883",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Presupuestos específicos para prevenir riesgos en la interfaz humano-animal-ambiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0884",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Normas estrictas sobre antibióticos en ganadería y medicina humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0885",
+  "subtema": "animales",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Eliminar el PRESVET de prescripción veterinaria por exceso de burocracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0886",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Impulsar las redes RASVE y RENAVE para compartir datos de zoonosis en tiempo real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0887",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Planes autonómicos coordinados ante enfermedades transmitidas por mosquitos y garrapatas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0888",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Analizar y atajar los factores de propagación de las zoonosis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0889",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Contabilizar la violencia contra mascotas en las estadísticas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0890",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Incluir a los animales de compañía en la futura Ley de violencia vicaria",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0891",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Medidas cautelares para proteger a las mascotas de los maltratadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0892",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Reforzar el programa ACOPET de acogida de mascotas de víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0893",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Intervención policial temprana ante maltrato animal en hogares con alerta de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0894",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Campañas en clínicas veterinarias para detectar violencia vicaria sobre mascotas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0895",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Modificar la Ley 7/2023 de bienestar animal para proteger sin excepciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0896",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Derogar el Real Decreto 666/2023 de prescripción veterinaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0897",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Rebajar el IVA veterinario al 7 %",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0898",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Abolir la tauromaquia y eliminar las ayudas a espectáculos con sufrimiento animal",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0899",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir en medios públicos programas que normalicen el maltrato animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0900",
+  "subtema": "animales",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Formar a jueces y policías en bienestar animal y crear juzgados especializados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0901",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Vigilar la identificación y esterilización obligatoria de animales de compañía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0902",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir la cría de animales de compañía con fines lucrativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0903",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Regular la cría de animales de granja con inspecciones periódicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0904",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Mantener las «3R» en experimentación animal y financiar alternativas éticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0905",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Cumplir el programa «Mejores Amigos» de asistencia veterinaria a familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0906",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Campañas permanentes sobre adopción responsable y tenencia ética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0907",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Acuerdos con clínicas para esterilizar perros y gatos a bajo coste",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0908",
+  "subtema": "animales",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Prohibir el sacrificio sin aturdimiento, sin excepciones religiosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0909",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Refugios municipales públicos y apoyo a centros de protección y santuarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0910",
+  "subtema": "animales",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Incluir el bienestar animal en la educación obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0911",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Subvencionar campañas de captura, esterilización y retorno en colonias felinas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0912",
+  "subtema": "animales",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Facilitar el acceso de animales de compañía a espacios y transportes públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0913",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Sustituir el listado de razas peligrosas por valoraciones de conducta individual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0914",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Menú sin alimentos de origen animal en todos los comedores públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0915",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Base de datos estatal de animales perdidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0916",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Más pipicanes, zonas verdes y playas para perros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0917",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Espacios con refugios y comederos para colonias felinas y aves urbanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0918",
+  "subtema": "animales",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Incluir la evacuación de animales en los protocolos de protección civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0919",
+  "subtema": "naturaleza",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Reforzar el SEPRONA y las aduanas contra el tráfico de especies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0920",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir el comercio de especies exóticas aunque no estén amenazadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0921",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Cuidar los espacios protegidos y afianzar corredores ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0922",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Planes de coexistencia entre ganadería extensiva y grandes depredadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0923",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Incentivos fiscales a vallas, mastines y otras medidas preventivas ante la fauna salvaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0924",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Programas de conservación de las especies más vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0925",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Financiar programas de reproducción y recuperación de fauna amenazada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0926",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "El feminismo como eje transversal de las relaciones internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0927",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Política exterior por la paz y el desarme, no basada en el gasto militar",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0928",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Una Europa con justicia social y derechos de las mujeres como centro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0929",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Feminismo internacionalista, pacifista y por la justicia climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0930",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diagnóstico: retroceso de los derechos de las mujeres en el mundo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0931",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Contra la industria global de la explotación sexual y reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0932",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diagnóstico: matrimonios forzados, mutilación genital y trata en muchos países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0933",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Impulsar la agenda feminista y la categoría «sexo» en la política exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0934",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Situar los derechos de las mujeres en el centro de la política exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0935",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Promover el reconocimiento internacional del sexo biológico como categoría jurídica",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sexo biológico o identidad de género como categoría jurídica? → sexo biológico"
+ },
+ {
+  "id": "pfac-0936",
+  "subtema": "igu-violencia",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Impulsar la abolición internacional de la prostitución y prohibir la gestación subrogada",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": "EJE NUEVO: ¿Qué hacer con la gestación subrogada? → prohibirla"
+ },
+ {
+  "id": "pfac-0937",
+  "subtema": "igu-violencia",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Prohibir globalmente los «vientres de alquiler» como delito de lesa humanidad",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la gestación subrogada? → prohibirla"
+ },
+ {
+  "id": "pfac-0938",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Condicionar los acuerdos comerciales al respeto de los derechos fundamentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0939",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Impulsar resoluciones en la ONU contra la violencia basada en el sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0940",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Coordinar con la Unión Europea y otros países la agenda feminista internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0941",
+  "subtema": "ext-politica",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Representación equitativa de las mujeres en los organismos internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0942",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Financiar investigaciones internacionales de crímenes contra mujeres y apoyar a la CPI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0943",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Ejecutar de forma preferente las resoluciones internacionales de derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0944",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Asilo a mujeres de zonas de guerra o perseguidas por razón de sexo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0945",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Sanciones y veto de entrada a responsables de violaciones de derechos de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0946",
+  "subtema": "ext-politica",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Fomentar la participación de las mujeres en los organismos internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pfac-0947",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Presionar a Afganistán, Arabia Saudí, Irán y Siria por los derechos de las mujeres",
+  "ejes": [],
+  "nota": ""
+ }
+]

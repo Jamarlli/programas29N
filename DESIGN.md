@@ -32,6 +32,13 @@ colors:
   partido-pnv: "#0c7248"
   partido-bildu: "#00a68f"
   partido-teruel: "#1e6048"
+  partido-pfac: "#7368af"
+  partido-ph: "#f08a24"
+  partido-nex: "#01c0a9"
+  partido-ixlg: "#119d53"
+  partido-soria: "#ea002a"
+  partido-d21: "#d9b800"
+  partido-comuns: "#e74116"
 typography:
   display:
     fontFamily: "Schibsted Grotesk, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -165,7 +172,7 @@ La página tiene dos voces. Lo que dicen los partidos va en serif (Newsreader) y
   - **Compromís** #e17a0d, **SALF** #b4902a (el dorado de su portada), **PACMA** #007e2a, **Frente Obrero** #7e1218, **Por un Mundo Más Justo** #8a5c46, **Falange** #1d1d1b (el negro de su bandera; su rojo se confundía con los de Frente Obrero y PCTE), **PCTE** #ae2a36 y **P. Autónomos** #001e5a.
   - **Podemos** #6a2e68 (su morado; el programa va en turquesa), **Adelante Andalucía** #1aa96c (el verde claro de su logo), **BNG** #499ad6, **ERC** #f05a3c (el coral de su logo), **Convergents** #26369e (el azul de su logo; el marino de su portada es el de P. Autónomos), **EAJ-PNV** #0c7248, **EH Bildu** #00a68f y **Teruel Existe** #1e6048.
 - Los naranjas, celestes y turquesas claros (Compromís, BNG, EH Bildu, Adelante Andalucía) se oscurecen lo justo para llegar a 3:1 de contraste sobre blanco. El lima de FA y el verde de Vox se dejan tal cual, aunque se quedan por debajo.
-- Los cuatro de la comparación por defecto se distinguen bien entre sí. Con 20 partidos hay pares cercanos (Compromís y SALF, PSOE y PCTE, PSOE y ERC, PP y Convergents, Vox y Adelante…), y con daltonismo se confunden más; por eso el color nunca identifica solo: siempre lleva al lado el nombre o la sigla, y cada partido ocupa siempre la misma posición.
+- Los cuatro de la comparación por defecto se distinguen bien entre sí. Con 27 partidos hay pares cercanos (Compromís y SALF, PSOE y PCTE, PSOE y Soria ¡Ya!, ERC y Comuns, PP y Convergents, Vox y Adelante, EH Bildu y NEX…), y con daltonismo se confunden más; por eso el color nunca identifica solo: siempre lleva al lado el nombre o la sigla, y cada partido ocupa siempre la misma posición.
 - Se definen en `data/partidos.json` (y los cuatro de la comparación por defecto también en `web/styles.css`).
 - Uso: punto de 8–10px delante del nombre, franja de 3–4px encima de columnas y tarjetas, subrayado de la pestaña activa y barras de la tabla de portada (la columna ya dice de qué partido es).
 
@@ -247,7 +254,7 @@ Plano: fondo gris, tarjetas blancas con un filo de 1px. No hay sombras; al pasar
 - **Pestañas de partido (móvil):** el nombre con su punto y su recuento; la activa en negrita y subrayada con el color del partido.
 
 ### Tabla de peso por tema (signature)
-Una fila por tema y una columna por partido, con el nombre y su punto en la cabecera. Cada celda lleva arriba la cifra de extractos; debajo, una barra de 6px del color del partido sobre pista gris, de ancho fijo (88px; 52px en móvil) para que se compare igual con 4 que con 20 partidos, y bajo ella, en pequeño, qué porcentaje de todos los extractos del partido trata ese tema. La barra no muestra esa cifra: reparte entre los partidos de la fila esos porcentajes ya normalizados por la extensión de cada programa, y las barras de una fila suman el 100 %. Así la barra más larga es la del partido que más peso da al tema dentro de su programa, no la del que más escribe. Escala fija de 0 a 100 %; la nota de encima lo explica. Al pulsar el nombre de un partido se ordena por su porcentaje; pulsar una fila abre el tema.
+Una fila por tema y una columna por partido, con el nombre y su punto en la cabecera. Cada celda lleva arriba la cifra de extractos; debajo, una barra de 6px del color del partido sobre pista gris, de ancho fijo (88px; 52px en móvil) para que se compare igual con 4 que con 27 partidos, y bajo ella, en pequeño, qué porcentaje de todos los extractos del partido trata ese tema. La barra no muestra esa cifra: reparte entre los partidos de la fila esos porcentajes ya normalizados por la extensión de cada programa, y las barras de una fila suman el 100 %. Así la barra más larga es la del partido que más peso da al tema dentro de su programa, no la del que más escribe. Escala fija de 0 a 100 %; la nota de encima lo explica. Al pulsar el nombre de un partido se ordena por su porcentaje; pulsar una fila abre el tema.
 
 ### Extracto plegable (signature)
 En «Resumen» muestra el titular en sans, un chevrón y dos líneas del texto literal en serif que se desvanecen; pulsar cualquiera de las dos cosas lo despliega. Abierto, enseña el texto completo, la medida, el enlace a la página del PDF y el apartado del programa. Junto al conmutador se avisa: «Los titulares son nuestros; el texto es literal del partido». Abierto, también lleva «Ver en su programa →». Lo que el partido trata en otros subtemas aparece plegado al pie de su columna («Lo trata también en otros subtemas»), como extractos que se despliegan ahí mismo.

@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "d21-0258",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Criterios comunes de idoneidad y expediente digital único para adoptar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0259",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Reconocer con rapidez la filiación de niños nacidos por gestación por sustitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0260",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Cribado de ansiedad y depresión perinatal y Escuelas de Familias gratuitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0261",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Crear Unidades de Enlace de salud mental en colegios e institutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0262",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Llamada en 72 horas y seguimiento de un año tras una conducta suicida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0263",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "La longevidad como reto: pensiones, soledad no deseada y cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0264",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Asamblea ciudadana de 150 personas por sorteo sobre el futuro de las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0265",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-gobierno-parlamento"
+  ],
+  "titular": "Reforzar la AIReF y publicar sus proyecciones de pensiones como datos abiertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0266",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Más y mejor empleo para ampliar la base de cotizantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0267",
+  "subtema": "fam-mayores",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Plan Estatal de Longevidad Saludable con cribado de fragilidad en primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0268",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Detectar la soledad no deseada y fomentar la mentoría intergeneracional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0269",
+  "subtema": "fam-mayores",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-alquiler"
+  ],
+  "titular": "Suelo público para cohousing sénior y programa de Alquiler Seguro Sénior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0270",
+  "subtema": "fam-mayores",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Impulsar la economía plateada y facilitar compatibilizar pensión y trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0271",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Modernizar el marco legal de protección animal escuchando a los veterinarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0272",
+  "subtema": "animales",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "IVA sanitario para servicios veterinarios y medicamentos veterinarios al 4 %",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0273",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Adscribir la profesión veterinaria a Sanidad y crear especialidades oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0274",
+  "subtema": "animales",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Permitir a los veterinarios dispensar medicamentos y derogar el Real Decreto 666/2023",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0275",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Nueva Ley de Bienestar Animal basada en criterios científicos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la Ley de Bienestar Animal de 2023? → sustituirla o reformarla"
+ },
+ {
+  "id": "d21-0276",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Fondo Estatal de Peritaje Veterinario Forense contra el maltrato animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0277",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Seguridad: policía moderna, justicia a tiempo y respaldo a quienes protegen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0278",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Dimensionar las plantillas policiales según la carga real de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0279",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Comisaría digital y denuncia online sin ratificación en la Policía Nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0280",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Evaluación anual pública de amenazas y planes territoriales de seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0281",
+  "subtema": "seg-policia",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Profesión de riesgo con jubilación anticipada y culminar la equiparación salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0282",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Regular por ley las Zonas de Especial Singularidad con incentivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0283",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Revisión independiente de medios policiales y militares y chaleco para cada agente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0284",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Ley de la Carrera Militar sin salida forzosa a los 45 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0285",
+  "subtema": "seg-defensa",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Reconocer la profesión militar como profesión de riesgo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0286",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reclasificar los empleos militares y nuevo reglamento de retribuciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0287",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Nueva ley procesal penal que acabe con las instrucciones interminables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0288",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Espacio para la víctima en Carpeta Justicia y más ayudas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0289",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Centro nacional permanente contra el fraude digital y las ciberestafas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0290",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: desertificación, incendios y fugas de agua exigen anticipar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0291",
+  "subtema": "naturaleza",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Gestionar un millón de hectáreas de monte al año contra los incendios",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0292",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Sistema de alerta operativa de riesgo de incendio con avisos al móvil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0293",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Bomberos forestales todo el año con financiación estatal condicionada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0294",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Restaurar con rapidez y criterios científicos los montes quemados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0295",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Comisión Técnica del Agua independiente y Plan Director de Inversiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0296",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Ejecutar al 100 % las obras de los planes de riesgo de inundación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0297",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Triplicar la renovación de redes de agua y tarifas progresivas por consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0298",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Desalación con renovables, reutilización de aguas y riego inteligente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0299",
+  "subtema": "clima",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Llamada o visita en 24 horas a personas vulnerables ante calor extremo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0300",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Mapa nacional de islas de calor y fondo municipal para arbolado y sombra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0301",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Retorno de envases con puntos de devolución en el comercio de barrio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0302",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Tasa de basuras según lo generado y recogida de la materia orgánica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0303",
+  "subtema": "residuos",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Incentivos a pescadores por retirar basura marina y filtros contra plásticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0304",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Liderar: convertir los grandes momentos de España en la norma",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0305",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivos para liderar: energía, Europa, derechos, cultura y deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0306",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "España como potencia de energía limpia con regulación tecnológicamente neutral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0307",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Prohibir por ley cambios retroactivos sobre proyectos de generación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0308",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Neutralidad tecnológica: renovables, almacenamiento y respaldo firme en igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0309",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Sustituir la intervención de precios por competencia y bono social eléctrico automático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0310",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Reestructurar los tributos energéticos para dejar de penalizar la electricidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0311",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Separar la operación del sistema eléctrico de la red y abrirla a capital privado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0312",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reconocer el almacenamiento energético como pilar estratégico del sistema",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0313",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Inteligencia artificial en la red eléctrica y más interconexiones con Europa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0314",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Zonas industriales verdes con trámites en una ventanilla única digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0315",
+  "subtema": "eco-industria",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Compra agregada de energía renovable a 10 o 15 años para pymes industriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0316",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Abrir los mercados de flexibilidad eléctrica a la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0317",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Refundar el pacto europeo con España como motor reformista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0318",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Congelar fondos europeos a gobiernos que vulneren el Estado de derecho",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0319",
+  "subtema": "ext-ue",
+  "otros": [
+   "seg-ciberseguridad",
+   "inst-medios"
+  ],
+  "titular": "Desarrollar el Escudo Europeo de la Democracia frente a injerencias y desinformación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0320",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Aplicar los informes Draghi y Letta para un mercado único real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0321",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Culminar la Unión de Ahorros e Inversiones europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0322",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "PAC y política pesquera para la autosuficiencia alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0323",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reforzar el pilar europeo de defensa y las compras conjuntas de armamento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0324",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Destinar fondos europeos no ejecutados a vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0325",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Estrategia europea contra la despoblación en la España interior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0326",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "inst-ceuta-melilla"
+  ],
+  "titular": "Pacto insular europeo y estatus de protección para Ceuta y Melilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0327",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Ni un paso atrás en igualdad, derechos LGTBIQ+, aborto y discapacidad",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0328",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Defender la igualdad real y erradicar la brecha salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0329",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Bloquear cualquier intento de desmantelar la protección a víctimas de violencia machista",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0330",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Oponerse a derogar o limitar la actual ley de plazos del aborto",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0331",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Garantizar la interrupción voluntaria del embarazo en la sanidad pública",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0332",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Oponerse a cualquier recorte de los derechos LGTBIQ+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0333",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Aplicar la ley contra los discursos de odio y las terapias de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0334",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Blindar el presupuesto y los derechos de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0335",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar la inclusión laboral, educativa y digital de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0336",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "La cultura como derecho: 3,4 % del PIB y 770.000 empleos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0337",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Nueva Ley del Cine con incentivo fiscal del 35 % desde el primer euro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0338",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Convertir el ICAA en un Centro Nacional del Cine independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0339",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear Sociedades de Inversión Cultural con deducción fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0340",
+  "subtema": "inst-medios",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Elegir el Consejo de RTVE por concurso público y dos tercios de las Cortes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0341",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Repartir la publicidad institucional con criterios objetivos fijados por ley",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0342",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Dirigir museos y teatros públicos por concurso internacional de méritos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0343",
+  "subtema": "cultura",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Licenciar y remunerar las obras usadas para entrenar IA y etiquetar su contenido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0344",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear la Oficina Española de Derechos de Autor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0345",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Completar el Estatuto del Artista con fiscalidad para ingresos irregulares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0346",
+  "subtema": "cultura",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Bajar al 10 % el IVA de la música grabada",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0347",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crédito fiscal del 30 % para producir videojuegos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0348",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ayudas plurianuales a compañías, salas y festivales resueltas antes de la temporada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0349",
+  "subtema": "cultura",
+  "otros": [
+   "edu-modelo",
+   "fam-discapacidad"
+  ],
+  "titular": "Que ningún estudiante acabe la ESO sin ir al teatro, museo y cine",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0350",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Entrada gratuita a los museos públicos los fines de semana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0351",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Plan de Internacionalización de la Cultura española y en español",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0352",
+  "subtema": "cultura",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Líneas de ENISA y CDTI para la innovación en las industrias culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0353",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Deporte: proteger a los deportistas retirados, unir deporte y salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0354",
+  "subtema": "deporte",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Reconocer como cotizados los años de carrera de deportistas de alto nivel desde 1980",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0355",
+  "subtema": "deporte",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Cotizar según las becas percibidas y recalcular de oficio las pensiones de deportistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0356",
+  "subtema": "deporte",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Alta en la Seguridad Social de deportistas de alto nivel desde el inicio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0357",
+  "subtema": "deporte",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Que ninguna deportista pierda sus becas por embarazo hasta dos años después",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0358",
+  "subtema": "deporte",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Acreditar las competencias de deportistas retirados para obtener títulos de FP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0359",
+  "subtema": "deporte",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Reducir al 10 % el IVA de los servicios deportivos",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "d21-0360",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Extraescolares deportivas gratuitas y Pasaporte Deportivo Joven contra el abandono",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "d21-0361",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Mecenazgo deportivo, fondo para el deporte base y gobernanza federativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0001",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: la crisis de la vivienda como expresión de la desigualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0002",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Un servicio público de vivienda como pilar del Estado del bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0003",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "El 29N como plebiscito sobre la vivienda como derecho o como mercado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0004",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Invertir el 1 % del PIB durante 10 años en vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0005",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ningún desahucio de personas vulnerables sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0006",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Ayudas de hasta el 100 % del alquiler para 500.000 familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0007",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Programa de igualdad de trato en el acceso al alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0008",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Sistema estatal de atención a personas en riesgo de desahucio y sinhogarismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0009",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ley del derecho al hogar para que en 2030 nadie duerma en la calle",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0010",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Hacer permanentes las medidas del Decreto Mari Carmen sobre desahucios y alquileres",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   },
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0011",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Alquiler social obligatorio de siete años para grandes tenedores ante familias vulnerables",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0012",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Asistencia jurídica gratuita a inquilinos y juzgados especializados en vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0013",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Convertir el derecho constitucional a la vivienda en un derecho exigible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0014",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Cláusulas abusivas como causa de oposición y régimen sancionador en arrendamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0015",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Reforzar la perspectiva antirracista en las políticas de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0016",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Sancionar la discriminación en el mercado inmobiliario y prevenir la segregación residencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0017",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Garantizar al pequeño propietario el cobro del alquiler durante la moratoria de desahucios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0018",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Cubrir los impagos a propietarios que cedan su vivienda a bolsas públicas de alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0019",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Contrato indefinido por defecto y bajar un 30 % el índice del alquiler",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0020",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Carta estatal de derechos de las personas inquilinas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0021",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Declarar la vivienda derecho subjetivo exigible ante la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0022",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-derecho",
+   "dig-ia"
+  ],
+  "titular": "Topes al alquiler, Agencia Estatal de la Vivienda y prohibir algoritmos de precios",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "mantener-ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0023",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Parque social del 15 % y vivienda protegida de calificación permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0024",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Construir 500.000 viviendas en suelo público, al menos la mitad de alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0025",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Industrialización para acelerar la promoción de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0026",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Comprar 600.000 viviendas mediante el derecho de tanteo y retracto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0027",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Comprar 35.000 viviendas al año por tanteo y retracto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0028",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Ley de Expropiación de viviendas a propietarios con más de 1.000 viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0029",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Cesión de 100.000 viviendas de bancos y grandes tenedores y movilizar las vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0030",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Financiar el parque público con créditos ICO, capital público y cesión de suelo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0031",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Plan Estatal de Vivienda Rural y Repoblación para movilizar viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0032",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Financiar a los ayuntamientos para expropiar suelo sin edificar en manos de especuladores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0033",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Destinar el 20 % de la deuda autonómica condonada a vivienda pública de alquiler",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0034",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Permitir a los ayuntamientos destinar sus remanentes a vivienda pública de alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0035",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir en zonas tensionadas comprar vivienda que no sea para vivir",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0036",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Acabar con los alquileres turísticos ilegales y prohibir o limitar el alquiler turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0037",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Subir al 21 % el IVA de los pisos turísticos",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0038",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Introducción: cambiar las reglas del juego fiscales de la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0039",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Suprimir la desgravación genérica del 50 % en el IRPF del alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0040",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Eliminar los beneficios fiscales de las SOCIMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0041",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "IVA del 4 % para promover vivienda protegida de alquiler o cesión de uso",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0042",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Modificar el ITP para poder subirlo a los grandes tenedores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0043",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Sin IVA ni ITP en la primera vivienda y recargos desde la segunda",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0044",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Suprimir deducciones a pisos turísticos en zonas tensionadas e imputar 20 % a vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0045",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Nuevos impuestos finalistas para construir el sistema público de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0046",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Impuesto del 10 % del valor catastral a la acumulación de viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0047",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Impuesto de Participación de los Empresarios en el Esfuerzo de Construcción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0048",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Segunda oportunidad para liquidar la deuda hipotecaria tras perder la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0049",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Procedimiento extrajudicial para resolver el sobreendeudamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0050",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Liberar de la deuda a los fiadores familiares hasta tercer grado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0051",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Parar ejecuciones hipotecarias y desahucios consignando las cuotas vencidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0052",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "El Estado asumirá vivienda e hipoteca para erradicar desahucios de primera vivienda",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0053",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Deducción en el IRPF de hasta 300 euros al mes para hipotecados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0054",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Dación en pago obligatoria en ejecuciones hipotecarias de vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0055",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Portabilidad real de hipotecas, frenar cláusulas abusivas e hipoteca fija regulada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0056",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Rehabilitar edificios sin provocar expulsiones ni gentrificación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0057",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Rehabilitar 2,5 millones de viviendas en 10 años para reducir su consumo energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0058",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Fondo específico para barrios vulnerables o de alta complejidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0059",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Inscribir las ayudas a la rehabilitación como carga registral retornable al vender",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0060",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Condicionar las ayudas a la rehabilitación a vivienda habitual con renta limitada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0061",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Áreas de Rehabilitación Estratégica en los municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0062",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Comisión parlamentaria de investigación sobre la gestión de la Sareb desde 2012",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0063",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Más ayudas a rehabilitar edificios condicionadas a crear vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0064",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Programa estatal de rehabilitación y vivienda asequible en municipios rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0065",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Limitar las subidas del alquiler y vivienda con servicios para mayores y jóvenes",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ }
+]

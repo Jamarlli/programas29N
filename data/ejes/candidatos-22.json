@@ -1,0 +1,1425 @@
+[
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   }
+  ],
+  "n": 52,
+  "palabras": 4604,
+  "candidatos": [
+   {
+    "id": "pfac-0317",
+    "partido": "pfac",
+    "titular": "Impulsar la titularidad compartida con bonificación del 100 % de cuotas cinco años",
+    "marca_actual": [],
+    "texto": "1. Impulsar la efectiva implantación de la Ley de Titularidad Compartida en las explotaciones agrarias para garantizar la equidad laboral en el medio rural, mediante el desarrollo conjunto de las siguientes actuaciones:\n - Simplificar y agilizar los trámites de inscripción en el registro mediante una ventanilla única digital que coordine de forma directa las Oficinas Agrarias y la Seguridad Social.\n - Abonar una bonificación del 100% en las cuotas de la Seguridad Social durante los primeros cinco años a quienes se incorporen como cotitulares.\n - Establecer deducciones fiscales específicas en el IRPF y priorizar el acceso a las ayudas de la PAC y fondos de desarrollo rural a las explotaciones con gestión compartida formalizada.\n - Garantizar el acceso igualitario a la titularidad agraria y a los derechos económicos derivados mediante la reforma de la Ley de Titularidad Compartida, estableciendo su obligatoriedad legal en todos los casos donde se verifique el desarrollo de un trabajo agropecuario compartido.\n - Tipificar como una modalidad de violencia económica la privación deliberada del derecho a la cotitularidad o propiedad de la explotación hacia la pareja que ejerce el trabajo agrario, promoviendo su reconocimiento e inclusión dentro del marco legal del Estado en materia de prevención de la violencia machista.\n - Desarrollar campañas permanentes de difusión institucional y formación del personal técnico orientadas a asesorar de manera directa y próxima a las familias del sector agropecuario.\n - Crear un observatorio de seguimiento estatal para corregir los desequilibrios de inscripción entre las distintas comunidades autónomas y vincular esta figura legal a los planes de relevo generacional."
+   },
+   {
+    "id": "pfac-0351",
+    "partido": "pfac",
+    "titular": "Reforma tributaria integral para recaudar más y que paguen más quienes más tienen",
+    "marca_actual": [],
+    "texto": "Garantizar servicios públicos requiere recursos y en España recaudamos menos, en relación con la riqueza medida en términos de PIB, que en el promedio de los países de la Unión Europea. Financiar el Estado del Bienestar no es un lujo por encima de nuestras posibilidades; es la red de seguridad de la ciudadanía, la garantía de la igualdad de oportunidades y el vector de la cohesión social y territorial del Estado. De ahí que el sistema fiscal no sólo tenga que asegurar los ingresos necesarios para la provisión de las políticas públicas, sino que también debe cumplir con los principios constitucionales de equidad y progresividad, así como asegurar que la igualdad de oportunidades sea efectiva y reducir la desigualdad social, territorial y por sexo.\n\nPor todo lo anterior, consideramos necesaria una reforma integral de nuestro sistema tributario en términos de aumentar su suficiencia, mejorar su equidad, afrontar nuevas tributaciones medioambientales y acabar con la economía sumergida y el fraude fiscal.\n\nPara reformar el actual sistema fiscal de forma que se obtengan más ingresos, pero repartiendo la carga tributaria para que paguen más los que más tienen, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0352",
+    "partido": "pfac",
+    "titular": "Aumentar la progresividad fiscal subiendo o eliminando los topes superiores",
+    "marca_actual": [],
+    "texto": "- MEDIDA 21.APLICAR MAYOR PROGRESIVIDAD FISCAL SUBIENDO O ELIMINANDO LOS TOPES SUPERIORES, así como evitar la ingeniería fiscal que permite eludir impuestos a quienes más tienen. Garantizando que la carga impositiva de la ciudadanía sea la misma en todo el territorio español."
+   },
+   {
+    "id": "pfac-0353",
+    "partido": "pfac",
+    "titular": "Entradilla de las actuaciones de la reforma fiscal",
+    "marca_actual": [],
+    "texto": "Para ello, resulta necesario poner en marcha las siguientes actuaciones"
+   },
+   {
+    "id": "pfac-0355",
+    "partido": "pfac",
+    "titular": "Fijar tramos y tipos idénticos de IRPF en todas las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "2. Fijar tramos y tipos idénticos de IRPF en todas las comunidades autónomas, eliminando la capacidad normativa autonómica para establecer los mínimos de renta personales y familiares no sometidos a gravamen, a fin de garantizar que todos los contribuyentes con idénticas cargas familiares tengan exactamente la misma renta exenta de tributación, con independencia de su comunidad de residencia."
+   },
+   {
+    "id": "pfac-0357",
+    "partido": "pfac",
+    "titular": "Añadir tramos superiores al IRPF con tipos más altos",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "4. Añadir nuevos escalones de renta en la parte superior de la base liquidable actual del IRPF, asignándoles tipos impositivos progresivamente más altos para hacer más justa la tributación de las rentas del trabajo."
+   },
+   {
+    "id": "pfac-0360",
+    "partido": "pfac",
+    "titular": "Eliminar la deducción de gastos educativos en el IRPF",
+    "marca_actual": [],
+    "texto": "7. Eliminar la deducción de gastos educativos en IRPF porque sólo benefician a los usuarios de educación privada."
+   },
+   {
+    "id": "pfac-0361",
+    "partido": "pfac",
+    "titular": "Eliminar las deducciones por planes de pensiones",
+    "marca_actual": [],
+    "texto": "8. Eliminar las deducciones a planes de pensiones, dado que son un incentivo a la privatización de estos, no son deducciones reales sino un aplazamiento de la carga impositiva y, además, porque las oscilaciones del mercado bursátil pueden hacer perder el esfuerzo de ahorro de las clases trabajadoras."
+   },
+   {
+    "id": "pfac-0362",
+    "partido": "pfac",
+    "titular": "Política fiscal y de gasto social orientada a colectivos vulnerables y monoparentales",
+    "marca_actual": [],
+    "texto": "9. Asegurar la protección de los colectivos vulnerables y de la clase trabajadora con una política fiscal y de gasto social orientada a sus necesidades, prestando especial atención a las familias monoparentales y a la atención a la dependencia."
+   },
+   {
+    "id": "pfac-0375",
+    "partido": "pfac",
+    "titular": "Controlar sociedades patrimoniales y entidades usadas para eludir el IRPF",
+    "marca_actual": [],
+    "texto": "22. Realizar un control exhaustivo de las sociedades patrimoniales, de las entidades que no reparten dividendos e incrementan sus reservas indefinidamente, y de las que declaran pérdidas de forma continuada, argucias ampliamente usadas para la elusión del IRPF por parte de sus personas asociadas y de quienes las administran."
+   },
+   {
+    "id": "pfac-0997",
+    "partido": "pfac",
+    "titular": "Modificar el artículo 135 y derogar la Ley de Estabilidad Presupuestaria",
+    "marca_actual": [],
+    "texto": "Así mismo, tanto las Comunidades Autónomas como las corporaciones locales dependen de una adecuada financiación para desarrollar sus competencias y poder mantener unos servicios públicos de calidad. Sin embargo, afrontan grandes problemas de financiación que también afectan a la Hacienda estatal y a la Seguridad Social. Es un problema de insuficiencia de ingresos y no de exceso de gastos. Por ello, es necesaria una reforma fiscal que haga efectivo el principio de progresividad recogido en el artículo 31 de la Constitución Española y que permita un aumento de los ingresos públicos. Así como la modificación del artículo 135 de la Constitución, y la derogación de la Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF) que lo desarrolla, que obliga a las administraciones públicas a registrar equilibrio presupuestario lo que impide incurrir en crecimiento del gasto y de la inversión, imposibilita la ampliación de las plantillas y obliga a usar los posibles superávits solo para amortizar deuda.\n\nHasta tanto se produzca la modificación del artículo 135 de la CE y la Ley orgánica que lo desarrolla, resulta evidente que es necesario reforzar los mecanismos verticales de cooperación entre el Gobierno central y los gobiernos autonómicos, y los horizontales entre las propias autonomías."
+   },
+   {
+    "id": "ph-0009",
+    "partido": "ph",
+    "titular": "Renta básica universal e incondicional de 950 € al mes",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "- **Propuesta 2: Renta Básica Universal e Incondicional (RBUI)** Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). **Memoria económica y viabilidad:** El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:\n - Una reforma progresiva del IRPF sobre las rentas del capital y del trabajo superiores a 120.000 € anuales (aportando 55.000 M€).\n - Un Impuesto a las Grandes Fortunas y Patrimonio Neto superior a 3 millones de euros (aportando 25.000 M€).\n - Una Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin) del 0,5% en operaciones bursátiles de alta frecuencia (aportando 20.000 M€).\n - Un Plan Integral de Lucha contra el Fraude y la Evasión Fiscal de grandes corporaciones y patrimonios, fijando un objetivo de recaudación recuperada de 30.000 M€ anuales (según estimaciones de los técnicos de Hacienda Gestha).\n - Ahorro de costes administrativos y supresión de partidas redundantes de prestaciones mínimas (10.000 M€)."
+   },
+   {
+    "id": "ph-0067",
+    "partido": "ph",
+    "titular": "Financiación del programa: el problema no es el dinero sino su concentración",
+    "marca_actual": [],
+    "texto": "Elaborar un programa como el nuestro, lleno de propuestas arriesgadas que sirvan como puente para superar este sistema violento, despierta una pregunta inmediata: ¿y esto, quién lo paga? Responderemos insistiendo que el problema no es el dinero, sino la usurpación del todo por una pequeña parte. Es inviable e inhumano continuar con un sistema que privilegia las grandes fortunas mientras condena a enormes capas de la población a la desesperación y la miseria.\n\nEl plan de transformación del Partido Humanista se sostiene sobre una coherencia macroeconómica y fiscal. Somos conscientes de que tales medidas exigen a un estudio mucho más exhaustivo y exigente al que se puede realizar en un programa electoral que pretende ser un lineamiento general, más enfocado a la dirección que a la concreción. Sin embargo, estamos convencidos de que va a llegar el día en el que la gran mayoría de las personas, cansadas de un mundo que se les queda pequeño, en el que no pueden desarrollar todo su potencial como seres humanos, exigirán el cumplimiento de propuestas como las que hemos expresado en estas páginas o algunas muy similares."
+   },
+   {
+    "id": "ph-0068",
+    "partido": "ph",
+    "titular": "Presentación de las tablas de gasto y fuentes de financiación",
+    "marca_actual": [],
+    "texto": "Por ello, presentamos a continuación las tablas comparativas de gasto público e inversión, así como el desglose detallado de las fuentes de financiación para garantizar un balance equilibrado y solvente. Sirva como ejercicio de lo que podría ser posible..."
+   },
+   {
+    "id": "ph-0070",
+    "partido": "ph",
+    "titular": "Ingresos de 155.500 M€: fraude, IRPF alto, grandes fortunas y Tasa Tobin",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "|Vía de Financiación / Medida Fiscal|Recaudación o Ahorro Estimado Anual (M€)|Justificación / Colectivo Afectado|\n|---|---|---|\n|Lucha contra el Fraude y la Evasión Fiscal|+30.000 M€|Grandes corporaciones y patrimonios, plan técnicos Gestha|\n|Reforma del IRPF (Rentas del Trabajo > 120.000 € y Rentas del Capital)|+55.000 M€|Tramos altos de renta y equiparación de tributación de rentas del capital al trabajo|\n|Impuesto a las Grandes Fortunas (Patrimonio Neto > 3M€)|+25.000 M€|Gravamen progresivo a la riqueza extrema no productiva|\n|Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin ampliada)|+20.000 M€|0,5% a compras bursátiles y algoritmos de alta frecuencia|\n|Supresión de privilegios fiscales a SOCIMIs y Fondos Especulativos|+8.000 M€|Tributación estándar al tipo general de sociedades|\n|Reducción del 50% en armamento y Defensa|+7.500 M€|Recorte directo en adquisiciones militares y programas armamentísticos|\n|Racionalización y absorción de subsidios fragmentados redundantes|+10.000 M€|Simplificación por la puesta en marcha de la RBUI|\n\n**TOTAL INGRESOS / AHORROS ADICIONALES ANUALES:** +155.500 M€\n\n**TOTAL INVERSIONES / GASTOS SOCIALES ANUALES:** 155.500 M€ (balance equilibrado y solvente)."
+   },
+   {
+    "id": "nex-0113",
+    "partido": "nex",
+    "titular": "Recargos a la vivienda vacía en IRPF y Patrimonio y más margen en IBI",
+    "marca_actual": [],
+    "texto": "102. Recargos sobre la vivienda vacía y la acumulación de viviendas en IRPF y Patrimonio, y más margen municipal en el IBI."
+   },
+   {
+    "id": "ixlg-0010",
+    "partido": "ixlg",
+    "titular": "El REF debe beneficiar a la mayoría social y no a unos pocos",
+    "marca_actual": [],
+    "texto": "Durante décadas, Canarias ha tenido que reivindicar una y otra vez la aplicación efectiva del Régimen Económico y Fiscal (REF). Defender el REF es defender un derecho de Canarias y una herramienta para compensar nuestra lejanía, insularidad y condiciones estructurales.\n\nPero también debemos preguntarnos para quién está funcionando realmente el REF.\n\nNo queremos un REF reducido a una permanente batalla por mantener beneficios fiscales o incentivos a quienes tienen mayor capacidad para invertir, mientras una parte importante de la ciudadanía continúa soportando el sobrecoste de vivir en las islas: vivienda, alimentación, transporte, energía, agua o acceso a servicios.\n\nEl REF no puede convertirse en una cuestión reservada a despachos, grandes empresas o determinados intereses económicos y políticos. Sus beneficios deben traducirse en bienestar para la mayoría social, empleo estable, actividad productiva, servicios públicos y oportunidades a quienes viven y trabajan en Canarias.\n\nLa propia evolución del debate sobre el REF plantea hoy la necesidad de revisar a quién llegan sus instrumentos y cómo se distribuyen sus beneficios. Existen incentivos dirigidos a la inversión y a la actividad económica, pero también medidas destinadas directamente a compensar costes y garantizar servicios. La cuestión es que el conjunto del sistema debe orientarse de forma más clara hacia el interés general."
+   },
+   {
+    "id": "ixlg-0011",
+    "partido": "ixlg",
+    "titular": "Un REF que llegue a autónomos, familias y jóvenes y compense la doble insularidad",
+    "marca_actual": [],
+    "texto": "No cuestionamos el REF. Cuestionamos que durante demasiado tiempo se haya confundido su defensa con la defensa de determinados intereses.\n\nQueremos un REF que llegue también a autónomos, pequeñas empresas, trabajadores, familias y jóvenes; que contribuya a reducir los sobrecostes de la insularidad y que genere retornos sociales y territoriales verificables. Porque el REF no nació para que unos pocos tengan más oportunidades por vivir en Canarias. Nació para que vivir en Canarias NO suponga tener menos oportunidades.\n\nY en La Gomera, además debe incorporar de manera efectiva nuestra condición de isla no capitalina y la doble insularidad, de manera que los beneficios y compensaciones respondan a los costes reales de nuestro territorio. Defender el REF sí. Pero defenderlo para que cumpla su función: compensar a Canarias y mejorar la vida de quienes vivimos aquí.\n\n**_La insularidad es una realidad que exige más derechos, no menos._**"
+   },
+   {
+    "id": "d21-0072",
+    "partido": "d21",
+    "titular": "Bonificaciones en IRPF e IBI a propietarios que alquilen a precio asequible",
+    "marca_actual": [],
+    "texto": "- **Alivio Fiscal para el Alquiler Asequible:** alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler. La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda."
+   },
+   {
+    "id": "d21-0098",
+    "partido": "d21",
+    "titular": "Ley de Administración Proactiva: prestaciones y deducciones concedidas de oficio",
+    "marca_actual": [],
+    "texto": "- **Ayudas Que Funcionen:** el Estado dejará de esperar a que el ciudadano descubra, solicite y justifique los derechos que legalmente le corresponden. Una Ley de Administración Proactiva reconocerá el derecho a no tener que pedir lo que ya te corresponde, y fijará qué prestaciones se conceden de oficio, qué datos se cruzan, con qué finalidad exclusiva y cómo puede cada persona oponerse o corregir sus datos. Mediante el cruce inteligente de datos públicos, la Administración resolverá de oficio y **concederá automáticamente prestaciones y deducciones, notificando directamente al ciudadano en su teléfono móvil** o por correo postal si así lo prefiere.\nCuando falte algún dato, recibirá una propuesta ya calculada que podrá aceptar con un clic o en persona a través de la administración competente, garantizando la atención con o sin cita previa. Así funcionará, por ejemplo, en la asignación directa de becas de estudio (cruzando renta y expediente académico sin formularios) o en el caso de un nacimiento (activando al instante deducciones en IRPF o prestaciones familiares de forma automática al registrar al recién nacido, como ya recomienda la AIReF)."
+   },
+   {
+    "id": "d21-0104",
+    "partido": "d21",
+    "titular": "Sin subir ni bajar impuestos: un sistema progresivo, transparente y sencillo",
+    "marca_actual": [],
+    "texto": "Los impuestos son la columna vertebral del Estado de Bienestar. Pero hoy nuestro sistema fiscal es difícil de entender, cambia sin avisar, trata igual al ciudadano que se equivoca en una casilla que a quien defrauda a sabiendas y pierde terreno frente a Europa: España ha caído del puesto 29 al 34 de los 38 países de la OCDE en competitividad fiscal. La buena noticia es que no hace falta subir ni bajar impuestos para hacerlo mucho mejor: basta con un sistema progresivo, transparente, neutral y sencillo, que trate con respeto a quien cumple y concentre toda su fuerza en quien hace trampas. Pagar lo que es justo y entender lo que pagas."
+   },
+   {
+    "id": "d21-0105",
+    "partido": "d21",
+    "titular": "Recibo del Contribuyente: desglose anual de lo pagado y su destino",
+    "marca_actual": [],
+    "texto": "- **El Recibo del Contribuyente:** la gran pregunta de cualquier contribuyente sigue sin respuesta: ¿a dónde va mi dinero? Cada año, cada ciudadano recibirá en su móvil un desglose digital e interactivo de lo que ha aportado (IRPF, cotizaciones sociales e IVA estimado) y de su destino: \"De sus 8.000€, 2.800€ financiaron Sanidad, 1.200€ Educación…\". Incluirá encuestas rápidas para que la ciudadanía valore y audite en tiempo real los servicios que paga."
+   },
+   {
+    "id": "d21-0106",
+    "partido": "d21",
+    "titular": "La renta en un clic: Hacienda prepara y presenta las declaraciones sencillas",
+    "marca_actual": [],
+    "texto": "- **La Renta en un Clic:** Hacienda ya conoce la mayoría de nuestros datos, pero seguimos revisando casillas, pagando gestorías por declaraciones sencillas y perdiendo deducciones por no conocerlas. Para quienes tengan rentas sencillas, Hacienda preparará y presentará la declaración completa: si pasado el plazo no cambias nada, está hecha. Aplicará de oficio todas las deducciones estatales y autonómicas que te correspondan cruzando los datos que ya tienen las administraciones, y toda carta de Hacienda empezará con una frase clara: qué ocurre, qué tienes que hacer y en qué plazo. Y un asistente oficial, disponible las 24 horas, resolverá tus dudas en lenguaje claro: si te lo dijo Hacienda, vale, y quien siga sus respuestas no podrá ser sancionado."
+   },
+   {
+    "id": "d21-0108",
+    "partido": "d21",
+    "titular": "Actualizar por ley cada año los tramos y mínimos del IRPF según el IPC",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Que la Inflación No Suba tus Impuestos:** si tu sueldo sube solo para seguir el ritmo de los precios, hoy puedes saltar de tramo en el IRPF y pagar más aunque no seas más rico, porque la escala estatal no se actualiza con la inflación. Por ley, los tramos, los mínimos personales y familiares y las reducciones se actualizarán cada año según el IPC, siempre desde el 1 de enero siguiente y sin efectos retroactivos. Hacienda no recaudará más por la puerta de atrás."
+   },
+   {
+    "id": "d21-0112",
+    "partido": "d21",
+    "titular": "Beneficios fiscales con evaluación y caducidad, e impuestos especiales equiparados a la UE",
+    "marca_actual": [],
+    "texto": "- **Cada Beneficio Fiscal, con Fecha de Caducidad:** España dedica unos 60.000 millones de euros al año a beneficios fiscales (deducciones, exenciones y tipos reducidos), y muchos nunca se evalúan. Todos tendrán un objetivo medible y una evaluación independiente: si no lo cumplen, desaparecerán y su coste volverá al sistema. Revisaremos también los impuestos especiales (medioambientales, sobre el tabaco y el resto) para equipararlos a la Unión Europea, con un calendario anunciado y sin sorpresas."
+   },
+   {
+    "id": "d21-0113",
+    "partido": "d21",
+    "titular": "Cambios tributarios solo el 1 de enero, anunciados con seis meses y sin retroactividad",
+    "marca_actual": [],
+    "texto": "- **Reglas Estables:** las normas fiscales cambian a mitad de año, a veces sobre ejercicios ya iniciados, y eso genera inseguridad y pleitos. Los cambios tributarios entrarán en vigor solo el 1 de enero, se anunciarán con al menos seis meses de antelación y nunca tendrán efectos retroactivos."
+   },
+   {
+    "id": "d21-0159",
+    "partido": "d21",
+    "titular": "IRPF del 5 % para los bonus por productividad, hasta 5.000 €",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Incentivo Fiscal al Salario por Productividad Real:** para que el esfuerzo y la innovación se traduzcan de inmediato en la nómina, los incentivos y bonus salariales ligados a aumentos objetivos y verificables de productividad tributarán en el IRPF del trabajador a un tipo único del 5%, hasta 5.000€ al año. Para quienes hoy pagan de media menos de un 5% de IRPF, estos pluses no tributarán nada ni les harán perder ninguna deducción. La empresa que comparta esa mejora con su plantilla tendrá una bonificación del 50% en su cotización a la Seguridad Social por ese extra, que llegará al 75% en las PYMES de menos de 50 trabajadores. Así, mejorar procesos se traducirá siempre en mejores sueldos netos y en empresas más competitivas: por cada 2.000€ de bonus, un trabajador con un sueldo medio se llevará unos 500€ más netos y una PYME se ahorrará casi 500€ de cotización."
+   },
+   {
+    "id": "d21-0185",
+    "partido": "d21",
+    "titular": "Bono Fiscal de Despegue para nuevos autónomos en sus 3 primeros años",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Bono Fiscal de Despegue Para los 3 Primeros Años:** aliviaremos la presión en IRPF y cotizaciones del RETA durante los primeros compases de la actividad creando un Bono Fiscal de Despegue: un crédito fiscal directo asignado a cada nuevo autónomo para compensar (hasta un importe determinado) cualquier obligación frente al Estado (como impuestos o cotizaciones a la Seguridad Social) debidamente declarada durante sus tres primeros ejercicios, permitiendo que la liquidez inicial se concentre al 100% en la viabilidad del proyecto."
+   },
+   {
+    "id": "d21-0198",
+    "partido": "d21",
+    "titular": "Régimen fiscal sencillo para investigadores y profesionales que regresan",
+    "marca_actual": [],
+    "texto": "- **Volver a Casa No Saldrá Caro:** miles de científicos y profesionales formados en España no vuelven porque nuestro sistema fiscal penaliza la carrera que hicieron fuera, sobre todo sus ahorros para la jubilación, y acaban en países que sí los quieren. Crearemos un régimen sencillo para investigadores, docentes y profesionales cualificados que regresan, pensado para sueldos reales y no solo para los grandes salarios del actual régimen de impatriados, y tramitado en una ventanilla única digital."
+   },
+   {
+    "id": "d21-0236",
+    "partido": "d21",
+    "titular": "Deducciones en el IRPF durante tres años para los sanitarios que regresen",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Bono Fiscal para el Retorno del Talento Sanitario:** facilitaremos el regreso de los médicos, enfermeros y profesionales sanitarios españoles que trabajan en el extranjero mediante un paquete especial de deducciones en el IRPF durante los primeros tres años tras su reincorporación al Sistema Nacional de Salud. Este incentivo fiscal irá acompañado de una homologación facilitada de la experiencia e investigaciones que hayan desarrollado en el extranjero."
+   },
+   {
+    "id": "d21-0251",
+    "partido": "d21",
+    "titular": "Deducción en el IRPF por contratar ayuda en el hogar con hijos o dependientes",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Deducción Directa por Apoyo en el Hogar:** aprobaremos una deducción en el IRPF, con un tope anual, por los costes de contratar ayuda en el hogar cuando haya hijos o personas dependientes a cargo. Suprimiremos trabas absurdas: no se exigirá justificar que el empleo se dedica exclusivamente al cuidado, porque cualquier ayuda doméstica libera tiempo esencial para la vida familiar y profesional. Y al exigir el alta en la Seguridad Social, la medida aflorará empleo hoy sumergido, con más derechos para las trabajadoras del hogar y más cotizaciones para el sistema."
+   },
+   {
+    "id": "comuns-0039",
+    "partido": "comuns",
+    "titular": "Suprimir la desgravación genérica del 50 % en el IRPF del alquiler",
+    "marca_actual": [],
+    "texto": "- Eliminar bonificacions IRPF lloguers per sobre índex de preus. Acabar amb l’actual desgravació genèrica del 50% de l’IRPF i establir una escala de desgravacions en funció de les baixades de preus respecte a l’índex."
+   },
+   {
+    "id": "comuns-0044",
+    "partido": "comuns",
+    "titular": "Suprimir deducciones a pisos turísticos en zonas tensionadas e imputar 20 % a vacías",
+    "marca_actual": [],
+    "texto": "- En l’IRPF i en l’impost de societats suprimir en el càlcul dels seus rendiments la deductibilitat de les despeses financeres, d’amortització i de millora de l’habitatge turístic en zones tensionades i elevar al 20% la imputació de rendes immobiliàries en l’IRPF durant els períodes en els quals no estiguin ocupades."
+   },
+   {
+    "id": "comuns-0053",
+    "partido": "comuns",
+    "titular": "Deducción en el IRPF de hasta 300 euros al mes para hipotecados",
+    "marca_actual": [],
+    "texto": "- Programa de Protecció als deutors hipotecaris davant les pujades dels tipus d’interès. S’establirà una deducció de fins a 300 euros al mes en l’Impost sobre la Renda de les Persones Físiques (IRPF) en forma d’«impost negatiu» (similar a la prestació per maternitat). Podrien sollicitar-la els qui tinguessin ingressos de la seva unitat familiar de fins a tres vegades l’IPREM (indicador públic de renda d’efectes múltiples), és a dir, 21.600 euros anuals i la seva quota hipotecària superi el 40% dels ingressos nets de la llar. El programa podria beneficiar 1 milió de famílies hipotecades i el cost anual ascendiria al 0,10% del PIB."
+   },
+   {
+    "id": "comuns-0074",
+    "partido": "comuns",
+    "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+    "marca_actual": [],
+    "texto": "Paral·lelament s’ha d’avançar en un model de fiscalitat més just per garantir uns serveis públics de qualitat a la ciutadania. Les pràctiques de reducció impositiva practicada en alguns països s’han mostrat no només nocives en termes de desigualtat entre ciutadans, també són un llast pel creixement econòmic i un risc per la democràcia. Per això hem d’aprofundir en mesures efectives que gravin els grans patrimonis que sovint han estat capaços de defugir el pagament d’impostos i especialment els ultrarics. No s’ha d’oblidar la importància de fiscalitat verda per fer efectiu el principi de qui contamina paga o el reforç de la imposició sobre qualsevol pràctica que desviï l’ús de l’habitatge residencial cap a altres usos o que afavoreixi l’especulació i la concentració de propietat. En definitiva, una fiscalitat en favor del 99%, ecològica i justa.\n\nEn l’àmbit laboral perseguirem la reducció de jornada i una millor conciliació. S’ha desmentit completament el mantra de que les pujades de salari mínim generen atur i queda desmentit que la reducció de la jornada laboral redueix la productivitat. Seguirem treballant per la qualitat de l’ocupació perquè aquesta és condició necessària per garantir una economia estable i productiva."
+   },
+   {
+    "id": "comuns-0158",
+    "partido": "comuns",
+    "titular": "Reforma fiscal más progresiva con más peso de los impuestos directos",
+    "marca_actual": [],
+    "texto": "La reforma fiscal és una de les grans reformes pendents i que el PSOE no ha volgut impulsar-la en aquesta legislatura tal com s’havia compromès. És imprescindible reformar el sistema i l’administració fiscals per tal d’assolir la suficiència financera de les administracions públiques i l’equilibri pressupostari, i arribar a una fiscalitat més justa, igualitària i progressiva, augmentant el pes dels impostos directes, lluitant de forma efectiva contra el frau i l’evasió fiscals, i modernitzant el sistema tributari en el seu conjunt dins el marc europeu i estatal degudament harmonitzats. El nivell elevat de frau fiscal que realitzen, principalment, les grans fortunes i els grans grups empresarials, i una economia submergida equivalent al 24% del PIB suposen uns dels elements amb més impacte al dèficit públic."
+   },
+   {
+    "id": "comuns-0169",
+    "partido": "comuns",
+    "titular": "Diagnóstico: el capital tributa menos que el trabajo y falta progresividad",
+    "marca_actual": [],
+    "texto": "Un estat del benestar al nivell europeu requereix una fiscalitat que aporti els recursos necessaris i compleixi el principi de progressivitat: qui més té i més guanya, més contribueix. Avui no és així. Les rendes del capital tributen menys que les del treball. Les grans empreses paguen un tipus efectiu molt inferior al nominal. I diverses comunitats autònomes han buidat els impostos sobre el patrimoni i les successions en benefici dels més rics. Cal recuperar capacitat recaptatòria, fer pagar més a qui més té i incorporar la perspectiva de gènere a tot el sistema fiscal."
+   },
+   {
+    "id": "comuns-0170",
+    "partido": "comuns",
+    "titular": "Integrar rentas del trabajo y del capital en la misma base del IRPF",
+    "marca_actual": [],
+    "texto": "- Per eliminar la discriminació que pateixen les rendes del treball en relació amb les del capital, fer que en el càlcul de l’IRPF estiguin juntes en la mateixa base imposable de manera que se’ls hi apliquin els mateixos tipus impositius."
+   },
+   {
+    "id": "comuns-0171",
+    "partido": "comuns",
+    "titular": "Bajar el IRPF hasta 25.000 € y gravar al 3 % las grandes fortunas",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Abaixarem l’IRPF a les rendes del treball de fins a 25.000 euros. Augmentarem la reducció per rendiments del treball perquè qui cobri el salari mínim no pagui IRPF i estendrem aquesta rebaixa, de manera decreixent, fins als 25.000 euros. Impulsar un impost a les grans fortunes (impost Zucman) que gravi la riquesa excessiva, i buscar consensos socials que permetin encara una limitació de la riquesa total en mans d’una sola persona. Per això proposem la creació d’un gravamen sobre la concentració de riquesa adreçada a persones físiques amb un patrimoni net global superior als 50 milions d’euros. Proposem que la llei estableixi un tipus únic del 3% sobre la base que excedeixi d’aquest llindar de 50 milions, amb exempcions fortament restringides i la supressió expressa de l’exempció general per al patrimoni empresarial i les participacions en entitats."
+   },
+   {
+    "id": "comuns-0181",
+    "partido": "comuns",
+    "titular": "Eliminar beneficios fiscales sin fin social o ecológico, como las ETVE",
+    "marca_actual": [],
+    "texto": "- Eliminar els beneficis fiscals de tot el sistema tributari espanyol que no corresponguin a finalitats de caràcter exclusivament d’interès i contingut socials o ecològics. Especialment, cal eliminar el règim de les Empreses de Tinença de Valors Estrangers (ETVE), que suposa un vehicle societari offshore per l’elusió fiscal internacional; i el règim d’exempcions a l’IRPF, que permet a les persones que es desplacen a treballar a Espanya i tenen rendes fins a 600.000€ anuals pagar un tipus marginal màxim del 24% i no tributar a Espanya per les rendes generades en altres països."
+   },
+   {
+    "id": "comuns-0183",
+    "partido": "comuns",
+    "titular": "Nuevo tramo del IRPF del 50 % para rentas de más de 150.000 €",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "- Gravar en grau més alt els nivells més alts de renda en l’IRPF. En aquest sentit, proposem un nou tram en l’IRPF amb un tipus marginal del 50% per a rendes superiors a 150.000 € anuals."
+   },
+   {
+    "id": "comuns-0190",
+    "partido": "comuns",
+    "titular": "Subir al 80 % del SMI el umbral de familiares a cargo del IRPF",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Pujar llindars mínim ascendents i descendents: Revisarem les bonificacions fiscals per a les persones que tenen a càrrec seu persones ascendents de més de 65 anys o amb discapacitat sigui quina sigui la seva edat, descendents menors de 25 anys o amb discapacitat sigui quina sigui la seva edat, així com cònjuges amb discapacitat, situant el llindar contemplat als articles 58, 59 i 81 bis de la Llei 35/2006 de l’IRPF com a ingressos màxims del familiar o persona dependent almenys en el 80% del salari mínim interprofessional."
+   },
+   {
+    "id": "comuns-0197",
+    "partido": "comuns",
+    "titular": "Reformular el IRPF para fomentar el transporte público y los espacios protegidos",
+    "marca_actual": [],
+    "texto": "- Reformular els actuals impostos de l’IRPF per fomentar el transport públic, actuacions i inversions en finques en custòdia i espais naturals protegits."
+   },
+   {
+    "id": "comuns-0284",
+    "partido": "comuns",
+    "titular": "Perseguir a los falsos autónomos y aplicar a los TRADE el convenio del cliente",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Inspecció de Treball contra els falsos autònoms. Als autònoms econòmicament dependents (TRADE) se’ls aplicarà el conveni de l’empresa client, i la seva indemnització per fi de contracte quedarà exempta d’IRPF, com la dels assalariats."
+   },
+   {
+    "id": "comuns-0460",
+    "partido": "comuns",
+    "titular": "Programa MOVES para autónomos del transporte y agricultores, hasta 8.000 euros",
+    "marca_actual": [],
+    "texto": "- Crearem un programa MOVES per a autònoms del transport i agricultors. Ajudes directes de fins a 8.000 euros per vehicle i una deducció reforçada en l’IRPF de fins a 25.000 euros per a substituir per elèctrics els vehicles antics del repartiment urbà i de l’activitat agrària."
+   },
+   {
+    "id": "comuns-0552",
+    "partido": "comuns",
+    "titular": "Bonificaciones y deducciones en el IRPF para actividades en municipios despoblados",
+    "marca_actual": [],
+    "texto": "- Establir incentius fiscals per a les activitats econòmiques situades en municipis despoblats o en risc de despoblament, mitjançant bonificacions i deduccions en l’IRPF."
+   },
+   {
+    "id": "comuns-0603",
+    "partido": "comuns",
+    "titular": "Cobrar la prestación por crianza cada mes como deducción reembolsable del IRPF",
+    "marca_actual": [],
+    "texto": "- Es cobrarà cada mes, des del naixement i sense paperassa. La prestació funcionarà com una deducció reemborsable de l’IRPF que l’Agència Tributària abonarà mensualment, de manera automàtica, a partir de la inscripció al Registre Civil, també a les famílies que no fan la declaració de la renda. És el mateix mecanisme que ja fa servir la deducció per maternitat, però per a tothom i sense haver-lo de sol·licitar."
+   },
+   {
+    "id": "comuns-0604",
+    "partido": "comuns",
+    "titular": "Financiar la prestación por crianza con más aportación de grandes fortunas y rentas altas",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "- La finançarem amb una fiscalitat progressiva: les grans fortunes i les rendes més altes hi aportaran més, i les famílies amb ingressos alts en retornaran una part a la declaració de la renda."
+   },
+   {
+    "id": "comuns-0609",
+    "partido": "comuns",
+    "titular": "Integrar el mínimo por descendientes del IRPF en la prestación por crianza",
+    "marca_actual": [],
+    "texto": "- Es reformarà el mínim per descendents a l’IRPF i la resta de deduccions per fills menors per tal d’integrar-les amb la Prestació Universal per Criança."
+   },
+   {
+    "id": "comuns-0639",
+    "partido": "comuns",
+    "titular": "Eliminar incentivos fiscales a los planes individuales e impulsar planes colectivos públicos",
+    "marca_actual": [],
+    "texto": "- Eliminar els incentius fiscals regressius dels plans de pensions individuals i impulsar plans d’ocupació col·lectius de promoció pública, negociats en conveni i sense ànim de lucre, com a complement de la pensió pública."
+   },
+   {
+    "id": "comuns-0812",
+    "partido": "comuns",
+    "titular": "Casilla cultural en el IRPF e IVA del 4 % para productos culturales",
+    "marca_actual": [],
+    "texto": "- Incorporar la casella cultural en l’IRPF, incentius fiscals a la compra i donació d’obres a institucions públiques i aplicació del 4% per a tots els serveis, instruments i productes culturals."
+   },
+   {
+    "id": "comuns-1034",
+    "partido": "comuns",
+    "titular": "Nuevo modelo de financiación con más autonomía fiscal, empezando por el IRPF",
+    "marca_actual": [],
+    "texto": "- **Impulsarem l’acord per al nou model de finançament, prenent com a punt de partida l’acord entre la Generalitat i el Govern de l’Estat d’aquesta legislatura.** El nou model de finançament ha de garantir la **suficiència,** perquè la Generalitat i les CCAA puguin disposar dels recursos necessaris per garantir els serveis públics i fer front a reptes com la crisi climàtica; **l’autonomia,** incrementant la participació de la Generalitat en els grans impostos de l’Estat (IRPF, IVA), la capacitat normativa per regular els impostos i la gestió dels impostos a càrrec de l’Agència Tributària de Catalunya, començant per l’IRPF. I cal garantir **l’equitat i la solidaritat** reduint les distàncies entre les comunitats millor i pitjor finançades."
+   }
+  ]
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 61,
+  "palabras": 3716,
+  "candidatos": [
+   {
+    "id": "pfac-0019",
+    "partido": "pfac",
+    "titular": "Reconocer como víctimas a mujeres afectadas por el cambio registral de sexo del agresor",
+    "marca_actual": [],
+    "texto": "11. Reconocer la condición de víctima de violencia machista a las mujeres que, debido al cambio de la mención registral del sexo de sus agresores al amparo de la legislación estatal en materia trans, hayan visto imposibilitado su acceso a los recursos y medidas de protección establecidos en la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género."
+   },
+   {
+    "id": "pfac-0102",
+    "partido": "pfac",
+    "titular": "Rechazo a las leyes transgeneristas por suponer el borrado jurídico de las mujeres",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "El PFAC se opone radicalmente a todas las leyes y normativas transgeneristas introducidas, aprobadas y vigentes en España porque constituyen el mayor ataque a los derechos de las mujeres en el mundo actual y son fruto de la nueva alianza del patriarcado con el capitalismo neoliberal. Sustituir la categoría objetiva sexo en el ordenamiento jurídico por la supuesta existencia de una identidad de género subjetiva supone el borrado jurídico de las mujeres. Esto tiene gravísimas consecuencias en todos los ámbitos de la vida de las mujeres y de la lucha feminista porque se oculta la base de la opresión patriarcal y se convierten en papel mojado las leyes y políticas de igualdad destinadas a corregir la desigualdad estructural que sufrimos las mujeres."
+   },
+   {
+    "id": "pfac-0103",
+    "partido": "pfac",
+    "titular": "Crítica a la ideología transgenerista y a los intereses industriales que la sostienen",
+    "marca_actual": [],
+    "texto": "Según la ideología transgenerista, como parte de las políticas posmodernas que se declaran anticapitalistas pero que abrazan y ratifican los valores centrales del individualismo y el narcisismo del mercado neoliberal, el género no es la expresión de la subordinación al orden patriarcal sino la identidad sentida de los individuos, y el sexo no es binario sino un espectro. Declararse mujer es, a todos los efectos, ser mujer. La ideología transgenerista responde a los intereses de la industria farmacéutica de la identidad de género y de las clínicas de cirugía de «reasignación» de sexo y de cirugía estética, vinculadas al proyecto transhumanista y a las corporaciones que controlan los medios de comunicación, multiplicando sus beneficios de forma exponencial mientras experimenta prioritariamente con mujeres y menores.\n\nEn resumen, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0104",
+    "partido": "pfac",
+    "titular": "Derogar la ley trans estatal y las autonómicas y prohibir la promoción del transgenerismo",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- MEDIDA 5. **DEROGAR LA LEY TRANS ESTATAL** y las leyes trans autonómicas, ofreciendo apoyo especializado a las personas que sufren disforia de género, garantizando las terapias exploratorias que permitan indagar la causa de ésta y su adecuado abordaje y prohibiendo la promoción del transgenerismo en todos los medios y ámbitos, en especial en el ámbito educativo."
+   },
+   {
+    "id": "pfac-0105",
+    "partido": "pfac",
+    "titular": "Actuaciones para abolir el género como categoría jurídica",
+    "marca_actual": [],
+    "texto": "Las principales actuaciones para conseguir estos objetivos son:"
+   },
+   {
+    "id": "pfac-0106",
+    "partido": "pfac",
+    "titular": "Derogar la Ley 4/2023 y llevar los derechos LGB a una ley integral propia",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "1. Eliminar del marco normativo de nuestro país toda la infiltración transgenerista que, al utilizar términos anticientíficos, subjetivos e indemostrables —como ‘identidad de género’ o ‘identidad sexual’—, pretende sustituir al sexo como categoría jurídica, vulnerando la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. En especial:\n - Derogar la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI y trasladar la protección y los derechos de las personas LGB a una ley integral que regule de manera específica y efectiva los derechos vinculados a la orientación sexual.\n - Derogar las leyes trans autonómicas, así como otras normativas y protocolos autonómicos y estatales que incluyen postulados transgeneristas.\n - Revisar y reformar el resto del corpus legislativo aprobado en los últimos años para eliminar la intrusión transgenerista en su articulado."
+   },
+   {
+    "id": "pfac-0107",
+    "partido": "pfac",
+    "titular": "Revisar los formularios públicos para registrar el sexo y excluir la opción «no binario»",
+    "marca_actual": [],
+    "texto": "2. Revisar y corregir, en su caso, todos los formularios de las administraciones públicas, a todos los niveles institucionales, para que dejen de usar categorías anticientíficas que no consideran el sexo como una variable binaria de la especie humana, o bien que sustituyen el registro del dato objetivo del sexo por el término género, excluyendo en todos los casos la opción “no binario”, “otro”, “no contesta”, etc."
+   },
+   {
+    "id": "pfac-0109",
+    "partido": "pfac",
+    "titular": "Aplicar leyes de violencia y acción positiva solo a mujeres por sexo",
+    "marca_actual": [],
+    "texto": "4. Asegurar que las leyes concebidas para proteger a las mujeres de la violencia estructural se apliquen de forma exclusiva a estas en base a su sexo, sin que quepa extenderla a las personas que hayan hecho uso de la ficción jurídica del sexo registral. Igualmente debe procederse con la acción positiva establecida para corregir la desigualdad estructural por razón de su sexo y que, por ello, solo cabe aplicar a las mujeres."
+   },
+   {
+    "id": "pfac-0111",
+    "partido": "pfac",
+    "titular": "Diagnóstico diferencial de la disforia de género con tratamiento psicoterapéutico",
+    "marca_actual": [],
+    "texto": "6. Reclamar un diagnóstico diferencial de la disforia de género que, teniendo en cuenta el contexto y la trayectoria vital y descartando otros trastornos o comorbilidades, proporcione el tratamiento psicoterapéutico más adecuado según el resultado de dicho diagnóstico."
+   },
+   {
+    "id": "pfac-0112",
+    "partido": "pfac",
+    "titular": "Prohibir bloqueadores de la pubertad en menores, hormonas cruzadas y cirugías",
+    "marca_actual": [],
+    "texto": "7. Prohibir la administración de bloqueadores de la pubertad en menores y de hormonas cruzadas y de intervenciones quirúrgicas llamadas de feminización y masculinización del cuerpo, al tratarse en todos los casos de personas sanas, tanto en la sanidad pública como en la sanidad privada."
+   },
+   {
+    "id": "pfac-0113",
+    "partido": "pfac",
+    "titular": "Intervención psicoterapéutica en lugar de terapia afirmativa ante la disforia",
+    "marca_actual": [],
+    "texto": "8. Apostar inequívocamente por la intervención psicoterapéutica ante los casos de disforia y rechazo de las características sexuales del propio cuerpo, en lugar de la terapia afirmativa, y dejar de considerar «terapia de conversión» a todo lo que no sea acatar las directrices transgeneristas."
+   },
+   {
+    "id": "pfac-0114",
+    "partido": "pfac",
+    "titular": "Diagnósticos de disforia sin los indicadores sexistas del DSM-5",
+    "marca_actual": [],
+    "texto": "9. Solicitar a los colegios profesionales competentes y las autoridades sanitarias que los diagnósticos de disforia no se basen en los indicadores profundamente sexistas que contiene el DSM-5, y utilizar en cambio criterios basados en la investigación clínica y en la posible existencia de comorbilidades, como el TEA o experiencias traumáticas (homofobia interiorizada, abusos sexuales, abandono del entorno familiar y otras vulnerabilidades no exploradas)."
+   },
+   {
+    "id": "pfac-0115",
+    "partido": "pfac",
+    "titular": "Acompañamiento e indemnizaciones a personas en destransición, especialmente menores",
+    "marca_actual": [],
+    "texto": "10. Realizar un adecuado acompañamiento médico y psicoterapéutico a las personas en proceso de destransición y desistimiento, y determinar las indemnizaciones económicas y responsabilidades institucionales o sanitarias a las que hubiera lugar, especialmente en el caso de menores."
+   },
+   {
+    "id": "pfac-0116",
+    "partido": "pfac",
+    "titular": "Cerrar y auditar los servicios de tratamiento de la «identidad de género»",
+    "marca_actual": [],
+    "texto": "11. Cerrar y auditar posteriormente los servicios de tratamiento de la «identidad de género» en la sanidad pública y privada."
+   },
+   {
+    "id": "pfac-0117",
+    "partido": "pfac",
+    "titular": "Eliminar los protocolos educativos sobre el llamado «alumnado trans»",
+    "marca_actual": [],
+    "texto": "12. Eliminar los protocolos educativos de actuación ante los casos del llamado «alumnado trans» y de toda referencia a las ideas y prácticas transgeneristas en la educación."
+   },
+   {
+    "id": "pfac-0118",
+    "partido": "pfac",
+    "titular": "Impedir la promoción del transgenerismo, especialmente en el ámbito educativo",
+    "marca_actual": [],
+    "texto": "13. Impedir la promoción del transgenerismo en todos los ámbitos y medios, con especial atención al ámbito educativo en todas sus etapas, y revisar los materiales curriculares y de formación del profesorado desde una perspectiva coeducativa."
+   },
+   {
+    "id": "pfac-0120",
+    "partido": "pfac",
+    "titular": "Organizar prisiones, centros de acogida, vestuarios y baños según el sexo biológico",
+    "marca_actual": [],
+    "texto": "15. Garantizar que los espacios de vulnerabilidad y privacidad —como prisiones, centros de acogida para víctimas de violencia machista, vestuarios y baños públicos— se organicen estrictamente bajo el criterio del sexo biológico."
+   },
+   {
+    "id": "pfac-0121",
+    "partido": "pfac",
+    "titular": "Categorías por sexo en el deporte y restitución de premios a mujeres",
+    "marca_actual": [],
+    "texto": "16. Defender las categorías basadas en el sexo en el ámbito del deporte, la cultura y la ciencia y restituir los premios y distinciones -usurpados por hombres autodeclarados mujeres- a sus legítimas ganadoras. Así mismo, aplicar cualquier otra cuota establecida -en calidad de acción positiva- exclusivamente a sus destinatarias: las mujeres oprimidas o discriminadas por razón de su sexo."
+   },
+   {
+    "id": "pfac-0123",
+    "partido": "pfac",
+    "titular": "Retirar subvenciones a entidades activistas del transgenerismo y auditarlas",
+    "marca_actual": [],
+    "texto": "18. Retirar las subvenciones a las entidades activistas del transgenerismo y auditar sus actividades, estableciendo condenas y sanciones económicas para quienes se hayan lucrado de esta barbarie anticientífica, sanciones que serán utilizadas para indemnizar a las personas a quienes se ha dañado la salud de manera grave o irreversible."
+   },
+   {
+    "id": "pfac-0168",
+    "partido": "pfac",
+    "titular": "Eliminar los cupos de empleo público para personas autoidentificadas trans",
+    "marca_actual": [],
+    "texto": "15. Eliminar los cupos de empleo público reservados para personas autoidentificadas trans."
+   },
+   {
+    "id": "pfac-0180",
+    "partido": "pfac",
+    "titular": "Diagnóstico: el transgenerismo como amenaza a la libertad de orientación sexual",
+    "marca_actual": [],
+    "texto": "A pesar de los avances logrados por las luchas que lesbianas, gais y bisexuales han mantenido durante años, aún queda mucho por conseguir.\n\nEn primer lugar, el movimiento LGB se enfrenta a la mayor amenaza que la libertad de orientación sexual ha vivido hasta la fecha: la colonización de su lucha por intereses que le son ajenos. Los derechos y libertades de las distintas orientaciones sexuales no tienen nada que ver con los problemas de los colectivos que se han ido añadiendo a las siglas LGB, colectivos de personas con problemáticas muy diversas y que merecen un tratamiento aparte.\n\nLa intencionada confusión de intereses dispares y muchas veces en conflicto, inducida y promovida por el transgenerismo, ha provocado que, al cambiar en la legislación la categoría sexo, parámetro material, objetivo y verificable, por la «identidad sexual», término subjetivo e indemostrable, las políticas identitarias de los últimos años actúen como auténticas terapias de conversión al convencer a gais y lesbianas de haber nacido en cuerpos equivocados, les empujan a hormonaciones y cirugías, inducen al rechazo del propio cuerpo y del deseo y avivan la homofobia."
+   },
+   {
+    "id": "pfac-0181",
+    "partido": "pfac",
+    "titular": "Eliminar los obstáculos a la igualdad de las personas LGB",
+    "marca_actual": [],
+    "texto": "Por otra parte, y aunque existe un amplio marco regulador y legislativo para combatir la discriminación por orientación sexual, el reto sigue siendo el mismo: eliminar todos los obstáculos que siguen impidiendo que las personas LGB desarrollen sus proyectos vitales en igualdad y libres de discriminación.\n\nEn base a todo lo anterior, el PFAC se propone:"
+   },
+   {
+    "id": "pfac-0182",
+    "partido": "pfac",
+    "titular": "Combatir la homofobia formando a profesionales públicos ante los delitos de odio",
+    "marca_actual": [],
+    "texto": "- MEDIDA 10. COMBATIR LA HOMOFOBIA, reforzando la formación de los y las profesionales públicos (sanidad, educación, seguridad y servicios sociales) para prevenir y atender de forma eficaz los delitos de odio que afecten a cualquier persona por dicho motivo."
+   },
+   {
+    "id": "pfac-0183",
+    "partido": "pfac",
+    "titular": "Medidas adicionales contra la homofobia",
+    "marca_actual": [],
+    "texto": "Eso implica la necesidad adicional de:"
+   },
+   {
+    "id": "pfac-0184",
+    "partido": "pfac",
+    "titular": "Combatir de forma transversal la homofobia y la homofobia interiorizada",
+    "marca_actual": [],
+    "texto": "1. Combatir de forma transversal la homofobia y el acoso por razón de orientación sexual en todos los ámbitos de las políticas públicas, así como la homofobia interiorizada y sus consecuencias, como el rechazo, la culpa, la vergüenza o la ocultación de la propia orientación sexual."
+   },
+   {
+    "id": "pfac-0185",
+    "partido": "pfac",
+    "titular": "Coordinar las fuerzas de seguridad para detectar delitos de odio",
+    "marca_actual": [],
+    "texto": "2. Fortalecer la coordinación entre las distintas fuerzas y cuerpos de seguridad para mejorar los sistemas de detección de los delitos de odio y la atención a las víctimas que los sufren."
+   },
+   {
+    "id": "pfac-0186",
+    "partido": "pfac",
+    "titular": "Formar a profesionales públicos contra la homofobia y los discursos de odio",
+    "marca_actual": [],
+    "texto": "3. Reforzar la formación de las y los profesionales de los servicios públicos (sanidad, educación, servicios sociales y fuerzas y cuerpos de seguridad del Estado) en la lucha contra la homofobia y para asegurar una correcta atención a las víctimas de delitos por motivos discriminatorios y discursos de odio."
+   },
+   {
+    "id": "pfac-0187",
+    "partido": "pfac",
+    "titular": "Educación feminista en todos los niveles con referentes LGB en el currículo",
+    "marca_actual": [],
+    "texto": "4. Promover la implantación en todo el Estado de la educación feminista para la igualdad en todos los niveles de enseñanza, con contenidos que contemplen la historia del feminismo y las aportaciones del lesbianismo a la lucha y a la teoría feminista, visibilizando en el currículo escolar a referentes históricos que hayan sido o sean lesbianas, gais y bisexuales."
+   },
+   {
+    "id": "pfac-0188",
+    "partido": "pfac",
+    "titular": "Financiar programas educativos contra el acoso por orientación sexual",
+    "marca_actual": [],
+    "texto": "5. Potenciar y financiar decididamente los programas educativos encaminados a combatir los estereotipos sexistas y erradicar el acoso y las agresiones por razón de orientación sexual en los centros educativos."
+   },
+   {
+    "id": "pfac-0189",
+    "partido": "pfac",
+    "titular": "Tratar por separado los derechos por orientación sexual y las medidas para personas trans",
+    "marca_actual": [],
+    "texto": "6. Realizar un tratamiento político diferenciado de los derechos y libertades de las personas con distintas orientaciones sexuales, al margen de las necesarias medidas para los colectivos de las personas transexuales o intersexuales."
+   },
+   {
+    "id": "pfac-0190",
+    "partido": "pfac",
+    "titular": "Revisar la normativa para no confundir orientación sexual con identidad de género",
+    "marca_actual": [],
+    "texto": "7. Revisar todo el aparato legislativo y normativo para evitar la confusión entre la orientación sexual y otros conceptos anticientíficos como identidad de género o sexual."
+   },
+   {
+    "id": "pfac-0191",
+    "partido": "pfac",
+    "titular": "Revisar los protocolos de salud ginecológica para no discriminar a las lesbianas",
+    "marca_actual": [],
+    "texto": "8. Coordinar en el Sistema Nacional de Salud la revisión de los protocolos relativos a la salud ginecológica para que no discriminen a las mujeres lesbianas y no presupongan la heterosexualidad como norma."
+   },
+   {
+    "id": "pfac-0192",
+    "partido": "pfac",
+    "titular": "Financiar estudios sobre la salud ginecológica de las mujeres lesbianas",
+    "marca_actual": [],
+    "texto": "9. Impulsar y financiar estudios para abordar las cuestiones sobre salud ginecológica específicas para las mujeres lesbianas."
+   },
+   {
+    "id": "pfac-0193",
+    "partido": "pfac",
+    "titular": "Formar a profesionales sanitarios para prevenir terapias de conversión",
+    "marca_actual": [],
+    "texto": "10. Fomentar la formación de profesionales de la salud y la salud mental en materia de homosexualidad y bisexualidad, acorde con la evidencia científica actual, para prevenir terapias de conversión y discriminación en centros ginecológicos y centros de salud sexual."
+   },
+   {
+    "id": "pfac-0196",
+    "partido": "pfac",
+    "titular": "Formularios familiares con la opción de dos mamás o dos papás",
+    "marca_actual": [],
+    "texto": "13. Modificar los formularios para familias a fin de que se puedan marcar dos mamás o dos papás en lugar de Madre/Padre/Tutor/Tutora legal. Entendiendo que es igualmente necesario que se mantengan los términos madre/padre y no se cambien por otros que intenten ocultar el sexo."
+   },
+   {
+    "id": "pfac-0197",
+    "partido": "pfac",
+    "titular": "Agilizar las adopciones y firmar convenios con países sin barreras para familias LGB",
+    "marca_actual": [],
+    "texto": "14. Agilizar y optimizar los trámites administrativos de los procesos de adopción, tanto a nivel nacional como internacional, estableciendo convenios con países en los que no existan barreras que impidan la igualdad real para las familias LGB en este ámbito."
+   },
+   {
+    "id": "pfac-0198",
+    "partido": "pfac",
+    "titular": "Verificar el reconocimiento de la madre no gestante desde el nacimiento",
+    "marca_actual": [],
+    "texto": "15. Verificar el cumplimiento real y efectivo de la instrucción de 3 de julio de 2025 que reconoce la filiación materna en las parejas de mujeres y garantiza que la madre no gestante sea reconocida como progenitora desde el nacimiento de la hija o hijo, sin necesidad de matrimonio o de adopción posterior."
+   },
+   {
+    "id": "pfac-0199",
+    "partido": "pfac",
+    "titular": "Alianzas con entidades por la igualdad LGB en otros países",
+    "marca_actual": [],
+    "texto": "16. Establecer colaboraciones estratégicas y alianzas con entidades que trabajan por la igualdad LGB en otros países."
+   },
+   {
+    "id": "pfac-0200",
+    "partido": "pfac",
+    "titular": "Presión diplomática sobre los países que persiguen la homosexualidad",
+    "marca_actual": [],
+    "texto": "17. Ejercer presión diplomática —mediante llamadas a consultas, protestas formales, convocatorias de embajadores o la ruptura de relaciones— sobre los Gobiernos de aquellos países que persiguen y condenan la homosexualidad, exigiendo de forma paralela la intervención de los organismos internacionales."
+   },
+   {
+    "id": "pfac-0207",
+    "partido": "pfac",
+    "titular": "Eliminar los términos de la «neolengua queer» de la legislación y la Administración",
+    "marca_actual": [],
+    "texto": "4. Eliminar los términos de la neolengua queer de la legislación, la documentación, los formularios y todo tipo de escritos de la Administración Pública. Igualmente, rectificar la señalización de los edificios públicos que haya sido modificada para incluirla."
+   },
+   {
+    "id": "pfac-0209",
+    "partido": "pfac",
+    "titular": "Instar a la RAE a rechazar el morfema -e como neutro",
+    "marca_actual": [],
+    "texto": "6. Instar a la RAE a que rechace la inclusión del morfema en -e como sufijo gramatical neutro, y de otros términos y construcciones de la neolengua queer destinados a borrar a las mujeres del lenguaje."
+   },
+   {
+    "id": "pfac-0475",
+    "partido": "pfac",
+    "titular": "Apostar por la gestión directa de los servicios sociales y recursos específicos para mujeres",
+    "marca_actual": [],
+    "texto": "En el Partido Feministas al Congreso apostamos por reforzar el sector público y apoyar de forma decidida la gestión directa de los servicios sociales; y cuando esto no sea posible, priorizar la colaboración con entidades sociales del tercer sector por encima de las empresas mercantiles con ánimo de lucro.\n\nPor otra parte, la ausencia de una cartera de servicios única a nivel estatal conlleva graves diferencias entre las comunidades autónomas o que la ejecución de leyes estatales se convierta en un laberinto burocrático y de desigual implementación en el Estado, generando con ello ciudadanía «de primera y de segunda».\n\nAdemás, tanto en los estudios sociales como en la creación de servicios y proyectos se sigue una perspectiva androcéntrica, teniendo en cuenta fundamentalmente las necesidades de los hombres. Existen pocos recursos dirigidos específicamente a las mujeres y su financiación es escasa. Además, tras la aprobación de la conocida como «Ley Trans» —en línea con lo sucedido en otros países—, estos entornos han dejado de ser espacios seguros para ellas. Estos aspectos resultan determinantes, dado que el perfil mayoritario, tanto en el ámbito profesional como en el de la población usuaria de los servicios sociales, es femenino.\n\nEn base a todo lo expuesto, el PFAC emprenderá las siguientes actuaciones:"
+   },
+   {
+    "id": "pfac-0656",
+    "partido": "pfac",
+    "titular": "Acabar con la influencia del transgenerismo en el sector cultural y los medios públicos",
+    "marca_actual": [],
+    "texto": "25. Acabar con la influencia de las corrientes del transgenerismo en el sector cultural, garantizando la fidelidad histórica de las figuras femeninas y protegiendo la imagen de la mujer frente a representaciones que la desvirtúen. Para ello se proponen actuaciones como:\n - Terminar con la actual sobresaturación de contenidos y personajes que promueven las falsas identidades de género o sexuales en los medios de difusión pública, frenando así el contagio social entre la juventud y, muy especialmente, entre las adolescentes.\n - Prohibir la alteración anacrónica de la realidad histórica de las mujeres, garantizando que las figuras femeninas del pasado que rompieron estereotipos para defender la educación, la cultura y la emancipación sean reconocidas y representadas fielmente como mujeres, sin que sus logros se utilicen para atribuirles identidades ajenas a su contexto.\n - Establecer filtros en la concesión de ayudas públicas para asegurar que las producciones financiadas por el contribuyente no ridiculicen, banalicen ni degraden la imagen de las mujeres a través de representaciones basadas en estereotipos regresivos de género."
+   },
+   {
+    "id": "pfac-0686",
+    "partido": "pfac",
+    "titular": "Diagnóstico: poca paridad judicial y estadísticas alteradas por la autodeterminación del sexo",
+    "marca_actual": [],
+    "texto": "A pesar de que en España más de la mitad de la judicatura está compuesta por mujeres (58,9 %), su presencia se reduce conforme se sube de nivel, hasta el 30% que representan en el Tribunal Supremo. Esta falta de paridad no responde a cuestiones de edad, méritos o formación sino a criterios androcéntricos que privilegian el ascenso de los varones.\n\nDel otro lado del estrado, el de las víctimas, las mujeres representan el 47,5 % del total, mientras que el perfil de las personas agresoras es mayoritariamente masculino, situándose cerca del 90 %. Las mujeres sufren, de manera principal, delitos contra las personas, la libertad y la libertad e indemnidad sexual, concentrados en los marcos de la violencia machista y la violencia sexual. Asimismo, del total de delitos cometidos por hombres, aproximadamente el 20% se dirige específicamente contra mujeres.\n\nLa fiabilidad de estos datos estadísticos, cruciales para la investigación de la criminalidad y el análisis de la situación de las mujeres, se encuentra comprometida por los marcos regulatorios de la autodeterminación del sexo. Estas normativas alteran el registro preciso de las mujeres víctimas de violencia machista, cuando su agresor se ha autoidentificado como mujer, así como el de quienes perpetran los delitos, lo que resulta en la atribución a las mujeres de delitos no cometidos por ellas."
+   },
+   {
+    "id": "pfac-0689",
+    "partido": "pfac",
+    "titular": "Diagnóstico: déficit del tratamiento penitenciario femenino y varones en módulos de mujeres",
+    "marca_actual": [],
+    "texto": "En lo que respecta al tratamiento penitenciario, las mujeres han sufrido históricamente un profundo déficit en el conocimiento de su perfil criminológico, lo que provocó que los programas iniciales fueran meras adaptaciones de los masculinos. Si bien el programa integral _Sermujer.eS_ nació para abordar la vulnerabilidad de las internas ante la violencia machista, la realidad actual exige ir más allá de la mera victimización. Si bien se han sumado programas genéricos (adiciones o salud mental) y protocolos específicos, el sistema aún arrastra una notable brecha entre mujeres y hombres en la inserción laboral; aunque la formación profesional se ha modernizado y homologado legalmente, la oferta de talleres productivos e industriales mantiene una marcada feminización de las tareas en comparación con las prisiones masculinas.\n\nEn las prisiones también se pueden identificar los efectos nefastos de las leyes de autodeterminación del sexo contra los derechos de las mujeres. Es del todo inaceptable la situación de inseguridad para las mujeres presas por el riesgo de violencia machista que se añade a la condena que cumplen. Permitir el cumplimiento de condenas a los varones en módulos de mujeres supone la violación de las Reglas de Bangkok.\n\nPara hacer frente a todas estas realidad, el PFAC propone las siguientes medidas:"
+   },
+   {
+    "id": "pfac-0715",
+    "partido": "pfac",
+    "titular": "Separar las prisiones por sexo biológico, sin varones autoidentificados en módulos de mujeres",
+    "marca_actual": [],
+    "texto": "24. Garantizar que los centros penitenciarios mantengan la separación por sexo biológico, de modo que las personas de sexo masculino que se autoidentifiquen como mujeres cumplan sus condenas fuera de los módulos o las prisiones destinados a las mujeres."
+   },
+   {
+    "id": "pfac-0716",
+    "partido": "pfac",
+    "titular": "Cacheos solo por personal del mismo sexo, sin poder alegar el sexo registral",
+    "marca_actual": [],
+    "texto": "25. Asegurar que los cacheos, registros que impliquen desnudo o cualquier otra situación de exposición corporal se realicen exclusivamente por personal del mismo sexo, sin que a estos efectos se pueda alegar el sexo registral."
+   },
+   {
+    "id": "pfac-0935",
+    "partido": "pfac",
+    "titular": "Promover el reconocimiento internacional del sexo biológico como categoría jurídica",
+    "marca_actual": [],
+    "texto": "2. Fomentar de forma activa el reconocimiento internacional del sexo biológico como categoría jurídica objetiva y esencial en la legislación, especialmente en las leyes de igualdad, pero también en el diseño de todas las políticas públicas, los deportes y los datos oficiales desagregados por sexo, entre otros aspectos."
+   },
+   {
+    "id": "pfac-0952",
+    "partido": "pfac",
+    "titular": "Política exterior por la paz: salir de la OTAN y romper con Israel",
+    "marca_actual": [],
+    "texto": "- MEDIDA 43. CONSEGUIR UNA POLÍTICA EXTERIOR POR LA PAZ. Acabar con la política belicista y de Incremento del gasto militar, plan progresivo de salida de la OTAN, ruptura de relaciones diplomáticas con el estado de Israel, reclamar la autodeterminación del pueblo saharaui, y negociaciones de paz para acabar con la guerra de Ucrania."
+   },
+   {
+    "id": "pfac-0966",
+    "partido": "pfac",
+    "titular": "Impulsar la autodeterminación del pueblo saharaui mediante referéndum",
+    "marca_actual": [],
+    "texto": "13. Impulsar la autodeterminación del pueblo saharaui, exigiendo a Marruecos la celebración de un referéndum, de conformidad con las resoluciones de Naciones Unidas sobre el conflicto."
+   },
+   {
+    "id": "nex-0153",
+    "partido": "nex",
+    "titular": "Blindar los derechos LGTBI y reforzar el Pacto contra la Violencia de Género",
+    "marca_actual": [],
+    "texto": "141. Blindaje legal de los derechos LGTBI y refuerzo del Pacto de Estado contra la Violencia de Género."
+   },
+   {
+    "id": "d21-0255",
+    "partido": "d21",
+    "titular": "Filiación sin matrimonio para parejas de mujeres y método ROPA en la sanidad pública",
+    "marca_actual": [],
+    "texto": "- **Dos Madres, Mismos Derechos:** ningún niño debe tener menos protección por cómo es su familia. Elevaremos a rango de ley lo que hoy depende de una simple instrucción administrativa: que las parejas de mujeres, estén casadas o no, puedan inscribir a sus hijos como hijos de ambas desde el propio hospital, eliminando el requisito de matrimonio que todavía recoge la Ley de Reproducción Asistida. Incorporaremos el método ROPA a la cartera común de la sanidad pública, que hoy solo ofrecen algunas Comunidades, y fijaremos criterios comunes de reproducción asistida en todo el país. Y adaptaremos todos los formularios y registros digitales del Estado para que reflejen cualquier modelo de familia legalmente reconocido, sin rectificaciones ni trámites extra."
+   },
+   {
+    "id": "d21-0332",
+    "partido": "d21",
+    "titular": "Oponerse a cualquier recorte de los derechos LGTBIQ+",
+    "marca_actual": [],
+    "texto": "- **Defensa Firme de los Derechos LGTBIQ+ y No Discriminación Trans:** nos opondremos a que los derechos de las personas LGTBIQ+ sufran cualquier intento de recorte. Frenaremos cualquier ofensiva que pretenda recortar libertades, patologizar identidades, derogar normas que aseguran la no-discriminación, o legitimar la exclusión y el señalamiento público. Además, el Estado deberá garantizar que todos los centros educativos sean espacios libres de acoso y totalmente seguros para cualquier persona."
+   },
+   {
+    "id": "d21-0333",
+    "partido": "d21",
+    "titular": "Aplicar la ley contra los discursos de odio y las terapias de conversión",
+    "marca_actual": [],
+    "texto": "- **Un Frente Contra los Delitos de Odio:** no normalizaremos la intolerancia. Exigiremos y apoyaremos la aplicación de la ley contra quienes promuevan agresiones, discursos de odio o terapias de conversión, asegurando que España siga siendo uno de los países más seguros y libres del mundo para ser y amar."
+   },
+   {
+    "id": "comuns-0864",
+    "partido": "comuns",
+    "titular": "Feminismo y diversidad sexual y de género, una misma lucha por las libertades",
+    "marca_actual": [],
+    "texto": "Les lluites feministes i LGTBIQ+ comparteixen l’objectiu de superar les imposicions patriarcals, l’heteronormativitat i el binarisme de gènere, i d’ampliar les llibertats de totes les persones. No són lluites separades ni contradictòries, sinó aliances imprescindibles per transformar les estructures de dominació i discriminació.\n\nReconeixem les conquestes històriques del moviment per l’alliberament sexual i de gènere, des de les lluites contra la repressió i la patologització fins a les reivindicacions actuals del moviment trans, queer i transfeminista. Defensem que els drets de les persones LGTBIQ+ formen part indestriable de l’agenda feminista i que cap avenç en igualtat no pot deixar enrere les persones trans ni cap altra identitat o orientació sexual.\n\nAquesta transformació també ha d’interpel·lar els homes, promovent masculinitats igualitàries, corresponsables i lliures dels mandats patriarcals. Volem que les noves generacions creixin amb referents basats en el respecte, la igualtat, la diversitat i unes relacions lliures de violència.\n\nVolem més feminisme perquè volem més drets, més democràcia, més justícia social, més igualtat i més llibertat. Volem transformar la societat perquè totes les vides comptin, perquè totes les persones puguin viure amb dignitat i perquè la política torni a tenir com a horitzó fonamental el sosteniment de la vida."
+   },
+   {
+    "id": "comuns-0879",
+    "partido": "comuns",
+    "titular": "Observatorio Estatal y estrategia contra la LGTBQAifobia",
+    "marca_actual": [],
+    "texto": "- Establir un Observatori Estatal contra la LGTBQAifobia que reculli casos de discriminacions i violències en coordinació amb diferents observatoris territorials i desenvolupar una estratègia per combatre la LGTBQAifobia i incidir de forma especifica en àmbits clau com l’esport, la cultura, l’ocupació o l’educació."
+   },
+   {
+    "id": "comuns-0880",
+    "partido": "comuns",
+    "titular": "Acogida segura a las personas LGTBIQ+ solicitantes de protección internacional",
+    "marca_actual": [],
+    "texto": "- Garantir acollida segura a les persones LGTBIQ+ sol·licitants de protecció internacional, amb personal format i respecte a la identitat de gènere en l’allotjament."
+   },
+   {
+    "id": "comuns-0881",
+    "partido": "comuns",
+    "titular": "Atención sanitaria despatologizada a las personas trans basada en el consentimiento",
+    "marca_actual": [],
+    "texto": "- Garantir una atenció sanitària integral, accessible i respectuosa per a les persones trans, despatologitzada i basada en l’autonomia personal i el consentiment informat."
+   },
+   {
+    "id": "comuns-0882",
+    "partido": "comuns",
+    "titular": "Culminar la tipificación penal de las terapias de conversión",
+    "marca_actual": [],
+    "texto": "- Culminarem la tipificació penal de les teràpies de conversió aprovada al Congrés el juny de 2026, i la tornarem a impulsar si ha decaigut amb la dissolució de les Corts."
+   },
+   {
+    "id": "comuns-0883",
+    "partido": "comuns",
+    "titular": "Tratar a las personas trans y no binarias por su nombre sentido",
+    "marca_actual": [],
+    "texto": "- Garantirem el dret de les persones trans i no binàries a ser identificades i tractades conforme a la seva identitat de gènere manifestada (d’ara endavant, nom sentit) en les relacions, comunicacions i sistemes d’informació de l´Administració General de l’Estat i la Seguretat Social, sense que això alteri la validesa dels actes administratius que requereixin identificació registral."
+   },
+   {
+    "id": "comuns-0884",
+    "partido": "comuns",
+    "titular": "Reconocer a las personas no binarias en el Registro Civil y el DNI",
+    "marca_actual": [],
+    "texto": "- Impulsarem el reconeixement legal de les persones no binàries al Registre Civil i al DNI, i obrirem opcions de gènere no binari als formularis estatals."
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 23,
+  "palabras": 2302,
+  "candidatos": [
+   {
+    "id": "pfac-0354",
+    "partido": "pfac",
+    "titular": "Convertir Patrimonio en un impuesto sobre grandes fortunas sin bonificaciones autonómicas",
+    "marca_actual": [],
+    "texto": "1. Convertir el Impuesto sobre el Patrimonio en un impuesto sobre la riqueza y las grandes fortunas. El Estado fijará una base imponible homogénea, un mínimo exento y una misma tarifa en todo el territorio nacional. Las comunidades autónomas no podrán bonificar el tributo a partir de ese importe."
+   },
+   {
+    "id": "pfac-0356",
+    "partido": "pfac",
+    "titular": "Horquillas ajustadas en Sucesiones y Donaciones contra la competencia fiscal",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "3. Establecer horquillas ajustadas para exenciones, escalas de gravamen, reducciones, bonificaciones, y deducciones en el Impuesto de Sucesiones y Donaciones, todo ello con el fin de evitar la desleal competencia fiscal para atraer a los grandes capitales."
+   },
+   {
+    "id": "pfac-0358",
+    "partido": "pfac",
+    "titular": "Hacer más progresiva la escala de las rentas del capital",
+    "marca_actual": [],
+    "texto": "5. Hacer más progresiva la escala de tipos sobre las rentas del capital."
+   },
+   {
+    "id": "pfac-0367",
+    "partido": "pfac",
+    "titular": "Gravar las transacciones financieras especulativas, incluidos los derivados",
+    "marca_actual": [],
+    "texto": "14. Gravar las transacciones financieras especulativas que no están sujetas a tributación, no sólo la compra de acciones, sino también los derivados financieros que son las operaciones más perjudiciales para la economía real."
+   },
+   {
+    "id": "pfac-0465",
+    "partido": "pfac",
+    "titular": "Transferencia estructural de los Presupuestos a las pensiones, financiada gravando banca y gran capital",
+    "marca_actual": [],
+    "texto": "5. Establecer una transferencia fiscal de carácter estructural directa desde los Presupuestos Generales del Estado al sistema de pensiones. Esta se financiará a través de una reforma fiscal progresiva sobre los beneficios extraordinarios de la gran banca, las corporaciones oligopolísticas y las rentas financieras del gran capital."
+   },
+   {
+    "id": "pfac-0753",
+    "partido": "pfac",
+    "titular": "Espacios para donaciones, segunda mano y préstamo de herramientas",
+    "marca_actual": [],
+    "texto": "29. Promover actuaciones para evitar que los residuos, una vez generados, entren en los circuitos de recogida, favoreciendo la creación de espacios para donaciones, intercambios, ventas de segunda mano y alquiler o préstamo de herramientas para reparaciones."
+   },
+   {
+    "id": "pfac-0874",
+    "partido": "pfac",
+    "titular": "Diagnóstico: violencia vicaria con mascotas y más de 290.000 abandonos al año",
+    "marca_actual": [],
+    "texto": "Precisamente, el apego de las mujeres con sus mascotas ha propiciado la aparición de un nuevo tipo de violencia vicaria: la de los maltratadores que utilizan a las mascotas para intimidar, controlar o causar un profundo sufrimiento psicológico a las mujeres en contextos de violencia machista. Según datos del Observatorio Español de la Violencia hacia los Animales, el 86 % de las mujeres víctimas de violencia machista afirman que sus parejas o exparejas también han maltratado a sus animales de compañía.\n\nA pesar de los avances conseguidos en los últimos años, España continúa enfrentándose a la problemática del abandono animal, registrando más de 290.00 casos anuales, lo cual nos convierte en uno de los países con mayor tasa de abandono de Europa. Esta situación, además del sufrimiento de los animales, provoca que las protectoras se encuentren saturadas y carezcan de los recursos necesarios, dependiendo en muchos casos de las donaciones particulares.\n\nPor otro lado, el maltrato animal persiste debido a la aplicación judicial irregular. A pesar del endurecimiento de las penas, siguen existiendo casos de maltrato impune o sanciones leves, además de una escasa formación de la judicatura y la policía en materia de bienestar animal."
+   },
+   {
+    "id": "pfac-0932",
+    "partido": "pfac",
+    "titular": "Diagnóstico: matrimonios forzados, mutilación genital y trata en muchos países",
+    "marca_actual": [],
+    "texto": "Aunque Europa sigue siendo una de las regiones con mayores niveles de igualdad, persisten importantes desigualdades en el empleo, los salarios, el reparto de los cuidados, la representación política y la seguridad de las mujeres. Por ello defendemos reforzar la cooperación feminista internacional entre mujeres de todos los pueblos, basada en la solidaridad, el respeto mutuo y la defensa de los derechos humanos.\n\nEn demasiados países confluyen uno o varios factores inadmisibles: matrimonios infantiles y forzados, mutilación genital femenina, violencia sexual sistemática y violencia machista, trata, esclavitud y explotación sexual, falta de acceso a educación y sanidad, pobreza extrema, conflictos armados, desplazamientos forzosos e inseguridad, alta mortalidad materna, escasa representación política y económica, leyes discriminatorias en herencia, divorcio o tutela, sistemas judiciales que no ofrecen ninguna protección a las víctimas. Frente a esta situación, proponemos políticas públicas que garanticen protección integral, recursos sostenidos, reparación y medidas de no repetición.\n\nEl PFAC busca extender su compromiso con la igualdad más allá de nuestras fronteras para impulsar la agenda feminista global. Con este fin, propone:"
+   },
+   {
+    "id": "pfac-0976",
+    "partido": "pfac",
+    "titular": "Entradilla de actuaciones complementarias sobre la Unión Europea",
+    "marca_actual": [],
+    "texto": "Además, se pondrán en marcha las siguientes actuaciones en coherencia con todas esas medidas:"
+   },
+   {
+    "id": "ph-0008",
+    "partido": "ph",
+    "titular": "Ley de Propiedad Participada con exenciones fiscales y fondos de accionariado laboral",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Ley de Propiedad Participada de los Trabajadores (ampliando la Ley 44/2015, de 14 de octubre)** Establecimiento de una batería de exenciones fiscales para la creación y desarrollo de Sociedades Laborales (en las que más del 50% del capital social es propiedad de los trabajadores) y para empresas participadas por los trabajadores (que no alcanzan el requisito anterior) que también implementen mecanismos de cogestión, es decir, participación de los trabajadores paritaria con la propiedad en la gestión de la empresa. Estas exenciones deben ser suficientes y servir para impulsar de forma efectiva la existencia de empresas que llevan la democracia a su funcionamiento interno y que, además, debido a la vinculación de sus miembros, mostrarán una mayor coherencia y resiliencia frente a las crisis. Creación de Fondos de Accionariado Laboral alimentados con el 25% de los beneficios netos anuales de la empresa, transfiriendo paulatinamente la propiedad de las acciones a la plantilla."
+   },
+   {
+    "id": "ph-0009",
+    "partido": "ph",
+    "titular": "Renta básica universal e incondicional de 950 € al mes",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Renta Básica Universal e Incondicional (RBUI)** Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). **Memoria económica y viabilidad:** El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:\n - Una reforma progresiva del IRPF sobre las rentas del capital y del trabajo superiores a 120.000 € anuales (aportando 55.000 M€).\n - Un Impuesto a las Grandes Fortunas y Patrimonio Neto superior a 3 millones de euros (aportando 25.000 M€).\n - Una Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin) del 0,5% en operaciones bursátiles de alta frecuencia (aportando 20.000 M€).\n - Un Plan Integral de Lucha contra el Fraude y la Evasión Fiscal de grandes corporaciones y patrimonios, fijando un objetivo de recaudación recuperada de 30.000 M€ anuales (según estimaciones de los técnicos de Hacienda Gestha).\n - Ahorro de costes administrativos y supresión de partidas redundantes de prestaciones mínimas (10.000 M€)."
+   },
+   {
+    "id": "ph-0026",
+    "partido": "ph",
+    "titular": "Diagnóstico: inversión educativa del 4,4 % del PIB y segregación escolar",
+    "marca_actual": [],
+    "texto": "La inversión educativa en España se sitúa en torno al 4,4% del PIB, por debajo de la media comunitaria (4,8%). El sistema actual perpetúa la segregación escolar mediante la financiación pública de centros concertados y privados y mantiene altas tasas de abandono escolar temprano (13,6%) derivadas de la falta de personal de apoyo y de ratios elevadas por aula.\n\nEn el Documento sobre la Situación Mundial, elaborado en 2022 por el Partido Humanista Internacional, se afirmaba _«Para nuestro humanismo educar es adquirir valores y capacidades para desenvolverse en el mundo con coherencia y solidaridad. Es fundamentalmente habilitar a las nuevas generaciones en una mirada no ingenua de la realidad, para poder transformar y humanizar crecientemente. Las propuestas alternativas a la educación conservadora son numerosísimas, las más interesantes surgen desde algunos sindicatos, movimientos sociales y partidos políticos cuestionadores del orden capitalista, antropocéntrico, patriarcal y opresor. Las y los humanistas hemos desarrollado desde nuestro paradigma diferentes experiencias en materia educativa, llevadas principalmente a cabo por docentes que, además de poner en el centro al ser humano como valor principal, hacen foco en educar en la no violencia activa, porque la violencia se aprende y la no violencia, también»._"
+   },
+   {
+    "id": "ph-0067",
+    "partido": "ph",
+    "titular": "Financiación del programa: el problema no es el dinero sino su concentración",
+    "marca_actual": [],
+    "texto": "Elaborar un programa como el nuestro, lleno de propuestas arriesgadas que sirvan como puente para superar este sistema violento, despierta una pregunta inmediata: ¿y esto, quién lo paga? Responderemos insistiendo que el problema no es el dinero, sino la usurpación del todo por una pequeña parte. Es inviable e inhumano continuar con un sistema que privilegia las grandes fortunas mientras condena a enormes capas de la población a la desesperación y la miseria.\n\nEl plan de transformación del Partido Humanista se sostiene sobre una coherencia macroeconómica y fiscal. Somos conscientes de que tales medidas exigen a un estudio mucho más exhaustivo y exigente al que se puede realizar en un programa electoral que pretende ser un lineamiento general, más enfocado a la dirección que a la concreción. Sin embargo, estamos convencidos de que va a llegar el día en el que la gran mayoría de las personas, cansadas de un mundo que se les queda pequeño, en el que no pueden desarrollar todo su potencial como seres humanos, exigirán el cumplimiento de propuestas como las que hemos expresado en estas páginas o algunas muy similares."
+   },
+   {
+    "id": "ph-0070",
+    "partido": "ph",
+    "titular": "Ingresos de 155.500 M€: fraude, IRPF alto, grandes fortunas y Tasa Tobin",
+    "marca_actual": [],
+    "texto": "|Vía de Financiación / Medida Fiscal|Recaudación o Ahorro Estimado Anual (M€)|Justificación / Colectivo Afectado|\n|---|---|---|\n|Lucha contra el Fraude y la Evasión Fiscal|+30.000 M€|Grandes corporaciones y patrimonios, plan técnicos Gestha|\n|Reforma del IRPF (Rentas del Trabajo > 120.000 € y Rentas del Capital)|+55.000 M€|Tramos altos de renta y equiparación de tributación de rentas del capital al trabajo|\n|Impuesto a las Grandes Fortunas (Patrimonio Neto > 3M€)|+25.000 M€|Gravamen progresivo a la riqueza extrema no productiva|\n|Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin ampliada)|+20.000 M€|0,5% a compras bursátiles y algoritmos de alta frecuencia|\n|Supresión de privilegios fiscales a SOCIMIs y Fondos Especulativos|+8.000 M€|Tributación estándar al tipo general de sociedades|\n|Reducción del 50% en armamento y Defensa|+7.500 M€|Recorte directo en adquisiciones militares y programas armamentísticos|\n|Racionalización y absorción de subsidios fragmentados redundantes|+10.000 M€|Simplificación por la puesta en marcha de la RBUI|\n\n**TOTAL INGRESOS / AHORROS ADICIONALES ANUALES:** +155.500 M€\n\n**TOTAL INVERSIONES / GASTOS SOCIALES ANUALES:** 155.500 M€ (balance equilibrado y solvente)."
+   },
+   {
+    "id": "d21-0109",
+    "partido": "d21",
+    "titular": "Las ganancias de activos de menos de un año tributarán como el trabajo",
+    "marca_actual": [],
+    "texto": "- **La Especulación a Corto Plazo, como el Trabajo:** vender una acción comprada hace tres semanas tributa hoy en la escala del ahorro, del 19% al 30%, a menudo menos de lo que paga un trabajador por cada euro extra de su sueldo. Las ganancias por la venta de activos mantenidos menos de un año tributarán como las rentas del trabajo, igual que ocurría hasta 2014. La inversión a largo plazo, la que construye empresas y ahorro, conservará su tratamiento actual."
+   },
+   {
+    "id": "d21-0272",
+    "partido": "d21",
+    "titular": "IVA sanitario para servicios veterinarios y medicamentos veterinarios al 4 %",
+    "marca_actual": [],
+    "texto": "- **IVA Sanitario para Mascotas y Reconocimiento Sanitario Pleno:** modificaremos la Ley de Ordenación de las Profesiones Sanitarias (LOPS) para que el reconocimiento de los veterinarios como profesionales sanitarios, hoy meramente formal, sea pleno y efectivo: la atención clínica veterinaria tendrá la consideración de servicio sanitario asistencial y las clínicas y hospitales veterinarios, la de centros sanitarios. En coherencia con ese reconocimiento, defenderemos en la Unión Europea la reforma de la Directiva del IVA necesaria para que los servicios veterinarios a animales de compañía dejen de tributar al 21% y pasen a tener un IVA sanitario. Mientras tanto, bajaremos el IVA de los medicamentos veterinarios del 10% al 4%, igualándolo al de los medicamentos de uso humano. Así facilitaremos a millones de familias el cuidado preventivo y el acceso a los tratamientos que sus animales de compañía necesitan."
+   },
+   {
+    "id": "comuns-0074",
+    "partido": "comuns",
+    "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+    "marca_actual": [],
+    "texto": "Paral·lelament s’ha d’avançar en un model de fiscalitat més just per garantir uns serveis públics de qualitat a la ciutadania. Les pràctiques de reducció impositiva practicada en alguns països s’han mostrat no només nocives en termes de desigualtat entre ciutadans, també són un llast pel creixement econòmic i un risc per la democràcia. Per això hem d’aprofundir en mesures efectives que gravin els grans patrimonis que sovint han estat capaços de defugir el pagament d’impostos i especialment els ultrarics. No s’ha d’oblidar la importància de fiscalitat verda per fer efectiu el principi de qui contamina paga o el reforç de la imposició sobre qualsevol pràctica que desviï l’ús de l’habitatge residencial cap a altres usos o que afavoreixi l’especulació i la concentració de propietat. En definitiva, una fiscalitat en favor del 99%, ecològica i justa.\n\nEn l’àmbit laboral perseguirem la reducció de jornada i una millor conciliació. S’ha desmentit completament el mantra de que les pujades de salari mínim generen atur i queda desmentit que la reducció de la jornada laboral redueix la productivitat. Seguirem treballant per la qualitat de l’ocupació perquè aquesta és condició necessària per garantir una economia estable i productiva."
+   },
+   {
+    "id": "comuns-0170",
+    "partido": "comuns",
+    "titular": "Integrar rentas del trabajo y del capital en la misma base del IRPF",
+    "marca_actual": [],
+    "texto": "- Per eliminar la discriminació que pateixen les rendes del treball en relació amb les del capital, fer que en el càlcul de l’IRPF estiguin juntes en la mateixa base imposable de manera que se’ls hi apliquin els mateixos tipus impositius."
+   },
+   {
+    "id": "comuns-0171",
+    "partido": "comuns",
+    "titular": "Bajar el IRPF hasta 25.000 € y gravar al 3 % las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Abaixarem l’IRPF a les rendes del treball de fins a 25.000 euros. Augmentarem la reducció per rendiments del treball perquè qui cobri el salari mínim no pagui IRPF i estendrem aquesta rebaixa, de manera decreixent, fins als 25.000 euros. Impulsar un impost a les grans fortunes (impost Zucman) que gravi la riquesa excessiva, i buscar consensos socials que permetin encara una limitació de la riquesa total en mans d’una sola persona. Per això proposem la creació d’un gravamen sobre la concentració de riquesa adreçada a persones físiques amb un patrimoni net global superior als 50 milions d’euros. Proposem que la llei estableixi un tipus únic del 3% sobre la base que excedeixi d’aquest llindar de 50 milions, amb exempcions fortament restringides i la supressió expressa de l’exempció general per al patrimoni empresarial i les participacions en entitats."
+   },
+   {
+    "id": "comuns-0172",
+    "partido": "comuns",
+    "titular": "Cláusula antiabuso en el impuesto a grandes fortunas para financiar la crianza",
+    "marca_actual": [],
+    "texto": "- Establirem regles de coordinació per evitar la doble imposició mitjançant la deducció de les quotes efectivament pagades en l’Impost sobre el Patrimoni i en l’Impost temporal de solidaritat de les grans fortunes. Però proposem incorporar una clàusula antiabús que manté l’obligació de pagament durant els 5 exercicis posteriors a un trasllat de residència fiscal a l’estranger. Aquesta proposta té un caràcter finalista, destinada a dotar el Fons de Protecció a la Infància per finançar una prestació universal per criança a menors de 18 anys."
+   },
+   {
+    "id": "comuns-0173",
+    "partido": "comuns",
+    "titular": "Hacer permanente el impuesto a las grandes fortunas con un mínimo del 2 %",
+    "marca_actual": [],
+    "texto": "- Farem permanent l’impost a les grans fortunes. Garantirem que els patrimonis de més d’un milió d’euros tributin com a mínim un 2%. L’Impost Temporal de Solidaritat de les Grans Fortunes ha frenat la competència fiscal entre comunitats i ha fet que les grans fortunes contribueixin a finançar els serveis públics. Estudiar la cessió a les comunitats autònomes."
+   },
+   {
+    "id": "comuns-0174",
+    "partido": "comuns",
+    "titular": "Impuesto estatal a herencias de más de un millón contra la competencia autonómica",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Crear un impost estatal sobre les grans herències de més d’un milió d’euros que gravarà la diferència entre el mínim estatal i el que estableixi cada comunitat, per frenar la carrera a la baixa entre comunitats autònomes a l’impost de successions i donacions."
+   },
+   {
+    "id": "comuns-1123",
+    "partido": "comuns",
+    "titular": "Impuesto mínimo global a grandes patrimonios y sin exención a multinacionales estadounidenses",
+    "marca_actual": [],
+    "texto": "- Impulsar un impost mínim global sobre els grans patrimonis, revertir l’exempció de l’impost mínim global de societats pactada el 2026 per a les multinacionals nord-americanes."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sociedades",
+  "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo"
+   },
+   {
+    "id": "subir",
+    "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  ],
+  "n": 17,
+  "palabras": 1703,
+  "candidatos": [
+   {
+    "id": "pfac-0272",
+    "partido": "pfac",
+    "titular": "Turismo sostenible, ecotasa, moratoria de licencias turísticas y apoyo al comercio de proximidad",
+    "marca_actual": [],
+    "texto": "9. Modernizar el sector servicios, a partir de:\n - Establecer líneas de financiación preferente y subsidios públicos condicionados de forma exclusiva a pymes, microempresas y cooperativas de propiedad local, limitando el acaparamiento de las ayudas estatales por parte de los grandes conglomerados y cadenas hoteleras transnacionales.\n - Impulsar la Estrategia de Turismo Sostenible 2030 para promover un turismo respetuoso con el medio ambiente y sostenible en todas sus vertientes: económica, social, digital, medioambiental y territorial.\n - Crear un Sello de Retorno Económico Comunitario de carácter público para identificar y premiar a aquellas empresas del sector de la hostelería y el alojamiento que reinviertan un porcentaje mínimo de sus beneficios netos anuales en proyectos de desarrollo social y comercial del propio municipio.\n - Aprobar una Ecotasa Finalista Autonómica sobre las pernoctaciones y las escalas de grandes cruceros, destinando la totalidad de la recaudación a sufragar los costes de mantenimiento de las infraestructuras públicas, la gestión de residuos y el sobrecoste hídrico que actualmente asume la ciudadanía local a través de sus impuestos ordinarios.\n - Girar tipos impositivos incrementales en el Impuesto sobre Actividades Económicas (IAE) para los establecimientos turísticos de gran escala situados en zonas declaradas de alta saturación, desincentivando la masificación y captando recursos para las arcas públicas municipales.\n - Eliminar las bonificaciones fiscales existentes para los fondos de inversión inmobiliaria y las SOCIMI orientadas al sector vacacional, reorientando de forma inmediata esos incentivos fiscales hacia el comercio de proximidad y la producción artesanal local.\n - Fijar un gravamen específico a las comisiones de las multinacionales de reservas y plataformas digitales de alojamiento por la actividad económica realizada dentro del territorio nacional, asegurando que la riqueza generada tribute donde se produce el servicio y evitando la evasión fiscal hacia paraísos corporativos.\n - Establecer moratorias temporales de licencias de uso turístico en los mercados inmobiliarios declarados como zonas tensionadas, con el objetivo de estabilizar el precio de los arrendamientos residenciales y garantizar que los ingresos de las familias se destinen al consumo en la economía local en lugar de absorberse por rentas especulativas.\n - Sancionar económicamente a las plataformas digitales que comercialicen u ofrezcan publicidad a plazas hoteleras o viviendas vacacionales que carezcan del número de registro oficial obligatorio, vinculando la cuantía de la multa directamente al volumen de facturación global de la empresa tecnológica infractora.\n - Limitar la capacidad de carga económica de los destinos de costa e interior mediante planes de ordenación que protejan el valor de los activos ecosistémicos a largo plazo, evitando la depreciación del propio destino y la pérdida de rentabilidad que provoca la sobreexplotación descontrolada.\n - Subvencionar la reconversión de infraestructuras obsoletas en el litoral y las zonas de montaña, priorizando la demolición de construcciones declaradas ilegales o que resulten ajenas a la fisonomía arquitectónica tradicional, para recuperar los espacios naturales como un activo de alto valor añadido.\n - Financiar planes de dinamización del patrimonio inmaterial y de la producción agroecológica en las zonas del interior rural, articulando circuitos económicos cortos que conecten de manera directa el gasto de las personas usuarias del turismo con el sector primario y productivo de la comarca.\n - Ampliar los destinos de los programas de turismo y de termalismo del IMSERSO para contemplar mejor las preferencias de las personas usuarias.\n - Facilitar el acceso de las familias a la red pública de Paradores de Turismo mediante la creación de bonos sociales, tarifas reducidas y programas de estancias asequibles, financiando esta medida a través de una tasa sobre las pernoctaciones del turismo internacional de lujo y la optimización de los propios excedentes comerciales de la red, con el fin de democratizar el disfrute del patrimonio natural, paisajístico, histórico y cultural y fomentar un turismo sostenible y de proximidad para toda la ciudadanía.\n - Financiar redes de turismo cultural y patrimonial cogestionadas por las propias comunidades residentes y los colectivos artísticos de las zonas de interior y de montaña, diseñando itinerarios de alto valor añadido que conviertan la preservación de la memoria histórica, las lenguas propias, la artesanía tradicional y el patrimonio inmaterial en el eje central de un modelo económico no estacional.\n - Mantener el apoyo, a través de líneas de ayudas específicas al comercio minorista, que le permita incorporar soluciones tecnológicas y procesos innovadores en su actividad, así como fomentar el uso de herramientas digitales como el comercio en línea, la factura electrónica o los servicios en nube.\n - Aprobar una reforma fiscal sectorial que contemple incentivos y deducciones en el Impuesto sobre Sociedades y en el régimen de personas trabajadoras autónomas para aquellos negocios de proximidad que realicen inversiones acreditadas en digitalización y eficiencia energética.\n - Dotar un fondo estatal específico de financiación, en colaboración con el Instituto de Crédito Oficial (ICO), que integre ayudas directas, líneas de crédito bonificadas y microcréditos a interés cero para fomentar el relevo generacional, la transmisión empresarial y la apertura de nuevos establecimientos, evitando así el cierre de negocios viables.\n - Crear una plataforma digital estatal de recursos y formación abierta que sirva de apoyo a la capacitación técnica de la población comerciante en competencias digitales y estrategias de comercialización omnicanal.\n - Coordinar con las comunidades autónomas una red nacional de protección del comercio de proximidad en el medio rural y en zonas afectadas por la despoblación, declarando el comercio rural como \"servicio de interés económico general\" para garantizar su supervivencia y arraigo.\n - Establecer la Estrategia Nacional de Mercados Municipales y Áreas Comerciales Urbanas, coordinando ayudas con las Administraciones locales y autonómicas para la rehabilitación energética de las infraestructuras comerciales y la reducción de la huella de carbono.\n - Promover un sello estatal de calidad y sostenibilidad para distinguir a los establecimientos comerciales minoristas que prioricen la venta de productos de kilómetro cero y la economía circular.\n - Lanzar campañas nacionales de concienciación y promoción del consumo responsable en el comercio local, visibilizando su valor como elemento vertebrador de la sociedad y dinamizador de la economía real.\n - Reorientar las políticas de comercio exterior para que los Acuerdos Comerciales y de Inversión sean coherentes con los derechos humanos, los sociales y las exigencias medioambientales."
+   },
+   {
+    "id": "pfac-0359",
+    "partido": "pfac",
+    "titular": "Elevar los impuestos a la banca por los fondos de sus clientes",
+    "marca_actual": [],
+    "texto": "6. Elevar los impuestos directos que paga la banca por los fondos que custodian de sus clientes. El incremento serviría para recuperar el rescate bancario y para dotar el Fondo de Garantía de Depósitos, de forma que, en posibles crisis del sector, no se ponga en riesgo a la mayoría social del país."
+   },
+   {
+    "id": "pfac-0364",
+    "partido": "pfac",
+    "titular": "Hacer más progresivo el Impuesto sobre Sociedades y revisar sus beneficios fiscales",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "11. Modificar el Impuesto sobre Sociedades para incrementar su progresividad, revisar los beneficios fiscales e impedir operaciones de ingeniería fiscal, a través de la gestión de filiales, que permiten eludir impuestos."
+   },
+   {
+    "id": "pfac-0465",
+    "partido": "pfac",
+    "titular": "Transferencia estructural de los Presupuestos a las pensiones, financiada gravando banca y gran capital",
+    "marca_actual": [],
+    "texto": "5. Establecer una transferencia fiscal de carácter estructural directa desde los Presupuestos Generales del Estado al sistema de pensiones. Esta se financiará a través de una reforma fiscal progresiva sobre los beneficios extraordinarios de la gran banca, las corporaciones oligopolísticas y las rentas financieras del gran capital."
+   },
+   {
+    "id": "ph-0014",
+    "partido": "ph",
+    "titular": "Prohibir la compra de vivienda por fondos buitre y acabar con ventajas de SOCIMI",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Prohibición de compra especulativa y fin de ventajas a SOCIMIs** Prohibición por ley de la adquisición de viviendas residenciales por parte de fondos de capital riesgo y fondos buitre. Derogación del régimen fiscal privilegiado de las SOCIMIs (Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario), equiparando su tributación al tipo general del Impuesto de Sociedades."
+   },
+   {
+    "id": "d21-0161",
+    "partido": "d21",
+    "titular": "Deducción en Sociedades para las empresas que suban salarios por encima del IPC",
+    "marca_actual": [],
+    "texto": "- **Subir Sueldos Tendrá Recompensa:** impulsaremos la mejora de los salarios mediante incentivos fiscales estableciendo una deducción en el Impuesto sobre Sociedades para las empresas que incrementen los salarios de sus trabajadores por encima del IPC, con un incentivo reforzado para las mejoras salariales de los trabajadores jóvenes. La deducción se calculará sobre el incremento salarial real, de forma que las empresas que más contribuyan a mejorar el poder adquisitivo de sus empleados obtengan un mayor beneficio fiscal. El sistema será automático y sencillo, utilizando los datos salariales y de cotización ya disponibles en la Agencia Tributaria y la Seguridad Social, sin nuevas declaraciones ni obligaciones administrativas para las empresas."
+   },
+   {
+    "id": "d21-0165",
+    "partido": "d21",
+    "titular": "Impuesto de Sociedades al 5 % para los beneficios reinvertidos en pymes",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Impuesto de Sociedades al 5% para Beneficios Reinvertidos en PYMES:** el impuesto de sociedades para las PYMES será del 5% sobre todos los beneficios que se mantengan dentro de la empresa. Las pequeñas y medianas empresas no pagarán ni un solo euro adicional por este impuesto mientras reinviertan sus ganancias en crecer, contratar personal, subir sueldos, digitalizarse o acumular reservas. Solo tributarán de forma ordinaria en el momento en que decidan repartir dividendos."
+   },
+   {
+    "id": "comuns-0175",
+    "partido": "comuns",
+    "titular": "Tributación mínima del 20 % sobre el resultado contable de las grandes empresas",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Avançar cap a una tributació mínima del 20% sobre el resultat comptable de les grans empreses."
+   },
+   {
+    "id": "comuns-0176",
+    "partido": "comuns",
+    "titular": "Mínimo del 15 % para los grandes grupos y menos deducciones en Sociedades",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Establir el mínim del 15% per als grans grups, revisar i reduir les deduccions de l’impost de societats."
+   },
+   {
+    "id": "comuns-0177",
+    "partido": "comuns",
+    "titular": "Limitar la compensación de pérdidas y eliminar la consolidación fiscal de grupos",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Limitar a quatre anys la compensació de pèrdues o deduccions no aplicades, eliminar el règim de consolidació fiscal dels grups i suprimir l’exempció per doble imposició internacional per als dividends repatriats des de fora de la UE. Tot això sense augmentar la càrrega fiscal de les pimes."
+   },
+   {
+    "id": "comuns-0178",
+    "partido": "comuns",
+    "titular": "Recuperar el gravamen especial a las empresas energéticas",
+    "marca_actual": [],
+    "texto": "- Recuperar el gravamen especial a les empreses energètiques, igual que hem fet estructural el que paguen els bancs."
+   },
+   {
+    "id": "comuns-0179",
+    "partido": "comuns",
+    "titular": "Elevar al 15 % el impuesto sobre servicios digitales o tasa Google",
+    "marca_actual": [],
+    "texto": "- Elevar al 15% l’impost sobre serveis digitals, l’anomenada taxa Google que paguen les grans multinacionals tecnològiques."
+   },
+   {
+    "id": "comuns-0182",
+    "partido": "comuns",
+    "titular": "Eliminar los privilegios fiscales de las SICAV y las SOCIMI",
+    "marca_actual": [],
+    "texto": "- Garantir un tracte igualitari en l’impost de Societats per a les societats productives i les d’inversió, i que aquestes tributin al mateix tipus que les productives, eliminant els privilegis fiscals de les Societats d’Inversió de Capital Variable (SICAV, tipus de gravamen 1%) i de les Societats Anònimes Cotitzades d’Inversió en el Mercat Immobiliari (SOCIMI, tipus del 0%) respecte a o d’altres figures societàries que es graven al 18%."
+   },
+   {
+    "id": "comuns-0184",
+    "partido": "comuns",
+    "titular": "Ceder a las comunidades el impuesto sobre depósitos bancarios",
+    "marca_actual": [],
+    "texto": "- Incorporar una modificació a l’actual impost estatal sobre els dipòsits de la banca consistent en: cedir-lo a les comunitats autònomes d’acord amb el criteri del lloc de residència del titular dels dipòsits."
+   },
+   {
+    "id": "comuns-0185",
+    "partido": "comuns",
+    "titular": "Subir el impuesto sobre depósitos bancarios del 0,03 % al 1 %",
+    "marca_actual": [],
+    "texto": "- Apujarem l’impost sobre els dipòsits bancaris del 0,03% a l’1% en un tram estatal, per recuperar el cost del rescat bancari."
+   },
+   {
+    "id": "comuns-1123",
+    "partido": "comuns",
+    "titular": "Impuesto mínimo global a grandes patrimonios y sin exención a multinacionales estadounidenses",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Impulsar un impost mínim global sobre els grans patrimonis, revertir l’exempció de l’impost mínim global de societats pactada el 2026 per a les multinacionals nord-americanes."
+   },
+   {
+    "id": "comuns-1181",
+    "partido": "comuns",
+    "titular": "Ampliar el impuesto digital a la nube y la IA para financiar el Fondo",
+    "marca_actual": [],
+    "texto": "- Finançar-lo també amb una fiscalitat justa del núvol: ampliar l’impost sobre determinats serveis digitals als serveis de núvol i d’IA de les grans tecnològiques, i destinar-ne la recaptació al Fons, amb la prohibició de repercutir-lo a usuàries, comerços i autònoms, sota supervisió de la CNMC."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 30,
+  "palabras": 1649,
+  "candidatos": [
+   {
+    "id": "pfac-0201",
+    "partido": "pfac",
+    "titular": "Política lingüística feminista y refuerzo del castellano y las lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "El feminismo ha reclamado históricamente el derecho de las mujeres a nombrar el mundo y a ser nombradas en él. En estos momentos, con la contaminación misógina del lenguaje por los términos de la neolengua queer y por los insultos ultraderechistas, no debemos dejar que la lengua abdique de su función más revolucionaria: la capacidad de poner nombre y apellidos a las estructuras reales de la opresión. Por ello, es más necesario que nunca recordar que toda política lingüística debe incorporar la perspectiva feminista: promover el lenguaje no sexista, evitar el borrado de las mujeres, garantizar su acceso a la enseñanza y transmisión de las lenguas propias, y hacer visible su papel como creadoras culturales.\n\nPor otra parte, el PFAC también propone el reforzamiento del castellano y de las demás lenguas cooficiales."
+   },
+   {
+    "id": "pfac-0210",
+    "partido": "pfac",
+    "titular": "Impulsar el castellano en el mundo y apoyar al Instituto Cervantes",
+    "marca_actual": [],
+    "texto": "7. Impulsar el aprendizaje del castellano en España y en el ámbito internacional, apoyar la labor del Instituto Cervantes y de las universidades españolas para promocionar nuestras lenguas y promover la inclusión del castellano en el currículo escolar de los principales países."
+   },
+   {
+    "id": "pfac-0211",
+    "partido": "pfac",
+    "titular": "Clases de español y lenguas cooficiales para la población emigrada adulta",
+    "marca_actual": [],
+    "texto": "8. Crear programas internacionales de clases de lengua española y de las cooficiales que en cada caso correspondan, así como de cultura general, para la población emigrada adulta, prestando especial interés a facilitar la incorporación de las mujeres a esas enseñanzas."
+   },
+   {
+    "id": "pfac-0212",
+    "partido": "pfac",
+    "titular": "Programas de enseñanza de todas las lenguas oficiales en TVE Internacional",
+    "marca_actual": [],
+    "texto": "9. Mejorar la programación de TVE Internacional para que, entre sus contenidos destinados a cubrir las necesidades informativas, formativas, culturales y deportivas de la ciudadanía española en el exterior, se incluyan programas para la enseñanza y difusión de todas las lenguas oficiales del Estado."
+   },
+   {
+    "id": "pfac-0213",
+    "partido": "pfac",
+    "titular": "Impulsar la inteligencia artificial en castellano y lenguas cooficiales mediante el PERTE",
+    "marca_actual": [],
+    "texto": "10. Impulsar el uso de la inteligencia artificial en castellano y en el resto de lenguas cooficiales, reforzando los programas de los Proyectos Estratégicos para la Recuperación y Transformación Económica (PERTE) destinados a maximizar el valor del castellano y de las lenguas cooficiales en el proceso de la transformación digital a nivel mundial."
+   },
+   {
+    "id": "pfac-0214",
+    "partido": "pfac",
+    "titular": "Perspectiva feminista en el PERTE Nueva Economía de la Lengua",
+    "marca_actual": [],
+    "texto": "11. Introducir la necesaria perspectiva feminista en los cinco ejes de actuación del PERTE Nueva Economía de la Lengua: el eje transversal centrado en la creación de una base de conocimiento lingüístico y los cuatro ejes estratégicos dedicados a la inteligencia artificial, la ciencia, el aprendizaje del idioma y las industrias culturales."
+   },
+   {
+    "id": "pfac-0215",
+    "partido": "pfac",
+    "titular": "Apoyar la oficialidad del asturiano y el aragonés y las lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "12. Fomentar políticas presupuestarias que garanticen el mantenimiento de las instituciones que velan por la conservación y protección de todas las lenguas cooficiales, apoyando la oficialidad de las lenguas históricas que aún no lo son, como el asturiano y el aragonés, así como escuchar y registrar las propuestas de otros territorios en los que existen reclamaciones lingüísticas, como León o Andalucía, de cara a un futuro posicionamiento."
+   },
+   {
+    "id": "pfac-0216",
+    "partido": "pfac",
+    "titular": "Promover la oficialidad del catalán y el euskera en Francia y Cerdeña",
+    "marca_actual": [],
+    "texto": "13. Promover, desde la cooperación internacional, el reconocimiento y la oficialidad de las lenguas habladas en España en territorios donde aún no se reconocen, como el catalán y el euskera en Francia o el catalán en Cerdeña, priorizando siempre la convivencia lingüística, el respeto a la libertad individual y el principio de igualdad."
+   },
+   {
+    "id": "pfac-0217",
+    "partido": "pfac",
+    "titular": "Apoyar las lenguas cooficiales como vehiculares en la educación",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "14. Apoyar la inclusión en la educación de las lenguas cooficiales como vehiculares y la promoción de textos y medios de comunicación en dichas lenguas."
+   },
+   {
+    "id": "pfac-0648",
+    "partido": "pfac",
+    "titular": "Promover la diversidad lingüística y cultural del Estado",
+    "marca_actual": [],
+    "texto": "17. Impulsar la cooperación entre las administraciones públicas y las instituciones culturales y educativas para la conservación, promoción y difusión de la diversidad lingüística y cultural del Estado."
+   },
+   {
+    "id": "ph-0049",
+    "partido": "ph",
+    "titular": "Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública",
+    "marca_actual": [],
+    "texto": "- **Propuesta 3: Integración efectiva y convivencia intercultural. La educación como puente de la ciudadanía universal** Desarrollo de un Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública como eje vertebrador de la cohesión comunitaria. Garantía de acceso inmediato a la formación lingüística, planes de inmersión escolar con refuerzo docente en el barrio y mediación cultural para las familias. Se erradicará cualquier traba burocrática en la homologación de títulos y en la escolarización de menores, promoviendo espacios vecinales de encuentro e intercambio y educando en la no discriminación activa para transformar la diversidad en enriquecimiento social y superar el aislamiento y la exclusión."
+   },
+   {
+    "id": "nex-0093",
+    "partido": "nex",
+    "titular": "Proteger el estremeñu, A Fala y el portugués raiano",
+    "marca_actual": [],
+    "texto": "83. Protección del estremeñu, A Fala y el portugués raiano y cumplimiento de la Carta Europea de las Lenguas Regionales o Minoritarias."
+   },
+   {
+    "id": "d21-0144",
+    "partido": "d21",
+    "titular": "Implantar un MIR Educativo de dos años de formación práctica remunerada",
+    "marca_actual": [],
+    "texto": "- **MIR Educativo:** transformaremos la preparación docente mediante un sistema inspirado en el modelo sanitario. Implantaremos el MIR Educativo: dos años de formación práctica remunerada e inmersión total en los colegios e institutos. Nadie conoce mejor la realidad del aula que quienes imparten clase en ella cada día, por lo que esta etapa estará guiada y supervisada por nuestros actuales profesores. Ellos actuarán como mentores de las nuevas generaciones, transmitiendo su experiencia vital, respaldando a los aspirantes y garantizando una evaluación continua y de calidad sobre el terreno."
+   },
+   {
+    "id": "d21-0209",
+    "partido": "d21",
+    "titular": "Publicar las plazas científicas en EURAXESS con tribunales de mayoría externa",
+    "marca_actual": [],
+    "texto": "- **Plazas Abiertas al Mundo - Que Gane el Mejor:** cada plaza científica debe decidirse solo por mérito. Todas las plazas financiadas con fondos públicos se publicarán en EURAXESS, el portal europeo de empleo científico, en español e inglés. Los tribunales tendrán mayoría de evaluadores externos, con currículos públicos, y un sistema digital descartará conflictos de interés y parentescos antes de constituirlos. Los procesos se resolverán en un máximo de tres meses y se evaluará según los estándares europeos (CoARA y DORA), que priman la calidad y el impacto real sobre el recuento de publicaciones. El mejor talento, venga de donde venga, sabrá que en España se compite en limpio."
+   },
+   {
+    "id": "d21-0351",
+    "partido": "d21",
+    "titular": "Plan de Internacionalización de la Cultura española y en español",
+    "marca_actual": [],
+    "texto": "- **España Crea, el Mundo Mira:** la cultura es uno de los principales activos de España y una fuente de influencia internacional tanto para España como para Europa. Pero su proyección está repartida entre ministerios, consejerías autonómicas e instituciones como el ICAA o el ICEX, que se solapan sin estrategia común ni recursos estables. Aprobaremos un Plan de Internacionalización de la Cultura española y en español, con una sola estrategia, una marca país y una ventanilla única, inspirado en la continuidad y la especialización de Unifrance."
+   },
+   {
+    "id": "comuns-0684",
+    "partido": "comuns",
+    "titular": "Escuela pública, gratuita, inclusiva y en catalán, con más inversión",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "L’educació pública i de qualitat és un dels elements més disruptius per combatre la desigualtat. És per això que l’educació és un dret universal, a més d’una eina indispensable per a la igualtat d’oportunitats, que forma una ciutadania crítica i compromesa amb els valors democràtics.\n\nDefensar l’educació com al dret que és implica un sistema educatiu públic, gratuït, basat en valors inclusius on l’alumnat és el centre de les polítiques públiques educatives, i on el professorat, l’element indispensable per aconseguir una educació de qualitat, ha de sentir-se valorat, escoltat i justament tractat.\n\nPer tot plegat és indispensable augmentar la inversió pública, donant suport a la xarxa educativa publica des d’una perspectiva inclusiva, amb una atenció personaltizada a l’alumnat, especialment a aquell que es troba en situacions de vulnerabilitat i amb necessitats educatives específiques.\n\nL’escola ha de ser pública, en català, inclusiva, amb valors democràtics, feministes i amb esperit crític. Per a que tot això passi, cal escoltar a la comunitat educativa, que històricament ha estat i està enfocada a l’educació amb esperit crític i valors dels nostres infants i adolescents. Cal dignificar la professió docent, garantitzar l’estabilitat de les plantilles, reduir la precarietat laboral."
+   },
+   {
+    "id": "comuns-0689",
+    "partido": "comuns",
+    "titular": "Defender la inmersión lingüística con el catalán como lengua vehicular",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "- Defensar la immersió lingüística catalana, un model d’èxit, sent el català la llengua vehicular de la nostra escola. A més, fomentar mitjançant un Pla estatal l’apropament de les llengües oficials a la resta del territori de l’Estat."
+   },
+   {
+    "id": "comuns-0691",
+    "partido": "comuns",
+    "titular": "Plan estatal de aprendizaje de las lenguas oficiales en todas las comunidades",
+    "marca_actual": [],
+    "texto": "- Impulsarem un pla estatal d’aprenentatge de les llengües oficials a totes les comunitats autònomes."
+   },
+   {
+    "id": "comuns-0839",
+    "partido": "comuns",
+    "titular": "Reconocer la diversidad lingüística y la realidad plurilingüe y plurinacional del Estado",
+    "marca_actual": [],
+    "texto": "- Aprofundir en el reconeixement i la protecció de la diversitat lingüística i cultural de l’Estat, assumint plenament la seva realitat plurilingüe i plurinacional."
+   },
+   {
+    "id": "comuns-0840",
+    "partido": "comuns",
+    "titular": "Proteger y promover el catalán y las demás lenguas propias",
+    "marca_actual": [],
+    "texto": "- Continuar protegint i promovent el català i la resta de llengües pròpies i estatutàriament reconegudes, especialment en els seus territoris, i reforçar-ne la difusió, el coneixement i el reconeixement al conjunt de l’Estat."
+   },
+   {
+    "id": "comuns-0841",
+    "partido": "comuns",
+    "titular": "Pluralidad lingüística en las instituciones y la proyección cultural exterior",
+    "marca_actual": [],
+    "texto": "- Reforçar la presència de la pluralitat lingüística i cultural en les institucions i els programes estatals de projecció cultural exterior, i es coordinin amb les institucions pròpies dels diferents territoris."
+   },
+   {
+    "id": "comuns-0842",
+    "partido": "comuns",
+    "titular": "Reforzar el apoyo a las lenguas minorizadas o en riesgo de desaparición",
+    "marca_actual": [],
+    "texto": "- Reforçar i ampliar els instruments de suport a les llengües minoritzades o en risc de desaparició, per reforçar-ne la creació, la transmissió i la presència pública i digital."
+   },
+   {
+    "id": "comuns-0843",
+    "partido": "comuns",
+    "titular": "Apoyar los contenidos culturales en catalán y otras lenguas propias",
+    "marca_actual": [],
+    "texto": "- Continuar reforçant el suport a la producció, la distribució, la circulació i l’accés a continguts culturals en català i en la resta de llengües pròpies, especialment en els àmbits audiovisual i digital."
+   },
+   {
+    "id": "comuns-0844",
+    "partido": "comuns",
+    "titular": "Programas de traducción de obras entre las lenguas del Estado",
+    "marca_actual": [],
+    "texto": "- Consolidar i ampliar els programes de traducció i circulació d’obres entre les diferents llengües de l’Estat, per afavorir el coneixement mutu entre les seves cultures i reforçar la presència de la pluralitat lingüística en els circuits culturals, editorials, escènics i audiovisuals."
+   },
+   {
+    "id": "comuns-0845",
+    "partido": "comuns",
+    "titular": "Reconocimiento del catalán y las lenguas cooficiales en las instituciones europeas",
+    "marca_actual": [],
+    "texto": "- Seguir treballant en el reconeixement de la llengua catalana i les altres llengües cooficials del territori espanyol siguin reconegudes en les institucions europees."
+   },
+   {
+    "id": "comuns-0846",
+    "partido": "comuns",
+    "titular": "Aprobar una Ley de Lenguas que reconozca la realidad plurilingüe del Estado",
+    "marca_actual": [],
+    "texto": "- Treballar per la redacció i aprovació d’una la Llei de Llengües que reconegui, preservi i difongui la realitat plurilingüe de l’Estat espanyol."
+   },
+   {
+    "id": "comuns-0847",
+    "partido": "comuns",
+    "titular": "Un Instituto Cervantes plurilingüe coordinado con el Institut Ramon Llull",
+    "marca_actual": [],
+    "texto": "- Seguir avançant en un Institut Cervantes que aposta per la pluricultural i plurilingüística, i coordinació amb les altres institucions (en el cas català, amb l’Institut Ramon Llull, ICEC i l’Institut d’Estudis Catalans)."
+   },
+   {
+    "id": "comuns-0848",
+    "partido": "comuns",
+    "titular": "Oficialidad del catalán en toda la administración estatal, especialmente la Justicia",
+    "marca_actual": [],
+    "texto": "- Seguir treballant perquè la oficialitat de la llengua catalana i de les llengües oficials al territori espanyol arribin a totes les administracions, institucions i empreses públiques de l’estat; especialment en aquelles que son valedores dels drets fonamentals i especialment en l’administració de Justícia, en compliment de la Carta Europea de les Llengües Regionals i Minoritàries."
+   },
+   {
+    "id": "comuns-1018",
+    "partido": "comuns",
+    "titular": "Ley del plurilingüismo para usar catalán, vasco y gallego ante el Estado",
+    "marca_actual": [],
+    "texto": "- Una llei del plurilingüisme, per garantir plenament els drets lingüístics de la ciutadania en les seves relacions amb les institucions de l’Estat. Garantint que la ciutadania es pugui relacionar en català, basc i gallec amb el Poder Judicial, el Tribunal Constitucional i el conjunt de l’Administració General de l’Estat. I que sigui també una responsabilitat de l’Estat la protecció de la llengua catalana, basca i gallega a l’Estat i a l’àmbit internacional."
+   },
+   {
+    "id": "comuns-1029",
+    "partido": "comuns",
+    "titular": "Defender la oficialidad del catalán en la Unión Europea",
+    "marca_actual": [],
+    "texto": "- **Defensa de l’oficialitat del català a la Unió Europea.** Cal reclamar un cop més l’oficialitat del català a la Unió Europea, com altres llengües amb un nombre de parlants similar o fins i tot inferior que el català Promoure i difondre el coneixement i ús del català a l’àmbit europeu."
+   }
+  ]
+ }
+]

@@ -1,0 +1,2599 @@
+[
+ {
+  "id": "comuns-0066",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: la emancipación supera los 30 años por alquileres de medio sueldo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0067",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reservar a menores de 35 años el 30 % de la vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0068",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Avales del Estado vía ICO de hasta el 20 % de la entrada joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0069",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Ceder suelo público y financiar cooperativas de jóvenes en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0070",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Vivienda compartida y temporal protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0071",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: avances económicos de España ante la inflación y el auge neoliberal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0072",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Trasladar los buenos datos macroeconómicos al poder adquisitivo de las clases populares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0073",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "La economía verde como eje del crecimiento y la reindustrialización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0074",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   },
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0075",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Adaptar la dimensión de la economía a la capacidad de los ecosistemas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0076",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Distribuir el excedente para garantizar una vida digna también a quien no trabaja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0077",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Priorizar la calidad de vida por delante del crecimiento económico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0078",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Fomentar el uso frente a la posesión y la economía circular de las 4R",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0079",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Economía baja en carbono, transición a renovables y más empleo en bienestar e I+D",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0080",
+  "subtema": "eco-modelo",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Diversificar el modelo productivo fomentando la industria innovadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0081",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Reforzar la colaboración y la cooperación para una sociedad cohesionada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0082",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Calcular indicadores alternativos al PIB de bienestar y sostenibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0083",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Diagnóstico: la inflación encarece la compra mientras crecen los márgenes empresariales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0084",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Crear un observatorio de precios con participación pública y social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0085",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Precio justo para los alimentos saludables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0086",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Fondo para que los supermercados ofrezcan una cesta saludable asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0087",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Estudiar una seguridad social de la alimentación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0088",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Marco regulatorio y presupuestario para impulsar supermercados municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0089",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Topar el precio de la electricidad controlando el del gas como la excepción ibérica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0090",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Medidas fiscales temporales para que la subida de carburantes no genere inflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0091",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Controlar los precios en los mercados con tendencia especulativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0092",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Transformar la cadena alimentaria contra la inflación y fomentar comedores escolares gratuitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0093",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Promover cláusulas de actualización salarial en los convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0094",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar la revalorización de las pensiones con el IPC real en la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0095",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Penalizar las rentas parasitarias que hacen subir los precios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0096",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Mantener precios bajos en el transporte público y los suministros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0097",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Garantizar gratis los servicios esenciales para compensar la pérdida de poder adquisitivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0098",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Aclarar las reglas del SMI para que no se absorba con complementos salariales",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0099",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Diagnóstico: la banca escapó del control democrático tras un rescate de 60.000 millones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0100",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Priorizar y reforzar el sistema de finanzas éticas y cooperativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0101",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Recuperar las cajas de ahorro con gestión democrática y de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0102",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Comprometer a la banca rescatada a permitir pasar hipotecas de variable a fijo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0103",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Regular estrictamente la banca privada y limitar su tamaño y especulación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0104",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reinstaurar la separación entre banca comercial y banca de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0105",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Prohibir en bolsa la venta a crédito y los productos derivados y sintéticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0106",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Gravar fuertemente las operaciones bursátiles intradía y sin maduración",
+  "ejes": [],
+  "nota": "SIN ENCAJE: impuestos sobre transacciones financieras"
+ },
+ {
+  "id": "comuns-0107",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Impulsar muchas licencias bancarias en manos de bancos pequeños",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0108",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Regular los créditos rápidos y definir el préstamo usurario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0109",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Ley contra las cláusulas hipotecarias Redito ad Libitum con reclamación gratuita",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0110",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Crear una banca pública para superar la presión de los mercados financieros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0111",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Crédito público de interés social y control de capitales hacia paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0112",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Tipos de interés progresivos que abaraten la financiación de familias y pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0113",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Acceder a las líneas de crédito del BCE a tipo preferente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0114",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Movilizar recursos para recuperar el control de los sectores estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0115",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Crear una banca postal pública integrada en Correos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0116",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Garantizar servicios bancarios básicos sin discriminación por origen o nacionalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0117",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Diagnóstico: reglas fiscales y gasto militar amenazan sanidad, cuidados y servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0118",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Prohibir por ley reducir el gasto anual en salud, cuidados y servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0119",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Ley estatal básica con un suelo de gasto para el estado del bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0120",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: un país sin industria es vulnerable y necesita política industrial activa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0121",
+  "subtema": "eco-industria",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Plan europeo de inversiones equivalente al 4,5 % del PIB de la Unión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0122",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-autonomos-pymes",
+   "trab-sindicatos"
+  ],
+  "titular": "Industrializar con cooperativas en las pymes y democracia económica en las grandes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0123",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Priorizar industria y pymes en comarcas en riesgo de despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0124",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Impulsar sectores industriales emergentes y la transferencia universidad-industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0125",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Condicionar ayudas industriales a un tejido social, fiscal y ambientalmente responsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0126",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Participación del Estado en capital y patentes y acción de oro en empresas estratégicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0127",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Convertir en cooperativas las empresas que cierren, con participación de la plantilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0128",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Aumentar los fondos de apoyo a la economía social con avales del ICO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0129",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Mantener las ventajas fiscales de las cooperativas frente a las sociedades de capital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0130",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Aprovechar los fondos estructurales europeos para proyectos industriales verdes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0131",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Situar la transición ecológica y las renovables en el centro de la política industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0132",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Crear clústeres que unan industrias tradicionales y emergentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0133",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Fomentar la investigación conjunta entre universidades, pymes y centros tecnológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0134",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Inversión en I+D+i del 3 % del PIB y del 4 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0135",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Crear una agencia industrial pública y un banco público de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0136",
+  "subtema": "imp-verdes",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Más impuestos a productos industriales sin materias primas recuperadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0137",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Fomentar la industria de la recuperación y la reutilización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0138",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Fomentar el consumo de productos de km 0 con precios competitivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0139",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Prohibir despidos colectivos a empresas deslocalizadas y exigir devolver las ayudas",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0140",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Implicar a la SEPI, el CDTI y el ICO en la política industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0141",
+  "subtema": "trab-empleo",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Integrar los servicios públicos de empleo en la política industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0142",
+  "subtema": "eco-industria",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Prolongar la inversión pública europea en industria verde y financiación del BCE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0143",
+  "subtema": "ext-ue",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Debatir en el Consejo Europeo también los superávits comerciales excesivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0144",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Diagnóstico: los sectores estratégicos privatizados deben volver a decisión ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0145",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "ener-modelo",
+   "agua"
+  ],
+  "titular": "Reapropiación pública del agua, el gas y la electricidad y operador público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0146",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Participación del tejido social y la economía social en los sectores estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0147",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Diagnóstico: el comercio de proximidad, amenazado por alquileres, turismo y plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0148",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Subir impuestos a propietarios que suban el alquiler de locales por encima del IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0149",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Nuevos epígrafes para que los municipios controlen actividades de monocultivo turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0150",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Luchar contra la competencia desleal con la hostelería de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0151",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Frenar el turismo de masas y la ampliación del aeropuerto del Prat",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Ampliar el aeropuerto de El Prat? → no"
+ },
+ {
+  "id": "comuns-0152",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Derogar aspectos de la Ley de unidad de mercado y la licencia comercial única",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0153",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Mantener límites a los equipamientos comerciales fuera de la trama urbana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0154",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Más inspecciones y sanciones contra la contratación abusiva de plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0155",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Mejorar por ley las condiciones laborales de quienes trabajan en el comercio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0156",
+  "subtema": "inst-territorial",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Traspasar a la Generalitat los recursos estatales de política de comercio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0157",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Derogar aspectos del RD 20/2012 como la libertad de horarios comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0158",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Reforma fiscal más progresiva con más peso de los impuestos directos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0159",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Diagnóstico: economía sumergida del 24 % del PIB y fraude de grandes fortunas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0160",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Duplicar la plantilla de la Agencia Tributaria y reducir el fraude un 30 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0161",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Centrar la lucha contra el fraude en grandes empresas y grandes patrimonios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0162",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Crear censos obligatorios de bienes y derechos dentro y fuera del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0163",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "No reconocer personalidad jurídica a sociedades constituidas en paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0164",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Reducir al máximo los pagos en efectivo hacia transacciones 100 % electrónicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0165",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Reformas legales para investigar el fraude fiscal internacional sea cual sea la fuente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0166",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Crear una oficina antifraude estatal adscrita a la AEAT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0167",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Nuevo estatuto orgánico para una AEAT políticamente independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0168",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Impulsar los pagos electrónicos preservando el efectivo y alternativas accesibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0169",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: el capital tributa menos que el trabajo y falta progresividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0170",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Integrar rentas del trabajo y del capital en la misma base del IRPF",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0171",
+  "subtema": "imp-irpf",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Bajar el IRPF hasta 25.000 € y gravar al 3 % las grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   },
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0172",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Cláusula antiabuso en el impuesto a grandes fortunas para financiar la crianza",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0173",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Hacer permanente el impuesto a las grandes fortunas con un mínimo del 2 %",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0174",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Impuesto estatal a herencias de más de un millón contra la competencia autonómica",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0175",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Tributación mínima del 20 % sobre el resultado contable de las grandes empresas",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0176",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Mínimo del 15 % para los grandes grupos y menos deducciones en Sociedades",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0177",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Limitar la compensación de pérdidas y eliminar la consolidación fiscal de grupos",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0178",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Recuperar el gravamen especial a las empresas energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0179",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Elevar al 15 % el impuesto sobre servicios digitales o tasa Google",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0180",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Eliminar la exención de IVA a la enseñanza privada y a seguros sanitarios privados",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0181",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-fraude",
+   "imp-irpf"
+  ],
+  "titular": "Eliminar beneficios fiscales sin fin social o ecológico, como las ETVE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0182",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Eliminar los privilegios fiscales de las SICAV y las SOCIMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0183",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Nuevo tramo del IRPF del 50 % para rentas de más de 150.000 €",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0184",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Ceder a las comunidades el impuesto sobre depósitos bancarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0185",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Subir el impuesto sobre depósitos bancarios del 0,03 % al 1 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0186",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "IBI mucho más alto para viviendas no habituales y pisos turísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0187",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto sobre bienes de lujo con un tipo superior al normal",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0188",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Tasa Tobin inmediata sobre las transacciones financieras",
+  "ejes": [],
+  "nota": "SIN ENCAJE: impuestos sobre transacciones financieras"
+ },
+ {
+  "id": "comuns-0189",
+  "subtema": "imp-fraude",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Fijar tipos efectivos mínimos para evitar el dumping fiscal autonómico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0190",
+  "subtema": "imp-irpf",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Subir al 80 % del SMI el umbral de familiares a cargo del IRPF",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0191",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Bajar el IVA de peluquerías, veterinarios, pañales y productos sin gluten",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0192",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Subir la fiscalidad del tabaco hasta la media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0193",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Herramienta para que cada contribuyente sepa a qué se destinan sus impuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0194",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "IBI progresivo con recargo a grandes tenedores y viviendas de uso turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0195",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Nuevas figuras de fiscalidad ambiental para un consumo más responsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0196",
+  "subtema": "imp-verdes",
+  "otros": [
+   "infra-transporte-publico",
+   "infra-carreteras"
+  ],
+  "titular": "Incentivos fiscales al carsharing y euroviñeta con criterios ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0197",
+  "subtema": "imp-irpf",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Reformular el IRPF para fomentar el transporte público y los espacios protegidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0198",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "IVA general a servicios turísticos y reducido a rehabilitación y vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0199",
+  "subtema": "imp-verdes",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Bonificar en los impuestos locales el ahorro, la eficiencia y las renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0200",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Igualar progresivamente el impuesto sobre carburantes con la media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0201",
+  "subtema": "imp-verdes",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Impuesto al vertido y la incineración de residuos cedido a las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0202",
+  "subtema": "imp-verdes",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Gravar las sustancias nocivas para la salud que no puedan prohibirse",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0203",
+  "subtema": "imp-verdes",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Gravamen a actividades que se benefician del patrimonio natural para un fondo de conservación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0204",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto a las emisiones de los jets privados y los yates de lujo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0205",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Gravar el combustible de los vuelos nacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0206",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Estudiar una tasa progresiva a los vuelos frecuentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0207",
+  "subtema": "ener-modelo",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Eliminar el impuesto sobre la producción eléctrica para las renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0208",
+  "subtema": "imp-verdes",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Profundizar la fiscalidad del carbono con compensaciones a rentas bajas, campo y pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0209",
+  "subtema": "rural-agro",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Plan de transición energética para maquinaria agraria, autoconsumo y regadíos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0210",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Estudiar el pago por uso de las grandes vías de titularidad estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0211",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Balance: empleo indefinido, SMI un 66 % más alto y 35 horas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0212",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Llevar cuatro leyes laborales al Congreso en los primeros cien días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0213",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reformar la Ley de prevención de riesgos laborales en los primeros cien días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0214",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Ley del registro de jornada digital con acceso remoto de la Inspección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0215",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Ley de jornada máxima de 37,5 horas semanales sin pérdida salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0216",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Transponer la directiva europea de trabajo en plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0217",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Actualizar la prevención de riesgos ante salud mental, algoritmos y calor extremo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0218",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Aprobar en cien días la reforma de prevención pactada en el diálogo social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0219",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reglamento de riesgos psicosociales en seis meses con evaluación obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0220",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Mejorar la información sobre riesgos psicosociales y ampliar las enfermedades profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0221",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Reconocer por ley la gestión algorítmica como factor de riesgo laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0222",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Límites de temperatura para adaptar o parar el trabajo al aire libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0223",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Agentes territoriales de prevención en empresas sin representación legal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0224",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Reforzar a los delegados de prevención con crédito horario propio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0225",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Responsabilizar a la empresa principal de la seguridad de toda la subcontratación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0226",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Ratios mínimas de personal técnico y sanitario en los servicios de prevención",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0227",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Perspectiva de género, antirracista y de edad en las evaluaciones de riesgos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0228",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Incluir trastornos mentales y cánceres laborales entre las enfermedades profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0229",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Excluir de la contratación pública a empresas condenadas contra la seguridad laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0230",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Bonificar la formación en prevención en empresas de menos de diez trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0231",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Plan de choque inmediato contra la siniestralidad laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0232",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Prestaciones por accidente de trabajo adecuadas al salario real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0233",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Autónomos con enfermedad grave sin pagar cuota desde el primer día de baja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0234",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Que cuidar a un hijo con cáncer no penalice la cotización de los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0235",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Más Inspección de Trabajo y alojamientos dignos para las personas temporeras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0236",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Proteger del calor extremo el trabajo agrario, ganadero y forestal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0237",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Diagnóstico: 2,5 millones de horas extra semanales sin pagar ni cotizar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0238",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Jornada máxima de 37,5 horas por ley y diálogo social para llegar a 32",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0239",
+  "subtema": "trab-jornada",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Extender las 35 horas a todo el sector público y avanzar hacia 32",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0240",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Registro de jornada obligatoriamente digital, objetivo e inalterable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0241",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Registrar todo el tiempo de trabajo, incluidas guardias y conexión en teletrabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0242",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Acceso remoto y en tiempo real de la Inspección a los registros de jornada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0243",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Derecho a consultar el propio registro de jornada y a un resumen mensual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0244",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Presumir válida la jornada declarada por el trabajador si no hay registro fiable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0245",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Multas según los afectados e infracción muy grave manipular el registro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0246",
+  "subtema": "trab-jornada",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Excluir datos biométricos y geolocalización permanente del registro de jornada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0247",
+  "subtema": "trab-jornada",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Plan de choque de la Inspección contra las horas extra no pagadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0248",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Desconexión digital con protocolos obligatorios y adaptación de jornada por cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0249",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Diagnóstico: las bajas crecen por envejecimiento, salud mental y listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0250",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Que solo los médicos públicos den bajas y altas por contingencias comunes",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir a las mutuas dar altas en bajas por enfermedad común? → no"
+ },
+ {
+  "id": "comuns-0251",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Prorrogar cautelarmente los efectos de las altas médicas impugnadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0252",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Reforzar el control público de las mutuas con participación sindical",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0253",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Declarar nulo el despido de personas en incapacidad temporal",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0254",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Prohibir los pluses de asistencia que penalizan las bajas por enfermedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0255",
+  "subtema": "san-listas-espera",
+  "otros": [
+   "san-mental",
+   "san-primaria"
+  ],
+  "titular": "Reducir listas de espera y psicología clínica en todos los centros de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0256",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reincorporación progresiva tras baja larga solo voluntaria y con informe médico público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0257",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Compatibilizar el trabajo con las prestaciones por incapacidad permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0258",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reformar a fondo la Inspección de Trabajo y acabar con la bicefalia catalana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0259",
+  "subtema": "inst-territorial",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Completar el traspaso a la Generalitat de toda la Inspección de Trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0260",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reformar la Ley 23/2015 de la Inspección de Trabajo y Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0261",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Duplicar la plantilla de la Inspección hasta un inspector por 10.000 ocupados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0262",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Dotar a la Inspección de Trabajo de medios técnicos y análisis de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0263",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Facultar a la Inspección para exigir a las empresas información sobre sus algoritmos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0264",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Canales seguros para denunciar la explotación laboral sin perjudicar la situación administrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0265",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Diagnóstico: solo cuatro de cada diez convenios protegen de la inflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0266",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Cláusula obligatoria de revisión salarial con el IPC real en todos los convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0267",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Promover cláusulas de actualización salarial en los convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0268",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Garantizar por ley un SMI de al menos el 60 % del salario medio",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0269",
+  "subtema": "trab-salarios",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Salario mínimo de referencia para Cataluña según el coste de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0270",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Consolidar la ultraactividad indefinida de los convenios y limitar su inaplicación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0271",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Prioridad del convenio sectorial sobre el de empresa también en jornada y horario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0272",
+  "subtema": "trab-salarios",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Exigir convenio sectorial y ratio salarial máxima a empresas con ayudas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0273",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Garantizar el cobro del salario reforzando el Fondo de Garantía Salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0274",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Cláusulas laborales en la contratación pública y reversión de externalizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0275",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Subidas salariales que mantengan el poder adquisitivo de los empleados públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0276",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Diagnóstico: más del 70 % de los autónomos ha cotizado por la base mínima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0277",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Culminar la cotización por ingresos reales y destopar las bases máximas del RETA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0278",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Simplificar el cese de actividad y controlar las denegaciones de las mutuas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0279",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Hacer plenamente operativo el IVA de caja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0280",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Una sola declaración anual de IVA para quien facture menos de 85.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0281",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Sancionar de forma efectiva el incumplimiento de la ley de morosidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0282",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Facilitar los contratos públicos a autónomos dividiendo las licitaciones en lotes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0283",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Reformar la Ley de Segunda Oportunidad y reforzar la ventanilla única",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0284",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Perseguir a los falsos autónomos y aplicar a los TRADE el convenio del cliente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0285",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Crédito público ICO de 3.000 millones anuales para empresas de menos de 50 trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0286",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Compra colectiva de energía y autoconsumo para pymes y autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0287",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Defender a autónomos y pequeñas empresas para emprender sin quedar desprotegido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0288",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Incapacidad temporal del 100 % de la base por accidente o enfermedad profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0289",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Ayudas a autónomos durante la baja médica condicionadas a mantener el empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0290",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Plan de protección y continuidad para pymes, microempresas y comercios de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0291",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Estudiar una ventanilla única para autónomos y pequeñas empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0292",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Desplegar el mandato constitucional de participación de los trabajadores en la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0293",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Ley de democracia en el trabajo: un tercio de los consejos para la plantilla",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Representación de la plantilla en los consejos de administración? → sí"
+ },
+ {
+  "id": "comuns-0294",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Llevar los datos del Observatorio de Márgenes Empresariales a la negociación de convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0295",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Poder de veto del comité de empresa sobre la IA en el trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0296",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Representación sindical territorial y sectorial en empresas de menos de seis trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0297",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Derecho preferente de compra de las plantillas ante cierres o ventas de empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0298",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Transponer la directiva de comités de empresa europeos con sanciones disuasorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0299",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Priorizar en la contratación pública empresas con convenio y representación sindical",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0300",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Transponer la directiva de plataformas y extender los derechos algorítmicos a todos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0301",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Extender la presunción de laboralidad de la Ley Rider a todas las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0302",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Revisión humana obligatoria de despidos y sanciones decididos automáticamente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0303",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Acceso sindical a los parámetros de los algoritmos y auditoría independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0304",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Negociación obligatoria de la introducción de sistemas de IA en las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0305",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Prohibir el tratamiento de datos emocionales y biométricos y la vigilancia en el teletrabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0306",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Perseguir la cesión de cuentas y los falsos autónomos en las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0307",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Proteger a las personas explotadas en la cesión de cuentas de plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0308",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Diagnóstico: la indemnización por despido improcedente no repara ni disuade",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0309",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Nuevo Estatuto del Trabajo del siglo XXI con derechos mínimos comunes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0310",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Ampliar a 40 horas anuales retribuidas el permiso de formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0311",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Despido improcedente de al menos 45 días por año, sin topes y con readmisión",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0312",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Indemnización por despido improcedente disuasoria y reparadora según la Carta Social Europea",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0313",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Recuperar la autorización administrativa previa para los despidos colectivos",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0314",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "dig-ia",
+   "trab-contratos-despido"
+  ],
+  "titular": "Cotización adicional para empresas que despidan por automatización o IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0315",
+  "subtema": "trab-empleo",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Recolocación y recualificación financiadas por la empresa para todas las personas despedidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0316",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Igualdad de condiciones en las subcontratas y límites a la externalización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0317",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Prohibir las empresas de trabajo temporal en las administraciones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0318",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Estatuto de las personas en prácticas no laborales con compensación obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0319",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Fin de las horas complementarias sin preaviso y prioridad para ampliar la parcialidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0320",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Llamamiento en tiempo y orden y protección por desempleo para fijos discontinuos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0321",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Completar la equiparación de derechos del trabajo del hogar y de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0322",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Medidas de igualdad salarial, transición justa y derechos sindicales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0323",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Transponer la directiva de transparencia retributiva con auditorías salariales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0324",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Retribuir íntegramente el permiso parental y ampliar los de nacimiento y cuidado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0325",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-violencia",
+   "igu-racismo"
+  ],
+  "titular": "Protocolos contra el acoso sexual, LGTBIfóbico y racista en todas las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0326",
+  "subtema": "clima",
+  "otros": [
+   "trab-sindicatos",
+   "ener-modelo"
+  ],
+  "titular": "Condicionar renovables, centros de datos y reconversiones a acuerdos de transición justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0327",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Derecho sindical a comunicarse con la plantilla por canales digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0328",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Regularizar a las personas migrantes y desvincular la residencia de un empleador",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0329",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Eliminar las dobles escalas salariales y garantizar formación en los contratos formativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0330",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Adaptar los permisos de cuidado y defunción a desplazamientos internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0331",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Acelerar la descarbonización de todos los sectores ante la emergencia climática",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0332",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Transición ecológica justa que proteja personas, territorios y biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0333",
+  "subtema": "clima",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Pacto de Estado contra la emergencia climática con renovables y adaptación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0334",
+  "subtema": "naturaleza",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Incluir el delito de ecocidio en el Código Penal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0335",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Mirada transversal sostenible en todas las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0336",
+  "subtema": "clima",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Neutralidad climática en 2050, más renovables y electrificación de la demanda",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0337",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Plan de inversiones para la transición ecológica del 3,5 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0338",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Priorizar la justicia climática y a las comunidades con menos recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0339",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Financiar programas de adaptación y mitigación climática en terceros países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0340",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Presupuestos de carbono con límites de emisiones por sectores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0341",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Priorizar las medidas de adaptación al riesgo de inundaciones del plan nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0342",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Apoyar los planes de adaptación climática de ciudades y sectores estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0343",
+  "subtema": "clima",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Red de refugios climáticos gratuitos sin discriminación por situación administrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "comuns-0344",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Modelo energético 100 % renovable, distribuido y democratizado frente al oligopolio",
+  "ejes": [],
+  "nota": ""
+ }
+]

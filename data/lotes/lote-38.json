@@ -1,0 +1,3738 @@
+[
+ {
+  "id": "nex-0004",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "2. Congelación de los alquileres mientras dure la emergencia habitacional."
+ },
+ {
+  "id": "nex-0005",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "3. Los mismos derechos en el alquiler de temporada y por habitaciones cuando se use como residencia permanente."
+ },
+ {
+  "id": "nex-0006",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "4. Ningún desahucio de una familia vulnerable sin alternativa habitacional."
+ },
+ {
+  "id": "nex-0007",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "5. Fin del régimen fiscal especial de las SOCIMIs en toda España."
+ },
+ {
+  "id": "nex-0008",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "6. Las viviendas de Sareb en Extremadura, a alquiler social."
+ },
+ {
+  "id": "nex-0009",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "7. Cesión obligatoria del uso de la vivienda vacía de los grandes propietarios para alquiler social."
+ },
+ {
+  "id": "nex-0010",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "8. Protección permanente de toda vivienda protegida construida con dinero público."
+ },
+ {
+  "id": "nex-0011",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "9. Precios de referencia del alquiler por código postal, ligados a los ingresos de la población, como en París, para todos los alquileres de las zonas tensionadas y no solo los de los grandes tenedores."
+ },
+ {
+  "id": "nex-0012",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "10. Límites a la compra especulativa y a la compra por empresas en zonas tensionadas."
+ },
+ {
+  "id": "nex-0013",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "11. Transparencia total sobre la propiedad: datos públicos de los grandes tenedores."
+ },
+ {
+  "id": "nex-0014",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "12. 0 % de impuestos en la compra de la primera vivienda cuando vaya a ser vivienda habitual."
+ },
+ {
+  "id": "nex-0015",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "13. Plan Estatal de Vivienda para un parque público de alquiler social a precio de coste, como en Viena."
+ },
+ {
+  "id": "nex-0016",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "14. Plan estatal de rehabilitación de la vivienda vacía y en ruina, sobre todo en los pueblos, a cambio de destinarla a alquiler social."
+ },
+ {
+  "id": "nex-0017",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "15. Construcción bioclimática en el Código Técnico de la Edificación."
+ },
+ {
+  "id": "nex-0018",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir"
+  ],
+  "texto": "16. Freno judicial al boicot autonómico de la Ley de Vivienda: impulsaremos, junto a otros grupos, el recurso ante el Tribunal Constitucional de toda ley o decreto autonómico que intente esquivarla, y exigiremos al Gobierno que lo presente."
+ },
+ {
+  "id": "nex-0019",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda",
+   "Una casa para vivir, no para invertir",
+   "Cómo se paga"
+  ],
+  "texto": "Las medidas 1 a 5 son reglas: no cuestan dinero público. La 6 usa viviendas que ya son públicas. La 7 no expropia la propiedad, sino el uso: el propietario sigue cobrando una renta social."
+ },
+ {
+  "id": "nex-0020",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Que no te engañen: el paro cuesta más que el trabajo a las arcas públicas"
+  ],
+  "texto": "**13 %** tasa de paro en Extremadura\n\n**10,2 %** tasa de paro en España\n\n**64.600** personas en paro en Extremadura\n\nAl ser una ley estatal, Extremadura es de las comunidades que más se beneficiarían. Fuente: INE, Encuesta de Población Activa, 3.º trimestre de 2026.\n\nLo que llevaremos al Congreso: una Ley de Garantía de Empleo, pagada por el Estado a través del SEPE y puesta en marcha por fases, empezando por los territorios con más paro, como Extremadura."
+ },
+ {
+  "id": "nex-0021",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Que no te engañen: el paro cuesta más que el trabajo a las arcas públicas"
+  ],
+  "texto": "17. Derecho a un empleo de utilidad social para toda persona en paro que quiera trabajar, con puestos adaptados para personas con discapacidad. Participar es voluntario."
+ },
+ {
+  "id": "nex-0022",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Que no te engañen: el paro cuesta más que el trabajo a las arcas públicas"
+  ],
+  "texto": "18. Salario mínimo, 30 horas semanales y formación continua para dar el salto al empleo privado."
+ },
+ {
+  "id": "nex-0023",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Cómo funciona"
+  ],
+  "texto": "**1** Te apuntas en tu oficina de empleo.\n\n**2** Ayuntamientos y entidades proponen proyectos.\n\n**3** Empiezas a trabajar: SMI y 30 horas.\n\n**4** Das el salto al empleo privado o al emprendimiento."
+ },
+ {
+  "id": "nex-0024",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Qué trabajos"
+  ],
+  "texto": "Cuidados y acompañamiento · Prevención de incendios · Rehabilitación de vivienda · Arreglo de calles y renaturalización · Actividades comunitarias"
+ },
+ {
+  "id": "nex-0025",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Plan de trabajo garantizado",
+   "Cuánto cuesta"
+  ],
+  "texto": "**0,79 % del PIB** coste neto en toda España (13.300 M€)\n\n**350 M€** coste neto en Extremadura\n\nEs menos de lo que ya cuesta el paro, 24.400 millones al año en prestaciones, y un tercio de lo que paga el Estado en intereses de la deuda. Queremos que ese dinero pague trabajo, no la espera.\n\nEstimación propia con el método de Garzón Espinosa y Cruz Hidalgo (2021) y datos de la EPA y del SEPE. Supone que entran todos los parados; no incluye las cotizaciones, que el Estado se paga a sí mismo."
+ },
+ {
+  "id": "nex-0026",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "19. Salario mínimo de 1.500 euros en 14 pagas, nunca por debajo del 70 % del salario medio y actualizado cada año con el IPC."
+ },
+ {
+  "id": "nex-0027",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "20. Ley de actualización de los salarios con la inflación."
+ },
+ {
+  "id": "nex-0028",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "21. Jornada de 32 horas en todas las empresas y de 30 en las grandes, sin bajar el sueldo y con un año de apoyo a las pymes para contratar."
+ },
+ {
+  "id": "nex-0029",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "22. Límites a la jornada partida, con mejor cotización y parte del descanso pagado."
+ },
+ {
+  "id": "nex-0030",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "23. Más negociación colectiva y voz de los trabajadores en las decisiones de las grandes empresas."
+ },
+ {
+  "id": "nex-0031",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "24. Plan de choque contra los accidentes laborales y reforma de la Ley de Prevención de Riesgos Laborales."
+ },
+ {
+  "id": "nex-0032",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "25. Buzón de denuncias anónimas conectado directamente con la Inspección de Trabajo."
+ },
+ {
+  "id": "nex-0033",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Empleo y salarios",
+   "Dignos, con tus derechos garantizados"
+  ],
+  "texto": "26. Jornada de 32 horas en la Administración General del Estado y en todas las administraciones que lo decidan."
+ },
+ {
+  "id": "nex-0034",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "27. Cuota cero para quien ingrese menos del salario mínimo."
+ },
+ {
+  "id": "nex-0035",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "28. Baja médica cobrada al 100 % desde el primer día."
+ },
+ {
+  "id": "nex-0036",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "29. 30 días de vacaciones pagadas al año, mediante una nueva prestación de la Seguridad Social."
+ },
+ {
+  "id": "nex-0037",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "30. El Estado paga el salario del sustituto durante los permisos de nacimiento, lactancia y cuidado de dependientes, no solo sus cotizaciones."
+ },
+ {
+  "id": "nex-0038",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "31. Fondo público de anticipo de facturas y reforma de la Ley de Morosidad."
+ },
+ {
+  "id": "nex-0039",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Trabajo digno y garantizado",
+   "Autónomos y pequeño comercio",
+   "Para quien levanta la persiana cada día"
+  ],
+  "texto": "32. Datáfonos sin comisiones abusivas para el pequeño comercio."
+ },
+ {
+  "id": "nex-0040",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "**212 de 388** municipios extremeños sin ninguna gasolinera: 147 en Cáceres y 65 en Badajoz\n\n**−9 cts** las cooperativas ya venden la gasolina 95 por debajo de la media\n\n**−11 cts** las cooperativas ya venden el diésel por debajo de la media\n\nMedia en Extremadura: gasolina 95, 1,769 €/l; diésel, 1,915 €/l. Fuente: Geoportal de Gasolineras del Ministerio, 22 de octubre de 2026.\n\nLo que llevaremos al Congreso: una Ley de Red Pública de Estaciones de Servicio."
+ },
+ {
+  "id": "nex-0041",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "33. Una ley y un fondo estatal de inversión; la gestión, para comunidades autónomas, ayuntamientos y mancomunidades."
+ },
+ {
+  "id": "nex-0042",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "34. Prioridad para los 212 municipios extremeños sin gasolinera y para las zonas agrícolas."
+ },
+ {
+  "id": "nex-0043",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "35. Precio de coste más un margen mínimo para mantener el servicio. Nunca por debajo de coste."
+ },
+ {
+  "id": "nex-0044",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "36. Convenios con las cooperativas que ya tienen surtidores para abrirlos al público en gasolina y gasóleo A."
+ },
+ {
+  "id": "nex-0045",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo"
+  ],
+  "texto": "37. Combustible garantizado y a precio justo para el campo mientras se descarboniza."
+ },
+ {
+  "id": "nex-0046",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Gasolineras públicas",
+   "Llenar el depósito no puede ser un lujo",
+   "Cuánto ahorra y cuánto cuesta"
+  ],
+  "texto": "Entre 10 y 20 céntimos menos por litro frente a la media: lo que ya consiguen las cooperativas y lo que cobran hoy las gasolineras más baratas. Cada estación de bajo coste cuesta unos 250.000 euros sin terreno y se paga vendiendo combustible: el Estado adelanta la instalación y se le devuelve. En los pueblos con poco consumo, convenios con la cooperativa local o surtidores compartidos entre varios pueblos."
+ },
+ {
+  "id": "nex-0047",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Trenes, industria y financiación justa"
+  ],
+  "texto": "**−4,0 %** producción industrial en Extremadura, frente al +2,5 % de media en España\n\n**7,1 %** peso de la industria manufacturera en Extremadura, frente al 11,9 % en España\n\n**1,7 %** del PIB español: la tercera comunidad con menos peso\n\nFuentes: INE, Índice de Producción Industrial, 2026; CaixaBank Research, 2025."
+ },
+ {
+  "id": "nex-0048",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Deuda histórica y financiación justa"
+  ],
+  "texto": "38. Cuantificación oficial de la deuda histórica del Estado con Extremadura y calendario de pago anual en los Presupuestos Generales."
+ },
+ {
+  "id": "nex-0049",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Deuda histórica y financiación justa"
+  ],
+  "texto": "39. Reclamación por la vía bilateral Junta-Estado, con comisión de seguimiento."
+ },
+ {
+  "id": "nex-0050",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Deuda histórica y financiación justa"
+  ],
+  "texto": "40. Reforma de la financiación autonómica que pese la dispersión, el envejecimiento y la superficie."
+ },
+ {
+  "id": "nex-0051",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Deuda histórica y financiación justa"
+  ],
+  "texto": "41. Reindustrialización como parte del pago: inversión estatal en transformación agraria y energía dentro de Extremadura."
+ },
+ {
+  "id": "nex-0052",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "42. Reapertura de la Ruta de la Plata, con partidas y fechas en los Presupuestos Generales del Estado."
+ },
+ {
+  "id": "nex-0053",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "43. Electrificación pendiente y un tren digno que vertebre la región."
+ },
+ {
+  "id": "nex-0054",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "44. Vía doble en los grandes ejes ferroviarios extremeños para acabar con los cuellos de botella, mejorar la puntualidad y que convivan trenes de pasajeros y de mercancías."
+ },
+ {
+  "id": "nex-0055",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "45. Traspaso a la Junta de Extremadura de los servicios ferroviarios regionales, con la financiación necesaria."
+ },
+ {
+  "id": "nex-0056",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "46. Trenes de proximidad entre Zafra y Navalmoral de la Mata: estudio de su integración, a medio camino entre Cercanías y Media Distancia, para los trayectos de cada día."
+ },
+ {
+  "id": "nex-0057",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "47. Nuevas líneas: estudio de viabilidad de Coria-Plasencia, Villanueva de la Serena-Herrera del Duque y Cáceres-Trujillo."
+ },
+ {
+  "id": "nex-0058",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "48. Más frecuencias en las líneas que ya existen, como Cáceres-Valencia de Alcántara, Mérida-Zafra y Zafra-Jerez de los Caballeros."
+ },
+ {
+  "id": "nex-0059",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "49. Recuperación de las vías tradicionales: reapertura de líneas y estaciones clausuradas para dar servicio a la población local y conectar, de forma barata y eficiente, territorios hoy aislados."
+ },
+ {
+  "id": "nex-0060",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Deuda histórica",
+   "Tren y movilidad"
+  ],
+  "texto": "50. Tren de Media Distancia y Regional Exprés gratuito dentro de Extremadura, financiado por el Estado hasta que salde la deuda histórica en transporte."
+ },
+ {
+  "id": "nex-0061",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "51. Independencia energética en 2040, electrificando hogares, industria y transporte."
+ },
+ {
+  "id": "nex-0062",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "52. Fondo Generacional de la Energía: el Estado entra con un 30 % en cada nueva planta renovable y de almacenamiento, y sus beneficios financian vivienda pública en alquiler, rehabilitación de edificios sin derramas y, con el tiempo, las pensiones."
+ },
+ {
+  "id": "nex-0063",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "53. Consulta vecinal vinculante para las plantas de más de 50 MW, que autoriza el Estado, y ninguna en suelo agrícola."
+ },
+ {
+  "id": "nex-0064",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "54. Renovables por la regeneración: agrivoltaica obligatoria y cada parque, un refugio de vida, con cultivo o pastoreo, praderas autóctonas, charcas y setos."
+ },
+ {
+  "id": "nex-0065",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "55. Peaje eléctrico a las megaplantas para abaratar la luz a familias y pymes donde se genera."
+ },
+ {
+  "id": "nex-0066",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "56. Reversión pública de los saltos hidroeléctricos del Tajo y el Guadiana al vencer las concesiones, con gestión pública extremeña."
+ },
+ {
+  "id": "nex-0067",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "57. Reforma de la Ley de Minas de 1973 con consulta vecinal vinculante para la megaminería."
+ },
+ {
+  "id": "nex-0068",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "58. Almaraz, nodo de estabilidad de la red, reutilizando sus alternadores y con garantía de empleo para la comarca."
+ },
+ {
+  "id": "nex-0069",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "59. Bombeo reversible como almacenamiento energético en la planificación nacional."
+ },
+ {
+  "id": "nex-0070",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Energía"
+  ],
+  "texto": "60. Energía que deja riqueza en el territorio: parte de los impuestos que pagan los parques, para crear comunidades energéticas de vecinos y ayuntamientos, y un marco estatal para el autoconsumo."
+ },
+ {
+  "id": "nex-0071",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Agua"
+  ],
+  "texto": "61. Posición extremeña en los planes hidrológicos del Tajo y el Guadiana, que aprueba el Estado."
+ },
+ {
+  "id": "nex-0072",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Agua"
+  ],
+  "texto": "62. Moratoria a nuevos regadíos superintensivos y freno a los usos de alto consumo de agua, como los centros de datos."
+ },
+ {
+  "id": "nex-0073",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Agua"
+  ],
+  "texto": "63. Plan Nacional de Siembra de Agua: recuperar acequias, regueras y zanjas de infiltración, presas permeables en los torrentes y un plan de recuperación del castor."
+ },
+ {
+  "id": "nex-0074",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Energía y agua",
+   "Agua"
+  ],
+  "texto": "64. Recarga de acuíferos y reforestación autóctona de las cabeceras de cuenca."
+ },
+ {
+  "id": "nex-0075",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "65. No a Mercosur ni a ningún tratado comercial sin cláusulas espejo: las mismas exigencias laborales, ambientales y sanitarias para lo que viene de fuera."
+ },
+ {
+  "id": "nex-0076",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "66. Plan Nacional de Agricultura Regenerativa: 6 millones de hectáreas ecológicas en 2030, con fincas demostrativas, técnicos de apoyo, biofábricas de biofertilizantes en las cooperativas y un seguro de transición."
+ },
+ {
+  "id": "nex-0077",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "67. Una PAC para la agricultura familiar, regenerativa y cooperativa."
+ },
+ {
+  "id": "nex-0078",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "68. Sello público Ecorregenerativo (ECO+): el ecológico más regeneración de suelos y biodiversidad, un valor añadido que cobra el agricultor."
+ },
+ {
+  "id": "nex-0079",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "69. Una Ley de la Cadena Alimentaria más dura: precios dignos en origen, persecución real de la venta a pérdidas y etiquetado con lo que cobra el productor."
+ },
+ {
+  "id": "nex-0080",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "70. Seguros agrarios públicos contra el clima y las plagas, sin esperas."
+ },
+ {
+  "id": "nex-0081",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "71. Pago por la captura de carbono en suelos agrarios."
+ },
+ {
+  "id": "nex-0082",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "72. Todas las flexibilidades europeas de higiene para pequeños productores artesanos y venta directa."
+ },
+ {
+  "id": "nex-0083",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "73. Registro público de semillas autóctonas de libre circulación."
+ },
+ {
+  "id": "nex-0084",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "74. Normativa básica contra las macrogranjas."
+ },
+ {
+  "id": "nex-0085",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Agricultura y ganadería"
+  ],
+  "texto": "75. Titularidad compartida de las explotaciones para las mujeres rurales."
+ },
+ {
+  "id": "nex-0086",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "76. Bosques vivos: convertir los pinares de repoblación en bosques diversos y paisajes en mosaico que frenen los grandes incendios."
+ },
+ {
+  "id": "nex-0087",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "77. Más medios estatales contra los incendios, con brigadas activas todo el año y prevención en invierno."
+ },
+ {
+  "id": "nex-0088",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "78. Ley de Herbivoría: pastoreo superextensivo de conservación en montes públicos, con pastores que cobren por cada hectárea cuidada."
+ },
+ {
+  "id": "nex-0089",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "79. Cañadas vivas: recuperar las vías pecuarias como corredores de vida, con pasos de fauna, trashumancia y ecoturismo."
+ },
+ {
+  "id": "nex-0090",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "80. La UME, a reforestar y regenerar suelos degradados."
+ },
+ {
+  "id": "nex-0091",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Campo y paisajes",
+   "Montes y paisajes vivos"
+  ],
+  "texto": "81. Consejos biorregionales y Cuerpo Civil de Regeneración: vecinos, ayuntamientos y agricultores deciden su paisaje, con 20.000 empleos al año, sobre todo para jóvenes, dentro del Trabajo Garantizado."
+ },
+ {
+  "id": "nex-0092",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Autogobierno"
+  ],
+  "texto": "82. Desbloqueo de los traspasos pendientes y cumplimiento íntegro del Estatuto de Autonomía."
+ },
+ {
+  "id": "nex-0093",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Autogobierno"
+  ],
+  "texto": "83. Protección del estremeñu, A Fala y el portugués raiano y cumplimiento de la Carta Europea de las Lenguas Regionales o Minoritarias."
+ },
+ {
+  "id": "nex-0094",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Territorio y municipios"
+  ],
+  "texto": "84. Concejo abierto en todos los municipios de menos de 5.000 habitantes."
+ },
+ {
+  "id": "nex-0095",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Territorio y municipios"
+  ],
+  "texto": "85. Reforma de la Ley de Racionalización de la Administración Local para que los ayuntamientos puedan recuperar la gestión directa del agua, la basura y otros servicios sin trabas."
+ },
+ {
+  "id": "nex-0096",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Territorio y municipios"
+  ],
+  "texto": "86. Fondo estatal contra la despoblación: sanidad, transporte, internet y efectivo en cada pueblo."
+ },
+ {
+  "id": "nex-0097",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Territorio y municipios"
+  ],
+  "texto": "87. Banda ancha y móvil en todo el medio rural como servicio universal."
+ },
+ {
+  "id": "nex-0098",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Cultura y memoria"
+  ],
+  "texto": "88. Devolución a Extremadura de su patrimonio arqueológico y artístico custodiado en museos estatales."
+ },
+ {
+  "id": "nex-0099",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Cultura y memoria"
+  ],
+  "texto": "89. Ley de Memoria Democrática aplicada en Extremadura, con financiación para exhumaciones y espacios de memoria."
+ },
+ {
+  "id": "nex-0100",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Cultura y memoria"
+  ],
+  "texto": "90. Cooperación transfronteriza con Portugal a lo largo de la Raya."
+ },
+ {
+  "id": "nex-0101",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Cultura y memoria"
+  ],
+  "texto": "91. Apoyo estatal a los Hogares Extremeños y a la memoria de la emigración."
+ },
+ {
+  "id": "nex-0102",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "92. Sueldo de diputados y senadores limitado al salario medio y fin de las dietas injustificadas."
+ },
+ {
+  "id": "nex-0103",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "93. Fin de los aforamientos de diputados y senadores, y de los cargos autonómicos mediante la reforma del Estatuto en las Cortes."
+ },
+ {
+  "id": "nex-0104",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "94. Contra las puertas giratorias: 15 años de incompatibilidad para los altos cargos del Estado."
+ },
+ {
+  "id": "nex-0105",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "95. Auditoría patrimonial de entrada y salida y registro obligatorio de lobbies."
+ },
+ {
+  "id": "nex-0106",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "96. Reforma constitucional para ampliar los referéndums y ley de democracia directa comarcal."
+ },
+ {
+  "id": "nex-0107",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Autogobierno y democracia",
+   "Democracia y transparencia"
+  ],
+  "texto": "97. Menos firmas para la Iniciativa Legislativa Popular, hoy fijadas en 500.000."
+ },
+ {
+  "id": "nex-0108",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Servicios fuertes, impuestos justos"
+  ],
+  "texto": "**36,6 %** de empleo temporal en las administraciones públicas de Extremadura\n\n**8 %** el máximo fijado por ley para el empleo temporal público\n\nFuente: CSIF, octubre de 2026."
+ },
+ {
+  "id": "nex-0109",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Servicios públicos con plantilla"
+  ],
+  "texto": "98. Fuera la tasa de reposición y la Ley Montoro, que asfixian a ayuntamientos y comunidades."
+ },
+ {
+  "id": "nex-0110",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Servicios públicos con plantilla"
+  ],
+  "texto": "99. Más plazas MIR y de especialistas para Extremadura."
+ },
+ {
+  "id": "nex-0111",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Servicios públicos con plantilla"
+  ],
+  "texto": "100. Incentivos estatales para las plazas rurales de difícil cobertura en sanidad y educación."
+ },
+ {
+  "id": "nex-0112",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Servicios públicos con plantilla"
+  ],
+  "texto": "101. Más inspectores de Trabajo en Extremadura."
+ },
+ {
+  "id": "nex-0113",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Fiscalidad"
+  ],
+  "texto": "102. Recargos sobre la vivienda vacía y la acumulación de viviendas en IRPF y Patrimonio, y más margen municipal en el IBI."
+ },
+ {
+  "id": "nex-0114",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Fiscalidad"
+  ],
+  "texto": "103. Más margen municipal en el IAE para las multinacionales y en las tasas a las plataformas de reparto."
+ },
+ {
+  "id": "nex-0115",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Fiscalidad"
+  ],
+  "texto": "104. IVA reducido en la factura de la luz para el consumo básico."
+ },
+ {
+  "id": "nex-0116",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Contratación pública"
+  ],
+  "texto": "105. Subcontratación limitada a un solo nivel en los contratos públicos."
+ },
+ {
+  "id": "nex-0117",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Contratación pública"
+  ],
+  "texto": "106. El empleo estable, criterio obligatorio de adjudicación en los contratos públicos."
+ },
+ {
+  "id": "nex-0118",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Contratación pública"
+  ],
+  "texto": "107. Estabilización del empleo público: cumplir la directiva europea y las sentencias del Tribunal de Justicia de la UE contra el abuso de la temporalidad."
+ },
+ {
+  "id": "nex-0119",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Contratación pública"
+  ],
+  "texto": "108. Valorar la cercanía y el tamaño de la empresa en las licitaciones, dentro de lo que permite el derecho europeo."
+ },
+ {
+  "id": "nex-0120",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Servicios públicos, fiscalidad y contratación",
+   "Contratación pública"
+  ],
+  "texto": "109. Alimentos de cercanía en los comedores de colegios, hospitales y residencias."
+ },
+ {
+  "id": "nex-0121",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Familias"
+  ],
+  "texto": "110. Permisos de nacimiento de un año, iguales e intransferibles, y 15 días retribuidos al año hasta que los hijos cumplan 14."
+ },
+ {
+  "id": "nex-0122",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Familias"
+  ],
+  "texto": "111. Permiso adicional por parto por cesárea o con complicaciones, que no reste semanas del permiso de nacimiento."
+ },
+ {
+  "id": "nex-0123",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Familias"
+  ],
+  "texto": "112. Derecho a adaptar y reducir la jornada con hijos de 0 a 3 años."
+ },
+ {
+  "id": "nex-0124",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Familias"
+  ],
+  "texto": "113. Más derechos de conciliación para familias con personas con discapacidad."
+ },
+ {
+  "id": "nex-0125",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "114. Estatuto del Becario: prácticas 100 % remuneradas en FP y universidad."
+ },
+ {
+  "id": "nex-0126",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "115. Estatuto del Trabajador Joven."
+ },
+ {
+  "id": "nex-0127",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "116. Bono Alquiler Joven y Aval Joven al alcance de cualquier joven."
+ },
+ {
+  "id": "nex-0128",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "117. Becas Retorno para que los jóvenes que emigraron puedan volver con un empleo o un proyecto."
+ },
+ {
+  "id": "nex-0129",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "118. Alto Comisionado para las Generaciones Futuras, independiente, que evalúe cada ley."
+ },
+ {
+  "id": "nex-0130",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Juventud"
+  ],
+  "texto": "119. Salud mental en el Seguro Escolar, en todos los niveles educativos."
+ },
+ {
+  "id": "nex-0131",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Pensiones y mayores"
+  ],
+  "texto": "120. Pensión mínima por encima de 1.200 euros y rebaja de la edad de jubilación."
+ },
+ {
+  "id": "nex-0132",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Pensiones y mayores"
+  ],
+  "texto": "121. Integración de las Clases Pasivas en el régimen general, respetando las pensiones ya reconocidas."
+ },
+ {
+  "id": "nex-0133",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Conciliación y bienestar",
+   "Pensiones y mayores"
+  ],
+  "texto": "122. Más financiación estatal de la Dependencia y de las plazas residenciales públicas."
+ },
+ {
+  "id": "nex-0134",
+  "partido": "nex",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Defender la vida de los nuestros"
+  ],
+  "texto": "**14 días** puede llegar a tardar la cita en atención primaria en algunos municipios extremeños\n\n**24-48 h** el objetivo acordado por el Ministerio de Sanidad y las comunidades autónomas\n\nFuentes: Hoy, El Periódico Extremadura, COPE Mérida y elDiario.es Extremadura (2025-2026); Marco Estratégico para la Atención Primaria."
+ },
+ {
+  "id": "nex-0135",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "123. Tiempos máximos garantizados en todo el Sistema Nacional de Salud: cita en atención primaria en 48 horas y plazos máximos para especialistas, quirófanos y dependencia."
+ },
+ {
+  "id": "nex-0136",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "124. Terapia psicológica gratuita hasta los 35 años en la sanidad pública."
+ },
+ {
+  "id": "nex-0137",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "125. Gafas y lentes en la cartera de servicios de la sanidad pública."
+ },
+ {
+  "id": "nex-0138",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "126. Plan Nacional de Salud Mental y Prevención del Suicidio, con financiación para las comunidades."
+ },
+ {
+  "id": "nex-0139",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "127. Derogar la Ley 15/1997, que abrió la puerta a la gestión privada de la sanidad pública."
+ },
+ {
+  "id": "nex-0140",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "128. Ley estatal contra el cáncer: diagnóstico y tratamiento en igualdad en todo el territorio."
+ },
+ {
+  "id": "nex-0141",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Sanidad"
+  ],
+  "texto": "129. Aborto garantizado en los centros públicos."
+ },
+ {
+  "id": "nex-0142",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "130. Pacto de Estado por la Educación: un acuerdo con todas las fuerzas políticas y la comunidad educativa para sacar la educación de la confrontación partidista, con un marco legal estable durante al menos dos décadas y una inversión mínima blindada por ley."
+ },
+ {
+  "id": "nex-0143",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "131. Bajada de ratios: menos alumnos por aula para mejorar la atención y la calidad educativa."
+ },
+ {
+  "id": "nex-0144",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "132. Aulas climatizadas y patios verdes: fondos de los Presupuestos Generales del Estado, transferidos sin tutelas, para el aislamiento, la climatización, la sombra y la renaturalización de todos los colegios e institutos públicos."
+ },
+ {
+  "id": "nex-0145",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "133. Nuevo sistema estatal de acceso a la docencia, más justo y planificado."
+ },
+ {
+  "id": "nex-0146",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "134. Estabilización del profesorado interino con más de tres años de servicio."
+ },
+ {
+  "id": "nex-0147",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "135. Títulos de Formación Profesional adaptados a la realidad productiva de cada territorio."
+ },
+ {
+  "id": "nex-0148",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "136. Becas solo por renta, sin requisitos de nota añadidos."
+ },
+ {
+  "id": "nex-0149",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "137. Plazas en los másteres habilitantes para todos los titulados."
+ },
+ {
+  "id": "nex-0150",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "138. Becas de doctorado de cuatro años en todas las áreas de conocimiento."
+ },
+ {
+  "id": "nex-0151",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "139. Fin de la precariedad del profesorado universitario: homologación salarial y estabilización real del personal docente e investigador, frente a la precariedad y la temporalidad."
+ },
+ {
+  "id": "nex-0152",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Sanidad y educación",
+   "Educación"
+  ],
+  "texto": "140. Llevar a una ley los requisitos del Real Decreto 905/2025 para crear universidades privadas, anulado por el Tribunal Supremo por defectos en su tramitación."
+ },
+ {
+  "id": "nex-0153",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Derechos e igualdad"
+  ],
+  "texto": "141. Blindaje legal de los derechos LGTBI y refuerzo del Pacto de Estado contra la Violencia de Género."
+ },
+ {
+  "id": "nex-0154",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Derechos e igualdad"
+  ],
+  "texto": "142. Más protección frente al racismo y los delitos de odio, con atención integral a las víctimas."
+ },
+ {
+  "id": "nex-0155",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Derechos e igualdad"
+  ],
+  "texto": "143. Delito específico para la pornografía infantil generada con inteligencia artificial y los deepfakes sexuales."
+ },
+ {
+  "id": "nex-0156",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Derechos e igualdad"
+  ],
+  "texto": "144. Accesibilidad universal, también en los procesos electorales."
+ },
+ {
+  "id": "nex-0157",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Derechos e igualdad"
+  ],
+  "texto": "145. Asistencia jurídica gratuita más accesible para las personas vulnerables."
+ },
+ {
+  "id": "nex-0158",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Cooperación internacional y política exterior"
+  ],
+  "texto": "146. La cooperación al desarrollo, política de Estado: el 0,7 % de la Renta Nacional Bruta, con una senda plurianual firme, como marca la Ley 1/2023."
+ },
+ {
+  "id": "nex-0159",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Cooperación internacional y política exterior"
+  ],
+  "texto": "147. Acción humanitaria basada en principios y en el Derecho Internacional Humanitario, centrada en quienes sufren crisis y conflictos armados."
+ },
+ {
+  "id": "nex-0160",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Cooperación internacional y política exterior"
+  ],
+  "texto": "148. Defensa del espacio cívico y apoyo a las ONGD, organizaciones feministas, sociales y defensoras de derechos y del planeta."
+ },
+ {
+  "id": "nex-0161",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Cooperación internacional y política exterior"
+  ],
+  "texto": "149. Refuerzo de la cooperación descentralizada de comunidades y ayuntamientos, con la extremeña como parte activa del sistema español."
+ },
+ {
+  "id": "nex-0162",
+  "partido": "nex",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "XI. Derechos y cooperación",
+   "Cooperación internacional y política exterior"
+  ],
+  "texto": "150. Embargo de armas y sanciones ante violaciones graves de los derechos humanos, empezando por Palestina."
+ },
+ {
+  "id": "ixlg-0001",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Nuestra candidatura",
+   "El sentido de la candidatura"
+  ],
+  "texto": "El Senado solo tiene sentido si sirve para llevar a Madrid los problemas reales de La Gomera y de Canarias. No queremos reproducir debates ni consignas estatales alejadas de la vida cotidiana: queremos una representación útil, cercana y sometida a rendición de cuentas.\n\nConcurrimos desde una tradición democrática y de justicia social vinculada a nuestra historia. No heredamos cargos ni patrimonio: somos fieles y acreedores de unos principios, de quienes los defendieron y de quienes lucharon por una Gomera más justa. Reconocemos las dificultades de la insularidad y la lejanía, pero no aceptamos que se conviertan en excusa para la falta de resultados. Defender los intereses y las reivindicaciones de la mayoría social de La Gomera es defender también Canarias.\n\n**_La insularidad es una realidad que exige más derechos, no menos._**"
+ },
+ {
+  "id": "ixlg-0002",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "01. Vivienda y derecho a quedarse"
+  ],
+  "texto": "**_Que vivir en La Gomera no sea un privilegio ni obligue a marcharse._**"
+ },
+ {
+  "id": "ixlg-0003",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "01. Vivienda y derecho a quedarse"
+  ],
+  "texto": "01. Impulsar un plan estatal de vivienda para las islas no capitalinas, con financiación específica para La Gomera."
+ },
+ {
+  "id": "ixlg-0004",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "01. Vivienda y derecho a quedarse"
+  ],
+  "texto": "02. Ampliar el alquiler público permanente mediante construcción en suelo público transformado, adquisición y rehabilitación de viviendas vacías y recuperación de casas tradicionales."
+ },
+ {
+  "id": "ixlg-0005",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "01. Vivienda y derecho a quedarse"
+  ],
+  "texto": "03. Reforzar la rehabilitación de viviendas habituales y rurales, la bolsa pública de alquiler asequible y las soluciones residenciales para jóvenes, mayores y trabajadores esenciales. Priorizar el uso residencial frente a la especulación y el alquiler turístico."
+ },
+ {
+  "id": "ixlg-0006",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "02. Movilidad y coste de la insularidad"
+  ],
+  "texto": "**_La distancia no puede limitar el acceso a derechos y oportunidades._**"
+ },
+ {
+  "id": "ixlg-0007",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "02. Movilidad y coste de la insularidad"
+  ],
+  "texto": "01. Revisar las compensaciones al transporte aéreo y marítimo y establecer medidas específicas para la doble insularidad, con tarifas asequibles y conexiones compatibles con el trabajo, los estudios y la atención sanitaria."
+ },
+ {
+  "id": "ixlg-0008",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "02. Movilidad y coste de la insularidad"
+  ],
+  "texto": "02. Exigir frecuencias mínimas, continuidad en fines de semana y festivos y garantías para pacientes y mercancías esenciales; impulsar ayudas de transporte, alojamiento y manutención para quienes deban desplazarse por atención especializada."
+ },
+ {
+  "id": "ixlg-0009",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Compromisos para La Gomera",
+   "02. Movilidad y coste de la insularidad"
+  ],
+  "texto": "03. Promover una financiación estatal de los servicios esenciales basada en su coste real, no solo en el número de habitantes, y evaluar el impacto de las leyes estatales en las islas menores y en la aplicación del REF."
+ },
+ {
+  "id": "ixlg-0010",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Una economía que te ayude a vivir",
+   "Una economía al servicio de la ciudadanía, no de unos pocos."
+  ],
+  "texto": "Durante décadas, Canarias ha tenido que reivindicar una y otra vez la aplicación efectiva del Régimen Económico y Fiscal (REF). Defender el REF es defender un derecho de Canarias y una herramienta para compensar nuestra lejanía, insularidad y condiciones estructurales.\n\nPero también debemos preguntarnos para quién está funcionando realmente el REF.\n\nNo queremos un REF reducido a una permanente batalla por mantener beneficios fiscales o incentivos a quienes tienen mayor capacidad para invertir, mientras una parte importante de la ciudadanía continúa soportando el sobrecoste de vivir en las islas: vivienda, alimentación, transporte, energía, agua o acceso a servicios.\n\nEl REF no puede convertirse en una cuestión reservada a despachos, grandes empresas o determinados intereses económicos y políticos. Sus beneficios deben traducirse en bienestar para la mayoría social, empleo estable, actividad productiva, servicios públicos y oportunidades a quienes viven y trabajan en Canarias.\n\nLa propia evolución del debate sobre el REF plantea hoy la necesidad de revisar a quién llegan sus instrumentos y cómo se distribuyen sus beneficios. Existen incentivos dirigidos a la inversión y a la actividad económica, pero también medidas destinadas directamente a compensar costes y garantizar servicios. La cuestión es que el conjunto del sistema debe orientarse de forma más clara hacia el interés general."
+ },
+ {
+  "id": "ixlg-0011",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Una economía que te ayude a vivir",
+   "Una economía al servicio de la ciudadanía, no de unos pocos."
+  ],
+  "texto": "No cuestionamos el REF. Cuestionamos que durante demasiado tiempo se haya confundido su defensa con la defensa de determinados intereses.\n\nQueremos un REF que llegue también a autónomos, pequeñas empresas, trabajadores, familias y jóvenes; que contribuya a reducir los sobrecostes de la insularidad y que genere retornos sociales y territoriales verificables. Porque el REF no nació para que unos pocos tengan más oportunidades por vivir en Canarias. Nació para que vivir en Canarias NO suponga tener menos oportunidades.\n\nY en La Gomera, además debe incorporar de manera efectiva nuestra condición de isla no capitalina y la doble insularidad, de manera que los beneficios y compensaciones respondan a los costes reales de nuestro territorio. Defender el REF sí. Pero defenderlo para que cumpla su función: compensar a Canarias y mejorar la vida de quienes vivimos aquí.\n\n**_La insularidad es una realidad que exige más derechos, no menos._**"
+ },
+ {
+  "id": "ixlg-0012",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "03. Pueblos vivos, empleo y economía local"
+  ],
+  "texto": "**_Recuperar las medianías y asegurar futuro a la actividad productiva._**"
+ },
+ {
+  "id": "ixlg-0013",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "03. Pueblos vivos, empleo y economía local"
+  ],
+  "texto": "01. Crear un fondo estatal plurianual contra el abandono rural insular para rehabilitación, caminos, redes de agua, transporte a demanda, servicios de proximidad y recuperación de tierras agrícolas."
+ },
+ {
+  "id": "ixlg-0014",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "03. Pueblos vivos, empleo y economía local"
+  ],
+  "texto": "02. Apoyar la agricultura familiar, la ganadería y la pesca artesanal; facilitar la cesión de fincas abandonadas y promover la compra pública de alimentos locales para comedores, residencias y otros servicios públicos."
+ },
+ {
+  "id": "ixlg-0015",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "03. Pueblos vivos, empleo y economía local"
+  ],
+  "texto": "03. Impulsar empleo local ligado a la restauración de bancales, la gestión forestal, la prevención de incendios, el mantenimiento de senderos, la rehabilitación energética y la conservación del patrimonio natural y etnográfico."
+ },
+ {
+  "id": "ixlg-0016",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "03. Pueblos vivos, empleo y economía local"
+  ],
+  "texto": "04. Mejorar la conectividad digital en todos los núcleos y facilitar la formación, el teletrabajo y el emprendimiento, con oportunidades para jóvenes y mujeres."
+ },
+ {
+  "id": "ixlg-0017",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "04. Agua, energía y naturaleza protegida"
+  ],
+  "texto": "**_Una transición ecológica justa, participativa y al servicio de la población._**"
+ },
+ {
+  "id": "ixlg-0018",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "04. Agua, energía y naturaleza protegida"
+  ],
+  "texto": "01. FINALIZAR LAS OBRAS HIDRÁULICAS PENDIENTES: Exigiremos la finalización de todas las obras hidráulicas pendientes y la puesta en funcionamiento efectiva de las conexiones ya instaladas entre los distintos depósitos de la isla, garantizando que las infraestructuras construidas cumplan finalmente la función para la que fueron proyectadas. No basta con construir. Hay que terminar, conectar y poner en funcionamiento."
+ },
+ {
+  "id": "ixlg-0019",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "04. Agua, energía y naturaleza protegida"
+  ],
+  "texto": "02. Promover un plan estatal de garantía hídrica para las islas menores: reducir pérdidas en redes, modernizar depósitos y riego, reutilizar agua y proteger acuíferos, manantiales y ecosistemas vinculados."
+ },
+ {
+  "id": "ixlg-0020",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "04. Agua, energía y naturaleza protegida"
+  ],
+  "texto": "03. Favorecer el autoconsumo, las comunidades energéticas y la participación pública y vecinal en los beneficios de las renovables, priorizando cubiertas, aparcamientos y suelos degradados frente a la ocupación de suelo agrario o paisajes protegidos."
+ },
+ {
+  "id": "ixlg-0021",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Una isla habitable, productiva y cuidada",
+   "04. Agua, energía y naturaleza protegida"
+  ],
+  "texto": "04. Asegurar financiación estable para la prevención de incendios, la restauración de monteverde, barrancos y laderas, la recuperación de bancales y la adaptación del litoral al cambio climático."
+ },
+ {
+  "id": "ixlg-0022",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "05. Cuidados, salud y servicios cercanos"
+  ],
+  "texto": "**_Envejecer con dignidad y poder vivir en el propio pueblo._**"
+ },
+ {
+  "id": "ixlg-0023",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "05. Cuidados, salud y servicios cercanos"
+  ],
+  "texto": "01. Reforzar la financiación estatal de la dependencia, la ayuda a domicilio, la teleasistencia, los centros de día y el respiro familiar, con servicios próximos a los núcleos rurales."
+ },
+ {
+  "id": "ixlg-0024",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "05. Cuidados, salud y servicios cercanos"
+  ],
+  "texto": "02. Reclamar atención sanitaria especializada periódica y facilitar transporte accesible a consultas y servicios esenciales. Combatir la soledad no deseada y mantener alternativas presenciales para quienes no pueden depender de trámites digitales."
+ },
+ {
+  "id": "ixlg-0025",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "05. Cuidados, salud y servicios cercanos"
+  ],
+  "texto": "03. Promover empleo estable y formación profesional en cuidados, así como vivienda, trabajo y formación que faciliten el arraigo y el retorno de jóvenes."
+ },
+ {
+  "id": "ixlg-0026",
+  "partido": "ixlg",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "06. Un escaño cercano y con cuentas claras"
+  ],
+  "texto": "**_Compromisos de trabajo parlamentario por La Gomera._**"
+ },
+ {
+  "id": "ixlg-0027",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "06. Un escaño cercano y con cuentas claras"
+  ],
+  "texto": "01. Impulsar en el Senado una ponencia sobre las necesidades de las islas menores, escuchando a ayuntamientos, Cabildo, sectores productivos y colectivos sociales."
+ },
+ {
+  "id": "ixlg-0028",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "06. Un escaño cercano y con cuentas claras"
+  ],
+  "texto": "02. Defender partidas estatales para vivienda, transporte, cuidados, agricultura y prevención de incendios; promover iniciativas y preguntas parlamentarias sobre los compromisos pendientes que afecten a la isla."
+ },
+ {
+  "id": "ixlg-0029",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "06. Un escaño cercano y con cuentas claras"
+  ],
+  "texto": "03. Abrir una oficina territorial con atención presencial periódica y publicar cada seis meses un balance de actividad: iniciativas, gestiones, respuestas recibidas y asuntos pendientes."
+ },
+ {
+  "id": "ixlg-0030",
+  "partido": "ixlg",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Derechos, cuidados y una representación útil",
+   "06. Un escaño cercano y con cuentas claras"
+  ],
+  "texto": "04. Consultar a la ciudadanía y a los municipios sobre las iniciativas que afecten a La Gomera, evaluar sus resultados y rendir cuentas de forma pública."
+ },
+ {
+  "id": "soria-0001",
+  "partido": "soria",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [],
+  "texto": "**Si el 29 N, Soria ¡Ya! consigue representación, esto es lo que exigiremos**\n\n**Del Olvido al Futuro**"
+ },
+ {
+  "id": "soria-0002",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Plan extraordinario de 10 años contra la despoblación"
+  ],
+  "texto": "- Impulsar un **programa específico para Soria**, con financiación estable mediante un Fondo de Inversiones (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y autónomos, así como **actuaciones especiales en vivienda, empleo, inversión y servicios públicos**."
+ },
+ {
+  "id": "soria-0003",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Plan extraordinario de 10 años contra la despoblación"
+  ],
+  "texto": "- Ayudas al funcionamiento al máximo legal permitido por la Unión Europea."
+ },
+ {
+  "id": "soria-0004",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Conectividad digital para todos"
+  ],
+  "texto": "- Acceso a **internet de alta velocidad y cobertura de telefonía móvil** de calidad en todos los municipios sorianos, sin excepción."
+ },
+ {
+  "id": "soria-0005",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Plan de relevo generacional"
+  ],
+  "texto": "- Establecer **ayudas directas** para facilitar que jóvenes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiación, asesoramiento y apoyo a la transmisión de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos."
+ },
+ {
+  "id": "soria-0006",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Plan de vivienda para zonas despobladas"
+  ],
+  "texto": "- **Impulsar un programa nacional de construcción de viviendas**, especialmente en el medio rural; ayudas a la rehabilitación vinculadas al alquiler asequible, garantías para propietarios que incorporen sus viviendas al mercado; **incentivos para adquisición de primera vivienda** y fórmulas de alquiler con opción a compra."
+ },
+ {
+  "id": "soria-0007",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Impulso a nuestro campo, montes y medioambiente"
+  ],
+  "texto": "- **Apoyo a agricultores y ganaderos**, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformación de nuestros productos en Soria."
+ },
+ {
+  "id": "soria-0008",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Impulso a nuestro campo, montes y medioambiente"
+  ],
+  "texto": "- **Aprovechamiento de nuestros recursos forestales,** favoreciendo la creación de industrias y empleo. Reconocimiento y **compensación económica a nuestros municipios por los beneficios ambientales** de sus montes."
+ },
+ {
+  "id": "soria-0009",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- **Finalización de la A-11** hasta Valladolid y de la **A-15** hasta Navarra."
+ },
+ {
+  "id": "soria-0010",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- Impulso de las conexiones por **autovía Soria–Logroño**, **Soria–Calamocha** y **Soria–Segovia** y ejecución de la variante de **San Esteban de Gormaz,** A11 con la N 110."
+ },
+ {
+  "id": "soria-0011",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- Modernización integral de la circunvalación SO-20."
+ },
+ {
+  "id": "soria-0012",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- Electrificación y doble vía de la **línea férrea Soria–Torralba**, y aumento de frecuencias a Madrid."
+ },
+ {
+  "id": "soria-0013",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- **Reapertura** de la línea **Soria–Castejón**."
+ },
+ {
+  "id": "soria-0014",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- Estación de AVE en el sur de Soria, para conexión directa a **Madrid-Zaragoza-Barcelona.**"
+ },
+ {
+  "id": "soria-0015",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Autovías y ferrocarril: acabar con el aislamiento de Soria"
+  ],
+  "texto": "- Impulso del corredor ferroviario **Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza.**"
+ },
+ {
+  "id": "soria-0016",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Energía de Soria para el desarrollo de Soria"
+  ],
+  "texto": "- No podemos seguir generando energía que favorece el crecimiento de otras comunidades autónomas mientras Soria carece de capacidad eléctrica para atraer inversiones y crear empleo. Reclamamos inversiones urgentes en las **redes de transporte y distribución que garanticen el suministro** y la capacidad de acceso en nuestros polos industriales, así como **compensaciones económicas por la energía generada**."
+ },
+ {
+  "id": "soria-0017",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Garantía de servicios públicos en el medio rural"
+  ],
+  "texto": "- **Garantizar los servicios públicos esenciales en un máximo de 30 minutos**, con independencia del lugar de residencia, mediante una financiación suficiente, estable y adaptada a la dispersión territorial y al envejecimiento de la población, incluyendo los servicios prestados por las entidades locales. Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, **asegurando la cobertura efectiva de las plazas** y la continuidad y calidad de los servicios."
+ },
+ {
+  "id": "soria-0018",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Educación y talento: estudiar fuera, volver a Soria"
+  ],
+  "texto": "- **Becas especiales de movilidad** y residencia, prácticas remuneradas, incentivos al primer empleo y **ayudas al retorno de jóvenes** titulados a zonas escasamente pobladas."
+ },
+ {
+  "id": "soria-0019",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Acceso seguro a la sanidad"
+  ],
+  "texto": "- **Autovía Soria-Burgos:** infraestructura imprescindible para garantizar conexión rápida y segura con Burgos, donde se encuentra el hospital de referencia de Soria."
+ },
+ {
+  "id": "soria-0020",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Impulso logístico, inversión, emprendimiento y nómadas digitales"
+  ],
+  "texto": "- **Corregir el déficit de infraestructuras logísticas de la provincia**, aprovechando su posición estratégica entre el corredor del Henares y el valle del Ebro mediante el desarrollo de un puerto seco en el Alto Jalón."
+ },
+ {
+  "id": "soria-0021",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Impulso logístico, inversión, emprendimiento y nómadas digitales"
+  ],
+  "texto": "- **Establecer incentivos específicos** a la inversión empresarial y a la **creación de empleo** en territorios escasamente poblados. Favorecer la **atracción de profesionales y nómadas digitales mediante una reforma normativa** que permita ampliar los plazos de autorización de residencia y teletrabajo para quienes se establezcan en estas provincias."
+ },
+ {
+  "id": "soria-0022",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Impulso logístico, inversión, emprendimiento y nómadas digitales"
+  ],
+  "texto": "- Implantar una cuota reducida permanente de 80 euros mensuales para los trabajadores autónomos que desarrollen su actividad en zonas escasamente pobladas, con el objetivo de favorecer el emprendimiento, la continuidad de los negocios y la fijación de población."
+ },
+ {
+  "id": "soria-0023",
+  "partido": "soria",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Soria, sede de organismos públicos"
+  ],
+  "texto": "- **Descentralización de organismos estatales en Soria**, garantizando su funcionamiento mediante la dotación de personal, recursos y competencias reales: creación de la **Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias** (UME) permanente en Soria."
+ },
+ {
+  "id": "d21-0001",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia"
+  ],
+  "texto": "**La democracia es el mejor sistema para garantizar la libertad, los derechos y la prosperidad**. Precisamente por eso es necesario **protegerla, modernizarla y fortalecerla.**\n\nCreemos en una política basada en el servicio público, el mérito, la ética, la rendición de cuentas, la búsqueda de consensos, y la orientación a resultados.\n\nNuestro sistema político ahora beneficia a los políticos y a los que viven de los políticos, pero no beneficia a la sociedad. Para poder avanzar es imperativo hacer una limpieza política integral que vaya mucho más allá de un simple cambio de caras. Y que permita liberar los muchísimos recursos que los partidos políticos dedican a sí mismos y a los suyos para ponerlos al servicio de la ciudadanía.\n- Cortando el clientelismo con despidos y normas estrictas de mérito y capacidad.\n- Atajando la corrupción política con medidas tajantes.\n- Con instituciones despolitizadas y organismos de control efectivos y rigurosamente independientes.\n- Y devolviendo el control a la ciudadanía."
+ },
+ {
+  "id": "d21-0002",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares"
+  ],
+  "texto": "_La Administración pública no es propiedad de los partidos políticos: nos pertenece a los ciudadanos. Décadas de enchufismo, miles de asesores y cargos de carnet han degradado nuestros servicios públicos y desmoralizado a los empleados públicos que han accedido por su mérito y capacidad. Es hora de limpiar radicalmente nuestras instituciones de todas las redes clientelares._"
+ },
+ {
+  "id": "d21-0003",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Punto y final al tsunami de asesores"
+  ],
+  "texto": "- **Reducción del 90% de los asesores**: los ministros/consejeros no podrán tener más de 4 asesores, los vicepresidentes no más de 7 y el gabinete del Presidente no más de 20."
+ },
+ {
+  "id": "d21-0004",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Punto y final al tsunami de asesores"
+  ],
+  "texto": "- El Presidente del Gobierno podrá nombrar asesores temporales para proyectos o políticas específicas, pero su nombramiento requerirá un proceso competitivo completamente abierto y meritocrático."
+ },
+ {
+  "id": "d21-0005",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Punto y final al tsunami de asesores"
+  ],
+  "texto": "- Los asesores no tendrán chóferes, ni ninguna otra prebenda pública aparte de su sueldo. **Será obligatorio publicar los nombres, funciones, currículos y salarios de todos los asesores** en todas las administraciones para asegurar un control ciudadano permanente. Los cargos políticos responderán por las acciones de su gabinete."
+ },
+ {
+  "id": "d21-0006",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Fuera cargos de carnet y delito de enchufismo"
+  ],
+  "texto": "- **Desde el minuto cero**, todos los cargos en la Administración y empresas públicas, sin excepciones, **serán asignados por mérito y capacidad** y con procedimientos abiertos, justificados por razones estrictas de competencia profesional."
+ },
+ {
+  "id": "d21-0007",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Fuera cargos de carnet y delito de enchufismo"
+  ],
+  "texto": "- Se tipificará el **delito de enchufismo** reformando y ampliando el artículo 405 del Código Penal y se inhabilitará por ley **a todos los políticos** que hagan nombramientos sin respetar los principios de mérito y capacidad."
+ },
+ {
+  "id": "d21-0008",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Fuera cargos de carnet y delito de enchufismo"
+  ],
+  "texto": "- El único cargo en el que se permitirá la libre designación será el de Secretario de Estado."
+ },
+ {
+  "id": "d21-0009",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "Fuera cargos de carnet y delito de enchufismo"
+  ],
+  "texto": "- **Para los cargos de carnet existentes:** en un plazo de 6 meses se hará una inspección pública integral de todos los nombramientos existentes de libre designación en las administraciones y empresas públicas, con criterios objetivos y transparentes, por un Tribunal Administrativo Independiente:\n - Se publicará la lista y coste de todos los nombramientos sin formación y experiencia específica para el cargo.\n - Se iniciarán trámites de despido de todos los nombramientos de libre designación que no cumplan esos criterios dentro del respeto a la legalidad. Todo el dinero recuperado por esta vía se dedicará a vivienda."
+ },
+ {
+  "id": "d21-0010",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más redes clientelares",
+   "No más impuestos revolucionarios para los partidos políticos"
+  ],
+  "texto": "- Estará terminantemente prohibido que los parlamentarios, cargos públicos y asesores paguen un porcentaje de su sueldo a los partidos políticos."
+ },
+ {
+  "id": "d21-0011",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción"
+  ],
+  "texto": "_Las comisiones, sobrecostes, amaños y corruptelas nos roban el futuro y bienestar a todos los españoles. El FMI calcula que la corrupción nos quita cada año el 4,5% del PIB de nuestro país. Son unos 60.000 millones de euros anuales. Lo equivalente a TODO lo que invertimos en educación cada año._"
+ },
+ {
+  "id": "d21-0012",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Nuevos juzgados especializados en corrupción"
+  ],
+  "texto": "- Se crearán **juzgados especializados en corrupción**, replicando el modelo organizativo de los juzgados de violencia de género. Serán dotados de suficientes medios de personal y tecnológicos."
+ },
+ {
+  "id": "d21-0013",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Nuevos juzgados especializados en corrupción"
+  ],
+  "texto": "- Para agilizar los juicios contra la corrupción, se hará una **revisión de las reglas procesales** eliminando toda dilación indebida."
+ },
+ {
+  "id": "d21-0014",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Nuevos juzgados especializados en corrupción"
+  ],
+  "texto": "- **Se creará un órgano judicial especializado encargado de revisar cada dos meses todos los procedimientos impugnados por las partes** para eliminar defectos procedimentales, evitando anulaciones futuras por defectos de orden menor."
+ },
+ {
+  "id": "d21-0015",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Nuevos juzgados especializados en corrupción"
+  ],
+  "texto": "- Para **evitar influencias indebidas en los tribunales de justicia**, los casos de corrupción de políticos en una Comunidad Autónoma serán juzgados por el tribunal correspondiente **en una Comunidad Autónoma adyacente**."
+ },
+ {
+  "id": "d21-0016",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "El mismo control para el político que para el ciudadano"
+  ],
+  "texto": "- La **Intervención General de la Administración del Estado** (IGAE) —el órgano estatal encargado de auditar y controlar internamente las cuentas y el gasto público— **contará con los mismos medios tecnológicos, capacidad de cruce masivo de datos e inteligencia artificial que la Agencia Tributaria.**"
+ },
+ {
+  "id": "d21-0017",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "El mismo control para el político que para el ciudadano"
+  ],
+  "texto": "- Los funcionarios de la IGAE tendrán **los mismos pluses de productividad vinculados a sus objetivos de control y resultados** que tienen los funcionarios de la Agencia Tributaria."
+ },
+ {
+  "id": "d21-0018",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "El mismo control para el político que para el ciudadano"
+  ],
+  "texto": "- Se dotará a los interventores de independencia presupuestaria y herramientas de auditoría en tiempo real **para fiscalizar cada euro gestionado por los cargos públicos con el mismo nivel de exigencia y trazabilidad con el que Hacienda supervisa las cuentas de los ciudadanos.**"
+ },
+ {
+  "id": "d21-0019",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "El mismo control para el político que para el ciudadano"
+  ],
+  "texto": "- Para reforzar la independencia de la IGAE del ciclo político, **el Interventor General del Estado será nombrado por un plazo de seis años, irrevocable y no renovable,** de forma similar al mecanismo utilizado para el nombramiento del Presidente de la Agencia Independiente de Responsabilidad Fiscal (AIReF)."
+ },
+ {
+  "id": "d21-0020",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+  ],
+  "texto": "- **Se doblarán los recursos de la Fiscalía Anticorrupción** para investigar delitos graves de corrupción, incluyendo equipos multidisciplinares de expertos en urbanismo, contratación pública, arquitectos, ingenieros, auditores forenses y analistas de datos."
+ },
+ {
+  "id": "d21-0021",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+  ],
+  "texto": "- **Se apoyará a la Fiscalía Anticorrupción con una Oficina Anticorrupción que se centrará en la prevención de la corrupción** con poder de inspección de los mecanismos anticorrupción de empresas y partidos políticos. Tendrá poder sancionador de hasta el **10% del volumen total de negocios de la empresa sancionada por corrupción** y del **10% del volumen total de ingresos del partido político sancionado.**"
+ },
+ {
+  "id": "d21-0022",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+  ],
+  "texto": "- **La lucha contra la corrupción se financiará con el dinero de los corruptos.** El 100% de los fondos, bienes y activos financieros recuperados mediante sentencias por delitos de corrupción y sanciones de la Oficina Anticorrupción se destinará directamente a la dotación de medios para los organismos de lucha contra la corrupción."
+ },
+ {
+  "id": "d21-0023",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Los corruptos no tendrán refugio"
+  ],
+  "texto": "- **Camuflar la corrupción será delito**: todo cargo público que, conociendo que se ha incurrido en corrupción por parte de terceros, no la denuncie inmediatamente, tendrá responsabilidad penal. Igualmente, se tipificará la responsabilidad penal de todo cargo público que sabiendo, o habiendo podido razonablemente saber, que ha habido manipulación de la contratación en las decisiones o adjudicación de contratos en las que participe (o bajo su responsabilidad), no la haya denunciado inmediatamente."
+ },
+ {
+  "id": "d21-0024",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Los corruptos no tendrán refugio"
+  ],
+  "texto": "- **Se implantará un sistema integral de control de toda la contratación pública basado en IA** que garantice la objetividad, la trazabilidad y la detección de irregularidades en tiempo real. Todos los contratos, **incluidos los contratos menores**, estarán sujetos a supervisión automática, publicación accesible y revisión independiente."
+ },
+ {
+  "id": "d21-0025",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Los partidos políticos no saldrán impunes"
+  ],
+  "texto": "- **Los partidos responderán siempre -civilmente y de forma subsidiaria-** por los delitos de corrupción cometidos por sus dirigentes en el ejercicio de funciones públicas o partidarias, excepto cuando se pueda probar que el partido tenía los estándares más altos de prevención de la corrupción, auditados independientemente de forma anual."
+ },
+ {
+  "id": "d21-0026",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Los partidos políticos no saldrán impunes"
+  ],
+  "texto": "- **Se suspenderá la financiación pública de un partido político** cuando el partido o sus principales dirigentes (presidente, secretario general, tesorero o equivalentes) estén formalmente investigados por delitos de corrupción, malversación o financiación ilegal. Solo se reactivará si el partido implanta mecanismos de cumplimiento verificados por el Tribunal de Cuentas de forma pública y transparente."
+ },
+ {
+  "id": "d21-0027",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Quien robe a lo público, no volverá nunca a lo público"
+  ],
+  "texto": "- **Los delitos relacionados con la corrupción no prescribirán.**"
+ },
+ {
+  "id": "d21-0028",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Cortar de raíz la corrupción",
+   "Quien robe a lo público, no volverá nunca a lo público"
+  ],
+  "texto": "- Cualquier político condenado por sentencia firme por delitos de corrupción, malversación, tráfico de influencias o desviación de fondos públicos **será inelegible e inhabilitado de por vida para cualquier cargo público.**"
+ },
+ {
+  "id": "d21-0029",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más repartos de sillones"
+  ],
+  "texto": "_El reparto de los puestos en las instituciones como si fueran cromos por parte de los partidos ha hecho que más de la mitad de los españoles desconfíe de la independencia de las instituciones; entre ellas la justicia. En la democracia del siglo 21 solo caben instituciones independientes, meritocráticas e inalcanzables para la injerencia partidista._"
+ },
+ {
+  "id": "d21-0030",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más repartos de sillones",
+   "Un Consejo General del Poder Judicial despolitizado"
+  ],
+  "texto": "- **Se cortará de raíz la politización del Consejo General del Poder Judicial (CGPJ)**: los vocales judiciales se elegirán por los jueces, sin intervención alguna de las asociaciones judiciales, como requiere el Consejo de Europa. Los vocales no judiciales tendrán que comparecer públicamente en el Congreso antes de ser votados. No se podrá nombrar a ningún vocal no judicial que tenga un conflicto de interés directo o indirecto."
+ },
+ {
+  "id": "d21-0031",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más repartos de sillones",
+   "Una Fiscalía independiente"
+  ],
+  "texto": "- **Se garantizará la independencia de la Fiscalía** modificando el sistema de elección del Fiscal General del Estado: el Congreso (por mayoría de 3/5) elegirá una terna y el Gobierno elegirá al Fiscal General entre esa terna, previo informe del CGPJ. Se revisará el periodo del mandato del Fiscal General para que no coincida con el mandato electoral del Gobierno."
+ },
+ {
+  "id": "d21-0032",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más repartos de sillones",
+   "Unos organismos de control independientes"
+  ],
+  "texto": "- **Todos los representantes de todos los organismos independientes se nombrarán siguiendo procedimientos abiertos**, con comparecencia pública en el Congreso y mayoría reforzada de tres quintos. Si el Congreso bloquea los nombramientos durante más de tres meses, se someterán a sorteo entre todos los elegibles. Y se reformará la duración de los mandatos de todos los organismos independientes para que no coincidan con los periodos de cambio de legislatura."
+ },
+ {
+  "id": "d21-0033",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "No más repartos de sillones",
+   "Unos organismos de control independientes"
+  ],
+  "texto": "- **En los organismos independientes no habrá ningún político**: se prohibirán todos los nombramientos de personas con carrera política en los 10 años anteriores a su nombramiento en todos los organismos independientes. Los fiscales y jueces no podrán haber ejercido ningún cargo político en los últimos 20 años. Y los miembros del Consejo General del Poder Judicial, el Tribunal Constitucional, el Tribunal Supremo, el Fiscal General del Estado y el Fiscal Jefe Anticorrupción no podrán haber ejercido ningún cargo político."
+ },
+ {
+  "id": "d21-0034",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Punto y final a los aforamientos"
+  ],
+  "texto": "_Más de 250.000 cargos y autoridades disfrutan hoy en España de un fuero judicial especial. Ninguna democracia europea consiente semejante red de privilegios procesales que quiebra la igualdad ante la justicia._"
+ },
+ {
+  "id": "d21-0035",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Punto y final a los aforamientos",
+   "Todos fuera"
+  ],
+  "texto": "- **Se eliminarán todos los aforamientos que no estén expresamente contemplados en la Constitución de forma inmediata** por vía de reforma de la Ley Orgánica del Poder Judicial (art 56, 57 y 73) y normativas conexas."
+ },
+ {
+  "id": "d21-0036",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Punto y final a los aforamientos",
+   "Todos fuera"
+  ],
+  "texto": "- Se hará una reforma quirúrgica de la Constitución para:\n - eliminar **todos** los aforamientos de Diputados y Senadores (art 71); y\n - limitar el aforamiento de los miembros de Gobierno (art. 102) exclusivamente para las acciones penales, en el ejercicio de las funciones propias del cargo y sin carácter retroactivo."
+ },
+ {
+  "id": "d21-0037",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano"
+  ],
+  "texto": "_El 75% de los españoles afirma que los partidos no se preocupan de lo que piensan los ciudadanos. Los políticos se han acostumbrado a pedir el voto cada cuatro años y darnos la espalda el resto de la legislatura. La política debe estar siempre al servicio de los ciudadanos._"
+ },
+ {
+  "id": "d21-0038",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Escuchar será obligatorio"
+  ],
+  "texto": "- **Los Diputados y Senadores tendrán la obligación de dedicar una jornada a reuniones abiertas con ciudadanos en su circunscripción al menos una vez cada dos semanas.** Se creará un registro público de reuniones donde consten las fechas y asistentes, garantizando la transparencia. Y se reformarán los Reglamentos del Congreso y del Senado para incluir sanciones monetarias cada vez que falten a esa obligación."
+ },
+ {
+  "id": "d21-0039",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Escuchar será obligatorio"
+  ],
+  "texto": "- El Presidente del Gobierno se someterá anualmente a una **Asamblea de ‘Cara a Cara con la Ciudadanía’**, elegida por sorteo y representativa de la sociedad, con garantías de independencia e indemnización de gastos equivalentes a las de la elección de los jurados populares. El Presidente responderá a preguntas directas sobre decisiones o políticas concretas, planteadas por los propios ciudadanos."
+ },
+ {
+  "id": "d21-0040",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "No más bloqueos"
+  ],
+  "texto": "- Cuando las decisiones políticas en asuntos de orden mayor se bloqueen reiteradamente por los partidos políticos en el Parlamento, **la ciudadanía podrá activar una Asamblea Ciudadana sectorial con la recogida de firmas del 1% del censo electoral en un plazo de 12 meses.** La Asamblea será convocada por la Junta Electoral Central, elegida por sorteo, representativa de la sociedad y con garantías equivalentes a la de un jurado popular. Propondrá en un plazo razonable soluciones alternativas que se someterán a referéndum popular consultivo para que toda la ciudadanía pueda pronunciarse."
+ },
+ {
+  "id": "d21-0041",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Si no trabajan, no cobran"
+  ],
+  "texto": "- **Los Diputados y Senadores no cobrarán su sueldo mensual cuando no hayan asistido a las sesiones plenarias** –y las de las Comisiones en las que participan– excepto si pueden acreditar que ha sido por causa de enfermedad o fuerza mayor. La información sobre las ausencias se hará pública con carácter mensual."
+ },
+ {
+  "id": "d21-0042",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "No habrá Gobierno sin presupuestos"
+  ],
+  "texto": "- **Si el Gobierno incumple su obligación constitucional de presentar los Presupuestos Generales del Estado, se suspenderá el sueldo** de todo el Gobierno hasta que se presenten."
+ },
+ {
+  "id": "d21-0043",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "No habrá Gobierno sin presupuestos"
+  ],
+  "texto": "- El incumplimiento injustificado de la obligación constitucional de presentar presupuestos durante más de un año dará lugar al **cese del Gobierno.**"
+ },
+ {
+  "id": "d21-0044",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Menos promesas, más resultados"
+  ],
+  "texto": "- Las políticas y programas de gasto estarán sujetos a una **evaluación posterior de su eficacia, impacto y coste**. Los resultados serán públicos, accesibles _online_ y se utilizarán para decidir la continuidad, modificación o eliminación de los programas evaluados."
+ },
+ {
+  "id": "d21-0045",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Menos promesas, más resultados"
+  ],
+  "texto": "- **El Presidente del Gobierno presentará cada año ante el Parlamento un balance público y verificable de cumplimiento de objetivos**. Cada Ministerio explicará: qué prometió, qué recursos utilizó, qué resultados obtuvo y qué objetivos fueron cumplidos e incumplidos."
+ },
+ {
+  "id": "d21-0046",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Devolver el poder al ciudadano",
+   "Menos promesas, más resultados"
+  ],
+  "texto": "- Cualquier ciudadano podrá consultar de forma sencilla y en un único **Portal de Evaluación**: los objetivos de cada Ministerio, los recursos presupuestados y efectivamente gastados, el grado de ejecución de cada programa, sus indicadores de cumplimiento, los resultados obtenidos y las evaluaciones independientes realizadas."
+ },
+ {
+  "id": "d21-0047",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Gobernar con ética"
+  ],
+  "texto": "_El 95% de los españoles cree que todos los cargos políticos deben firmar obligatoriamente un código ético. La mejor política anticorrupción es la que evita que llegue siquiera a producirse._"
+ },
+ {
+  "id": "d21-0048",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Gobernar con ética",
+   "Código ético de Gobierno obligatorio"
+  ],
+  "texto": "- **Los cargos políticos cumplirán con la totalidad del Código Ético del Gobierno de España Mejor y Hay Derecho** que establece, entre otros, un sistema preventivo de conflictos de interés, elimina las excepciones a la reglamentación sobre las puertas giratorias, limita el uso de asesores, residencias oficiales, coches, y establece la obligación de no mentir deliberadamente en el Parlamento."
+ },
+ {
+  "id": "d21-0049",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Gobernar con ética",
+   "Código ético de Gobierno obligatorio"
+  ],
+  "texto": "- Se revisará de forma inmediata la Ley de Conflictos de Interés para ampliar los supuestos de conflicto a los requerimientos de la OCDE."
+ },
+ {
+  "id": "d21-0050",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Gobernar con ética",
+   "Código ético de Gobierno obligatorio"
+  ],
+  "texto": "- Se pondrá en marcha una Comisión Ética y un Experto Independiente para monitorizar y asegurar el cumplimiento del Código."
+ },
+ {
+  "id": "d21-0051",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Con dos mandatos basta"
+  ],
+  "texto": "_Dos mandatos son más que suficientes._"
+ },
+ {
+  "id": "d21-0052",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Con dos mandatos basta",
+   "8 años como máximo"
+  ],
+  "texto": "- Se establecerá la **obligación legal** de no ejercer un mismo cargo público durante más de dos mandatos completos o un periodo acumulado superior a ocho años."
+ },
+ {
+  "id": "d21-0053",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Aire fresco en nuestro sistema electoral"
+  ],
+  "texto": "El 94% de los españoles afirma querer cambiar nuestro sistema electoral, con un rechazo visceral a las actuales listas cerradas controladas por los partidos políticos. Una democracia del siglo 21 debe permitir a sus ciudadanos elegir con libertad a sus representantes."
+ },
+ {
+  "id": "d21-0054",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España limpia",
+   "Aire fresco en nuestro sistema electoral",
+   "Adiós listas cerradas, hola listas flexibles"
+  ],
+  "texto": "- Impulsaremos una reforma de la Ley Electoral que permita a los ciudadanos tener **mayor capacidad para decidir qué personas les representan**, reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas."
+ },
+ {
+  "id": "d21-0055",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve"
+  ],
+  "texto": "Imagina un Estado que te avisa antes de que se te pase un plazo, que te paga lo que te corresponde sin que tengas que reclamarlo y que te ayuda a tener un hogar propio. **Nosotros no pensamos que sea un sueño, sino lo mínimo que merece un país como el nuestro: un Estado facilitador, que funcione y que resuelva los problemas de la ciudadanía.**"
+ },
+ {
+  "id": "d21-0056",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve"
+  ],
+  "texto": "Hoy una generación entera ve cómo se le escapa la posibilidad de independizarse, miles de familias no reciben las ayudas a las que tienen derecho y cada trámite se convierte en una carrera de obstáculos. **Los españoles hemos cumplido: ahora le toca cumplir al Estado. Porque la tecnología, los datos y el talento de nuestros profesionales públicos nos permiten construir un Estado que trabaje para ti y no al revés. Y lo vamos a hacer.**\n- Haciendo de la vivienda la prioridad nº1: alivio inmediato hoy y los barrios que faltan para mañana.\n- Con una Administración a 1 clic, sencilla y sin colas, que no deje a nadie atrás.\n- Con un Estado proactivo que te dé lo que te corresponde sin que tengas que pedirlo.\n- Con impuestos justos, estables y que se entiendan.\n- Con menos normas, más claras y sin barreras entre Comunidades.\n- Y con una función pública profesional, independiente y orientada a resultados."
+ },
+ {
+  "id": "d21-0057",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1"
+  ],
+  "texto": "_El problema de la vivienda es la prioridad nº1 de España: una bomba de relojería que amenaza con dinamitar el futuro de nuestro país. El acceso a la vivienda se ha convertido en el mayor problema social y económico de España: los hogares están destinando entre el 40% y el 100% (en el caso de los jóvenes) de sus ingresos al pago de la vivienda, rompiendo proyectos de vida, impidiendo el ahorro y el consumo, e imposibilitando formar una familia. Esta crisis no solo frustra la emancipación de toda una generación (que hoy no puede independizarse antes de los 30 años), sino que fragmenta el país al bloquear la movilidad del talento: miles de profesionales, docentes, sanitarios y estudiantes se ven obligados a renunciar a empleos y oportunidades formativas porque no pueden asumir el coste de un alquiler._"
+ },
+ {
+  "id": "d21-0058",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Alivio hoy. Solución para siempre: plan de choque en 2 fases"
+  ],
+  "texto": "La crisis de la vivienda no puede esperar a que los políticos se pongan de acuerdo dentro de una década. Pero tampoco se soluciona con parches mágicos a corto plazo.\n\nNuestro compromiso es doble: un **Plan de Choque Inmediato** con medidas excepcionales para dar un respiro urgente a los ciudadanos hoy, y un **Plan Nacional de Barrios** a 10 años vista para resolver este problema estructural para siempre."
+ },
+ {
+  "id": "d21-0059",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+  ],
+  "texto": "1. **Pacto de Reconciliación del Alquiler - Limitar Precios y Proteger la Propiedad:** acabaremos con el enfrentamiento polarizante entre inquilinos y propietarios. Aplicaremos una limitación temporal y excepcional de los alquileres para dar un respiro inmediato a las familias y los jóvenes, pero a cambio blindaremos a los pequeños propietarios: el Estado actuará de escudo ante impagos y dará seguridad frente a la inquiokupación. Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables."
+ },
+ {
+  "id": "d21-0060",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+  ],
+  "texto": "2. **10.000 Millones de Fondos Europeos - Reinversión en Vivienda:** nuestros gobiernos (nacional, Comunidades Autónomas y Ayuntamientos) han sido incapaces de ejecutar todos los fondos _Next Generation_ mientras nuestra juventud no puede emanciparse. Realizaremos una auditoría de urgencia y reasignaremos el 100% de los fondos europeos no utilizados o en riesgo de devolución para inyectarlos directamente en un Fondo Público Soberano de construcción de vivienda asequible y protegida."
+ },
+ {
+  "id": "d21-0061",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+  ],
+  "texto": "3. **Cero Impuestos a Menores de 35 Años y Bajada de Impuestos para Todos:** el mayor encarecedor de la vivienda es la propia Administración. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años y los reduciremos para todos (hasta un máximo de 400.000€)."
+ },
+ {
+  "id": "d21-0062",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Fase 2 - Solución para siempre: un plan a 10 años"
+  ],
+  "texto": "4. **Plan Nacional de Barrios (Horizonte - 10 Años):** las medidas de choque ganan tiempo para las familias de hoy, pero el déficit de viviendas para las familias de mañana solo se arregla construyendo. En paralelo a las medidas de urgencia, pondremos en marcha una política industrial de Estado para pasar de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil. Un compromiso a una década vista para aumentar masivamente la oferta de vivienda asequible protegida y recuperar la capacidad productiva del país."
+ },
+ {
+  "id": "d21-0063",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Vivienda, prioridad nº1",
+   "Nuestro plan de vivienda, al detalle"
+  ],
+  "texto": "A continuación, detallamos la hoja de ruta completa de **democracia21** en materia de vivienda: movilizar de inmediato todos los pisos que hoy están vacíos (Fase 1) y recuperar la capacidad industrial del país para construir los barrios que faltan (Fase 2)."
+ },
+ {
+  "id": "d21-0064",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional"
+  ],
+  "texto": "Objetivo: Movilizar de forma inmediata toda la vivienda que ya existe."
+ },
+ {
+  "id": "d21-0065",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Pacto de reconciliación del alquiler: limitar precios condicionado a proteger la propiedad"
+  ],
+  "texto": "- **Limitación Temporal de Alquileres:** aplicaremos una limitación general y temporal de los alquileres en zonas tensionadas utilizando el Sistema Estatal de Referencia del Precio del Alquiler de Vivienda (SERPAVI). **Esta tregua de precios tendrá un carácter estrictamente excepcional y transitorio**: se irá levantando de forma gradual a medida que el Plan Nacional de Barrios a 10 años incremente la oferta disponible y los indicadores de precios del mercado se estabilicen, dando un respiro inmediato a las familias y jóvenes mientras la nueva vivienda asequible se construye."
+ },
+ {
+  "id": "d21-0066",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Pacto de reconciliación del alquiler: limitar precios condicionado a proteger la propiedad"
+  ],
+  "texto": "- **Justicia Especializada en 90 Días y Fin a la Inquiokupación:** la lentitud judicial es el mayor enemigo del alquiler. Crearemos un **Servicio de Mediación de Arrendamientos** gratuito y vinculante (resolución máxima en 30 días) y **Juzgados Especializados de Arrendamientos** que garanticen una resolución firme en un plazo adicional de 60 días. En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal."
+ },
+ {
+  "id": "d21-0067",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Pacto de reconciliación del alquiler: limitar precios condicionado a proteger la propiedad"
+  ],
+  "texto": "- **Garantía Pública de Alquiler:** la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el **Servicio Social de Garantía de Arrendamientos**, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata."
+ },
+ {
+  "id": "d21-0068",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Pacto de reconciliación del alquiler: limitar precios condicionado a proteger la propiedad"
+  ],
+  "texto": "- **Vigilancia del Alquiler por Habitaciones y Falsos Contratos Temporales:** acabaremos con el vacío legal que ha propiciado que el alquiler por habitaciones pueda convertirse en un modelo especulativo y de hacinamiento. Incorporaremos esta modalidad a la Ley de Arrendamientos Urbanos (LAU), exigiendo estándares estrictos de habitabilidad y cruzando digitalmente los contratos con el padrón municipal para erradicar los falsos alquileres temporales."
+ },
+ {
+  "id": "d21-0069",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Fondo soberano de vivienda protegida y cero especulación del Estado"
+  ],
+  "texto": "- **10.000 M€ de Fondos Europeos y Nuevo Fondo Público Soberano:** negociaremos de urgencia con Bruselas la reasignación de todos los fondos _Next Generation_ no ejecutados o en riesgo de devolución. Inyectaremos este capital en un nuevo **Fondo Público Soberano de Vivienda** dedicado en exclusiva a la promoción inmobiliaria, abierto a la coinversión de actores privados y capital institucional, garantizando por ley que el producto final financiado por este fondo sea siempre vivienda protegida y asequible."
+ },
+ {
+  "id": "d21-0070",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Fondo soberano de vivienda protegida y cero especulación del Estado"
+  ],
+  "texto": "- **Cero Impuestos en la Compra para Menores de 35 Años:** sacaremos al Estado de la ecuación especulativa de la vivienda. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años (hasta un máximo de 400.000€)."
+ },
+ {
+  "id": "d21-0071",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Fondo soberano de vivienda protegida y cero especulación del Estado"
+  ],
+  "texto": "- **Rebaja Excepcional de Impuestos en la Compra de Vivienda Habitual:** la asfixia fiscal no termina a los 35 años. Para facilitar el acceso a la propiedad de todas las familias y fomentar la rotación del mercado, reduciremos el ITP a un tipo único del 2%, el AJD al 0% y ampliaremos la aplicación del IVA superreducido al 4% a la compra de vivienda que se destine a residencia habitual (hasta un tope de 400.000€)."
+ },
+ {
+  "id": "d21-0072",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Movilización masiva de viviendas vacías"
+  ],
+  "texto": "- **Alivio Fiscal para el Alquiler Asequible:** alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler. La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda."
+ },
+ {
+  "id": "d21-0073",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Movilización masiva de viviendas vacías"
+  ],
+  "texto": "- **Rehabilitación a Cambio de Usufructo Temporal:** para movilizar las decenas de miles de viviendas antiguas o en mal estado cuyos dueños no pueden costear una reforma, la Administración tutelará y avalará acuerdos de usufructo temporal con plena seguridad jurídica. Bajo esta garantía pública, empresas rehabilitadoras del sector privado o empresas municipales de vivienda asumirán la reforma integral del inmueble a cambio de explotarlo en alquiler asequible por un tiempo pactado, devolviéndolo completamente renovado a su propietario al término del acuerdo."
+ },
+ {
+  "id": "d21-0074",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Recargo para no residentes y competencia justa en vivienda turística"
+  ],
+  "texto": "- **Recargo para Compradores No Residentes:** en línea con los países más avanzados de la OCDE, aplicaremos un recargo mínimo en los impuestos del 10% (que las Comunidades Autónomas podrán elevar hasta el 25%) a la compra de vivienda no habitual por parte de inversores extracomunitarios. Frenaremos así la especulación internacional que puede contribuir a inflar los precios y expulsar a los ciudadanos de sus propios barrios."
+ },
+ {
+  "id": "d21-0075",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+   "Recargo para no residentes y competencia justa en vivienda turística"
+  ],
+  "texto": "- **Equiparación Fiscal del Alquiler Turístico:** frenaremos la fuga de viviendas residenciales hacia el mercado vacacional igualando las reglas del juego. Aplicaremos el IVA general del 10% a los alquileres turísticos de corta estancia (asimilándolos a la actividad hotelera), protegiendo el modelo de barrio."
+ },
+ {
+  "id": "d21-0076",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)"
+  ],
+  "texto": "Objetivo: Construir a escala industrial toda la vivienda asequible que España necesita.\n\nEl déficit estructural de vivienda no se soluciona prometiendo casas en campaña como si fuera una tómbola. Quienes hoy prometen cientos de miles de viviendas son los mismos que durante años han asfixiado el urbanismo con un tsunami de burocracia, han encarecido los costes con normas irracionales y han utilizado las licencias para engrosar las arcas municipales en lugar de para crear hogares. España no merece más promesas de última hora: nuestro país necesita una verdadera Política de Vivienda con mayúsculas, transversal y sostenida en el tiempo. Por eso vamos a impulsar un Plan Nacional de Barrios: un acuerdo a diez años vista que implica a todas las administraciones para dejar de levantar edificios aislados y empezar a construir a escala industrial los barrios completos que nuestras nuevas generaciones necesitan."
+ },
+ {
+  "id": "d21-0077",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Construir barrios, no bloques de hormigón"
+  ],
+  "texto": "- **Colaboración Público-Privada a Escala Industrial:** pasaremos de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil. El Estado, las Comunidades Autónomas y los Ayuntamientos aportarán el suelo público mediante concesiones o derechos de superficie a 75 años (garantizando que el suelo y las viviendas sigan siendo 100% públicas al final del periodo). Sumaremos toda la capacidad productiva del país: tanto las empresas públicas de vivienda como el sector privado —respaldados por el nuevo Fondo Soberano de Vivienda y capital institucional— diseñarán, construirán y gestionarán el parque de vivienda asequible."
+ },
+ {
+  "id": "d21-0078",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Construir barrios, no bloques de hormigón"
+  ],
+  "texto": "- **Barrios Completos y Política Industrial a 10 Años:** construiremos ecosistemas urbanos completos. Los nuevos desarrollos integrarán transporte público, colegios, centros de salud, zonas verdes y actividad comercial. Para lograr impulsar la actividad productiva, garantizaremos una demanda pública estable durante una década, lo que permitirá a las empresas constructoras invertir en prefabricación, innovación tecnológica e industrialización de los procesos, y así multiplicar la productividad, abaratar costes y generar empleo de alta cualificación."
+ },
+ {
+  "id": "d21-0079",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Construir barrios, no bloques de hormigón"
+  ],
+  "texto": "- **IVA Superreducido al 4% para la Construcción de Vivienda Asequible:** no podemos exigir precios asequibles si el Estado cobra impuestos de lujo por construir. Rebajaremos el IVA del 10% al tipo superreducido del 4% para todas las obras de nueva construcción o rehabilitación integral que se destinen a vivienda asequible y reduciremos otros impuestos como tasas municipales, ICIOs y plusvalías."
+ },
+ {
+  "id": "d21-0080",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Responsabilidad municipal vinculante: no más excusas"
+  ],
+  "texto": "- **Obligación de Cumplimiento y Subrogación Autonómica:** la ciudadanía no puede seguir esperando ni un solo día más mientras las administraciones se pasan la pelota de la crisis de la vivienda. Los Ayuntamientos, siendo la administración más cercana al ciudadano, liderarán la detección de necesidades y la ejecución del Plan en su territorio. El Estado y las Comunidades Autónomas les proporcionarán el paraguas normativo y la financiación, pero a cambio se exigirán resultados. Si un Ayuntamiento retiene bolsas de suelo público de forma injustificada, paraliza proyectos, bloquea licencias o incumple sus objetivos de vivienda asequible, **su competencia urbanística será subrogada de forma automática e inmediata por su Comunidad Autónoma**, que asumirá el control para garantizar la construcción."
+ },
+ {
+  "id": "d21-0081",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Responsabilidad municipal vinculante: no más excusas"
+  ],
+  "texto": "- **Licencias de Obra Mayor en 30 Días y Oficinas Centrales de Urbanismo:** los Ayuntamientos tendrán un plazo máximo e improrrogable de 30 días para revisar solicitudes de licencias de obra mayor. Si incumplen el plazo, el expediente pasará automáticamente a unas nuevas **Oficina Centrales Autonómicas de Urbanismo**, que resolverán en 30 días adicionales y cobrarán al propio Ayuntamiento una tasa de penalización por haber tenido que asumir su trabajo."
+ },
+ {
+  "id": "d21-0082",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Responsabilidad municipal vinculante: no más excusas"
+  ],
+  "texto": "- **Supresión de Licencias para Obra Menor:** para descongestionar a los técnicos municipales y que se centren en los grandes desarrollos, eliminaremos la exigencia de licencia previa para obras menores que no requieran proyecto arquitectónico. Bastará con una declaración responsable 100% digital, manteniendo la exigencia de que los trabajos especializados (electricidad, gas…) sean ejecutados siempre por profesionales certificados y sujetos a una posible comprobación posterior."
+ },
+ {
+  "id": "d21-0083",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Fin de la parálisis urbanística y desbloqueo de suelo"
+  ],
+  "texto": "- **Ley Urgente de Desbloqueo Urbanístico y Reforma de la Ley del Suelo:** modificaremos de urgencia la legislación estatal para acabar con la inseguridad jurídica que paraliza ciudades enteras. Evitaremos que un simple defecto formal o subsanable provoque la nulidad de todo un Plan General de Ordenación Urbana (PGOU). Aprobaremos un régimen de \"Burocracia Exprés\" con silencio administrativo positivo de 3 meses para autorizaciones sectoriales (aguas, carreteras, medio ambiente) y reduciremos los plazos de litigiosidad en los tribunales para evitar que proyectos vitales queden paralizados durante años."
+ },
+ {
+  "id": "d21-0084",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Fin de la parálisis urbanística y desbloqueo de suelo"
+  ],
+  "texto": "- **Desbloqueo de Suelo Público Retenido e Incentivos al Sector Privado:** la Administración es hoy el mayor tenedor de suelo inactivo del país. Obligaremos por ley a todos los Ayuntamientos, Comunidades, Ministerios y empresas públicas (con especial foco en Defensa, Carreteras, ADIF…) a auditar y liberar de forma inmediata sus reservas de suelo público y dotacional paralizado, agilizando su recalificación y desarrollo urbanístico para cederlo en derecho de superficie al Plan Nacional de Barrios. En paralelo, los Ayuntamientos movilizarán el suelo privado impulsando la figura del agente urbanizador para propiciar su desarrollo. También aprobaremos bonificaciones en la plusvalía municipal y reducciones en el IBI para los propietarios que activen sus parcelas para vivienda asequible, y flexibilizaremos la normativa para transformar oficinas o locales vacíos en nuevos hogares."
+ },
+ {
+  "id": "d21-0085",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Fase 2 – Plan Nacional de Barrios (10 años)",
+   "Fin de la parálisis urbanística y desbloqueo de suelo"
+  ],
+  "texto": "- **Portal Nacional de Trazabilidad Urbanística:** la transparencia es el mejor escudo contra el clientelismo y la ineficacia. Crearemos una plataforma digital pública donde cualquier ciudadano, promotor o cooperativa podrá auditar en tiempo real la situación legal exacta, el estado de las licencias y los cuellos de botella de cualquier desarrollo urbanístico en España, incluyendo un canal de denuncia directa contra bloqueos injustificados o casos sospechosos de corrupción urbanística."
+ },
+ {
+  "id": "d21-0086",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida"
+  ],
+  "texto": "Los ciudadanos seguimos moviendo papeles de una administración a otra en un laberinto burocrático que nos cuesta decenas de horas al año –más de 200 en el caso de los autónomos– e incluso nos cuesta a las familias de media más de 4.000€ anuales en costes indirectos y tiempo perdido. Por suerte, la tecnología ahora nos permite construir (¡y en muy poco tiempo!) un Estado inteligente y descentralizado que trabaje para las personas, donde la Administración actúe como un ente a tu servicio, sin colas, sin papeles redundantes y con eficacia."
+ },
+ {
+  "id": "d21-0087",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "La Autopista Digital española"
+  ],
+  "texto": "- Pondremos en marcha en **una sola legislatura** una infraestructura digital de vanguardia que transformará nuestro actual Estado obstaculizador en un Estado facilitador. Partiendo de la infraestructura y herramientas que ya existen (Carpeta Ciudadana, Cl@ve y la app MiDNI) e integrándolo con la Cartera Europea de Identidad Digital prevista en el Reglamento eIDAS2, a través de una interfaz única, simple e intuitiva, cualquier persona accederá al instante a su historial médico, educativo o fiscal, y podrá gestionar trámites, solicitar servicios o hacer la declaración de la renta **desde su móvil, en minutos, viva donde viva.** Publicaremos un calendario con hitos anuales verificables para que la ciudadanía pueda seguir su despliegue."
+ },
+ {
+  "id": "d21-0088",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "La Autopista Digital española"
+  ],
+  "texto": "- **Nuestro modelo de Comunidades Autónomas es una fortaleza arquitectónica ideal** para activar una red digital integral que transformará nuestra descentralización en una red interconectada y más cibersegura. Cada comunidad autónoma, ayuntamiento y ministerio mantendrá intacta la soberanía y custodia de sus datos, pero el ciudadano experimentará la Administración como un ente único y a su entero servicio. Para ello aprobaremos una Ley de Interoperabilidad que haga obligatorios estándares técnicos comunes, desarrollando y perfeccionando las previsiones del Esquema Nacional de Interoperabilidad y creando un órgano de gobernanza digital en el que participen Estado, Comunidades Autónomas y Entidades Locales, se vinculará la financiación estatal de proyectos digitales a su cumplimiento."
+ },
+ {
+  "id": "d21-0089",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "La Autopista Digital española"
+  ],
+  "texto": "- Esta **nueva Administración proactiva** avisará y gestionará automáticamente los derechos del ciudadano (becas, ayudas, deducciones o programas de formación) y le notificará con antelación de sus obligaciones (plazos, trámites o pagos). Toda actuación automatizada contará con garantías: identificación del órgano responsable, explicación comprensible de la decisión, derecho a solicitar revisión por una persona y a recurrir, evaluaciones de impacto previas y un registro público de los algoritmos utilizados por la Administración."
+ },
+ {
+  "id": "d21-0090",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "La Autopista Digital española"
+  ],
+  "texto": "- **Cumplir Por Fin el Principio de “Una Sola Vez”:** esta Autopista Digital garantizará por fin el cumplimiento real de la Ley 39/2015, que ya reconoce este derecho pero no se aplica de forma efectiva: que ninguna Administración vuelva a solicitar un dato o documento que ya obre en poder del sector público. Si un organismo exige un documento que ya posee el Estado, la responsabilidad de localizarlo recaerá automática y exclusivamente sobre la Administración, sin que esto paralice los plazos del expediente ni perjudique en ningún caso la resolución a favor del ciudadano. Conectaremos este sistema con la plataforma europea “once-only”, de modo que tampoco haya que aportar de nuevo documentos ya emitidos en otro Estado miembro, y publicaremos indicadores de cumplimiento por organismo."
+ },
+ {
+  "id": "d21-0091",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "Nadie se quedará atrás"
+  ],
+  "texto": "- **Servicios Presenciales Sin Colas Ni Retrasos:** se mantendrán los servicios presenciales para quienes no puedan o no deseen usar la vía digital, garantizando de forma efectiva el derecho, ya reconocido en la Ley 39/2015, a relacionarse con la Administración por medios no electrónicos, asegurando la atención presencial sin cita previa obligatoria y con tiempos máximos de espera. Se activará una **Red de Asistencia Digital** con personal público cualificado que ofrecerá soporte físico y personalizado en las bibliotecas municipales de todo el país, complementada con una línea telefónica gratuita de ayuda instantánea. Todos los servicios digitales cumplirán los requisitos de accesibilidad, se simplificará el apoderamiento para que familiares o personas de confianza puedan realizar trámites en nombre de otros, y se desarrollarán programas de capacitación digital dirigidos a personas mayores y al medio rural."
+ },
+ {
+  "id": "d21-0092",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "El Estado cumplirá con su palabra"
+  ],
+  "texto": "- **Cumplimiento Real de los Plazos y Compensación Económica por Retraso:** la falta de agilidad de la Administración tendrá consecuencias reales. Si la Administración incumple el plazo tasado para la resolución de un trámite, se compensará económicamente al ciudadano por el perjuicio y la pérdida de tiempo ocasionados, conforme a un baremo público y sin necesidad de iniciar un procedimiento de reclamación. Esta medida se implantará primero en los trámites de mayor volumen, con dotación presupuestaria específica, y se reforzará el silencio administrativo positivo."
+ },
+ {
+  "id": "d21-0093",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "Ciberseguridad y protección digital para todos los ciudadanos"
+  ],
+  "texto": "- **Mando Único Civil de Ciberseguridad:** frente al aumento exponencial de ciberataques que amenazan a empresas e instituciones públicas, crearemos la Agencia Nacional de Ciberseguridad Independiente (ANCI), con estatuto de autoridad administrativa independiente. Esta agencia unificará las competencias civiles hoy dispersas (INCIBE, CCN, CNPIC), liderando la protección de administraciones y empresas, y actuará como autoridad competente y punto de contacto único en aplicación de la Directiva europea NIS2. Al mismo tiempo, segregaremos las funciones de ciberseguridad civil del CNI, permitiendo que la inteligencia nacional se concentre exclusivamente en cuestiones vinculadas al espionaje y amenazas geopolíticas (APT). La ANCI mantendrá mecanismos de coordinación permanente con Defensa, Interior y las agencias autonómicas de ciberseguridad, y la integración de organismos se hará de forma ordenada, garantizando la continuidad de servicios y de su personal."
+ },
+ {
+  "id": "d21-0094",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "Ciberseguridad y protección digital para todos los ciudadanos"
+  ],
+  "texto": "- **Soberanía Tecnológica y Repositorio Abierto:** para optimizar el gasto público y reducir la dependencia crónica de grandes consultoras externas, crearemos el Repositorio Nacional de Ciberseguridad Abierta, aprovechando el Centro de Transferencia de Tecnología y las herramientas ya desarrolladas por el CCN-CERT. A partir de ahora, las herramientas de defensa digital y el software financiados con dinero público se desarrollarán bajo licencias abiertas por defecto, salvo excepciones motivadas por razones de seguridad. Esto permitirá que cualquier ayuntamiento, universidad, Comunidad Autónoma o PYME pueda reutilizar la mejor tecnología de protección disponible de forma ágil, compartiendo defensas en lugar de pagar dos veces por lo mismo."
+ },
+ {
+  "id": "d21-0095",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "Ciberseguridad y protección digital para todos los ciudadanos"
+  ],
+  "texto": "- **Transparencia Sobre Tus Datos:** cada ciudadano tendrá acceso a un registro transparente en tiempo real donde podrá verificar qué organismo, persona o unidad administrativa ha accedido a sus datos, cuándo lo ha hecho y con qué justificación legal. Cuando el acceso se produzca en el marco de investigaciones tributarias, policiales o judiciales, la información se mostrará una vez concluidas, y cualquier acceso injustificado podrá denunciarse directamente ante la Agencia Española de Protección de Datos."
+ },
+ {
+  "id": "d21-0096",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Una Administración moderna y digital que te facilite la vida",
+   "Ciberseguridad y protección digital para todos los ciudadanos"
+  ],
+  "texto": "- **Garantía de Protección de Tus Datos:** para garantizar que se apliquen medidas reales de ciberseguridad y protección digital, dotaremos a todas las administraciones (estatales, autonómicas y locales) de medios técnicos compartidos a través de las diputaciones y de centros de operaciones de ciberseguridad, con un periodo de adaptación suficiente."
+ },
+ {
+  "id": "d21-0097",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo"
+  ],
+  "texto": "El mayor fracaso del Estado de Bienestar en España no es la falta de recursos, sino la barrera burocrática que separa a los ciudadanos de sus propios derechos. Más de la mitad de los hogares con derecho al Ingreso Mínimo Vital no llega a solicitarlo, y siete de cada diez familias que cumplen los requisitos para recibir ayuda por sus hijos no reciben ninguna. Ante catástrofes naturales, hemos visto que la respuesta pública llega demasiado tarde, fragmentada y sepultada en trámites asfixiantes. El Estado ya dispone de nuestros datos y su deber es ponerlos directamente al servicio inmediato y automático de las personas."
+ },
+ {
+  "id": "d21-0098",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Un Estado al servicio del ciudadano"
+  ],
+  "texto": "- **Ayudas Que Funcionen:** el Estado dejará de esperar a que el ciudadano descubra, solicite y justifique los derechos que legalmente le corresponden. Una Ley de Administración Proactiva reconocerá el derecho a no tener que pedir lo que ya te corresponde, y fijará qué prestaciones se conceden de oficio, qué datos se cruzan, con qué finalidad exclusiva y cómo puede cada persona oponerse o corregir sus datos. Mediante el cruce inteligente de datos públicos, la Administración resolverá de oficio y **concederá automáticamente prestaciones y deducciones, notificando directamente al ciudadano en su teléfono móvil** o por correo postal si así lo prefiere.\nCuando falte algún dato, recibirá una propuesta ya calculada que podrá aceptar con un clic o en persona a través de la administración competente, garantizando la atención con o sin cita previa. Así funcionará, por ejemplo, en la asignación directa de becas de estudio (cruzando renta y expediente académico sin formularios) o en el caso de un nacimiento (activando al instante deducciones en IRPF o prestaciones familiares de forma automática al registrar al recién nacido, como ya recomienda la AIReF)."
+ },
+ {
+  "id": "d21-0099",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Un Estado al servicio del ciudadano"
+  ],
+  "texto": "- **Red Inteligente de Alerta Social:** desplegaremos un sistema público de alerta prioritaria que cruzará datos de empleo, ingresos fiscales y Seguridad Social para detectar de forma temprana a los hogares en situación de exclusión o pobreza infantil. Esos datos solo podrán usarse para ofrecer ayudas, nunca para sancionar ni para controlar el fraude, y el sistema estará sujeto a la supervisión de la Agencia Española de Protección de Datos. En lugar de exigir a familias vulnerables que naveguen por la burocracia, a través de los servicios sociales la Administración se pondrá en contacto proactivamente con ellas para tramitar de oficio el Ingreso Mínimo Vital (IMV), el Complemento de Ayuda para la Infancia (CAPI) u otras prestaciones sociales esenciales."
+ },
+ {
+  "id": "d21-0100",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Plataforma estatal de gestión de ayudas ante catástrofes"
+  ],
+  "texto": "- **Gestión Proactiva y Liquidez en Máximo 72 horas:** crearemos una plataforma unificada que combinará los datos de todas las administraciones y organismos públicos, incluido el Consorcio de Compensación de Seguros, y que se activará de oficio. Se aplicará el principio de generosidad y presunción de buena fe inicial para entregar liquidez inmediata: los pagos de urgencia de hasta 1.000€ se realizarán por transferencia inmediata a la cuenta que ya conste en Hacienda o la Seguridad Social (o por Bizum, si el ciudadano lo prefiere; y mediante tarjeta prepago o en los puntos de atención para quien no tenga cuenta bancaria) y el resto de las cuantías mediante transferencia bancaria en un plazo máximo de 72 horas fijado por ley. El primer pago alcanzará también a autónomos y pequeños negocios afectados, para que puedan reabrir cuanto antes, garantizando además puntos móviles de atención presencial en zonas sin conectividad.\nPara la concesión de mayores ayudas, **se evaluarán los daños materiales en el menor tiempo posible** mediante imágenes satelitales (empleando para ello el sistema Copernicus), drones, datos del Catastro o la DGT, e información e imágenes proporcionadas por los propios afectados a través de sus teléfonos móviles, con un mapa de afectación disponible en 24 horas que determine quién recibe el primer pago sin pedirlo. Todo el proceso estará monitorizado a través de un Portal Público de Transparencia que garantice la máxima trazabilidad del dinero público, mostrando para cada municipio cuánto se ha prometido, cuánto se ha pagado y a cuántas personas, y permitiendo a los ciudadanos ampliar posteriormente las declaraciones de daños no detectados. Si un pago resulta indebido por error de la Administración, se reclamará sin recargos y a plazos; si el error es de un ciudadano de buena fe, la devolución será sin recargos ni sanción."
+ },
+ {
+  "id": "d21-0101",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Plataforma estatal de gestión de ayudas ante catástrofes"
+  ],
+  "texto": "- **Reconstrucción Sin Cuellos de Botella:** crearemos una unidad estatal de apoyo técnico a los ayuntamientos afectados, que asumirá proyectos, contratación y ejecución de obras cuando lo soliciten, porque es ahí donde hoy se atasca la reconstrucción. Ofreceremos este modelo como parte operativa de un acuerdo de país frente a la emergencia climática, con ayudas diseñadas por ley antes de que ocurra la próxima catástrofe."
+ },
+ {
+  "id": "d21-0102",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Un Estado innovador y con algoritmos transparentes"
+  ],
+  "texto": "- **Capacidades Públicas y Compra Innovadora:** reforzaremos los equipos tecnológicos propios de la Administración para no depender de consultoras ni de un único proveedor. El Estado no se limitará a comprar tecnología: la impulsará para que startups, PYMES y centros de investigación españoles desarrollen soluciones como la evaluación de daños por satélite o los sistemas de alerta temprana. Y lo que se financie con dinero público será reutilizable por todas las administraciones, con retorno para el contribuyente."
+ },
+ {
+  "id": "d21-0103",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+   "Un Estado innovador y con algoritmos transparentes"
+  ],
+  "texto": "- **Inteligencia Artificial y Algoritmos con Garantías:** todo algoritmo público que decida sobre derechos se inscribirá en un registro público, con su finalidad, los datos que usa y sus resultados, y con código abierto por defecto en línea con la sentencia BOSCO del Tribunal Supremo, para que ningún ciudadano tenga que litigar para conocerlo. Cada sistema contará con evaluación de impacto sobre derechos fundamentales y auditorías independientes bajo la supervisión de la Agencia Española de Supervisión de la Inteligencia Artificial (AESIA), y cumplirá el Reglamento Europeo de IA. Publicaremos cada año un informe de errores con cuántas ayudas se han concedido, denegado o revisado y con qué tasa de error. Ninguna denegación la decidirá solo una máquina: siempre la revisará una persona."
+ },
+ {
+  "id": "d21-0104",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan"
+  ],
+  "texto": "Los impuestos son la columna vertebral del Estado de Bienestar. Pero hoy nuestro sistema fiscal es difícil de entender, cambia sin avisar, trata igual al ciudadano que se equivoca en una casilla que a quien defrauda a sabiendas y pierde terreno frente a Europa: España ha caído del puesto 29 al 34 de los 38 países de la OCDE en competitividad fiscal. La buena noticia es que no hace falta subir ni bajar impuestos para hacerlo mucho mejor: basta con un sistema progresivo, transparente, neutral y sencillo, que trate con respeto a quien cumple y concentre toda su fuerza en quien hace trampas. Pagar lo que es justo y entender lo que pagas."
+ },
+ {
+  "id": "d21-0105",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Entender lo que pagas"
+  ],
+  "texto": "- **El Recibo del Contribuyente:** la gran pregunta de cualquier contribuyente sigue sin respuesta: ¿a dónde va mi dinero? Cada año, cada ciudadano recibirá en su móvil un desglose digital e interactivo de lo que ha aportado (IRPF, cotizaciones sociales e IVA estimado) y de su destino: \"De sus 8.000€, 2.800€ financiaron Sanidad, 1.200€ Educación…\". Incluirá encuestas rápidas para que la ciudadanía valore y audite en tiempo real los servicios que paga."
+ },
+ {
+  "id": "d21-0106",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Entender lo que pagas"
+  ],
+  "texto": "- **La Renta en un Clic:** Hacienda ya conoce la mayoría de nuestros datos, pero seguimos revisando casillas, pagando gestorías por declaraciones sencillas y perdiendo deducciones por no conocerlas. Para quienes tengan rentas sencillas, Hacienda preparará y presentará la declaración completa: si pasado el plazo no cambias nada, está hecha. Aplicará de oficio todas las deducciones estatales y autonómicas que te correspondan cruzando los datos que ya tienen las administraciones, y toda carta de Hacienda empezará con una frase clara: qué ocurre, qué tienes que hacer y en qué plazo. Y un asistente oficial, disponible las 24 horas, resolverá tus dudas en lenguaje claro: si te lo dijo Hacienda, vale, y quien siga sus respuestas no podrá ser sancionado."
+ },
+ {
+  "id": "d21-0107",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Entender lo que pagas"
+  ],
+  "texto": "- **Derecho a Equivocarnos:** no se puede castigar con la misma dureza a un ciudadano que se equivoca en una casilla que a quien defrauda a sabiendas. Modificaremos la Ley General Tributaria para reconocer el Derecho al Error: si no hay mala fe ni intención de enriquecerse ilícitamente, la Administración ofrecerá un periodo de corrección guiada, sin sanciones."
+ },
+ {
+  "id": "d21-0108",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Pagar lo que es justo"
+  ],
+  "texto": "- **Que la Inflación No Suba tus Impuestos:** si tu sueldo sube solo para seguir el ritmo de los precios, hoy puedes saltar de tramo en el IRPF y pagar más aunque no seas más rico, porque la escala estatal no se actualiza con la inflación. Por ley, los tramos, los mínimos personales y familiares y las reducciones se actualizarán cada año según el IPC, siempre desde el 1 de enero siguiente y sin efectos retroactivos. Hacienda no recaudará más por la puerta de atrás."
+ },
+ {
+  "id": "d21-0109",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Pagar lo que es justo"
+  ],
+  "texto": "- **La Especulación a Corto Plazo, como el Trabajo:** vender una acción comprada hace tres semanas tributa hoy en la escala del ahorro, del 19% al 30%, a menudo menos de lo que paga un trabajador por cada euro extra de su sueldo. Las ganancias por la venta de activos mantenidos menos de un año tributarán como las rentas del trabajo, igual que ocurría hasta 2014. La inversión a largo plazo, la que construye empresas y ahorro, conservará su tratamiento actual."
+ },
+ {
+  "id": "d21-0110",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Un sistema fiscal que funcione"
+  ],
+  "texto": "- **Incentivos que se Puedan Usar:** España tiene incentivos para startups y deducciones por I+D, pero sus requisitos son tan complejos que muchos emprendedores renuncian a aplicarlos. Hacienda comprobará por ti, con inteligencia artificial y los datos que ya tiene la Administración, si cumples los requisitos de cada incentivo, y te dará una respuesta vinculante en un plazo máximo de un mes."
+ },
+ {
+  "id": "d21-0111",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Un sistema fiscal que funcione"
+  ],
+  "texto": "- **Perseguir el Fraude Real, No el Bizum:** muchos ciudadanos temen a Hacienda por un error en una casilla o por un Bizum entre amigos, mientras las grandes bolsas de fraude siguen ahí: economía sumergida, tramas organizadas de IVA, patrimonio oculto y criptoactivos. Concentraremos inspectores y análisis de datos donde está el fraude de verdad, aprovechando al máximo la nueva información europea sobre criptoactivos disponible desde 2026, y publicaremos cada año un cuadro de mando abierto con lo que recupera cada euro invertido en inspección. Mano tendida al que cumple, mano firme al que defrauda."
+ },
+ {
+  "id": "d21-0112",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Un sistema fiscal que funcione"
+  ],
+  "texto": "- **Cada Beneficio Fiscal, con Fecha de Caducidad:** España dedica unos 60.000 millones de euros al año a beneficios fiscales (deducciones, exenciones y tipos reducidos), y muchos nunca se evalúan. Todos tendrán un objetivo medible y una evaluación independiente: si no lo cumplen, desaparecerán y su coste volverá al sistema. Revisaremos también los impuestos especiales (medioambientales, sobre el tabaco y el resto) para equipararlos a la Unión Europea, con un calendario anunciado y sin sorpresas."
+ },
+ {
+  "id": "d21-0113",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Impuestos justificados y que se entiendan",
+   "Un sistema fiscal que funcione"
+  ],
+  "texto": "- **Reglas Estables:** las normas fiscales cambian a mitad de año, a veces sobre ejercicios ya iniciados, y eso genera inseguridad y pleitos. Los cambios tributarios entrarán en vigor solo el 1 de enero, se anunciarán con al menos seis meses de antelación y nunca tendrán efectos retroactivos."
+ },
+ {
+  "id": "d21-0114",
+  "partido": "d21",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas"
+  ],
+  "texto": "España se ha convertido en una selva de hiperregulación que asfixia a quien emprende y frena el talento de nuestra sociedad. Cada año se publican más de 1.000.000 de páginas de regulación entre el Estado y las Comunidades Autónomas. Este laberinto no nos protege: solo genera fricción burocrática (sludge) y fragmenta el mercado. Tenemos que simplificar las reglas, armonizar el mercado nacional y crear un Estado ágil que deje de ser un obstáculo."
+ },
+ {
+  "id": "d21-0115",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas",
+   "Programa Estatal de Auditoría de Barreras"
+  ],
+  "texto": "- Pondremos en marcha un Programa Estatal de Auditorías de Barreras para **derogar en el plazo de 12 meses toda norma o trámite que no cuente con una justificación clara de protección pública.** Utilizando la metodología de reducción de sludge audit (auditoría de fricción burocrática) de la OCDE, involucraremos directamente a los sectores empresariales, pymes, autónomos y agentes sociales para identificar y extirpar cada traba que nos quita horas de nuestro tiempo y que frena la inversión y el emprendimiento. El objetivo es identificar, medir y eliminar los obstáculos innecesarios que la Administración impone a ciudadanos y empresas: trámites redundantes, documentación repetida, autorizaciones injustificadas, plazos excesivos, procedimientos confusos y costes administrativos que no aportan valor."
+ },
+ {
+  "id": "d21-0116",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas",
+   "Programa Estatal de Auditoría de Barreras"
+  ],
+  "texto": "- Organizaremos este trabajo mediante **líneas de actuación específicas para cada sector económico**, siguiendo un calendario de prioridades. Comenzaremos por los sectores en los que España ya tiene una posición competitiva destacada. Continuaremos con los sectores estratégicos para nuestro futuro económico, tecnológico e industrial, y extenderemos progresivamente la metodología al resto de las actividades económicas.\nCada línea sectorial contará con la participación directa de empresas, autónomos, profesionales y asociaciones representativas, mediante mesas de trabajo, consultas públicas abiertas y mecanismos digitales para comunicar trabas concretas y proponer soluciones. Involucraremos también a las administraciones estatal, autonómicas y locales, porque muchas de las cargas burocráticas proceden de la acumulación de requisitos entre distintos niveles de gobierno.\nEl resultado será un programa continuo de simplificación, con objetivos medibles, responsables identificados y plazos públicos, que permita comprobar cuántos trámites se eliminan, cuánto tiempo se ahorra y cuánto se reducen los costes para ciudadanos y empresas."
+ },
+ {
+  "id": "d21-0117",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas",
+   "Programa Estatal de Auditoría de Barreras"
+  ],
+  "texto": "- Crearemos un panel digital accesible para toda la ciudadanía donde **se monitorizará mes a mes el avance de la desburocratización** sector por sector, visibilizando los trámites eliminados, el ahorro estimado en horas de trabajo y las normas simplificadas en cada ámbito económico."
+ },
+ {
+  "id": "d21-0118",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas",
+   "Un país diverso, un mercado sin barreras"
+  ],
+  "texto": "- Las Comunidades Autónomas deben servir para aproximar la gestión al ciudadano, nunca para fragmentar la economía. Implantaremos un **Programa de Armonización Normativa inspirado en los principios de Reconocimiento Mutuo de la Unión Europea**: cualquier licencia, homologación, título o requisito aprobado en una comunidad autónoma será automáticamente válido en todo el territorio nacional."
+ },
+ {
+  "id": "d21-0119",
+  "partido": "d21",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "España resuelve",
+   "Menos normas, más claras, estables y coordinadas",
+   "Un país diverso, un mercado sin barreras"
+  ],
+  "texto": "- Prohibiremos por ley que una empresa o profesional tenga que **repetir trámites administrativos o pagar tasas duplicadas** para operar en distintas regiones de España, asegurando un mercado interno fluido y atractivo para la inversión nacional e internacional."
+ }
+]

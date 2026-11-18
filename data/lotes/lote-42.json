@@ -1,0 +1,3162 @@
+[
+ {
+  "id": "comuns-0345",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "L’energia és un bé de primera necessitat i no pot dependre de la voluntat de tres empreses. Volem que l’Estat, les comunitats autònomes, els ajuntaments i la ciutadania recuperin el control de les peces clau del sistema elèctric."
+ },
+ {
+  "id": "comuns-0346",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Crearem una empresa pública d’energia. Tindrà funcions separades de generació, distribució i comercialització, amb accés no discriminatori a la xarxa. Assumirà la gestió de les centrals hidroelèctriques a mesura que caduquin les concessions, sigui quina sigui la seva titularitat, amb participació de les comunitats autònomes. Promourà generació renovable i participarà en l’autoconsum col·lectiu i les comunitats energètiques."
+ },
+ {
+  "id": "comuns-0347",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Crearem una comercialitzadora pública de referència. Gestionarà la tarifa regulada (PVPC), amb uns 8,5 milions de contractes, i el bo social. Oferirà estabilitat de preus amb contractes de subministrament a llarg termini i una tarifa social que inclogui un mínim energètic vital."
+ },
+ {
+  "id": "comuns-0348",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Crearem un Fons Generacional de l’Energia, inspirat en el model noruec, amb participació pública del 30% en les noves instal·lacions renovables i d’emmagatzematge petites i mitjanes. La meitat dels beneficis es reinvertirà en el fons i l’altra meitat anirà a habitatge públic, rehabilitació i pensions. Una part dels impostos de cada projecte finançarà comunitats energètiques municipals, perquè els pobles que produeixen l’energia paguin menys per ella."
+ },
+ {
+  "id": "comuns-0349",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Aprofitarem tota la capacitat útil de les xarxes de distribució existents, reforçant la supervisió de la CNMC mitjançant auditories de la capacitat disponible, les reserves d’accés i les denegacions de connexió. Revisarem els criteris de càlcul quan restringeixin injustificadament l’aprofitament de la xarxa i implantarem els permisos d’accés flexible, preservant la seguretat del subministrament. Farem efectiu l’alliberament de capacitat reservada per projectes que incompleixin els seus terminis i garantirem informació pública, actualitzada i verificable."
+ },
+ {
+  "id": "comuns-0350",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Recuperarem Red Eléctrica per al sector públic. L’Estat incrementarà progressivament la seva participació en el capital de Redeia fins al 100%, perquè la xarxa de transport en alta tensió, que és un monopoli natural, estigui al servei de l’interès general i no dels dividends. Mentrestant, ampliarem el capital públic a través de la SEPI perquè inverteixi més en xarxes i emmagatzematge, sobretot en bombeig hidràulic, i garantirem el caràcter públic de les línies de més de 380 kV."
+ },
+ {
+  "id": "comuns-0351",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Recuperarem l’excepció ibèrica i defensarem a la Unió Europea un mecanisme que s’activi automàticament davant de pujades extraordinàries del gas. Limitarem els marges en la cadena dels carburants perquè cap empresa s’aprofiti de les crisis."
+ },
+ {
+  "id": "comuns-0352",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Traurem del sistema marginalista les tecnologies amortitzades, com la nuclear i la hidràulica, i fixarem un calendari per pagar-les segons el seu cost reconegut, amb contractes per diferències bidireccionals i contractes de compra a llarg termini també accessibles a les pimes. Les subhastes retornaran als consumidors els ingressos extraordinaris quan pugin els preus."
+ },
+ {
+  "id": "comuns-0353",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Els plans d’inversió en la xarxa de distribució seran vinculants, revisables cada any i definits per totes les administracions segons les prioritats del territori. Totes tindran accés a les dades tècniques, econòmiques i operatives de la xarxa."
+ },
+ {
+  "id": "comuns-0354",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Crearem una plataforma única i oberta d’informació sobre la capacitat de la xarxa, i la CNMC auditarà la capacitat disponible, les reserves d’accés i les denegacions de connexió. Revisarem cada sis mesos les cues de connexió als nusos saturats per detectar permisos especulatius: el criteri deixarà de ser «el primer que arriba» i passarà a ser «el projecte més preparat». Implantarem els permisos d’accés flexible i alliberarem la capacitat reservada pels projectes que no compleixin els terminis. Si les distribuïdores no fan les inversions planificades, les executarà una empresa pública i ho pagarà l’empresa responsable. La retribució de les xarxes es basarà en l’ús i no podrà generar rendibilitats injustificades."
+ },
+ {
+  "id": "comuns-0355",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Incorporarem els municipis a la planificació energètica i incentivarem operadors energètics municipals i supramunicipals i societats públiques d’inversió territorial, que podran participar en generació distribuïda, comunitats energètiques, xarxes de calor i fred i recàrrega pública. Obrirem als pressupostos generals de l’Estat una línia de finançament per a projectes energètics locals, amb ajuts directes a les instal·lacions de petita potència promogudes per entitats locals, ciutadanes o cooperatives. Facilitarem amb les administracions competents les barreres administratives i lingüístiques d’accés a la protecció energètica."
+ },
+ {
+  "id": "comuns-0356",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una energia pública i accessible"
+  ],
+  "texto": "- Garantirem la separació real i efectiva dels grups integrats verticalment. Les distribuïdores no podran pertànyer al mateix grup que les generadores o les comercialitzadores, i separarem la comercialització de gas i d’electricitat per evitar ofertes combinades que frenin l’electrificació."
+ },
+ {
+  "id": "comuns-0357",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Farem progressiu l’IVA de la llum. Aplicarem un tipus reduït als consums vitals, tant a l’IVA com a l’impost especial sobre l’electricitat. L’IVA dependrà del consum per persona: començarà al 0% per als consums més baixos i l’autoconsum i pujarà de manera progressiva fins al 16% als trams alts."
+ },
+ {
+  "id": "comuns-0358",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Farem permanent l’escut social energètic. Prohibirem per llei els talls de llum, aigua i gas a les llars vulnerables. Reconeixerem el bo social elèctric i tèrmic de manera automàtica segons la renda, sense dependre dels tràmits de les comercialitzadores, i actualitzarem el consum protegit perquè cobreixi les necessitats bàsiques de llum, calefacció i refrigeració. Garantirem un mínim vital energètic per llar."
+ },
+ {
+  "id": "comuns-0359",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Tres hores de llum gratuïta al dia. En les hores de major producció d’energia elèctrica solar i en la qual hi ha excedent respecte al que consumim, la llum serà gratis per a totes les llars, tinguin o no plaques solars. La comercialitzadora pública oferirà de partida tres hores diàries gratuïtes en la franja solar, i les grans comercialitzadores estaran obligades per llei a incloure-les en la seva oferta. Perquè aquestes hores gratis no es cobrin en la resta del dia, la CNMC vigilarà els preus i sancionarà qualsevol pujada que les compensi. Els peatges de xarxa d’aquestes hores es pagaran amb el gravamen a les grans energètiques."
+ },
+ {
+  "id": "comuns-0360",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Revisarem l’Estratègia Nacional contra la Pobresa Energètica perquè combini garantia de subministrament, rehabilitació i generació distribuïda. Crearem una comissió interministerial que vetlli pel seu compliment per part de totes les administracions, i oficines de transició energètica justa que acompanyin les famílies."
+ },
+ {
+  "id": "comuns-0361",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Les companyies elèctriques hauran de posar a disposició de la ciutadania les dades del seu consum. Perseguirem d’ofici les ofertes de «preu zero» o «preu fix» que amaguin costos i crearem un observatori contra el rentat d’imatge verd, amb sancions i inhabilitació per a qui repeteixi males pràctiques."
+ },
+ {
+  "id": "comuns-0362",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Augmentarem les ajudes a les comunitats energètiques i a l’autoconsum col·lectiu, incloses les bateries, i reconeixerem el dret a l’autoconsum compartit en un radi mínim de 20 km (avui és de 5 km). Crearem la figura del gestor d’autoconsum, repartirem l’energia amb coeficients dinàmics, eximirem de permís d’accés les instal·lacions de menys de 15 kW i elevarem de 100 a 450 kW el límit de la compensació simplificada. Es podran compartir o donar excedents, també a llars vulnerables, amb bancs d’energia públics i comunitaris i autoconsum de caràcter social amb microfinançament. Regularem l’emmagatzematge distribuït com a recurs propi i ens fixarem que l’autoconsum cobreixi el 20% de la demanda elèctrica el 2040. Simplificarem els tràmits per a les instal·lacions d’autoconsum compartit."
+ },
+ {
+  "id": "comuns-0363",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Rebaixarem les majories que exigeixen les comunitats de propietaris per aprovar instal·lacions d’autoconsum i facilitarem l’opció individual."
+ },
+ {
+  "id": "comuns-0364",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Ajudarem les pimes a pagar menys per l’energia. Facilitarem que s’agrupin per negociar col·lectivament contractes a llarg termini, com fan les grans empreses, i impulsarem el seu autoconsum i emmagatzematge."
+ },
+ {
+  "id": "comuns-0365",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Aprovarem un pla de climatització per a 1,7 milions de llars amb bo social tèrmic. Cobrirem entre el 85% i el 95% de la instal·lació de bombes de calor, aerotèrmia o bioclimatització, i fins al 100% per a les llars més vulnerables. Ho combinarem amb mesures passives com l’aïllament, l’ombra o les cobertes verdes, i augmentarem en 144 kWh el consum bonificat als mesos de juny, juliol i agost."
+ },
+ {
+  "id": "comuns-0366",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Hidrogen només on faci falta. L’hidrogen renovable es reservarà a la indústria que no pot funcionar amb electricitat directament. Retirarem el suport públic al H2Med i destinarem aquests 7.000 M€ a xarxes, emmagatzematge i electrificació industrial. En qualsevol cas, s’ha de realitzar un estudi d’impacte ambiental estratègic per a la xarxa d’Hidrogen verd que avaluï la seva necessitat real i també de la infraestructura d’energies renovables i electròlisis associada, per a planificar el seu desplegament i prioritzar l’electrificació directa dels usos enfront de l’ús de l’hidrogen."
+ },
+ {
+  "id": "comuns-0367",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Posarem en marxa un Pla Nacional de Renovació d’Edificis amb un programa específic per a les llars vulnerables. L’Estat avançarà la inversió perquè ningú necessiti diners propis per millorar casa seva, començant pels habitatges de pitjor eficiència, també els de lloguer, amb garanties perquè la millora no apugi el lloguer ni expulsi els residents. Crearem un fons per a la regeneració integral dels barris vulnerables."
+ },
+ {
+  "id": "comuns-0368",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Habitatges de lloguer que no facin passar fred ni calor. No es podran llogar habitatges amb una certificació energètica inferior a F, i s’exigiran millores fins a arribar com a mínim a la C, amb finançament segons la renda."
+ },
+ {
+  "id": "comuns-0369",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Eliminarem el gasoil de calefacció el 2030 i el gas de calefacció als edificis públics el 2035 i als privats el 2040. Des del 2027 els nous desenvolupaments urbanístics no tindran calderes ni connexions de gas, i caldrà renovar les calderes de més de 15 anys per bombes de calor, amb ajudes segons la renda."
+ },
+ {
+  "id": "comuns-0370",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Escoles i residències preparades per a la calor. Aprovarem un pla d’emergència contra la calor als centres educatius i les residències de gent gran, prioritzant la bioclimatització i començant pels centres més vulnerables, en col·laboració amb les comunitats autònomes i els ajuntaments."
+ },
+ {
+  "id": "comuns-0371",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una factura energètica justa i assequible"
+  ],
+  "texto": "- Rehabilitarem cada any almenys el 5% dels edificis públics, amb electrificació i autoconsum a les cobertes. Les administracions contractaran el subministrament elèctric 100% renovable, preferentment amb comercialitzadores que només venguin electricitat d’origen renovable."
+ },
+ {
+  "id": "comuns-0372",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Tractat de No Proliferació de Combustibles Fòssils. Espanya donarà suport al tractat internacional per aturar els nous projectes d’extracció de combustibles fòssils i pactar una sortida justa i ordenada."
+ },
+ {
+  "id": "comuns-0373",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Trasposarem la directiva sobre el comerç de drets d’emissions. A més, crearem un Banc Central del Carboni. Serà una autoritat pública independent que gestioni el mercat de drets d’emissió: subhastes, assignacions, supervisió, sancions i ajust en frontera. També gestionarà els fons climàtics, inclòs el Fons Social per al Clima, i tindrà un consell assessor científic."
+ },
+ {
+  "id": "comuns-0374",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Sense publicitat de combustibles fòssils. Prohibirem la publicitat de productes derivats del petroli, del gas natural, dels vehicles de combustió i dels serveis de transport que en depenen, com els vols, i limitarem el patrocini de les empreses fòssils per evitar el rentat d’imatge verd."
+ },
+ {
+  "id": "comuns-0375",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Elevarem els objectius de la Llei de canvi climàtic. Aprovarem per llei pressupostos de carboni quinquennals i vinculants, integrats als Pressupostos Generals de l’Estat, amb un informe anual de cada ministeri."
+ },
+ {
+  "id": "comuns-0376",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Condicionarem els grans projectes d’energies renovables, de centres de dades i de reconversió industrial a acords de transició justa amb participació sindical i del territori."
+ },
+ {
+  "id": "comuns-0377",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Desplegarem l’estratègia «Espanya, Potència Industrial Verda», amb un programa d’electrificació dels processos industrials, suport a les indústries amb un cost energètic alt, com la ceràmica, i cadenes de valor pròpies en equips renovables, emmagatzematge i xarxes. Aprovarem un pla d’R+D+I en renovables i emmagatzematge, i les empreses amb un consum energètic elevat faran auditories energètiques amb inventari d’emissions i propostes de reducció. Les ajudes es condicionaran a compromisos d’ocupació de qualitat i de permanència."
+ },
+ {
+  "id": "comuns-0378",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Planificarem els centres de dades. Seran infraestructura estratègica sota control públic, nacional o europeu, regulada per una llei estatal. Hauran de cobrir almenys el 80% del consum amb electricitat renovable addicional, tenir emmagatzematge i una eficiència màxima (PUE) d’1,2 el 2030, sense generadors dièsel de suport. A les conques amb estrès hídric hi haurà una moratòria fins que hi hagi planificació, i no es podrà refrigerar amb aigua potable. L’accés a la xarxa s’assignarà per concurs i les empreses publicaran el seu consum d’energia i aigua. Els centres de més de 10 MW signaran convenis amb els municipis i destinaran entre l’1% i el 5% de la seva despesa elèctrica a pobresa energètica i pimes locals, i crearem una «taxa núvol» sobre els serveis digitals vinculats per als municipis que els acullen.\n - Prioritzarem l’aprovació del Reial Decret pel qual es regulen els requisits de sostenibilitat energètica, mediambiental i de resiliència i sobirania digital, en procés d’aprovació actualment. Incorporarem una definició clara del concepte d’energia renovable, amb una gestió activa de les cues de connexió per evitar l’especulació, amb estàndards clars d’etiquetatge per a centres de dades. Incorporarà la declaració de superfícies preferents amb una planificació territorial clara, la prohibició de centres de dades en mode illa, facilitat per a que els centres de dades puguin aportar el calor a les xarxes de calefacció municipals, i la circularitat dels equips.\n - La legislació inclourà clàusules de suspensió o interrupció en situacions d’alerta o prealerta hídrica o necessitat sobrevinguda, que permetran restringir o suspendre el suministre.\n - La ciutadania tindrà accés a la informació completa del consum dels centres de dades."
+ },
+ {
+  "id": "comuns-0379",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Tancament nuclear sense més pròrrogues. Mantindrem el calendari vinculant per tancar tot el parc nuclear sense noves pròrrogues, ni nous reactors, ni beneficis fiscals. Les renovables, l’emmagatzematge i la xarxa que substitueixin cada central hauran d’estar en servei abans del tancament, sense augmentar la dependència del gas. Els propietaris pagaran el desmantellament i la gestió dels residus: revisarem la taxa d’Enresa amb una auditoria independent. Abans de cada tancament acordarem plans de transició justa, amb diversificació productiva, recol·locació, formació i protecció de rendes, també per a les plantilles de les contractes."
+ },
+ {
+  "id": "comuns-0380",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Adéu als fòssils: una transició justa cap a les renovables"
+  ],
+  "texto": "- Eliminarem les subvencions als combustibles fòssils i les ajudes en crisis es donaran segons la renda. L’Estat deixarà d’invertir en empreses dedicades a l’exploració, extracció, refinatge o distribució de combustibles fòssils. Planificarem la retirada dels cicles combinats fins al 2040 i el desmantellament ordenat de la xarxa de gas, sense noves infraestructures ni inversions retribuïdes que acabin pagant els consumidors, amb un gestor tècnic gasista públic. Prohibirem importar gas obtingut amb fracking o procedent de territoris sancionats per vulnerar els drets humans."
+ },
+ {
+  "id": "comuns-0381",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "Promoure una aliança renovables-territori, per una implementació respectuosa amb el medi ambient i beneficiosa pel territori. La imprescindible implementació de les renovables s’ha de fer amb respecte per la biodiversitat i els espais agrícoles d’alt valor i amb retorn social als territoris. Una bona planificació de la implementació de les renovables és una oportunitat pels territoris."
+ },
+ {
+  "id": "comuns-0382",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Garantir la participació ciutadana. Regular que la implementació de projectes de renovables inclogui de forma obligatòria processos d’informació, amb total transparència, i de participació ciutadana de les comunitats locals, ajuntaments, entitats socials i ciutadania, en totes les fases del projecte."
+ },
+ {
+  "id": "comuns-0383",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Distribució justa dels beneficis. Regular la llicència social i els criteris d’excel·lència dels projectes renovables amb avantatges com l’accés i connexió a la xarxa, en les subhastes o en el suport públic. Cal afavorir els projectes que acreditin que han promogut la participació ciutadana, el respecte per la biodiversitat i que realitzaran un retorn al territori."
+ },
+ {
+  "id": "comuns-0384",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Aquest retorn, territorial i social, es pot articular amb mesures com: participació en la propietat dels projectes dels ens locals i de la ciutadania com a mínim en un 20%; ingressos fiscals per als ajuntaments; reinversió de beneficis en el territori (enllumenat públic, subministrament, projectes de rehabilitació, climatització d’equipaments públics, punts de recàrrega per la mobilitat elèctrica local…); creació d’ocupació amb acords a llarg termini amb l’agrupació d’empreses del polígon industrial o amb nous projectes industrials."
+ },
+ {
+  "id": "comuns-0385",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Impulsar les Zones d’Acceleració de les Renovables. Implementació de renovables en aquests espais: sòls artificialitzats, urbans, polígons, espais degradats, pedreres, abocadors, canals o corredors d’infraestructures. La regulació ha d’incloure també els mecanismes de participació local i ciutadana i la llicència social."
+ },
+ {
+  "id": "comuns-0386",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Aprovar una llei de sostres solars. Establir l’obligació d’instal·lar plaques fotovoltaiques en grans aparcaments, edificis públics o polígons industrials."
+ },
+ {
+  "id": "comuns-0387",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Energia",
+   "Una transició energètica que compti amb els territoris i amb retorn social"
+  ],
+  "texto": "- Per un país de comunitats energètiques. Aprovar i desenvolupar un marc jurídic que afavoreixi les comunitats energètiques: establir criteris clars per evitar que aquest model sigui apropiat per les grans empreses; afavorir l’accés i la capacitat de la xarxa i al mercat elèctric en condicions més favorables. Establir el suport públic amb els ajuts i l’assessorament tècnic necessaris. I ampliar el ventall d’àmbits d’actuació de les comunitats energètiques: emmagatzematge comunitari, xarxes locals de distribució o mobilitat elèctrica compartida, entre altres. Regular i impulsar comunitats energètiques de segon grau, per donar suport a les comunitats locals. Incorporar la participació de col·lectius en situació de vulnerabilitat i persones migrants i racialitzades amb informació accessible i un accés a les comunitats energètiques justa."
+ },
+ {
+  "id": "comuns-0388",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "La qualitat de l’aire determina i afecta directament a la salut de les persones. Els principals problemes deriven de les emissions del diòxid de nitrogen i partícules menors. L’OMS ha ja qualificat la contaminació de l’aire com una de les amenaces més greus a la salut i el medi ambient del nostre temps, i afecta al 97% de la població, causant malalties i provocant 300.000 morts a Europa, 25.000 d’elles a Espanya. D’altra banda, la contaminació acústica és la principal molèstia ambiental, especialment a les zones metropolitanes, fet que fa augmentar l’estrès, la son i el risc de malalties."
+ },
+ {
+  "id": "comuns-0389",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Crear un Jutjat especialitzat en delictes contra el medi ambient."
+ },
+ {
+  "id": "comuns-0390",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Dur a terme les accions estructurals necessàries per accelerar la millora de la qualitat de l’aire i tendir, progressivament, a assolir els nivells que recomana l’OMS pels diferents tipus de contaminants."
+ },
+ {
+  "id": "comuns-0391",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Donar continuïtat a les estratègies coordinades d’informació, sensibilització i educació ambiental per implicar a la indústria i la ciutadania per tal que esdevingui un agent actiu i compromès en la modificació dels hàbits que tenen incidència en la qualitat de l’aire i en la seva salut, vetllant per una transició justa que no deixi ningú enrere."
+ },
+ {
+  "id": "comuns-0392",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Donar suport a la recerca i promoure el coneixement de les causes i el comportament de la contaminació atmosfèrica a Catalunya, així com el seu impacte sobre la salut, tot posant en marxa un Pla Nacional d’Ozó Troposfèric."
+ },
+ {
+  "id": "comuns-0393",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Promourem la mobilitat sostenible, especialment a les zones urbanes, incentivant la reducció de la velocitat del trànsit rodat. En aquest sentit renovarem els parcs de vehicles cap a flotes amb menys emissions i ambientalització de les flotes de les administracions públiques."
+ },
+ {
+  "id": "comuns-0394",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Revisarem profundament el sistema d’etiquetes de la DGT de manera que permeti discriminar els vehicles per la seva contaminació real i no per allò que declari l’empresa fabricant."
+ },
+ {
+  "id": "comuns-0395",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Establir una normativa ambiental als ports i aeroports de l’Estat tenint en compte quins aparells són més contaminants. Pressionarem per la creació de l’ECA (Àrea de Control d’Emissions) al Mediterrani, de manera que es prohibeixi l’ús de combustibles molt contaminants en el transport marítim."
+ },
+ {
+  "id": "comuns-0396",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Electrificarem els ports de l’Estat perquè els vaixells que hi amarrin puguin connectar-se a la xarxa elèctrica i evitar l’emissió de partícules contaminants."
+ },
+ {
+  "id": "comuns-0397",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Promoure la implantació de captadors de CO₂ en les instal·lacions dels grans emissors."
+ },
+ {
+  "id": "comuns-0398",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Promourem actuacions sobre el paisatge urbà, utilitzant pantalles acústiques i asfalts porosos."
+ },
+ {
+  "id": "comuns-0399",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aire i contaminants"
+  ],
+  "texto": "- Facilitarem amb recursos que les administracions autonòmiques i locals aprovin els mapes estratègics de soroll i els corresponents plans d’acció, amb especial interès en la zonificació per capacitat acústica."
+ },
+ {
+  "id": "comuns-0400",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "L’aigua i la seva gestió s’ha d’entendre sota una perspectiva de bé públic, de dret inalienable. Per tant, la seva gestió ha de ser pública en termes d’accessibilitat, assequibilitat, qualitat i disponibilitat. Deixar un bé essencial per a la vida en mans del mercat privat, i més tenint en compte les conseqüències del canvi climàtic, comporta un negoci lucratiu que acabarà pagant la ciutadania. Les sequeres, cada cop més freqüents, ja han demostrat la importància que té com a recurs indispensable per a la vida. La gestió de l’aigua s’ha de regir sota regles d’eficàcia social, ambiental i econòmica."
+ },
+ {
+  "id": "comuns-0401",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Blindar legalment el caràcter públic de la gestió de l’aigua des d’una perspectiva de bé comú."
+ },
+ {
+  "id": "comuns-0402",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Reformarem la Llei preconstitucional de Mines de 1973 per excloure’n la mineria en espais protegit, treure’n la gestió d’aigües minerals i termals, i actualitzar-la amb criteris ambientals justos democratitzar-ne l’explotació i evitant que grans empreses privades embotelladores segueixin enriquint-se amb els recursos hídrics de totes."
+ },
+ {
+  "id": "comuns-0403",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Reconeixerem legalment l’accés a l’aigua i al sanejament com un dret humà dins de la Llei d’aigües estatal."
+ },
+ {
+  "id": "comuns-0404",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Eliminar la figura del cànon de concessió, un instrument recaptatori que encareix innecessàriament el rebut de l’aigua sense que aquest increment es reflecteixi en una millora del servei."
+ },
+ {
+  "id": "comuns-0405",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Donar suport als processos de remunicipalització de l’aigua que s’estan donant a través de la creació d’equip jurídic i tècnics que puguin acompanyar i assessorar els municipis."
+ },
+ {
+  "id": "comuns-0406",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Mesures i actuacions urgents per a la modernització dels sistemes de reg i l’optimització de l’ús de l’aigua en el sector ramader."
+ },
+ {
+  "id": "comuns-0407",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Reconeixerem legalment l’accés a l’aigua i al sanejament com un dret humà dins de la Llei d’aigües estatal."
+ },
+ {
+  "id": "comuns-0408",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Mesures i actuacions urgents per a la modernització dels sistemes de reg i l’optimització de l’ús de l’aigua en el sector ramader."
+ },
+ {
+  "id": "comuns-0409",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Dotarem de fons extraordinaris a les administracions competents per reduir les pèrdues en les xarxes de subministrament i clavegueram."
+ },
+ {
+  "id": "comuns-0410",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Elaborar un pla de garantia d’abastament que permeti minimitzar el transvasament de l’Ebre cap a Tarragona. Implementar les mesures necessàries perquè els sediments puguin circular fins als deltes i no quedin emmagatzemats en els embassaments. Eliminar el transvasament del Siurana."
+ },
+ {
+  "id": "comuns-0411",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Reformular les confederacions hidrològiques actuals per democratitzar-les i donar veu a tots els actors, a més d’implicar l’Agència Catalana de l’Aigua en la cogestió de la conca de l’Ebre, que suposa un 50% del territori català."
+ },
+ {
+  "id": "comuns-0412",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Estudiarem una moratòria en la creació de nous regadius."
+ },
+ {
+  "id": "comuns-0413",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Treballarem en un Pla Nacional d’Agricultura de secà que permeti la modernització dels regadius, garantint la continuïtat de l’agricultura de secà."
+ },
+ {
+  "id": "comuns-0414",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Aigua"
+  ],
+  "texto": "- Impulsarem reformes legislatives i en concret una nova llei d’Aigües que l’elimini els transvasaments, protegeixi els patrimonis aquàtics i els efectes de la sequera i del canvi climàtic."
+ },
+ {
+  "id": "comuns-0415",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "En un context de manca de matèries primeres i lluita pels recursos a nivell mundial, la transició de la cadena de tractament de residus en un sector d’economia circular que permeti la reutilització de recursos ha de ser una prioritat.\n\nD’altra banda, tenim la fita d’arribar a aconseguir millorar els processos de tractament de residus fins arribar a la fita del residu zero, així com treballar dins el marc de la reutilització i la reparació, tal com s’està impulsant des de d’Europa és un mandat clar per garantir la sostenibilitat de la nostra societat."
+ },
+ {
+  "id": "comuns-0416",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Impulsarem l’economia circular amb un pla per a desenvolupar la indústria de la mineria urbana, en coordinació amb les comunitats autònomes, i amb la taxa de recollida i reciclatge que permetin que els metalls secundaris cobreixin el 57% de la demanda el 2050."
+ },
+ {
+  "id": "comuns-0417",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Fomentarem l’ecodisseny per minimitzar la incorporació al mercat de productes no reutilitzables o no reciclables o amb presència de productes tòxics, nocius o perillosos."
+ },
+ {
+  "id": "comuns-0418",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Revisarem i actualitzarem la normativa estatal relativa a la contaminació química i les substàncies tòxiques incloses en la composició de productes i envasos, inclòs el Reial decret 1055/2022, de 27 de desembre, d’envasos i residus d’envasos, perquè estiguin basades en coneixements científics actuals, que apliquin el principi de precaució i els criteris de salut tenint en compte el grau de vulnerabilitat de la infància i de les dones embarassades, així com la prohibició de substàncies tòxiques detectades durant el procés de fabricació"
+ },
+ {
+  "id": "comuns-0419",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Investigarem i combatrem els casos d’obsolescència programada. Promourem la redacció i aprovació d’una llei que reconegui l’existència de l’obsolescència programada i sancioni la pràctica de predeterminar la vida útil d’un producte, així com les tècniques que hi introdueixin defectes, debilitats, parades programades, obstacles per a la seva reparació i limitacions tècniques. L’objectiu és superar un model de fabricació que incideix directament en l’esgotament de les matèries primeres, l’augment d’emissions de CO₂ i l’endeutament de famílies, empreses i, fins i tot, Estats."
+ },
+ {
+  "id": "comuns-0420",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Potenciarem la reutilització d’envasos i embalatges. Promoure l’estandardització dels envasos —especialment de begudes— per facilitar la competitivitat dels envasos i embalatges reutilitzables. Establir objectius vinculants de reutilització en el sector dels envasos i embalatges comercials, així com per als fluxos amb alt potencial de reutilització, com RAEE, mobles o tèxtils"
+ },
+ {
+  "id": "comuns-0421",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Actuarem contra el malbaratament alimentari en el sector primari i agroalimentari, així com en l’àmbit de la distribució, la restauració i l’àmbit domèstic."
+ },
+ {
+  "id": "comuns-0422",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Restringirem fins a eliminar els plàstics d’un sòl ús."
+ },
+ {
+  "id": "comuns-0423",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Impulsarem un model sostenible de gestió de residus agraris i ramaders, en benefici del reciclatge i de la producció energètica sostenible, i que distribueixi la responsabilitat a totes les capes de la cadena de producció i distribució de l’aliment (en especial, a les grans empreses integradores."
+ },
+ {
+  "id": "comuns-0424",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Impulsarem campanyes de conscienciació contra la compra en grans plataformes de productes de baixa qualitat importats de països amb baixos estàndards fiscals, laborals i ambientals."
+ },
+ {
+  "id": "comuns-0425",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Crearem una línia d’ajuts per a les petites empreses de reutilització i reparació de roba."
+ },
+ {
+  "id": "comuns-0426",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Residus"
+  ],
+  "texto": "- Adoptarem les mesures necessàries per a garantir el tractament dels residus tèxtils en el marc de la revisió de la Directiva 2008/98/CE de residus i del *PERTE d’Economia Circular, mitjançant l’impuls de les mesures necessàries per a establir criteris de disseny circular en la fabricació de peces de vestir procurant, al seu torn, que els productes siguin també circulars i sostenibles, així com més duradors, resistents i reciclats, mitjançant la creació de requisits mínims de rendiment i informació, tal com recollirà la Regulació sobre disseny ecològic per a productes sostenibles de la Unió Europea. Així com, l’impuls de mesures que facilitin un ampli desplegament del sector de la reutilització i reparació l’àmbit tèxtil i de moda."
+ },
+ {
+  "id": "comuns-0427",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible"
+  ],
+  "texto": "Un dels reptes més importants per aconseguir un món sostenible passa per una mobilitat lliure de combustibles fòssils. Avançar cap a una mobilitat sostenible significa apostar clarament pel transport públic: és eficient, és sostenible i és democràtic.\n\nConcretament, el tren s’ha convertit en un greu problema a Catalunya, en comptes de ser una oportunitat. Rodalies l’utilitza i també el pateix la ciutadania, i la seva manca d’inversió històrica i sistemàtica ha arribat a generar situacions insostenibles: per anar a treballar o desplaçar-se a altres nuclis urbans. Ja no és només que cal millorar Rodalies, és que no es pot permetre el seu retrocés com a servei públic.\n\nLa mobilitat sostenible és democràtica i ha de ser pensada en termes de enfortiment del ferrocarril, per una mobilitat urbana sostenible, tenint en compte l’electrificació del transport, amb una fiscalitat ambiental i una reducció dràstica de l’impacte medioambiental de les infraestructures contaminants."
+ },
+ {
+  "id": "comuns-0428",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "El ferrocarril és un servei públic essencial i una eina de cohesió territorial, igualtat d’oportunitats i transició ecològica. No obstant això, durant massa temps, la política d’infraestructures ha prioritzat les grans obres i la rendibilitat econòmica per sobre del manteniment, la fiabilitat del servei i les necessitats quotidianes de la ciutadania.\n\nDefensem un canvi de model que situï el ferrocarril en el centre de les polítiques públiques, garantint una xarxa fiable, accessible i ben mantinguda, que connecti tots els territoris i respongui a l’interès general."
+ },
+ {
+  "id": "comuns-0429",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Impulsar un pacte d’Estat per les infraestructures, amb una planificació a llarg termini, finançament estable i compromisos verificables que garanteixin la continuïtat de les inversions més enllà dels cicles electorals."
+ },
+ {
+  "id": "comuns-0430",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Aprovarem una Estratègia de Reversió de la Liberalització Ferroviària, basada en raons de seguretat i sinistralitat, atès que aquesta liberalització ha afegit pressió sobre les infraestructures i les plantilles ferroviàries."
+ },
+ {
+  "id": "comuns-0431",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Millorar la coordinació i la gestió del sistema ferroviari, avançant cap a una integració funcional d’Adif i Renfe i avaluant una eventual unificació organitzativa, amb l’objectiu de superar la fragmentació de responsabilitats i millorar la planificació, el manteniment i la prestació del servei, respectant el marc regulador europeu."
+ },
+ {
+  "id": "comuns-0432",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Incrementar la inversió pública ferroviària, prioritzant el manteniment i la modernització de la xarxa existent, Rodalies i els serveis regionals, i garantint que els pressupostos s’executin i es tradueixin en millores reals per a la ciutadania."
+ },
+ {
+  "id": "comuns-0433",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Canviar la lògica de la rendibilitat per la de la necessitat territorial, planificant les infraestructures i els serveis en funció de la seva utilitat social, la seva contribució a la cohesió territorial i la seva capacitat per a garantir la mobilitat, també als municipis i comarques menys rendibles econòmicament, i amb perspectiva de ruralitat."
+ },
+ {
+  "id": "comuns-0434",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Reforçar les plantilles i els recursos humans, cobrint les vacants estructurals i incrementant el personal tècnic, de manteniment, circulació i operacions. Apostem per la formació, l’estabilitat laboral i la recuperació de la capacitat tècnica de les empreses públiques ferroviàries."
+ },
+ {
+  "id": "comuns-0435",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Garantir salaris competitius, independència tècnica i transparència, per a atreure i retenir professionals qualificats en el sector públic. Reforçarem els controls sobre els conflictes d’interessos i les portes giratòries, assegurant que les decisions estratègiques responguin a l’interès general i no a interessos privats."
+ },
+ {
+  "id": "comuns-0436",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "- Establir mecanismes d’avaluació i rendició de comptes, amb indicadors públics sobre puntualitat, incidències, manteniment i execució de les inversions, perquè la ciutadania pugui conèixer l’estat de la xarxa i exigir responsabilitats."
+ },
+ {
+  "id": "comuns-0437",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un nou pacte d’Estat Ferroviari per connectar el país"
+  ],
+  "texto": "El ferrocarril no ha d’arribar solament on és rendible, sinó on és necessari. Defensem una política ferroviària que entengui les infraestructures com una inversió estratègica en igualtat, cohesió territorial i futur sostenible."
+ },
+ {
+  "id": "comuns-0438",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Rebaixarem el bo únic del transport combinat a 50 euros, incorporant, fruit del diàleg amb les administracions, busos urbans i interurbans amb concessió de les administracions."
+ },
+ {
+  "id": "comuns-0439",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Executarem amb transparència les actuacions del Pla de Rodalies de Catalunya, amb indicadors públics de fiabilitat."
+ },
+ {
+  "id": "comuns-0440",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Crearem un sistema oficial d’acreditació de retards del transport públic per protegir els drets laborals de les persones usuàries."
+ },
+ {
+  "id": "comuns-0441",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Prioritzarem el manteniment, electrificació de les vies, així com l’accessibilitat, capacitat i el nou material mòbil."
+ },
+ {
+  "id": "comuns-0442",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Completarem el traspàs de Rodalies pactat de serveis i mitjans, amb recursos i coordinació efectiva amb la Generalitat."
+ },
+ {
+  "id": "comuns-0443",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Avançarem en la planificació i les fases executables de la Línia Orbital Ferroviària, d’acord amb els acords i competències vigents."
+ },
+ {
+  "id": "comuns-0444",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Impulsarem les actuacions ferroviàries previstes als nuclis urbans i estudiarem la reactivació de corredors com Reus–Roda."
+ },
+ {
+  "id": "comuns-0445",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Col·laborarem amb les administracions competents per millorar els accessos del transport públic i els espais per a la bicicleta a les estacions, així com fomentar els aparcaments dissuasius al voltant, sempre i quan l’espai ho permeti."
+ },
+ {
+  "id": "comuns-0446",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Augmentarem la capacitat ferroviària de mercaderies, apartadors i terminals intermodals, per així fomentar el trasllat de càrregues de llarga distància de la carretera al ferrocarril. A més, millorarem les connexions ferroviàries dels ports d’interès general amb el Corredor Mediterrani."
+ },
+ {
+  "id": "comuns-0447",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Declararem l’Obligació de Servei Públic per als trajectes de ferrocarril nocturns amb l’objectiu que l’operadora Renfe pugui realitzar aquest servei. A més, elaborarem un pla de recuperació dels trajectes nocturns en ferrocarril que connectaria amb Portugal i França, a través d’Hendaya/Irun i a través d’El Pertús amb la línia d’alta velocitat, amb un inventari de reducció d’emissions, que suposaria l’estimulació de trajectes nocturns de llarga distància respecte els vols. Impulsarem tarifes reduïdes per a joves."
+ },
+ {
+  "id": "comuns-0448",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Un país de trens"
+  ],
+  "texto": "- Afavorirem que el transport públic, ja sigui en tren o autobús de titularitat estatal, mantinguin parades als municipis rurals sota el criteri de cohesió territorial."
+ },
+ {
+  "id": "comuns-0449",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "L’Estat espanyol va per darrere en l’electrificació de la mobilitat. Cal una política ambiciosa. El sector del transport és el principal emissor de gasos d’efecte hivernacle, amb el 33,8% del conjunt de les emissions i la major part corresponen al transport per carretera. Per això cal mantenir l’objectiu de posar fi a la venda de vehicles de combustió lleugers el 2035."
+ },
+ {
+  "id": "comuns-0450",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Fomentarem, en col·laboració amb les administracions competents, infraestructures ciclistes segures d’interès interurbà i accessos multimodals."
+ },
+ {
+  "id": "comuns-0451",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Treballarem amb les administracions i el món empresarial per estendre plans de mobilitat sostenible a grans centres de treball, polígons i zones d’activitat d’acord amb la legislació estatal."
+ },
+ {
+  "id": "comuns-0452",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Seguirem treballant per millorar la seguretat viària i l’accessibilitat universal de la mobilitat, impulsant pactes que incloguin formació, conscienciació i prevenció i vies ben conservades, amb especial atenció als usuaris vulnerables. Es fomentarà el diàleg entre les administracions i les entitats vinculades a la seguretat vial."
+ },
+ {
+  "id": "comuns-0453",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Protegirem el servei públic de taxi i establirem restriccions severes a la concessió de llicències VTC."
+ },
+ {
+  "id": "comuns-0454",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Eliminarem barreres d’accés socials als vehicles elèctrics, automatitzant l’aplicació de les ajudes, ampliant les ajudes als vehicles d’empreses, augmentant la disponibilitat de les instal·lacions de recàrrega i unificant el sistema i impulsant la producció de vehicles elèctrics."
+ },
+ {
+  "id": "comuns-0455",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Promourem centres de distribució urbana de mercaderies i la logística d’última milla amb vehicles petits i elèctrics, i regular l’impacte de les plataformes de repartiment a l’espai públic."
+ },
+ {
+  "id": "comuns-0456",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Crearem un abonament únic nominatiu i mensual vàlid en tot l’Estat, ciutats i mitjans de transport. Inclou un esquema de preus de 20 €/ mes per a Rodalies (10 € per a menors de 26 anys i gratuït per a menors de 16), descomptes del 60%-70% en mitja distància (gratuït per a menors de 15 anys), 50% en Llarga Distància per a viatges recurrents (almenys 3 viatges anades/tornades al mes) i 75%-80% de descompte amb autobús i metre municipal/autonòmic (o tarifa plana combinada de 50 €/mes). Els autobusos interurbans tindran descomptes d’entre el 60% i el 70% segons l’edat i el tipus d’abonament, i els serveis públics de bicicleta, del 50%: el Govern assumirà el 30% si les entitats locals assumeixen el 20% restant."
+ },
+ {
+  "id": "comuns-0457",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Promourem la gratuïtat progressiva del transport públic en els menors de 30 anys, estudiant també la integració dels sistemes públics de bicicleta."
+ },
+ {
+  "id": "comuns-0458",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Augmentarem un 20% el finançament del transport públic metropolità i el repartirem de forma equitativa segons la població, tot respectant l’àmbit competencial."
+ },
+ {
+  "id": "comuns-0459",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Impulsarem el cotxe elèctric amb ajudes per a autònoms i una xarxa de recàrrega a tot el territori"
+ },
+ {
+  "id": "comuns-0460",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Crearem un programa MOVES per a autònoms del transport i agricultors. Ajudes directes de fins a 8.000 euros per vehicle i una deducció reforçada en l’IRPF de fins a 25.000 euros per a substituir per elèctrics els vehicles antics del repartiment urbà i de l’activitat agrària."
+ },
+ {
+  "id": "comuns-0461",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Llançarem un projecte pilot de retrofit elèctric per a convertir vehicles de combustió en elèctrics."
+ },
+ {
+  "id": "comuns-0462",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Aprovarem una Estratègia Estatal per la Bicicleta. Finançarà serveis municipals de préstec de bicicletes i carrils bici metropolitans, i fomentarà la bicicleta elèctrica, la bicicleta de càrrega i el tricicle elèctric en els municipis rurals i en les estacions de tren i autobús, per a connectar els pobles amb els grans nodes de transport."
+ },
+ {
+  "id": "comuns-0463",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Crear un sistema de leasing social de vehicles elèctrics per a zones rurals i per a rendes baixes, per facilitar l’accés al vehicle elèctric a famílies, microempreses i transportistes autònoms de les zones rurals i de persones amb rendes baixes del conjunt del territori, amb quotes assequibles. Afavorir els vehicles fabricats a la UE. Incrementarem els recursos, en col·laboració amb les administracions competents, per afavorir el transport públic interurbà als territoris rurals i de baixa densitat."
+ },
+ {
+  "id": "comuns-0464",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Desplegar la xarxa d’infraestructures de recàrrega elèctrica en el conjunt del territori de l’Estat, que inclogui entre altres els establiments turístics."
+ },
+ {
+  "id": "comuns-0465",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Facilitar l’adquisició i l’accés a camions elèctrics per al transport pesat amb incentius fiscals i ajuts, especialment per als transportistes autònoms i les petites i mitjanes empreses."
+ },
+ {
+  "id": "comuns-0466",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Garantir l’accés al vehicle elèctric a les rendes més baixes, amb ajuts en funció de la renda."
+ },
+ {
+  "id": "comuns-0467",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Mobilitat urbana i elèctrica"
+  ],
+  "texto": "- Regular l’obligatorietat de l’electrificació de les flotes corporatives d’empreses, professionals, de lloguer i de serveis públics."
+ },
+ {
+  "id": "comuns-0468",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Realitzar les inversions en infraestructures pendents necessàries per afavorir el desenvolupament industrial i l’exportació: el corredor mediterrani, el tercer fil a Tarragona, el transport de mercaderies per ferrocarril, l’adequació dels polígons industrials"
+ },
+ {
+  "id": "comuns-0469",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Reforçarem la participació de les institucions territorials en les decisions d’Aena i els ports d’interès general."
+ },
+ {
+  "id": "comuns-0470",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Desplegarem les mesures ja aprovades sobre la reducció dels vols de recorregut curt amb alternativa ferroviària de 2,5 hores."
+ },
+ {
+  "id": "comuns-0471",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Aturarem les ampliacions aeroportuàries incompatibles amb els objectius climàtics i la protecció dels espais naturals, com l’ampliació del Josep Tarradellas Barcelona-El Prat."
+ },
+ {
+  "id": "comuns-0472",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Impulsarem les negociacions amb el Govern de la Generalitat per al traspàs del servei ferroviari AVANT amb origen i destinació a Catalunya. Mentre se’n negocia el possible traspàs, assegurar el 2027 recursos suficients per millorar la capacitat, les freqüències, la fiabilitat i l’assequibilitat dels serveis AVANT amb origen i destinació a Catalunya. Vincular qualsevol acord de traspàs a la transferència de recursos, de material i d’obligacions de qualitat del servei"
+ },
+ {
+  "id": "comuns-0473",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Mobilitat sostenible",
+   "Infraestructures"
+  ],
+  "texto": "- Exigirem avaluacions ambientals rigoroses per a les infraestructures, sota el criteri de la transparència i la rendició de comptes.\n - Farem que el transport pesant contribueixi al manteniment de les infraestructures viàries, implantant un sistema de pagament per ús a l’AP-7 i l’AP-2 per als vehicles de mercaderies de més de 3,5 tones, modulant el cost segons les emissions.\n - Regularem de manera restrictiva l’arribada massiva de megacreuers per a lluitar contra la contaminació i la saturació dels serveis públics i garantir el dret a la ciutat."
+ },
+ {
+  "id": "comuns-0474",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "La política “desarrollista” i predadora que hem viscut és absolutament insostenible.\n\nContinuen planificant-se tot grans operacions urbanístiques i d’infraestructures que han demostrat ser innecessàries i fallides. Tot sobre la base de macroprojectes sense sentit que internalitzen beneficis i externalitzen costos socials i ambiental És hora de dir prou a la barra lliure de l’especulació i posar per davant les necessitats reals de la població. Cal revertir la política d’extensió urbana per una política de millora de les ciutats existents que eviti més ocupació del sòl.\n\nPropostes:"
+ },
+ {
+  "id": "comuns-0475",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Pla per a incorporar el model de ciutat de 15 minuts en la planificació urbanística autonòmica, garantint la connexió en transport públic."
+ },
+ {
+  "id": "comuns-0476",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Exigir que tot nou desenvolupament residencial —públic o privat— compleixi amb ràtios mínims d’espais verds per habitant i garanteixi la proximitat a parcs, centres de salut, col·legis i comerços de barri."
+ },
+ {
+  "id": "comuns-0477",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Vincular les ajudes autonòmiques a la mobilitat sostenible amb polítiques d’habitatge: subvencions per a la compra o lloguer de bicicletes, abonaments de transport públic gratuïts per a famílies en habitatge social, i prioritat en l’accés a places de pàrquing públic per a residents."
+ },
+ {
+  "id": "comuns-0478",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Auditar el compliment de l’accessibilitat universal en totes les promocions d’habitatge públic o privat."
+ },
+ {
+  "id": "comuns-0479",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Revisarem la legislació del sòl per afavorir la rehabilitació, reutilització i un menor consum del sòl."
+ },
+ {
+  "id": "comuns-0480",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Garantirem que totes les administracions públiques incorporin amb la introducció d’estàndards de resiliència climàtica, l’anàlisi de riscos climàtics en totes les seves decisions financeres, d’ordenació territorial i d’infraestructures."
+ },
+ {
+  "id": "comuns-0481",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Prioritzarem l’accessibilitat, l’eficiència energètica, l’espai públic verd i equipaments als barris vulnerables."
+ },
+ {
+  "id": "comuns-0482",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Establir en tots els contractes del sector públic clàusules antidesplaçament i seguiment del retorn social de les inversions."
+ },
+ {
+  "id": "comuns-0483",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Cedir prioritàriament als ajuntaments els sòls i immobles en desús d’Adif, Renfe i altres empreses públiques estatals situats en sòl urbà perquè es destinin a habitatge assequible, equipaments públics o espais verds, evitant-ne la venda a operadors privats i garantint que aquest patrimoni reverteixi en benefici de la ciutadania."
+ },
+ {
+  "id": "comuns-0484",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Estudiar, amb les administracions competents, la delimitació de les zones inundables amb els escenaris de canvi climàtic actuals i futurs, així com la prohibició per llei els nous desenvolupaments urbanístics i les noves edificacions sensibles (habitatges, escoles, residències i centres sanitaris) en zones amb risc greu d’inundació."
+ },
+ {
+  "id": "comuns-0485",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Crear, en coordinació amb les administracions autonòmiques i locals, un programa estatal de reubicació i desdensificació de les zones urbanitzades en risc greu. Serà voluntari i finançat, amb permutes de sòl i dret de reallotjament dins el mateix municipi, i donarà prioritat als equipaments sensibles i a les llars vulnerables, també protegint les persones llogateres, residents en habitacions o persones que viuen en assentaments. El sòl alliberat es destinarà a espais inundables i infraestructura verda."
+ },
+ {
+  "id": "comuns-0486",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Posarem en marxa un gran programa d’adaptació climàtica de les ciutats, cofinançat per l’Estat, les comunitats autònomes i els ajuntaments: renaturalització, arbratge, nous espais verds, conversió en zona de vianants, refugis climàtics i rehabilitació urbana, prioritzant els barris més vulnerables amb perspectiva antiracista i seguint el criteri d’un arbre per cada tres veïns."
+ },
+ {
+  "id": "comuns-0487",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Territori"
+  ],
+  "texto": "- Deixarem de finançar amb diners públics la promoció turística de destins massificats i destinarem aquests recursos a transformar el model econòmic d’aquestes zones."
+ },
+ {
+  "id": "comuns-0488",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Reforçarem la legislació bàsica per a la protecció del litoral i dels espais naturals vulnerables"
+ },
+ {
+  "id": "comuns-0489",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Treballarem amb la resta d’administracions per fomentar la renaturalització dels espais naturals, rieres, aiguamolls i espais periurbans per reduir els danys d’aiguats i sequeres."
+ },
+ {
+  "id": "comuns-0490",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Reforçarem els controls sobre les activitats extractives, abocaments i afectacions als dominis públics estatals."
+ },
+ {
+  "id": "comuns-0491",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Prioritzarem i col·laborarem en la restauració d’espais degradats i preservació del paisatge"
+ },
+ {
+  "id": "comuns-0492",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Prohibir legalment la fracturació hidràulica (fracking) i les prospeccions petrolíferes al litoral"
+ },
+ {
+  "id": "comuns-0493",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Protegir el dret de pas pels camins tradicionals i forestals, garantint-ne l’ús públic i evitant-ne el tancament o la privatització de facto, tot compatibilitzant-lo amb els drets de propietat i la conservació del medi natural."
+ },
+ {
+  "id": "comuns-0494",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Costes, preservació del medi i restauració"
+  ],
+  "texto": "- Impulsar la protecció legal dels espais que contribueixen a la qualitat ambiental, la salut i la resiliència del territori, tant en àmbits urbans i periurbans com en aquells que tenen una funció essencial en la preservació dels recursos naturals, especialment els sòls no urbanitzats que afavoreixen la recàrrega dels aqüífers i la protecció dels recursos hídrics."
+ },
+ {
+  "id": "comuns-0495",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals"
+  ],
+  "texto": "La biodiversitat és un dels grans reptes ambientals del present. La degradació dels ecosistemes, la sobreexplotació dels recursos i els efectes del canvi climàtic estan posant en risc l’equilibri ecològic arreu del planeta.\n\nUn dels elements indispensables pel futur passa per la gestió del territori i els recursos naturals, on la conservació i la restauració de la naturalesa sigui un dels pols de les polítiques públiques sostenibles.\n\nNo es tracta només de protegir, sinó d’ampliar aquells ecosistemes que la petjada humana està trasbalsant, i els efectes del canvi climàtic suposen un repte en aquest sentit."
+ },
+ {
+  "id": "comuns-0496",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Assolirem el 30% de les zones d’ecosistemes terrestres com a àrees protegides, que seran objecte de restauració efectiva, amb la finalitat de millorar la biodiversitat i les funcions i els serveis dels ecosistemes, la integritat ecològica i la connectivitat."
+ },
+ {
+  "id": "comuns-0497",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Prioritzarem i augmentarem fins el 30% del total del mar Mediterrani la protecció de les àrees marines estratègiques per a la conservació i proliferació de la posidònia, on es detallin les restriccions, entre d’altres la prohibició de fondejar i la sobreexplotació de la pesca. A més, establirem una Estratègia Estatal de conservació de la Posidònia Oceànica amb la finalitat d’augmentar les prades marines de tota la nostra costa mediterrània. Destinarem més recursos per als ajuntaments que tinguin a les seves costes praderies de posidònia i impulsarem programes de divulgació ambiental sobre la importància de les mateixes, en col·laboració amb els ajuntaments. Regularem les autoritzacions del lloguer d’embarcacions d’oci, sota criteris de sostenibilitat i protecció de les praderies."
+ },
+ {
+  "id": "comuns-0498",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Fomentarem, en col·laboració amb les administracions autonòmiques i locals, l’ús de boies ecològiques permanents que no suposin un risc per a la biodiversitat i que generin hàbitats que facin proliferar la vida al mar."
+ },
+ {
+  "id": "comuns-0499",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Impulsarem la inclusió del catxalot i el rorqual comú al Llistat d’Espècies Silvestres en Règim de Protecció Especial i al Catàleg Espanyol d’Espècies Amenaçades a la categoria en perill d’extinció, complint amb les resolucions d’ACCOBAMS. A més, impulsarem mesures eficaces per a la conservació dels catxalots i rorquals comuns a través del Pla de Gestió del Corredor de Migració de Cetacis del Mediterrani, com la reducció de la velocitat per categoria d’embarcació, així com altres mesures a través del Pla de Gestió del Corredor de Migració de Cetacis del Mediterrani, que ajudin a reduir el risc de col·lisió, el soroll submarí i les emissions de gasos d’efecte hivernacle i contaminants."
+ },
+ {
+  "id": "comuns-0500",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Impulsarem el Pla Estatal de Restauració amb mesures de restauració passiva als ecosistemes marins."
+ },
+ {
+  "id": "comuns-0501",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Farem efectiva la prohibició de la comercialització, introducció o exportació en el mercat europeu de determinats productes de matèries primes sinó compleixen tres requisits: estar lliures de desforestació, haver estat produïts segons la legislació del país d’origen i estar emparats per una declaració de diligència deguda, en compliment del Reglament sobre Desforestació de la UE."
+ },
+ {
+  "id": "comuns-0502",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Aplicarem els objectius i mesures de la conferència de les parts en el conveni sobre la diversitat biològica de Montreal 2022, anomenat marc mundial Kunming-Montreal de la diversitat biològica."
+ },
+ {
+  "id": "comuns-0503",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Farem un mapeig de les carreteres de titularitat estatal per estudiar els passos de fauna i la seva efectivitat. Localitzarem també en quins trams hi ha pas de fauna i no s’ha assolit una infraestructura adient per als animals."
+ },
+ {
+  "id": "comuns-0504",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Treballarem amb les administracions per augmentar la connectivitat d’espais verds i blaus en zones urbanes i densament poblades, integrant la conservació i la utilització sostenible dels espais."
+ },
+ {
+  "id": "comuns-0505",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Biodiversitat"
+  ],
+  "texto": "- Elaborarem un pla d’ocupació verda que restauri les zones degradades, amb la col·laboració de les administracions autonòmiques i municipals."
+ },
+ {
+  "id": "comuns-0506",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Drets de la Natura"
+  ],
+  "texto": "Seguir avançant en els drets de la natura és imprescindible a nivell jurídic, social i cultura, ja què reconèixer els drets de la natura implica passar d’una visió on tot s’hi val si beneficia l’economia humana a una ètica on la natura té dret a existir, persistir i regenerar-se.\n\nLa degradació ambiental creixent, la pèrdua de biodiversitat i l’esgotament de recursos evidencien que un creixement econòmic infinit en un planeta finit és insostenible.\n\nEls drets ambientals tradicionals protegeixen la natura perquè és útil o perjudicial per a la salut i el benestar dels humans; en canvi, els drets de la natura protegeixen la pròpia vida i els ecosistemes en si mateixos, per tant atorgar personalitat jurídica a rius, boscos o parcs naturals permet que puguin ser defensats als tribunals per les comunitats o entitats que els representen, obligant a reparar danys més enllà de les multes administratives convencionals.\n\nProtegir el subjecte natural és, en última instància, protegir la vida de les generacions presents i futures."
+ },
+ {
+  "id": "comuns-0507",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Drets de la Natura"
+  ],
+  "texto": "- Aprovar una llei marc de drets de la natura inspirada en la Llei de Personalitat Jurídica del Mar Menor que permeti reconèixer personalitat jurídica als ecosistemes d’especial valor ecològic amenaçats per l’activitat humana. Reconèixer en primer lloc la Ricarda, el delta de l’Ebre i els aiguamolls de l’Empordà, i obrir la via a altres espais com Doñana o l’Albufera de València."
+ },
+ {
+  "id": "comuns-0508",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Drets de la Natura"
+  ],
+  "texto": "- Dotar cada ecosistema d’òrgans de representació propis, amb la comunitat científica, el veïnat i les entitats ecologistes, i amb capacitat per actuar davant dels tribunals."
+ },
+ {
+  "id": "comuns-0509",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Drets de la Natura"
+  ],
+  "texto": "- Permetre que qualsevol persona o entitat pugui defensar judicialment els drets d’aquests ecosistemes."
+ },
+ {
+  "id": "comuns-0510",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "Per assolir una societat més justa, ètica i compromesa amb la vida, la protecció dels drets dels animals es conforma com una part fonamental d’aquest avanç. Els animals son éssers dotats de sensibilitat, els quals mereixen respecte, empatia i responsabilitat. Tot i que s’ha avançat en aquest aspecte, encara queda molt camí per recórrer, desenvolupant marc normatius i alhora dotant de recursos a aquelles administracions encarregades del benestar animal, avançant també cap a models productius més sostenibles i respectuosos amb la vida."
+ },
+ {
+  "id": "comuns-0511",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Continuarem desenvolupament el sistema estatal per identificar animals de companyia i lluitar contra l’abandonament."
+ },
+ {
+  "id": "comuns-0512",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Seguirem legislant els projectes pendents, com el Reglament general de la Llei de Benestar Animal, la regulació dels nuclis zoològics o el llistat positiu d’animals de companyia."
+ },
+ {
+  "id": "comuns-0513",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Seguirem treballant en la Llei de Grans Simis, que pretén protegir la dignitat, el dret a la vida, a la llibertat i a la no tortura dels grans simis."
+ },
+ {
+  "id": "comuns-0514",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Modificarem la llei per impedir les granges comercials de pops a tots els territoris, que resulten incompatibles amb la legislació de benestar animal."
+ },
+ {
+  "id": "comuns-0515",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Seguirem treballant per la derogació de la Llei que regula la tauromàquia com a patrimoni cultural, tal com hem eliminar el finançament públic dels espectacles cruels amb aquests animals."
+ },
+ {
+  "id": "comuns-0516",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Reduirem l’IVA del 21% al 10% dels serveis veterinaris a animals de família."
+ },
+ {
+  "id": "comuns-0517",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Modificarem l’actual Reglament d’articles pirotècnics i desplegarem una nova regulació de la pirotècnia no-professional, establint limitacions al seu ús incontrolat i a la potència màxima permesa."
+ },
+ {
+  "id": "comuns-0518",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Apostarem per cercar mètodes alternatius a l’experimentació animal. Revisarem les composicions dels comitès d’ètica dels parcs científics de les universitats i centres de recerca."
+ },
+ {
+  "id": "comuns-0519",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Estudiar la creació d’una xarxa veterinària pública que garanteixi l’atenció bàsica dels animals i faci efectiu el seu reconeixement com a éssers sensibles protegits per la llei."
+ },
+ {
+  "id": "comuns-0520",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Crear un fons estatal finalista i plurianual perquè els ajuntaments puguin complir les obligacions que els atribueix la Llei 7/2023: la recollida d’animals extraviats i abandonats, els centres públics de protecció animal i els programes de gestió de colònies felines amb el mètode CER (captura, esterilització i retorn), en col·laboració amb les entitats de protecció animal."
+ },
+ {
+  "id": "comuns-0521",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Aprovar amb caràcter prioritari els reglaments de desplegament encara pendents de la Llei 7/2023, de 28 de març, de protecció dels drets i el benestar dels animals: el reglament general, el d’identificació i registre d’animals de companyia, el de nuclis zoològics i el del llistat positiu d’animals de companyia. Comprometent-nos a treballar per la inclusió dels animals que van quedar fora de la Llei, com són els gossos dedicats a la caça."
+ },
+ {
+  "id": "comuns-0522",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Reconeixerem la professió veterinària com a professió sanitària essencial per a la protecció de la salut pública, la salut animal, el benestar animals, la seguretat alimentària i la prevenció de malalties, i integrarem el coneixement veterinari a les polítiques públiques relacionades amb la salut. Revisarem la normativa que regula l’exercici professional veterinari."
+ },
+ {
+  "id": "comuns-0523",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Augmentarem la participació de professionals veterinaris en òrgans consultius, i incorporarem la professió al Registre Estatal de Professionals Veterinaris."
+ },
+ {
+  "id": "comuns-0524",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Afavorirem la investigació clínica veterinària i el desenvolupament de medicaments destinats a espècies i patologies amb necessitat terapèutiques. Reforçarem la coordinació entre veterinaris, oficines de farmàcia, distribució farmacèutica, indústria i administracions públiques per millorar el seu accés."
+ },
+ {
+  "id": "comuns-0525",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Biodiversitat i drets dels animals",
+   "Animals"
+  ],
+  "texto": "- Impulsarem la reforma de la normativa de medicaments veterinaris per a protegir la salut animal i garantir l’autonomia clínica dels professionals, eliminant els protocols rígids de la llei de cascada que impedeixen receptar l’antibiòtic més eficaç, suprimint l’obligatorietat de fer cultius previs en casos d’urgència vital per evitar retards fatals, simplificant la càrrega burocràtica de les plataformes PresVet/GTR, eliminant el règim de sancions desproporcionades i promovent el fraccionament de medicaments a les farmàcies per a frenar les resistències antimicrobianes reals."
+ },
+ {
+  "id": "comuns-0526",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "Treballem per país cohesionat, socialment i territorialment, un país que no deixa ningú enrere, ni sectors socials ni territoris. I per això cal una simbiosi, una associació, entre els territoris rurals i els territoris urbanitzats i metropolitans.\n\nEl model agrícola i ramader de Catalunya pateix una accelerada transició. Estem passant d’un model de petites i mitjanes explotacions agrícoles i ramaderes a la integració ramadera en grans explotacions intensives sota el control d’empreses transnacionals, dedicades a l’exportació. La terra cada vegada es concentra més en grans empreses i fons d’inversió. La PAC, la política agrària comunitària, fomenta aquest model amb subvencions a les grans explotacions. La ramaderia representa més del 64% de la producció agrària total, concentrada en macrogranges i en grans empreses integradores destinades a l’exportació. És un model amb salaris baixos, dependència de l’exportació i un alt impacte ambiental en algunes comarques."
+ },
+ {
+  "id": "comuns-0527",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "Els principals problemes són el relleu generacional per la impossibilitat d’accedir a la terra i perquè no hi ha uns preus justos per als productes agrícoles i ramaders. La pagesia només representa l’1,2% de la població activa, el 15% de la terra és en mans de societats mercantils i s’ha reduït el nombre de terres conreades. La pagesia catalana és una de les més envellides d’Europa, el 50% dels titulars tenen més de 55 anys. Som un país productor i exportador d’aliments, però el 12% de les llars de Catalunya tenen inseguretat alimentària, per manca d’un accés continuat a una dieta saludable, i el 89% de la població de l’Àrea Metropolitana viu en els anomenats “pantans alimentaris”, amb una alta oferta de menjar ràpid i ultraprocessat. Els supermercats han guanyat pes i els mercats municipals han retrocedit. Tot plegat, també contribueix a afectar greument la salut de la població, en especial de les famílies més desafavorides. La malnutrició és un risc sanitari i un factor més de desigualtat."
+ },
+ {
+  "id": "comuns-0528",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "Rebutgem i seguirem denunciant l’aplicació de l’acord entre la Unió Europea i Mercosur, i d’altres es facin en els mateixos termes, el nostre model, necessitem un nou model agroalimentari que garanteixi el dret a una alimentació saludable, la viabilitat de la pagesia i la ramaderia, la protecció del territori i la sobirania alimentària del país. El sector agrari no pot ser tractat com un sector residual ni subordinat als interessos de les grans cadenes de distribució, dels fons d’inversió o de les empreses integradores. És un sector estratègic des del punt de vista econòmic, social, territorial i ambiental. Sense pagesia no hi ha pobles vius, no hi ha gestió del territori, no hi ha alimentació de proximitat i no hi ha una transició ecològica justa"
+ },
+ {
+  "id": "comuns-0529",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Frenar l’acumulació especulativa de terres agràries per part de grans tenidors i fons d’inversió, afavorint l’accés a la terra."
+ },
+ {
+  "id": "comuns-0530",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Garantir el control dels sistemes de mesura i fixació de preus agraris, inclosos els programes informàtics que processen les dades"
+ },
+ {
+  "id": "comuns-0531",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Establir ajudes directes i mesures de protecció per a les explotacions agràries i forestals, adaptades a la seva dimensió segons les unitats de treball agrari (UTA)."
+ },
+ {
+  "id": "comuns-0532",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Reforçar les assegurances amb bonificacions per a les explotacions més petites i amb una cobertura específica davant sequeres, pedregades i inundacions, per garantir la viabilitat econòmica del sector davant els riscos climàtics, adequant primes i cobertures a la realitat actual del canvi climàtic a cada territori, amb la possibilitat d’assegurar la producció total de l’explotació."
+ },
+ {
+  "id": "comuns-0533",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Reconèixer el valor específic de produccions ecològiques i les emparades per denominacions d’origen o indicacions geogràfiques protegides."
+ },
+ {
+  "id": "comuns-0534",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Eliminar la penalització a les primes de pòlissa pel fet de no disposar d’un historial previ per afavorir el relleu generacional."
+ },
+ {
+  "id": "comuns-0535",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Destinarem ajudes específiques a les persones joves que s’incorporen a l’activitat agrària, en col·laboració amb les administracions competents."
+ },
+ {
+  "id": "comuns-0536",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Actualització periòdiques dels barems a partir de dades, objectives i territorialitzades sobre costos, rendiments i preus de mercat, amb participació d’organitzacions agràries, cooperatives i sectors afectats."
+ },
+ {
+  "id": "comuns-0537",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Establir costos oficials de referència per sector, territori i campanya, actualitzats periòdicament, perquè serveixin d’indici en les inspeccions dels contractes, els preus i les liquidacions agràries i permetin detectar possibles pagaments per sota dels costos de producció. Aquests valors de referència no han de substituir la comprovació del cost efectiu de cada explotació quan sigui necessària."
+ },
+ {
+  "id": "comuns-0538",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Protegir els productors davant les possibles represàlies de tipus comercial, reforçar les sancions i coordinar les inspeccions sobre preus, liquidacions i contractes agraris."
+ },
+ {
+  "id": "comuns-0539",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Reformar l’assegurança dels cultius per sinistres de fauna, augmentant la cobertura la total de les pèrdues ocasionades per animals salvatges i eliminant les franquícies i les penalitzacions per sinistres repetits."
+ },
+ {
+  "id": "comuns-0540",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Defensar la viabilitat econòmica de la pagesia, establint compensacions pels efectes dels conflictes internacionals sobre els costos de producció, l’energia i els combustibles, reduint la burocràcia i les càrregues administratives que dificulten l’activitat agrària, i garantint preus justos que impedeixin la venda per sota dels costos de producció."
+ },
+ {
+  "id": "comuns-0541",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Garantir un finançament estatal estable i majoritàriament a fons perdut per modernitzar els regadius, amb criteris que prioritzin les explotacions petites i familiars, quotes ajustades a la seva viabilitat, incorporació d’energies renovables i revisió del deute de les comunitats de regants amb SEIASA."
+ },
+ {
+  "id": "comuns-0542",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Condicionar les noves transformacions i la modernització dels regadius a la disponibilitat real d’aigua, els cabals ecològics i l’estalvi efectiu, destinant l’aigua estalviada a recuperar els rius i el Delta de l’Ebre, prioritzant el reg de suport als conreus de secà i coordinant les actuacions amb la concentració parcel·lària quan sigui necessària."
+ },
+ {
+  "id": "comuns-0543",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Garantir l’aplicació i compliment de la Llei de la cadena alimentària, reforçar l’observació dels preus, garantir contractes escrits i impedir la venda a pèrdues."
+ },
+ {
+  "id": "comuns-0544",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Impulsar i aprovar la prohibició de la cria d’animals amb finalitat exclusivament pelletera i que inclogui la prohibició d’autoritzar noves installacions destinades a aquesta activitat."
+ },
+ {
+  "id": "comuns-0545",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Promourem una aliança entre camp i ciutat, entre productores i consumidores, entre pagesia i el conjunt de les classes populars."
+ },
+ {
+  "id": "comuns-0546",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Protegirem el sòl agrari d’alt valor davant la urbanització, l’abandonament, l’acaparament i els usos especulatius; desplegar bancs de terres, espais test agraris i programes de mentoria; i facilitar finançament, habitatge, formació i suport tècnic als nous projectes en igualtat de condicions."
+ },
+ {
+  "id": "comuns-0547",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Donarem suport a la ramaderia extensiva, a les explotacions petites i mitjanes, a la producció vinculada a la terra, a les cooperatives i als projectes que contribueixen a mantenir el mosaic agroforestal i prevenir incendis."
+ },
+ {
+  "id": "comuns-0548",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Treballarem per recuperar el pes del món rural com a espai de vida i producció. Els recursos públics han de prioritzar l’habitatge habitual, el sector primari, els serveis públics i la transició energètica distribuïda, de manera que el turisme torni a ocupar un paper complementari i no estructurant, i sostenible."
+ },
+ {
+  "id": "comuns-0549",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Impulsarem polítiques i accions per assolir la plena equitat territorial i aconseguir una ruralitat que avenci d’acord amb l’estratègia europea de desenvolupament rural, dotant-nos d’una estratègia de desenvolupament territorial sostenible que garanteixi les condicions per viure en el medi agrorural, amb equitat a l’accés als serveis públics (salut, educació, atenció a la infància, atenció de la dependència, habitatge, arrendaments, infraestructures, accés xarxa digital, revisió planificació urbanística...)."
+ },
+ {
+  "id": "comuns-0550",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Donarem suport a les petites explotacions familiars de productes artesans i a la producció de qualitat, tot impulsant els distintius de qualitat (denominacions d’origen, distintius propis per a productes de proximitat, etc.) i mecanismes de coneixement i diàleg entre els dos extrems de la cadena alimentària (producció-consum)."
+ },
+ {
+  "id": "comuns-0551",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Per combatre els robatoris agrícoles de manera eficaç, apostarem, en col·laboració amb les administracions competents, per la modernització amb eines no invasives com drons o càmeres de camí que respecten la privacitat, acompanyades d’una reducció de la burocràcia per agilitzar les denúncies dels afectats, creant unitats mòbils que facilitin les denúncies a peu de finca."
+ },
+ {
+  "id": "comuns-0552",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Establir incentius fiscals per a les activitats econòmiques situades en municipis despoblats o en risc de despoblament, mitjançant bonificacions i deduccions en l’IRPF."
+ },
+ {
+  "id": "comuns-0553",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Adaptar el bo social energètic a les zones rurals, tenint en compte el sobrecost de la calefacció, les condicions climàtiques i les dificultats d’accés a fonts d’energia assequibles."
+ },
+ {
+  "id": "comuns-0554",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural"
+  ],
+  "texto": "- Aprovar un pla de suport, recuperació i transició del sector porcí davant la crisi provocada per la pesta porcina africana, amb ajuts progressius i topalls per beneficiari que prioritzin les petites i mitjanes explotacions familiars, independents i de cicle tancat, l’ocupació local, el relleu generacional i la sostenibilitat ambiental. Condicionar els ajuts al manteniment de l’activitat i els llocs de treball i impedir que contribueixin a concentrar encara més la producció. El pla ha d’incloure un full de ruta per reduir la dependència de l’exportació, la pressió ambiental i la vulnerabilitat davant crisis sanitàries i comercials, limitar les noves macrogranges i potenciar la producció ecològica i de proximitat, les races autòctones, la carn diferenciada i els circuits curts de comercialització."
+ },
+ {
+  "id": "comuns-0555",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "La Unió Europea està negociant ara la Política Agrària Comuna que regirà del 2028 al 2034. La proposta de la Comissió Europea retalla els fons garantits per a la pagesia: passen dels 386.600 milions d’euros de l’etapa actual a uns 300.000 milions.\n\nDurant dècades, la PAC ha premiat les hectàrees i no el treball, i ha afavorit la concentració de terres i ajuts en grans empreses i fons d’inversió. Volem que aquesta reforma sigui l’oportunitat per canviar-ho: que la PAC sigui per a qui viu i treballa a la terra."
+ },
+ {
+  "id": "comuns-0556",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Defensarem que el pressupost europeu fixi un topall obligatori d’ajuts per explotació i una reducció progressiva per als grans perceptors. Descomptarem el cost laboral perquè no penalitzi les explotacions que generen ocupació, d’acord amb el principi d’ajuts segons les unitats de treball agrari."
+ },
+ {
+  "id": "comuns-0557",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Farem obligatori el pagament redistributiu a les primeres hectàrees, per reforçar la renda de les explotacions petites i mitjanes. I posarem fi als drets històrics, que encara reparteixen els ajuts segons referències de fa més de vint anys. Ho farem amb una transició curta i un ajut temporal només per a les explotacions professionals que perdin renda."
+ },
+ {
+  "id": "comuns-0558",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Definirem de manera exigent qui és agricultor actiu: qui fa activitat agrària real i n’obté una part significativa dels ingressos. En quedaran fora els fons d’inversió, els grans propietaris rendistes i les societats sense activitat."
+ },
+ {
+  "id": "comuns-0559",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Presentarem una auditoria dels ajuts de la PAC concedits a l’Estat durant els darrers cinc anys, amb els imports, els sectors, els grups empresarials als quals pertanyen les societats beneficiàries i, dins del marc legal aplicable, els seus titulars reals. S’analitzarà específicament la concentració d’ajuts, terres i mercat en el sector de l’alfals i els farratges. Establirem un sistema permanent de control de la concentració de terres i subvencions, i defensarem a la UE la transparència dels beneficiaris finals."
+ },
+ {
+  "id": "comuns-0560",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Reforçarem la condicionalitat social de la PAC: no rebrà ajuts qui incompleixi el conveni, la prevenció de riscos laborals o l’obligació d’allotjament digne de les persones treballadores temporeres. Intensificarem la inspecció de treball durant les campanyes de collita, especialment a la fruita dolça. I crearem serveis públics de substitució a les explotacions perquè pagesos i pageses puguin aturar-se per malaltia, maternitat, paternitat o cures."
+ },
+ {
+  "id": "comuns-0561",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobre l’aplicació de la Política Agrícola Comuna (PAC)"
+  ],
+  "texto": "- Farem efectiva la titularitat compartida de les explotacions i reconeixerem la feina de les dones al camp."
+ },
+ {
+  "id": "comuns-0562",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Gestió de dejeccions ramaderes i plantes de biogàs"
+  ],
+  "texto": "El biogàs pot contribuir a aprofitar energèticament les dejeccions i reduir emissions si es controlen les fuites de metà i es gestiona adequadament el digestat. El seu desplegament ha d’anar acompanyat de la reducció dels excedents de nutrients i de garanties de protecció dels aqüífers."
+ },
+ {
+  "id": "comuns-0563",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Gestió de dejeccions ramaderes i plantes de biogàs"
+  ],
+  "texto": "- Presentar un pla estatal del biogàs i el digestat, que respecti les competències autonòmiques, amb avaluació ambiental i participació de les comunitats autònomes, la pagesia i les entitats del territori, que ordeni la localització, la dimensió i la capacitat acumulada de les installacions. Prioritzar un model distribuït, dimensionat segons les dejeccions i els residus orgànics disponibles a l’entorn, de titularitat agrària, cooperativa, pública o comunitària, amb connexió a la xarxa o aprofitament energètic local."
+ },
+ {
+  "id": "comuns-0564",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Gestió de dejeccions ramaderes i plantes de biogàs"
+  ],
+  "texto": "- Condicionar les autoritzacions i els ajuts públics a la idoneïtat ambiental de cada projecte, a la traçabilitat dels materials, al tractament i la destinació agronòmica segura del digestat, a la reducció del transport i a l’exportació de nutrients fora de les zones excedentàries; evitar la gestió indiscriminada de fangs, residus d’escorxador o altres residus aliens, i garantir que el biogàs no serveixi per perpetuar la sobreproducció ramadera ni substitueixi la reducció de residus en origen."
+ },
+ {
+  "id": "comuns-0565",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política forestal"
+  ],
+  "texto": "És imprescindible establir una estratègia de país, acordada per tots els agents implicats i impulsar un Pacte d’Estat per l’emergència climàtica, amb la participació també de representants de la pagesia i la ramaderia, dels sindicats de treballadors, de l’ecologisme, del món local, les Comunitats Autònomes, de l’àmbit científic, de la propietat forestal, dels Agents Rurals, del Govern i dels grups parlamentaris, que inclogui la gestió forestal i la prevenció d’incendis, amb mesures com:"
+ },
+ {
+  "id": "comuns-0566",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política forestal"
+  ],
+  "texto": "- Estratègia estatal contra incendis forestals: l’estat buscarà les fórmules per a què les comunitats autònomes compleixin la normativa de les Zones d’Alt Risc d’Incendis (ZARI); vetllar pel compliment dels plans preventius recollits en la Ley de Montes i dels plans d’emergència local recollits a la Directriu bàsica de protecció civil, comptant amb els recursos necessaris."
+ },
+ {
+  "id": "comuns-0567",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política forestal"
+  ],
+  "texto": "- Impulsar una reforma fiscal adaptada al sector forestal que asseguri la protecció i millora de les masses forestals, la seva adaptació al canvi climàtic i a la rendibilitat de la gestió forestal."
+ },
+ {
+  "id": "comuns-0568",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política forestal"
+  ],
+  "texto": "- Recollir estadístiques anuals, actualitzades i de tot el territori estatal. Les dades sobre el comportament del foc, la tipologia d’operacions desplegades i el seu cost, les accions de prevenció planificades i/o executades, son dades sobre la prevenció i extinció d’incendis útils per al disseny i desenvolupament de polítiques de prevenció d’incendis."
+ },
+ {
+  "id": "comuns-0569",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "La pesca artesana ha perdut prop de la meitat de la flota en dues dècades, mentre augmenten els costos, disminueixen els dies de pesca i es dificulta el relleu generacional. Alhora, l’escalfament del Mediterrani, la contaminació, la degradació dels hàbitats i la sobreexplotació alteren els ecosistemes i amenacen espècies i activitats essencials. Sense peix no hi ha pescadors, però sense pesca artesanal tampoc no hi ha comunitats pesqueres ni una gestió del mar arrelada al territori. La resposta ha de combinar ciència, cogestió, sostenibilitat ecològica i viabilitat econòmica."
+ },
+ {
+  "id": "comuns-0570",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Donarem suport a la pesca artesanal i als sistemes de producció ecològica de baix impacte. Modificarem la definició de pesca artesanal per fer-la més coherent amb l’ICCAT."
+ },
+ {
+  "id": "comuns-0571",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Defensarem a la Unió Europea una política pesquera que reconegui les particularitats de la Mediterrània i prioritzi la recuperació dels ecosistemes, la pesca artesanal, la cogestió i la viabilitat de les comunitats pesqueres."
+ },
+ {
+  "id": "comuns-0572",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Regionalització de les polítiques pesqueres, particularment les que afecten la pesca d’arrossegament, adaptant les mesures a les realitats biofísiques i socioeconòmiques de cada pesqueria, flota i territori."
+ },
+ {
+  "id": "comuns-0573",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Un mapeig dels ecosistemes marins on s’acumula més carboni, per a un coneixement més exacte d’una possible limitació de la pesca d’arrossegament. Augmentarem la regulació de les Àrees Marines Protegides de forma eficaç i eficient, limitant les activitats que deterioren el medi ambient."
+ },
+ {
+  "id": "comuns-0574",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- La col·laboració científics – pescadors, amb programes de treball conjunt, participació del pescador en la presa de decisions i flotes de referència per a la recollida de la informació."
+ },
+ {
+  "id": "comuns-0575",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Millora del sistema de quotes incorporant criteris socials i territorials per evitar l’especulació i fer possible un rendiment econòmic mínim que garanteixi la seguretat alimentària, no basades exclusivament en volum de captures."
+ },
+ {
+  "id": "comuns-0576",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Difondrem a la ciutadania sobre l’activitat pesquera i el seu valor social, i les innovacions que estan introduint que treballen per la restauració de l’ecosistema i la pesca sostenible. Cooperarem amb el sector per a la monitorització dels efectes del canvi climàtic."
+ },
+ {
+  "id": "comuns-0577",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Implementarem mesures econòmiques que afavoreixin els caladors nacionals i de pesca artesanal."
+ },
+ {
+  "id": "comuns-0578",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Acompanyar la transformació sostenible del sector pesquer amb ajudes a la reconversió de la pesca d’arrossegament i amb una protecció econòmica digna per als pescadors afectats per aturades obligatòries, vinculada a programes de formació i servei a la comunitat."
+ },
+ {
+  "id": "comuns-0579",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Protegirem els aqüífers subterranis i prohibirem la privatització dels recursos, revertint els ja privatitzats."
+ },
+ {
+  "id": "comuns-0580",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Establirem mesures per a l’abandonament progressiu dels combustibles fòssils i la descarbonització de la pesca."
+ },
+ {
+  "id": "comuns-0581",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Treballarem per a la incorporació plena i efectiva de les dones al sector, potenciant els referents femenins i revisió de taules de malalties professionals."
+ },
+ {
+  "id": "comuns-0582",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Prendrem mesures per acabar amb l’abocament de residus contaminants al mar i frenar l’abandonament de xarxes de pesca."
+ },
+ {
+  "id": "comuns-0583",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Fomentarem la formació professional adaptada que incorpori pràctiques a bord de bucs des de l’inici. Incrementarem les ajudes per a l’adquisició del primer buc per a joves pescadors. Revisarem els certificats de professionalitat."
+ },
+ {
+  "id": "comuns-0584",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Inclourem com a principi rector la garantia d’un rendiment econòmic mínim als bucs pesquers, amb garantia de la sobirania i seguretat alimentària de la UE."
+ },
+ {
+  "id": "comuns-0585",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Treballarem a la UE per integrar la Política Pesquera Comú de l’articulat del Tractat de Funcionament de la Unió Europea."
+ },
+ {
+  "id": "comuns-0586",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Incrementarem el control les flotes de les empreses mixtes i la traçabilitat de les seves captures."
+ },
+ {
+  "id": "comuns-0587",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Donarem suport amb els recursos necessaris a les confraries de pescadors com a motor econòmic de les comarques pesqueres."
+ },
+ {
+  "id": "comuns-0588",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Prohibirem la pesca recreativa d’espècies en situació biològica sensible."
+ },
+ {
+  "id": "comuns-0589",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Simplificarem la burocràcia per a les gestions administratives."
+ },
+ {
+  "id": "comuns-0590",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Constituir un comitè sobre les interaccions de la tonyina roja i els dofins amb la pesca artesanal, amb participació de les confraries, l’Institut Espanyol d’Oceanografia, els Instituts autonòmics encarregats de la investigació científica en matèria de pesca i biologia marina com l’ICATMAR, els centres de recerca i les entitats ambientals. Actualitzar els estudis sobre aquestes interaccions i sobre l’estat de la sardina i el seitó; establir compensacions pels danys acreditats a les xarxes i les captures. Redistribuir l’increment de la quota de tonyina en favor de la flota artesanal i familiar i una quota controlada per a les captures fortuïtes, sempre dins dels límits científics, i impulsar la recuperació del peix blau i la protecció de les seves zones de reproducció."
+ },
+ {
+  "id": "comuns-0591",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Política pesquera"
+  ],
+  "texto": "- Defensar davant de la Unió Europea que el repartiment de les quotes de gamba vermella i dels dies de pesca reconegui els esforços previs de conservació, per evitar que les confraries que han aplicat vedes, mesures de selectivitat i reduccions voluntàries de l’activitat en resultin penalitzades. simplificar-ne la gestió i compensar adequadament les paralitzacions, garantint que qualsevol modificació de l’esforç pesquer respongui a l’estat real del recurs. Impulsar també les llotges, les peixateries, la restauració local i els circuits curts per obtenir més valor de cada captura sense augmentar la pressió sobre el mar."
+ },
+ {
+  "id": "comuns-0592",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Impulsarem una política agrària al servei de la pagesia i la sobirania alimentària, garantint preus justos, reforçant el relleu generacional, millorant les assegurances davant dels efectes del canvi climàtic, promovent explotacions més sostenibles i defensant una competència justa davant de les importacions de tercers països. Defensarem el model com a pilar estratègic de la Unió Europea, protegint la capacitat de produir aliments, la pagesia i l’accés de tota la població a una alimentació saludable i sostenible."
+ },
+ {
+  "id": "comuns-0593",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Impulsarem un projecte de llei de compra pública alimentària sostenible amb indicadors clars i quotes incrementals de producte ecològic, que fixi un objectiu inicial mínim del 50% d’aliments frescos, de temporada, ecològics o de producció integrada i procedents de circuits curts en la restauració col·lectiva del sector públic; que incorpori criteris objectius de frescor, temporada, traçabilitat ambiental, sostenibilitat, benestar animal i responsabilitat social; que faciliti l’accés de petites explotacions i cooperatives mitjançant la divisió dels contractes en lots, i que prevegi ajudes per adaptar finques i cuines."
+ },
+ {
+  "id": "comuns-0594",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Treballar per un preu just agrari, impulsant mesures de restricció de les posicions oligopolístiques, de compliment (i desenvolupament) de la llei de cadena alimentària, de restricció del lliure comerç amb tercers països (en competència deslleial), d’ajudes als sectors més afeblits (arrossers, fruita d’os i cítrics, lactis, etc.)."
+ },
+ {
+  "id": "comuns-0595",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Promourem mesures de suport al sector fructícola: reconversió varietal, ajudes a l’arrencada i altres accions per a fer front al veto rus, al canvi de tendències de consum i a la reacció enfront de la invasió de producte d’origen no UE."
+ },
+ {
+  "id": "comuns-0596",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Convertir el Registre de Contractes Alimentaris en una eina d’inspecció que detecti preus anormalment baixos i activi controls d’ofici."
+ },
+ {
+  "id": "comuns-0597",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Reforçar l’autonomia, els recursos i el personal inspector de l’AICA i transformar-la en l’Agència Estatal d’Inspecció de la Cadena Alimentària."
+ },
+ {
+  "id": "comuns-0598",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Regular protocols oficials de mostreig, garantir als productors una liquidació desglossada i verificable i el dret a una contraanàlisi independent, impulsar inspeccions coordinades dels instruments, les mostres i les liquidacions, i sancionar l’alteració de les mesures o les dades que determinen el preu pagat."
+ },
+ {
+  "id": "comuns-0599",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Establir programes anuals d’inspecció dels preus i els costos de producció, amb objectius verificables i rendició de comptes al Congrés."
+ },
+ {
+  "id": "comuns-0600",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Transició Ecosocial",
+   "Món rural",
+   "Sobirania alimentària"
+  ],
+  "texto": "- Presentar anualment al Congrés un informe sobre el compliment de la Llei de la cadena alimentària que diferenciï els incompliments documentals dels pagaments per sota dels costos de producció, identifiqui si els controls s’han iniciat d’ofici, per selecció aleatòria, per anàlisi de riscos o arran d’una denúncia, i detalli les sancions imposades i els imports efectivament cobrats."
+ },
+ {
+  "id": "comuns-0601",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social"
+  ],
+  "texto": "El 2023 ens vam comprometre a reformar l’ingrés mínim vital, a crear una prestació universal per criança, a garantir un habitatge estable a les persones sense llar i a canviar el model de cures. Una part d’aquest camí s’ha fet. La reforma de les lleis de dependència i discapacitat, impulsada des del Ministeri de Drets Socials, és llei des del setembre de 2026. Una altra part continua pendent, perquè cada pas endavant ha costat una negociació dura dins del Govern i ha topat amb el bloqueig de la dreta al Congrés.\n\nMentrestant, viure s’ha fet més car i més incert. L’habitatge és avui el primer problema per al 55,7% de la ciutadania, el màxim que ha registrat mai el CIS. I el desnonament de Mari Carmen Abascal, que va morir als 87 anys quinze dies després d’haver de deixar la casa on havia viscut set dècades, ha posat nom i cara a una angoixa que comparteixen milions de llars.\n\nProposem quatre mesures perquè els drets socials arribin a la vida de la gent: que criar no empobreixi, que ningú no perdi la casa sense una alternativa, que ningú no hagi de cuidar sol i que cap llar no quedi per sota del mínim per viure amb dignitat. Les pagarem amb una fiscalitat justa, en què qui més té aporti més."
+ },
+ {
+  "id": "comuns-0602",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Aprovarem la Llei de la Prestació Universal per Criança: amb 200 euros al mes per a cada infant i adolescent fins als 18 anys, com a dret propi de l’infant, sense requisits de renda ni de situació laboral de la família, inembargable i compatible amb qualsevol altre ingrés."
+ },
+ {
+  "id": "comuns-0603",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Es cobrarà cada mes, des del naixement i sense paperassa. La prestació funcionarà com una deducció reemborsable de l’IRPF que l’Agència Tributària abonarà mensualment, de manera automàtica, a partir de la inscripció al Registre Civil, també a les famílies que no fan la declaració de la renda. És el mateix mecanisme que ja fa servir la deducció per maternitat, però per a tothom i sense haver-lo de sol·licitar."
+ },
+ {
+  "id": "comuns-0604",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- La finançarem amb una fiscalitat progressiva: les grans fortunes i les rendes més altes hi aportaran més, i les famílies amb ingressos alts en retornaran una part a la declaració de la renda."
+ },
+ {
+  "id": "comuns-0605",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- La desplegarem en aquesta legislatura, començant per la primera infància: de 0 a 6 anys el primer any, fins als 12 anys el segon i fins als 18 abans que acabi el mandat."
+ },
+ {
+  "id": "comuns-0606",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Augmentarem un 20% el Pla Corresponsables i revertirem les seves retallades. Aquest pla ha estat un gran alleujament per a milions de famílies: finança serveis de cura de menors, crea ocupació per a dones aturades de llarga durada o de més edat i dona recursos a ajuntaments i comunitats per facilitar la conciliació. Les cures han de ser un dret de totes les famílies, no un privilegi a l’abast d’unes poques."
+ },
+ {
+  "id": "comuns-0607",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Ampliarem el permís per naixement fins a 20 setmanes, amb més flexibilitat pel seu gaudi a temps parcial a partir de la setmana 16."
+ },
+ {
+  "id": "comuns-0608",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Garantir la prestació per criança a tots els infants residents, independentment de la situació administrativa familiar, amb vies alternatives d’acreditació per als nascuts a l’estranger."
+ },
+ {
+  "id": "comuns-0609",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "La criança, un dret de ciutadania. Pel dret a la infància."
+  ],
+  "texto": "- Es reformarà el mínim per descendents a l’IRPF i la resta de deduccions per fills menors per tal d’integrar-les amb la Prestació Universal per Criança."
+ },
+ {
+  "id": "comuns-0610",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "Aquesta legislatura s’ha aprovat la reforma més gran del sistema de dependència des que es va crear, el 2006. La va impulsar el Ministeri de Drets Socials i el Congrés la va aprovar definitivament el 16 de setembre de 2026, amb l’abstenció del PP i el vot en contra de Vox. Escurça a tres mesos el termini per reconèixer el grau, permet combinar prestacions que fins ara eren incompatibles i reconeix la figura de la persona cuidadora principal, a qui l’Estat pagarà la cotització. A més, ha quedat fixat per llei que l’Estat finançarà la meitat del sistema, i les transferències a les comunitats gairebé es doblaran el 2027.\n\nPerò a moltes cases la sensació continua sent que la família s’ho ha de fer sola. El 63,5% de les persones grans en situació de dependència només rep cures d’un familiar. Gairebé la meitat de les persones que cuiden a casa hi dediquen més de deu hores al dia, i set de cada deu són dones. L’ajuda a domicili és de 38 hores al mes de mitjana, unes dues hores al dia per a qui té una gran dependència, i la prestació per cures familiars és de 264 euros al mes."
+ },
+ {
+  "id": "comuns-0611",
+  "partido": "comuns",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "Aquesta legislatura s’ha aprovat la reforma més gran del sistema de dependència des que es va crear, el 2006. La va impulsar el Ministeri de Drets Socials i el Congrés la va aprovar definitivament el 16 de setembre de 2026, amb l’abstenció del PP i el vot en contra de Vox. Escurça a tres mesos el termini per reconèixer el grau, permet combinar prestacions que fins ara eren incompatibles i reconeix la figura de la persona cuidadora principal, a qui l’Estat pagarà la cotització. A més, ha quedat fixat per llei que l’Estat finançarà la meitat del sistema, i les transferències a les comunitats gairebé es doblaran el 2027.\n\nPerò a moltes cases la sensació continua sent que la família s’ho ha de fer sola. El 63,5% de les persones grans en situació de dependència només rep cures d’un familiar. Gairebé la meitat de les persones que cuiden a casa hi dediquen més de deu hores al dia, i set de cada deu són dones. L’ajuda a domicili és de 38 hores al mes de mitjana, unes dues hores al dia per a qui té una gran dependència, i la prestació per cures familiars és de 264 euros al mes."
+ },
+ {
+  "id": "comuns-0612",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "- Arribarem a la mitjana europea d’inversió en cures en el marc d’un Pacte d’Estat que ho impulsi i blindi. L’Estat ja ha fixat per llei que finançarà la meitat del sistema. Ara proposem un calendari pressupostari, acordat amb les comunitats autònomes, perquè la inversió pública en cures passi del 0,8% a l’1,7% del PIB el 2030. Una part d’aquests recursos anirà a un pla estatal, cofinançat amb les comunitats, per estendre els centres de dia de proximitat, l’assistència personal i els habitatges amb suports, i per convertir les residències en llars més petites."
+ },
+ {
+  "id": "comuns-0613",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "- Doblarem les hores d’atenció a domicili. Acordarem al Consell Territorial unes intensitats mínimes del servei d’ajuda a domicili per a cada grau que dupliquin la mitjana actual, amb atenció cada dia, també els caps de setmana, per a les persones amb gran dependència. L’Estat en pagarà la meitat."
+ },
+ {
+  "id": "comuns-0614",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "- Cap persona no haurà de destinar més del 30% dels seus ingressos a pagar les cures. Ho fixarem a la normativa estatal bàsica, que és on ja es regulen els criteris de copagament, i les rendes baixes en quedaran exemptes. A les residències, el límit s’aplicarà al cost de l’atenció, no a l’allotjament i la manutenció, i es garantirà una quantitat per a despeses personals molt més alta que l’actual."
+ },
+ {
+  "id": "comuns-0615",
+  "partido": "comuns",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Drets",
+   "Acció social",
+   "Ningú no ha de cuidar sol. Enfortim el sistema d’atenció a la dependència."
+  ],
+  "texto": "- Reconeixerem el dret al respir a la llei estatal de dependència. Qui cuida un familiar amb dependència greu tindrà dret, com a mínim, a un mes de respir l’any, amb estades temporals, centres de dia amb horaris amplis i suport a casa, finançat a parts iguals per l’Estat i les comunitats."
+ }
+]

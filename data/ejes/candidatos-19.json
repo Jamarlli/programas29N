@@ -1,0 +1,1477 @@
+[
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 66,
+  "palabras": 5136,
+  "candidatos": [
+   {
+    "id": "pfac-0030",
+    "partido": "pfac",
+    "titular": "Gestión pública, sin externalizaciones, de los servicios a víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "22. Revertir las privatizaciones para que los servicios de crisis, de acogida, de atención y de protección sean de gestión pública, sin externalizaciones que los convierta en actividades lucrativas para el sector privado, acabando con los recortes y cierres en los recursos de ayuda a las víctimas de violencia machista, camuflados como «reorganizaciones geográficas y operativas»."
+   },
+   {
+    "id": "pfac-0162",
+    "partido": "pfac",
+    "titular": "Limitar las asistencias técnicas como privatizaciones encubiertas",
+    "marca_actual": [],
+    "texto": "9. Limitar al máximo las contrataciones de asistencias técnicas que se han convertido en privatizaciones encubiertas y vigilar que en ningún caso ejerzan funciones propias de los órganos administrativos o del funcionariado."
+   },
+   {
+    "id": "pfac-0361",
+    "partido": "pfac",
+    "titular": "Eliminar las deducciones por planes de pensiones",
+    "marca_actual": [],
+    "texto": "8. Eliminar las deducciones a planes de pensiones, dado que son un incentivo a la privatización de estos, no son deducciones reales sino un aplazamiento de la carga impositiva y, además, porque las oscilaciones del mercado bursátil pueden hacer perder el esfuerzo de ahorro de las clases trabajadoras."
+   },
+   {
+    "id": "pfac-0381",
+    "partido": "pfac",
+    "titular": "Los servicios públicos como garantía de derechos y de igualdad",
+    "marca_actual": [],
+    "texto": "Los servicios públicos son una garantía fundamental de los derechos de la ciudadanía y una condición indispensable para construir una sociedad más justa e igualitaria. La sanidad, la educación, las pensiones, la protección social, el acceso a la vivienda y la justicia no pueden depender de la capacidad económica de cada persona ni quedar sometidos a los intereses del mercado. Corresponde a los poderes públicos garantizar su acceso universal, su calidad y los recursos necesarios para que cumplan su función.\n\nDesde el PFAC defendemos unos servicios públicos sólidos, suficientes y accesibles, capaces de responder a las necesidades de las personas a lo largo de toda su vida. Su debilitamiento, la insuficiencia de recursos y la privatización de prestaciones esenciales no afectan a toda la población por igual: agravan las desigualdades existentes y repercuten especialmente en las mujeres, que soportan una parte desproporcionada del trabajo no remunerado y encuentran mayores obstáculos para alcanzar la autonomía económica y desarrollar sus proyectos de vida."
+   },
+   {
+    "id": "pfac-0387",
+    "partido": "pfac",
+    "titular": "Diagnóstico: declive del SNS por recortes, infrafinanciación y privatización",
+    "marca_actual": [],
+    "texto": "El PFAC apuesta por un modelo de sanidad pública universal de calidad, con una fuerte financiación que permita la mejor atención posible a las múltiples y diversas necesidades de toda la población, desde la atención primaria hasta la hospitalaria, y en las mejores condiciones laborales para el personal sanitario.\n\nConsiderado históricamente uno de los mejores del mundo, nuestro Sistema Nacional de Salud sufre un declive continuo desde los severos recortes de corte neoliberal impuestos tras la crisis de 2008. La posterior crisis de la Covid-19 terminó por saturar y desajustar una estructura ya debilitada, una realidad que el Plan de Recuperación, Transformación y Resiliencia (PRTR) no logrará subsanar antes de su vencimiento el 31 de diciembre de 2026. El diagnóstico actual es alarmante debido a la infrafinanciación, la privatización de la gestión y los servicios, la entrada de multinacionales y un gasto farmacéutico disparado. Las instalaciones se deterioran y la drástica reducción de personal sanitario agrava la situación, hundiendo la calidad del servicio y generando listas de espera inasumibles."
+   },
+   {
+    "id": "pfac-0391",
+    "partido": "pfac",
+    "titular": "Aumentar el gasto sanitario público hasta el 8 % del PIB",
+    "marca_actual": [],
+    "texto": "1. Garantizar una dotación presupuestaria sostenible para el sistema sanitario público mediante un incremento progresivo del gasto hasta alcanzar el 8 % del Producto Interior Bruto (PIB), equiparando a España con la media de las naciones de la Unión Europea que presentan los mejores indicadores de salud, con el fin de asegurar que el personal sanitario disponga de los recursos necesarios y que toda la ciudadanía reciba una atención médica universal, equitativa y de máxima calidad."
+   },
+   {
+    "id": "pfac-0392",
+    "partido": "pfac",
+    "titular": "Recuperar la sanidad universal previa al RDL 16/2012 para todas las personas residentes",
+    "marca_actual": [],
+    "texto": "2. Recuperar la sanidad universal en los mismos términos en los que estaba antes del Real Decreto Ley 16/2012, garantizando la Tarjeta Sanitaria a todos las personas residentes en el Estado español."
+   },
+   {
+    "id": "pfac-0394",
+    "partido": "pfac",
+    "titular": "Revertir las privatizaciones sanitarias y derogar la Ley 15/1997",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "4. Revertir las privatizaciones de servicios sanitarios y de gestión de hospitales públicos, trabajando para la derogación de la Ley 15/1997, de 25 de abril sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud que las ha permitido."
+   },
+   {
+    "id": "pfac-0395",
+    "partido": "pfac",
+    "titular": "Justificar y penalizar las derivaciones a la privada hasta llegar a cero",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "5. Exigir justificación de las derivaciones de actos médicos o quirúrgicos a centros privados de cada CCAA, penalizando las no estrictamente necesarias y sirviendo como análisis de puntos de mejora, hasta que las derivaciones a privado sean cero."
+   },
+   {
+    "id": "pfac-0396",
+    "partido": "pfac",
+    "titular": "Internalizar progresivamente los servicios no clínicos de la sanidad pública",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "6. Promover la internalización progresiva de los servicios no clínicos (limpieza, hostelería, lavandería…) para su prestación directa por parte de las administraciones públicas."
+   },
+   {
+    "id": "pfac-0404",
+    "partido": "pfac",
+    "titular": "Reforzar la interoperabilidad de la Historia Clínica Digital del SNS",
+    "marca_actual": [],
+    "texto": "14. Reforzar la interoperabilidad de la Historia Clínica Digital del Sistema Nacional de Salud para garantizar el acceso seguro y efectivo a la información clínica relevante desde cualquier centro sanitario público, con independencia de la comunidad autónoma en la que se haya generado. Mejorar la integración y disponibilidad de los datos clínicos para evitar que su fragmentación dificulte el diagnóstico y el tratamiento, especialmente en situaciones de urgencia."
+   },
+   {
+    "id": "pfac-0428",
+    "partido": "pfac",
+    "titular": "Revisar los conciertos, priorizar la red pública y no financiar centros sexistas",
+    "marca_actual": [],
+    "texto": "3. Revisar progresivamente el sistema de conciertos educativos para priorizar la red pública y garantizar que ningún recurso público se destine a centros que mantengan prácticas de discriminación sexista o contrarias a los principios de igualdad y coeducación."
+   },
+   {
+    "id": "pfac-0459",
+    "partido": "pfac",
+    "titular": "Los cuidados asumidos por las mujeres penalizan sus pensiones; rechazo a recortes y privatización",
+    "marca_actual": [],
+    "texto": "Históricamente, el Estado ha eludido su responsabilidad directa en el cuidado de menores, dependientes y personas mayores, delegando de manera injusta esta obligación social en el ámbito privado. Ante la falta de unos servicios públicos universales y comunitarios, las mujeres han asumido de manera desproporcionada el peso de este trabajo reproductivo esencial, viéndose obligadas a interrumpir sus carreras profesionales o a reducir sus jornadas laborales. Al no asumir el Estado su rol como garante universal de los cuidados, el sistema actual de pensiones penaliza y cronifica una injusticia de clase y de género que se manifiesta décadas después en la cuantía de las prestaciones de las mujeres.\n\nPor otro lado, rechazamos cualquier lógica de recorte o privatización. Sostenemos que el sistema no sufre un problema de gasto, sino de ingresos. Aunque es necesario reformar el sistema de reparto para mejorar su contribución, garantizar las pensiones implica su inclusión en los Presupuestos Generales como otras partidas de servicios públicos. Actualmente, el déficit del sistema de reparto es compensado por transferencias y préstamos del Estado, que ya suponen aproximadamente un 25% del gasto público total en pensiones."
+   },
+   {
+    "id": "pfac-0460",
+    "partido": "pfac",
+    "titular": "Las pensiones tienen un problema de ingresos, no de gasto",
+    "marca_actual": [],
+    "texto": "Rechazamos cualquier lógica de recorte o privatización. Sostenemos que el sistema no sufre un problema de gasto, sino de ingresos. Aunque es necesario reformar el sistema de reparto para mejorar su contribución, garantizar las pensiones implica su inclusión en los Presupuestos Generales como otras partidas de servicios públicos. Actualmente, el déficit del sistema de reparto es compensado por transferencias y préstamos del Estado, que ya suponen aproximadamente un 25% del gasto público total en pensiones.\n\nFinalmente, erradicar la pobreza en la vejez es una prioridad absoluta para nuestra formación, que requiere una intervención directa sobre los suelos de protección social.\n\nPor todo ello, además de la medida 23, consideramos imprescindibles las siguientes actuaciones:"
+   },
+   {
+    "id": "pfac-0475",
+    "partido": "pfac",
+    "titular": "Apostar por la gestión directa de los servicios sociales y recursos específicos para mujeres",
+    "marca_actual": [],
+    "texto": "En el Partido Feministas al Congreso apostamos por reforzar el sector público y apoyar de forma decidida la gestión directa de los servicios sociales; y cuando esto no sea posible, priorizar la colaboración con entidades sociales del tercer sector por encima de las empresas mercantiles con ánimo de lucro.\n\nPor otra parte, la ausencia de una cartera de servicios única a nivel estatal conlleva graves diferencias entre las comunidades autónomas o que la ejecución de leyes estatales se convierta en un laberinto burocrático y de desigual implementación en el Estado, generando con ello ciudadanía «de primera y de segunda».\n\nAdemás, tanto en los estudios sociales como en la creación de servicios y proyectos se sigue una perspectiva androcéntrica, teniendo en cuenta fundamentalmente las necesidades de los hombres. Existen pocos recursos dirigidos específicamente a las mujeres y su financiación es escasa. Además, tras la aprobación de la conocida como «Ley Trans» —en línea con lo sucedido en otros países—, estos entornos han dejado de ser espacios seguros para ellas. Estos aspectos resultan determinantes, dado que el perfil mayoritario, tanto en el ámbito profesional como en el de la población usuaria de los servicios sociales, es femenino.\n\nEn base a todo lo expuesto, el PFAC emprenderá las siguientes actuaciones:"
+   },
+   {
+    "id": "pfac-0480",
+    "partido": "pfac",
+    "titular": "Recuperar la gestión pública directa de los servicios sociales",
+    "marca_actual": [],
+    "texto": "5. Recuperar progresivamente la gestión pública directa de los servicios sociales en los ámbitos estatal, autonómico y municipal. Durante este proceso, se priorizará la colaboración con entidades del tercer sector sobre las empresas con ánimo de lucro."
+   },
+   {
+    "id": "pfac-0573",
+    "partido": "pfac",
+    "titular": "Transporte gratuito o simbólico para jóvenes en desempleo",
+    "marca_actual": [],
+    "texto": "4. Financiar el transporte urbano e interurbano de jóvenes que se encuentren en situación de desempleo a fin de garantizar su gratuidad o coste simbólico. La gestión directa y ejecución de esta medida correrá a cargo de las administraciones autonómicas y locales."
+   },
+   {
+    "id": "pfac-0594",
+    "partido": "pfac",
+    "titular": "Plan de Vivienda Social: parque público de alquiler del 3,3 % al 8 %",
+    "marca_actual": [],
+    "texto": "2. Poner en marcha un Plan Estatal de Vivienda Social Garantizada que contemple:\n - Incrementar de forma progresiva el parque público de vivienda en régimen de alquiler asequible, pasando del 3,3 % actual al 8 %. Este parque estará protegido frente a cualquier proceso de privatización o especulación mediante una gestión pública permanente, blindada constitucionalmente. Con este fin, se contemplan las siguientes medidas:\n - Construir o rehabilitar vivienda pública social.\n - Expropiar de forma forzosa a los fondos de inversión y las SOCIMI las viviendas originalmente públicas, fijando el precio de tasación según su valor de adquisición actualizado y excluyendo las plusvalías del mercado actual.\n - Movilizar las viviendas desocupadas de forma injustificada durante más de dos años para incrementar el parque público de alquiler, mediante dos vías: la expropiación a grandes tenedores y la cesión temporal de usufructo para pequeños propietarios.\n - Planificar a corto, medio y largo plazo, el acceso universal a la vivienda pública en alquiler, con unas mínimas condiciones habitacionales dignas y con alquileres que no superen el 25% de los ingresos familiares.\n - Reservar vivienda pública para mujeres con menores a su cargo tras una ruptura, con procedimientos de adjudicación rápida y sin necesidad de aval bancario cuando la situación económica les impida obtenerlo."
+   },
+   {
+    "id": "pfac-0695",
+    "partido": "pfac",
+    "titular": "Ley de Garantías y Acceso Universal a la Justicia con Turno de Oficio público",
+    "marca_actual": [],
+    "texto": "4. Elevar a rango de ley los principios de la Carta de Derechos ante la Justicia, transformando sus recomendaciones en obligaciones jurídicas vinculantes para todo el personal de la judicatura, la abogacía, la procura y la administración procesal. La nueva Ley de Garantías y Acceso Universal a la Justicia transformará el servicio público a través de las siguientes medidas:\n - Garantizar un trato respetuoso, transparente y libre de discriminación a toda la ciudadanía.\n - Establecer un catálogo de infracciones y sanciones ante incumplimientos sistemáticos de plazos de respuesta o de los estándares de atención.\n - Blindará salvaguardas especiales para colectivos desprotegidos como la infancia, las personas con discapacidad, las personas migrantes y las víctimas de violencia machista.\n - Garantizar la justicia gratuita y un Turno de Oficio público, asegurando este derecho constitucional para quienes acrediten insuficiencia de recursos, blindando el Turno de Oficio como un servicio público de gestión directa, reforzando su presupuesto y vinculando por ley sus retribuciones al IPC para garantizar una defensa de máxima calidad.\n - Facilitar la consulta en tiempo real del expediente procesal mediante un portal único e intuitivo, y obligar a que las notificaciones incorporen un resumen ejecutivo en lenguaje accesible y de lectura fácil.\n - Establecer una oficina independiente de control, con un régimen sancionador eficaz frente a los incumplimientos de la Administración de Justicia."
+   },
+   {
+    "id": "pfac-0770",
+    "partido": "pfac",
+    "titular": "Impedir la privatización de bienes comunes como el agua, la tierra y las semillas",
+    "marca_actual": [],
+    "texto": "11. Reconocer el valor de los bienes comunes como el agua, la tierra y las semillas, impidiendo su privatización."
+   },
+   {
+    "id": "pfac-0775",
+    "partido": "pfac",
+    "titular": "Revertir la privatización de los comedores en educación, sanidad y residencias",
+    "marca_actual": [],
+    "texto": "16. Revertir la privatización de los servicios alimentarios en educación, sanidad y residencias públicas."
+   },
+   {
+    "id": "pfac-0834",
+    "partido": "pfac",
+    "titular": "Diagnóstico: agua y energía mercantilizadas como parte del derecho a la vivienda",
+    "marca_actual": [],
+    "texto": "El derecho a una vivienda digna va más allá de garantizar un espacio físico para vivir en él. La dignificación de este espacio comporta incluir el acceso a todos los servicios necesarios para desarrollar una vida que merezca ser vivida, lo que implica necesariamente, el acceso a la energía y al agua. En este sentido, el acceso universal a los servicios básicos es fundamental para garantizar el derecho a una vivienda digna. Sin embargo, estos bienes comunes: vivienda, energía y agua, están mercantilizados y su acceso limitado o condicionado a la voluntad de las empresas privadas que lo gestionan. Con la privatización de recursos vitales como el agua y la energía, el Estado pierde soberanía y capacidad para planificar a largo plazo frente a crisis climáticas.\n\nEl agua y la energía son bienes escasos y profundamente interconectados, fundamentales para la supervivencia humana, el desarrollo económico y la estabilidad del planeta. A pesar de ser recursos vitales, la presión demográfica, el cambio climático y la gestión ineficiente están acelerando su agotamiento a nivel global."
+   },
+   {
+    "id": "pfac-0836",
+    "partido": "pfac",
+    "titular": "Modelo energético descentralizado y plan de nacionalización de empresas de energía y agua",
+    "marca_actual": [],
+    "texto": "España, con su notable capacidad en energías solar y eólica, tiene una posición estratégica para liderar esta transformación. Pero no ha de hacerse de cualquier manera. En el PFAC abogamos por un modelo energético descentralizado que garantice el derecho a la energía (la pobreza energética afecta, mayoritariamente, a las mujeres) y una transición energética que asegure la justicia y equidad social y territorial, apoyando la reconversión económica de los territorios más afectados por la descarbonización. Para la consecución de estos objetivos es necesario elaborar un plan de nacionalización de las empresas estratégicas del sector de la energía y el agua que fueron privatizadas en décadas pasadas.\n\nHistóricamente, la participación de las mujeres en el sector energético y tecnológico ha sido escasa, tanto en empleo como en liderazgo. En el PFAC entendemos que una transición ecológica y energética solo será justa y exitosa, si se aborda de manera transversal y con enfoque feminista, dentro de un marco político amplio y sectorial que incluya la actualización de los programas de educación y formación profesional que capaciten especialmente a las mujeres para liderar estos proyectos, así como políticas de mercado laboral que faciliten su incorporación a los nuevos puestos de trabajo."
+   },
+   {
+    "id": "pfac-0843",
+    "partido": "pfac",
+    "titular": "Ley del ciclo integral del agua con gestión pública directa y municipalizaciones",
+    "marca_actual": [],
+    "texto": "4. Desarrollar, aprobar e implantar una ley para la gestión integral del ciclo del agua, con medidas como establecer mecanismos de gestión pública directa del agua, promover las municipalizaciones de las empresas del sector, planificar reutilizaciones, garantizar el suministro, eliminar los cortes en casos de impago justificados socialmente, penalizar a los grandes consumidores, endurecer las sanciones por contaminación de aguas, cerrar definitivamente pozos ilegales, entre otras."
+   },
+   {
+    "id": "pfac-0844",
+    "partido": "pfac",
+    "titular": "Prohibir la privatización de manantiales y expropiar a las embotelladoras",
+    "marca_actual": [],
+    "texto": "5. Prohibición de la privatización de los manantiales de agua potable para embotellar y expropiación de las empresas que las explotan."
+   },
+   {
+    "id": "pfac-0914",
+    "partido": "pfac",
+    "titular": "Menú sin alimentos de origen animal en todos los comedores públicos",
+    "marca_actual": [],
+    "texto": "36. Posibilitar la opción de menú sin alimentos de origen animal en todos los comedores de gestión pública."
+   },
+   {
+    "id": "pfac-0969",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la UE como instrumento de los grandes poderes económicos",
+    "marca_actual": [],
+    "texto": "La entrada de España a la Unión Europea (UE) ha supuesto la supresión de la soberanía económica y monetaria de nuestro país. La UE no es el proyecto de libertad, igualdad y fraternidad que nos han vendido, o al menos no es su objetivo fundamental, sino que es el instrumento principal de los grandes poderes económicos (empresas y bancos multinacionales) para imponer su agenda en Europa: mercado libre, precarización laboral, destrucción de servicios públicos y socialización de las pérdidas empresariales mientras se privatizan las ganancia (ej. rescates bancarios). Esta agenda económica neoliberal ha supuesto el empobrecimiento de la clase trabajadora, teniendo un especial impacto en las mujeres, que ocupan los sectores económicos más precarizados.\n\nLa arquitectura institucional de la UE permite que se pueda desarrollar esta agenda económica sin posibilidad de un control de la ciudadanía ya que la voluntad democrática (Parlamento Europeo) es sustituida por acuerdos no transparentes entre los gobiernos y la burocracia de la UE (Consejo Europeo y Comisión Europea), a lo que hay que añadir una institución como es el Banco Central Europeo, que rige la política monetaria de la UE sin ningún control democrático."
+   },
+   {
+    "id": "pfac-0970",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la integración europea ha perjudicado a la clase trabajadora y a las mujeres",
+    "marca_actual": [],
+    "texto": "Para España, la adhesión a la UE ha tenido como consecuencia la privatización de empresas esenciales del sector público (energéticas, comunicaciones) y la destrucción del tejido industrial para focalizar nuestra economía en el sector servicios, especialmente el turismo, sector muy feminizado y precarizado. Además, las medidas de austeridad asociadas al Plan de Estabilidad y Crecimiento (PEC) están provocando la destrucción de los servicios públicos, lo que también afecta especialmente a las mujeres, sobre las que mayoritariamente recae la carga de los cuidados de las personas dependientes. El proceso de integración en el proyecto europeo ha beneficiado por tanto a las élites económicas y ha perjudicado a la clase trabajadora, causando una enorme brecha social, incluida la brecha salarial entre mujeres y hombres. Los grupos y partidos de ultraderecha han podido prosperar precisamente gracias al descontento social provocado por estas políticas económicas, siendo incapaz, la mal llamada “izquierda institucional”, de ofrecer una alternativa coherente y creíble para mejorar la situación de la población. En los últimos años, además, los cambios legislativos en la UE han ido erosionando los derechos de las mujeres basados en el sexo al ir introduciendo progresivamente el concepto pseudocientífico de la “identidad de género”. Esto ha dificultado el desarrollo de políticas dirigidas a situaciones que tienen su causa precisamente en el sexo: violencia sexual, discriminación reproductiva, deporte femenino, estadísticas, espacios de un solo sexo, etc. Aunque en el Parlamento Europeo se han tomado algunas resoluciones positivas, como el reconocimiento de la prostitución como un sistema de explotación y violencia en septiembre de 2023, en otras áreas como la de la explotación reproductiva los avances no han sido los deseados para erradicar esta práctica en el espacio europeo."
+   },
+   {
+    "id": "pfac-0986",
+    "partido": "pfac",
+    "titular": "Priorizar programas de cooperación no asistenciales y sin privatización de recursos",
+    "marca_actual": [],
+    "texto": "2. Priorizar -con los fondos de cooperación- programas no asistenciales que promuevan una transición económica soberana y feminista de los pueblos, y que excluya las políticas de privatización de los recursos y la obtención de beneficios comerciales por parte de España."
+   },
+   {
+    "id": "pfac-1021",
+    "partido": "pfac",
+    "titular": "Suprimir conciertos con centros religiosos contrarios a la igualdad entre mujeres y hombres",
+    "marca_actual": [],
+    "texto": "20. Suprimir progresivamente los conciertos educativos con centros que fundamenten su proyecto educativo en doctrinas religiosas contrarias a la igualdad entre mujeres y hombres o a los principios constitucionales de igualdad y no discriminación."
+   },
+   {
+    "id": "ph-0018",
+    "partido": "ph",
+    "titular": "Diagnóstico: esperas quirúrgicas de 120 días y gasto sanitario del 6,7 % del PIB",
+    "marca_actual": [],
+    "texto": "El Sistema Nacional de Salud (SNS) sufre el impacto de recortes y privatizaciones soterradas. Las listas de espera quirúrgicas superan los 120 días de media y las consultas externas rebasan los 90 días. El gasto sanitario público en España se sitúa en el 6,7% del PIB, lejos del gasto de países de nuestro entorno. La situación en salud mental es crítica: España lidera el consumo mundial de benzodiacepinas y cuenta con 6 psicólogos clínicos por cada 100.000 habitantes en la red pública, frente a la media europea de 18."
+   },
+   {
+    "id": "ph-0020",
+    "partido": "ph",
+    "titular": "Cita: salud y educación gratuitas como valores máximos de la revolución",
+    "marca_actual": [],
+    "texto": "En la Séptima Carta a Mis Amigos, Silo escribe: _«Si la salud y la educación son tratadas de modo desigual para los habitantes de un país, la revolución implica educación y salud gratuita para todos, porque en definitiva esos son los dos valores máximos de la revolución y ellos deberán reemplazar el paradigma de la sociedad actual dado por la riqueza y el poder. Poniendo todo en función de la salud y la educación, los complejísimos problemas económicos y tecnológicos de la sociedad actual tendrían un marco correcto de resolución»._"
+   },
+   {
+    "id": "ph-0021",
+    "partido": "ph",
+    "titular": "Derogar la Ley 15/1997 y blindar en la Constitución la gestión pública directa",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- **Propuesta 1: Blindaje constitucional de la gestión directa del SNS** Derogación inmediata de la Ley 15/1997 y de todas las fórmulas de colaboración públicoprivada o concesiones administrativas en la sanidad pública. Blindaje en el artículo 43 de la Constitución de la gestión pública directa, universal y gratuita del SNS."
+   },
+   {
+    "id": "ph-0022",
+    "partido": "ph",
+    "titular": "Elevar la inversión sanitaria al 9,5 % del PIB, 25 % para primaria",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Inversión sanitaria hasta el 9,5% del PIB** Incremento progresivo de la inversión pública en sanidad hasta alcanzar el 9,5% del PIB en la legislatura, destinando como mínimo el 25% de este presupuesto a la Atención Primaria y Comunitaria."
+   },
+   {
+    "id": "ph-0032",
+    "partido": "ph",
+    "titular": "No renovar los conciertos educativos y destinar sus fondos a la escuela pública",
+    "marca_actual": [],
+    "texto": "- **Propuesta 5: Extinción de conciertos y traspaso total de fondos a la escuela pública** No renovación de los conciertos educativos al expirar sus plazos y supresión de deducciones fiscales a la enseñanza privada. El 100% del dinero público liberado se transferirá de forma blindada y directa a la red estatal para modernizar infraestructuras, financiar materiales y reforzar el personal de apoyo."
+   },
+   {
+    "id": "ph-0052",
+    "partido": "ph",
+    "titular": "Crear la empresa pública Energía Humana y financiar al 100 % tejados solares",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Empresa Pública de Energía y Tejados Solares Comunitarios** Creación de la Empresa Pública \"Energía Humana\" para asumir la gestión pública de centrales hidroeléctricas recuperadas. Financiación pública al 100% de la instalación de comunidades energéticas solares en tejados de viviendas particulares y polígonos industriales, protegiendo el suelo agrícola frente a grandes macroparques fotovoltaicos especulativos."
+   },
+   {
+    "id": "ph-0061",
+    "partido": "ph",
+    "titular": "Organización solidaria desde la base; el independentismo reproduciría el mismo esquema",
+    "marca_actual": [],
+    "texto": "Esto sólo se conseguirá mediante una democracia directa apoyada por los instrumentos tecnológicos necesarios y otorgando a las administraciones municipales no sólo la gestión pública, sino también los recursos suficientes para hacerlo. Y por cierto que se trata de un modelo organizativo que apunta a la apertura como solución al creciente desorden provocado por los estados actuales. No hablamos de pequeños núcleos de decisión desconectados entre sí. Más bien al contrario. Apostamos por una organización social solidaria, construida por la base y desde la base, en la que las relaciones se establecerán de acuerdo al respeto y la colaboración mutuas. Y será así porque las propias poblaciones caerán en la cuenta de que no habrá progreso si no es de todos y para todos. Mientras esto no se propicie, cualquier opción independentista, sea en Cataluña, Euskadi o cualquier otro territorio, solo servirá para reproducir el mismo esquema que estamos criticando y para seguir manteniendo el mismo modelo de falta de democracia real, ahora en entidades más pequeñas."
+   },
+   {
+    "id": "nex-0066",
+    "partido": "nex",
+    "titular": "Reversión pública de los saltos hidroeléctricos del Tajo y el Guadiana",
+    "marca_actual": [],
+    "texto": "56. Reversión pública de los saltos hidroeléctricos del Tajo y el Guadiana al vencer las concesiones, con gestión pública extremeña."
+   },
+   {
+    "id": "nex-0095",
+    "partido": "nex",
+    "titular": "Reformar la ley de Administración Local para recuperar la gestión directa de servicios",
+    "marca_actual": [],
+    "texto": "85. Reforma de la Ley de Racionalización de la Administración Local para que los ayuntamientos puedan recuperar la gestión directa del agua, la basura y otros servicios sin trabas."
+   },
+   {
+    "id": "nex-0139",
+    "partido": "nex",
+    "titular": "Derogar la Ley 15/1997 que abrió la gestión privada de la sanidad pública",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "127. Derogar la Ley 15/1997, que abrió la puerta a la gestión privada de la sanidad pública."
+   },
+   {
+    "id": "d21-0224",
+    "partido": "d21",
+    "titular": "Diagnóstico: 850.000 pacientes en lista de espera y una gestión sanitaria ineficiente",
+    "marca_actual": [],
+    "texto": "_Nuestro Sistema Nacional de Salud ha sido durante décadas el mayor motivo de orgullo de nuestro país y un referente mundial. Pero hoy la gestión ineficiente y el cortoplacismo político lo están asfixiando: más de 850.000 pacientes esperan una operación en listas de espera quirúrgica que marcan récords históricos (con demoras medias superiores a los 120 días), mientras la Atención Primaria se encuentra colapsada. El sistema solo se sostiene gracias a la entrega heroica de sus profesionales, a costa de su salud física y mental: médicos, enfermeras, técnicos en cuidados auxiliares, técnicos sanitarios, celadores y el resto de trabajadores sostienen cada día plantas, urgencias y centros de salud con plantillas muy por debajo de lo que exige la carga asistencial. Y más de 10.000 profesionales sanitarios se han visto empujados a emigrar en los últimos años buscando condiciones dignas: una fuga de talento que no nos podemos permitir._\n\n_Pero seamos claros: en España invertimos miles de millones en sanidad y perdemos una cantidad ingente de recursos y tiempo por culpa de una gestión obsoleta e ineficiente. Defender nuestra sanidad pública no es gastar a ciegas: implica impulsar una revolución tecnológica que rescate cada euro mal gestionado_"
+   },
+   {
+    "id": "d21-0225",
+    "partido": "d21",
+    "titular": "Cubrir la dirección de hospitales y áreas de salud por concurso de mérito",
+    "marca_actual": [],
+    "texto": "- **Despolitización Total de la Dirección Hospitalaria:** suprimiremos los nombramientos políticos a dedo de gerentes y cargos directivos en la sanidad pública. La dirección de hospitales y áreas de salud se cubrirá exclusivamente mediante concurso público de mérito, capacidad y competencia profesional acreditada, con mandatos evaluados periódicamente en función de resultados, encuestas de satisfacción y eficiencia en la gestión."
+   },
+   {
+    "id": "d21-0227",
+    "partido": "d21",
+    "titular": "Abrir quirófanos públicos por la tarde y alquilar tramos vacantes a mutuas y aseguradoras",
+    "marca_actual": [],
+    "texto": "- **Rendimiento Máximo de Quirófanos y Reinversión en Listas de Espera:** un quirófano cerrado por las tardes es un despilfarro inasumible. Abriremos las instalaciones públicas en turno de tarde con prioridad absoluta para los pacientes de la sanidad pública, remunerando dignamente a los profesionales voluntarios. Y para asegurar que ningún recurso quede desaprovechado, habilitaremos un marco transparente que permita a mutuas y aseguradoras alquilar los tramos horarios vacantes bajo tarifas públicas prefijadas. Blindaremos por ley que el 100% de estos ingresos extra se reinvierta íntegramente en reducir listas de espera, mejorar sueldos, renovar tecnología y financiar nuestra sanidad pública."
+   },
+   {
+    "id": "d21-0228",
+    "partido": "d21",
+    "titular": "Red Sanitaria Compartida y auditoría continua con IA para reinvertir lo ahorrado",
+    "marca_actual": [],
+    "texto": "- **Auditar, Optimizar y Reinvertir:** en una única legislatura impulsaremos desde el Ministerio de Sanidad, en coordinación con las Comunidades Autónomas, la creación de una Red Sanitaria Compartida que digitalice, estandarice y conecte el 100% de los procesos organizativos, gestión de plantillas, flujos de pacientes y compra de medicamentos. Sobre esta red integrada, un sistema IA de auditoría continua evaluará en tiempo real, bajo supervisión humana, el uso de presupuestos, quirófanos, camas, maquinaria y material, detectando con precisión ineficiencias y cuellos de botella. Esta tecnología generará recomendaciones personalizadas de mejora para los equipos gestores de cada centro médico y propondrá optimizaciones estratégicas conjuntas a escala autonómica e interautonómica. Nuestro objetivo será innegociable: cada euro rescatado se reinvertirá íntegramente en mejorar los sueldos del personal, financiar la investigación y elevar la calidad material de la atención al paciente."
+   },
+   {
+    "id": "d21-0229",
+    "partido": "d21",
+    "titular": "Prohibir abrir centros sanitarios sin presupuesto ni plantilla garantizados",
+    "marca_actual": [],
+    "texto": "- **No Más Centros Sanitarios Fantasma:** realizaremos una auditoría inmediata sobre la red de infraestructuras sanitarias de todo el país para frenar la inauguración de centros de salud y consultorios promovidos como reclamo electoral sin capacidad real de contratación. Estará prohibido abrir nuevas instalaciones que no cuenten de antemano con una dotación presupuestaria y de plantilla médica plenamente garantizada."
+   },
+   {
+    "id": "d21-0237",
+    "partido": "d21",
+    "titular": "Historial clínico completo accesible en todo el SNS con un estándar común",
+    "marca_actual": [],
+    "texto": "- **Tu Historial Clínico, Contigo en Cualquier Parte de España:** nuestro historial médico sigue fragmentado en sistemas autonómicos que apenas se comunican entre sí. Hoy solo se comparte un resumen y algunos informes, que el profesional debe consultar fuera de su programa habitual, y las imágenes diagnósticas casi nunca viajan contigo. El resultado son pruebas repetidas, tiempo perdido y decisiones tomadas sin toda la información. Aprobaremos un estándar técnico común y obligatorio para todo el Sistema Nacional de Salud. Con él, cualquier profesional autorizado, en cualquier centro público de España, accederá en tiempo real y desde su propio puesto de trabajo a tu historial completo (diagnósticos, alergias, tratamientos, analíticas e imágenes) con solo leer tu tarjeta física o virtual. Tú decidirás quién lo consulta y verás cada acceso desde tu móvil. Completaremos el despliegue incorporando progresivamente a la sanidad privada y nos adelantaremos al calendario del Espacio Europeo de Datos de Salud."
+   },
+   {
+    "id": "d21-0240",
+    "partido": "d21",
+    "titular": "Red de hospitales monotemáticos de referencia y hospitales de proximidad",
+    "marca_actual": [],
+    "texto": "- **Red de Hospitales Monotemáticos y de Proximidad:** reorganizaremos el mapa hospitalario bajo la evidencia de que la especialización multiplica la calidad médica y la eficiencia económica. Crearemos redes de Hospitales Monotemáticos de Referencia tanto para áreas críticas (oncología, cardiología avanzada, daño cerebral…) como para procedimientos quirúrgicos rutinarios de alta demanda (prótesis de cadera y rodilla, cataratas, hernias…), logrando que equipos hiperespecializados operen con altísima precisión, menores tasas de complicación y tiempos de espera mínimos. Los hospitales generales y comarcales se fortalecerán en atención integral, diagnóstico rápido y urgencias de proximidad."
+   },
+   {
+    "id": "d21-0242",
+    "partido": "d21",
+    "titular": "Crear un Centro Nacional de Trasplantes impulsado por la ONT",
+    "marca_actual": [],
+    "texto": "- **Centro Nacional de Trasplantes para Descongestionar los Hospitales:** consolidaremos el liderazgo mundial de España creando un Centro Nacional de Trasplantes impulsado por la Organización Nacional de Trasplantes (ONT), con autonomía operativa y plantilla propia de élite. Hoy el altísimo volumen y la complejidad imprevista de los trasplantes desbordan la actividad diaria de los grandes hospitales generales, obligando a reprogramar cirugías ordinarias. Centralizar los procedimientos más complejos garantizará la máxima excelencia en el trasplante y liberará quirófanos y profesionales en toda la red hospitalaria para las tareas generales."
+   },
+   {
+    "id": "d21-0349",
+    "partido": "d21",
+    "titular": "Que ningún estudiante acabe la ESO sin ir al teatro, museo y cine",
+    "marca_actual": [],
+    "texto": "- **Cultura para Todos, Sin Excepción:** fomentamos que ningún estudiante termine la ESO sin haber ido al teatro, a un concierto, a un museo y a una sala de cine. Y reforzaremos las enseñanzas artísticas, de los conservatorios a las escuelas de arte dramático. Toda obra con apoyo público incorporará desde su origen subtitulado, audiodescripción y lengua de signos, y cines y teatros ofrecerán sesiones accesibles regulares, apoyadas en aplicaciones que sincronizan estos servicios en el móvil."
+   },
+   {
+    "id": "comuns-0118",
+    "partido": "comuns",
+    "titular": "Prohibir por ley reducir el gasto anual en salud, cuidados y servicios sociales",
+    "marca_actual": [],
+    "texto": "- Establir per llei que, independentment de les regles de despesa i equilibri financer i respectant les competències de totes les administracions, es prohibeixi reduir l’import total anual de la despesa en salut, en cura i en serveis socials."
+   },
+   {
+    "id": "comuns-0642",
+    "partido": "comuns",
+    "titular": "La salud como servicio público y derecho humano, no como negocio",
+    "marca_actual": [],
+    "texto": "La salut és un servei públic i un dret humà fonamental, que ha de ser garantit per les institucions. És també un factor indispensable per al desenvolupament social, econòmic i polític. Davant els discursos que volen afeblir la sanitat pública a favor de grans empreses privades, cal fer polítiques ambicioses que defensin i no facin retrocedir un dels pilar més fonamentals de la nostra societat. La salut no és un negoci, i la sanitat pública universal no serà un bé de mercat.\n\nVolem garantir la sanitat com a servei públic i anar més enllà. Volem democràcia participativa de la comunitat, volem ampliar els serveis, i volem atendre les noves necessitats sanitàries per donar resposta als reptes actuals.\n\nLa salut és un servei públic i un dret humà fonamental, que han de garantir les institucions. És també un factor indispensable per al desenvolupament social, econòmic i polític. Per això partim d’un valor essencial: l’equitat. Una sanitat equitativa és aquella que dona a cada persona el que necessita, i no només el mateix a tothom, perquè les desigualtats de renda, territori, gènere, edat o origen no es converteixin en desigualtats de salut."
+   },
+   {
+    "id": "comuns-0643",
+    "partido": "comuns",
+    "titular": "Un sistema de salud equitativo con la misma calidad en todo el territorio",
+    "marca_actual": [],
+    "texto": "Davant els discursos que volen afeblir la sanitat pública a favor de grans empreses privades, cal fer polítiques ambicioses que defensin i no facin retrocedir un dels pilars més fonamentals de la nostra societat. La salut no és un negoci, i la sanitat pública universal no serà un bé de mercat.\n\nVolem garantir la sanitat com a servei públic i anar més enllà: construir un sistema de salut equitatiu, que arribi a tothom amb la mateixa qualitat visquin on visquin, i que posi l’atenció allà on les necessitats són més grans. Volem una democràcia participativa de la comunitat, ampliar els serveis i atendre les noves necessitats sanitàries per donar resposta als reptes actuals."
+   },
+   {
+    "id": "comuns-0644",
+    "partido": "comuns",
+    "titular": "Sistema Nacional de Salud público en titularidad y gestión",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Garantirem un Sistema Nacional de Salut integral i integrat que estableixi els serveis públics, en titularitat i gestió."
+   },
+   {
+    "id": "comuns-0645",
+    "partido": "comuns",
+    "titular": "Gasto sanitario mínimo del 8 % del PIB y 25 % para primaria",
+    "marca_actual": [],
+    "texto": "- Augmentarem progressivament el PIB sanitari fins a la mitjana de la UE. El nostre objectiu ha de ser com a mínim el 8% del PIB i destinant un 25% del pressupost a l’Atenció Primària."
+   },
+   {
+    "id": "comuns-0646",
+    "partido": "comuns",
+    "titular": "Recuperar la universalidad de la sanidad y cumplir el Real Decreto ley 7/2018",
+    "marca_actual": [],
+    "texto": "- Recuperarem la universalitat i l’equitat territorial i social de la sanitat. Garantirem el compliment i desenvolupament del Reial Decret llei 7/2018, de 27 de juliol, sobre l’accés universal al Sistema Nacional de Salut."
+   },
+   {
+    "id": "comuns-0647",
+    "partido": "comuns",
+    "titular": "Fijar responsabilidades de CCAA y Estado en nuevas prestaciones y vacunas",
+    "marca_actual": [],
+    "texto": "- Establirem pautes clares sobre responsabilitats de les CCAA i el govern central en la incorporació de noves prestacions i vacunes, respectant els criteris d’autonomia, eficàcia, eficiència i seguretat."
+   },
+   {
+    "id": "comuns-0653",
+    "partido": "comuns",
+    "titular": "Acceso efectivo a la sanidad independientemente de la situación administrativa",
+    "marca_actual": [],
+    "texto": "- Garantirem l’accés efectiu a la sanitat independentment de la situació administrativa, eliminant barreres documentals i incorporant interpretació professional i mediació intercultural."
+   },
+   {
+    "id": "comuns-0655",
+    "partido": "comuns",
+    "titular": "Crear un Observatorio independiente de evaluación y calidad del SNS",
+    "marca_actual": [],
+    "texto": "- Crearem l’Observatori d’Avaluació, Control, Transparència, Qualitat i Sostenibilitat del SNS, com a ens independent de l’administració."
+   },
+   {
+    "id": "comuns-0656",
+    "partido": "comuns",
+    "titular": "Plan de reversión de los servicios sanitarios privatizados",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Executarem un pla de reversió dels serveis totalment privatitzats, així com dels de titularitat pública i gestió privatitzada, inclosos els centres de reconeixement mèdic."
+   },
+   {
+    "id": "comuns-0660",
+    "partido": "comuns",
+    "titular": "Ampliar la cartera de servicios de los hospitales rurales",
+    "marca_actual": [],
+    "texto": "- Ampliarem la cartera de serveis dels hospitals de les zones rurals, per millorar l’equitat territorial del SNS (traumatologia, ORL, endocrinologia, neurologia, oncologia, dermatologia...)."
+   },
+   {
+    "id": "comuns-0664",
+    "partido": "comuns",
+    "titular": "Plan estatal para renovar la tecnología diagnóstica de los hospitales públicos",
+    "marca_actual": [],
+    "texto": "- Renovarem la tecnologia diagnòstica als hospitals públics amb un pla estatal d’inversió."
+   },
+   {
+    "id": "comuns-0667",
+    "partido": "comuns",
+    "titular": "Actualizar los criterios del FOGA y el FCS y liquidar la asistencia a turistas",
+    "marca_actual": [],
+    "texto": "- Actualitzarem els criteris d’equitat territorial del FOGA i del FCS i crearem un mecanisme àgil per liquidar l’assistència sanitària prestada al turisme internacional."
+   },
+   {
+    "id": "comuns-0668",
+    "partido": "comuns",
+    "titular": "Reforzar la privacidad y confidencialidad de los datos clínicos",
+    "marca_actual": [],
+    "texto": "- Reforçarem els sistemes registrals per garantir la privacitat i confidencialitat de les dades clíniques que disposen les administracions sanitàries."
+   },
+   {
+    "id": "comuns-0672",
+    "partido": "comuns",
+    "titular": "Participación de profesionales y ciudadanía en la gobernanza sanitaria",
+    "marca_actual": [],
+    "texto": "- Instaurarem mecanismes explícits i reglats de participació en la governança del sistema sanitari públic per part de les persones professionals dels àmbits sanitaris, els agents socials i la ciutadania en els òrgans territorials de gestió sanitària i en els consells comunitaris de salut."
+   },
+   {
+    "id": "comuns-0673",
+    "partido": "comuns",
+    "titular": "Crear una Agencia de Calidad y Evaluación independiente del sistema sanitario",
+    "marca_actual": [],
+    "texto": "- Crearem l’Agència de Qualitat i Avaluació del Sistema, independent dels organismes gestors, que haurà de publicar pressupostos i resultats en salut i benestar."
+   },
+   {
+    "id": "comuns-0674",
+    "partido": "comuns",
+    "titular": "Que todo el gasto asistencial vaya a la salud y no al lucro privado",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Assegurarem la total transparència i avaluació dels recursos del sistema sanitari, de manera que el 100% de la despesa assistencial vagi a les accions per a garantir la salut i no al lucre privat."
+   }
+  ]
+ },
+ {
+  "eje": "eje-alquiler",
+  "pregunta": "¿Limitar el precio del alquiler?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regular o bajar precios"
+   },
+   {
+    "id": "no",
+    "nombre": "No, más oferta y seguridad jurídica"
+   }
+  ],
+  "n": 35,
+  "palabras": 3071,
+  "candidatos": [
+   {
+    "id": "pfac-0272",
+    "partido": "pfac",
+    "titular": "Turismo sostenible, ecotasa, moratoria de licencias turísticas y apoyo al comercio de proximidad",
+    "marca_actual": [],
+    "texto": "9. Modernizar el sector servicios, a partir de:\n - Establecer líneas de financiación preferente y subsidios públicos condicionados de forma exclusiva a pymes, microempresas y cooperativas de propiedad local, limitando el acaparamiento de las ayudas estatales por parte de los grandes conglomerados y cadenas hoteleras transnacionales.\n - Impulsar la Estrategia de Turismo Sostenible 2030 para promover un turismo respetuoso con el medio ambiente y sostenible en todas sus vertientes: económica, social, digital, medioambiental y territorial.\n - Crear un Sello de Retorno Económico Comunitario de carácter público para identificar y premiar a aquellas empresas del sector de la hostelería y el alojamiento que reinviertan un porcentaje mínimo de sus beneficios netos anuales en proyectos de desarrollo social y comercial del propio municipio.\n - Aprobar una Ecotasa Finalista Autonómica sobre las pernoctaciones y las escalas de grandes cruceros, destinando la totalidad de la recaudación a sufragar los costes de mantenimiento de las infraestructuras públicas, la gestión de residuos y el sobrecoste hídrico que actualmente asume la ciudadanía local a través de sus impuestos ordinarios.\n - Girar tipos impositivos incrementales en el Impuesto sobre Actividades Económicas (IAE) para los establecimientos turísticos de gran escala situados en zonas declaradas de alta saturación, desincentivando la masificación y captando recursos para las arcas públicas municipales.\n - Eliminar las bonificaciones fiscales existentes para los fondos de inversión inmobiliaria y las SOCIMI orientadas al sector vacacional, reorientando de forma inmediata esos incentivos fiscales hacia el comercio de proximidad y la producción artesanal local.\n - Fijar un gravamen específico a las comisiones de las multinacionales de reservas y plataformas digitales de alojamiento por la actividad económica realizada dentro del territorio nacional, asegurando que la riqueza generada tribute donde se produce el servicio y evitando la evasión fiscal hacia paraísos corporativos.\n - Establecer moratorias temporales de licencias de uso turístico en los mercados inmobiliarios declarados como zonas tensionadas, con el objetivo de estabilizar el precio de los arrendamientos residenciales y garantizar que los ingresos de las familias se destinen al consumo en la economía local en lugar de absorberse por rentas especulativas.\n - Sancionar económicamente a las plataformas digitales que comercialicen u ofrezcan publicidad a plazas hoteleras o viviendas vacacionales que carezcan del número de registro oficial obligatorio, vinculando la cuantía de la multa directamente al volumen de facturación global de la empresa tecnológica infractora.\n - Limitar la capacidad de carga económica de los destinos de costa e interior mediante planes de ordenación que protejan el valor de los activos ecosistémicos a largo plazo, evitando la depreciación del propio destino y la pérdida de rentabilidad que provoca la sobreexplotación descontrolada.\n - Subvencionar la reconversión de infraestructuras obsoletas en el litoral y las zonas de montaña, priorizando la demolición de construcciones declaradas ilegales o que resulten ajenas a la fisonomía arquitectónica tradicional, para recuperar los espacios naturales como un activo de alto valor añadido.\n - Financiar planes de dinamización del patrimonio inmaterial y de la producción agroecológica en las zonas del interior rural, articulando circuitos económicos cortos que conecten de manera directa el gasto de las personas usuarias del turismo con el sector primario y productivo de la comarca.\n - Ampliar los destinos de los programas de turismo y de termalismo del IMSERSO para contemplar mejor las preferencias de las personas usuarias.\n - Facilitar el acceso de las familias a la red pública de Paradores de Turismo mediante la creación de bonos sociales, tarifas reducidas y programas de estancias asequibles, financiando esta medida a través de una tasa sobre las pernoctaciones del turismo internacional de lujo y la optimización de los propios excedentes comerciales de la red, con el fin de democratizar el disfrute del patrimonio natural, paisajístico, histórico y cultural y fomentar un turismo sostenible y de proximidad para toda la ciudadanía.\n - Financiar redes de turismo cultural y patrimonial cogestionadas por las propias comunidades residentes y los colectivos artísticos de las zonas de interior y de montaña, diseñando itinerarios de alto valor añadido que conviertan la preservación de la memoria histórica, las lenguas propias, la artesanía tradicional y el patrimonio inmaterial en el eje central de un modelo económico no estacional.\n - Mantener el apoyo, a través de líneas de ayudas específicas al comercio minorista, que le permita incorporar soluciones tecnológicas y procesos innovadores en su actividad, así como fomentar el uso de herramientas digitales como el comercio en línea, la factura electrónica o los servicios en nube.\n - Aprobar una reforma fiscal sectorial que contemple incentivos y deducciones en el Impuesto sobre Sociedades y en el régimen de personas trabajadoras autónomas para aquellos negocios de proximidad que realicen inversiones acreditadas en digitalización y eficiencia energética.\n - Dotar un fondo estatal específico de financiación, en colaboración con el Instituto de Crédito Oficial (ICO), que integre ayudas directas, líneas de crédito bonificadas y microcréditos a interés cero para fomentar el relevo generacional, la transmisión empresarial y la apertura de nuevos establecimientos, evitando así el cierre de negocios viables.\n - Crear una plataforma digital estatal de recursos y formación abierta que sirva de apoyo a la capacitación técnica de la población comerciante en competencias digitales y estrategias de comercialización omnicanal.\n - Coordinar con las comunidades autónomas una red nacional de protección del comercio de proximidad en el medio rural y en zonas afectadas por la despoblación, declarando el comercio rural como \"servicio de interés económico general\" para garantizar su supervivencia y arraigo.\n - Establecer la Estrategia Nacional de Mercados Municipales y Áreas Comerciales Urbanas, coordinando ayudas con las Administraciones locales y autonómicas para la rehabilitación energética de las infraestructuras comerciales y la reducción de la huella de carbono.\n - Promover un sello estatal de calidad y sostenibilidad para distinguir a los establecimientos comerciales minoristas que prioricen la venta de productos de kilómetro cero y la economía circular.\n - Lanzar campañas nacionales de concienciación y promoción del consumo responsable en el comercio local, visibilizando su valor como elemento vertebrador de la sociedad y dinamizador de la economía real.\n - Reorientar las políticas de comercio exterior para que los Acuerdos Comerciales y de Inversión sean coherentes con los derechos humanos, los sociales y las exigencias medioambientales."
+   },
+   {
+    "id": "pfac-0591",
+    "partido": "pfac",
+    "titular": "Limitar el precio de los alquileres, prórrogas automáticas y limitar el alquiler turístico",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- MEDIDA 31.LIMITAR EL PRECIO DE LOS ALQUILERES Y ESTABLECER PRÓRROGAS AUTOMÁTICAS DE LOS CONTRATOS. Crear una bolsa suficiente de viviendas públicas de alquiler, prohibir todas las formas de especulación con la vivienda (fondos buitre), limitando el alquiler turístico, con garantías económicas y de recuperación a la pequeña propiedad en los supuestos habituales en otros países de la UE."
+   },
+   {
+    "id": "pfac-0597",
+    "partido": "pfac",
+    "titular": "Créditos blandos para jóvenes y ayudas al alquiler con precios controlados",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "5. Establecer líneas de ayuda financiera mediante créditos blandos para los y las jóvenes, así como subvenciones para el alquiler en un mercado en el que los precios deben estar controlados para impedir la especulación inmobiliaria."
+   },
+   {
+    "id": "pfac-0598",
+    "partido": "pfac",
+    "titular": "Ayudas al alquiler para mujeres vulnerables, con prioridad a familias monoparentales",
+    "marca_actual": [],
+    "texto": "6. Implementar ayudas al alquiler específicas para mujeres en situación de vulnerabilidad, con prioridad para familias monoparentales, víctimas de violencia, trabajadoras con contratos precarios, mujeres migrantes y mujeres pensionistas con bajos ingresos."
+   },
+   {
+    "id": "pfac-0600",
+    "partido": "pfac",
+    "titular": "Reformar la Ley de Vivienda: topes al alquiler, contrato indefinido y gran tenedor",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "8. Modificar la Ley de Vivienda para regular de forma real y efectiva el mercado del alquiler, estableciendo topes de precio y el contrato indefinido de alquiler, rebajando de 10 a 5 el número de viviendas para ser considerado gran tenedor —de 5 a 3 por normativas autonómicas en el caso de zonas tensionadas—, sancionando la acumulación de viviendas vacías, los alquileres desorbitados y fiscalizando el impacto de las plataformas de alquiler turístico, ya que todo ello perjudica especialmente a las mujeres y a la juventud."
+   },
+   {
+    "id": "pfac-0604",
+    "partido": "pfac",
+    "titular": "Reforzar y ampliar el sistema público de avales y garantías del alquiler",
+    "marca_actual": [],
+    "texto": "12. Reforzar el Sistema público de avales y garantías del alquiler y ampliar su cobertura para facilitar el acceso a una vivienda a personas que, disponiendo de ingresos para pagar una renta razonable, quedan excluidas por no disponer de ahorros, avales o garantías privadas. El Sistema deberá priorizar a jóvenes, familias monoparentales, mujeres en situación de vulnerabilidad, hogares con menores, personas trabajadoras con contratos precarios y personas mayores con ingresos reducidos."
+   },
+   {
+    "id": "ph-0015",
+    "partido": "ph",
+    "titular": "Limitar el alquiler al 30 % de la renta media del código postal",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Propuesta 3: Regla del 30%: Tope legal de alquiler indexado** Establecimiento de un límite máximo legal al precio del alquiler residencial: ningún contrato podrá superar el 30% de la renta media disponible del código postal correspondiente. Publicación obligatoria del Índice de Renta Máxima Residencial."
+   },
+   {
+    "id": "nex-0002",
+    "partido": "nex",
+    "titular": "Alquiler un 45 % más caro en Cáceres y un 37 % en Badajoz",
+    "marca_actual": [],
+    "texto": "**+45 %** subida del alquiler en cinco años en la provincia de Cáceres\n\n**+37 %** subida del alquiler en cinco años en la provincia de Badajoz\n\n**+26,5 %** subida del salario mínimo en el mismo periodo\n\nFuente: idealista, septiembre de 2021 a septiembre de 2026.\n\nLo que llevaremos al Congreso: reforma de la Ley de Arrendamientos Urbanos y de la Ley de Enjuiciamiento Civil, y un nuevo Plan Estatal de Vivienda."
+   },
+   {
+    "id": "nex-0003",
+    "partido": "nex",
+    "titular": "Contratos indefinidos de alquiler de vivienda habitual, primero para familias con hijos",
+    "marca_actual": [],
+    "texto": "1. Contratos indefinidos de vivienda habitual: mientras pagues y cumplas, nadie te echa. Primero para familias con hijos, mayores y dependientes; después, para todos los inquilinos."
+   },
+   {
+    "id": "nex-0004",
+    "partido": "nex",
+    "titular": "Congelar los alquileres mientras dure la emergencia habitacional",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "2. Congelación de los alquileres mientras dure la emergencia habitacional."
+   },
+   {
+    "id": "nex-0005",
+    "partido": "nex",
+    "titular": "Mismos derechos en el alquiler de temporada y por habitaciones si es residencia permanente",
+    "marca_actual": [],
+    "texto": "3. Los mismos derechos en el alquiler de temporada y por habitaciones cuando se use como residencia permanente."
+   },
+   {
+    "id": "nex-0011",
+    "partido": "nex",
+    "titular": "Precios de referencia del alquiler por código postal ligados a los ingresos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "9. Precios de referencia del alquiler por código postal, ligados a los ingresos de la población, como en París, para todos los alquileres de las zonas tensionadas y no solo los de los grandes tenedores."
+   },
+   {
+    "id": "nex-0012",
+    "partido": "nex",
+    "titular": "Limitar la compra especulativa y por empresas en zonas tensionadas",
+    "marca_actual": [],
+    "texto": "10. Límites a la compra especulativa y a la compra por empresas en zonas tensionadas."
+   },
+   {
+    "id": "nex-0127",
+    "partido": "nex",
+    "titular": "Bono Alquiler Joven y Aval Joven al alcance de cualquier joven",
+    "marca_actual": [],
+    "texto": "116. Bono Alquiler Joven y Aval Joven al alcance de cualquier joven."
+   },
+   {
+    "id": "d21-0059",
+    "partido": "d21",
+    "titular": "Pacto de Reconciliación del Alquiler: limitar precios temporalmente y proteger a propietarios",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "1. **Pacto de Reconciliación del Alquiler - Limitar Precios y Proteger la Propiedad:** acabaremos con el enfrentamiento polarizante entre inquilinos y propietarios. Aplicaremos una limitación temporal y excepcional de los alquileres para dar un respiro inmediato a las familias y los jóvenes, pero a cambio blindaremos a los pequeños propietarios: el Estado actuará de escudo ante impagos y dará seguridad frente a la inquiokupación. Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables."
+   },
+   {
+    "id": "d21-0065",
+    "partido": "d21",
+    "titular": "Limitación temporal de alquileres en zonas tensionadas con el índice SERPAVI",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Limitación Temporal de Alquileres:** aplicaremos una limitación general y temporal de los alquileres en zonas tensionadas utilizando el Sistema Estatal de Referencia del Precio del Alquiler de Vivienda (SERPAVI). **Esta tregua de precios tendrá un carácter estrictamente excepcional y transitorio**: se irá levantando de forma gradual a medida que el Plan Nacional de Barrios a 10 años incremente la oferta disponible y los indicadores de precios del mercado se estabilicen, dando un respiro inmediato a las familias y jóvenes mientras la nueva vivienda asequible se construye."
+   },
+   {
+    "id": "d21-0066",
+    "partido": "d21",
+    "titular": "Juzgados de arrendamientos con resolución en 90 días y fin a la inquiokupación",
+    "marca_actual": [],
+    "texto": "- **Justicia Especializada en 90 Días y Fin a la Inquiokupación:** la lentitud judicial es el mayor enemigo del alquiler. Crearemos un **Servicio de Mediación de Arrendamientos** gratuito y vinculante (resolución máxima en 30 días) y **Juzgados Especializados de Arrendamientos** que garanticen una resolución firme en un plazo adicional de 60 días. En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal."
+   },
+   {
+    "id": "d21-0067",
+    "partido": "d21",
+    "titular": "Garantía pública del cobro del alquiler cuando el inquilino sea vulnerable",
+    "marca_actual": [],
+    "texto": "- **Garantía Pública de Alquiler:** la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el **Servicio Social de Garantía de Arrendamientos**, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata."
+   },
+   {
+    "id": "d21-0068",
+    "partido": "d21",
+    "titular": "Regular el alquiler por habitaciones en la LAU y perseguir falsos contratos temporales",
+    "marca_actual": [],
+    "texto": "- **Vigilancia del Alquiler por Habitaciones y Falsos Contratos Temporales:** acabaremos con el vacío legal que ha propiciado que el alquiler por habitaciones pueda convertirse en un modelo especulativo y de hacinamiento. Incorporaremos esta modalidad a la Ley de Arrendamientos Urbanos (LAU), exigiendo estándares estrictos de habitabilidad y cruzando digitalmente los contratos con el padrón municipal para erradicar los falsos alquileres temporales."
+   },
+   {
+    "id": "d21-0072",
+    "partido": "d21",
+    "titular": "Bonificaciones en IRPF e IBI a propietarios que alquilen a precio asequible",
+    "marca_actual": [],
+    "texto": "- **Alivio Fiscal para el Alquiler Asequible:** alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler. La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda."
+   },
+   {
+    "id": "d21-0073",
+    "partido": "d21",
+    "titular": "Rehabilitación de viviendas a cambio de usufructo temporal para alquiler asequible",
+    "marca_actual": [],
+    "texto": "- **Rehabilitación a Cambio de Usufructo Temporal:** para movilizar las decenas de miles de viviendas antiguas o en mal estado cuyos dueños no pueden costear una reforma, la Administración tutelará y avalará acuerdos de usufructo temporal con plena seguridad jurídica. Bajo esta garantía pública, empresas rehabilitadoras del sector privado o empresas municipales de vivienda asumirán la reforma integral del inmueble a cambio de explotarlo en alquiler asequible por un tiempo pactado, devolviéndolo completamente renovado a su propietario al término del acuerdo."
+   },
+   {
+    "id": "d21-0269",
+    "partido": "d21",
+    "titular": "Suelo público para cohousing sénior y programa de Alquiler Seguro Sénior",
+    "marca_actual": [],
+    "texto": "- **Cohousing Sénior y Alquiler Seguro:** facilitaremos acceso a suelo público, financiación preferente y seguridad jurídica a cooperativas y proyectos de cohousing sénior en cesión de uso, con servicios de salud compartidos, accesibilidad plena y espacios comunitarios. Para quienes den el paso, crearemos un programa de Alquiler Seguro Sénior: el Estado garantizará el cobro de la renta y el buen estado de la vivienda que dejen libre si la destinan a alquiler asequible, asegurándoles un ingreso estable."
+   },
+   {
+    "id": "comuns-0006",
+    "partido": "comuns",
+    "titular": "Ayudas de hasta el 100 % del alquiler para 500.000 familias vulnerables",
+    "marca_actual": [],
+    "texto": "- **Programa de Protecció per a arrendataris vulnerables.** Permetrà facilitar l’accés a lloguers socials en el mercat lliure a les persones víctimes de violència masclista, les persones objecte de desnonament del seu habitatge habitual, les persones en situació de sensellarisme i altres persones especialment situació de vulnerabilitat, inclosos suposats de vulnerabilitat sobrevinguda, mitjançant ajudes directes al lloguer i a les despeses de subministraments i comunitat de fins al 100% de la renda del lloguer i d’aquestes despeses. Es destinaria a això un 0,10% del PIB i podria beneficiar 500.000 famílies."
+   },
+   {
+    "id": "comuns-0007",
+    "partido": "comuns",
+    "titular": "Programa de igualdad de trato en el acceso al alquiler",
+    "marca_actual": [],
+    "texto": "- Impulsar, en coordinació amb les comunitats autònomes i els ajuntaments, un programa per garantir la igualtat de tracte en l’accés al lloguer, amb assessorament gratuït, controls davant rebutjos discriminatoris, suport a les persones afectades i mecanismes accessibles de reclamació, i condicionar els ajuts públics a immobiliàries i propietaris al compliment de criteris transparents i no discriminatoris."
+   },
+   {
+    "id": "comuns-0010",
+    "partido": "comuns",
+    "titular": "Hacer permanentes las medidas del Decreto Mari Carmen sobre desahucios y alquileres",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Consolidar amb caràcter permanent les mesures del Decret Mari Carmen garantint la suspensió dels desnonaments en situacions de vulnerabilitat, la pròrroga dels contractes de lloguer i la limitació de les actualitzacions anuals de les rendes, per assegurar l’estabilitat residencial i evitar augments abusius dels lloguers."
+   },
+   {
+    "id": "comuns-0012",
+    "partido": "comuns",
+    "titular": "Asistencia jurídica gratuita a inquilinos y juzgados especializados en vivienda",
+    "marca_actual": [],
+    "texto": "- **Defensa jurídica gratuïta i especialitzada.** Garantir l’assistència jurídica gratuïta especialitzada per a les persones llogateres i per a qui estigui en risc de perdre casa seva. Creació de jutjats especialitzats per en conflictes relacionats amb el dret a l’habitatge."
+   },
+   {
+    "id": "comuns-0014",
+    "partido": "comuns",
+    "titular": "Cláusulas abusivas como causa de oposición y régimen sancionador en arrendamientos",
+    "marca_actual": [],
+    "texto": "- Reforçar la defensa legal dels llogaters i llogateres davant els abusos, modificant la llei d’enjudiciament civil per incloure com a causa d’oposició l’existència de clàusules abusives, així com desenvolupar reglamentàriament la llei d’arrendaments urbans per establir un règim sancionador aplicable a aquells supòsits en els que es contravingui la normativa."
+   },
+   {
+    "id": "comuns-0017",
+    "partido": "comuns",
+    "titular": "Garantizar al pequeño propietario el cobro del alquiler durante la moratoria de desahucios",
+    "marca_actual": [],
+    "texto": "- Garantir al petit propietari el cobrament del lloguer en cas de moratòria de desnonaments."
+   },
+   {
+    "id": "comuns-0018",
+    "partido": "comuns",
+    "titular": "Cubrir los impagos a propietarios que cedan su vivienda a bolsas públicas de alquiler",
+    "marca_actual": [],
+    "texto": "- Cobertura dels impagaments als propietaris que posin els seus habitatges a les borses públiques de lloguer."
+   },
+   {
+    "id": "comuns-0019",
+    "partido": "comuns",
+    "titular": "Contrato indefinido por defecto y bajar un 30 % el índice del alquiler",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Contractes estables i seguretat per a les llars:**\n - Establir el contracte indefinit o les renovacions automàtiques com a contracte per defecte per als habitatges de lloguer.\n - Reduir per llei els preus dels lloguers i reforçar els mecanismes de regulació del mercat, rebaixant un 30% l’índex de referència dels preus del lloguer per garantir habitatges assequibles i facilitar l’accés a una llar digna.\n - Crear un pla d’ajuts al pagament del lloguer, suficientment dotat i gestionat de manera coordinada per les comunitats autònomes i els ajuntaments, que garanteixi l’accés i la permanència a l’habitatge de les persones i famílies amb dificultats econòmiques, mentre no s’assoleixi un parc d’habitatge destinat a polítiques socials equivalent al 20% del total d’habitatges principals."
+   },
+   {
+    "id": "comuns-0020",
+    "partido": "comuns",
+    "titular": "Carta estatal de derechos de las personas inquilinas",
+    "marca_actual": [],
+    "texto": "- **Una carta de drets per a les persones llogateres.** Proposem aprovar una Carta estatal de drets de les persones llogateres i reconèixer capacitat jurídica a associacions i sindicats de llogateres per intervenir en la negociació col·lectiva amb propietaris, processos legislatius, plans públics d’habitatge."
+   },
+   {
+    "id": "comuns-0022",
+    "partido": "comuns",
+    "titular": "Topes al alquiler, Agencia Estatal de la Vivienda y prohibir algoritmos de precios",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Reforçar els mecanismes de regulació i control de lloguers**\n - Creació d’un registre Estatal de fiances dels contractes de lloguer, en coordinació amb els registres de les CCAA que ja en disposen.\n - Creació d’una Agència Estatal de l’Habitatge (AEV) encarregada del control del mercat de l’habitatge.\n - Reformar la Llei estatal pel dret a l’habitatge per reforçar la regulació del mercat immobiliari, ampliar la protecció de les persones llogateres i garantir l’accés a un habitatge digne i assequible.\n - Revisar els criteris per a la declaració de ZMRT en base a l’experiència dels primers 3 anys a Catalunya i a la Llei d’Habitatge. S’ha de limitar el preu màxim dels lloguers d’habitatge habitual a un màxim resultant de la mitjana del 25% de la renda neta mitjana per llar de cada secció censal i el valor superior del rang de valors fixat en el Sistema Estatal de Referència de Preus de Lloguer d’Habitatge.\n - Modificar el termini de revisió de les ZMRT perquè la revisió es faci cada 3 anys sempre i evitar que després de la primera declaració, la revisió sigui anual.\n - Vetllarem, amb les administracions competents, pel compliment d’un règim sancionador clar.\n - Incorporarem criteris rurals i de muntanya a la declaració de zones tensionades, com el pes de les segones residències i dels habitatges d’ús turístic sobre el total, la manca d’habitatge disponible per a residència habitual i la pressió sobre la població local, perquè territoris com el Pirineu puguin ser declarats zona tensionada.\n - Vetllarem, amb les administracions competents, pel compliment d’un règim sancionador clar.\n - Prohibirem el desenvolupament, comercialització, cessió o ús d’aplicacions informàtiques, programari o algorismes d’intel·ligència artificial orientats a la fixació automatitzada, recomanació o coordinació de preus de lloguer a partir de bases de dades d’arrendadors. Les empreses tecnològiques i immobiliàries que utilitzin o distribueixin aquests sistemes seran sancionades amb multes de fins al 10% de la seva facturació global anual."
+   },
+   {
+    "id": "comuns-0065",
+    "partido": "comuns",
+    "titular": "Limitar las subidas del alquiler y vivienda con servicios para mayores y jóvenes",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Atesa la difícil situació que el mercat lliure de l’habitatge aboca a persones grans a no poder fer front als increments de lloguers, i l’accés de les persones joves, regularem el mercat limitant els augments de lloguer. Per altra banda, dedicarem un mínim de l’obra de protecció oficial a cobrir aquestes necessitats i construirem habitatge amb serveis de gestió pública per aquests col·lectius."
+   },
+   {
+    "id": "comuns-0368",
+    "partido": "comuns",
+    "titular": "Prohibir alquilar viviendas con certificación energética inferior a F",
+    "marca_actual": [],
+    "texto": "- Habitatges de lloguer que no facin passar fred ni calor. No es podran llogar habitatges amb una certificació energètica inferior a F, i s’exigiran millores fins a arribar com a mínim a la C, amb finançament segons la renda."
+   },
+   {
+    "id": "comuns-0975",
+    "partido": "comuns",
+    "titular": "Protocolos para detectar y denunciar la discriminación en el alquiler",
+    "marca_actual": [],
+    "texto": "- Establir protocols de detecció i denúncia de discriminació en anuncis, intermediació, visites i contractació del lloguer."
+   }
+  ]
+ },
+ {
+  "eje": "eje-smi",
+  "pregunta": "¿Seguir subiendo el salario mínimo?",
+  "posiciones": [
+   {
+    "id": "subir",
+    "nombre": "Subirlo o reforzarlo por ley"
+   },
+   {
+    "id": "contener",
+    "nombre": "No, contenerlo o fijarlo por acuerdo"
+   }
+  ],
+  "n": 33,
+  "palabras": 2310,
+  "candidatos": [
+   {
+    "id": "pfac-0275",
+    "partido": "pfac",
+    "titular": "Diagnóstico: las reformas laborales de 2010, 2012 y 2021 precarizaron el empleo",
+    "marca_actual": [],
+    "texto": "Además de lo anterior, también debemos poner de manifiesto el fracaso absoluto del actual sistema económico para atender la legítima aspiración de poder vivir del trabajo realizado. Datos macroeconómicos positivos conviven con una precariedad laboral y salarial generalizada. El incremento del SMI ha sido insuficiente frente al encarecimiento del coste de la vida y la crisis habitacional. La transición económica y ecológica hacia un modelo productivo más equilibrado y sostenible debe generar empleo estable y de calidad, garantizando además que las mujeres participen en igualdad en aquellos sectores y espacios de decisión de los que históricamente han quedado excluidas.\n\nPor otra parte, y con la excusa de la flexibilización del mercado laboral, en las últimas décadas se han ido aprobando sucesivas reformas del Estatuto de los Trabajadores (en particular las de 2010 y 2012) que han ido eliminando derechos de los trabajadores y trabajadoras en beneficio exclusivo de las empresas. La última de estas reformas laborales, de 2021, se vendió como la de erradicación del empleo temporal, aunque realmente lo que hizo fue camuflarlo bajo la figura del contrato fijo discontinuo. En conjunto, todas estas reformas han contribuido a la precarización del empleo, lo que provoca una inestabilidad laboral que impide desarrollar un proyecto de vida digno."
+   },
+   {
+    "id": "pfac-0277",
+    "partido": "pfac",
+    "titular": "El Trabajo Garantizado: el Estado como empleador de última instancia",
+    "marca_actual": [],
+    "texto": "Pero que no haya empleo no significa que no haya trabajo. Existen numerosas actividades de utilidad pública en el ámbito social y medioambiental que podrían realizarse pero que no se realizan porque al sector privado no le es rentable y porque el sector público ha decidido no realizarlas. La propuesta de Trabajo Garantizado busca alcanzar el pleno empleo a la vez que permite que todas estas actividades se lleven a cabo. Un plan público de TG supone que el Estado tiene la obligación de garantizar un puesto de trabajo remunerado (con condiciones laborales dignas y un salario igual o superior al SMI) a cualquier persona que esté buscando empleo pero que no haya podido encontrarlo. La propuesta de Trabajo Garantizado es además una política económica contracíclica, ya que el Estado actúa como empleador de última instancia y ofrece empleo cuando el sector privado no lo hace en épocas de crisis. Y actuaría como un estabilizador automático de precios, controlando la inflación, porque aumentaría la oferta de bienes y servicios producidos por las actividades desarrolladas con los empleos creados."
+   },
+   {
+    "id": "pfac-0279",
+    "partido": "pfac",
+    "titular": "Subir el SMI un 30 % sobre el alquiler medio y ligarlo al IPC",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- MEDIDA 15.AUMENTAR EL SMI EN UN 30% SUPERIOR AL COSTE MEDIO DE LOS ALQUILERES y mantener su poder adquisitivo de acuerdo con el IPC."
+   },
+   {
+    "id": "pfac-0463",
+    "partido": "pfac",
+    "titular": "Elevar las pensiones mínimas y no contributivas al menos hasta el SMI",
+    "marca_actual": [],
+    "texto": "3. Elevar las pensiones mínimas y no contributivas hasta alcanzar el umbral necesario que garantice una vida digna y autónoma a toda la población pensionista, erradicando la pobreza en la vejez. Ninguna pensión mínima deberá ser inferior al Salario Mínimo Interprofesional establecido legalmente."
+   },
+   {
+    "id": "pfac-0512",
+    "partido": "pfac",
+    "titular": "Ningún convenio del sector de la dependencia por debajo del 110 % del SMI",
+    "marca_actual": [],
+    "texto": "15. Establecer por ley que ningún convenio del sector quede por debajo del 110% del Salario Mínimo Interprofesional (SMI)."
+   },
+   {
+    "id": "ph-0005",
+    "partido": "ph",
+    "titular": "Diagnóstico: 25,7 % en riesgo de pobreza y casi 3 millones de trabajadores pobres",
+    "marca_actual": [],
+    "texto": "España mantiene una de las tasas de vulnerabilidad más alarmantes de la Unión Europea: el 25,7 % de la población (12,5 millones de personas) está en riesgo de pobreza o exclusión social, una cifra que afecta a uno de cada tres menores (33,8 %). Lejos de ser un escudo protector infalible, el empleo ya no garantiza salir de los márgenes: más de 2,2 millones de personas trabajadoras viven en situación de pobreza oficial (el 11,5 % de la ocupación), una cifra que golpea con especial violencia a los contratos a tiempo parcial involuntarios, al régimen de autónomos y a sectores precarizados como el empleo doméstico y la hostelería.\n\nLa brecha se vuelve insostenible cuando entra en juego el coste desbocado de la vivienda: al descontar el pago del techo, otros 770.000 trabajadores caen bajo el umbral, elevando la cifra real a casi 3 millones de personas trabajadoras pobres (el 15,5 % de la masa laboral). El alquiler a precio de mercado actúa como un auténtico sumidero económico que dispara la tasa de pobreza al 34 % entre los empleados inquilinos, demostrando que ni las subidas del salario mínimo ni el récord de afiliación bastan frente a la escasez de horas trabajadas y la asfixia del mercado inmobiliario."
+   },
+   {
+    "id": "ph-0012",
+    "partido": "ph",
+    "titular": "Diagnóstico: parque de vivienda social del 2,5 % frente al 9 % europeo",
+    "marca_actual": [],
+    "texto": "El acceso a la vivienda constituye la principal fuente de desigualdad y empobrecimiento en España. Más del 40% de los hogares inquilinos y el 60% de los jóvenes destina más del 40% (alcanzando en áreas tensionadas hasta el 65%) de sus ingresos mensuales al pago del alquiler o hipoteca. Mientras la media europea de parque público de vivienda social se sitúa en el 9% (con referencias como Viena que superan el 20%), España cuenta con un residual 2,5%, fruto de décadas de mercantilización y especulación inmobiliaria.\n\nEl alquiler a precio de mercado actúa como un auténtico sumidero económico que dispara la tasa de pobreza al 34 % entre los empleados inquilinos, demostrando que ni las subidas del salario mínimo ni el récord de afiliación bastan frente a la escasez de horas trabajadas y la asfixia del mercado inmobiliario."
+   },
+   {
+    "id": "nex-0002",
+    "partido": "nex",
+    "titular": "Alquiler un 45 % más caro en Cáceres y un 37 % en Badajoz",
+    "marca_actual": [],
+    "texto": "**+45 %** subida del alquiler en cinco años en la provincia de Cáceres\n\n**+37 %** subida del alquiler en cinco años en la provincia de Badajoz\n\n**+26,5 %** subida del salario mínimo en el mismo periodo\n\nFuente: idealista, septiembre de 2021 a septiembre de 2026.\n\nLo que llevaremos al Congreso: reforma de la Ley de Arrendamientos Urbanos y de la Ley de Enjuiciamiento Civil, y un nuevo Plan Estatal de Vivienda."
+   },
+   {
+    "id": "nex-0022",
+    "partido": "nex",
+    "titular": "Empleo garantizado con salario mínimo, 30 horas semanales y formación continua",
+    "marca_actual": [],
+    "texto": "18. Salario mínimo, 30 horas semanales y formación continua para dar el salto al empleo privado."
+   },
+   {
+    "id": "nex-0023",
+    "partido": "nex",
+    "titular": "Funcionamiento del trabajo garantizado: inscripción, proyectos locales y salto al empleo privado",
+    "marca_actual": [],
+    "texto": "**1** Te apuntas en tu oficina de empleo.\n\n**2** Ayuntamientos y entidades proponen proyectos.\n\n**3** Empiezas a trabajar: SMI y 30 horas.\n\n**4** Das el salto al empleo privado o al emprendimiento."
+   },
+   {
+    "id": "nex-0026",
+    "partido": "nex",
+    "titular": "Salario mínimo de 1.500 euros en 14 pagas y ligado al IPC",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "19. Salario mínimo de 1.500 euros en 14 pagas, nunca por debajo del 70 % del salario medio y actualizado cada año con el IPC."
+   },
+   {
+    "id": "nex-0027",
+    "partido": "nex",
+    "titular": "Ley de actualización de los salarios con la inflación",
+    "marca_actual": [],
+    "texto": "20. Ley de actualización de los salarios con la inflación."
+   },
+   {
+    "id": "nex-0034",
+    "partido": "nex",
+    "titular": "Cuota cero de autónomos para quien ingrese menos del salario mínimo",
+    "marca_actual": [],
+    "texto": "27. Cuota cero para quien ingrese menos del salario mínimo."
+   },
+   {
+    "id": "d21-0157",
+    "partido": "d21",
+    "titular": "Diagnóstico: los salarios reales solo han crecido un 2 % en 30 años",
+    "marca_actual": [],
+    "texto": "_En 30 años los salarios reales en España han crecido apenas un 2% (¡once veces menos que la media de la OCDE!). Este estancamiento crónico no solo nos ha empobrecido, sino que ha truncado el proyecto vital de toda una generación. Ha llegado el momento de dar un giro radical a nuestra política económica y concentrar todas las energías del país en una meta inaplazable: elevar la productividad, reducir las cargas fiscales al trabajo y hacer que los sueldos en España crezcan con la fuerza y la dignidad que nuestra sociedad merece._"
+   },
+   {
+    "id": "d21-0159",
+    "partido": "d21",
+    "titular": "IRPF del 5 % para los bonus por productividad, hasta 5.000 €",
+    "marca_actual": [],
+    "texto": "- **Incentivo Fiscal al Salario por Productividad Real:** para que el esfuerzo y la innovación se traduzcan de inmediato en la nómina, los incentivos y bonus salariales ligados a aumentos objetivos y verificables de productividad tributarán en el IRPF del trabajador a un tipo único del 5%, hasta 5.000€ al año. Para quienes hoy pagan de media menos de un 5% de IRPF, estos pluses no tributarán nada ni les harán perder ninguna deducción. La empresa que comparta esa mejora con su plantilla tendrá una bonificación del 50% en su cotización a la Seguridad Social por ese extra, que llegará al 75% en las PYMES de menos de 50 trabajadores. Así, mejorar procesos se traducirá siempre en mejores sueldos netos y en empresas más competitivas: por cada 2.000€ de bonus, un trabajador con un sueldo medio se llevará unos 500€ más netos y una PYME se ahorrará casi 500€ de cotización."
+   },
+   {
+    "id": "d21-0160",
+    "partido": "d21",
+    "titular": "Órgano Técnico Independiente para el SMI, con objetivo de 2/3 de la mediana",
+    "marca_actual": [],
+    "texto": "- **Actualización del SMI por un Órgano Técnico e Independiente:** despolitizaremos la fijación del Salario Mínimo Interprofesional mediante un Órgano Técnico Independiente que evaluará anualmente el contexto macroeconómico, la productividad y la mediana salarial (incluyendo cláusulas de revisión por inflación y \"filtros de prudencia\" específicos para colectivos vulnerables, como los jóvenes o las pequeñas empresas). Estableceremos una senda plurianual con el objetivo de que el SMI no baje de los 2/3 de la mediana salarial de nuestro país, pero ofreciendo a las empresas certidumbre absoluta para planificar adecuadamente sus costes laborales."
+   },
+   {
+    "id": "d21-0161",
+    "partido": "d21",
+    "titular": "Deducción en Sociedades para las empresas que suban salarios por encima del IPC",
+    "marca_actual": [],
+    "texto": "- **Subir Sueldos Tendrá Recompensa:** impulsaremos la mejora de los salarios mediante incentivos fiscales estableciendo una deducción en el Impuesto sobre Sociedades para las empresas que incrementen los salarios de sus trabajadores por encima del IPC, con un incentivo reforzado para las mejoras salariales de los trabajadores jóvenes. La deducción se calculará sobre el incremento salarial real, de forma que las empresas que más contribuyan a mejorar el poder adquisitivo de sus empleados obtengan un mayor beneficio fiscal. El sistema será automático y sencillo, utilizando los datos salariales y de cotización ya disponibles en la Agencia Tributaria y la Seguridad Social, sin nuevas declaraciones ni obligaciones administrativas para las empresas."
+   },
+   {
+    "id": "d21-0162",
+    "partido": "d21",
+    "titular": "Exigir en la contratación pública convenios colectivos con salarios dignos",
+    "marca_actual": [],
+    "texto": "- **Compra Pública Ejemplar - Ni un Euro Público a Empresas con Sueldos Precarios:** el Estado predicará con el ejemplo exigiendo por ley en todos los pliegos de contratación pública —especialmente en servicios intensivos en mano de obra como limpieza, seguridad, transporte o construcción— el cumplimiento estricto y certificado de convenios colectivos con salarios dignos. Mediante auditorías automáticas cruzando datos con la Seguridad Social, sancionaremos o rescindiremos contratos a cualquier empresa licitadora que intente competir mediante _dumping_ salarial, tanto nacional como extranjera."
+   },
+   {
+    "id": "comuns-0071",
+    "partido": "comuns",
+    "titular": "Diagnóstico: avances económicos de España ante la inflación y el auge neoliberal",
+    "marca_actual": [],
+    "texto": "Tot i que les desigualtats no s’estan reduint com caldria, els avenços econòmics aconseguits han fet que avui Espanya estigui en millor situació que els països del seu entorn en termes de creixement, creació d’ocupació, reducció de la temporalitat, SMI o protecció social. A nivell internacional, després del parèntesi que va suposar la pandèmia, sembla que torna l’hegemonia de les idees neoliberals. Aquesta vegada no venen de la mà del globalisme, sinó aliades a una regressió reaccionària identitària i nativista que pretén fer retrocedir varies dècades els drets socials, de gènere i culturals. El context econòmic ve marcat per una inflació creixent provocada per l’augment del preu del petroli, que té el seu origen en les guerres i especialment en la guerra d’EU contra Iran. Són preocupants els efectes que pot tenir la pujada de tipus d’interès que estan engegant els bancs centrals, que incrementarà el cost del deute públic i segurament agreujarà la inflació en comptes de reduir-la com es pretén."
+   },
+   {
+    "id": "comuns-0083",
+    "partido": "comuns",
+    "titular": "Diagnóstico: la inflación encarece la compra mientras crecen los márgenes empresariales",
+    "marca_actual": [],
+    "texto": "Tot i les pujades anuals de l’SMI, l’excepció ibèrica aconseguida pel Govern o les targetes moneder per pal·liar l’encariment de la cistella de la compra, l’adquisició de béns de primera necessitat continua sent una despesa de difícil assumpció per bona part de la ciutadania. La inflació, que fa pujar els preus de la compra, s’emporta una bona part del pressupost de les llars, mentre els marges de beneficis de les grans empreses només fan que augmentar. El Govern va impulsar el PVPC (Preu voluntari per al Petit Consumidor), amb un preu regulat de l’electricitat, que permet l’accés al bo social amb descomptes per les famílies vulnerables. Tot i això, calen mesures més ambicioses per tal que les factures i accés a béns de primera necessitat no siguin una angoixa més per la ciutadania.\n\nLa inflació és un fenomen econòmic que afavoreix l’apropiació d’excedent d’aquells que tenen el poder per a canviar els preus. La lluita contra la inflació és una política progressista sempre que es faci amb criteris socials, és a dir no culpant les persones amb situacions de vulnerabilitat i evitant l’espiral inflacionària a base d’erosionar el seu poder adquisitiu. Tampoc és progressista (ni pràctic) lluitar contra la inflació pujant els tipus d’interès per provocar recessions."
+   },
+   {
+    "id": "comuns-0093",
+    "partido": "comuns",
+    "titular": "Promover cláusulas de actualización salarial en los convenios",
+    "marca_actual": [],
+    "texto": "- Promoure clàusules d’actualització de convenis que permetin mantenir el poder adquisitiu sense disparar l’espiral inflacionària."
+   },
+   {
+    "id": "comuns-0098",
+    "partido": "comuns",
+    "titular": "Aclarar las reglas del SMI para que no se absorba con complementos salariales",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Aclarirem les regles de fixació de l’SMI per evitar que es pugui compensar i absorbir amb els complements salarials."
+   },
+   {
+    "id": "comuns-0266",
+    "partido": "comuns",
+    "titular": "Cláusula obligatoria de revisión salarial con el IPC real en todos los convenios",
+    "marca_actual": [],
+    "texto": "- Modificar l’Estatut dels Treballadors perquè tots els convenis incorporin obligatòriament una clàusula de revisió salarial vinculada a l’IPC real, i preveure que, quan un conveni no en tingui, les taules s’actualitzin automàticament amb la desviació de la inflació de l’any anterior."
+   },
+   {
+    "id": "comuns-0267",
+    "partido": "comuns",
+    "titular": "Promover cláusulas de actualización salarial en los convenios",
+    "marca_actual": [],
+    "texto": "- Promoure clàusules d’actualització de convenis que permetin mantenir el poder adquisitiu sense disparar l’espiral inflacionària."
+   },
+   {
+    "id": "comuns-0268",
+    "partido": "comuns",
+    "titular": "Garantizar por ley un SMI de al menos el 60 % del salario medio",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Garantir per llei que el salari mínim interprofessional no quedi mai per sota del 60% del salari mitjà net, com estableixen la Carta Social Europea i la directiva europea de salaris mínims adequats, amb una comissió tècnica permanent amb participació sindical que en faci el seguiment."
+   },
+   {
+    "id": "comuns-0269",
+    "partido": "comuns",
+    "titular": "Salario mínimo de referencia para Cataluña según el coste de la vida",
+    "marca_actual": [],
+    "texto": "- Impulsar, a través del diàleg social català, un salari mínim de referència per a Catalunya que tingui en compte el cost de la vida i de l’habitatge i que sigui d’obligat compliment en la contractació pública i en les empreses que rebin ajuts de la Generalitat."
+   },
+   {
+    "id": "comuns-0272",
+    "partido": "comuns",
+    "titular": "Exigir convenio sectorial y ratio salarial máxima a empresas con ayudas públicas",
+    "marca_actual": [],
+    "texto": "- Exigir a les empreses que rebin subvencions, ajuts o contractes públics que compleixin el conveni sectorial de referència i que la diferència entre la retribució més alta i la més baixa no superi la ràtio que fixi la llei."
+   },
+   {
+    "id": "comuns-0273",
+    "partido": "comuns",
+    "titular": "Garantizar el cobro del salario reforzando el Fondo de Garantía Salarial",
+    "marca_actual": [],
+    "texto": "- Garantir el cobrament del salari en cas de crisi o d’incompliment empresarial mitjançant instruments públics i el reforç del Fons de Garantia Salarial."
+   },
+   {
+    "id": "comuns-0275",
+    "partido": "comuns",
+    "titular": "Subidas salariales que mantengan el poder adquisitivo de los empleados públicos",
+    "marca_actual": [],
+    "texto": "- Garantirem el poder adquisitiu de les empleades i els empleats públics. Acordarem amb els sindicats pujades salarials que, com a mínim, en mantinguin el poder de compra, amb una clàusula de garantia salarial."
+   },
+   {
+    "id": "comuns-0277",
+    "partido": "comuns",
+    "titular": "Culminar la cotización por ingresos reales y destopar las bases máximas del RETA",
+    "marca_actual": [],
+    "texto": "- Culminarem la cotització per ingressos reals amb una quota bonificada per a qui no arribi a l’SMI, sense perdre cap protecció. Farem que els trams més alts cotitzin pels seus ingressos reals, destopant el sostre de les bases màximes, i amb una quota de solidaritat al RETA."
+   },
+   {
+    "id": "comuns-0282",
+    "partido": "comuns",
+    "titular": "Facilitar los contratos públicos a autónomos dividiendo las licitaciones en lotes",
+    "marca_actual": [],
+    "texto": "- Facilitarem l’accés als contractes públics dels autònoms racionalitzant els criteris, dividint les licitacions en lots i simplificant els plecs perquè pimes i autònoms hi puguin optar. Indexarem automàticament els contractes públics amb autònoms a l’SMI i als costos salarials."
+   },
+   {
+    "id": "comuns-0323",
+    "partido": "comuns",
+    "titular": "Transponer la directiva de transparencia retributiva con auditorías salariales",
+    "marca_actual": [],
+    "texto": "- Transposar la directiva europea de transparència retributiva, el termini de la qual va vèncer el juny de 2026, amb dret a conèixer la retribució mitjana del propi grup per sexe i auditories retributives negociades a les empreses de més de 50 persones."
+   },
+   {
+    "id": "comuns-0329",
+    "partido": "comuns",
+    "titular": "Eliminar las dobles escalas salariales y garantizar formación en los contratos formativos",
+    "marca_actual": [],
+    "texto": "- Eliminar les dobles escales salarials i garantir una formació real i tutelada en els contractes formatius."
+   }
+  ]
+ },
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 25,
+  "palabras": 2019,
+  "candidatos": [
+   {
+    "id": "pfac-0354",
+    "partido": "pfac",
+    "titular": "Convertir Patrimonio en un impuesto sobre grandes fortunas sin bonificaciones autonómicas",
+    "marca_actual": [],
+    "texto": "1. Convertir el Impuesto sobre el Patrimonio en un impuesto sobre la riqueza y las grandes fortunas. El Estado fijará una base imponible homogénea, un mínimo exento y una misma tarifa en todo el territorio nacional. Las comunidades autónomas no podrán bonificar el tributo a partir de ese importe."
+   },
+   {
+    "id": "pfac-0356",
+    "partido": "pfac",
+    "titular": "Horquillas ajustadas en Sucesiones y Donaciones contra la competencia fiscal",
+    "marca_actual": [],
+    "texto": "3. Establecer horquillas ajustadas para exenciones, escalas de gravamen, reducciones, bonificaciones, y deducciones en el Impuesto de Sucesiones y Donaciones, todo ello con el fin de evitar la desleal competencia fiscal para atraer a los grandes capitales."
+   },
+   {
+    "id": "pfac-0358",
+    "partido": "pfac",
+    "titular": "Hacer más progresiva la escala de las rentas del capital",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "5. Hacer más progresiva la escala de tipos sobre las rentas del capital."
+   },
+   {
+    "id": "pfac-0361",
+    "partido": "pfac",
+    "titular": "Eliminar las deducciones por planes de pensiones",
+    "marca_actual": [],
+    "texto": "8. Eliminar las deducciones a planes de pensiones, dado que son un incentivo a la privatización de estos, no son deducciones reales sino un aplazamiento de la carga impositiva y, además, porque las oscilaciones del mercado bursátil pueden hacer perder el esfuerzo de ahorro de las clases trabajadoras."
+   },
+   {
+    "id": "pfac-0367",
+    "partido": "pfac",
+    "titular": "Gravar las transacciones financieras especulativas, incluidos los derivados",
+    "marca_actual": [],
+    "texto": "14. Gravar las transacciones financieras especulativas que no están sujetas a tributación, no sólo la compra de acciones, sino también los derivados financieros que son las operaciones más perjudiciales para la economía real."
+   },
+   {
+    "id": "pfac-0375",
+    "partido": "pfac",
+    "titular": "Controlar sociedades patrimoniales y entidades usadas para eludir el IRPF",
+    "marca_actual": [],
+    "texto": "22. Realizar un control exhaustivo de las sociedades patrimoniales, de las entidades que no reparten dividendos e incrementan sus reservas indefinidamente, y de las que declaran pérdidas de forma continuada, argucias ampliamente usadas para la elusión del IRPF por parte de sus personas asociadas y de quienes las administran."
+   },
+   {
+    "id": "pfac-0465",
+    "partido": "pfac",
+    "titular": "Transferencia estructural de los Presupuestos a las pensiones, financiada gravando banca y gran capital",
+    "marca_actual": [],
+    "texto": "5. Establecer una transferencia fiscal de carácter estructural directa desde los Presupuestos Generales del Estado al sistema de pensiones. Esta se financiará a través de una reforma fiscal progresiva sobre los beneficios extraordinarios de la gran banca, las corporaciones oligopolísticas y las rentas financieras del gran capital."
+   },
+   {
+    "id": "pfac-0594",
+    "partido": "pfac",
+    "titular": "Plan de Vivienda Social: parque público de alquiler del 3,3 % al 8 %",
+    "marca_actual": [],
+    "texto": "2. Poner en marcha un Plan Estatal de Vivienda Social Garantizada que contemple:\n - Incrementar de forma progresiva el parque público de vivienda en régimen de alquiler asequible, pasando del 3,3 % actual al 8 %. Este parque estará protegido frente a cualquier proceso de privatización o especulación mediante una gestión pública permanente, blindada constitucionalmente. Con este fin, se contemplan las siguientes medidas:\n - Construir o rehabilitar vivienda pública social.\n - Expropiar de forma forzosa a los fondos de inversión y las SOCIMI las viviendas originalmente públicas, fijando el precio de tasación según su valor de adquisición actualizado y excluyendo las plusvalías del mercado actual.\n - Movilizar las viviendas desocupadas de forma injustificada durante más de dos años para incrementar el parque público de alquiler, mediante dos vías: la expropiación a grandes tenedores y la cesión temporal de usufructo para pequeños propietarios.\n - Planificar a corto, medio y largo plazo, el acceso universal a la vivienda pública en alquiler, con unas mínimas condiciones habitacionales dignas y con alquileres que no superen el 25% de los ingresos familiares.\n - Reservar vivienda pública para mujeres con menores a su cargo tras una ruptura, con procedimientos de adjudicación rápida y sin necesidad de aval bancario cuando la situación económica les impida obtenerlo."
+   },
+   {
+    "id": "pfac-0604",
+    "partido": "pfac",
+    "titular": "Reforzar y ampliar el sistema público de avales y garantías del alquiler",
+    "marca_actual": [],
+    "texto": "12. Reforzar el Sistema público de avales y garantías del alquiler y ampliar su cobertura para facilitar el acceso a una vivienda a personas que, disponiendo de ingresos para pagar una renta razonable, quedan excluidas por no disponer de ahorros, avales o garantías privadas. El Sistema deberá priorizar a jóvenes, familias monoparentales, mujeres en situación de vulnerabilidad, hogares con menores, personas trabajadoras con contratos precarios y personas mayores con ingresos reducidos."
+   },
+   {
+    "id": "ph-0009",
+    "partido": "ph",
+    "titular": "Renta básica universal e incondicional de 950 € al mes",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Renta Básica Universal e Incondicional (RBUI)** Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). **Memoria económica y viabilidad:** El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:\n - Una reforma progresiva del IRPF sobre las rentas del capital y del trabajo superiores a 120.000 € anuales (aportando 55.000 M€).\n - Un Impuesto a las Grandes Fortunas y Patrimonio Neto superior a 3 millones de euros (aportando 25.000 M€).\n - Una Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin) del 0,5% en operaciones bursátiles de alta frecuencia (aportando 20.000 M€).\n - Un Plan Integral de Lucha contra el Fraude y la Evasión Fiscal de grandes corporaciones y patrimonios, fijando un objetivo de recaudación recuperada de 30.000 M€ anuales (según estimaciones de los técnicos de Hacienda Gestha).\n - Ahorro de costes administrativos y supresión de partidas redundantes de prestaciones mínimas (10.000 M€)."
+   },
+   {
+    "id": "ph-0070",
+    "partido": "ph",
+    "titular": "Ingresos de 155.500 M€: fraude, IRPF alto, grandes fortunas y Tasa Tobin",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "|Vía de Financiación / Medida Fiscal|Recaudación o Ahorro Estimado Anual (M€)|Justificación / Colectivo Afectado|\n|---|---|---|\n|Lucha contra el Fraude y la Evasión Fiscal|+30.000 M€|Grandes corporaciones y patrimonios, plan técnicos Gestha|\n|Reforma del IRPF (Rentas del Trabajo > 120.000 € y Rentas del Capital)|+55.000 M€|Tramos altos de renta y equiparación de tributación de rentas del capital al trabajo|\n|Impuesto a las Grandes Fortunas (Patrimonio Neto > 3M€)|+25.000 M€|Gravamen progresivo a la riqueza extrema no productiva|\n|Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin ampliada)|+20.000 M€|0,5% a compras bursátiles y algoritmos de alta frecuencia|\n|Supresión de privilegios fiscales a SOCIMIs y Fondos Especulativos|+8.000 M€|Tributación estándar al tipo general de sociedades|\n|Reducción del 50% en armamento y Defensa|+7.500 M€|Recorte directo en adquisiciones militares y programas armamentísticos|\n|Racionalización y absorción de subsidios fragmentados redundantes|+10.000 M€|Simplificación por la puesta en marcha de la RBUI|\n\n**TOTAL INGRESOS / AHORROS ADICIONALES ANUALES:** +155.500 M€\n\n**TOTAL INVERSIONES / GASTOS SOCIALES ANUALES:** 155.500 M€ (balance equilibrado y solvente)."
+   },
+   {
+    "id": "d21-0057",
+    "partido": "d21",
+    "titular": "Diagnóstico: la vivienda absorbe hasta el 100 % de los ingresos juveniles",
+    "marca_actual": [],
+    "texto": "_El problema de la vivienda es la prioridad nº1 de España: una bomba de relojería que amenaza con dinamitar el futuro de nuestro país. El acceso a la vivienda se ha convertido en el mayor problema social y económico de España: los hogares están destinando entre el 40% y el 100% (en el caso de los jóvenes) de sus ingresos al pago de la vivienda, rompiendo proyectos de vida, impidiendo el ahorro y el consumo, e imposibilitando formar una familia. Esta crisis no solo frustra la emancipación de toda una generación (que hoy no puede independizarse antes de los 30 años), sino que fragmenta el país al bloquear la movilidad del talento: miles de profesionales, docentes, sanitarios y estudiantes se ven obligados a renunciar a empleos y oportunidades formativas porque no pueden asumir el coste de un alquiler._"
+   },
+   {
+    "id": "d21-0079",
+    "partido": "d21",
+    "titular": "IVA del 4 % para construir o rehabilitar vivienda asequible",
+    "marca_actual": [],
+    "texto": "- **IVA Superreducido al 4% para la Construcción de Vivienda Asequible:** no podemos exigir precios asequibles si el Estado cobra impuestos de lujo por construir. Rebajaremos el IVA del 10% al tipo superreducido del 4% para todas las obras de nueva construcción o rehabilitación integral que se destinen a vivienda asequible y reduciremos otros impuestos como tasas municipales, ICIOs y plusvalías."
+   },
+   {
+    "id": "d21-0109",
+    "partido": "d21",
+    "titular": "Las ganancias de activos de menos de un año tributarán como el trabajo",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "- **La Especulación a Corto Plazo, como el Trabajo:** vender una acción comprada hace tres semanas tributa hoy en la escala del ahorro, del 19% al 30%, a menudo menos de lo que paga un trabajador por cada euro extra de su sueldo. Las ganancias por la venta de activos mantenidos menos de un año tributarán como las rentas del trabajo, igual que ocurría hasta 2014. La inversión a largo plazo, la que construye empresas y ahorro, conservará su tratamiento actual."
+   },
+   {
+    "id": "d21-0117",
+    "partido": "d21",
+    "titular": "Panel digital público que mida mes a mes la desburocratización",
+    "marca_actual": [],
+    "texto": "- Crearemos un panel digital accesible para toda la ciudadanía donde **se monitorizará mes a mes el avance de la desburocratización** sector por sector, visibilizando los trámites eliminados, el ahorro estimado en horas de trabajo y las normas simplificadas en cada ámbito económico."
+   },
+   {
+    "id": "d21-0165",
+    "partido": "d21",
+    "titular": "Impuesto de Sociedades al 5 % para los beneficios reinvertidos en pymes",
+    "marca_actual": [],
+    "texto": "- **Impuesto de Sociedades al 5% para Beneficios Reinvertidos en PYMES:** el impuesto de sociedades para las PYMES será del 5% sobre todos los beneficios que se mantengan dentro de la empresa. Las pequeñas y medianas empresas no pagarán ni un solo euro adicional por este impuesto mientras reinviertan sus ganancias en crecer, contratar personal, subir sueldos, digitalizarse o acumular reservas. Solo tributarán de forma ordinaria en el momento en que decidan repartir dividendos."
+   },
+   {
+    "id": "d21-0198",
+    "partido": "d21",
+    "titular": "Régimen fiscal sencillo para investigadores y profesionales que regresan",
+    "marca_actual": [],
+    "texto": "- **Volver a Casa No Saldrá Caro:** miles de científicos y profesionales formados en España no vuelven porque nuestro sistema fiscal penaliza la carrera que hicieron fuera, sobre todo sus ahorros para la jubilación, y acaban en países que sí los quieren. Crearemos un régimen sencillo para investigadores, docentes y profesionales cualificados que regresan, pensado para sueldos reales y no solo para los grandes salarios del actual régimen de impatriados, y tramitado en una ventanilla única digital."
+   },
+   {
+    "id": "d21-0321",
+    "partido": "d21",
+    "titular": "Culminar la Unión de Ahorros e Inversiones europea",
+    "marca_actual": [],
+    "texto": "- Culminaremos con urgencia la **Unión de Ahorros e Inversiones**, creando un mercado europeo de capitales que movilice el ahorro privado hacia scale-ups, PYMES innovadoras e infraestructuras estratégicas, evitando la fuga sistemática de empresas punteras a Estados Unidos o Asia."
+   },
+   {
+    "id": "comuns-0074",
+    "partido": "comuns",
+    "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+    "marca_actual": [],
+    "texto": "Paral·lelament s’ha d’avançar en un model de fiscalitat més just per garantir uns serveis públics de qualitat a la ciutadania. Les pràctiques de reducció impositiva practicada en alguns països s’han mostrat no només nocives en termes de desigualtat entre ciutadans, també són un llast pel creixement econòmic i un risc per la democràcia. Per això hem d’aprofundir en mesures efectives que gravin els grans patrimonis que sovint han estat capaços de defugir el pagament d’impostos i especialment els ultrarics. No s’ha d’oblidar la importància de fiscalitat verda per fer efectiu el principi de qui contamina paga o el reforç de la imposició sobre qualsevol pràctica que desviï l’ús de l’habitatge residencial cap a altres usos o que afavoreixi l’especulació i la concentració de propietat. En definitiva, una fiscalitat en favor del 99%, ecològica i justa.\n\nEn l’àmbit laboral perseguirem la reducció de jornada i una millor conciliació. S’ha desmentit completament el mantra de que les pujades de salari mínim generen atur i queda desmentit que la reducció de la jornada laboral redueix la productivitat. Seguirem treballant per la qualitat de l’ocupació perquè aquesta és condició necessària per garantir una economia estable i productiva."
+   },
+   {
+    "id": "comuns-0170",
+    "partido": "comuns",
+    "titular": "Integrar rentas del trabajo y del capital en la misma base del IRPF",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "- Per eliminar la discriminació que pateixen les rendes del treball en relació amb les del capital, fer que en el càlcul de l’IRPF estiguin juntes en la mateixa base imposable de manera que se’ls hi apliquin els mateixos tipus impositius."
+   },
+   {
+    "id": "comuns-0171",
+    "partido": "comuns",
+    "titular": "Bajar el IRPF hasta 25.000 € y gravar al 3 % las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Abaixarem l’IRPF a les rendes del treball de fins a 25.000 euros. Augmentarem la reducció per rendiments del treball perquè qui cobri el salari mínim no pagui IRPF i estendrem aquesta rebaixa, de manera decreixent, fins als 25.000 euros. Impulsar un impost a les grans fortunes (impost Zucman) que gravi la riquesa excessiva, i buscar consensos socials que permetin encara una limitació de la riquesa total en mans d’una sola persona. Per això proposem la creació d’un gravamen sobre la concentració de riquesa adreçada a persones físiques amb un patrimoni net global superior als 50 milions d’euros. Proposem que la llei estableixi un tipus únic del 3% sobre la base que excedeixi d’aquest llindar de 50 milions, amb exempcions fortament restringides i la supressió expressa de l’exempció general per al patrimoni empresarial i les participacions en entitats."
+   },
+   {
+    "id": "comuns-0172",
+    "partido": "comuns",
+    "titular": "Cláusula antiabuso en el impuesto a grandes fortunas para financiar la crianza",
+    "marca_actual": [],
+    "texto": "- Establirem regles de coordinació per evitar la doble imposició mitjançant la deducció de les quotes efectivament pagades en l’Impost sobre el Patrimoni i en l’Impost temporal de solidaritat de les grans fortunes. Però proposem incorporar una clàusula antiabús que manté l’obligació de pagament durant els 5 exercicis posteriors a un trasllat de residència fiscal a l’estranger. Aquesta proposta té un caràcter finalista, destinada a dotar el Fons de Protecció a la Infància per finançar una prestació universal per criança a menors de 18 anys."
+   },
+   {
+    "id": "comuns-0173",
+    "partido": "comuns",
+    "titular": "Hacer permanente el impuesto a las grandes fortunas con un mínimo del 2 %",
+    "marca_actual": [],
+    "texto": "- Farem permanent l’impost a les grans fortunes. Garantirem que els patrimonis de més d’un milió d’euros tributin com a mínim un 2%. L’Impost Temporal de Solidaritat de les Grans Fortunes ha frenat la competència fiscal entre comunitats i ha fet que les grans fortunes contribueixin a finançar els serveis públics. Estudiar la cessió a les comunitats autònomes."
+   },
+   {
+    "id": "comuns-0174",
+    "partido": "comuns",
+    "titular": "Impuesto estatal a herencias de más de un millón contra la competencia autonómica",
+    "marca_actual": [],
+    "texto": "- Crear un impost estatal sobre les grans herències de més d’un milió d’euros que gravarà la diferència entre el mínim estatal i el que estableixi cada comunitat, per frenar la carrera a la baixa entre comunitats autònomes a l’impost de successions i donacions."
+   },
+   {
+    "id": "comuns-1123",
+    "partido": "comuns",
+    "titular": "Impuesto mínimo global a grandes patrimonios y sin exención a multinacionales estadounidenses",
+    "marca_actual": [],
+    "texto": "- Impulsar un impost mínim global sobre els grans patrimonis, revertir l’exempció de l’impost mínim global de societats pactada el 2026 per a les multinacionals nord-americanes."
+   }
+  ]
+ },
+ {
+  "eje": "eje-okupacion",
+  "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+  "posiciones": [
+   {
+    "id": "desalojo-rapido",
+    "nombre": "Desalojo rápido y más penas"
+   },
+   {
+    "id": "proteger-vulnerables",
+    "nombre": "Frenar desahucios de personas vulnerables"
+   }
+  ],
+  "n": 18,
+  "palabras": 842,
+  "candidatos": [
+   {
+    "id": "pfac-0496",
+    "partido": "pfac",
+    "titular": "Priorizar la asistencia en el hogar y residencias públicas pequeñas para mayores",
+    "marca_actual": [],
+    "texto": "- MEDIDA 30. DISEÑAR POLÍTICAS PÚBLICAS PARA PERSONAS MAYORES QUE PRIORICEN LA ASISTENCIA TUTELADA EN EL HOGAR. Así como los centros de día y las residencias públicas de tamaño pequeño o mediano, eliminando progresivamente las de carácter hospitalario. Y garantizando a las personas mayores con suficiente autonomía, que fueran desalojadas por orden judicial, una solución habitacional digna en su entorno o próximo a él para evitar el desarraigo."
+   },
+   {
+    "id": "pfac-0564",
+    "partido": "pfac",
+    "titular": "Prohibir el desalojo de familias con menores sin vivienda alternativa digna",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "6. Prohibir el desalojo de familias con menores a cargo a menos que se garantice una vivienda alternativa digna."
+   },
+   {
+    "id": "pfac-0587",
+    "partido": "pfac",
+    "titular": "Prohibir el desalojo de mayores de 65 años o dependientes sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "10. Prohibir por ley el desalojo de cualquier persona mayor de 65 años o en situación de dependencia sin que la administración pública garantice, de forma inmediata, una alternativa habitacional digna, estable y adecuada, dentro de su propio entorno."
+   },
+   {
+    "id": "pfac-0595",
+    "partido": "pfac",
+    "titular": "Programas específicos para erradicar los desahucios por hipoteca",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "3. Realizar programas específicos para la erradicación de desahucios por hipoteca."
+   },
+   {
+    "id": "pfac-0601",
+    "partido": "pfac",
+    "titular": "Prohibir a los fondos comprar viviendas y vetar sus desahucios de vulnerables",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "9. Prohibir la compra de viviendas a los fondos de inversión y vetar los desahucios de inquilinos vulnerables que estén arrendando un piso propiedad de una de estas empresas."
+   },
+   {
+    "id": "pfac-0602",
+    "partido": "pfac",
+    "titular": "Extender indefinidamente la suspensión de desahucios de familias vulnerables",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "10. Extender de forma indefinida o mediante decretos de urgencia la suspensión de los desahucios para familias en situación de vulnerabilidad económica que no dispongan de una alternativa habitacional."
+   },
+   {
+    "id": "ph-0017",
+    "partido": "ph",
+    "titular": "Prohibir desahucios por motivos socioeconómicos sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Propuesta 5: Blindaje procesal frente a desahucios sin alternativa** Reforma de la Ley de Enjuiciamiento Civil para prohibir de forma absoluta cualquier lanzamiento o desahucio por motivos socioeconómicos sin que los servicios públicos garanticen con carácter previo una alternativa habitacional digna en la misma localidad."
+   },
+   {
+    "id": "nex-0006",
+    "partido": "nex",
+    "titular": "Ningún desahucio de una familia vulnerable sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "4. Ningún desahucio de una familia vulnerable sin alternativa habitacional."
+   },
+   {
+    "id": "d21-0059",
+    "partido": "d21",
+    "titular": "Pacto de Reconciliación del Alquiler: limitar precios temporalmente y proteger a propietarios",
+    "marca_actual": [],
+    "texto": "1. **Pacto de Reconciliación del Alquiler - Limitar Precios y Proteger la Propiedad:** acabaremos con el enfrentamiento polarizante entre inquilinos y propietarios. Aplicaremos una limitación temporal y excepcional de los alquileres para dar un respiro inmediato a las familias y los jóvenes, pero a cambio blindaremos a los pequeños propietarios: el Estado actuará de escudo ante impagos y dará seguridad frente a la inquiokupación. Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables."
+   },
+   {
+    "id": "d21-0066",
+    "partido": "d21",
+    "titular": "Juzgados de arrendamientos con resolución en 90 días y fin a la inquiokupación",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- **Justicia Especializada en 90 Días y Fin a la Inquiokupación:** la lentitud judicial es el mayor enemigo del alquiler. Crearemos un **Servicio de Mediación de Arrendamientos** gratuito y vinculante (resolución máxima en 30 días) y **Juzgados Especializados de Arrendamientos** que garanticen una resolución firme en un plazo adicional de 60 días. En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal."
+   },
+   {
+    "id": "d21-0067",
+    "partido": "d21",
+    "titular": "Garantía pública del cobro del alquiler cuando el inquilino sea vulnerable",
+    "marca_actual": [],
+    "texto": "- **Garantía Pública de Alquiler:** la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el **Servicio Social de Garantía de Arrendamientos**, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata."
+   },
+   {
+    "id": "comuns-0005",
+    "partido": "comuns",
+    "titular": "Ningún desahucio de personas vulnerables sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Cap desnonament de persones vulnerables sense una alternativa habitacional.** Aturar tots els desnonaments per motius econòmics que puguin conduir a la pèrdua de l’habitatge. Cap família hauria de perdre casa seva sense una resposta pública efectiva."
+   },
+   {
+    "id": "comuns-0008",
+    "partido": "comuns",
+    "titular": "Sistema estatal de atención a personas en riesgo de desahucio y sinhogarismo",
+    "marca_actual": [],
+    "texto": "- **Desenvolupar un sistema estatal d’atenció a les persones en risc de desnonament i sensellarisme,** involucrant tant a l’administració de l’Estat com a les administracions autonòmiques i locals. Per a això, es prendrà com a referència l’actual Sistema per a l’Autonomia i Atenció a la Dependència (SAAD), sobre la base del qual s’establirà un esquema de finançament comú, així com un sistema comú d’atenció a les situacions en risc de desnonament i de sensellarisme amb protocols que garanteixin l’atenció immediata davant aquestes situacions."
+   },
+   {
+    "id": "comuns-0009",
+    "partido": "comuns",
+    "titular": "Ley del derecho al hogar para que en 2030 nadie duerma en la calle",
+    "marca_actual": [],
+    "texto": "- Aprovarem una llei estatal del dret a la llar i d’erradicació del sensellarisme, perquè el 2030 ningú no dormi al carrer. Garantirà un allotjament digne d’urgència en 24 hores i una solució estable en sis mesos, i hi haurà una reserva mínima del nou parc públic per a programes de sortida del sensellarisme."
+   },
+   {
+    "id": "comuns-0010",
+    "partido": "comuns",
+    "titular": "Hacer permanentes las medidas del Decreto Mari Carmen sobre desahucios y alquileres",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Consolidar amb caràcter permanent les mesures del Decret Mari Carmen garantint la suspensió dels desnonaments en situacions de vulnerabilitat, la pròrroga dels contractes de lloguer i la limitació de les actualitzacions anuals de les rendes, per assegurar l’estabilitat residencial i evitar augments abusius dels lloguers."
+   },
+   {
+    "id": "comuns-0011",
+    "partido": "comuns",
+    "titular": "Alquiler social obligatorio de siete años para grandes tenedores ante familias vulnerables",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Garantir el lloguer social obligatori** per a les persones jurídiques i grans tenidors quan les famílies es trobin en situació de vulnerabilitat econòmica i no disposin d’una alternativa habitacional a les zones tensionades, establint l’obligació d’oferir un contracte de lloguer social amb una durada mínima de set anys, per prevenir els desnonaments i garantir el dret a l’habitatge."
+   },
+   {
+    "id": "comuns-0051",
+    "partido": "comuns",
+    "titular": "Parar ejecuciones hipotecarias y desahucios consignando las cuotas vencidas",
+    "marca_actual": [],
+    "texto": "- Possibilitar l’aturada dels processos d’execució hipotecària i desnonament en qualsevol moment mitjançant la consignació de les quotes vençudes."
+   },
+   {
+    "id": "comuns-0052",
+    "partido": "comuns",
+    "titular": "El Estado asumirá vivienda e hipoteca para erradicar desahucios de primera vivienda",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Programa d’Erradicació dels desnonaments per hipoteques de primer habitatge mitjançant el qual l’Estat es faria càrrec de l’habitatge i la hipoteca, incorporant l’habitatge al parc públic i la família continuaria en la mateixa amb un lloguer social relacionat amb els seus ingressos. El cost d’aquest programa segons les estimacions de desnonaments realitzats el 2025 ascendiria al 0,10% del PIB i incorporaria un màxim de 20.000 habitatges anuals al parc d’habitatge públic."
+   }
+  ]
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 6,
+  "palabras": 557,
+  "candidatos": [
+   {
+    "id": "pfac-0043",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la prostitución como violencia sexual institucionalizada",
+    "marca_actual": [],
+    "texto": "La prostitución es violencia sexual socialmente institucionalizada, una de las formas más extremas de violencia contra mujeres, niñas y niños y una escuela de desigualdad entre hombres y mujeres. Es una institución fundacional del patriarcado que históricamente reproduce la opresión y la subordinación sexual de las mujeres, la esclavitud sexual.\n\nEspaña es el país con mayor demanda de prostitución a nivel europeo: se estima que al menos un 32% de los hombres mayores de 16 años han pagado, alguna vez en la vida, para abusar sexualmente de mujeres en contexto de prostitución (CIS, 2009).\n\nEn enero de 2025, el Estado español dio un paso clave, para normalizar la explotación sexual y caminar hacia su regulación como un negocio más, al hacer oficial su reconocimiento como actividad económica, incluyéndola en la Clasificación Nacional de Actividades Económicas (CNAE). Además, en el cálculo del Producto Interior Bruto (PIB) español está incorporada la estimación de ingresos de la actividad prostitucional. Desde 2014, el Instituto Nacional de Estadística calcula que la industria prostitucional supone para España el 0,35 % del PIB, es decir, entre 4.000 y 6.000 millones de euros anuales."
+   },
+   {
+    "id": "d21-0249",
+    "partido": "d21",
+    "titular": "Cotizar al 100 % la reducción de jornada por hijos hasta los 12 años",
+    "marca_actual": [],
+    "texto": "- **Criar sin Renunciar – Carreras y Pensiones sin Penalización:** la llegada de un hijo sigue frenando la carrera de la mayoría de las madres, y esa factura se paga décadas después en forma de pensiones más bajas. Hoy la reducción de jornada por cuidado de hijos solo cotiza al 100% durante tres años: ampliaremos esa protección a todo el periodo, hasta que el menor cumpla 12 años. Y como la adolescencia también necesita presencia, madres y padres podrán adaptar su horario o reducir su jornada hasta que sus hijos cumplan 16 años, y no solo hasta los 12 como ahora."
+   },
+   {
+    "id": "d21-0360",
+    "partido": "d21",
+    "titular": "Extraescolares deportivas gratuitas y Pasaporte Deportivo Joven contra el abandono",
+    "marca_actual": [],
+    "texto": "- **Plan de Choque Contra el Abandono Deportivo Adolescente y Femenino:** junto a Comunidades Autónomas y Ayuntamientos, competentes en deporte base, garantizaremos actividades deportivas extraescolares gratuitas en los propios centros educativos públicos, diseñadas con los propios jóvenes y con especial atención a las niñas de 12 a 16 años. Para premiar la constancia, crearemos el **Pasaporte Deportivo Joven**, un carné digital con recompensas como entradas a competiciones, material deportivo o actividades de ocio. Quienes mantengan una práctica regular obtendrán una Mención en Actividad Física y Vida Saludable en su título de ESO y Bachillerato, y a partir de los 16 años podrán formarse y certificarse como monitores para guiar a los más pequeños, convirtiéndose en referentes para ellos."
+   },
+   {
+    "id": "comuns-0915",
+    "partido": "comuns",
+    "titular": "Reformar la LOREG para votar a los 16 años en todas las elecciones",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Reformar la Llei orgànica del règim electoral general (LOREG) per reconèixer el dret de sufragi actiu als 16 anys en totes les eleccions."
+   },
+   {
+    "id": "comuns-1075",
+    "partido": "comuns",
+    "titular": "Ampliar el voto a mayores de 16 años y a residentes extranjeros",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "El dret de vot és un dret fonamental que ha de estar a l’abast de tota la comunitat política. Això inclou persones que avui com avui, de forma injusta, no el tenen legalitzat malgrat poder patir-ne les conseqüències amb plena responsabilitat: els i les menors a partir dels 16 anys poden veure’s privades de la seva llibertat per ser responsables penals, i les persones que treballen al nostre país han de contribuir mitjançant els seus impostos al nostre Estat social de dret, independentment de si són nacionals o no.\n\nAixí doncs, ens trobem amb uns ciutadans i unes ciutadanes de segona, amb responsabilitats però sense drets polítics per poder-s’hi pronunciar.\n\nPer això proposem:"
+   },
+   {
+    "id": "comuns-1077",
+    "partido": "comuns",
+    "titular": "Garantizar el voto a partir de los 16 años en todas las elecciones",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Garantir el dret de vot a partir dels 16 anys en totes les eleccions."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1730 @@
+[
+ {
+  "eje": "eje-reforma-laboral",
+  "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-profundizar",
+    "nombre": "Ampliar la protección frente al despido y la precariedad"
+   }
+  ],
+  "n": 89,
+  "palabras": 4788,
+  "candidatos": [
+   {
+    "id": "pfac-0238",
+    "partido": "pfac",
+    "titular": "Reforzar la Inspección de Trabajo contra la explotación laboral de personas migrantes",
+    "marca_actual": [],
+    "texto": "15. Reforzar la Inspección de Trabajo y la cooperación entre las administraciones competentes para combatir la explotación laboral y la economía sumergida, especialmente en aquellos sectores donde las personas migrantes sufren mayores abusos."
+   },
+   {
+    "id": "pfac-0275",
+    "partido": "pfac",
+    "titular": "Diagnóstico: las reformas laborales de 2010, 2012 y 2021 precarizaron el empleo",
+    "marca_actual": [],
+    "texto": "Además de lo anterior, también debemos poner de manifiesto el fracaso absoluto del actual sistema económico para atender la legítima aspiración de poder vivir del trabajo realizado. Datos macroeconómicos positivos conviven con una precariedad laboral y salarial generalizada. El incremento del SMI ha sido insuficiente frente al encarecimiento del coste de la vida y la crisis habitacional. La transición económica y ecológica hacia un modelo productivo más equilibrado y sostenible debe generar empleo estable y de calidad, garantizando además que las mujeres participen en igualdad en aquellos sectores y espacios de decisión de los que históricamente han quedado excluidas.\n\nPor otra parte, y con la excusa de la flexibilización del mercado laboral, en las últimas décadas se han ido aprobando sucesivas reformas del Estatuto de los Trabajadores (en particular las de 2010 y 2012) que han ido eliminando derechos de los trabajadores y trabajadoras en beneficio exclusivo de las empresas. La última de estas reformas laborales, de 2021, se vendió como la de erradicación del empleo temporal, aunque realmente lo que hizo fue camuflarlo bajo la figura del contrato fijo discontinuo. En conjunto, todas estas reformas han contribuido a la precarización del empleo, lo que provoca una inestabilidad laboral que impide desarrollar un proyecto de vida digno."
+   },
+   {
+    "id": "pfac-0282",
+    "partido": "pfac",
+    "titular": "Entradilla de las medidas para dignificar el mercado laboral",
+    "marca_actual": [],
+    "texto": "La dignificación del mercado laboral y hacer frente a sus problemas coyunturales y estructurales, exige:"
+   },
+   {
+    "id": "pfac-0287",
+    "partido": "pfac",
+    "titular": "Mejorar los empleos feminizados y eliminar la figura de la interna",
+    "marca_actual": [],
+    "texto": "5. Mejorar las condiciones laborales de empleos feminizados:\n - Aflorar la economía sumergida que mantiene a muchas personas que realizan profesionalmente tareas domésticas, de asistencia familiar y de atención a la dependencia -principalmente mujeres- sin contrato laboral.\n - Garantizar la salud laboral de las camareras de piso mediante la armonización autonómica de los planes de prevención, extendiendo a todo el país la obligatoriedad de medidas ergonómicas avanzadas —como el uso de camas elevables— para erradicar las lesiones musculares y enfermedades profesionales derivadas de la sobrecarga de sus tareas en el sector turístico.\n - Eliminar la figura de la \"interna\" y profesionalización con derechos laborales plenos para acabar con la explotación en el hogar de estas mujeres, muchas de las cuales son migrantes y vulnerables.\n - Revisar la valoración profesional, salarial y social de las ocupaciones feminizadas y mejorar el reconocimiento de las competencias y la formación necesarias para su ejercicio."
+   },
+   {
+    "id": "pfac-0291",
+    "partido": "pfac",
+    "titular": "Reducir la temporalidad y el tiempo parcial involuntario en sectores feminizados",
+    "marca_actual": [],
+    "texto": "9. Combatir la precariedad y la segregación laboral. Adoptar medidas para reducir la temporalidad y el tiempo parcial involuntario, evitar la concentración de las mujeres en empleos precarios y garantizar condiciones laborales dignas en todos los sectores, con especial atención a las actividades más feminizadas."
+   },
+   {
+    "id": "pfac-0293",
+    "partido": "pfac",
+    "titular": "Reforzar la Inspección de Trabajo contra la precariedad y la discriminación salarial",
+    "marca_actual": [],
+    "texto": "11. Proteger los derechos laborales y reforzar su cumplimiento efectivo. Reforzar los mecanismos de control y la Inspección de Trabajo para combatir la precariedad, el fraude laboral, la discriminación salarial y el incumplimiento de los derechos laborales, con especial atención a los sectores y ocupaciones donde existe una mayor concentración de mujeres."
+   },
+   {
+    "id": "pfac-0294",
+    "partido": "pfac",
+    "titular": "Indemnización de 45 días por año en el despido improcedente, máximo 42 mensualidades",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "12. Establecer una indemnización de 45 días por año trabajado por despido improcedente, con un máximo de 42 mensualidades."
+   },
+   {
+    "id": "pfac-0295",
+    "partido": "pfac",
+    "titular": "Abonar los salarios de tramitación en el despido improcedente indemnizado",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "13. Abonar los salarios de tramitación cuando la parte empleadora opte por indemnizar tras un despido improcedente."
+   },
+   {
+    "id": "pfac-0296",
+    "partido": "pfac",
+    "titular": "Exigir proporcionalidad en las causas de despidos objetivos y colectivos",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "14. Exigir proporcionalidad y razonabilidad de las causas en los despidos objetivos y colectivos por motivos económicos."
+   },
+   {
+    "id": "pfac-0297",
+    "partido": "pfac",
+    "titular": "Recuperar la autorización administrativa previa para los ERE de extinción",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "15. Recuperar la autorización administrativa previa para los ERE de extinción."
+   },
+   {
+    "id": "pfac-0298",
+    "partido": "pfac",
+    "titular": "Limitar la modificación unilateral de las condiciones de trabajo por la empresa",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "16. Fijar limitaciones a la modificación unilateral de las condiciones de trabajo por parte de la empresa."
+   },
+   {
+    "id": "pfac-0300",
+    "partido": "pfac",
+    "titular": "Cubrir todo puesto estructural con un contrato indefinido ordinario",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "18. Obligar a que todo puesto estructural sea cubierto mediante un contrato indefinido ordinario."
+   },
+   {
+    "id": "pfac-0301",
+    "partido": "pfac",
+    "titular": "Limitar el contrato fijo discontinuo a actividades realmente discontinuas",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "19. Limitar el uso del contrato fijo discontinuo a los casos en que la propia naturaleza de la actividad sea objetivamente discontinua, estacional o intermitente, prohibiendo considerar así los periodos vacacionales."
+   },
+   {
+    "id": "pfac-0302",
+    "partido": "pfac",
+    "titular": "Reducir los periodos de prueba e impedir su uso fraudulento",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "20. Reducir los periodos máximos legales de prueba e impedir su uso fraudulento como mecanismo de rotación laboral, rompiendo el círculo del paro estructural."
+   },
+   {
+    "id": "pfac-0306",
+    "partido": "pfac",
+    "titular": "Planes de la Inspección de Trabajo contra formas latentes de acoso laboral",
+    "marca_actual": [],
+    "texto": "24. Reforzar la inspección de trabajo mediante planes específicos orientados a detectar formas latentes de acoso laboral, tales como la no renovación de contratos temporales, la exclusión de reuniones clave o la denegación sistemática de promociones legítimas."
+   },
+   {
+    "id": "pfac-0451",
+    "partido": "pfac",
+    "titular": "Aprobar el Estatuto de las personas en formación práctica no laboral",
+    "marca_actual": [],
+    "texto": "26. Recuperar, registrar y apoyar la aprobación definitiva del proyecto de ley del Estatuto de las personas en formación práctica no laboral —cuyo texto ya fue validado en el Consejo de Ministros— para consolidar de forma urgente un marco legal que garantice los derechos de la comunidad estudiantil, prohíba el acceso a las prácticas mediante pago directo, establezca compensaciones obligatorias por los gastos derivados de la actividad y erradique la figura fraudulenta del falso personal becario en los centros de trabajo."
+   },
+   {
+    "id": "pfac-0510",
+    "partido": "pfac",
+    "titular": "Catálogo de enfermedades profesionales del sector de la dependencia",
+    "marca_actual": [],
+    "texto": "13. Aprobar un catálogo específico de enfermedades profesionales del sector de la dependencia (lesiones musculoesqueléticas, burnout) para facilitar su baja médica automatizada."
+   },
+   {
+    "id": "pfac-0514",
+    "partido": "pfac",
+    "titular": "Limitar la parcialidad involuntaria con un mínimo de 30 horas semanales",
+    "marca_actual": [],
+    "texto": "17. Limitar los contratos a tiempo parcial involuntario, fijando un mínimo de 30 horas semanales obligatorias salvo petición expresa de la trabajadora o el trabajador."
+   },
+   {
+    "id": "pfac-0515",
+    "partido": "pfac",
+    "titular": "Más inspecciones de trabajo en la ayuda a domicilio frente a abusos",
+    "marca_actual": [],
+    "texto": "18. Aumentar significativamente las inspecciones de trabajo específicas en el sector de la ayuda a domicilio, prestando especial atención a situaciones de abuso, negligencia, trato degradante o violencia ejercida por la persona cuidadora sobre la persona dependiente, o al contrario (abuso, trata degradante o violencia ejercida por la persona dependiente o sus familiares contra la persona cuidadora). Actuando, en todo caso, con la máxima diligencia y garantía de seguridad de las personas afectadas."
+   },
+   {
+    "id": "pfac-0684",
+    "partido": "pfac",
+    "titular": "Diagnóstico: lentitud, falta de recursos y colapso de la justicia",
+    "marca_actual": [],
+    "texto": "Las deficiencias en la administración de justicia en nuestro país son bien conocidas: lentitud en los procesos, falta de recursos económicos y humanos, corrupción y falta de transparencia, procedimientos complejos y obsoletos y desigualdad en el acceso a la justicia para las poblaciones más vulnerables. Todos estos problemas provocan una pérdida de confianza en el sistema, una aplicación desigual de la ley y barreras que impiden una tutela judicial efectiva.\n\nEl Plan Justicia 2030, diseñado para eliminar las brechas territoriales, económicas y digitales en el acceso al servicio público de Justicia, no está ofreciendo los resultados prácticos esperados. Paradójicamente, el colapso judicial es tan grave que ya se agendan juicios para ese año. El sector profesional alerta de que una justicia que tarda cuatro o cinco años en resolver una incapacidad laboral, un despido o una deuda deja de ser útil y vulnera el derecho a la tutela judicial efectiva.\n\nEl plan pone un énfasis excesivo en la reestructuración burocrática, pero no ataja el problema de raíz: España cuenta con una tasa de personal de la judicatura por habitante muy inferior al promedio europeo. En este contexto, se critica que se aprueban leyes nuevas y más complejas sin ampliar de forma equivalente las plantillas de la judicatura, la fiscalía y las del funcionariado judicial."
+   },
+   {
+    "id": "pfac-0785",
+    "partido": "pfac",
+    "titular": "Estatuto del Personal Agrícola con igualdad salarial entre mujeres y hombres",
+    "marca_actual": [],
+    "texto": "26. Promover la aprobación de un Estatuto del Personal Agrícola que garantice condiciones laborales dignas, salarios justos y el fin de la precariedad de las personas jornaleras y migrantes, poniendo especial atención en establecer la igualdad salarial entre mujeres y hombres."
+   },
+   {
+    "id": "ph-0007",
+    "partido": "ph",
+    "titular": "Transformar la relación entre capital y trabajo con gestión compartida",
+    "marca_actual": [],
+    "texto": "Esta situación insostenible requiere medidas valientes, no simples propuestas que maquillen ligeramente la situación sin entrar de lleno en la necesidad de un cambio en la relación histórica entre el capital y el trabajo. Como se afirma en el Documento Humanista: _«Para los humanistas existen como factores de la producción, el trabajo y el capital, y están demás la especulación y la usura. En la actual situación los humanistas luchan porque la absurda relación que ha existido entre esos dos factores sea totalmente transformada. Hasta ahora se ha impuesto que la ganancia sea para el capital y el salario para el trabajador, justificando tal desequilibrio con el \"riesgo\" que asume la inversión, como si todo trabajador no arriesgara su presente y su futuro en los vaivenes de la desocupación y la crisis. Pero, además, está en juego la gestión y la decisión en el manejo de la empresa. La ganancia no destinada a la reinversión en la empresa, no dirigida a su expansión o diversificación, deriva hacia la especulación financiera. La ganancia que no crea nuevas fuentes de trabajo, deriva hacia la especulación financiera. Por consiguiente, la lucha de los trabajadores ha de dirigirse a obligar al capital a su máximo rendimiento productivo. Pero esto no podrá implementarse a menos que la gestión y dirección sean compartidas. ¿De otro modo, cómo se podría evitar el despido masivo, el cierre y el vaciamiento empresarial? Porque el gran daño está en la subinversión, la quiebra fraudulenta, el endeudamiento forzado y la fuga del capital, no en las ganancias que se puedan obtener como consecuencia del aumento en la productividad. Y si se insistiera en la confiscación de los medios de producción por parte de los trabajadores, siguiendo las enseñanzas del siglo XIX, se debería tener en cuenta también el reciente fracaso del socialismo real»._"
+   },
+   {
+    "id": "nex-0031",
+    "partido": "nex",
+    "titular": "Plan de choque contra los accidentes laborales y reforma de la Ley de Prevención",
+    "marca_actual": [],
+    "texto": "24. Plan de choque contra los accidentes laborales y reforma de la Ley de Prevención de Riesgos Laborales."
+   },
+   {
+    "id": "nex-0032",
+    "partido": "nex",
+    "titular": "Buzón de denuncias anónimas conectado con la Inspección de Trabajo",
+    "marca_actual": [],
+    "texto": "25. Buzón de denuncias anónimas conectado directamente con la Inspección de Trabajo."
+   },
+   {
+    "id": "nex-0112",
+    "partido": "nex",
+    "titular": "Más inspectores de Trabajo en Extremadura",
+    "marca_actual": [],
+    "texto": "101. Más inspectores de Trabajo en Extremadura."
+   },
+   {
+    "id": "nex-0116",
+    "partido": "nex",
+    "titular": "Limitar la subcontratación a un solo nivel en los contratos públicos",
+    "marca_actual": [],
+    "texto": "105. Subcontratación limitada a un solo nivel en los contratos públicos."
+   },
+   {
+    "id": "nex-0117",
+    "partido": "nex",
+    "titular": "Empleo estable como criterio obligatorio de adjudicación de contratos públicos",
+    "marca_actual": [],
+    "texto": "106. El empleo estable, criterio obligatorio de adjudicación en los contratos públicos."
+   },
+   {
+    "id": "nex-0125",
+    "partido": "nex",
+    "titular": "Estatuto del Becario: prácticas 100 % remuneradas en FP y universidad",
+    "marca_actual": [],
+    "texto": "114. Estatuto del Becario: prácticas 100 % remuneradas en FP y universidad."
+   },
+   {
+    "id": "nex-0126",
+    "partido": "nex",
+    "titular": "Aprobar un Estatuto del Trabajador Joven",
+    "marca_actual": [],
+    "texto": "115. Estatuto del Trabajador Joven."
+   },
+   {
+    "id": "d21-0001",
+    "partido": "d21",
+    "titular": "Limpieza política integral contra el clientelismo y la corrupción",
+    "marca_actual": [],
+    "texto": "**La democracia es el mejor sistema para garantizar la libertad, los derechos y la prosperidad**. Precisamente por eso es necesario **protegerla, modernizarla y fortalecerla.**\n\nCreemos en una política basada en el servicio público, el mérito, la ética, la rendición de cuentas, la búsqueda de consensos, y la orientación a resultados.\n\nNuestro sistema político ahora beneficia a los políticos y a los que viven de los políticos, pero no beneficia a la sociedad. Para poder avanzar es imperativo hacer una limpieza política integral que vaya mucho más allá de un simple cambio de caras. Y que permita liberar los muchísimos recursos que los partidos políticos dedican a sí mismos y a los suyos para ponerlos al servicio de la ciudadanía.\n- Cortando el clientelismo con despidos y normas estrictas de mérito y capacidad.\n- Atajando la corrupción política con medidas tajantes.\n- Con instituciones despolitizadas y organismos de control efectivos y rigurosamente independientes.\n- Y devolviendo el control a la ciudadanía."
+   },
+   {
+    "id": "d21-0009",
+    "partido": "d21",
+    "titular": "Inspección en 6 meses de los cargos de libre designación existentes",
+    "marca_actual": [],
+    "texto": "- **Para los cargos de carnet existentes:** en un plazo de 6 meses se hará una inspección pública integral de todos los nombramientos existentes de libre designación en las administraciones y empresas públicas, con criterios objetivos y transparentes, por un Tribunal Administrativo Independiente:\n - Se publicará la lista y coste de todos los nombramientos sin formación y experiencia específica para el cargo.\n - Se iniciarán trámites de despido de todos los nombramientos de libre designación que no cumplan esos criterios dentro del respeto a la legalidad. Todo el dinero recuperado por esta vía se dedicará a vivienda."
+   },
+   {
+    "id": "comuns-0139",
+    "partido": "comuns",
+    "titular": "Prohibir despidos colectivos a empresas deslocalizadas y exigir devolver las ayudas",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Establirem les mesures següents per evitar les deslocalitzacions:\n - La prohibició que les empreses deslocalitzades puguin fer acomiadaments col·lectius, extincions de contractes per causes objectives i modificacions substancials de les condicions de treball.\n - L’obligatorietat de retornar la totalitat de l’import de qualsevol tipus d’ajuda pública rebuda en els anys previs en cas de deslocalització de l’activitat productiva o de l’ocupació, incloses les pròpies de l’àmbit laboral com els ERTO o el mecanisme RED.\n - L’exigència que en la transmissió d’empreses es faci sempre i es presenti a l’autoritat laboral un pla de viabilitat l’objectiu del qual serà el manteniment de l’activitat productiva i dels llocs de treball."
+   },
+   {
+    "id": "comuns-0154",
+    "partido": "comuns",
+    "titular": "Más inspecciones y sanciones contra la contratación abusiva de plantillas",
+    "marca_actual": [],
+    "texto": "- Aturar les pràctiques abusives de contractació de plantilles, mitjançant l’increment de les inspeccions laborals, l’agilització dels procediments sancionadors i l’increment de l’import de les sancions."
+   },
+   {
+    "id": "comuns-0155",
+    "partido": "comuns",
+    "titular": "Mejorar por ley las condiciones laborales de quienes trabajan en el comercio",
+    "marca_actual": [],
+    "texto": "- Modificar la legislació laboral pertinent per tal de millorar les condicions laborals de les persones treballadores del sector comercial, especialment les autònomes i les que treballen en la gran distribució."
+   },
+   {
+    "id": "comuns-0211",
+    "partido": "comuns",
+    "titular": "Balance: empleo indefinido, SMI un 66 % más alto y 35 horas públicas",
+    "marca_actual": [],
+    "texto": "La legislatura que acaba ha demostrat que es poden ampliar drets laborals i crear ocupació alhora, perquè la reforma laboral ha fet de la feina indefinida la norma, el salari mínim ha crescut més d’un 66% des de 2018 i les pensions tornen a revaloritzar-se amb l’IPC, mentre que a l’Administració General de l’Estat la jornada ha baixat a 35 hores setmanals des del 16 d’abril de 2026, una mesura que beneficia unes 220.000 persones i que ha de servir de referència per a la resta d’administracions i empreses públiques. També ha mostrat, però, què passa quan una majoria del Congrés es posa al servei de les patronals, ja que PP, Vox i Junts van tombar la reducció de la jornada a 37,5 hores, i la dissolució de les Corts ha deixat sense aprovar la nova Llei de prevenció de riscos laborals pactada amb CCOO i UGT i el reial decret del registre de jornada digital.\n\nHem posat al davant la prevenció de riscos laborals i el registre de jornada, perquè sense salut a la feina i sense un control real del temps de treball la resta de drets es queden sense manera de fer-se complir."
+   },
+   {
+    "id": "comuns-0212",
+    "partido": "comuns",
+    "titular": "Llevar cuatro leyes laborales al Congreso en los primeros cien días",
+    "marca_actual": [],
+    "texto": "Ens comprometem a portar al Congrés en els primers cent dies de legislatura quatre textos que ja s’han treballat en el diàleg social o en l’acord de govern anterior."
+   },
+   {
+    "id": "comuns-0213",
+    "partido": "comuns",
+    "titular": "Reformar la Ley de prevención de riesgos laborales en los primeros cien días",
+    "marca_actual": [],
+    "texto": "- La reforma de la Llei 31/1995 de prevenció de riscos laborals, a partir de l’avantprojecte aprovat pel Consell de Ministres el 28 d’abril de 2026 i amb les millores que proposem en aquest document."
+   },
+   {
+    "id": "comuns-0216",
+    "partido": "comuns",
+    "titular": "Transponer la directiva europea de trabajo en plataformas",
+    "marca_actual": [],
+    "texto": "- La llei de transposició de la directiva europea de treball en plataformes."
+   },
+   {
+    "id": "comuns-0217",
+    "partido": "comuns",
+    "titular": "Actualizar la prevención de riesgos ante salud mental, algoritmos y calor extremo",
+    "marca_actual": [],
+    "texto": "La Llei de prevenció de riscos laborals és de 1995 i es va pensar per a riscos que es veuen, com una màquina sense protecció o una bastida mal muntada, mentre que avui una part creixent dels danys a la salut ve de l’organització del treball, dels ritmes que marquen els algoritmes, de la calor extrema i de la sobrecàrrega mental. Les baixes per trastorns de salut mental s’han duplicat des de 2018, segons l’informe de CCOO sobre incapacitat temporal, i cada any centenars de persones continuen morint en accidents de treball.\n\nL’acord signat per CCOO, UGT i el Govern el febrer de 2026 actualitzava per primera vegada en trenta anys aquesta llei, reconeixia expressament la salut mental i els riscos psicosocials, incorporava el canvi climàtic i la perspectiva de gènere i rebaixava de 500 a 300 persones treballadores el llindar per tenir servei de prevenció propi, i de 250 a 150 en les activitats perilloses, i limitava a deu persones treballadores els supòsits en què l’empresari pot assumir personalment la prevenció, quan fins ara podien ser vint-i-cinc si l’empresa tenia un sol centre. Ens comprometem a aprovar-la tal com es va pactar i a anar més enllà en els aspectes que l’acord deixava pendents de desenvolupament."
+   },
+   {
+    "id": "comuns-0218",
+    "partido": "comuns",
+    "titular": "Aprobar en cien días la reforma de prevención pactada en el diálogo social",
+    "marca_actual": [],
+    "texto": "- Aprovar en els primers cent dies la reforma de la Llei de prevenció de riscos laborals, del Reglament dels serveis de prevenció i de l’Estatut dels Treballadors pactada en el diàleg social, sense rebaixar cap dels compromisos de l’acord."
+   },
+   {
+    "id": "comuns-0219",
+    "partido": "comuns",
+    "titular": "Reglamento de riesgos psicosociales en seis meses con evaluación obligatoria",
+    "marca_actual": [],
+    "texto": "- Aprovar en un termini màxim de sis mesos des de l’entrada en vigor de la llei el reglament de riscos psicosocials, que ha d’obligar totes les empreses a avaluar-los amb mètodes validats i participatius, com el CoPsoQ-istas21, i a aplicar mesures que actuïn sobre l’organització del treball, que és on s’originen aquests riscos."
+   },
+   {
+    "id": "comuns-0220",
+    "partido": "comuns",
+    "titular": "Mejorar la información sobre riesgos psicosociales y ampliar las enfermedades profesionales",
+    "marca_actual": [],
+    "texto": "- Riscos psicosocials. Millorarem els sistemes d’informació que permeten conèixer la prevalença de l’exposició als factors de risc psicosocial, així com la gestió que fan les empreses per prevenir aquest tipus de riscos. Ho farem en coordinació amb les administracions autonòmiques amb competències en seguretat i salut en el treball, per obtenir informació precisa, clara i homogènia sobre l’exposició a aquests riscos i els danys a la salut que provoquen, entre d’altres els accidents de treball. En darrer terme, l’objectiu és identificar possibles indicadors en matèria psicosocial, seguint la recomanació del grup de treball de la Comissió Nacional de Seguretat i Salut en el Treball. Inclourem l’exposició als factors psicosocials en les diverses actuacions de vigilància de la salut i actualitzarem el quadre de malalties professionals per incloure-hi les vinculades als riscos psicosocials."
+   },
+   {
+    "id": "comuns-0221",
+    "partido": "comuns",
+    "titular": "Reconocer por ley la gestión algorítmica como factor de riesgo laboral",
+    "marca_actual": [],
+    "texto": "- Reconèixer per llei la gestió algorítmica com a factor de risc, de manera que cap sistema que assigni tasques, fixi ritmes o avaluï el rendiment es pugui implantar sense una avaluació prèvia del seu impacte en la salut feta amb la participació dels delegats i delegades de prevenció."
+   },
+   {
+    "id": "comuns-0222",
+    "partido": "comuns",
+    "titular": "Límites de temperatura para adaptar o parar el trabajo al aire libre",
+    "marca_actual": [],
+    "texto": "- Aprovar el reglament de protecció davant del canvi climàtic, amb límits de temperatura a partir dels quals s’han d’adaptar o aturar l’activitat a l’aire lliure i en espais sense climatització, i amb dret de la representació legal a paralitzar-la quan l’empresa no ho faci."
+   },
+   {
+    "id": "comuns-0223",
+    "partido": "comuns",
+    "titular": "Agentes territoriales de prevención en empresas sin representación legal",
+    "marca_actual": [],
+    "texto": "- Garantir la figura dels agents territorials de prevenció que ja preveu l’avantprojecte i ampliar-ne l’abast a totes les empreses sense representació legal, amb facultats per accedir als centres de treball, requerir informació i documentació, acompanyar la Inspecció en les visites i instar la paralització de l’activitat quan hi hagi un risc greu."
+   },
+   {
+    "id": "comuns-0224",
+    "partido": "comuns",
+    "titular": "Reforzar a los delegados de prevención con crédito horario propio",
+    "marca_actual": [],
+    "texto": "- Reforçar les competències dels delegats i delegades de prevenció, amb un crèdit horari propi i diferenciat del de la representació unitària, formació a càrrec de l’empresa dins de la jornada i dret a participar en totes les investigacions d’accidents i en les visites de la Inspecció."
+   },
+   {
+    "id": "comuns-0225",
+    "partido": "comuns",
+    "titular": "Responsabilizar a la empresa principal de la seguridad de toda la subcontratación",
+    "marca_actual": [],
+    "texto": "- Fer responsable l’empresa principal de la seguretat de tota la cadena de subcontractació que treballi en els seus centres, amb una persona coordinadora d’activitats preventives obligatòria quan hi concorrin diverses empreses."
+   },
+   {
+    "id": "comuns-0226",
+    "partido": "comuns",
+    "titular": "Ratios mínimas de personal técnico y sanitario en los servicios de prevención",
+    "marca_actual": [],
+    "texto": "- Fixar per reglament ràtios mínimes de personal tècnic i sanitari als serveis de prevenció aliens i reforçar els serveis propis i mancomunats, perquè la vigilància de la salut vagi més enllà d’un reconeixement mèdic anual."
+   },
+   {
+    "id": "comuns-0227",
+    "partido": "comuns",
+    "titular": "Perspectiva de género, antirracista y de edad en las evaluaciones de riesgos",
+    "marca_actual": [],
+    "texto": "- Integrar la perspectiva de gènere, antiracista, de diversitat funcional i d’edat en totes les avaluacions de riscos, amb atenció específica als sectors feminitzats i precaritzats com la neteja, les cures o el comerç, i a la protecció de l’embaràs i la lactància."
+   },
+   {
+    "id": "comuns-0228",
+    "partido": "comuns",
+    "titular": "Incluir trastornos mentales y cánceres laborales entre las enfermedades profesionales",
+    "marca_actual": [],
+    "texto": "- Actualitzar el quadre de malalties professionals per incloure-hi els trastorns de salut mental vinculats a l’organització del treball i els càncers d’origen laboral, i establir la presumpció de laboralitat de les patologies musculoesquelètiques en les activitats que les provoquen."
+   },
+   {
+    "id": "comuns-0229",
+    "partido": "comuns",
+    "titular": "Excluir de la contratación pública a empresas condenadas contra la seguridad laboral",
+    "marca_actual": [],
+    "texto": "- Exclourem de la contractació pública les empreses condemnades per delictes contra la seguretat dels treballadors, i impedir que la reducció de la sanció per pagament immediat s’apliqui quan hi hagi accidents de treball o malalties professionals."
+   },
+   {
+    "id": "comuns-0230",
+    "partido": "comuns",
+    "titular": "Bonificar la formación en prevención en empresas de menos de diez trabajadores",
+    "marca_actual": [],
+    "texto": "- Bonificar la formació en prevenció a les empreses de menys de deu persones treballadores i garantir que tothom rebi formació específica sobre els riscos del seu lloc abans de començar a treballar."
+   },
+   {
+    "id": "comuns-0231",
+    "partido": "comuns",
+    "titular": "Plan de choque inmediato contra la siniestralidad laboral",
+    "marca_actual": [],
+    "texto": "- Aprovar un pla de xoc immediat contra la sinistralitat laboral, amb campanyes de sensibilització i finançament per a les entitats que treballen en la reducció dels riscos psicosocials."
+   },
+   {
+    "id": "comuns-0235",
+    "partido": "comuns",
+    "titular": "Más Inspección de Trabajo y alojamientos dignos para las personas temporeras",
+    "marca_actual": [],
+    "texto": "- Garantirem els drets de les persones temporeres amb més Inspecció de Treball durant les campanyes, control de la subcontractació i actuacions contra l’explotació i l’assetjament. Impulsarem amb les administracions competents i el sector allotjaments dignes i assequibles, transport segur i accés efectiu als serveis públics, amb especial protecció davant el racisme i les violències masclistes."
+   },
+   {
+    "id": "comuns-0236",
+    "partido": "comuns",
+    "titular": "Proteger del calor extremo el trabajo agrario, ganadero y forestal",
+    "marca_actual": [],
+    "texto": "- Reforçarem la protecció davant la calor extrema en el treball agrari, ramader i forestal, amb adaptació d’horaris, descansos, aigua i ombra. Garantirem que l’organització del treball protegeixi la salut sense penalització salarial i reforçarem la inspecció, la formació i el suport a les petites explotacions."
+   },
+   {
+    "id": "comuns-0247",
+    "partido": "comuns",
+    "titular": "Plan de choque de la Inspección contra las horas extra no pagadas",
+    "marca_actual": [],
+    "texto": "- Posar en marxa un pla de xoc de la Inspecció de Treball contra les hores extraordinàries no pagades, amb campanyes sectorials a l’educació, l’hostaleria, el comerç, la indústria i el transport, i destinar les cotitzacions recuperades a reforçar la mateixa Inspecció."
+   },
+   {
+    "id": "comuns-0253",
+    "partido": "comuns",
+    "titular": "Declarar nulo el despido de personas en incapacidad temporal",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Declarar nul l’acomiadament de qualsevol persona en situació d’incapacitat temporal o per causa de la seva malaltia, amb readmissió obligatòria i indemnització pels danys, desplegant la protecció que ja reconeix la Llei 15/2022 d’igualtat de tracte."
+   },
+   {
+    "id": "comuns-0254",
+    "partido": "comuns",
+    "titular": "Prohibir los pluses de asistencia que penalizan las bajas por enfermedad",
+    "marca_actual": [],
+    "texto": "- Incorporar el presentisme com a risc en les avaluacions psicosocials i prohibir els plusos i primes d’assistència que penalitzen les baixes per malaltia, així com els sistemes algorítmics que castiguin les absències justificades."
+   },
+   {
+    "id": "comuns-0258",
+    "partido": "comuns",
+    "titular": "Reformar a fondo la Inspección de Trabajo y acabar con la bicefalia catalana",
+    "marca_actual": [],
+    "texto": "Els drets necessiten qui els faci complir, i la Inspecció de Treball ha anat assumint noves funcions, des del control del registre de jornada fins a la vigilància de la gestió algorítmica, sense que se n’hagi reformat el funcionament ni se n’hagin reforçat prou els mitjans. A Catalunya, a més, la Inspecció de Treball de Catalunya i la de l’Estat conviuen en una bicefàlia que dispersa recursos i dificulta l’acció inspectora, i per això proposem una reforma a fons que acompanyi qualsevol nova competència que se li atribueixi."
+   },
+   {
+    "id": "comuns-0259",
+    "partido": "comuns",
+    "titular": "Completar el traspaso a la Generalitat de toda la Inspección de Trabajo",
+    "marca_actual": [],
+    "texto": "- Completar el traspàs a la Generalitat de la funció inspectora, incloses les matèries que encara depenen de l’Estat, com la Seguretat Social, perquè la Inspecció de Treball de Catalunya disposi de tots els recursos i competències de la inspecció al territori i s’acabi la bicefàlia actual."
+   },
+   {
+    "id": "comuns-0260",
+    "partido": "comuns",
+    "titular": "Reformar la Ley 23/2015 de la Inspección de Trabajo y Seguridad Social",
+    "marca_actual": [],
+    "texto": "- Reformar la Llei 23/2015, ordenadora del sistema d’Inspecció de Treball i Seguretat Social, per regular l’ús de les noves tecnologies en l’activitat inspectora, la gestió de les queixes, el còmput dels terminis, l’accés als centres de treball i la naturalesa de les denúncies, i garantir que cada nova competència arribi acompanyada dels recursos necessaris per exercir-la."
+   },
+   {
+    "id": "comuns-0261",
+    "partido": "comuns",
+    "titular": "Duplicar la plantilla de la Inspección hasta un inspector por 10.000 ocupados",
+    "marca_actual": [],
+    "texto": "- Duplicar en una legislatura la plantilla d’inspectors, inspectores, subinspectors i subinspectores fins a arribar a la ràtio recomanada per l’OIT d’una persona inspectora per cada 10.000 persones ocupades, reforçant tant l’escala d’Ocupació i Seguretat Social com la de Seguretat i Salut Laboral per augmentar la capacitat de control en matèria de prevenció de riscos laborals."
+   },
+   {
+    "id": "comuns-0262",
+    "partido": "comuns",
+    "titular": "Dotar a la Inspección de Trabajo de medios técnicos y análisis de datos",
+    "marca_actual": [],
+    "texto": "- Dotar la Inspecció dels mitjans tècnics i materials que necessita, amb eines d’anàlisi de dades, assistents digitals de suport a la tasca inspectora en la línia dels que ja s’han implantat a l’Administració de justícia i personal tècnic especialitzat en sistemes informàtics."
+   },
+   {
+    "id": "comuns-0263",
+    "partido": "comuns",
+    "titular": "Facultar a la Inspección para exigir a las empresas información sobre sus algoritmos",
+    "marca_actual": [],
+    "texto": "- Facultar la Inspecció per requerir a les empreses la informació sobre els paràmetres, les regles i les instruccions dels algoritmes que l’article 64.4.d de l’Estatut ja les obliga a facilitar a la representació legal, i fer campanyes específiques a les empreses que neguin fer servir algoritmes quan la representació legal els demana informació."
+   },
+   {
+    "id": "comuns-0264",
+    "partido": "comuns",
+    "titular": "Canales seguros para denunciar la explotación laboral sin perjudicar la situación administrativa",
+    "marca_actual": [],
+    "texto": "- Garantir canals segurs de denúncia de l’explotació laboral, amb interpretació, mediació intercultural i protecció davant represàlies, impulsant garanties perquè denunciar no perjudiqui la situació administrativa."
+   },
+   {
+    "id": "comuns-0274",
+    "partido": "comuns",
+    "titular": "Cláusulas laborales en la contratación pública y reversión de externalizaciones",
+    "marca_actual": [],
+    "texto": "- Incorporar a la contractació pública clàusules que garanteixin el compliment de les condicions laborals, amb responsabilitat subsidiària de l’Administració envers les persones treballadores, acords marc que homogeneïtzin les condicions en la gestió indirecta de serveis públics i clàusules d’intervenció sindical en seguretat i salut, excloure les empreses amb sanció ferma per infracció greu en prevenció de riscos laborals o molt greu en matèria laboral o social i impulsar la reversió de les externalitzacions de serveis públics."
+   },
+   {
+    "id": "comuns-0284",
+    "partido": "comuns",
+    "titular": "Perseguir a los falsos autónomos y aplicar a los TRADE el convenio del cliente",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Inspecció de Treball contra els falsos autònoms. Als autònoms econòmicament dependents (TRADE) se’ls aplicarà el conveni de l’empresa client, i la seva indemnització per fi de contracte quedarà exempta d’IRPF, com la dels assalariats."
+   },
+   {
+    "id": "comuns-0300",
+    "partido": "comuns",
+    "titular": "Transponer la directiva de plataformas y extender los derechos algorítmicos a todos",
+    "marca_actual": [],
+    "texto": "La directiva europea de treball en plataformes s’ha de transposar abans del 2 de desembre de 2026 i va més enllà del repartiment, ja que obliga a regular la gestió algorítmica de totes les persones que treballen a través d’una plataforma. El Ministeri de Treball va obrir la consulta pública l’estiu de 2026, i la nova legislatura l’ha d’aprovar amb ambició i estendre els drets algorítmics a tota la classe treballadora, perquè els algoritmes ja decideixen torns, ritmes, avaluacions i acomiadaments en empreses de tots els sectors."
+   },
+   {
+    "id": "comuns-0301",
+    "partido": "comuns",
+    "titular": "Extender la presunción de laboralidad de la Ley Rider a todas las plataformas",
+    "marca_actual": [],
+    "texto": "- Aprovar en els primers sis mesos la llei de transposició de la directiva de plataformes, estenent la presumpció de laboralitat de la Llei Rider a totes les plataformes digitals, amb inversió de la càrrega de la prova, efectes en la Seguretat Social i la fiscalitat i còmput de tot el temps de connexió com a temps de treball."
+   },
+   {
+    "id": "comuns-0302",
+    "partido": "comuns",
+    "titular": "Revisión humana obligatoria de despidos y sanciones decididos automáticamente",
+    "marca_actual": [],
+    "texto": "- Aplicar a totes les persones treballadores els drets de transparència, supervisió humana i explicació de les decisions automatitzades que la directiva reconeix a les de plataformes, de manera que cap acomiadament, sanció o modificació de condicions es pugui decidir sense revisió humana."
+   },
+   {
+    "id": "comuns-0305",
+    "partido": "comuns",
+    "titular": "Prohibir el tratamiento de datos emocionales y biométricos y la vigilancia en el teletrabajo",
+    "marca_actual": [],
+    "texto": "- Prohibir el tractament de dades emocionals, biomètriques i de converses privades, la videovigilància permanent en el teletreball i el monitoratge fora del temps de treball, i garantir el control sindical dels sistemes d’IA d’alt risc en l’àmbit laboral definits pel Reglament europeu d’IA."
+   },
+   {
+    "id": "comuns-0306",
+    "partido": "comuns",
+    "titular": "Perseguir la cesión de cuentas y los falsos autónomos en las plataformas",
+    "marca_actual": [],
+    "texto": "- Perseguir la cessió de comptes, les flotes subcontractades i els falsos autònoms a les plataformes, amb responsabilitat solidària de la plataforma principal."
+   },
+   {
+    "id": "comuns-0307",
+    "partido": "comuns",
+    "titular": "Proteger a las personas explotadas en la cesión de cuentas de plataformas",
+    "marca_actual": [],
+    "texto": "- Garantir que les actuacions contra la cessió de comptes protegeixin les persones explotades, facilitin la reclamació dels salaris i prioritzin la responsabilitat de les plataformes i dels intermediaris que es lucren dels abusos."
+   },
+   {
+    "id": "comuns-0308",
+    "partido": "comuns",
+    "titular": "Diagnóstico: la indemnización por despido improcedente no repara ni disuade",
+    "marca_actual": [],
+    "texto": "La reforma laboral de 2021 va reduir la temporalitat com no ho havia fet cap reforma anterior, però l’Estatut dels Treballadors continua pensat per a un model productiu del segle passat, i el Comitè Europeu de Drets Socials ha donat la raó a CCOO en considerar que la indemnització per acomiadament improcedent no repara el dany ni dissuadeix l’empresa."
+   },
+   {
+    "id": "comuns-0309",
+    "partido": "comuns",
+    "titular": "Nuevo Estatuto del Trabajo del siglo XXI con derechos mínimos comunes",
+    "marca_actual": [],
+    "texto": "- Elaborar amb el diàleg social un nou Estatut del Treball del segle XXI que garanteixi uns drets mínims comuns a totes les persones que viuen del seu treball, siguin assalariades, autònomes econòmicament dependents, cooperativistes o en pràctiques."
+   },
+   {
+    "id": "comuns-0311",
+    "partido": "comuns",
+    "titular": "Despido improcedente de al menos 45 días por año, sin topes y con readmisión",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Reformar l’acomiadament perquè la indemnització per acomiadament improcedent repari el dany real, amb un mínim de 45 dies de salari per any treballat i sense topalls que impedeixin compensar tot el perjudici, tenint en compte l’antiguitat, l’edat, les càrregues familiars i les possibilitats de reocupació, recuperar els salaris de tramitació i donar a la persona treballadora el dret a optar per la readmissió, i garantir que la relació laboral només es pugui extingir per causa justa, d’acord amb el Conveni 158 de l’OIT."
+   },
+   {
+    "id": "comuns-0312",
+    "partido": "comuns",
+    "titular": "Indemnización por despido improcedente disuasoria y reparadora según la Carta Social Europea",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Acomiadament restauratiu: Donar compliment al que disposen els instruments internacionals ratificats, en particular la Carta Social Europea, en la interpretació que en fa el Comitè Europeu de Drets Socials, i el Conveni 158 de l’OIT, regulant una indemnització per acomiadament improcedent que sigui realment dissuasòria i reparadora."
+   },
+   {
+    "id": "comuns-0313",
+    "partido": "comuns",
+    "titular": "Recuperar la autorización administrativa previa para los despidos colectivos",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Recuperar l’autorització administrativa prèvia per als acomiadaments col·lectius, que la reforma laboral de 2012 va suprimir, i obligar les empreses amb beneficis que acomiadin a retornar els ajuts públics rebuts."
+   },
+   {
+    "id": "comuns-0314",
+    "partido": "comuns",
+    "titular": "Cotización adicional para empresas que despidan por automatización o IA",
+    "marca_actual": [],
+    "texto": "- Establir que les empreses que acomiadin per la introducció de noves tecnologies, d’automatització o de sistemes d’intel·ligència artificial que suprimeixin llocs de treball assumeixin un compromís de cotització addicional a la Seguretat Social durant un període determinat, que compensi la pèrdua de quotes que generen aquestes extincions."
+   },
+   {
+    "id": "comuns-0315",
+    "partido": "comuns",
+    "titular": "Recolocación y recualificación financiadas por la empresa para todas las personas despedidas",
+    "marca_actual": [],
+    "texto": "- Garantir el dret a l’orientació, la requalificació professional i l’acompanyament personalitzat en la recerca de feina a totes les persones afectades per un expedient de regulació d’ocupació, un acomiadament objectiu o l’extinció del seu contracte, amb plans de recol·locació finançats per l’empresa, coordinats amb els Serveis Públics d’Ocupació i amb seguiment de la representació legal, i estendre a tots els expedients l’obligació que avui l’article 51.10 de l’Estatut dels Treballadors limita als acomiadaments col·lectius de més de cinquanta persones."
+   },
+   {
+    "id": "comuns-0316",
+    "partido": "comuns",
+    "titular": "Igualdad de condiciones en las subcontratas y límites a la externalización",
+    "marca_actual": [],
+    "texto": "- Garantir la igualtat de condicions entre les plantilles de les contractistes i les de l’empresa principal, amb responsabilitat solidària en tota la cadena de subcontractació i límits a l’externalització de l’activitat principal."
+   },
+   {
+    "id": "comuns-0317",
+    "partido": "comuns",
+    "titular": "Prohibir las empresas de trabajo temporal en las administraciones públicas",
+    "marca_actual": [],
+    "texto": "- Prohibir la contractació de persones a través d’empreses de treball temporal a les administracions públiques."
+   },
+   {
+    "id": "comuns-0318",
+    "partido": "comuns",
+    "titular": "Estatuto de las personas en prácticas no laborales con compensación obligatoria",
+    "marca_actual": [],
+    "texto": "- Aprovar l’estatut de les persones en pràctiques no laborals, amb compensació econòmica obligatòria,límits de durada i de nombre de becaris per plantilla, i control de la Inspecció."
+   },
+   {
+    "id": "comuns-0319",
+    "partido": "comuns",
+    "titular": "Fin de las horas complementarias sin preaviso y prioridad para ampliar la parcialidad",
+    "marca_actual": [],
+    "texto": "- Transposar la directiva de condicions de treball transparents i previsibles, posar fi a les hores complementàries sense preavís i reconèixer el dret preferent a ampliar jornada de qui treballa a temps parcial sense voler-ho, una situació que afecta sobretot les dones."
+   },
+   {
+    "id": "comuns-0320",
+    "partido": "comuns",
+    "titular": "Llamamiento en tiempo y orden y protección por desempleo para fijos discontinuos",
+    "marca_actual": [],
+    "texto": "- Garantir a les persones fixes discontínues la crida en temps i per ordre, el còmput de tota l’antiguitat i una protecció per desocupació adaptada."
+   },
+   {
+    "id": "comuns-0321",
+    "partido": "comuns",
+    "titular": "Completar la equiparación de derechos del trabajo del hogar y de cuidados",
+    "marca_actual": [],
+    "texto": "- Completar l’equiparació de drets del treball de la llar i de cures, amb prevenció efectiva, inspecció amb garanties, professionalització i protecció de les internes davant l’explotació, garantint salaris dignes, descansos i assessorament accessible."
+   },
+   {
+    "id": "comuns-0325",
+    "partido": "comuns",
+    "titular": "Protocolos contra el acoso sexual, LGTBIfóbico y racista en todas las empresas",
+    "marca_actual": [],
+    "texto": "- Aplicar el Conveni 190 de l’OIT amb protocols negociats contra l’assetjament sexual, per raó de sexe, LGTBIfòbic, racista, xenòfob i religiós a totes les empreses, amb denúncia segura i protecció davant represàlies. Incorporar professionals de mediació intercultural i serveis d’interpretació per superar barreres lingüístiques en la informació, l’assessorament i la denúncia"
+   },
+   {
+    "id": "comuns-0329",
+    "partido": "comuns",
+    "titular": "Eliminar las dobles escalas salariales y garantizar formación en los contratos formativos",
+    "marca_actual": [],
+    "texto": "- Eliminar les dobles escales salarials i garantir una formació real i tutelada en els contractes formatius."
+   },
+   {
+    "id": "comuns-0560",
+    "partido": "comuns",
+    "titular": "Condicionalidad social de la PAC e inspección de trabajo en las campañas",
+    "marca_actual": [],
+    "texto": "- Reforçarem la condicionalitat social de la PAC: no rebrà ajuts qui incompleixi el conveni, la prevenció de riscos laborals o l’obligació d’allotjament digne de les persones treballadores temporeres. Intensificarem la inspecció de treball durant les campanyes de collita, especialment a la fruita dolça. I crearem serveis públics de substitució a les explotacions perquè pagesos i pageses puguin aturar-se per malaltia, maternitat, paternitat o cures."
+   }
+  ]
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 54,
+  "palabras": 3546,
+  "candidatos": [
+   {
+    "id": "pfac-0079",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la gestación subrogada como explotación reproductiva de las mujeres",
+    "marca_actual": [],
+    "texto": "La explotación reproductiva de las mujeres es la expresión más extrema del patriarcado neoliberal, el poder de la ciencia médica al servicio del beneficio y la deshumanización de los seres humanos, mujeres y bebés. Se basa en la fragmentación de la capacidad reproductiva y la cosificación de las mujeres y su mercantilización por parte de una industria biotecnológica que la presenta engañosamente como si fuera una técnica de reproducción humana asistida más, que permitiera a quienes compran convertirse en padres o madres mediante una transacción comercial «justa» en la que se adquieren recursos, servicios o productos.\n\nLa situación legislativa en España respecto a la gestación por sustitución, más conocida como gestación subrogada presenta importantes contradicciones.\n\nPor un lado, la Ley Orgánica 1/2023, de 28 de febrero, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo cataloga la gestación subrogada como una forma de violencia contra la mujer. Por otro lado, la Ley 14/2006, de 26 de mayo, sobre técnicas de reproducción humana asistida declara nulos de pleno derecho los contratos de gestación por sustitución en territorio español."
+   },
+   {
+    "id": "pfac-0080",
+    "partido": "pfac",
+    "titular": "Diagnóstico: más de 1.000 niños al año nacen por gestación subrogada en el extranjero",
+    "marca_actual": [],
+    "texto": "En esta misma línea, la sentencia del Tribunal Supremo del 4 de diciembre de 2024 argumenta que estas prácticas tratan a la mujer gestante y al menor como mercancía u objetos de comercio, vulnerando su dignidad e integridad física y moral; involucran grandes sumas de dinero en el extranjero, lo que sitúa a la madre gestante en una situación de vulnerabilidad o explotación económica; Privan al niño de su derecho fundamental a conocer sus orígenes biológicos; y vulneran el interés superior del menor al predeterminar su filiación mediante un negocio previo.\n\nA pesar de este marco legal y jurisprudencial restrictivo en España, se calcula que más de 1.000 niños nacen cada año en el extranjero de padres españoles mediante esta práctica.\n\nY, aunque se haya endurecido recientemente la normativa vigente sobre régimen registral de la filiación de quienes nacen mediante gestación por sustitución, lo bien cierto es que bebés que se gestan mediante la explotación reproductiva de una mujer vulnerable en el extranjero siguen pudiendo inscribirse como hijas o hijos con carácter legítimo de quienes hayan aportado material genético propio para el proceso. Por todo ello, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0081",
+    "partido": "pfac",
+    "titular": "Perseguir la explotación reproductiva y prohibir el registro de bebés comprados",
+    "marca_actual": [],
+    "texto": "- MEDIDA 4. PERSEGUIR LA EXPLOTACIÓN REPRODUCTIVA de las mujeres, dentro y fuera del Estado, prohibiendo el registro de bebés procedentes de la compra en los países que la permiten y el negocio de la mal llamada ovodonación."
+   },
+   {
+    "id": "pfac-0082",
+    "partido": "pfac",
+    "titular": "Actuaciones contra la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "Para ello resulta imprescindible:"
+   },
+   {
+    "id": "pfac-0083",
+    "partido": "pfac",
+    "titular": "Declarar la gestación subrogada delito universal de lesa humanidad",
+    "marca_actual": [],
+    "texto": "1. Declarar la gestación subrogada, en todas sus fases, modalidades, entornos y países, delito universal de lesa humanidad contra los derechos de las mujeres, modificando la legislación española a tal efecto con carácter de urgencia."
+   },
+   {
+    "id": "pfac-0084",
+    "partido": "pfac",
+    "titular": "Legislar contra las empresas españolas que intermedian en gestación subrogada",
+    "marca_actual": [],
+    "texto": "2. Legislar para poder actuar contra las empresas españolas que funcionan como bufetes de asesoramiento internacional, informando, coordinando y poniendo en contacto a quienes quieren comprar con clínicas y agencias en países extranjeros donde la gestación subrogada es legal."
+   },
+   {
+    "id": "pfac-0085",
+    "partido": "pfac",
+    "titular": "Acabar con la promoción de la gestación subrogada por asociaciones de compradores",
+    "marca_actual": [],
+    "texto": "3. Acabar con la impunidad y los eufemismos con los que las asociaciones de compradores y explotadores la promocionan en España."
+   },
+   {
+    "id": "pfac-0086",
+    "partido": "pfac",
+    "titular": "Prohibir alterar la filiación y borrar los datos de la madre en el registro",
+    "marca_actual": [],
+    "texto": "4. Prohibir la alteración de la filiación y de la eliminación de los datos de la madre en el registro de bebés comprados."
+   },
+   {
+    "id": "pfac-0087",
+    "partido": "pfac",
+    "titular": "Acabar con el anonimato para garantizar el derecho a conocer los orígenes",
+    "marca_actual": [],
+    "texto": "5. Acabar con el anonimato, para garantizar el derecho a conocer sus orígenes a las personas nacidas por medio del comercio de óvulos y/o gestación subrogada."
+   },
+   {
+    "id": "pfac-0088",
+    "partido": "pfac",
+    "titular": "Campañas sobre la gestación subrogada como violencia para las mujeres",
+    "marca_actual": [],
+    "texto": "6. Realizar campañas informativas para concienciar a la población de que no existe el derecho a ser padre o madre, y de que la gestación subrogada es violencia para las mujeres, aunque quienes compren bebés sean personas famosas y lo presenten como gestación solidaria."
+   },
+   {
+    "id": "pfac-0089",
+    "partido": "pfac",
+    "titular": "Cerrar las webs que ofertan gestación subrogada en terceros países",
+    "marca_actual": [],
+    "texto": "7. Luchar eficazmente contra la publicidad de toda forma de explotación reproductiva, cerrando los sitios web de las empresas que ofertan gestación subrogada en terceros países."
+   },
+   {
+    "id": "pfac-0090",
+    "partido": "pfac",
+    "titular": "Impedir en espacios públicos eventos que blanqueen la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "8. Impedir el uso de espacios públicos, como los campus de las universidades, para la celebración de eventos que pretenden normalizar y blanquear la explotación reproductiva de las mujeres bajo el paraguas de la investigación científica y la tecnología reproductiva."
+   },
+   {
+    "id": "pfac-0091",
+    "partido": "pfac",
+    "titular": "Retirar subvenciones a entidades que organicen actos sobre gestación subrogada",
+    "marca_actual": [],
+    "texto": "9. Retirar las subvenciones y ayudas a las entidades públicas o privadas que organicen actos, debates o conferencias sobre esta práctica."
+   },
+   {
+    "id": "pfac-0092",
+    "partido": "pfac",
+    "titular": "Apoyar que la gestación subrogada se considere delito a nivel europeo",
+    "marca_actual": [],
+    "texto": "10. Apoyar a nivel europeo la consideración como delito de la gestación subrogada y el establecimiento de mecanismos para abordar de manera internacional un delito que trasciende nuestras fronteras."
+   },
+   {
+    "id": "pfac-0093",
+    "partido": "pfac",
+    "titular": "Acabar con el comercio de óvulos eliminando la compensación económica",
+    "marca_actual": [],
+    "texto": "11. Acabar con el comercio de óvulos, eliminando la compensación económica y la comercialización de gametos y embriones."
+   },
+   {
+    "id": "pfac-0094",
+    "partido": "pfac",
+    "titular": "Convertir el SIRHA en órgano de control y limitar la donación de óvulos",
+    "marca_actual": [],
+    "texto": "12. Transformar el Sistema de Información de Reproducción Humana Asistida (SIRHA) en un órgano público de control fiscal y sanitario para impedir la explotación reproductiva de las mujeres mediante el comercio de óvulos. Así, mientras se legisla para realizar lo expuesto en la anterior medida, se incluirían las siguientes acciones inmediatas:\n - Suprimir el anonimato en la donación de gametos con un doble propósito: asegurar el derecho inalienable de las personas nacidas a conocer su origen biológico al alcanzar la mayoría de edad y frenar la especulación económica en la ovodonación.\n - Reducir los límites biológicos autorizados en la plataforma, sustituyendo el criterio actual de nacimientos vivos por un tope estricto y definitivo de un máximo de dos ciclos de estimulación ovárica por persona en toda su vida.\n - Crear un registro de seguimiento médico longitudinal obligatorio dentro del sistema para monitorizar el estado de salud y las secuelas físicas a los 1, 5 y 10 años de la punción folicular, financiando este control con un fondo de responsabilidad a cargo de los centros privados de fertilidad.\n - Auditar los márgenes de beneficio del sector privado a través de la plataforma, fijando precios máximos regulados a los tratamientos para impedir el lucro empresarial a costa de los riesgos de salud asumidos por las mujeres."
+   },
+   {
+    "id": "pfac-0095",
+    "partido": "pfac",
+    "titular": "Auditar a la Sociedad Española de Fertilidad y aumentar los controles a las clínicas",
+    "marca_actual": [],
+    "texto": "13. Auditar a la Sociedad Española de Fertilidad y aumentar los controles a las clínicas."
+   },
+   {
+    "id": "pfac-0096",
+    "partido": "pfac",
+    "titular": "Concienciar sobre los riesgos para la salud de la extracción de óvulos",
+    "marca_actual": [],
+    "texto": "14. Concienciar a la población, especialmente a las mujeres jóvenes, sobre la violencia que la explotación reproductiva supone para las mujeres, alertando de los problemas de salud que la extracción de óvulos acarrea."
+   },
+   {
+    "id": "pfac-0097",
+    "partido": "pfac",
+    "titular": "Seguimiento ginecológico de la salud de las proveedoras de óvulos",
+    "marca_actual": [],
+    "texto": "15. Realizar el seguimiento de la salud de las mujeres proveedoras de óvulos y establecer un protocolo que lo identifique como factor de riesgo, en la consulta de ginecología."
+   },
+   {
+    "id": "pfac-0098",
+    "partido": "pfac",
+    "titular": "Trasladar a las clínicas privadas el coste del seguimiento sanitario",
+    "marca_actual": [],
+    "texto": "16. Trasladar el coste de este seguimiento a las clínicas privadas, ya que han hecho negocio sin investigar las consecuencias en la salud de esas mujeres."
+   },
+   {
+    "id": "pfac-0099",
+    "partido": "pfac",
+    "titular": "Combatir la publicidad de clínicas que ofrecen compensación por donar gametos",
+    "marca_actual": [],
+    "texto": "17. Luchar eficazmente contra la publicidad de las clínicas en las que se habla de compensación por donación de gametos."
+   },
+   {
+    "id": "pfac-0100",
+    "partido": "pfac",
+    "titular": "Prohibir anuncios de clínicas de reproducción asistida en las universidades",
+    "marca_actual": [],
+    "texto": "18. Prohibir los anuncios de clínicas de reproducción asistida en las instalaciones universitarias (tablones de anuncios, baños o folletos)."
+   },
+   {
+    "id": "pfac-0101",
+    "partido": "pfac",
+    "titular": "Incluir contenidos sobre fertilidad y reserva ovárica en secundaria",
+    "marca_actual": [],
+    "texto": "19. Promover en los centros de secundaria la inclusión de contenidos sobre fertilidad y salud reproductiva real dentro de las asignaturas de biología o en talleres afectivo-sexuales. Las adolescentes deben conocer el funcionamiento de su propia reserva ovárica de manera científica antes de verse expuestas a los reclamos comerciales del mercado de la fertilidad al cumplir la mayoría de edad."
+   },
+   {
+    "id": "pfac-0127",
+    "partido": "pfac",
+    "titular": "Blindar en la Constitución sexo, laicidad, servicios públicos y aborto; derogar la Ley Mordaza",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- MEDIDA 6. BLINDAR EN LA CONSTITUCIÓN DERECHOS BÁSICOS: El sexo como categoría jurídica protegida no sustituible ni equivalente al género. Laicidad. Sanidad, Educación y Servicios Sociales públicos. Pensiones sin pérdida de poder adquisitivo. Acceso real a la vivienda impidiendo el mercado especulativo. Paridad entre hombres y mujeres. El aborto. El matrimonio entre personas del mismo sexo; Derechos medioambientales. Y reforzar la libertad de expresión, derogando de manera inmediata la Ley Mordaza."
+   },
+   {
+    "id": "pfac-0129",
+    "partido": "pfac",
+    "titular": "Blindar en la Constitución aborto, sanidad pública, pensiones y derechos ambientales",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "1. Blindar en la Constitución los avances logrados por la lucha democrática de la ciudadanía, elevando su protección jurídica a través de cuatro grandes bloques:\n - Igualdad: El derecho a la interrupción del embarazo, la asistencia integral a las víctimas de violencia machista, la paridad entre los sexos como principio rector en las instituciones y el derecho al matrimonio entre personas del mismo sexo.\n - Servicios públicos y bienestar social: El acceso a la sanidad pública universal y gratuita, y el derecho de acceso a unos servicios públicos y universales con el mismo rango constitucional que el derecho a la educación.\n - Garantías económicas y vivienda: La garantía del poder adquisitivo y de una financiación adecuada del sistema público de pensiones, junto a la titularidad pública permanente de las viviendas sociales.\n - Sostenibilidad y derechos ambientales: El derecho a la seguridad climática, el acceso al agua potable y el derecho de las generaciones futuras a heredar un planeta saludable y sostenible."
+   },
+   {
+    "id": "pfac-0191",
+    "partido": "pfac",
+    "titular": "Revisar los protocolos de salud ginecológica para no discriminar a las lesbianas",
+    "marca_actual": [],
+    "texto": "8. Coordinar en el Sistema Nacional de Salud la revisión de los protocolos relativos a la salud ginecológica para que no discriminen a las mujeres lesbianas y no presupongan la heterosexualidad como norma."
+   },
+   {
+    "id": "pfac-0386",
+    "partido": "pfac",
+    "titular": "Perspectiva feminista en los servicios públicos: violencia obstétrica y coeducación",
+    "marca_actual": [],
+    "texto": "- MEDIDA 25. INCORPORAR LA PERSPECTIVA FEMINISTA EN LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS. En especial para conseguir una Sanidad que no psiquiatrice los malestares de las mujeres y formada con perspectiva feminista. Especialmente el personal de obstetricia y ginecología en lo que se refiere al respeto a la parturienta, garantía de consentimiento informado y prevención de la violencia reproductiva y obstétrica; y que, en materia de Educación, haga efectiva la plena implantación -en todos los niveles del sistema- de la Coeducación y la educación afectivo-sexual."
+   },
+   {
+    "id": "pfac-0405",
+    "partido": "pfac",
+    "titular": "Actualizar la Estrategia Nacional de Salud Sexual y Reproductiva",
+    "marca_actual": [],
+    "texto": "15. Actualizar y reforzar la Estrategia Nacional de Salud Sexual y Reproductiva como marco común para orientar a las comunidades autónomas en la equidad del acceso a la salud sexual, anticoncepción, atención al embarazo y prevención."
+   },
+   {
+    "id": "pfac-0408",
+    "partido": "pfac",
+    "titular": "Garantizar el aborto público en cada provincia y sancionar la objeción solo pública",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "18. **Garantizar el acceso a la interrupción voluntaria del embarazo** en el sistema público de salud:\n - Asegurar la disponibilidad de todas sus prestaciones sanitarias en cada provincia del país, con el personal necesario para ofrecer esta prestación de forma efectiva, sin que el ejercicio de la objeción de conciencia menoscabe el acceso de las mujeres a ella.\n - Tipificar como falta muy grave, sancionada con la separación del servicio, realizar la interrupción voluntaria del embarazo en el ámbito de la sanidad privada habiendo alegado objeción de conciencia en el sistema sanitario público."
+   },
+   {
+    "id": "pfac-0409",
+    "partido": "pfac",
+    "titular": "Servicios completos de salud sexual y reproductiva y atención ginecológica",
+    "marca_actual": [],
+    "texto": "19. Ofrecer los más completos servicios de salud sexual y reproductiva, incluyendo anticoncepción, prevención de patologías y una atención ginecológica de calidad."
+   },
+   {
+    "id": "pfac-0410",
+    "partido": "pfac",
+    "titular": "Formación feminista obligatoria en obstetricia para prevenir la violencia obstétrica",
+    "marca_actual": [],
+    "texto": "20. Reforzar los programas obligatorios de formación en derechos de la mujer con perspectiva feminista destinados al personal de obstetricia y ginecología, poniendo el foco en prevenir la violencia en el ámbito reproductivo y garantizar el consentimiento informado. Asimismo, realizar la monitorización de estadísticas clínicas para identificar malas praxis y orientar de manera efectiva las estrategias de prevención de la violencia obstétrica."
+   },
+   {
+    "id": "pfac-0411",
+    "partido": "pfac",
+    "titular": "Certificación IHAN en todos los hospitales del SNS",
+    "marca_actual": [],
+    "texto": "21. Garantizar la certificación IHAN (Iniciativa para la Humanización de la Asistencia al Nacimiento y la Lactancia) en todos los hospitales del Sistema Nacional de Salud."
+   },
+   {
+    "id": "pfac-0412",
+    "partido": "pfac",
+    "titular": "Cribados de salud mental en el embarazo y el posparto en atención primaria",
+    "marca_actual": [],
+    "texto": "22. Incorporar cribados y seguimiento de salud mental durante el embarazo y el postparto en la atención primaria, así como fomentar espacios comunitarios y redes de apoyo facilitadas por profesionales para reducir el aislamiento de las madres."
+   },
+   {
+    "id": "pfac-0413",
+    "partido": "pfac",
+    "titular": "Protocolos de prevención y sanción de la violencia obstétrica",
+    "marca_actual": [],
+    "texto": "23. Establecer protocolos de prevención y sanción frente a la violencia obstétrica, asegurando una atención respetuosa, centrada en la mujer y basada en la escucha activa."
+   },
+   {
+    "id": "pfac-0542",
+    "partido": "pfac",
+    "titular": "Garantizar cuidados paliativos y la ayuda para morir, salvo por falta de medios materiales",
+    "marca_actual": [],
+    "texto": "45. Garantizar cuidados paliativos suficientes y el derecho a una muerte digna, así como el acceso a la prestación de ayuda para morir en los términos previstos legalmente. Salvo que la eutanasia se base en que la persona se encuentre sin medios materiales para seguir viviendo, debido a la omisión del deber de socorro del Estado que este vendrá obligado a proveerle."
+   },
+   {
+    "id": "pfac-0572",
+    "partido": "pfac",
+    "titular": "Plan Integral de Salud de la Juventud: salud mental, sexual y prevención de adicciones",
+    "marca_actual": [],
+    "texto": "3. Poner en marcha el Plan Integral de Salud de la Juventud para desarrollar, de forma coordinada, servicios transversales orientados a la promoción de la salud de las personas jóvenes. Para ello, se combinará la atención médica preventiva, la formación y la creación de entornos saludables en torno a los siguientes ejes estratégicos:\n - Fortalecimiento de la salud mental y el bienestar emocional: Ampliar y facilitar el acceso a los servicios de psicología dentro del sistema público de salud. Asimismo, se habilitarán canales de atención comunitaria especializados en la prevención del suicidio, la ansiedad, la depresión, los trastornos de la conducta alimentaria (TCA) y la ludopatía. De forma paralela, se diseñarán campañas institucionales permanentes para combatir el estigma y normalizar el cuidado de la salud mental.\n - Atención integral a la salud sexual y reproductiva: Crear espacios específicos y amigables para jóvenes —como clínicas de tarde o asesorías confidenciales— para consultas sobre anticoncepción, interrupción voluntaria del embarazo (IVE), infecciones de transmisión sexual (ITS) y orientación afectivo-sexual. Además, se establecerán puntos de distribución gratuita de métodos anticonceptivos en espacios públicos accesibles y de alta concurrencia juvenil.\n - Prevención de adicciones y conductas de riesgo: Implementar servicios de apoyo especializados en el uso saludable de las tecnologías y pantallas. En el ámbito regulatorio, se restringirá la publicidad de las apuestas en línea y se endurecerán las políticas de acceso al alcohol, el tabaco y los dispositivos de vapeo. Como alternativa, se promoverán programas comunitarios de ocio nocturno saludable y enriquecedor.\n - Educación y sensibilización en el ámbito escolar: Integrar la coeducación y la educación afectivo-sexual en los currículos obligatorios del sistema educativo. Esta medida se complementará con talleres prácticos, impartidos por profesionales de la salud, sobre salud mental, sexual y reproductiva, así como con la información y difusión activa de los recursos y servicios de atención especializada disponibles.\n - Promoción de entornos y estilos de vida saludables: Regular y mejorar la oferta alimentaria en institutos y universidades para garantizar opciones saludables. Al mismo tiempo, se subvencionará el acceso a las instalaciones deportivas públicas y se fomentará la movilidad activa —mediante la ampliación de carriles bici y zonas peatonales— en los entornos urbanos y escolares."
+   },
+   {
+    "id": "ph-0065",
+    "partido": "ph",
+    "titular": "Libertad de creencias y aborto libre y gratuito en la sanidad pública",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "El Partido Humanista defiende la libertad de ideas y creencias y denuncia la violencia que se manifiesta en la acción de despojar de intención y de libertad al ser humano o a conjuntos humanos. Toda persona tiene derecho a pensar libremente, elegir y expresar sus propias creencias, sean religiosas, filosóficas, agnósticas o ateas y no sufrir discriminación ni persecución por sus ideas o convicciones. Desde la perspectiva humanista, el Estado debe garantizar esta libertad manteniendo una posición laica y asegurando la igualdad de todas las personas, independientemente de sus creencias.\n\nHay cuestiones que se aclaran teniendo en cuenta este principio. Por ejemplo, respecto al derecho al aborto, son las mujeres quienes deben decidir sobre su cuerpo y su futuro de acuerdo a sus creencias. Aquellas que decidan abortar han de ser apoyadas, garantizándose que pueden hacerlo libremente, con el aval de la ley, de forma gratuita y en los servicios de salud públicos. También las que decidan llevar adelante su embarazo deberían contar con el respaldo de las instituciones y con recursos económicos y sociales, independientemente de su condición y de su orientación ideológica, religiosa, sexual o social. Además del derecho a interrumpir voluntariamente el embarazo, se debe garantizar el acceso a una educación sexual y reproductiva desde la infancia y a medios anticonceptivos sin restricciones."
+   },
+   {
+    "id": "ph-0066",
+    "partido": "ph",
+    "titular": "Reproducción asistida y libertad de disponer absolutamente del propio cuerpo",
+    "marca_actual": [],
+    "texto": "Para los humanistas, “el ser humano es el ser histórico, cuyo modo de acción social transforma a su propia naturaleza”. El ser humano puede transformar incluso su propia constitución física, como está sucediendo con la instalación de prótesis o la intervención en sus genes. Las técnicas de reproducción asistida están permitiendo sobrepasar las limitaciones impuestas por la naturaleza, generando la opción de dar vida a personas con dificultades para el embarazo, o del mismo sexo y abriendo la puerta a desvincular la reproducción de la especie de determinados modelos. Esa liberación, que afecta de manera especial a las mujeres, generará nuevos modelos de relación y nuevos sistemas sociales. El ser humano es dueño de su destino y, por consecuencia, **libre de disponer absolutamente de su cuerpo**."
+   },
+   {
+    "id": "nex-0141",
+    "partido": "nex",
+    "titular": "Aborto garantizado en los centros públicos",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "129. Aborto garantizado en los centros públicos."
+   },
+   {
+    "id": "d21-0255",
+    "partido": "d21",
+    "titular": "Filiación sin matrimonio para parejas de mujeres y método ROPA en la sanidad pública",
+    "marca_actual": [],
+    "texto": "- **Dos Madres, Mismos Derechos:** ningún niño debe tener menos protección por cómo es su familia. Elevaremos a rango de ley lo que hoy depende de una simple instrucción administrativa: que las parejas de mujeres, estén casadas o no, puedan inscribir a sus hijos como hijos de ambas desde el propio hospital, eliminando el requisito de matrimonio que todavía recoge la Ley de Reproducción Asistida. Incorporaremos el método ROPA a la cartera común de la sanidad pública, que hoy solo ofrecen algunas Comunidades, y fijaremos criterios comunes de reproducción asistida en todo el país. Y adaptaremos todos los formularios y registros digitales del Estado para que reflejen cualquier modelo de familia legalmente reconocido, sin rectificaciones ni trámites extra."
+   },
+   {
+    "id": "d21-0327",
+    "partido": "d21",
+    "titular": "Ni un paso atrás en igualdad, derechos LGTBIQ+, aborto y discapacidad",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "España es una de las sociedades más tolerantes, abiertas e igualitarias del mundo. Hoy, sin embargo, asistimos a un contexto global y nacional donde el auge de corrientes políticas extremas y reaccionarias amenaza con erosionar consensos democráticos que creíamos irreversibles. Desde democracia21 lo decimos con absoluta claridad: no daremos ni un solo paso atrás. La igualdad real entre hombres y mujeres, la protección frente a la violencia machista, la garantía de los derechos LGTBIQ+, el blindaje del aborto seguro y la plena inclusión de las personas con discapacidad no son monedas de cambio para pactos políticos: son los pilares morales de nuestra sociedad."
+   },
+   {
+    "id": "d21-0330",
+    "partido": "d21",
+    "titular": "Oponerse a derogar o limitar la actual ley de plazos del aborto",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- **El Aborto No se Cuestiona Ni se Restringe:** nos opondremos a cualquier intento de derogar, limitar o entorpecer la actual ley de plazos. No aceptaremos retrocesos legales, presiones administrativas, ni el uso de las instituciones para coaccionar la libertad de las mujeres."
+   },
+   {
+    "id": "d21-0331",
+    "partido": "d21",
+    "titular": "Garantizar la interrupción voluntaria del embarazo en la sanidad pública",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- **Garantía Efectiva en la Sanidad Pública:** defenderemos que el acceso a la interrupción voluntaria del embarazo esté plenamente garantizado en la red sanitaria pública, en todas las Comunidades Autónomas, asegurando una atención integral, segura y cercana en su hospital público de referencia."
+   },
+   {
+    "id": "comuns-0675",
+    "partido": "comuns",
+    "titular": "Garantizar el aborto seguro, legal y gratuito en todo el territorio",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantirem l’accés a un avortament segur, legal i gratuït en qualsevol lloc del territori, amb equitat territorial, garantint també la decisió informada per a l’elecció de mètode de les dones."
+   },
+   {
+    "id": "comuns-0676",
+    "partido": "comuns",
+    "titular": "Investigación en salud con perspectiva de género, salud sexual y menopausia",
+    "marca_actual": [],
+    "texto": "- Impulsarem la investigació i la formació en salut amb perspectiva de gènere, especialment, en drets sexuals i reproductius i la menopausa. Garantint els recursos públics d’atenció a la salut sexual i reproductiva i ampliant la cobertura i prestacions, les accions preventives i comunitàries, a totes les etapes del cicle vital de les dones i les diferents necessitats associades a cada edat."
+   },
+   {
+    "id": "comuns-0683",
+    "partido": "comuns",
+    "titular": "Garantizar los cuidados paliativos y proteger la prestación de ayuda para morir",
+    "marca_actual": [],
+    "texto": "- Defensarem el dret a morir amb dignitat: garantirem l’accés universal i equitatiu a les cures pal·liatives, i protegirem la prestació d’ajuda per morir (eutanàsia) perquè no es produeixi cap retrocés en un dret adquirit. Ho farem perquè ambdues són garantia d’una atenció adequada al dolor i al final de la vida, respectant sempre la voluntat de cada persona."
+   },
+   {
+    "id": "comuns-0863",
+    "partido": "comuns",
+    "titular": "Contra las violencias machistas y por los derechos sexuales y reproductivos",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "La lluita contra les violències masclistes és una de les reivindicacions centrals del moviment feminista i una responsabilitat ineludible de les institucions públiques. Malgrat els avenços legislatius i les polítiques desenvolupades, les violències continuen presents en múltiples àmbits de la vida i afecten de manera diversa les dones i les persones amb identitats, orientacions i expressions de gènere no normatives.\n\nDefensem la plena garantia dels drets sexuals i reproductius i la sobirania de totes les persones sobre els seus cossos i les seves vides. Això significa garantir l’accés universal i efectiu a la salut sexual i reproductiva, a l’anticoncepció, a l’avortament voluntari, a la reproducció assistida i a una atenció respectuosa durant l’embaràs, el part i el postpart. També implica combatre la violència obstètrica, les pràctiques paternalistes i les barreres administratives, econòmiques o territorials que limiten l’exercici d’aquests drets.\n\nDefensem una educació sexual integral, diversa i no discriminatòria, que permeti viure la sexualitat i les relacions afectives amb llibertat, coneixement i respecte, sense tabús ni prejudicis. Els drets sexuals i reproductius són drets humans i han d’estar garantits per una xarxa pública accessible i de qualitat."
+   },
+   {
+    "id": "comuns-0865",
+    "partido": "comuns",
+    "titular": "Reformar la Constitución para que el aborto sea un derecho fundamental",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Reformarem la Constitució Espanyola per tal que el Dret a l’avortament lliure i segur esdevingui un dret fonamental."
+   },
+   {
+    "id": "comuns-0866",
+    "partido": "comuns",
+    "titular": "Equidad territorial en el aborto y cubrir los desplazamientos necesarios",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantirem l’equitat territorial per poder exercir l’avortament lliure a tot l’Estat, incloent la cobertura de les despeses de desplaçament quan el servei no s’ofereixi a la mateixa regió sanitària."
+   },
+   {
+    "id": "comuns-0867",
+    "partido": "comuns",
+    "titular": "Regular la objeción de conciencia para que no obstaculice el aborto",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Millorarem la regulació de l’objecció de consciència per garantir que l’accés a la interrupció voluntària de l’embaràs no es vegi obstaculitzada en la sanitat pública ni privada."
+   },
+   {
+    "id": "comuns-0875",
+    "partido": "comuns",
+    "titular": "Aborto seguro y gratuito en la red pública con independencia de la situación administrativa",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantir que l’avortament sigui segur, gratuït i accessible a la xarxa sanitària pública de tot l’Estat, amb equitat territorial, independentment de la seva situació administrativa, amb confidencialitat i respecte a l’autonomia de les dones i de les persones amb capacitat de gestar."
+   },
+   {
+    "id": "comuns-0876",
+    "partido": "comuns",
+    "titular": "Reforzar la reproducción asistida pública con bancos públicos de óvulos",
+    "marca_actual": [],
+    "texto": "- Impulsar el reforç de la provisió pública mitjançant el desplegament d’infraestructures i capacitats pròpies del sistema sanitari públic, inclosos bancs públics d’òvuls i altres recursos necessaris, així com promoure un debat públic i bioètic sobre el model de reproducció assistida."
+   },
+   {
+    "id": "comuns-0954",
+    "partido": "comuns",
+    "titular": "Revisar la incapacitación y la tutela, el testamento vital y la muerte digna",
+    "marca_actual": [],
+    "texto": "- Revisarem els marcs jurídics i administratius d’incapacitació i de tutela, així com el dret al testament vital i a la mort digna, i creació de de comitès de bioètica."
+   },
+   {
+    "id": "comuns-1012",
+    "partido": "comuns",
+    "titular": "Reforma constitucional para blindar derechos sociales y modificar el artículo 135",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "L’actual marc constitucional no dona resposta ni als canvis socials que s’han produït ni a la necessitat de preservar els drets socials, ni d’avançar en la transformació del model territorial Per això cal una reforma constitucional per blindar jurídicament drets socials i elements fonamentals de l’Estat de benestar com: la revalorització de les pensions, el dret a l’habitatge, el dret a la salut, el dret a l’avortament, els drets ambientals i incorporar nous àmbits com la digitalització i la crisi climàtica. Així mateix, cal modificar l’article 135, incorporant el principi d’estabilitat social, els criteris socials, com a criteris per a l’estabilitat pressupostària i abolir totalment la pena de mort. També cal abordar el debat social i polític sobre la reforma del Senat i el canvi de model territorial en un sentit federal i plurinacional."
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla, aplicarla o ampliarla"
+   }
+  ],
+  "n": 23,
+  "palabras": 2245,
+  "candidatos": [
+   {
+    "id": "pfac-0588",
+    "partido": "pfac",
+    "titular": "Vivienda y transporte como derechos ligados al urbanismo",
+    "marca_actual": [],
+    "texto": "Nuestra Constitución reconoce el derecho a la vivienda y al transporte como derechos esenciales para un nivel de vida digno; por lo que su protección y promoción son responsabilidad del Estado a través de legislación y políticas públicas específicas. Ambos derechos están intrínsecamente ligados al urbanismo, ya que la planificación urbana es fundamental para garantizar ambos.\n\nEl derecho a la vivienda se enfoca en asegurar un hogar adecuado, mientras que el derecho al transporte busca un sistema de movilidad sostenible y accesible. El urbanismo interviene como la herramienta para lograr ambos, promoviendo la creación de ciudades que faciliten el acceso a la vivienda y al empleo, y que, a su vez, ofrezcan sistemas de transporte público seguros, eficientes y sostenibles.\n\nPero de poco sirve reconocer formalmente derechos si una persona no puede acceder a una vivienda, debe desplazarse durante horas para trabajar, vive en un barrio sin servicios o no puede moverse con seguridad por el espacio público."
+   },
+   {
+    "id": "pfac-0589",
+    "partido": "pfac",
+    "titular": "Urbanismo, vivienda y transporte como política de igualdad, no subordinada al mercado",
+    "marca_actual": [],
+    "texto": "Por ello, el PFAC no cree que el urbanismo, la vivienda y el transporte deban quedar subordinados exclusivamente a las lógicas del mercado, de la rentabilidad inmobiliaria o de la movilidad basada en el vehículo privado, sino que también son instrumentos de redistribución social y de igualdad. No basta con disponer de un techo: es necesario garantizar el acceso a servicios, seguridad, redes de apoyo y entornos que permitan desarrollar una vida comunitaria. La política urbanística, la vivienda y el transporte deben dejar de considerarse ámbitos separados. Constituyen una parte esencial de la política de igualdad y de la capacidad de las personas para desarrollar una vida autónoma.\n\nOtra realidad preocupante es la expulsión de población hacia periferias peor comunicadas, puesto que se incrementa especialmente la carga de quienes deben combinar el trabajo remunerado, el no remunerado y los desplazamientos. Y esto, efectivamente, tiene una dimensión de género, puesto que son las mujeres quienes siguen asumiendo una parte desproporcionada del trabajo no remunerado, presentan trayectorias laborales más discontinuas y afrontan situaciones específicas de vulnerabilidad residencial.\n\nComo consecuencia de lo anterior, una política feminista no puede limitarse a incorporar a las mujeres a las políticas existentes: debe replantear la forma en que se organiza el espacio, se distribuyen los recursos y se garantiza la autonomía de mujeres y hombres."
+   },
+   {
+    "id": "pfac-0590",
+    "partido": "pfac",
+    "titular": "El Estado debe garantizar vivienda digna y urbanismo con perspectiva de mujeres",
+    "marca_actual": [],
+    "texto": "Y es el Estado, en cooperación con las comunidades autónomas y las entidades locales, quien debe utilizar sus competencias legislativas, fiscales, presupuestarias, financieras, de planificación y de coordinación territorial para hacer efectivos estos principios. Una democracia no es tal si no se garantiza que toda su ciudadanía, con independencia de su situación particular (origen, sexo, estatus socioeconómico, lugar de residencia, orientación sexual, religión, empleo…) pueda desarrollar su potencial sin más limitación que sus propias capacidades y esfuerzo. En este ámbito, el PFAC plantea actuaciones en materia de planificación urbana que incluya la perspectiva de las mujeres y la garantía del derecho a una vivienda digna. En su virtud, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0592",
+    "partido": "pfac",
+    "titular": "Propuestas para garantizar el derecho a una vivienda digna",
+    "marca_actual": [],
+    "texto": "Las propuestas del PFAC orientadas a garantizar el derecho a una vivienda digna y accesible incluyen, además de las medidas 31 y 32, las siguientes:"
+   },
+   {
+    "id": "pfac-0600",
+    "partido": "pfac",
+    "titular": "Reformar la Ley de Vivienda: topes al alquiler, contrato indefinido y gran tenedor",
+    "marca_actual": [
+     "mantener-ampliar"
+    ],
+    "texto": "8. Modificar la Ley de Vivienda para regular de forma real y efectiva el mercado del alquiler, estableciendo topes de precio y el contrato indefinido de alquiler, rebajando de 10 a 5 el número de viviendas para ser considerado gran tenedor —de 5 a 3 por normativas autonómicas en el caso de zonas tensionadas—, sancionando la acumulación de viviendas vacías, los alquileres desorbitados y fiscalizando el impacto de las plataformas de alquiler turístico, ya que todo ello perjudica especialmente a las mujeres y a la juventud."
+   },
+   {
+    "id": "ph-0012",
+    "partido": "ph",
+    "titular": "Diagnóstico: parque de vivienda social del 2,5 % frente al 9 % europeo",
+    "marca_actual": [],
+    "texto": "El acceso a la vivienda constituye la principal fuente de desigualdad y empobrecimiento en España. Más del 40% de los hogares inquilinos y el 60% de los jóvenes destina más del 40% (alcanzando en áreas tensionadas hasta el 65%) de sus ingresos mensuales al pago del alquiler o hipoteca. Mientras la media europea de parque público de vivienda social se sitúa en el 9% (con referencias como Viena que superan el 20%), España cuenta con un residual 2,5%, fruto de décadas de mercantilización y especulación inmobiliaria.\n\nEl alquiler a precio de mercado actúa como un auténtico sumidero económico que dispara la tasa de pobreza al 34 % entre los empleados inquilinos, demostrando que ni las subidas del salario mínimo ni el récord de afiliación bastan frente a la escasez de horas trabajadas y la asfixia del mercado inmobiliario."
+   },
+   {
+    "id": "nex-0018",
+    "partido": "nex",
+    "titular": "Recurrir ante el Constitucional las leyes autonómicas que esquiven la Ley de Vivienda",
+    "marca_actual": [
+     "mantener-ampliar"
+    ],
+    "texto": "16. Freno judicial al boicot autonómico de la Ley de Vivienda: impulsaremos, junto a otros grupos, el recurso ante el Tribunal Constitucional de toda ley o decreto autonómico que intente esquivarla, y exigiremos al Gobierno que lo presente."
+   },
+   {
+    "id": "nex-0019",
+    "partido": "nex",
+    "titular": "Las medidas de vivienda son reglas sin coste público y no expropian la propiedad",
+    "marca_actual": [],
+    "texto": "Las medidas 1 a 5 son reglas: no cuestan dinero público. La 6 usa viviendas que ya son públicas. La 7 no expropia la propiedad, sino el uso: el propietario sigue cobrando una renta social."
+   },
+   {
+    "id": "ixlg-0002",
+    "partido": "ixlg",
+    "titular": "Que vivir en La Gomera no sea un privilegio ni obligue a marcharse",
+    "marca_actual": [],
+    "texto": "**_Que vivir en La Gomera no sea un privilegio ni obligue a marcharse._**"
+   },
+   {
+    "id": "d21-0057",
+    "partido": "d21",
+    "titular": "Diagnóstico: la vivienda absorbe hasta el 100 % de los ingresos juveniles",
+    "marca_actual": [],
+    "texto": "_El problema de la vivienda es la prioridad nº1 de España: una bomba de relojería que amenaza con dinamitar el futuro de nuestro país. El acceso a la vivienda se ha convertido en el mayor problema social y económico de España: los hogares están destinando entre el 40% y el 100% (en el caso de los jóvenes) de sus ingresos al pago de la vivienda, rompiendo proyectos de vida, impidiendo el ahorro y el consumo, e imposibilitando formar una familia. Esta crisis no solo frustra la emancipación de toda una generación (que hoy no puede independizarse antes de los 30 años), sino que fragmenta el país al bloquear la movilidad del talento: miles de profesionales, docentes, sanitarios y estudiantes se ven obligados a renunciar a empleos y oportunidades formativas porque no pueden asumir el coste de un alquiler._"
+   },
+   {
+    "id": "d21-0058",
+    "partido": "d21",
+    "titular": "Plan de vivienda en dos fases: choque inmediato y Plan Nacional de Barrios",
+    "marca_actual": [],
+    "texto": "La crisis de la vivienda no puede esperar a que los políticos se pongan de acuerdo dentro de una década. Pero tampoco se soluciona con parches mágicos a corto plazo.\n\nNuestro compromiso es doble: un **Plan de Choque Inmediato** con medidas excepcionales para dar un respiro urgente a los ciudadanos hoy, y un **Plan Nacional de Barrios** a 10 años vista para resolver este problema estructural para siempre."
+   },
+   {
+    "id": "d21-0063",
+    "partido": "d21",
+    "titular": "Hoja de ruta: movilizar los pisos vacíos y construir los barrios que faltan",
+    "marca_actual": [],
+    "texto": "A continuación, detallamos la hoja de ruta completa de **democracia21** en materia de vivienda: movilizar de inmediato todos los pisos que hoy están vacíos (Fase 1) y recuperar la capacidad industrial del país para construir los barrios que faltan (Fase 2)."
+   },
+   {
+    "id": "d21-0064",
+    "partido": "d21",
+    "titular": "Objetivo de la fase 1: movilizar de inmediato toda la vivienda existente",
+    "marca_actual": [],
+    "texto": "Objetivo: Movilizar de forma inmediata toda la vivienda que ya existe."
+   },
+   {
+    "id": "comuns-0001",
+    "partido": "comuns",
+    "titular": "Diagnóstico: la crisis de la vivienda como expresión de la desigualdad",
+    "marca_actual": [],
+    "texto": "La crisi de l’habitatge és avui una de les principals expressions de la desigualtat. El preu del lloguer i de la compra condiciona la vida de la majoria: obliga a les famílies a destinar una part excessiva dels ingressos a sostre, expulsa veïnat dels barris on ha construït la seva vida, i no permet que els joves es puguin emancipar. No és un problema individual ni es resoldrà només amb ajuts puntuals o apel·lant al mercat o desplaçant a la ciutadania cap a les perifèries de les ciutats o altres territoris. És una qüestió de drets, de redistribució de poder i de prioritats públiques.\n\nLa gran majoria dew la ciutadania ha situat de nou l’habitatge com una de les principals preocupacions. Arran del cas de l’Olga a l’Hospitalet i de la Mari Carmen a Madrid, la mobilització ciutadana s’ha deixat sentir a les places del conjunt de l’Estat amb una crida unànime per mesures i propostes urgents sobre l’estabilitat dels lloguers, la protecció davant els desnonaments, la regulació dels lloguers temporals i l’ampliació del parc assequible. Però les mesures d’emergència, per necessàries que siguin, han d’anar acompanyades també d’una transformació estructural i sostinguda. Les garanties no poden dependre de la conjuntura ni quedar bloquejades per la manca d’acords polítics: calen normes efectives, pressupost estable i compromisos a llarg termini."
+   },
+   {
+    "id": "comuns-0002",
+    "partido": "comuns",
+    "titular": "Un servicio público de vivienda como pilar del Estado del bienestar",
+    "marca_actual": [],
+    "texto": "La societat espanyola en general i el sector públic en particular tenen una missió: desenvolupar un sistema d’habitatge com un pilar més del seu estat del benestar, convergint així amb Europa. I això significa desenvolupar un servei públic d’habitatge i una normativa que eviti l’especulació, protegeixi els residents i garanteixi la funció social de la propietat, fent efectiu el dret a l’habitatge mitjançant el diàleg social.\n\nL’habitatge és una prioritat central del projecte de país. Defensem que viure en una llar digna i assequible sigui un dret real, no un privilegi condicionat pels ingressos o pel patrimoni familiar. Això exigeix actuar en quatre fronts alhora: protegir les persones llogateres i les famílies en situació de vulnerabilitat; frenar l’especulació i els usos que expulsen l’habitatge residencial; ampliar de manera decidida el parc públic i assequible i rehabilitar els edificis sense expulsar-ne el veïnat.\n\nL’Estat ha d’assumir la responsabilitat que li correspon, amb inversió suficient i plurianual, i treballar coordinadament i de manera àgil amb la Generalitat de Catalunya i els municipis. Els ajuntaments són l’administració més propera a les situacions d’emergència, però no poden afrontar sols una crisi estructural. Cal finançament, patrimoni públic mobilitzat, eines jurídiques i objectius mesurables. La política d’habitatge ha de posar la vida de la gent per damunt dels interessos d’uns quants."
+   },
+   {
+    "id": "comuns-0003",
+    "partido": "comuns",
+    "titular": "El 29N como plebiscito sobre la vivienda como derecho o como mercado",
+    "marca_actual": [],
+    "texto": "El proper 29 de novembre tindrem un plebiscit sobre si l’habitatge és un dret garantit i els poders públics tenen l’obligació d’adoptar les mesures necessàries per fer-ho efectiu o si deixem l’habitatge en mans del mercat, com un actiu més, que permet centrifugar rendes de les llogateres cap als rendistes, incrementant cada cop més la desigualtat i la concentració d’habitatges cada cop en menys mans."
+   },
+   {
+    "id": "comuns-0013",
+    "partido": "comuns",
+    "titular": "Convertir el derecho constitucional a la vivienda en un derecho exigible",
+    "marca_actual": [],
+    "texto": "- Convertir el dret a l’habitatge reconegut a la Constitució en un **dret exigible davant les institucions,** tal com recomana el Comitè de Drets Econòmics, Socials i Culturals de l’ONU."
+   },
+   {
+    "id": "comuns-0015",
+    "partido": "comuns",
+    "titular": "Reforzar la perspectiva antirracista en las políticas de vivienda",
+    "marca_actual": [],
+    "texto": "- Proposem reforçar la perspectiva antiracista en les polítiques d’habitatge per garantir la igualtat d’oportunitats i l’accés efectiu a aquest dret, independentment de l’origen, la nacionalitat o la situació administrativa de les persones."
+   },
+   {
+    "id": "comuns-0016",
+    "partido": "comuns",
+    "titular": "Sancionar la discriminación en el mercado inmobiliario y prevenir la segregación residencial",
+    "marca_actual": [],
+    "texto": "- Cal avançar en la prevenció i la lluita contra les pràctiques discriminatòries en el mercat immobiliari, amb mecanismes de denúncia, inspecció i sanció, i facilitar un accés equitatiu a l’habitatge públic i social, eliminant barreres administratives injustificades, i impulsar mesures per prevenir la segregació residencial, amb la participació de les entitats socials i antiracistes."
+   },
+   {
+    "id": "comuns-0021",
+    "partido": "comuns",
+    "titular": "Declarar la vivienda derecho subjetivo exigible ante la Administración",
+    "marca_actual": [],
+    "texto": "- **Declarar el dret a l’habitatge com a dret subjectiu exigible davant l’Administració.** Fins ara les administracions han tractat el dret a l’habitatge com l’obligació de destinar alguns recursos a aquest àmbit, tot i que aquests hagin estat insuficients. Cal, doncs, exigir una obligació de resultats, és a dir, assegurar-se que els recursos que es destinen a l’àmbit del dret a l’habitatge siguin suficients per garantir un mínim habitacional a tota la població, començant per les famílies o persones més vulnerables. El conjunt d’activitats vinculades al proveïment d’habitatges destinats a polítiques socials es declararan serveis d’interès general, i tots els ciutadans i ciutadanes que ho necessitin podran exercir accions administratives i judicials per exigir-ne el compliment, tal com ja preveu la Llei del dret a l’habitatge del 2007 de Catalunya.\n - Promoure els canvis legals necessaris perquè l’accés a l’habitatge sigui un dret exigible i la ciutadania pugui demanar, en cas d’incompliment, la tutela judicial efectiva.\n - Declarar serveis d’interès general el conjunt d’activitats vinculades al proveïment d’habitatges destinats a polítiques socials."
+   },
+   {
+    "id": "comuns-0022",
+    "partido": "comuns",
+    "titular": "Topes al alquiler, Agencia Estatal de la Vivienda y prohibir algoritmos de precios",
+    "marca_actual": [
+     "mantener-ampliar"
+    ],
+    "texto": "- **Reforçar els mecanismes de regulació i control de lloguers**\n - Creació d’un registre Estatal de fiances dels contractes de lloguer, en coordinació amb els registres de les CCAA que ja en disposen.\n - Creació d’una Agència Estatal de l’Habitatge (AEV) encarregada del control del mercat de l’habitatge.\n - Reformar la Llei estatal pel dret a l’habitatge per reforçar la regulació del mercat immobiliari, ampliar la protecció de les persones llogateres i garantir l’accés a un habitatge digne i assequible.\n - Revisar els criteris per a la declaració de ZMRT en base a l’experiència dels primers 3 anys a Catalunya i a la Llei d’Habitatge. S’ha de limitar el preu màxim dels lloguers d’habitatge habitual a un màxim resultant de la mitjana del 25% de la renda neta mitjana per llar de cada secció censal i el valor superior del rang de valors fixat en el Sistema Estatal de Referència de Preus de Lloguer d’Habitatge.\n - Modificar el termini de revisió de les ZMRT perquè la revisió es faci cada 3 anys sempre i evitar que després de la primera declaració, la revisió sigui anual.\n - Vetllarem, amb les administracions competents, pel compliment d’un règim sancionador clar.\n - Incorporarem criteris rurals i de muntanya a la declaració de zones tensionades, com el pes de les segones residències i dels habitatges d’ús turístic sobre el total, la manca d’habitatge disponible per a residència habitual i la pressió sobre la població local, perquè territoris com el Pirineu puguin ser declarats zona tensionada.\n - Vetllarem, amb les administracions competents, pel compliment d’un règim sancionador clar.\n - Prohibirem el desenvolupament, comercialització, cessió o ús d’aplicacions informàtiques, programari o algorismes d’intel·ligència artificial orientats a la fixació automatitzada, recomanació o coordinació de preus de lloguer a partir de bases de dades d’arrendadors. Les empreses tecnològiques i immobiliàries que utilitzin o distribueixin aquests sistemes seran sancionades amb multes de fins al 10% de la seva facturació global anual."
+   },
+   {
+    "id": "comuns-0066",
+    "partido": "comuns",
+    "titular": "Diagnóstico: la emancipación supera los 30 años por alquileres de medio sueldo",
+    "marca_actual": [],
+    "texto": "L’edat mitjana d’emancipació a l’Estat supera els 30 anys, i no és una elecció: és el resultat d’uns lloguers que s’emporten més de la meitat del sou jove. Cap generació no pot construir un projecte de vida sense casa."
+   },
+   {
+    "id": "comuns-0978",
+    "partido": "comuns",
+    "titular": "Prevenir la segregación residencial y los desplazamientos que rompen redes de apoyo",
+    "marca_actual": [],
+    "texto": "- Prevenir segregació residencial i desplaçaments que trenquin xarxes de suport, amb participació de les comunitats."
+   }
+  ]
+ },
+ {
+  "eje": "eje-defensa",
+  "pregunta": "¿Más gasto en defensa?",
+  "posiciones": [
+   {
+    "id": "aumentar",
+    "nombre": "Aumentarlo"
+   },
+   {
+    "id": "contener",
+    "nombre": "Contenerlo o priorizar la seguridad humana"
+   }
+  ],
+  "n": 23,
+  "palabras": 1807,
+  "candidatos": [
+   {
+    "id": "pfac-0927",
+    "partido": "pfac",
+    "titular": "Política exterior por la paz y el desarme, no basada en el gasto militar",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "Esta respuesta debe partir de una política exterior comprometida con la paz, el desarme y la resolución diplomática de los conflictos. Las guerras no solo destruyen vidas e infraestructuras: también profundizan las desigualdades, desplazan a millones de personas y convierten la violencia sexual en una herramienta de sometimiento. Las mujeres deben ser reconocidas como sujetos políticos con plena capacidad de decisión, tanto en la prevención de los conflictos como en las negociaciones de paz y la reconstrucción de las sociedades afectadas. La seguridad no puede reducirse al gasto militar ni a la lógica de los bloques geopolíticos, sino que debe sustentarse en la cooperación internacional, el respeto al derecho internacional y la garantía de unas condiciones de vida dignas para toda la población."
+   },
+   {
+    "id": "pfac-0948",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la pertenencia a la OTAN y la UE como pérdida de soberanía",
+    "marca_actual": [],
+    "texto": "La política exterior española está marcada por la pertenencia de nuestro país a la Organización del Tratado del Atlántico Norte (OTAN) y a la Unión Europea (UE). La adhesión a ambas organizaciones supuso una pérdida de soberanía que ha condicionado las relaciones exteriores españolas, supeditándolas a los intereses de otros países como Estados Unidos (OTAN) o Alemania (UE).\n\nLa incorporación de España a la estructura militar integrada de la OTAN en 1999 ha implicado una pérdida de autonomía en su política de defensa y una subordinación a intereses geoestratégicos ajenos. Una consecuencia de esta situación es el incremento progresivo del gasto militar y de defensa, con el compromiso reciente de alcanzar el 5% del PIB, lo que ha situado en 2025 a España por primera vez en el ranking de los quince países con más gasto militar. Así mismo, la pertenencia a la OTAN implica la participación de nuestro país en conflictos que responden a los intereses de EE. UU. o Reino Unido como es la guerra entre Rusia y Ucrania. En lugar de proponer medidas concretas de presión internacional (económicas, diplomáticas, culturales) para la resolución de conflictos, nuestro país apoya la vía militar, en línea de nuevo con los intereses de la OTAN."
+   },
+   {
+    "id": "pfac-0949",
+    "partido": "pfac",
+    "titular": "Diagnóstico: políticas de la UE alineadas con el militarismo de la OTAN",
+    "marca_actual": [],
+    "texto": "Si bien los objetivos que declara la UE en el Tratado de Lisboa (2016) y en su Carta de Derechos Fundamentales (2012) son el logro de la paz y el bienestar de la ciudadanía, sin fronteras interiores, así como la promoción de la paz, la solidaridad, el derecho internacional y el desarrollo sostenible fuera de sus fronteras, la realidad es que sus políticas actuales están alineadas con el militarismo de la OTAN y los intereses del capitalismo neoliberal y subordinadas a una lógica neocolonial que reproduce las desigualdades globales. Especialmente preocupante es el papel que dentro de la UE está jugando Alemania, que está reorientando su economía a la industria armamentística, al tiempo que promueve un conflicto global contra Rusia y se alinea incondicionalmente con Israel al considerar antisemitismo la defensa de los derechos del pueblo palestino."
+   },
+   {
+    "id": "pfac-0952",
+    "partido": "pfac",
+    "titular": "Política exterior por la paz: salir de la OTAN y romper con Israel",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- MEDIDA 43. CONSEGUIR UNA POLÍTICA EXTERIOR POR LA PAZ. Acabar con la política belicista y de Incremento del gasto militar, plan progresivo de salida de la OTAN, ruptura de relaciones diplomáticas con el estado de Israel, reclamar la autodeterminación del pueblo saharaui, y negociaciones de paz para acabar con la guerra de Ucrania."
+   },
+   {
+    "id": "pfac-0954",
+    "partido": "pfac",
+    "titular": "Plan progresivo de salida de la OTAN",
+    "marca_actual": [],
+    "texto": "1. Reclamar una política de defensa liberada de la tutela de EE. UU., impulsando un plan progresivo de salida de la OTAN, que tenga en cuenta la realidad geopolítica de España, garantizando la soberanía y la seguridad de nuestro país."
+   },
+   {
+    "id": "pfac-0955",
+    "partido": "pfac",
+    "titular": "No renovar los convenios de bases militares de Estados Unidos",
+    "marca_actual": [],
+    "texto": "2. No renovar los convenios que regulan la presencia de bases militares de Estados Unidos en territorio nacional."
+   },
+   {
+    "id": "pfac-0956",
+    "partido": "pfac",
+    "titular": "Reorientar la política de seguridad de la UE y salir de los proyectos PESCO",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "3. Promover -dentro de la UE- una reorientación de su actual política de seguridad belicista y de incremento del gasto militar hacia políticas basadas en el mantenimiento de la paz y la cooperación internacional. En particular, retirada de la participación en los proyectos PESCO orientados al desarrollo militar europeo."
+   },
+   {
+    "id": "pfac-0958",
+    "partido": "pfac",
+    "titular": "Reducir el presupuesto de defensa y prohibir la exportación e importación de armamento",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "5. Reducir el presupuesto de defensa y realizar una auditoría pública de los contratos militares y de las empresas armamentísticas, redirigiendo los recursos destinados al gasto militar hacia políticas sociales y servicios públicos que incorporen la igualdad entre mujeres y hombres. Prohibir la exportación e importación de armamento."
+   },
+   {
+    "id": "pfac-0959",
+    "partido": "pfac",
+    "titular": "Auditar cada año la Cuenta General del Estado para detectar gasto militar",
+    "marca_actual": [],
+    "texto": "6. Auditar la Cuenta General del Estado en cada ejercicio, para comprobar si se han modificado o incrementado partidas en favor del gasto militar que no aparecían en el Presupuesto General del Estado del ejercicio correspondiente a dicha Cuenta"
+   },
+   {
+    "id": "ph-0039",
+    "partido": "ph",
+    "titular": "Diagnóstico: gasto en defensa superior a 15.000 millones de euros",
+    "marca_actual": [],
+    "texto": "En los últimos años se ha producido un incremento acelerado del gasto militar global y estatal en España, superando los 15.000 millones de euros de presupuesto directo asignado a Defensa. La subordinación a bloques militares incrementa el riesgo de verse envueltos en conflictos geoestratégicos ajenos a la paz universal."
+   },
+   {
+    "id": "ph-0041",
+    "partido": "ph",
+    "titular": "Salir de la estructura militar de la OTAN y declarar la neutralidad activa",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Neutralidad activa y salida de la OTAN** Inicio del proceso legal de salida de España de la estructura militar de la OTAN. Declaración de España como estado soberano de Neutralidad Activa, consagrado a la mediación de paz, la diplomacia preventiva y la cooperación internacional."
+   },
+   {
+    "id": "ph-0043",
+    "partido": "ph",
+    "titular": "Cerrar las bases militares extranjeras de Rota y Morón y reconvertirlas",
+    "marca_actual": [],
+    "texto": "- **Propuesta 3: Cierre de bases militares extranjeras** Cierre programado y desmantelamiento de las instalaciones militares extranjeras en territorio nacional (Bases de Rota y Morón) y su reconversión pública en centros tecnológicos de investigación marina, logística humanitaria y energías renovables."
+   },
+   {
+    "id": "ph-0044",
+    "partido": "ph",
+    "titular": "Reducir a la mitad el gasto militar en dos años y reconvertir la industria",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- **Propuesta 4: Reducción del 50% del gasto militar y reconversión industrial** Reducción a la mitad de las partidas presupuestarias de gasto militar en un plazo de dos años. Reconversión orientada de la industria de defensa hacia la producción de tecnologías de transporte limpio, salud y bienes de capital civil."
+   },
+   {
+    "id": "ph-0069",
+    "partido": "ph",
+    "titular": "Gasto: sanidad 9,5 %, educación 7 % y defensa menos del 1 %",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "|Ámbito / Partida|Situación Actual (% PIB o Gasto Real)|Propuesta Partido Humanista 2029 (% PIB / Objetivo)|Variación / Destino Clave del Gasto|\n|---|---|---|---|\n|Sanidad Pública|6,7% del PIB actual|9,5% del PIB|Atención primaria, salud mental comunitaria, odontología y gafas|\n|Educación Pública|4,4% del PIB actual|7,0% del PIB|Escuela 100% pública, laica, ratios de 15 alumnos, gratuidad universidad/FP|\n|Vivienda Social|0,2% del PIB actual (~2,5% parque social)|1,5% del PIB|Alcanzar 20% parque público alquiler, movilización Sareb/fondos|\n|Protección Social y Renta|Prestaciones fragmentadas condicionadas|Renta Básica Universal Incondicional|950 €/mes adultos|\n|Gasto Militar / Defensa|>2,0% del PIB (compromiso OTAN)|<1,0% del PIB|Reducción del 50%, reconversión a industria de paz y salud|\n|Transición Ecosocial y Transporte|Foco en megaparques y AVE|Transporte soberano y comunitario|Transporte ferroviario convencional gratuito y comunidades solares en tejados|"
+   },
+   {
+    "id": "ph-0070",
+    "partido": "ph",
+    "titular": "Ingresos de 155.500 M€: fraude, IRPF alto, grandes fortunas y Tasa Tobin",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "|Vía de Financiación / Medida Fiscal|Recaudación o Ahorro Estimado Anual (M€)|Justificación / Colectivo Afectado|\n|---|---|---|\n|Lucha contra el Fraude y la Evasión Fiscal|+30.000 M€|Grandes corporaciones y patrimonios, plan técnicos Gestha|\n|Reforma del IRPF (Rentas del Trabajo > 120.000 € y Rentas del Capital)|+55.000 M€|Tramos altos de renta y equiparación de tributación de rentas del capital al trabajo|\n|Impuesto a las Grandes Fortunas (Patrimonio Neto > 3M€)|+25.000 M€|Gravamen progresivo a la riqueza extrema no productiva|\n|Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin ampliada)|+20.000 M€|0,5% a compras bursátiles y algoritmos de alta frecuencia|\n|Supresión de privilegios fiscales a SOCIMIs y Fondos Especulativos|+8.000 M€|Tributación estándar al tipo general de sociedades|\n|Reducción del 50% en armamento y Defensa|+7.500 M€|Recorte directo en adquisiciones militares y programas armamentísticos|\n|Racionalización y absorción de subsidios fragmentados redundantes|+10.000 M€|Simplificación por la puesta en marcha de la RBUI|\n\n**TOTAL INGRESOS / AHORROS ADICIONALES ANUALES:** +155.500 M€\n\n**TOTAL INVERSIONES / GASTOS SOCIALES ANUALES:** 155.500 M€ (balance equilibrado y solvente)."
+   },
+   {
+    "id": "d21-0283",
+    "partido": "d21",
+    "titular": "Revisión independiente de medios policiales y militares y chaleco para cada agente",
+    "marca_actual": [],
+    "texto": "- **Medios Dignos, de la Comisaría al Cuartel:** las asociaciones militares denuncian carencias crónicas en residencias y alojamientos, y no existen datos públicos sobre el estado del equipo con el que trabajan policías, guardias civiles y militares. Haremos una revisión independiente y periódica de los medios de las Fuerzas Armadas, la Policía Nacional y la Guardia Civil —equipo de protección individual, vehículos, embarcaciones, instalaciones y alojamientos—, con un inventario digital, un informe anual al Congreso y un plan plurianual de renovación que priorice todo lo que protege la vida: chaleco antibalas individual para cada agente desde su primer día y protección frente a armas de guerra para quienes se enfrentan al narcotráfico. Ningún militar se quedará sin alojamiento digno en su destino."
+   },
+   {
+    "id": "d21-0284",
+    "partido": "d21",
+    "titular": "Ley de la Carrera Militar sin salida forzosa a los 45 años",
+    "marca_actual": [],
+    "texto": "- **Fin de la Salida Forzosa a los 45 - Una Carrera para Toda la Vida:** aprobaremos una Ley Integral de la Carrera Militar que elimine de forma progresiva la salida forzosa de soldados y marineros a los 45 años y ofrezca a tropa y marinería una carrera estable hasta la reserva, con promoción interna sin límite de convocatorias. Completaremos la homologación de la formación militar: título de FP de grado medio al ser soldado o marinero y de técnico superior al ascender a cabo primero. Promoveremos convenios con Comunidades Autónomas y Ayuntamientos para que su experiencia cuente en el acceso a policías autonómicas y locales, bomberos y emergencias."
+   },
+   {
+    "id": "d21-0285",
+    "partido": "d21",
+    "titular": "Reconocer la profesión militar como profesión de riesgo",
+    "marca_actual": [],
+    "texto": "- **Profesión de Riesgo para Todos los Militares:** reconoceremos por ley la profesión militar como profesión de riesgo para todo el personal, de Seguridad Social y de Clases Pasivas, incluidos quienes tuvieron que dejar las Fuerzas Armadas al terminar su compromiso, con coeficientes reductores que computen las misiones internacionales y los días de mar, y jubilación anticipada sin recorte de pensión. El mismo criterio que para policías y guardias civiles: mismo riesgo, mismo reconocimiento."
+   },
+   {
+    "id": "d21-0286",
+    "partido": "d21",
+    "titular": "Reclasificar los empleos militares y nuevo reglamento de retribuciones",
+    "marca_actual": [],
+    "texto": "- **Sueldos a la Altura de la Responsabilidad:** clasificaremos los empleos militares en los grupos de la función pública según su titulación y responsabilidad, de modo que soldados y cabos pasen al grupo C1 y cabos primeros y mayores al grupo B. Y aprobaremos un nuevo reglamento de retribuciones: horas extraordinarias, nocturnidad y festivos pagados, dietas actualizadas e iguales para todas las escalas, y compensación real de la movilidad geográfica. Si España va a invertir más en defensa, la primera inversión serán sus profesionales."
+   },
+   {
+    "id": "d21-0323",
+    "partido": "d21",
+    "titular": "Reforzar el pilar europeo de defensa y las compras conjuntas de armamento",
+    "marca_actual": [],
+    "texto": "- **Pilar Europeo de Defensa y Base Industrial Común:** la seguridad europea no puede externalizarse indefinidamente. Reforzaremos el pilar europeo dentro de la OTAN y desplegaremos la Hoja de Ruta de Preparación en Materia de Defensa 2030, promoviendo compras conjuntas de armamento, movilidad militar inmediata y la interoperabilidad de nuestros ejércitos. Consolidaremos una base industrial, tecnológica y espacial comunitaria donde las empresas punteras de ingeniería españolas actúen como socias de referencia."
+   },
+   {
+    "id": "comuns-1107",
+    "partido": "comuns",
+    "titular": "Gasto en defensa según capacidades y riesgos reales y control de armas",
+    "marca_actual": [],
+    "texto": "Pel que fa a la seguretat, els Estats Units han passat de garantir la defensa dels països de la UE a suposar una amenaça. En la qüestió sobre la despesa en defensa, exigim que es basi en capacitats i riscos reals, amb l’objectiu de garantir l’autonomia europea. Cal controlar amb rigor les exportacions d’armes i fixar estàndards a les importacions, per no comprar a països que fan dels seus conflictes un laboratori de tecnologia bèl·lica."
+   },
+   {
+    "id": "comuns-1109",
+    "partido": "comuns",
+    "titular": "No reintroducir el servicio militar, ni obligatorio ni voluntario",
+    "marca_actual": [],
+    "texto": "- Compromís de no reintroduir el servei militar a Espanya, ni obligatori ni voluntari, ni cap altra fórmula d’instrucció militar i foment bel·licista dirigida a la joventut."
+   },
+   {
+    "id": "comuns-1113",
+    "partido": "comuns",
+    "titular": "Suspender el comercio de armas con Israel, Arabia Saudí y Emiratos",
+    "marca_actual": [],
+    "texto": "- Assegurar la suspensió les exportacions així con les importacions provinents de països en conflicte armat o amb risc de violacions greus de drets humans, com ara Israel, Aràbia Saudita i Unió del Emirats Àrabs. Prohibició d’armes autònomes letals. Impulsar activament el procediment davant la Cort Internacional de Justícia iniciat per Alemanya contra l’Emirat Islàmic de l’Afganistan per la comissió de crims de lesa humanitat i altres greus vulneracions de drets humans."
+   }
+  ]
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "pregunta": "¿Condonar parte de la deuda autonómica?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, condonarla"
+   },
+   {
+    "id": "no",
+    "nombre": "No, rechazar la condonación"
+   }
+  ],
+  "n": 17,
+  "palabras": 1195,
+  "candidatos": [
+   {
+    "id": "pfac-0998",
+    "partido": "pfac",
+    "titular": "Una financiación autonómica que garantice servicios iguales se viva donde se viva",
+    "marca_actual": [],
+    "texto": "Por otra parte, la financiación autonómica está íntimamente ligada al modelo de sociedad y de país que queremos construir. En el modelo de país al que aspiramos, la financiación de las autonomías debe garantizar unos niveles mínimos de calidad de vida, educación, salud y protección social a toda la ciudadanía. El acceso al estado de bienestar debe permitir su disfrute en condiciones de igualdad, se viva donde se viva. No se puede admitir que las Comunidades Autónomas más ricas tengan más recursos para financiar sus servicios públicos, del mismo modo que sería inadmisible que la ciudadanía con rentas más altas, por el hecho de pagar más impuestos, recibiera mejores servicios públicos.\n\nEn cuanto a la política local, el PFAC es un partido municipalista que defiende ampliar y mejorar la capacidad de gestión de los municipios, como instituciones más cercanas a la ciudadanía, asegurando su adecuada financiación.\n\nEs necesario reconocer la participación de los entes locales en la provisión de servicios públicos a la ciudadanía y hacer que esta se produzca en plano de igualdad con los demás niveles de gobierno haciendo efectiva la autonomía municipal reconocida constitucionalmente."
+   },
+   {
+    "id": "pfac-1006",
+    "partido": "pfac",
+    "titular": "Nuevo modelo de financiación autonómica revisando la población ajustada",
+    "marca_actual": [],
+    "texto": "5. Promover un nuevo modelo de financiación autonómica justo que sitúe las necesidades de las personas, que son las que pagan los impuestos, en el centro del debate. El indicador de población ajustada, una medida estadística que determina la población de cada comunidad autónoma ponderando sus necesidades reales de gasto público, debe seguir considerándose, pero revisando las variables demográficas (sanidad, educación y servicios sociales) y geográficas (superficie, dispersión e insularidad) y sus ponderaciones. Por ejemplo, incluir en protección social correcciones relacionadas con las diferentes tasas de feminización de la pobreza o de familias monoparentales vulnerables, o en educación ampliar el tramo de población hasta los 18 años o introducir nuevas variables para el alumnado universitario matriculado en universidades públicas."
+   },
+   {
+    "id": "pfac-1007",
+    "partido": "pfac",
+    "titular": "Financiar los servicios públicos con independencia de la capacidad fiscal de cada territorio",
+    "marca_actual": [],
+    "texto": "6. La reforma del Sistema de Financiación autonómica debe blindar unos servicios públicos de excelencia garantizados equitativamente en todas las Comunidades Autónomas. La cobertura financiera de los servicios públicos debe ser independiente de la capacidad fiscal de los territorios."
+   },
+   {
+    "id": "pfac-1008",
+    "partido": "pfac",
+    "titular": "Acabar con el dumping fiscal entre comunidades autónomas",
+    "marca_actual": [],
+    "texto": "7. Acabar con la competencia fiscal entre comunidades para atraer contribuyentes ricos mediante el dumping fiscal. Se debe acabar con la perversa paradoja de las autonomías que propician renuncias a la capacidad fiscal propia, al tiempo que reclaman más recursos al sistema."
+   },
+   {
+    "id": "nex-0048",
+    "partido": "nex",
+    "titular": "Cuantificar la deuda histórica del Estado con Extremadura y calendario anual de pago",
+    "marca_actual": [],
+    "texto": "38. Cuantificación oficial de la deuda histórica del Estado con Extremadura y calendario de pago anual en los Presupuestos Generales."
+   },
+   {
+    "id": "nex-0049",
+    "partido": "nex",
+    "titular": "Reclamar la deuda histórica por la vía bilateral Junta-Estado con comisión de seguimiento",
+    "marca_actual": [],
+    "texto": "39. Reclamación por la vía bilateral Junta-Estado, con comisión de seguimiento."
+   },
+   {
+    "id": "nex-0050",
+    "partido": "nex",
+    "titular": "Financiación autonómica que pese la dispersión, el envejecimiento y la superficie",
+    "marca_actual": [],
+    "texto": "40. Reforma de la financiación autonómica que pese la dispersión, el envejecimiento y la superficie."
+   },
+   {
+    "id": "ixlg-0009",
+    "partido": "ixlg",
+    "titular": "Financiar los servicios esenciales según su coste real, no solo por habitantes",
+    "marca_actual": [],
+    "texto": "03. Promover una financiación estatal de los servicios esenciales basada en su coste real, no solo en el número de habitantes, y evaluar el impacto de las leyes estatales en las islas menores y en la aplicación del REF."
+   },
+   {
+    "id": "comuns-0033",
+    "partido": "comuns",
+    "titular": "Destinar el 20 % de la deuda autonómica condonada a vivienda pública de alquiler",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Permetrem que les comunitats autònomes destinin el 20% del deute que se’ls condoni a crear i ampliar el seu parc públic de lloguer assequible, flexibilitzant per a això les seves regles fiscals"
+   },
+   {
+    "id": "comuns-0184",
+    "partido": "comuns",
+    "titular": "Ceder a las comunidades el impuesto sobre depósitos bancarios",
+    "marca_actual": [],
+    "texto": "- Incorporar una modificació a l’actual impost estatal sobre els dipòsits de la banca consistent en: cedir-lo a les comunitats autònomes d’acord amb el criteri del lloc de residència del titular dels dipòsits."
+   },
+   {
+    "id": "comuns-0189",
+    "partido": "comuns",
+    "titular": "Fijar tipos efectivos mínimos para evitar el dumping fiscal autonómico",
+    "marca_actual": [],
+    "texto": "- Evitar el dumping fiscal en els impostos en què les comunitats autònomes tinguin capacitat normativa mitjançant l’establiment de mínims en els tipus efectius."
+   },
+   {
+    "id": "comuns-1013",
+    "partido": "comuns",
+    "titular": "Balance: la amnistía y los acuerdos de la legislatura para Cataluña",
+    "marca_actual": [],
+    "texto": "Aquesta legislatura ha estat la culminació del procés de desjudicialització del conflicte polític català amb la llei de l’amnistia, malgrat la resistència en la seva aplicació per part del Tribunal Suprem. És un èxit de l’estratègia de diàleg, negociació i acord que sempre hem defensat els Comuns.\n\nEl Govern de Coalició Progressista, del qual formem part, i els acords parlamentaris amb les altres forces catalanes, ha permès avenços importants per Catalunya com: l’ús de les llengües cooficials al Congrés, l’assumpció per part del Govern del reconeixement de l’oficialitat del català a Europa, el traspàs de la gestió de l’ingrés mínim vital, la creació d’una empresa mixta per operar els serveis de regionals i rodalies, el compromís del traspàs de diferents línies ferroviàries, el traspàs de les beques universitàries, a més dels acords en la condonació del deute del FLA i l’acord per un nou model de finançament. Altres acords com el traspàs en matèria d’immigració i el consorci d’inversions no han anat endavant perquè van ser rebutjats al Congrés.\n\nL’única via d’avenç possible per Catalunya és el diàleg i la cooperació. Els Comuns plantegem un pacte territorial en una doble dimensió: bilateral, en els espais previstos a l’Estatut, entre Catalunya i l’Estat, i multilateral, entre l’Estat i el conjunt de les comunitats autònomes."
+   },
+   {
+    "id": "comuns-1015",
+    "partido": "comuns",
+    "titular": "Pacto multilateral: respeto competencial, descentralización local y nueva financiación autonómica",
+    "marca_actual": [],
+    "texto": "- I pel que fa a la dimensió multilateral el pacte territorial ha de tenir com a objectiu el ple respecte per les competències autonòmiques i el ple desenvolupament que preveuen els estatuts, la regulació de tots els àmbits de cooperació i col·laboració, una nova descentralització a favor dels ens locals i un nou model del finançament autonòmic."
+   },
+   {
+    "id": "comuns-1033",
+    "partido": "comuns",
+    "titular": "Diagnóstico: financiación autonómica de 2009 pendiente de renovar e infrafinanciación",
+    "marca_actual": [],
+    "texto": "El sistema de finançament autonòmic vigent es va aprovar el 2009 i fa més d’una dècada que està pendent de renovar. El nou model de finançament ha de fer front a dos problemes: l’infrafinançament dels serveis públics fonamentals que gestiones les CCAA, com la sanitat, l’educació i els serveis socials i avançar en l’articulació d’un Estat divers, on s’expressen aspiracions a l’autogovern molt diferents. Catalunya ha manifestat reiteradament la voluntat de gestionar el finançament, de disposar de més recursos però també de més capacitat normativa i dels instruments necessaris, desenvolupant l’Agència Tributària de Catalunya."
+   },
+   {
+    "id": "comuns-1034",
+    "partido": "comuns",
+    "titular": "Nuevo modelo de financiación con más autonomía fiscal, empezando por el IRPF",
+    "marca_actual": [],
+    "texto": "- **Impulsarem l’acord per al nou model de finançament, prenent com a punt de partida l’acord entre la Generalitat i el Govern de l’Estat d’aquesta legislatura.** El nou model de finançament ha de garantir la **suficiència,** perquè la Generalitat i les CCAA puguin disposar dels recursos necessaris per garantir els serveis públics i fer front a reptes com la crisi climàtica; **l’autonomia,** incrementant la participació de la Generalitat en els grans impostos de l’Estat (IRPF, IVA), la capacitat normativa per regular els impostos i la gestió dels impostos a càrrec de l’Agència Tributària de Catalunya, començant per l’IRPF. I cal garantir **l’equitat i la solidaritat** reduint les distàncies entre les comunitats millor i pitjor finançades."
+   },
+   {
+    "id": "comuns-1035",
+    "partido": "comuns",
+    "titular": "Garantizar la ordinalidad de Cataluña e impedir la competencia fiscal a la baja",
+    "marca_actual": [],
+    "texto": "El nou model també ha de garantir el **principi d’ordinalitat de Catalunya,** és a dir que, la necessària convergència en recursos per habitant, que iguali els diferents territoris, no pot deixar en pitjor posició en recursos per càpita Catalunya.\n\nEl nou model ha d’impedir els regals fiscals que les CCAA governades per la dreta fan a les rendes més altes, afeblint els serveis públics i estimulant la competència fiscal a la baixa entre territoris."
+   },
+   {
+    "id": "comuns-1036",
+    "partido": "comuns",
+    "titular": "Condonar la deuda autonómica del FLA: 83.252 millones, 17.104 de Cataluña",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Condonarem totalment el deute de les CCAA del FLA (Fons de Liquiditat Autonòmic).** La convocatòria electoral anticipada va fer decaure el Projecte de Llei de mesures excepcionals de sostenibilitat financera de les comunitats autònomes de règim Comú Tornarem a impulsar com a primer pas la llei que permet a l’Estat assumir 83.252 milions de deute autonòmic, 17.104 dels quals corresponen a Catalunya. Ho farem amb el compromís que l’estalvi en interessos es destini a reforçar els serveis públics."
+   }
+  ]
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 5,
+  "palabras": 259,
+  "candidatos": [
+   {
+    "id": "pfac-0875",
+    "partido": "pfac",
+    "titular": "Diagnóstico: tauromaquia protegida, excepciones culturales y leyes animales dispares",
+    "marca_actual": [],
+    "texto": "La tauromaquia sigue estando protegida como bien de interés cultural y, por ello, recibe innumerables subvenciones y, aunque muchos municipios han prohibido los circos con animales, la normativa al respecto no está armonizada. El nuevo marco legislativo no ha entrado a combatir ciertas excepciones culturales, como el rito halal que permite sacrificar animales sin aturdimiento previo.\n\nRespecto a la gestión de la fauna silvestre, como el caso del lobo ibérico y otras especies, se observan conflictos entre el sector ganadero y los colectivos defensores de la biodiversidad, falta de consenso sobre compensaciones y control poblacional, una cobertura mediática polarizada y la ausencia de planes eficaces para la coexistencia.\n\nFinalmente, la desigualdad normativa entre comunidades autónomas se traduce en que cada territorio cuenta con su propia ley de protección animal, generando vacíos legales, diferencias en sanciones y confusión, tanto entre la ciudadanía como entre las fuerzas de seguridad.\n\nAnte esta situación, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0876",
+    "partido": "pfac",
+    "titular": "Eliminar las excepciones de la ley de protección animal y prohibir los espectáculos taurinos",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "- MEDIDA 40. ELIMINAR LAS EXCEPCIONES DE LA LEY DE PROTECCIÓN ANIMAL, para proteger a todos los animales como seres sintientes sin excepción y prohibiendo los espectáculos taurinos. Eliminar subvenciones a eventos con sufrimiento animal, prohibición de su emisión en medios públicos y veto al sacrificio sin aturdimiento en mataderos."
+   },
+   {
+    "id": "pfac-0898",
+    "partido": "pfac",
+    "titular": "Abolir la tauromaquia y eliminar las ayudas a espectáculos con sufrimiento animal",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "20. Abolir la tauromaquia y eliminar todo tipo de ayudas públicas a espectáculos con sufrimiento animal."
+   },
+   {
+    "id": "comuns-0515",
+    "partido": "comuns",
+    "titular": "Derogar la ley que regula la tauromaquia como patrimonio cultural",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "- Seguirem treballant per la derogació de la Llei que regula la tauromàquia com a patrimoni cultural, tal com hem eliminar el finançament públic dels espectacles cruels amb aquests animals."
+   },
+   {
+    "id": "comuns-0588",
+    "partido": "comuns",
+    "titular": "Prohibir la pesca recreativa de especies en situación biológica sensible",
+    "marca_actual": [],
+    "texto": "- Prohibirem la pesca recreativa d’espècies en situació biològica sensible."
+   }
+  ]
+ },
+ {
+  "eje": "eje-nuclear",
+  "pregunta": "¿Qué hacer con las centrales nucleares?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlas o alargar su vida"
+   },
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlas según el calendario"
+   }
+  ],
+  "n": 5,
+  "palabras": 217,
+  "candidatos": [
+   {
+    "id": "pfac-0857",
+    "partido": "pfac",
+    "titular": "No prorrogar ninguna central nuclear y cerrarlas en el plazo establecido",
+    "marca_actual": [
+     "cerrar"
+    ],
+    "texto": "18. No prorrogar la vida útil de ninguna central nuclear, sino cerrarlas y desmantelarlas en el plazo establecido."
+   },
+   {
+    "id": "pfac-0960",
+    "partido": "pfac",
+    "titular": "Promover el desarme nuclear y adherirse al Tratado de Prohibición de Armas Nucleares",
+    "marca_actual": [],
+    "texto": "7. Promover el desarme nuclear y la adhesión de España al Tratado sobre la Prohibición de las Armas Nucleares de la ONU."
+   },
+   {
+    "id": "ph-0042",
+    "partido": "ph",
+    "titular": "Firmar y ratificar el Tratado sobre la Prohibición de las Armas Nucleares",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Firma y ratificación del TPAN** Adhesión e inmediata ratificación por parte del Estado español del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) adoptado por la ONU."
+   },
+   {
+    "id": "comuns-0352",
+    "partido": "comuns",
+    "titular": "Sacar del sistema marginalista la nuclear y la hidráulica amortizadas",
+    "marca_actual": [],
+    "texto": "- Traurem del sistema marginalista les tecnologies amortitzades, com la nuclear i la hidràulica, i fixarem un calendari per pagar-les segons el seu cost reconegut, amb contractes per diferències bidireccionals i contractes de compra a llarg termini també accessibles a les pimes. Les subhastes retornaran als consumidors els ingressos extraordinaris quan pugin els preus."
+   },
+   {
+    "id": "comuns-0379",
+    "partido": "comuns",
+    "titular": "Cerrar todo el parque nuclear sin más prórrogas ni nuevos reactores",
+    "marca_actual": [
+     "cerrar"
+    ],
+    "texto": "- Tancament nuclear sense més pròrrogues. Mantindrem el calendari vinculant per tancar tot el parc nuclear sense noves pròrrogues, ni nous reactors, ni beneficis fiscals. Les renovables, l’emmagatzematge i la xarxa que substitueixin cada central hauran d’estar en servei abans del tancament, sense augmentar la dependència del gas. Els propietaris pagaran el desmantellament i la gestió dels residus: revisarem la taxa d’Enresa amb una auditoria independent. Abans de cada tancament acordarem plans de transició justa, amb diversificació productiva, recol·locació, formació i protecció de rendes, també per a les plantilles de les contractes."
+   }
+  ]
+ }
+]

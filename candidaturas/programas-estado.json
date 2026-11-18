@@ -183,15 +183,15 @@
  },
  "COMUNS-FRONT AMPLI": {
   "nombre": "Comuns-Front Ampli",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "comuns",
   "nota": "Programa propio de 135 páginas en catalán, distinto del estatal del Frente Amplio.",
   "url": ""
  },
  "C-DEM": {
   "nombre": "Comuns-Front Ampli per la democràcia",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "comuns",
   "nota": "Lista al Senado; se supone que usa el programa de Comuns-Front Ampli.",
   "url": ""
  },
@@ -358,8 +358,8 @@
  },
  "PFAC": {
   "nombre": "Feministas al Congreso",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "pfac",
   "nota": "",
   "url": ""
  },
@@ -372,8 +372,8 @@
  },
  "D21": {
   "nombre": "Democracia para el Siglo 21",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "d21",
   "nota": "",
   "url": ""
  },
@@ -428,8 +428,8 @@
  },
  "NEX": {
   "nombre": "Nuevo Extremeñismo-Adelante Extremadura",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "nex",
   "nota": "",
   "url": ""
  },
@@ -470,8 +470,8 @@
  },
  "SY": {
   "nombre": "Soria ¡Ya!",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "soria",
   "nota": "Programa breve: un cartel de una página.",
   "url": ""
  },
@@ -484,8 +484,8 @@
  },
  "PH": {
   "nombre": "Partido Humanista",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "ph",
   "nota": "",
   "url": ""
  },
@@ -540,8 +540,8 @@
  },
  "IxLG": {
   "nombre": "Iniciativa por La Gomera",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "ixlg",
   "nota": "",
   "url": ""
  },
