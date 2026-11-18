@@ -23,6 +23,14 @@ Abre `dist/programas29N.html` en el navegador: es la web entera en un solo fiche
 python -m http.server -d web
 ```
 
+## Publicar
+
+La web es estática y se sirve con Cloudflare Workers (`wrangler.jsonc` publica la carpeta `web/`; `web/_headers` pone las cabeceras de seguridad):
+
+```sh
+npx wrangler deploy
+```
+
 ## Estructura
 
 | Carpeta | Qué hay |
