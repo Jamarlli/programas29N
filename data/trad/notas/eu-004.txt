@@ -1,0 +1,43 @@
+eu-004 — notas de traducción (es → eu)
+
+General: siglas no incluidas en el glosario copiadas tal cual, aunque exista una sigla vasca asentada: IA (no AA) en fa-0654, fa-0781, fa-0802, fa-0804; IBI (no OHZ) en fa-0761 a fa-0769; OIT (no LANE/ILO) en fa-0700; VIH (no GIB) en fa-0821; LAU (no HEL) en fa-0659 y DANA en fa-0737 a fa-0740. SMI → LGS (glosario) en fa-0651. Si se prefiere la sigla vasca asentada (excepción de las INSTRUCCIONES), cambiar en esos ids.
+General: el lenguaje inclusivo con desdoblamiento («empleadas y empleados», «trabajadoras y trabajadores», «vecinos y vecinas», «Comisionado o Comisionada») se ha dejado con la forma vasca sin género (enplegatu publikoak, langileak, bizilagunak, Komisionatua), porque el euskera no tiene género gramatical: fa-0695, fa-0727, fa-0742, fa-0774.
+fa-0646: «pesca de arrastre» → «arrasteko arrantza»; «Política Pesquera Común» → «Arrantza Politika Bateratua».
+fa-0649: «marisqueo» → «itsaskibilketa»; «restringir» → «murriztu»; «lubina» → «lupia».
+fa-0650: «IVA franquiciado» → «frankiziako BEZa»; «autónomos y socios cooperativistas de rentas bajas» → «errenta baxuko autonomo eta bazkide kooperatibistentzat»: se mantiene la ambigüedad de a quién se aplica «de rentas bajas».
+fa-0652: «IVA de caja» → «kutxa-irizpideko BEZa».
+fa-0654: «condicionado a la prohibición de despedir» → «kaleratzeko debekuaren baldintzapean», en la misma posición; sigue sin quedar claro qué es lo que está condicionado, igual que en el original.
+fa-0656: «morosidad comercial» → «merkataritza-berankortasuna»; «ley de morosidad» (en minúscula) → «berankortasunaren aurkako legea».
+fa-0659: la cita empieza en «autonomoak…» y acaba en «…urteko igoeren lege-muga bat». En euskera el verbo «bermatuko ditugu» va detrás, así que queda fuera de la cita.
+fa-0663/fa-0670/fa-0673: «empresas de inserción» → «gizarteratze-enpresak» (en la CAV también «laneratze-enpresak»).
+fa-0669: «bajas temerarias» → «beherapen ausartegiak». Se ha añadido «ezartzea» al final de la enumeración para que la frase tenga verbo en euskera; no añade contenido.
+fa-0670: «Auditoría/Balance Social» → «Gizarte Auditoria/Balantzea».
+fa-0671: «autónomos dependientes (TRADE)» → «autonomo menpekoak (TRADE)», traducido literalmente sin añadir «económicamente».
+fa-0674: «concierto social» → «gizarte-ituna».
+fa-0675: «Rescate Demográfico» → «Erreskate Demografikoa» (literal); «la España que se vacía» → «husten ari den Espainia».
+fa-0681: «mecanismo rural de garantía» → «landa-bermearen mekanismoa».
+fa-0687: «Municipios de Menor Población» → «Biztanle Gutxiagoko Udalerriak» (literal).
+fa-0690, fa-0693, fa-0694: el original en castellano pone «Illes Balears». Se ha traducido como «Balear Uharteak», la forma habitual en euskera. Si se prefiere conservar el nombre oficial, cambiarlo en esos tres ids.
+fa-0696: «interinidades» → «bitarteko-kontratuak»; «Tribunal de Justicia de la UE» → «EBko Justizia Auzitegia».
+fa-0699: «podría favorecer» → «erraztu lezake» (se mantiene el condicional).
+fa-0703: «diputaciones» → «diputazioak» (no «foru-aldundiak»); «cabildos insulares» → «uharteetako kabildoak»; «preferentemente» → «lehentasunez».
+fa-0711: la enumeración de criterios va tras dos puntos y separada con punto y coma, para que se lea bien en euskera. Contiene los mismos elementos.
+fa-0715 y fa-0741: el original dice «competencias ejercidas por aquellas en su nombre por parte de las entidades locales», una frase confusa. Se ha traducido como «toki-erakundeek haien izenean gauzatutako eskumenak», que entiende que las competencias son de las comunidades autónomas.
+fa-0721, fa-0725, fa-0729, fa-0778, fa-0788, fa-0825: en el original @h = @t, y en la traducción también son iguales. «Cercanías» → «Aldiriak» (nombre de Renfe en euskera); «Media Distancia» → «Distantzia Ertaina».
+fa-0724: «atención a bordo» → «trenean bertako arreta».
+fa-0735: «apartaderos» → «bazterbideak».
+fa-0736: «encomiendas de gestión» → «kudeaketa-gomendioak».
+fa-0737: «Comunitat Valenciana» → «Valentziako Erkidegoa».
+fa-0751: «remunicipalización» → «birudalerritzea»; «quitas» → «kitak».
+fa-0754: «planes económico-financieros» → «ekonomia- eta finantza-planak»; «remanentes» → «gerakinak».
+fa-0756: «inversiones financieramente sostenibles» → «finantzaren aldetik jasangarriak diren inbertsioak».
+fa-0767: «tipos» (de gravamen) → «karga-tasak».
+fa-0773: «hay hasta 137 ciudades» → «137 hirik ere kobratzen dute» («hasta» enfático, no límite superior).
+fa-0776: «Real Decreto-ley 13/2026» → «13/2026 Errege Lege-dekretua».
+fa-0782: «consultoría» → «kontsultoretza» y «asesoramiento fiscal» → «zerga-aholkularitza», para distinguirlos.
+fa-0792: el original dice «inclusiones vinculantes abusivas», una expresión rara (¿«vinculaciones»?). Se ha traducido literalmente: «barneratze lotesle abusiboak».
+fa-0795: «folletos de emisión» → «jaulkipen-prospektuak».
+fa-0797: «amplificación deliberada» → «nahita anplifikatzea».
+fa-0802: «intromisión ilegítima» → «esku-sartze bidegabea».
+fa-0813: la enumeración tras el punto y coma mezla complementos de distinto tipo, como en el original; se mantiene así. «violencia intragénero» → «genero barruko indarkeria» (igual en fa-0814).
+fa-0827 / fa-0825 / fa-0701: «Ley de Extranjería» → «Atzerritarren Legea»; «Oficinas de Extranjería» → «Atzerritarren Bulegoak»; «extranjería» → «atzerritarren arloa».

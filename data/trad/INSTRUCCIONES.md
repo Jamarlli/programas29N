@@ -122,7 +122,7 @@ Si necesitas ficheros de trabajo (por ejemplo, una vista intercalada para compar
 | Tribunal Constitucional | Tribunal Constitucional | Tribunal Constitucional | Konstituzio Auzitegia |
 | Tribunal Supremo | Tribunal Suprem | Tribunal Supremo | Auzitegi Gorena |
 | ley orgánica | llei orgànica | lei orgánica | lege organikoa |
-| real decreto(-ley) | reial decret(-llei) | real decreto(-lei) | errege-dekretua (errege lege-dekretua) |
+| real decreto(-ley) | reial decret (llei), sin guion (IEC 2016) | real decreto(-lei) | errege-dekretua (errege lege-dekretua) |
 | Agencia Tributaria | Agència Tributària | Axencia Tributaria | Zerga Agentzia |
 | «suelo» como mínimo (de gasto, de renta) | mínim | mínimo | gutxieneko … |
 | «topar» (poner un límite máximo) | posar topall / limitar | poñer teito / limitar | muga jarri / mugatu |
@@ -144,7 +144,7 @@ Coherencia en todos los lotes al castellano: «Cataluña», «Galicia» (tambié
 El glosario vale en las dos direcciones, pero al traducir **al castellano** se respeta la palabra que eligió el original: «ocupació il·legal» → «ocupación ilegal» (no «okupación»); «okupació» u «okupa» → «okupación», «okupa».
 
 Topónimos:
-- Usa la forma oficial o la habitual en el idioma de destino: ca «Saragossa, Osca, Terol, Conca»; gl «Xixón»; eu «Iruñea, Gasteiz, Donostia, Nafarroa, Araba, Bizkaia, Gipuzkoa».
+- Usa la forma oficial o la habitual en el idioma de destino: ca «Saragossa, Osca, Terol, Conca»; gl «Xixón», «Illas Baleares», «Comunidade Valenciana», «Cataluña»; eu «Iruñea, Gasteiz, Donostia, Nafarroa, Araba, Bizkaia, Gipuzkoa».
 - Si no hay una forma establecida, deja el nombre como está.
 
 ## Revisión (para quien revisa una traducción)

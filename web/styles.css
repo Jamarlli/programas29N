@@ -472,24 +472,26 @@ mark.subr { background: var(--mark); color: var(--mark-ink); padding: .05em 0; -
 .top-partidos { flex: none; height: 40px; padding: 0 12px 0 14px; }
 .top-partidos .c { display: inline-flex; align-items: center; justify-content: center; min-width: 22px; height: 22px; margin-left: 4px; padding: 0 6px; border-radius: 999px; background: var(--surface-3); font-size: .8125rem; font-weight: 700; color: var(--ink-2); }
 
-/* ---- Selector de idioma: un círculo con la bandera; al pulsarlo bajan los demás ---- */
-.idiomas { position: relative; flex: none; margin-left: -16px; }
-.idi-b, .idi-a { display: block; width: 36px; height: 36px; padding: 0; border: 0; border-radius: 50%; background: none; cursor: pointer; }
-.idi-f { display: block; width: 100%; height: 100%; border-radius: 50%; box-shadow: 0 0 0 1px rgba(21, 24, 29, .18); transition: transform .15s ease, box-shadow .15s ease; }
-.idi-b:hover .idi-f, .idi-a:hover .idi-f { transform: scale(1.08); box-shadow: 0 0 0 1px rgba(21, 24, 29, .3), 0 2px 6px rgba(21, 24, 29, .18); }
+/* ---- Selector de idioma: un circulito con la bandera; al pulsarlo bajan los demás ---- */
+.idiomas { position: relative; flex: none; display: flex; align-items: center; margin-left: -12px; }
+.idi-b, .idi-a { display: block; width: 22px; height: 22px; padding: 0; border: 0; border-radius: 50%; background: none; cursor: pointer; }
+/* el área de pulsación es mayor que el círculo (36px) sin que el círculo crezca */
+.idi-b, .idi-a { position: relative; }
+.idi-b::after, .idi-a::after { content: ""; position: absolute; inset: -7px; border-radius: 50%; }
+.idi-f { display: block; width: 100%; height: 100%; border-radius: 50%; box-shadow: 0 0 0 1px rgba(21, 24, 29, .14); opacity: .9; transition: opacity .15s ease, box-shadow .15s ease; }
+.idi-b:hover .idi-f, .idi-a:hover .idi-f { opacity: 1; box-shadow: 0 0 0 1px rgba(21, 24, 29, .35); }
 .idi-b:focus-visible, .idi-a:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
-.idiomas.abierta .idi-b .idi-f { box-shadow: 0 0 0 2px var(--ink); }
-.idi-l { position: absolute; top: calc(100% + 10px); right: 0; z-index: 30; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; margin: 0; padding: 0; list-style: none; }
+.idiomas.abierta .idi-b .idi-f { opacity: 1; box-shadow: 0 0 0 1.5px var(--ink); }
+.idi-l { position: absolute; top: calc(100% + 10px); right: 0; z-index: 30; display: flex; flex-direction: column; align-items: flex-end; gap: 12px; margin: 0; padding: 0; list-style: none; }
 .idi-l[hidden] { display: none; }
-.idi-l li { position: relative; animation: idi-sale .18s ease both; animation-delay: calc(var(--k) * 35ms); }
-.idi-a .idi-f { box-shadow: 0 0 0 1px rgba(21, 24, 29, .18), 0 3px 10px rgba(21, 24, 29, .2); }
-.idi-n { position: absolute; right: calc(100% + 8px); top: 50%; transform: translateY(-50%); padding: 3px 9px; border-radius: 999px; background: var(--ink); color: #fff; font-size: .8125rem; font-weight: 600; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity .12s ease; }
+.idi-l li { position: relative; animation: idi-sale .16s ease both; animation-delay: calc(var(--k) * 30ms); }
+.idi-a .idi-f { opacity: 1; box-shadow: 0 0 0 1px rgba(21, 24, 29, .14), 0 1px 4px rgba(21, 24, 29, .16); }
+.idi-n { position: absolute; right: calc(100% + 8px); top: 50%; transform: translateY(-50%); padding: 2px 8px; border-radius: 999px; background: var(--ink); color: #fff; font-size: .75rem; font-weight: 600; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity .12s ease; }
 .idi-a:hover .idi-n, .idi-a:focus-visible .idi-n { opacity: 1; }
-@keyframes idi-sale { from { opacity: 0; transform: translateY(-8px) scale(.85); } to { opacity: 1; transform: none; } }
+@keyframes idi-sale { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
 @media (prefers-reduced-motion: reduce) { .idi-l li { animation: none; } }
 @media (max-width: 760px) {
-  .idiomas { margin-left: -20px; }
-  .idi-b, .idi-a { width: 34px; height: 34px; }
+  .idiomas { margin-left: -14px; }
 }
 
 /* Con más de cuatro partidos, la tabla de temas se desplaza en horizontal y el nombre del tema queda fijo */
@@ -599,7 +601,7 @@ html:has(.dlg[open]) { overflow: hidden; }
 }
 @media (max-width: 420px) {
   .top-in { gap: 20px; }
-  .idiomas { margin-left: -10px; }
+  .idiomas { margin-left: -8px; }
   /* el subtítulo de la marca cede antes que los botones (en euskera o gallego es más largo) */
   .marca { flex: 0 1 auto; min-width: 0; }
   .marca-s { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }

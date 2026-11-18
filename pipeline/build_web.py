@@ -280,17 +280,24 @@ def main():
     print(f'{len(salida)} extractos, {len(salida) - len(sin)} clasificados, sin clasificar: {len(sin)}')
     web = raiz / 'web'
     web.mkdir(exist_ok=True)
-    publicados = []
+    versiones = {}
     for L in IDIOMAS:
         o = version(L, out, extractos, [pt for pt in PARTIDOS if pt['id'] in ids])
         if o is None:
             print(f'{L}: sin textos de la interfaz (data/i18n/{L}.json), no se publica')
             continue
-        publicados.append(L)
+        versiones[L] = o
+    publicados = list(versiones)
+    # el selector de idioma, el hreflang y el sitemap solo ofrecen los idiomas completos (todos los programas,
+    # titulares y citas en ese idioma); los demás se generan igual, para verlos, pero sin enlazar ni indexar
+    completos = [L for L, o in versiones.items() if o.pop('_completo')]
+    print(f'idiomas completos: {", ".join(completos)}')
+    for L, o in versiones.items():
+        o['idiomas'] = completos
         nombre = 'data.js' if L == 'es' else f'data-{L}.js'
         (web / nombre).write_text('window.PROGRAMAS=' + json.dumps(o, ensure_ascii=False, separators=(',', ':')) + ';\n', encoding='utf-8')
         print(f'web/{nombre}: {(web / nombre).stat().st_size // 1024} KB')
-    paginas_idioma(raiz, publicados)
+    paginas_idioma(raiz, publicados, completos)
 
 
 def version(L, out, extractos, pts):
@@ -365,6 +372,7 @@ def version(L, out, extractos, pts):
                 m[3] = c
             else:
                 sin_cita += 1
+    o['_completo'] = not (pendientes or sin_titular or sin_cita)
     if pendientes:
         print(f'  {L}: {len(pendientes)} programas aún sin traducir enteros, salen en su idioma original: {", ".join(pendientes)}')
     if sin_titular or sin_cita:
@@ -390,15 +398,25 @@ def version(L, out, extractos, pts):
     return o
 
 
-def paginas_idioma(raiz, idiomas):
-    """web/<idioma>/index.html a partir de web/index.html, y el sitemap con todas las versiones."""
+def paginas_idioma(raiz, idiomas, completos):
+    """web/<idioma>/index.html a partir de web/index.html, y el sitemap. Los hreflang y el sitemap solo llevan
+    los idiomas completos (si solo lo está el castellano, ninguno); las páginas de los demás llevan noindex."""
     web = raiz / 'web'
     base = (web / 'index.html').read_text(encoding='utf-8')
+    alt = ''
+    if len(completos) > 1:
+        alt = ''.join(f'<link rel="alternate" hreflang="{BCP[L]}" href="{SITIO}{RUTA[L]}">\n' for L in completos)
+        alt += f'<link rel="alternate" hreflang="x-default" href="{SITIO}/">\n'
+    base, n = re.subn(r'(?:<link rel="alternate" hreflang="[^"]+" href="[^"]+">\n)*(<link rel="icon")', lambda m: alt + m.group(1), base, count=1)
+    assert n == 1
+    (web / 'index.html').write_text(base, encoding='utf-8')
     for L in idiomas:
         if L == 'es':
             continue
         i18n = json.loads((data / 'i18n' / f'{L}.json').read_text(encoding='utf-8'))
         h = base.replace('<html lang="es">', f'<html lang="{BCP[L]}">')
+        if L not in completos:
+            h = h.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex">')
         h = h.replace('<script src="data.js"></script>', f'<script src="data-{L}.js"></script>')
         h = re.sub(r'(href|src)="(?!https?:|#|/)([^"]+)"', r'\1="../\2"', h)
         h = h.replace(f'<link rel="canonical" href="{SITIO}/">', f'<link rel="canonical" href="{SITIO}/{L}/">')
@@ -410,8 +428,8 @@ def paginas_idioma(raiz, idiomas):
             h = h.replace(f'>{es}<', f'>{tr}<').replace(f'"{es}"', f'"{tr}"')
         (web / L).mkdir(exist_ok=True)
         (web / L / 'index.html').write_text(h, encoding='utf-8')
-    alt = ''.join(f'\n    <xhtml:link rel="alternate" hreflang="{BCP[L]}" href="{SITIO}{RUTA[L]}"/>' for L in idiomas)
-    urls = ''.join(f'\n  <url>\n    <loc>{SITIO}{RUTA[L]}</loc>\n    <lastmod>{datetime.date.today().isoformat()}</lastmod>{alt}\n  </url>' for L in idiomas)
+    alt = ''.join(f'\n    <xhtml:link rel="alternate" hreflang="{BCP[L]}" href="{SITIO}{RUTA[L]}"/>' for L in completos) if len(completos) > 1 else ''
+    urls = ''.join(f'\n  <url>\n    <loc>{SITIO}{RUTA[L]}</loc>\n    <lastmod>{datetime.date.today().isoformat()}</lastmod>{alt}\n  </url>' for L in (completos or ['es']))
     (web / 'sitemap.xml').write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">{urls}\n</urlset>\n', encoding='utf-8')
 
 

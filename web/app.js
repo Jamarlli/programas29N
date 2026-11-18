@@ -995,9 +995,12 @@
   };
   const bandera = (id) => `<svg class="idi-f" viewBox="0 0 30 30" aria-hidden="true"><clipPath id="idi-c-${id}"><circle cx="15" cy="15" r="15"/></clipPath><g clip-path="url(#idi-c-${id})">${BANDERA[id]}</g></svg>`;
   const recordarIdioma = (id) => guardar('p29n-idioma', id);
+  // solo se ofrecen los idiomas completos (D.idiomas); si no hay ninguno más que el de la página, no hay selector
+  const COMPLETOS = Array.isArray(D.idiomas) ? D.idiomas : IDIOMAS.map((x) => x.id);
   const caja = document.getElementById('idiomas');
-  if (caja) {
-    const otros = IDIOMAS.filter((x) => x.id !== L);
+  const otros = IDIOMAS.filter((x) => x.id !== L && COMPLETOS.includes(x.id));
+  if (caja && !otros.length) caja.remove();
+  else if (caja) {
     caja.innerHTML = `<button type="button" class="idi-b" aria-expanded="false" aria-controls="idi-l" title="${esc(IDI[L].nombre)}" aria-label="${esc(t('Idioma: {x}. Cambiar de idioma', { x: IDI[L].nombre }))}">${bandera(L)}</button>
       <ul class="idi-l" id="idi-l" hidden>${otros.map((x, k) => `<li style="--k:${k}"><a class="idi-a" data-idioma="${x.id}" hreflang="${x.bcp}" lang="${x.bcp}" title="${esc(x.nombre)}" aria-label="${esc(x.nombre)}">${bandera(x.id)}<span class="idi-n">${esc(x.nombre)}</span></a></li>`).join('')}</ul>`;
     const boton = $('.idi-b', caja);
@@ -1028,7 +1031,7 @@
         if (n.startsWith('gl') || n.startsWith('eu') || n.startsWith('es')) { id = n.slice(0, 2); break; }
       }
     }
-    if (id && id !== 'es' && IDI[id]) location.replace(`${IDI[id].ruta}${location.hash}`);
+    if (id && id !== 'es' && IDI[id] && COMPLETOS.includes(id)) location.replace(`${IDI[id].ruta}${location.hash}`);
   }());
 
   /* ---------- Rutas ---------- */
