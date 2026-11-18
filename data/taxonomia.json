@@ -672,6 +672,10 @@
     {
      "id": "subir-altas",
      "nombre": "Subirlo a las rentas altas"
+    },
+    {
+     "id": "mantener",
+     "nombre": "Mantenerlo como está"
     }
    ]
   },
@@ -1010,6 +1014,10 @@
     {
      "id": "parlamento",
      "nombre": "Mantener la elección parlamentaria"
+    },
+    {
+     "id": "ciudadania",
+     "nombre": "Que los elija la ciudadanía por votación"
     }
    ]
   },
@@ -1269,6 +1277,160 @@
     {
      "id": "salvaguardas",
      "nombre": "Aplicarlo con salvaguardas y control"
+    }
+   ]
+  },
+  {
+   "id": "eje-otan",
+   "subtema": "seg-defensa",
+   "pregunta": "¿Seguir en la OTAN?",
+   "posiciones": [
+    {
+     "id": "seguir",
+     "nombre": "Seguir en la OTAN"
+    },
+    {
+     "id": "salir",
+     "nombre": "Salir de la OTAN o cerrar las bases"
+    }
+   ]
+  },
+  {
+   "id": "eje-ppr",
+   "subtema": "seg-penal",
+   "pregunta": "¿Qué hacer con la prisión permanente revisable?",
+   "posiciones": [
+    {
+     "id": "mantener-ampliar",
+     "nombre": "Mantenerla o ampliarla"
+    },
+    {
+     "id": "derogar",
+     "nombre": "Derogarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-gestacion",
+   "subtema": "san-sexual-reproductiva",
+   "pregunta": "¿Qué hacer con la gestación subrogada?",
+   "posiciones": [
+    {
+     "id": "prohibir",
+     "nombre": "Prohibirla y perseguirla"
+    },
+    {
+     "id": "regular",
+     "nombre": "Regularla"
+    }
+   ]
+  },
+  {
+   "id": "eje-cie",
+   "subtema": "inm-fronteras",
+   "pregunta": "¿Qué hacer con los CIE (centros de internamiento de extranjeros)?",
+   "posiciones": [
+    {
+     "id": "cerrar",
+     "nombre": "Cerrarlos"
+    },
+    {
+     "id": "mantener-ampliar",
+     "nombre": "Mantenerlos o ampliarlos"
+    }
+   ]
+  },
+  {
+   "id": "eje-cannabis",
+   "subtema": "san-publica-prevencion",
+   "pregunta": "¿Regular el cannabis?",
+   "posiciones": [
+    {
+     "id": "uso-adulto",
+     "nombre": "Legalizar o regular el uso adulto"
+    },
+    {
+     "id": "medicinal",
+     "nombre": "Regular el uso medicinal"
+    },
+    {
+     "id": "prohibir",
+     "nombre": "Mantener la prohibición"
+    }
+   ]
+  },
+  {
+   "id": "eje-renta-basica",
+   "subtema": "fam-pobreza",
+   "pregunta": "¿Implantar una renta básica universal?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, una renta básica universal"
+    },
+    {
+     "id": "no",
+     "nombre": "No, solo ayudas condicionadas"
+    }
+   ]
+  },
+  {
+   "id": "eje-ley-electoral",
+   "subtema": "inst-gobierno-parlamento",
+   "pregunta": "¿Cambiar la ley electoral?",
+   "posiciones": [
+    {
+     "id": "proporcional",
+     "nombre": "Hacerla más proporcional"
+    },
+    {
+     "id": "lista-mas-votada",
+     "nombre": "Que gobierne la lista más votada"
+    }
+   ]
+  },
+  {
+   "id": "eje-listas",
+   "subtema": "inst-gobierno-parlamento",
+   "pregunta": "¿Listas electorales abiertas?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, listas abiertas o desbloqueadas"
+    },
+    {
+     "id": "no",
+     "nombre": "Mantener las listas cerradas"
+    }
+   ]
+  },
+  {
+   "id": "eje-mandatos",
+   "subtema": "inst-gobierno-parlamento",
+   "pregunta": "¿Limitar los mandatos de los cargos públicos?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, limitarlos"
+    },
+    {
+     "id": "no",
+     "nombre": "No limitarlos"
+    }
+   ]
+  },
+  {
+   "id": "eje-santa-sede",
+   "subtema": "igu-laicidad",
+   "pregunta": "¿Qué hacer con los acuerdos con la Santa Sede?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Denunciarlos o derogarlos"
+    },
+    {
+     "id": "mantener",
+     "nombre": "Mantenerlos"
     }
    ]
   }

@@ -1,0 +1,1199 @@
+[
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlo como está"
+   }
+  ],
+  "n": 169,
+  "palabras": 12519,
+  "candidatos": [
+   {
+    "id": "pp-0123",
+    "partido": "pp",
+    "titular": "Revalorizar las pensiones con el IPC y reconstruir el Pacto de Toledo",
+    "marca_actual": [],
+    "texto": "**108 GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO.** Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista. Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo. Incentivaremos la jubilación activa mediante deducciones en el IRPF. Proteger a quienes han sostenido el sistema durante toda su vida exige también que quienes hoy empiezan a trabajar puedan confiar en que habrá una pensión para ellos."
+   },
+   {
+    "id": "pp-0172",
+    "partido": "pp",
+    "titular": "Reducir al 4 % el IVA de la primera vivienda para menores de 40",
+    "marca_actual": [],
+    "texto": "**153 LOS JÓVENES NO PAGARÁN IMPUESTOS EN EL MOMENTO DE ADQUIRIR SU PRIMERA VIVIENDA.** Reduciremos el IVA de la compra de primera vivienda del 10% al 4% para menores de 40 años y permitiremos que se pague de forma fraccionada al ritmo de la hipoteca. Acordaremos con las Comunidades Autónomas un Impuesto de Transmisiones Patrimoniales reducido para la primera vivienda de los jóvenes cuando esta sea usada y se permitirá igualmente pagar fraccionadamente. Ampliaremos a cuatro años el plazo para reinvertir el importe de la venta de la vivienda habitual y mantener la exención en el IRPF."
+   },
+   {
+    "id": "pp-0175",
+    "partido": "pp",
+    "titular": "Deducciones en el IRPF para inquilinos y propietarios que renueven tres años",
+    "marca_actual": [],
+    "texto": "**156 «TRES AÑOS+». EL INQUILINO QUE CUMPLE PODRÁ QUEDARSE Y EL PROPIETARIO QUE LO HAGA POSIBLE PAGARÁ MENOS.** Daremos a las familias que viven de alquiler la posibilidad de estabilidad que hoy pierden cada vez que vence su contrato. Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos, con más apoyo para quien menos gana. El propietario particular que, al vencer el contrato de una vivienda habitual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF o un crédito fiscal que compense ese esfuerzo. Las familias tendrán la tranquilidad de seguir en su casa y quien se la ofrezca verá reconocido su compromiso."
+   },
+   {
+    "id": "pp-0177",
+    "partido": "pp",
+    "titular": "Actualizar los mínimos familiares con la inflación y deducción familiar mensual reembolsable",
+    "marca_actual": [],
+    "texto": "**158 AMPLIAREMOS LOS ACTUALES MÍNIMOS FAMILIARES Y LAS AYUDAS FISCALES LLEGARÁN CADA MES A TODAS LAS FAMILIAS.** Criar a un hijo cuesta cada año más, y Hacienda lo reconoce cada vez menos. Todos los mínimos familiares se actualizarán con la inflación. Refundiremos las deducciones familiares del IRPF en una sola, reembolsable, con un único trámite y abono mensual. Ampliaremos su acceso para que llegue a todas las familias, también a las que no tengan cuota suficiente en el IRPF. Permitiremos la declaración conjunta de las parejas de hecho y adaptaremos la aplicación de los mínimos familiares a su realidad."
+   },
+   {
+    "id": "pp-0196",
+    "partido": "pp",
+    "titular": "Bajar el IRPF de rentas medias y bajas y que el SMI no tribute",
+    "marca_actual": [],
+    "texto": "**177 LAS RENTAS MEDIAS Y BAJAS, LAS FAMILIAS, LOS AUTÓNOMOS Y LOS JÓVENES PAGARÁN MENOS IRPF.** Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI, para que ningún Gobierno pueda volver a cobrar impuestos a quien menos gana por el simple hecho de no tocar una cifra."
+   },
+   {
+    "id": "pp-0197",
+    "partido": "pp",
+    "titular": "Deflactar la tarifa del IRPF para que la inflación no suba impuestos",
+    "marca_actual": [],
+    "texto": "**178 EL ESTADO NO HARÁ CAJA CON LA INFLACIÓN A COSTA DE LAS FAMILIAS.** La principal subida fiscal de los últimos años no se votó en ningún Parlamento: fue la decisión de no actualizar el IRPF mientras los precios crecían casi un 30%. Deflactaremos la tarifa y actualizaremos los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos."
+   },
+   {
+    "id": "pp-0198",
+    "partido": "pp",
+    "titular": "Reducir el IRPF a jóvenes de 18 a 35 años durante cuatro años",
+    "marca_actual": [],
+    "texto": "**179 UN JOVEN NO PAGARÁ IRPF EN EL PRIMER AÑO Y PAGARÁ MUCHO MENOS EN LOS TRES SIGUIENTES.** Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro primeros años en que paguen IRPF. La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto. Se aplicará desde la primera declaración tras la aprobación de la ley."
+   },
+   {
+    "id": "pp-0201",
+    "partido": "pp",
+    "titular": "Aprobar un Estatuto del Contribuyente con derecho al error",
+    "marca_actual": [],
+    "texto": "**182 HACIENDA CONFIARÁ EN EL CONTRIBUYENTE QUE CUMPLE.** Aprobaremos un Estatuto del Contribuyente que cambie la relación con Hacienda. Reconoceremos el derecho al error y garantizaremos que ningún cambio de criterio desfavorable se aplique con efecto retroactivo. Simplificaremos el sistema tributario y reforzaremos el Consejo para la Defensa del Contribuyente y las garantías institucionales para ofrecer mayor seguridad al contribuyente y hacer más previsible la política tributaria. Mediremos y evaluaremos los resultados de estas medidas para comprobar su eficacia."
+   },
+   {
+    "id": "pp-0204",
+    "partido": "pp",
+    "titular": "Las comunidades decidirán sus impuestos y podrán bajarlos cuanto quieran",
+    "marca_actual": [],
+    "texto": "**185 NINGÚN GOBIERNO OBLIGARÁ A UNA COMUNIDAD A SUBIR IMPUESTOS.** Las Comunidades Autónomas seguirán decidiendo con libertad sobre sus impuestos propios y cedidos, dentro de sus competencias, y podrán bajarlos cuanto quieran."
+   },
+   {
+    "id": "pp-0244",
+    "partido": "pp",
+    "titular": "Deducción en el IRPF por gastos de enfermedades graves y para celíacos",
+    "marca_actual": [],
+    "texto": "**225 ALIVIAREMOS EL COSTE DE LA ENFERMEDAD PARA LOS PACIENTES Y SUS FAMILIAS.** Las familias con un enfermo de cáncer, ELA u otra enfermedad grave se deducirán en el IRPF los gastos acreditados derivados del tratamiento y los cuidados. Mantendremos la prestación CUME para el cuidado de hijos con cáncer u otra enfermedad grave y su continuidad más allá de los 26 años en los supuestos previstos. Extenderemos a los funcionarios las mejoras de protección. Por ley, las personas celíacas tendrán una deducción en el IRPF."
+   },
+   {
+    "id": "psoe-0080",
+    "partido": "psoe",
+    "titular": "Eximir en el IRPF las ganancias por vender vivienda a proveedores sociales",
+    "marca_actual": [],
+    "texto": "**46. Incentivar la incorporación de viviendas asequibles** , quedando exentas en el IRPF las ganancias patrimoniales derivadas de la transmisión de viviendas a estos proveedores, equiparando su tratamiento fiscal al de las transmisiones realizadas a entidades públicas destinadas al alquiler social y asequible."
+   },
+   {
+    "id": "psoe-0135",
+    "partido": "psoe",
+    "titular": "Balance: impuestos extraordinarios a banca y energéticas y menos IRPF a rentas bajas",
+    "marca_actual": [],
+    "texto": "Además, hemos avanzado hacia una fiscalidad más justa, en la que quienes más tienen contribuyen más y quienes menos tienen pagan menos. Hemos aprobado impuestos extraordinarios a la banca y a las grandes energéticas, aunque las derechas derogaron la prórroga del segundo en 2025. Hemos elevado al 30% la tributación de las rentas del ahorro superiores a 300.000 euros y adoptado medidas para evitar las bonificaciones autonómicas del impuesto sobre el patrimonio. Al mismo tiempo, hemos mejorado la fiscalidad de las rentas bajas: una persona que cobra el SMI ahorra hoy 780 euros anuales en IRPF respecto al último Gobierno del PP, descontando la inflación.\n\nLos resultados de estas políticas son claros. Desde 2018, la renta real de los hogares ha crecido un 11%, más que en Francia, Italia o Alemania. El porcentaje de personas que llega con dificultades a fin de mes ha caído del 16,7% al 12,1%. La desigualdad y el riesgo de pobreza han alcanzado mínimos de la serie histórica, porque los ingresos de quienes menos tienen han crecido mucho más rápido que los ingresos de los más ricos. Y hemos reducido la brecha de género en más de cinco puntos."
+   },
+   {
+    "id": "psoe-0140",
+    "partido": "psoe",
+    "titular": "Deducción estatal en el IRPF que se active con las subidas de precios",
+    "marca_actual": [],
+    "texto": "**88. Deducción estatal en el IRPF condicional a la evolución de los precios.** Crearemos un mecanismo para activar una deducción en el IRPF en contextos de subidas de precios. Tendrá un diseño progresivo para beneficiar a rentas medias y bajas, lo que permitirá concentrar el esfuerzo fiscal en quienes más lo necesitan y asegurar su compatibilidad con los objetivos de estabilidad presupuestaria."
+   },
+   {
+    "id": "psoe-0191",
+    "partido": "psoe",
+    "titular": "Una fiscalidad justa con más impuestos a los ultrarricos",
+    "marca_actual": [],
+    "texto": "Una fiscalidad justa es la única forma de garantizar que los beneficios del crecimiento económico se redistribuyan entre el conjunto de la sociedad. Y que todos se beneficien de la prosperidad generada. Ya sea con más impuestos a los ultrarricos, una mejor colaboración entre países en la lucha contra la evasión fiscal, o un sistema fiscal más eficiente. Estas medidas permiten alcanzar dicho objetivo.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0196",
+    "partido": "psoe",
+    "titular": "Convertir el mínimo por descendiente del IRPF en crédito fiscal reembolsable",
+    "marca_actual": [],
+    "texto": "**134. Mejorar la fiscalidad para las rentas medias bajas.** Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual. Y seguiremos exonerando de tributación a las rentas más bajas, asegurando que las subidas del SMI no impliquen incrementos de impuestos."
+   },
+   {
+    "id": "vox-0002",
+    "partido": "vox",
+    "titular": "Rebaja masiva de impuestos: IRPF, IVA, Sociedades y cuota cero de autónomos",
+    "marca_actual": [],
+    "texto": "2. Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.\n - Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.\n - Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.\n - Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.\n - Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.\n - Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas."
+   },
+   {
+    "id": "vox-0076",
+    "partido": "vox",
+    "titular": "Promoción de la cultura nacional, patrimonio y nueva Ley de Mecenazgo",
+    "marca_actual": [],
+    "texto": "76. Promoción de la cultura nacional. Afirmación y difusión de la historia común española. Conservación y rehabilitación del patrimonio nacional, con especial atención al medio rural, sus iglesias y monumentos. Protección de nuestro patrimonio histórico frente al vandalismo. Reducción de impuestos para el arte y los espectáculos en vivo. Nueva Ley de Mecenazgo para elevar las deducciones del IRPF."
+   },
+   {
+    "id": "fa-0006",
+    "partido": "fa",
+    "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+    "marca_actual": [],
+    "texto": "4. Una reforma fiscal que pague el 1 % para que se beneficie el 99 %. Los derechos se sostienen con justicia tributaria. Nuestra reforma fiscal hará que el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos—, mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía."
+   },
+   {
+    "id": "fa-0031",
+    "partido": "fa",
+    "titular": "Gravar los pisos turísticos con IVA del 21 % y recargo de IBI",
+    "marca_actual": [],
+    "texto": "- La actividad económica de los pisos turísticos pasará a tributar al tipo general del IVA del 21 % y perderán toda deducción en el Impuesto sobre Sociedades e IRPF (gastos financieros, reformas y amortización), se elevará al 20 % la imputación de rentas en IRPF por periodos no ocupados y sufrirán un recargo en el IBI de hasta el 150 %."
+   },
+   {
+    "id": "fa-0060",
+    "partido": "fa",
+    "titular": "Impuesto negativo de hasta 300 € al mes para hogares hipotecados",
+    "marca_actual": [],
+    "texto": "- Crearemos un escudo hipotecario de protección que otorgará una deducción en el IRPF en forma de impuesto negativo de hasta 300 € al mes para familias con ingresos inferiores a 3 IPREM (21.600 €/año) cuya cuota hipotecaria absorba más del 40 % de sus ingresos netos."
+   },
+   {
+    "id": "fa-0096",
+    "partido": "fa",
+    "titular": "Prestación Universal por Crianza de 200 € al mes por menor",
+    "marca_actual": [],
+    "texto": "- Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo. La prestación se configurará como un derecho propio del menor, inembargable y desvinculado de los ingresos o situación laboral de los progenitores. La tramitaremos y abonaremos mensualmente de forma automática como deducción reembolsable del IRPF abonada por la Agencia Tributaria desde el momento del nacimiento."
+   },
+   {
+    "id": "fa-0309",
+    "partido": "fa",
+    "titular": "Que los patrimonios de más de un millón tributen como mínimo un 2 %",
+    "marca_actual": [],
+    "texto": "- Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %. Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %. El tipo impositivo actual del impuesto aumentará 2 puntos sobre la escala actual y 3 puntos a partir de los 50 millones. Para ello, reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para reducir de tres a un millón de euros el patrimonio neto a partir del cual comienza a operar, sin perjuicio del mínimo exento de 700.000 euros. Para calcular el límite conjunto con el IRPF y el Impuesto sobre el Patrimonio se tendrá en cuenta la cuota efectivamente pagada en Patrimonio y no la cuota íntegra. El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio, con deducción de las cuotas efectivamente satisfechas por este último y con el objetivo de impedir que las bonificaciones autonómicas vacíen la tributación de las grandes fortunas."
+   },
+   {
+    "id": "fa-0316",
+    "partido": "fa",
+    "titular": "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros",
+    "marca_actual": [],
+    "texto": "- Bajaremos el IRPF a las rentas del trabajo de hasta 27.000 euros (1,5 veces el SMI). Aumentaremos la reducción por rendimientos del trabajo para que quien cobre el salario mínimo no pague IRPF y extenderemos esa rebaja, de forma decreciente, hasta los 27.000 euros."
+   },
+   {
+    "id": "fa-0317",
+    "partido": "fa",
+    "titular": "Más tramos del IRPF y un marginal del 52 % desde 300.000 euros",
+    "marca_actual": [],
+    "texto": "- Ampliaremos el número de tramos del IRPF a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros."
+   },
+   {
+    "id": "fa-0318",
+    "partido": "fa",
+    "titular": "Eliminar el régimen de desplazados y la deducción por planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "- Eliminaremos el régimen fiscal especial de los trabajadores desplazados y las deducciones por planes de pensiones privados individuales."
+   },
+   {
+    "id": "fa-0319",
+    "partido": "fa",
+    "titular": "Incentivos del IRPF solo para alquiler indefinido y un 5 % bajo el índice",
+    "marca_actual": [],
+    "texto": "- Reservaremos los incentivos del IRPF al alquiler asequible y estable. Limitaremos las reducciones y deducciones del IRPF sobre rendimientos del alquiler de vivienda a los arrendadores que cumplan simultáneamente dos requisitos: que ofrezcan contratos de arrendamiento indefinidos y que los precios del alquiler de la vivienda estén como mínimo un 5 % por debajo del precio del índice estatal."
+   },
+   {
+    "id": "fa-0333",
+    "partido": "fa",
+    "titular": "Prorrogar tres años la deducción del IRPF por rehabilitación energética de vivienda",
+    "marca_actual": [],
+    "texto": "- Prorrogaremos y ampliaremos durante tres años la deducción en el IRPF por obras de rehabilitación energética de la vivienda habitual, como aislamientos o instalaciones de autoconsumo individual o colectivo."
+   },
+   {
+    "id": "fa-0343",
+    "partido": "fa",
+    "titular": "Revisar los beneficios fiscales, suprimir los injustificados y publicar su coste",
+    "marca_actual": [],
+    "texto": "- Revisaremos los beneficios fiscales y haremos visible su coste. Evaluaremos deducciones, bonificaciones y exenciones según sus objetivos y sus beneficiarios, suprimiendo las que carezcan de justificación o refuercen la desigualdad. Publicaremos su coste y su distribución por renta, patrimonio y tamaño empresarial, junto a una explicación accesible del destino de los impuestos."
+   },
+   {
+    "id": "fa-0477",
+    "partido": "fa",
+    "titular": "Ayudas de hasta 8.000 euros para electrificar vehículos de autónomos y agricultores",
+    "marca_actual": [],
+    "texto": "- Plan Estatal MOVES para autónomos y agricultores: Ayudas directas de hasta 8.000 € por vehículo y deducción en IRPF de hasta 25.000 € para sustituir por eléctricos vehículos antiguos de reparto urbano y actividad agraria."
+   },
+   {
+    "id": "fa-0720",
+    "partido": "fa",
+    "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+    "marca_actual": [],
+    "texto": "- Las rebajas fiscales autonómicas no las pagará el resto del país. El Impuesto sobre el Patrimonio se computará en el sistema por lo que se recaudaría sin las bonificaciones de cada comunidad, y el de Sucesiones y Donaciones por un valor normativo actualizado. Además, fijaremos por ley un mínimo común de tributación en ambos impuestos en todo el territorio. Las deducciones autonómicas del IRPF dejarán de poder aplicarse para beneficiar a los que más tienen. Quien regale impuestos a los más ricos lo hará con sus propios recursos."
+   },
+   {
+    "id": "fa-0745",
+    "partido": "fa",
+    "titular": "Extender a todos los municipios la participación en el IRPF",
+    "marca_actual": [],
+    "texto": "- Extenderemos a todos los municipios la participación en el IRPF, hoy limitada a algunos, combinando un tramo territorializado con otro de nivelación que tenga en cuenta la población, la vulnerabilidad, el envejecimiento, la dispersión, la centralidad y la población estacional."
+   },
+   {
+    "id": "compromis-0035",
+    "partido": "compromis",
+    "titular": "Sustituir en tres años los módulos por una Estimación Directa Especial",
+    "marca_actual": [],
+    "texto": "- Defensarem l'eliminació progressiva del sistema d'estimació objectiva (sistema de mòduls), implantant un període transitori, durant el qual aquest model s'anirà substituint progressivament per un nou règim fiscal d'Estimació Directa Especial, fins la seua eliminació definitiva en un període de 3 anys."
+   },
+   {
+    "id": "compromis-0042",
+    "partido": "compromis",
+    "titular": "Suprimir toda desgravación fiscal a los planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "- Suprimirem tota desgravació fiscal als plans de pensions privats per evitar la competència amb el sistema públic de pensions ."
+   },
+   {
+    "id": "compromis-0044",
+    "partido": "compromis",
+    "titular": "Compensar a pensionistas que tributaron doble por mutualidades laborales antes de 1979",
+    "marca_actual": [],
+    "texto": "- Promourem una compensació fora de l’actual procediment de l’IRPF per a aquelles persones pensionistes que van tributar doblement per aportacions a mutualitats laborals obligatòries abans de 1979, a les quals l’AEAT no pot compensar-les amb devolucions degut a que, pels seus baixos ingressos no se’ls han practicat retencions."
+   },
+   {
+    "id": "compromis-0139",
+    "partido": "compromis",
+    "titular": "Deflactar el IRPF a las rentas inferiores a 30.000 €",
+    "marca_actual": [],
+    "texto": "- Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació."
+   },
+   {
+    "id": "compromis-0150",
+    "partido": "compromis",
+    "titular": "Simplificar tributos para reducir la elusión fiscal",
+    "marca_actual": [],
+    "texto": "- Simplificarem tributs per tal de reduir l’elusió fiscal."
+   },
+   {
+    "id": "compromis-0153",
+    "partido": "compromis",
+    "titular": "Gravar en el IRPF la tenencia injustificada de viviendas vacías",
+    "marca_actual": [],
+    "texto": "- Gravarem a l’IRPF la tinença d’habitatges buits injustificadament."
+   },
+   {
+    "id": "compromis-0413",
+    "partido": "compromis",
+    "titular": "Deducción en el IRPF para jóvenes de alquiler con rentas de hasta 33.000 euros",
+    "marca_actual": [],
+    "texto": "- Establirem una deducció estatal en l'IRPF per a les persones joves que viuen de lloguer, amb rendes anuals de fins a 33.000 euros, per reduir l'esforç econòmic que suposa accedir a un habitatge i facilitar l'emancipació juvenil."
+   },
+   {
+    "id": "salf-0018",
+    "partido": "salf",
+    "titular": "Nadie pagará IRPF por los primeros 35.000 euros",
+    "marca_actual": [],
+    "texto": "3. **Impuestos** — Nadie paga IRPF por los primeros 35.000 euros."
+   },
+   {
+    "id": "salf-0023",
+    "partido": "salf",
+    "titular": "Cuña fiscal al 29 %, contrato único y cuota cero de autónomos",
+    "marca_actual": [],
+    "texto": "8. **Empleo** — Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos."
+   },
+   {
+    "id": "salf-0047",
+    "partido": "salf",
+    "titular": "Mínimo exento de IRPF de 50.000 euros diez años tras la mili",
+    "marca_actual": [],
+    "texto": "8. **La mili: quien sirve a España paga menos impuestos.** Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. _Coste: ≈ 250 M€/año con 30.000 plazas anuales._\n - **50.000 €** libres de IRPF durante diez años para quien haga la mili"
+   },
+   {
+    "id": "salf-0055",
+    "partido": "salf",
+    "titular": "Libertad económica: nadie paga IRPF por los primeros 35.000 euros",
+    "marca_actual": [],
+    "texto": "**Libertad económica, sin dejar a nadie atrás. Nadie paga IRPF por los primeros 35.000 euros.**\n\n**20 de agosto** Día de la Liberación Fiscal: hasta entonces trabajas para el Estado\n\n**58 €** solo 58 de cada 100 € que te quitan en impuestos llegan a tu bolsillo\n\n**+10 %** de IRPF recaudado en 2025 sin subir un solo tipo"
+   },
+   {
+    "id": "salf-0056",
+    "partido": "salf",
+    "titular": "Mínimo exento de IRPF de 35.000 euros para todos en 2030",
+    "marca_actual": [],
+    "texto": "1. **35.000 euros libres de IRPF para todos.** Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030. _Coste: ≈ 43.000 M€/año en 2030. Ver 'Cómo se paga'._\n - **+4.400 €** al año para un sueldo de 28.000 €"
+   },
+   {
+    "id": "salf-0057",
+    "partido": "salf",
+    "titular": "Sumar 5.000 euros al mínimo exento por cada hijo y progenitor",
+    "marca_actual": [],
+    "texto": "2. **5.000 euros más por cada hijo, para el padre y para la madre.** Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno. El Estado que cobra por tener hijos no puede hablar de natalidad. _Coste: ≈ 5.500 M€/año._\n - **+5.000 €** por hijo, para cada progenitor"
+   },
+   {
+    "id": "salf-0058",
+    "partido": "salf",
+    "titular": "Actualizar cada año con el IPC la tarifa, mínimos y deducciones del IRPF",
+    "marca_actual": [],
+    "texto": "3. **Fin de la subida de impuestos por inflación.** Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley. La recaudación subió un 10 % en 2025 sin tocar un tipo: eso es una subida encubierta y se acaba.\n - **3.000M€** al año que hoy te quitan sin votarlo"
+   },
+   {
+    "id": "salf-0064",
+    "partido": "salf",
+    "titular": "Carga de la prueba para Hacienda y renta en una página",
+    "marca_actual": [],
+    "texto": "9. **Hacienda demuestra. Tú no pruebas tu inocencia.** Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.\n - **30 días** para liquidar"
+   },
+   {
+    "id": "salf-0065",
+    "partido": "salf",
+    "titular": "Exigir tres quintos del Congreso para subir impuestos y factura fiscal anual",
+    "marca_actual": [],
+    "texto": "10. **Tres quintos para subir impuestos. Y tu factura fiscal cada año.** Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.\n - **42 €** de cada 100 que cuestas se queda el Estado"
+   },
+   {
+    "id": "salf-0067",
+    "partido": "salf",
+    "titular": "Techo constitucional a la presión fiscal y a la deuda, con delito por superarlo",
+    "marca_actual": [],
+    "texto": "12. **Encadenar a los políticos: techo constitucional a los impuestos y a la deuda.** Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.\n - **Delito** superar el techo de impuestos y deuda"
+   },
+   {
+    "id": "salf-0071",
+    "partido": "salf",
+    "titular": "Lema contra que el Estado se quede más de la mitad del dinero",
+    "marca_actual": [],
+    "texto": "> **«Se acabó que vagos y parásitos te roben más de la mitad de tu dinero»**"
+   },
+   {
+    "id": "salf-0131",
+    "partido": "salf",
+    "titular": "Bajar la cuña fiscal al 29 % y cotización cero en el salario mínimo",
+    "marca_actual": [],
+    "texto": "1. **Cuña fiscal del 41 al 29 %.** Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. _Coste: ≈ 2.600 M€/año._\n - **+80 €** netos al mes en el salario mínimo"
+   },
+   {
+    "id": "salf-0159",
+    "partido": "salf",
+    "titular": "Ceuta y Melilla plaza franca: 0 % de IRPF, Sociedades y cotizaciones",
+    "marca_actual": [],
+    "texto": "5. **Ceuta y Melilla, plaza franca: 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones. Para siempre.** Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. _Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 de cotizaciones): menos de lo que España regala en ayuda exterior en un mes._\n - **0 %** IRPF, Sociedades y cotizaciones en Ceuta y Melilla"
+   },
+   {
+    "id": "salf-0160",
+    "partido": "salf",
+    "titular": "Deducción de 1.000 euros de IRPF para residentes en Canarias",
+    "marca_actual": [],
+    "texto": "6. **Canarias: 1.000 euros menos de IRPF por vivir en las islas. Y la ZEC al 0 %.** Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios. Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas. Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas. La distancia a la Península no puede ser también una factura fiscal. _Coste: ≈ 880 M€/año (870 de IRPF, 11 de la ZEC)._\n - **−1.000 €** de IRPF al año por residir en Canarias"
+   },
+   {
+    "id": "salf-0162",
+    "partido": "salf",
+    "titular": "Duplicar el plus de residencia en Canarias, Ceuta y Melilla, exento de IRPF",
+    "marca_actual": [],
+    "texto": "8. **Quien defiende Canarias, Ceuta y Melilla cobra el doble de plus de residencia, libre de IRPF.** La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. _Coste: ≈ 150 M€/año._\n - **×2** plus de residencia, libre de IRPF"
+   },
+   {
+    "id": "pacma-0040",
+    "partido": "pacma",
+    "titular": "Incluir la protección animal en la casilla del 0,7 % del IRPF",
+    "marca_actual": [],
+    "texto": "Otra propuesta de PACMA, que ya presentamos formalmente al Gobierno, es la **inclusión de la protección animal como una de las actividades consideradas de interés social a tener en cuenta en la determinación de las bases reguladoras de las ayudas financiadas con el porcentaje fijado del rendimiento del IRPF**, el conocido 0,7%, que los y las contribuyentes deciden destinar a actividades de interés general consideradas de interés social, marcando la casilla al efecto al realizar su declaración de la Renta."
+   },
+   {
+    "id": "pacma-0130",
+    "partido": "pacma",
+    "titular": "Deducir en el IRPF el 10 % del gasto veterinario, hasta 500 €",
+    "marca_actual": [],
+    "texto": "Consideramos fundamental **aliviar la carga financiera de las familias interespecie**, para lo que planteamos la introducción de **deducciones en el Impuesto sobre la Renta de las Personas Físicas (IRPF)** estableciendo un límite de renta y permitiendo deducciones en la cuota a pagar, con la colaboración de los centros veterinarios, de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales."
+   },
+   {
+    "id": "pacma-0369",
+    "partido": "pacma",
+    "titular": "Bonificar IRPF e IBI al alquiler barato y rebajar ITP e IVA",
+    "marca_actual": [],
+    "texto": "- Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona; reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual."
+   },
+   {
+    "id": "fo-0039",
+    "partido": "fo",
+    "titular": "Diagnóstico: un sistema fiscal que castiga al que trabaja y favorece a los ricos",
+    "marca_actual": [],
+    "texto": "Los impuestos en España son un verdadero negocio para políticos y empresarios que aprovechan su posición de privilegio respecto al resto de españoles. La financiación de chiringuitos, instituciones sin oficio ni beneficio y negocios personales bebe de un sistema impositivo que castiga al que trabaja y asfixia a los que menos tienen.\n\nLa carga fiscal que sufren los trabajadores, los autónomos y las pequeñas empresas, contrasta con la situación de privilegio que vive una oligarquía parasitaria, que, además, en muchos casos tributan fuera de España. Se trata de un sistema fiscal diseñado para los ricos, y que no tiene en cuenta las necesidades de la gran mayoría de españoles, ni mucho menos los retos que tenemos delante como país.\n\nTanto la izquierda como la derecha mantienen un sistema totalmente insostenible que les reporta grandes beneficios a ellos y sus socios. Y, como si esto fuera poco, los políticos de la “nueva izquierda”, desde sus butacas promueven una criminalización constante hacia los autónomos, tratando de separar su lucha de la del resto de trabajadores. La realidad es que el 80% de los autónomos ni siquiera tienen trabajadores a su cargo, pagan por trabajar y no pueden ponerse enfermos. Ellos también son trabajadores."
+   },
+   {
+    "id": "fo-0040",
+    "partido": "fo",
+    "titular": "Renovar el sistema fiscal con un Estado que priorice a los trabajadores",
+    "marca_actual": [],
+    "texto": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos. El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.\n\nPor estas razones, creemos que es necesario implementar las siguientes medidas:"
+   },
+   {
+    "id": "fo-0041",
+    "partido": "fo",
+    "titular": "Bajar el IRPF a las rentas bajas y subirlo a las más altas",
+    "marca_actual": [],
+    "texto": "1. Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos."
+   },
+   {
+    "id": "mundo-0073",
+    "partido": "mundo",
+    "titular": "Un sistema fiscal progresivo en el que contribuya más quien más tiene",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo\n\n_Los impuestos son el precio de vivir en una sociedad que cuida de todas las personas. Hoy no paga más quien más tiene: las rentas del capital tributan menos que las del trabajo y las grandes fortunas encuentran mil vías para eludir. Proponemos un sistema progresivo de verdad, que persiga el fraude y los paraísos fiscales y garantice que quien más tiene contribuya en proporción._"
+   },
+   {
+    "id": "mundo-0074",
+    "partido": "mundo",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+   },
+   {
+    "id": "mundo-0077",
+    "partido": "mundo",
+    "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+    "marca_actual": [],
+    "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+   },
+   {
+    "id": "mundo-0078",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+   },
+   {
+    "id": "mundo-0081",
+    "partido": "mundo",
+    "titular": "Converger la presión fiscal (37,1 % del PIB) con la zona euro en 2030",
+    "marca_actual": [],
+    "texto": "- **Presión fiscal** — 37,1 % del PIB (Eurostat · 2024) — Meta: Converger con la media de la zona euro, con más progresividad — Plazo: 2030"
+   },
+   {
+    "id": "fe-0097",
+    "partido": "fe",
+    "titular": "Expropiar suelo rústico inactivo y exención de IRPF cinco años a nuevos residentes",
+    "marca_actual": [],
+    "texto": "- 8.4. Así mismo, proponemos una Ley de Retorno e Industrialización del Suelo Comunal y Rústico Inactivo, que audite y expropie el usufructo por inactividad de terrenos para destinarlos al Plan de Reindustrialización Nacional y cree la figura de \"Estatus de Residente de Alta Prioridad Demográfica\", destinada a los nuevos trabajadores españoles de los sectores primario y secundario en estas zonas, con rebajas en las cotizaciones y exenciones en el pago de IRPF los cinco primeros años, así como acceso prioritario a vivienda social rehabilitada en estas zonas a precios testimoniales."
+   },
+   {
+    "id": "fe-0104",
+    "partido": "fe",
+    "titular": "Crear más tramos impositivos para asegurar la progresividad",
+    "marca_actual": [],
+    "texto": "- 9.7. Revisión impositiva. Creación de más tramos impositivos para asegurar la progresividad del devengo de los impuestos."
+   },
+   {
+    "id": "fe-0106",
+    "partido": "fe",
+    "titular": "Deflactar y bajar progresivamente el IRPF",
+    "marca_actual": [],
+    "texto": "- 9.9. Deflactación inicial conforme al porcentaje de inflación real y bajada progresiva del Impuesto sobre la Renta de las Personas Físicas. Nada más injusto que gravar a los trabajadores españoles en sus quehaceres diarios."
+   },
+   {
+    "id": "fe-0109",
+    "partido": "fe",
+    "titular": "Introducir el «coeficiente familiar» en la tributación de los ingresos",
+    "marca_actual": [],
+    "texto": "- 9.12. Introducción del llamado \"coeficiente familiar\": el coeficiente es crucial a favor de las madres de familia que optan por renunciar a su carrera profesional para centrarse en el cuidado de sus hijos. Con el coeficiente familiar, los ingresos se gravarían de la misma manera (más favorable) tanto cuando ambos cónyuges trabajan como cuando sólo trabaja un miembro de la familia."
+   },
+   {
+    "id": "autonomos-0003",
+    "partido": "autonomos",
+    "titular": "Cuota cero de autónomos cuando los ingresos no alcancen el SMI",
+    "marca_actual": [],
+    "texto": "01. **Cuota Cero automática cuando los ingresos no alcancen el SMI** — Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa.\n - **Viabilidad:** _Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo._"
+   },
+   {
+    "id": "autonomos-0011",
+    "partido": "autonomos",
+    "titular": "Bonificar el 100 % de la cotización del primer empleado durante un año",
+    "marca_actual": [],
+    "texto": "09. **Bono Primer Empleado: bonificación del 100 % de cotización el primer año** — Bonificación íntegra de la cuota empresarial a la Seguridad Social durante los primeros doce meses para cualquier autónomo persona física o microempresa que contrate de forma indefinida a su primer trabajador asalariado, manteniendo un 50 % de reducción durante el segundo año.\n - **Viabilidad:** _Es viable y autofinanciable porque en España existen casi 2 millones de autónomos sin asalariados. Si apenas un 5 % da el paso de contratar, se crean 100.000 empleos netos que ahorran prestaciones por desempleo y generan recaudación directa vía IRPF y consumo._"
+   },
+   {
+    "id": "autonomos-0012",
+    "partido": "autonomos",
+    "titular": "Deducción plena en IRPF e IVA de los gastos afectos al negocio",
+    "marca_actual": [],
+    "texto": "10. **Deducción plena y objetiva de gastos afectos al negocio** — Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora.\n - **Viabilidad:** _Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada._"
+   },
+   {
+    "id": "autonomos-0018",
+    "partido": "autonomos",
+    "titular": "Eliminar la retención del 19 % en el alquiler de locales a autónomos",
+    "marca_actual": [],
+    "texto": "16. **Eliminación de retenciones en alquileres de locales comerciales** — Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales.\n - **Viabilidad:** _Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación final del propietario en su IRPF o Impuesto de Sociedades, reduciendo errores formales y sanciones innecesarias._"
+   },
+   {
+    "id": "autonomos-0019",
+    "partido": "autonomos",
+    "titular": "Recuperar la deducción estatal en el IRPF por alquiler de vivienda habitual",
+    "marca_actual": [],
+    "texto": "17. **Deducción estatal por alquiler de vivienda habitual y local profesional** — Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas, extendiendo un tramo deducible específico cuando parte de la vivienda esté afecta declaradamente al teletrabajo o actividad profesional.\n - **Viabilidad:** _Es viable porque incentiva la declaración oficial de los contratos de arrendamiento frente al mercado sumergido, compensando parte del coste fiscal mediante el afloramiento de rentas inmobiliarias no declaradas._"
+   },
+   {
+    "id": "autonomos-0024",
+    "partido": "autonomos",
+    "titular": "Reducciones en IRPF por planes de pensiones hasta 5.000 € y cuenta ahorro vivienda",
+    "marca_actual": [],
+    "texto": "22. **Incentivos fiscales al ahorro privado y a la previsión complementaria** — Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos.\n - **Viabilidad:** _Es viable porque fomenta el ahorro nacional a largo plazo, reduce la dependencia futura del sistema público de pensiones y facilita que los jóvenes acumulen la entrada para su primera vivienda._"
+   },
+   {
+    "id": "autonomos-0026",
+    "partido": "autonomos",
+    "titular": "Umbral único de 22.000 € para declarar la Renta con varios pagadores",
+    "marca_actual": [],
+    "texto": "24. **Eliminación de penalizaciones fiscales por tener dos o más pagadores** — Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales.\n - **Viabilidad:** _Es viable mediante un simple ajuste técnico en el Reglamento del IRPF y en las tablas de retención, evitando que trabajadores precarios o en pluriempleo sufran liquidaciones inesperadas en la Renta._"
+   },
+   {
+    "id": "autonomos-0028",
+    "partido": "autonomos",
+    "titular": "Rebajar dos puntos las cotizaciones empresariales en empresas de menos de 50 trabajadores",
+    "marca_actual": [],
+    "texto": "26. **Reducción progresiva de las cotizaciones sociales a cargo de la empresa** — Rebaja escalonada de dos puntos en las cotizaciones empresariales por contingencias comunes para pymes y autónomos con menos de 50 trabajadores, vinculada al mantenimiento del empleo indefinido.\n - **Viabilidad:** _Es viable porque España soporta una de las cuñas fiscales sobre el trabajo más altas de la OCDE; reducir el coste laboral no salarial incentiva nuevas contrataciones que amplían el número total de cotizantes._"
+   },
+   {
+    "id": "autonomos-0069",
+    "partido": "autonomos",
+    "titular": "Deducción del 20 % en el IRPF por gafas, audífonos, ortodoncia y prótesis",
+    "marca_actual": [],
+    "texto": "67. **Deducción del 20 % en IRPF por gafas, audífonos, ortodoncia y prótesis** — Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica (salud bucodental, óptica, audífonos y prótesis ortopédicas) mediante factura médica.\n - **Viabilidad:** _Es viable y fomenta la facturación transparente en clínicas dentales y ópticas, mejorando la calidad de vida de mayores, niños y trabajadores._"
+   },
+   {
+    "id": "podemos-0058",
+    "partido": "podemos",
+    "titular": "Subir el IRPF a las rentas de más de 60.000 euros",
+    "marca_actual": [],
+    "texto": "48. **Reforma del IRPF para que las rentas más altas contribuyan más.** Reformaremos la escala estatal del IRPF sobre la base imponible general para reforzar la progresividad fiscal, reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales: un 23 % entre 60.000 y 99.000 € un 24 % entre 100.000 y 199.999 euros; un 25,5 % entre 200.000 y 299.999 euros; un 27 % entre 300.000 y 499.999 euros, y un 28,5 % a partir de 500.000 euros. Llevaremos a cabo una reforma para que los perceptores de rentas inferiores al SMI no tributen ni sean objeto de retención."
+   },
+   {
+    "id": "podemos-0059",
+    "partido": "podemos",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "49. **Equiparación fiscal de las rentas del capital y del trabajo.** Reformaremos el IRPF para equiparar progresivamente, en un plazo máximo de una legislatura, los tipos impositivos de los rendimientos del capital a los de los rendimientos del trabajo, poniendo fin al trato fiscal más favorable de las rentas procedentes del patrimonio frente a las obtenidas mediante el trabajo. Avanzaremos así hacia un sistema fiscal más justo y redistributivo."
+   },
+   {
+    "id": "podemos-0060",
+    "partido": "podemos",
+    "titular": "Eliminar las desgravaciones del IRPF por planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "50. **Eliminar por completo las desgravaciones al IRPF por la suscripción de planes de pensiones privados.** Eliminaremos las desgravaciones al IRPF por la suscripción de planes de pensiones incluyendo los planes de empleo de las empresas, que no dejan de ser otro esquema para la privatización de las pensiones."
+   },
+   {
+    "id": "podemos-0061",
+    "partido": "podemos",
+    "titular": "Derogar la «Ley Beckham»",
+    "marca_actual": [],
+    "texto": "51. **Derogar por completo la así llamada «Ley Beckham».** Derogaremos la «Ley Beckham» que permite a quienes se trasladan a trabajar a España tributar durante seis años mucho menos que los contribuyentes ordinarios."
+   },
+   {
+    "id": "podemos-0064",
+    "partido": "podemos",
+    "titular": "Cuadruplicar el IRPF de rentas imputadas y gravar estatalmente las viviendas vacías",
+    "marca_actual": [],
+    "texto": "54. **Impuestos a las viviendas vacías.** Modificaremos la tributación de las viviendas vacías cuadruplicando el tipo de IRPF aplicable a las rentas imputadas de viviendas que no constituyan vivienda del contribuyente. Además, estableceremos un impuesto estatal a las viviendas vacías de igual cuantía que el IBI con recargo que pueden aplicar los ayuntamientos y será deducible lo abonado por este, para evitar que los municipios no apliquen esta medida."
+   },
+   {
+    "id": "podemos-0068",
+    "partido": "podemos",
+    "titular": "Derogar los beneficios fiscales del IRPF a los caseros",
+    "marca_actual": [],
+    "texto": "58. **Eliminar los regalos fiscales a los propietarios de viviendas.** Derogaremos los beneficios fiscales aplicados en el IRPF a los caseros para desincentivar la inversión especulativa en vivienda y movilizar todas esas viviendas para bajar los precios."
+   },
+   {
+    "id": "podemos-0073",
+    "partido": "podemos",
+    "titular": "Reformar el REF de Canarias para que las grandes empresas paguen más",
+    "marca_actual": [],
+    "texto": "63. **Una fiscalidad justa para Canarias.** Como región ultraperiférica de la Unión Europea, Canarias cuenta en la actualidad con un Régimen Económico y Fiscal (REF) que consagra una enorme desigualdad en lo relativo al sistema fiscal de las islas: mientras las personas autónomas y las PYMES pagan en torno al 20% de sus ingresos en concepto de impuestos, las grandes empresas de las islas pagan porcentajes irrisorios que bajan hasta el 4%. Se reformará el sistema para hacerlo verdaderamente progresivo, de forma que los autónomos y las PyMEs paguen menos y las grandes empresas paguen más."
+   },
+   {
+    "id": "adelante-0009",
+    "partido": "adelante",
+    "titular": "Revolución fiscal: impuesto a grandes fortunas e IRPF más alto desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "7. **Revolución fiscal: que pague más quien más tiene** — Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.\nSe desarrolla en el programa: Propuestas 232, 233 y 236 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0282",
+    "partido": "adelante",
+    "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "232. **IRPF más progresivo** — Rebaja para las rentas más bajas y tipos mucho más altos a partir de 100.000 euros al año, menos deducciones para las rentas altas y rentas del capital que tributen al menos como las del trabajo. _Porque quien más gana debe aportar más, y el trabajo no puede pagar más que el capital._"
+   },
+   {
+    "id": "adelante-0295",
+    "partido": "adelante",
+    "titular": "Sin obligación de declarar con dos pagadores por debajo de 22.000 euros",
+    "marca_actual": [],
+    "texto": "245. **Dos pagadores sin castigo** — Quien gane menos de 22.000 euros con dos empleos no tendrá que declarar ni sufrirá regularizaciones sorpresa. _Porque no es justo castigar a quien junta dos trabajos para llegar a fin de mes._"
+   },
+   {
+    "id": "adelante-0296",
+    "partido": "adelante",
+    "titular": "Ayudas a víctimas de la talidomida exentas de IRPF desde 2023",
+    "marca_actual": [],
+    "texto": "246. **Ayudas a las víctimas de la talidomida sin IRPF** — Exentas con efectos desde 2023, como ya lo están las indemnizaciones a otras víctimas reconocidas por el Estado. _Porque son víctimas reconocidas por el Estado y no pueden tributar por su indemnización._"
+   },
+   {
+    "id": "adelante-0297",
+    "partido": "adelante",
+    "titular": "Recuperar en el IRPF la deducción por primera vivienda y por emancipación",
+    "marca_actual": [],
+    "texto": "247. **Deducción por primera vivienda y por emanciparse** — Recuperar en el IRPF la deducción por la compra de la primera vivienda habitual y por el alquiler de jóvenes que se emancipan. _Porque emanciparse y acceder a la primera vivienda es hoy casi imposible para la juventud._"
+   },
+   {
+    "id": "adelante-0391",
+    "partido": "adelante",
+    "titular": "Ceder a las comunidades el 55 % del IRPF y 70 % del IVA",
+    "marca_actual": [],
+    "texto": "339. **Más recursos para los servicios públicos** — Al menos el 55 % del IRPF y el 70 % del IVA y de los impuestos especiales para las comunidades, todo en el fondo de garantía. _Porque las comunidades pagan la sanidad y la educación con unos ingresos insuficientes._"
+   },
+   {
+    "id": "adelante-0493",
+    "partido": "adelante",
+    "titular": "Banco público de tierras con exención en el IRPF a jubilados que cedan tierras",
+    "marca_actual": [],
+    "texto": "439. **Banco público de tierras** — Acceso a la tierra para jóvenes y mujeres y uso social de las tierras infrautilizadas, con exención en el IRPF para las personas jubiladas que cedan sus tierras a menores de 40 años a través del banco. _Porque acceder a la tierra es casi imposible para quien quiere empezar._"
+   },
+   {
+    "id": "bng-0039",
+    "partido": "bng",
+    "titular": "Reformular la fiscalidad de la vivienda y movilizar viviendas vacías contra la especulación",
+    "marca_actual": [],
+    "texto": "- Reformular a fiscalidade sobre a vivenda para frear o seu uso especulativo con accións como:\n - Eliminar as deducións no IRPF para propietarios que aluguen por riba do prezo de referencia.\n - Aplicar recargos no Imposto de Sociedades a fondos e SOCIMIs que incumpran a función social da vivenda.\n - Estabelecer medidas fiscais proporcionadas para mobilizar vivendas baleiras, combater os usos especulativos e favorecer o alugueiro habitual a prezos accesíbeis.\n - Transferir gratuitamente os solos e vivendas da Sareb ao IGVS para a súa incorporación ao parque público de vivenda en alugueiro.\n - Evitar a degradación, o alleamento e a privatización do patrimonio público do solo e da vivenda, nomeadamente de entidades estatais como ADIF, INVIED ou Portos do Estado, procurando o seu uso como vivendas e espazos públicos e a cesión ás CCAA.\n - Actualizar o CTE para incrementar as esixencias en materia de eficiencia enerxética dos edificios e adecualo á solucións emerxentes como a construción industrializada en madeira.\n - Estabelecer un programa específico e con recursos suficientes para a mellora da eficiencia enerxética de edificios públicos.\n - Impulsar o PERTE de Industrialización da Construción priorizando a especialización por segmentos adaptada á realidade produtiva de cada territorio.\n - Permitir a creación de novos impostos ou taxas a nivel municipal destinadas a gravar as vivendas baleiras.\n - Facilitar a portabilidade das hipotecas de tipo variábel a tipo fixo e endurecer o marco legal para evitar os abusos bancarios en relación ao financiamento da compra de vivenda para uso residencial.\n - Promover o cooperativismo de propiedade e alugueiro, alargando as bonificacións fiscais e despregando liñas de financiamento sen xuros, que deberán ser vehiculados a través das CCAA.\n - Adoptar as medidas necesarias para facilitar a aplicación por parte CCAA de mecanismos como o alugueiro forzoso, a expropiación temporal ou o estabelecemento de canon á vivenda desocupada (importe de como mínimo 10 euros por metro cadrado, incrementándose un 10% anual até o triplo do importe inicial) para as vivendas baleiras desde hai 5 ou máis anos e en mans de grandes propietarios.\n - Promover as modificacións legais que faciliten a creación de empresas públicas, de ámbito autonómico, municipal ou supramunicipal para a promoción de vivenda pública e a xestión de programas de subarrendo e alugueiro social.\n - Transferir á Xunta de Galiza os edificios propiedade do Ministerio de Defensa que se atopan sen uso na actualidade para incrementar o parque público de vivenda de uso residencial."
+   },
+   {
+    "id": "bng-0231",
+    "partido": "bng",
+    "titular": "Diagnóstico: el sistema fiscal penaliza las rentas del trabajo frente al capital",
+    "marca_actual": [],
+    "texto": "Existe unha penalización fiscal das rendas do traballo fronte ás do capital. Por iso, en tanto non acadarmos un modelo de financiamento adecuado para o noso país que nos capacite para regular e recadar todos os impostos, defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas, porque o sistema actual discrimina as persoas cuxa principal fonte de ingresos é o traballo.\n\nEn primeiro lugar, a respecto do Imposto sobre a Renda das Persoas Físicas (IRPF), consideramos preciso:"
+   },
+   {
+    "id": "bng-0232",
+    "partido": "bng",
+    "titular": "Aumentar la progresividad del IRPF: que pague más quien más renta obtiene",
+    "marca_actual": [],
+    "texto": "- Incrementar a súa progresividade: que pague máis quen máis renda obtén."
+   },
+   {
+    "id": "bng-0233",
+    "partido": "bng",
+    "titular": "Ajustar los tramos estatales del IRPF al IPC de Galicia",
+    "marca_actual": [],
+    "texto": "- Axustar os tramos estatais do IRPF en función do incremento anual do Índice de Prezos de Consumo en Galiza."
+   },
+   {
+    "id": "bng-0234",
+    "partido": "bng",
+    "titular": "Gravar menos las rentas del trabajo y más las del capital",
+    "marca_actual": [],
+    "texto": "- Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital."
+   },
+   {
+    "id": "bng-0235",
+    "partido": "bng",
+    "titular": "Deducciones en el IRPF inversamente proporcionales a los tipos de gravamen",
+    "marca_actual": [],
+    "texto": "- Realizar deducións inversamente proporcionais aos tipos de gravame."
+   },
+   {
+    "id": "bng-0236",
+    "partido": "bng",
+    "titular": "Elevar la exención por kilometraje de 0,26 a 0,40 euros por km",
+    "marca_actual": [],
+    "texto": "- Modificar a normativa reguladora, elevando os limites para exceptuar de gravame e non computar entre os ingresos procedentes do traballo persoal, as cantidades destinadas pola empresa a compensar os gastos por locomoción retribuídos a traballadores e traballadoras que utilicen medios de transporte privado, de 0,26€ por km a 0,40€ por km percorrido mais os gastos de portaxes e aparcadoiro que se xustifiquen, para así evitar que tributen polo exceso derivado do aumento dos prezos."
+   },
+   {
+    "id": "bng-0249",
+    "partido": "bng",
+    "titular": "Introducción de nuevas propuestas fiscales de justicia social",
+    "marca_actual": [],
+    "texto": "Así mesmo, consideramos preciso introducir propostas novas no ámbito fiscal que acheguen xustiza social e de respecto polo patrimonio público, como por exemplo:"
+   },
+   {
+    "id": "erc-0051",
+    "partido": "erc",
+    "titular": "Traspasar a la Agencia Tributaria de Cataluña la recaudación de los impuestos estatales",
+    "marca_actual": [],
+    "texto": "34. Fer efectiu el traspàs de les competències en la recaptació d’impostos estatals a l’Agència Tributària de Catalunya. Complir amb els acords de la Comissió Bilateral Generalitat Estat de juliol de 2025 sobre l’assumpció de competències en l’IRPF per part de la Generalitat, fent efectius els canvis legislatius pertinents per a la recaptació no només d’aquest tribut sinó de tots els impostos que es generen a Catalunya."
+   },
+   {
+    "id": "erc-0091",
+    "partido": "erc",
+    "titular": "Reindustrialización verde, salario mínimo catalán y reforma del IRPF y el IVA",
+    "marca_actual": [],
+    "texto": "Davant d’aquest panorama, Esquerra Republicana aposta tant per mesures estructurals que ens permetin avançar cap a un model econòmic més inclusiu, fomentant la reindustrialització verda, com per mesures de suport a la classe treballadora que pateix les conseqüències d’un model econòmic basat en salaris baixos.\n\nEntre altres mesures, Esquerra Republicana fa anys que reclama que Catalunya tingui un salari mínim propi, que reflecteixi el cost de vida més alt que el d’altres territoris de l’Estat. També defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+   },
+   {
+    "id": "erc-0095",
+    "partido": "erc",
+    "titular": "Subir al 35 % el IRPF del capital y bajarlo bajo 35.000 euros",
+    "marca_actual": [],
+    "texto": "69. Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros per augmentar els recursos disponibles i la capacitat adquisitiva de la classe treballadora."
+   },
+   {
+    "id": "erc-0113",
+    "partido": "erc",
+    "titular": "Suprimir la ley Beckham y exigir permanencia a empresas con ayudas públicas",
+    "marca_actual": [],
+    "texto": "84. Acabar amb els privilegis fiscals i el capital subvencionat. Posar fi a la llei Beckham, que permet a les persones que arribin a l’Estat des de l’estranger tributar com a no residents durant 6 anys, fins a la meitat en concepte d’IRPF i sense tributar pels rendiments patrimonials a l’estranger. Eliminar la possibilitat de teletreballadors internacionals d’acollir-se a un règim fiscal favorable. Exigir també clàusules de permanència de l’activitat i garantia de manteniment de l’ocupació a empreses que s’acullin a ajudes públiques i deduccions a la inversió."
+   },
+   {
+    "id": "erc-0114",
+    "partido": "erc",
+    "titular": "Prórrogas de hasta 4 años en el pago de tributos cedidos",
+    "marca_actual": [],
+    "texto": "85. Facilitar les pròrrogues en el pagament de tributs cedits. Modificar la legislació vigent i els reglaments que la despleguen per facilitar que, en les liquidacions dels tributs cedits, es puguin sol·licitar pròrrogues en el pagament fins a 4 anys després d’haver-se concretat el fet imposable."
+   },
+   {
+    "id": "erc-0151",
+    "partido": "erc",
+    "titular": "Ampliar los gastos deducibles en el IRPF de los autónomos",
+    "marca_actual": [],
+    "texto": "116. Avançar cap a una fiscalitat més justa per als autònoms. Ampliar les despeses fiscalment deduïbles a l’IRPF vinculades a l’activitat econòmica, especialment les relacionades amb el vehicle professional, els subministraments i l’ús de l’habitatge habitual com a lloc de treball, establint criteris clars que en facilitin la justificació. Paral·lelament, reforçar la progressivitat de l’impost sobre societats, amb criteris de dimensió empresarial i capacitat econòmica."
+   },
+   {
+    "id": "erc-0273",
+    "partido": "erc",
+    "titular": "Reformar la Ley de Haciendas Locales y rebajar a 10.000 habitantes el municipio turístico",
+    "marca_actual": [],
+    "texto": "218. Cal una reforma de la Llei 39/1988, de 28 de desembre, reguladora de les hisendes locals que actualitzi el finançament per exercir les competències que avui en dia tenen els ajuntaments i altres ens locals, tendint a un sistema de finançament que doni estabilitat als ajuntaments i els faci menys dependents de les subvencions. Aquesta reforma ha de permetre incrementar els ingressos per la participació en els ingressos de l’Estat i que tots els ajuntaments, no només els més grans de 75.000 habitants, puguin rebre un percentatge dels grans impostos com l’IRPF i l’IVA. També ha de servir per assegurar la viabilitat econòmica de l’AMB i d’altres àrees que es puguin crear en un futur, permetent establir exempcions, reduccions i tipus de gravàmens diferenciats en l’aplicació de l’IBI, assegurant la justícia fiscal del tribut. Cal modificar la legislació relativa a l’IBI per equiparar els beneficis per les famílies monoparentals als previstos per les famílies nombroses. I també calen canvis en el finançament dels municipis turístics. Atès la pressió real que l’activitat turística exerceix sobre els serveis municipals, cal redefinir el concepte de municipi turístic rebaixant el llindar poblacional actual de 20.000 a 10.000 habitants i establint altres criteris alternatius més enllà del poblacional."
+   },
+   {
+    "id": "cnv-0055",
+    "partido": "cnv",
+    "titular": "Aumentar mínimos personales y deducciones del IRPF por discapacidad",
+    "marca_actual": [],
+    "texto": "- Proposarem millores fiscals, com l’Increment substancial dels mínims personals i de les deduccions de l'IRPF, especialment per a aquelles persones amb un grau de discapacitat igual o superior al 65% o assimilat per resolució judicial."
+   },
+   {
+    "id": "cnv-0075",
+    "partido": "cnv",
+    "titular": "Redistribuir el esfuerzo fiscal a favor de las pymes",
+    "marca_actual": [],
+    "texto": "- Impulsarem la redistribució de l’esforç fiscal a favor de les PIMES, amb mesures específiques per protegir aquest segment fonamental i representatiu de l’economia catalana."
+   },
+   {
+    "id": "cnv-0078",
+    "partido": "cnv",
+    "titular": "Criterios de sostenibilidad en la fiscalidad sin aumentar la presión fiscal global",
+    "marca_actual": [],
+    "texto": "- Incorporarem criteris de sostenibilitat i transició verda a la fiscalitat, sense incrementar la pressió fiscal global."
+   },
+   {
+    "id": "cnv-0087",
+    "partido": "cnv",
+    "titular": "Rebajar el ITP y el tramo autonómico del IRPF",
+    "marca_actual": [],
+    "texto": "- Treballarem per rebaixar el impost de Transmissions Patrimonials i disminuir el percentatge del IRPF del tram autonòmic."
+   },
+   {
+    "id": "cnv-0097",
+    "partido": "cnv",
+    "titular": "Deducir en el IRPF la contratación de limpieza y cuidado del hogar",
+    "marca_actual": [],
+    "texto": "- Deduirem les despeses de l’IRPF en la contractació de persones i empreses per a la neteja i cura de la llar."
+   },
+   {
+    "id": "cnv-0132",
+    "partido": "cnv",
+    "titular": "Bonificación del 30 % en IRPF y Sociedades a la gestión forestal sostenible",
+    "marca_actual": [],
+    "texto": "- Impulsarem millores en la fiscalitat forestal, com una bonificació del 30% a les inversions en gestió forestal sostenible aplicable a l’IRPF i l’Impost de Societats."
+   },
+   {
+    "id": "pnv-0127",
+    "partido": "pnv",
+    "titular": "Una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica",
+    "marca_actual": [],
+    "texto": "**Queremos que las instituciones puedan utilizar sus recursos para responder a las necesidades de la ciudadanía. Y una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica.**"
+   },
+   {
+    "id": "pnv-0221",
+    "partido": "pnv",
+    "titular": "Declarar exentas del IRPF las indemnizaciones del Fondo de Compensación del Amianto",
+    "marca_actual": [],
+    "texto": "3. **Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto**, evitando que las personas afectadas pierdan parte de la reparación que les corresponde."
+   },
+   {
+    "id": "bildu-0095",
+    "partido": "bildu",
+    "titular": "Redistribuir la riqueza haciendo que las grandes empresas aporten lo que deben",
+    "marca_actual": [],
+    "texto": "La redistribución de la riqueza debe ser un objetivo que cualquier sociedad justa debe asegurar. La política fiscal es uno de los instrumentos eficaces para ello. Por eso resulta necesario que el sector privado, especialmente las grandes empresas, aporten lo que deben en un momento de acumulación de capital por parte de estas con grandes márgenes de beneficio que, sin embargo, no revierten como deberían en la ciudadanía y los servicios públicos. Para ello, propondremos:"
+   },
+   {
+    "id": "teruel-0042",
+    "partido": "teruel",
+    "titular": "Fiscalidad progresiva con bonificaciones para atraer población a la provincia",
+    "marca_actual": [],
+    "texto": "- **Fiscalidad justa y diferenciada.** Un sistema general, equitativo y progresivo, acorde con los servicios que sostiene, que a su vez aplique bonificaciones para el desarrollo de objetivos estratégicos prioritarios para la provincia, como el de asentar y atraer población."
+   },
+   {
+    "id": "teruel-0137",
+    "partido": "teruel",
+    "titular": "Eximir del IBI y rebajar ITP e IRPF en pueblos despoblados",
+    "marca_actual": [],
+    "texto": "- **Fiscalidad diferenciada positiva.** En localidades de menos de 5.000 habitantes de zonas afectadas por la despoblación, los residentes y propietarios de rentas bajas y medias podrán quedar exentos del IBI si utilizan o alquilan sus viviendas y ver reducido en un 80 % el impuesto de transmisiones patrimoniales al comprar vivienda. El Estado compensará a cada administración local los ingresos que deje de percibir por las exenciones de IBI. Igualmente, a estos residentes se les podrá reducir en un 25% la cuota del IRPF."
+   },
+   {
+    "id": "pfac-0317",
+    "partido": "pfac",
+    "titular": "Impulsar la titularidad compartida con bonificación del 100 % de cuotas cinco años",
+    "marca_actual": [],
+    "texto": "1. Impulsar la efectiva implantación de la Ley de Titularidad Compartida en las explotaciones agrarias para garantizar la equidad laboral en el medio rural, mediante el desarrollo conjunto de las siguientes actuaciones:\n - Simplificar y agilizar los trámites de inscripción en el registro mediante una ventanilla única digital que coordine de forma directa las Oficinas Agrarias y la Seguridad Social.\n - Abonar una bonificación del 100% en las cuotas de la Seguridad Social durante los primeros cinco años a quienes se incorporen como cotitulares.\n - Establecer deducciones fiscales específicas en el IRPF y priorizar el acceso a las ayudas de la PAC y fondos de desarrollo rural a las explotaciones con gestión compartida formalizada.\n - Garantizar el acceso igualitario a la titularidad agraria y a los derechos económicos derivados mediante la reforma de la Ley de Titularidad Compartida, estableciendo su obligatoriedad legal en todos los casos donde se verifique el desarrollo de un trabajo agropecuario compartido.\n - Tipificar como una modalidad de violencia económica la privación deliberada del derecho a la cotitularidad o propiedad de la explotación hacia la pareja que ejerce el trabajo agrario, promoviendo su reconocimiento e inclusión dentro del marco legal del Estado en materia de prevención de la violencia machista.\n - Desarrollar campañas permanentes de difusión institucional y formación del personal técnico orientadas a asesorar de manera directa y próxima a las familias del sector agropecuario.\n - Crear un observatorio de seguimiento estatal para corregir los desequilibrios de inscripción entre las distintas comunidades autónomas y vincular esta figura legal a los planes de relevo generacional."
+   },
+   {
+    "id": "pfac-0351",
+    "partido": "pfac",
+    "titular": "Reforma tributaria integral para recaudar más y que paguen más quienes más tienen",
+    "marca_actual": [],
+    "texto": "Garantizar servicios públicos requiere recursos y en España recaudamos menos, en relación con la riqueza medida en términos de PIB, que en el promedio de los países de la Unión Europea. Financiar el Estado del Bienestar no es un lujo por encima de nuestras posibilidades; es la red de seguridad de la ciudadanía, la garantía de la igualdad de oportunidades y el vector de la cohesión social y territorial del Estado. De ahí que el sistema fiscal no sólo tenga que asegurar los ingresos necesarios para la provisión de las políticas públicas, sino que también debe cumplir con los principios constitucionales de equidad y progresividad, así como asegurar que la igualdad de oportunidades sea efectiva y reducir la desigualdad social, territorial y por sexo.\n\nPor todo lo anterior, consideramos necesaria una reforma integral de nuestro sistema tributario en términos de aumentar su suficiencia, mejorar su equidad, afrontar nuevas tributaciones medioambientales y acabar con la economía sumergida y el fraude fiscal.\n\nPara reformar el actual sistema fiscal de forma que se obtengan más ingresos, pero repartiendo la carga tributaria para que paguen más los que más tienen, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0352",
+    "partido": "pfac",
+    "titular": "Aumentar la progresividad fiscal subiendo o eliminando los topes superiores",
+    "marca_actual": [],
+    "texto": "- MEDIDA 21.APLICAR MAYOR PROGRESIVIDAD FISCAL SUBIENDO O ELIMINANDO LOS TOPES SUPERIORES, así como evitar la ingeniería fiscal que permite eludir impuestos a quienes más tienen. Garantizando que la carga impositiva de la ciudadanía sea la misma en todo el territorio español."
+   },
+   {
+    "id": "pfac-0353",
+    "partido": "pfac",
+    "titular": "Entradilla de las actuaciones de la reforma fiscal",
+    "marca_actual": [],
+    "texto": "Para ello, resulta necesario poner en marcha las siguientes actuaciones"
+   },
+   {
+    "id": "pfac-0355",
+    "partido": "pfac",
+    "titular": "Fijar tramos y tipos idénticos de IRPF en todas las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "2. Fijar tramos y tipos idénticos de IRPF en todas las comunidades autónomas, eliminando la capacidad normativa autonómica para establecer los mínimos de renta personales y familiares no sometidos a gravamen, a fin de garantizar que todos los contribuyentes con idénticas cargas familiares tengan exactamente la misma renta exenta de tributación, con independencia de su comunidad de residencia."
+   },
+   {
+    "id": "pfac-0357",
+    "partido": "pfac",
+    "titular": "Añadir tramos superiores al IRPF con tipos más altos",
+    "marca_actual": [],
+    "texto": "4. Añadir nuevos escalones de renta en la parte superior de la base liquidable actual del IRPF, asignándoles tipos impositivos progresivamente más altos para hacer más justa la tributación de las rentas del trabajo."
+   },
+   {
+    "id": "pfac-0360",
+    "partido": "pfac",
+    "titular": "Eliminar la deducción de gastos educativos en el IRPF",
+    "marca_actual": [],
+    "texto": "7. Eliminar la deducción de gastos educativos en IRPF porque sólo benefician a los usuarios de educación privada."
+   },
+   {
+    "id": "pfac-0361",
+    "partido": "pfac",
+    "titular": "Eliminar las deducciones por planes de pensiones",
+    "marca_actual": [],
+    "texto": "8. Eliminar las deducciones a planes de pensiones, dado que son un incentivo a la privatización de estos, no son deducciones reales sino un aplazamiento de la carga impositiva y, además, porque las oscilaciones del mercado bursátil pueden hacer perder el esfuerzo de ahorro de las clases trabajadoras."
+   },
+   {
+    "id": "pfac-0362",
+    "partido": "pfac",
+    "titular": "Política fiscal y de gasto social orientada a colectivos vulnerables y monoparentales",
+    "marca_actual": [],
+    "texto": "9. Asegurar la protección de los colectivos vulnerables y de la clase trabajadora con una política fiscal y de gasto social orientada a sus necesidades, prestando especial atención a las familias monoparentales y a la atención a la dependencia."
+   },
+   {
+    "id": "pfac-0375",
+    "partido": "pfac",
+    "titular": "Controlar sociedades patrimoniales y entidades usadas para eludir el IRPF",
+    "marca_actual": [],
+    "texto": "22. Realizar un control exhaustivo de las sociedades patrimoniales, de las entidades que no reparten dividendos e incrementan sus reservas indefinidamente, y de las que declaran pérdidas de forma continuada, argucias ampliamente usadas para la elusión del IRPF por parte de sus personas asociadas y de quienes las administran."
+   },
+   {
+    "id": "pfac-0997",
+    "partido": "pfac",
+    "titular": "Modificar el artículo 135 y derogar la Ley de Estabilidad Presupuestaria",
+    "marca_actual": [],
+    "texto": "Así mismo, tanto las Comunidades Autónomas como las corporaciones locales dependen de una adecuada financiación para desarrollar sus competencias y poder mantener unos servicios públicos de calidad. Sin embargo, afrontan grandes problemas de financiación que también afectan a la Hacienda estatal y a la Seguridad Social. Es un problema de insuficiencia de ingresos y no de exceso de gastos. Por ello, es necesaria una reforma fiscal que haga efectivo el principio de progresividad recogido en el artículo 31 de la Constitución Española y que permita un aumento de los ingresos públicos. Así como la modificación del artículo 135 de la Constitución, y la derogación de la Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF) que lo desarrolla, que obliga a las administraciones públicas a registrar equilibrio presupuestario lo que impide incurrir en crecimiento del gasto y de la inversión, imposibilita la ampliación de las plantillas y obliga a usar los posibles superávits solo para amortizar deuda.\n\nHasta tanto se produzca la modificación del artículo 135 de la CE y la Ley orgánica que lo desarrolla, resulta evidente que es necesario reforzar los mecanismos verticales de cooperación entre el Gobierno central y los gobiernos autonómicos, y los horizontales entre las propias autonomías."
+   },
+   {
+    "id": "ph-0009",
+    "partido": "ph",
+    "titular": "Renta básica universal e incondicional de 950 € al mes",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Renta Básica Universal e Incondicional (RBUI)** Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). **Memoria económica y viabilidad:** El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:\n - Una reforma progresiva del IRPF sobre las rentas del capital y del trabajo superiores a 120.000 € anuales (aportando 55.000 M€).\n - Un Impuesto a las Grandes Fortunas y Patrimonio Neto superior a 3 millones de euros (aportando 25.000 M€).\n - Una Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin) del 0,5% en operaciones bursátiles de alta frecuencia (aportando 20.000 M€).\n - Un Plan Integral de Lucha contra el Fraude y la Evasión Fiscal de grandes corporaciones y patrimonios, fijando un objetivo de recaudación recuperada de 30.000 M€ anuales (según estimaciones de los técnicos de Hacienda Gestha).\n - Ahorro de costes administrativos y supresión de partidas redundantes de prestaciones mínimas (10.000 M€)."
+   },
+   {
+    "id": "ph-0067",
+    "partido": "ph",
+    "titular": "Financiación del programa: el problema no es el dinero sino su concentración",
+    "marca_actual": [],
+    "texto": "Elaborar un programa como el nuestro, lleno de propuestas arriesgadas que sirvan como puente para superar este sistema violento, despierta una pregunta inmediata: ¿y esto, quién lo paga? Responderemos insistiendo que el problema no es el dinero, sino la usurpación del todo por una pequeña parte. Es inviable e inhumano continuar con un sistema que privilegia las grandes fortunas mientras condena a enormes capas de la población a la desesperación y la miseria.\n\nEl plan de transformación del Partido Humanista se sostiene sobre una coherencia macroeconómica y fiscal. Somos conscientes de que tales medidas exigen a un estudio mucho más exhaustivo y exigente al que se puede realizar en un programa electoral que pretende ser un lineamiento general, más enfocado a la dirección que a la concreción. Sin embargo, estamos convencidos de que va a llegar el día en el que la gran mayoría de las personas, cansadas de un mundo que se les queda pequeño, en el que no pueden desarrollar todo su potencial como seres humanos, exigirán el cumplimiento de propuestas como las que hemos expresado en estas páginas o algunas muy similares."
+   },
+   {
+    "id": "ph-0068",
+    "partido": "ph",
+    "titular": "Presentación de las tablas de gasto y fuentes de financiación",
+    "marca_actual": [],
+    "texto": "Por ello, presentamos a continuación las tablas comparativas de gasto público e inversión, así como el desglose detallado de las fuentes de financiación para garantizar un balance equilibrado y solvente. Sirva como ejercicio de lo que podría ser posible..."
+   },
+   {
+    "id": "ph-0070",
+    "partido": "ph",
+    "titular": "Ingresos de 155.500 M€: fraude, IRPF alto, grandes fortunas y Tasa Tobin",
+    "marca_actual": [],
+    "texto": "|Vía de Financiación / Medida Fiscal|Recaudación o Ahorro Estimado Anual (M€)|Justificación / Colectivo Afectado|\n|---|---|---|\n|Lucha contra el Fraude y la Evasión Fiscal|+30.000 M€|Grandes corporaciones y patrimonios, plan técnicos Gestha|\n|Reforma del IRPF (Rentas del Trabajo > 120.000 € y Rentas del Capital)|+55.000 M€|Tramos altos de renta y equiparación de tributación de rentas del capital al trabajo|\n|Impuesto a las Grandes Fortunas (Patrimonio Neto > 3M€)|+25.000 M€|Gravamen progresivo a la riqueza extrema no productiva|\n|Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin ampliada)|+20.000 M€|0,5% a compras bursátiles y algoritmos de alta frecuencia|\n|Supresión de privilegios fiscales a SOCIMIs y Fondos Especulativos|+8.000 M€|Tributación estándar al tipo general de sociedades|\n|Reducción del 50% en armamento y Defensa|+7.500 M€|Recorte directo en adquisiciones militares y programas armamentísticos|\n|Racionalización y absorción de subsidios fragmentados redundantes|+10.000 M€|Simplificación por la puesta en marcha de la RBUI|\n\n**TOTAL INGRESOS / AHORROS ADICIONALES ANUALES:** +155.500 M€\n\n**TOTAL INVERSIONES / GASTOS SOCIALES ANUALES:** 155.500 M€ (balance equilibrado y solvente)."
+   },
+   {
+    "id": "nex-0113",
+    "partido": "nex",
+    "titular": "Recargos a la vivienda vacía en IRPF y Patrimonio y más margen en IBI",
+    "marca_actual": [],
+    "texto": "102. Recargos sobre la vivienda vacía y la acumulación de viviendas en IRPF y Patrimonio, y más margen municipal en el IBI."
+   },
+   {
+    "id": "ixlg-0010",
+    "partido": "ixlg",
+    "titular": "El REF debe beneficiar a la mayoría social y no a unos pocos",
+    "marca_actual": [],
+    "texto": "Durante décadas, Canarias ha tenido que reivindicar una y otra vez la aplicación efectiva del Régimen Económico y Fiscal (REF). Defender el REF es defender un derecho de Canarias y una herramienta para compensar nuestra lejanía, insularidad y condiciones estructurales.\n\nPero también debemos preguntarnos para quién está funcionando realmente el REF.\n\nNo queremos un REF reducido a una permanente batalla por mantener beneficios fiscales o incentivos a quienes tienen mayor capacidad para invertir, mientras una parte importante de la ciudadanía continúa soportando el sobrecoste de vivir en las islas: vivienda, alimentación, transporte, energía, agua o acceso a servicios.\n\nEl REF no puede convertirse en una cuestión reservada a despachos, grandes empresas o determinados intereses económicos y políticos. Sus beneficios deben traducirse en bienestar para la mayoría social, empleo estable, actividad productiva, servicios públicos y oportunidades a quienes viven y trabajan en Canarias.\n\nLa propia evolución del debate sobre el REF plantea hoy la necesidad de revisar a quién llegan sus instrumentos y cómo se distribuyen sus beneficios. Existen incentivos dirigidos a la inversión y a la actividad económica, pero también medidas destinadas directamente a compensar costes y garantizar servicios. La cuestión es que el conjunto del sistema debe orientarse de forma más clara hacia el interés general."
+   },
+   {
+    "id": "ixlg-0011",
+    "partido": "ixlg",
+    "titular": "Un REF que llegue a autónomos, familias y jóvenes y compense la doble insularidad",
+    "marca_actual": [],
+    "texto": "No cuestionamos el REF. Cuestionamos que durante demasiado tiempo se haya confundido su defensa con la defensa de determinados intereses.\n\nQueremos un REF que llegue también a autónomos, pequeñas empresas, trabajadores, familias y jóvenes; que contribuya a reducir los sobrecostes de la insularidad y que genere retornos sociales y territoriales verificables. Porque el REF no nació para que unos pocos tengan más oportunidades por vivir en Canarias. Nació para que vivir en Canarias NO suponga tener menos oportunidades.\n\nY en La Gomera, además debe incorporar de manera efectiva nuestra condición de isla no capitalina y la doble insularidad, de manera que los beneficios y compensaciones respondan a los costes reales de nuestro territorio. Defender el REF sí. Pero defenderlo para que cumpla su función: compensar a Canarias y mejorar la vida de quienes vivimos aquí.\n\n**_La insularidad es una realidad que exige más derechos, no menos._**"
+   },
+   {
+    "id": "d21-0072",
+    "partido": "d21",
+    "titular": "Bonificaciones en IRPF e IBI a propietarios que alquilen a precio asequible",
+    "marca_actual": [],
+    "texto": "- **Alivio Fiscal para el Alquiler Asequible:** alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler. La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda."
+   },
+   {
+    "id": "d21-0098",
+    "partido": "d21",
+    "titular": "Ley de Administración Proactiva: prestaciones y deducciones concedidas de oficio",
+    "marca_actual": [],
+    "texto": "- **Ayudas Que Funcionen:** el Estado dejará de esperar a que el ciudadano descubra, solicite y justifique los derechos que legalmente le corresponden. Una Ley de Administración Proactiva reconocerá el derecho a no tener que pedir lo que ya te corresponde, y fijará qué prestaciones se conceden de oficio, qué datos se cruzan, con qué finalidad exclusiva y cómo puede cada persona oponerse o corregir sus datos. Mediante el cruce inteligente de datos públicos, la Administración resolverá de oficio y **concederá automáticamente prestaciones y deducciones, notificando directamente al ciudadano en su teléfono móvil** o por correo postal si así lo prefiere.\nCuando falte algún dato, recibirá una propuesta ya calculada que podrá aceptar con un clic o en persona a través de la administración competente, garantizando la atención con o sin cita previa. Así funcionará, por ejemplo, en la asignación directa de becas de estudio (cruzando renta y expediente académico sin formularios) o en el caso de un nacimiento (activando al instante deducciones en IRPF o prestaciones familiares de forma automática al registrar al recién nacido, como ya recomienda la AIReF)."
+   },
+   {
+    "id": "d21-0104",
+    "partido": "d21",
+    "titular": "Sin subir ni bajar impuestos: un sistema progresivo, transparente y sencillo",
+    "marca_actual": [],
+    "texto": "Los impuestos son la columna vertebral del Estado de Bienestar. Pero hoy nuestro sistema fiscal es difícil de entender, cambia sin avisar, trata igual al ciudadano que se equivoca en una casilla que a quien defrauda a sabiendas y pierde terreno frente a Europa: España ha caído del puesto 29 al 34 de los 38 países de la OCDE en competitividad fiscal. La buena noticia es que no hace falta subir ni bajar impuestos para hacerlo mucho mejor: basta con un sistema progresivo, transparente, neutral y sencillo, que trate con respeto a quien cumple y concentre toda su fuerza en quien hace trampas. Pagar lo que es justo y entender lo que pagas."
+   },
+   {
+    "id": "d21-0105",
+    "partido": "d21",
+    "titular": "Recibo del Contribuyente: desglose anual de lo pagado y su destino",
+    "marca_actual": [],
+    "texto": "- **El Recibo del Contribuyente:** la gran pregunta de cualquier contribuyente sigue sin respuesta: ¿a dónde va mi dinero? Cada año, cada ciudadano recibirá en su móvil un desglose digital e interactivo de lo que ha aportado (IRPF, cotizaciones sociales e IVA estimado) y de su destino: \"De sus 8.000€, 2.800€ financiaron Sanidad, 1.200€ Educación…\". Incluirá encuestas rápidas para que la ciudadanía valore y audite en tiempo real los servicios que paga."
+   },
+   {
+    "id": "d21-0106",
+    "partido": "d21",
+    "titular": "La renta en un clic: Hacienda prepara y presenta las declaraciones sencillas",
+    "marca_actual": [],
+    "texto": "- **La Renta en un Clic:** Hacienda ya conoce la mayoría de nuestros datos, pero seguimos revisando casillas, pagando gestorías por declaraciones sencillas y perdiendo deducciones por no conocerlas. Para quienes tengan rentas sencillas, Hacienda preparará y presentará la declaración completa: si pasado el plazo no cambias nada, está hecha. Aplicará de oficio todas las deducciones estatales y autonómicas que te correspondan cruzando los datos que ya tienen las administraciones, y toda carta de Hacienda empezará con una frase clara: qué ocurre, qué tienes que hacer y en qué plazo. Y un asistente oficial, disponible las 24 horas, resolverá tus dudas en lenguaje claro: si te lo dijo Hacienda, vale, y quien siga sus respuestas no podrá ser sancionado."
+   },
+   {
+    "id": "d21-0108",
+    "partido": "d21",
+    "titular": "Actualizar por ley cada año los tramos y mínimos del IRPF según el IPC",
+    "marca_actual": [],
+    "texto": "- **Que la Inflación No Suba tus Impuestos:** si tu sueldo sube solo para seguir el ritmo de los precios, hoy puedes saltar de tramo en el IRPF y pagar más aunque no seas más rico, porque la escala estatal no se actualiza con la inflación. Por ley, los tramos, los mínimos personales y familiares y las reducciones se actualizarán cada año según el IPC, siempre desde el 1 de enero siguiente y sin efectos retroactivos. Hacienda no recaudará más por la puerta de atrás."
+   },
+   {
+    "id": "d21-0112",
+    "partido": "d21",
+    "titular": "Beneficios fiscales con evaluación y caducidad, e impuestos especiales equiparados a la UE",
+    "marca_actual": [],
+    "texto": "- **Cada Beneficio Fiscal, con Fecha de Caducidad:** España dedica unos 60.000 millones de euros al año a beneficios fiscales (deducciones, exenciones y tipos reducidos), y muchos nunca se evalúan. Todos tendrán un objetivo medible y una evaluación independiente: si no lo cumplen, desaparecerán y su coste volverá al sistema. Revisaremos también los impuestos especiales (medioambientales, sobre el tabaco y el resto) para equipararlos a la Unión Europea, con un calendario anunciado y sin sorpresas."
+   },
+   {
+    "id": "d21-0113",
+    "partido": "d21",
+    "titular": "Cambios tributarios solo el 1 de enero, anunciados con seis meses y sin retroactividad",
+    "marca_actual": [],
+    "texto": "- **Reglas Estables:** las normas fiscales cambian a mitad de año, a veces sobre ejercicios ya iniciados, y eso genera inseguridad y pleitos. Los cambios tributarios entrarán en vigor solo el 1 de enero, se anunciarán con al menos seis meses de antelación y nunca tendrán efectos retroactivos."
+   },
+   {
+    "id": "d21-0159",
+    "partido": "d21",
+    "titular": "IRPF del 5 % para los bonus por productividad, hasta 5.000 €",
+    "marca_actual": [],
+    "texto": "- **Incentivo Fiscal al Salario por Productividad Real:** para que el esfuerzo y la innovación se traduzcan de inmediato en la nómina, los incentivos y bonus salariales ligados a aumentos objetivos y verificables de productividad tributarán en el IRPF del trabajador a un tipo único del 5%, hasta 5.000€ al año. Para quienes hoy pagan de media menos de un 5% de IRPF, estos pluses no tributarán nada ni les harán perder ninguna deducción. La empresa que comparta esa mejora con su plantilla tendrá una bonificación del 50% en su cotización a la Seguridad Social por ese extra, que llegará al 75% en las PYMES de menos de 50 trabajadores. Así, mejorar procesos se traducirá siempre en mejores sueldos netos y en empresas más competitivas: por cada 2.000€ de bonus, un trabajador con un sueldo medio se llevará unos 500€ más netos y una PYME se ahorrará casi 500€ de cotización."
+   },
+   {
+    "id": "d21-0185",
+    "partido": "d21",
+    "titular": "Bono Fiscal de Despegue para nuevos autónomos en sus 3 primeros años",
+    "marca_actual": [],
+    "texto": "- **Bono Fiscal de Despegue Para los 3 Primeros Años:** aliviaremos la presión en IRPF y cotizaciones del RETA durante los primeros compases de la actividad creando un Bono Fiscal de Despegue: un crédito fiscal directo asignado a cada nuevo autónomo para compensar (hasta un importe determinado) cualquier obligación frente al Estado (como impuestos o cotizaciones a la Seguridad Social) debidamente declarada durante sus tres primeros ejercicios, permitiendo que la liquidez inicial se concentre al 100% en la viabilidad del proyecto."
+   },
+   {
+    "id": "d21-0198",
+    "partido": "d21",
+    "titular": "Régimen fiscal sencillo para investigadores y profesionales que regresan",
+    "marca_actual": [],
+    "texto": "- **Volver a Casa No Saldrá Caro:** miles de científicos y profesionales formados en España no vuelven porque nuestro sistema fiscal penaliza la carrera que hicieron fuera, sobre todo sus ahorros para la jubilación, y acaban en países que sí los quieren. Crearemos un régimen sencillo para investigadores, docentes y profesionales cualificados que regresan, pensado para sueldos reales y no solo para los grandes salarios del actual régimen de impatriados, y tramitado en una ventanilla única digital."
+   },
+   {
+    "id": "d21-0236",
+    "partido": "d21",
+    "titular": "Deducciones en el IRPF durante tres años para los sanitarios que regresen",
+    "marca_actual": [],
+    "texto": "- **Bono Fiscal para el Retorno del Talento Sanitario:** facilitaremos el regreso de los médicos, enfermeros y profesionales sanitarios españoles que trabajan en el extranjero mediante un paquete especial de deducciones en el IRPF durante los primeros tres años tras su reincorporación al Sistema Nacional de Salud. Este incentivo fiscal irá acompañado de una homologación facilitada de la experiencia e investigaciones que hayan desarrollado en el extranjero."
+   },
+   {
+    "id": "d21-0251",
+    "partido": "d21",
+    "titular": "Deducción en el IRPF por contratar ayuda en el hogar con hijos o dependientes",
+    "marca_actual": [],
+    "texto": "- **Deducción Directa por Apoyo en el Hogar:** aprobaremos una deducción en el IRPF, con un tope anual, por los costes de contratar ayuda en el hogar cuando haya hijos o personas dependientes a cargo. Suprimiremos trabas absurdas: no se exigirá justificar que el empleo se dedica exclusivamente al cuidado, porque cualquier ayuda doméstica libera tiempo esencial para la vida familiar y profesional. Y al exigir el alta en la Seguridad Social, la medida aflorará empleo hoy sumergido, con más derechos para las trabajadoras del hogar y más cotizaciones para el sistema."
+   },
+   {
+    "id": "comuns-0039",
+    "partido": "comuns",
+    "titular": "Suprimir la desgravación genérica del 50 % en el IRPF del alquiler",
+    "marca_actual": [],
+    "texto": "- Eliminar bonificacions IRPF lloguers per sobre índex de preus. Acabar amb l’actual desgravació genèrica del 50% de l’IRPF i establir una escala de desgravacions en funció de les baixades de preus respecte a l’índex."
+   },
+   {
+    "id": "comuns-0044",
+    "partido": "comuns",
+    "titular": "Suprimir deducciones a pisos turísticos en zonas tensionadas e imputar 20 % a vacías",
+    "marca_actual": [],
+    "texto": "- En l’IRPF i en l’impost de societats suprimir en el càlcul dels seus rendiments la deductibilitat de les despeses financeres, d’amortització i de millora de l’habitatge turístic en zones tensionades i elevar al 20% la imputació de rendes immobiliàries en l’IRPF durant els períodes en els quals no estiguin ocupades."
+   },
+   {
+    "id": "comuns-0053",
+    "partido": "comuns",
+    "titular": "Deducción en el IRPF de hasta 300 euros al mes para hipotecados",
+    "marca_actual": [],
+    "texto": "- Programa de Protecció als deutors hipotecaris davant les pujades dels tipus d’interès. S’establirà una deducció de fins a 300 euros al mes en l’Impost sobre la Renda de les Persones Físiques (IRPF) en forma d’«impost negatiu» (similar a la prestació per maternitat). Podrien sollicitar-la els qui tinguessin ingressos de la seva unitat familiar de fins a tres vegades l’IPREM (indicador públic de renda d’efectes múltiples), és a dir, 21.600 euros anuals i la seva quota hipotecària superi el 40% dels ingressos nets de la llar. El programa podria beneficiar 1 milió de famílies hipotecades i el cost anual ascendiria al 0,10% del PIB."
+   },
+   {
+    "id": "comuns-0074",
+    "partido": "comuns",
+    "titular": "Fiscalidad justa que grave los grandes patrimonios y reducción de jornada",
+    "marca_actual": [],
+    "texto": "Paral·lelament s’ha d’avançar en un model de fiscalitat més just per garantir uns serveis públics de qualitat a la ciutadania. Les pràctiques de reducció impositiva practicada en alguns països s’han mostrat no només nocives en termes de desigualtat entre ciutadans, també són un llast pel creixement econòmic i un risc per la democràcia. Per això hem d’aprofundir en mesures efectives que gravin els grans patrimonis que sovint han estat capaços de defugir el pagament d’impostos i especialment els ultrarics. No s’ha d’oblidar la importància de fiscalitat verda per fer efectiu el principi de qui contamina paga o el reforç de la imposició sobre qualsevol pràctica que desviï l’ús de l’habitatge residencial cap a altres usos o que afavoreixi l’especulació i la concentració de propietat. En definitiva, una fiscalitat en favor del 99%, ecològica i justa.\n\nEn l’àmbit laboral perseguirem la reducció de jornada i una millor conciliació. S’ha desmentit completament el mantra de que les pujades de salari mínim generen atur i queda desmentit que la reducció de la jornada laboral redueix la productivitat. Seguirem treballant per la qualitat de l’ocupació perquè aquesta és condició necessària per garantir una economia estable i productiva."
+   },
+   {
+    "id": "comuns-0158",
+    "partido": "comuns",
+    "titular": "Reforma fiscal más progresiva con más peso de los impuestos directos",
+    "marca_actual": [],
+    "texto": "La reforma fiscal és una de les grans reformes pendents i que el PSOE no ha volgut impulsar-la en aquesta legislatura tal com s’havia compromès. És imprescindible reformar el sistema i l’administració fiscals per tal d’assolir la suficiència financera de les administracions públiques i l’equilibri pressupostari, i arribar a una fiscalitat més justa, igualitària i progressiva, augmentant el pes dels impostos directes, lluitant de forma efectiva contra el frau i l’evasió fiscals, i modernitzant el sistema tributari en el seu conjunt dins el marc europeu i estatal degudament harmonitzats. El nivell elevat de frau fiscal que realitzen, principalment, les grans fortunes i els grans grups empresarials, i una economia submergida equivalent al 24% del PIB suposen uns dels elements amb més impacte al dèficit públic."
+   },
+   {
+    "id": "comuns-0169",
+    "partido": "comuns",
+    "titular": "Diagnóstico: el capital tributa menos que el trabajo y falta progresividad",
+    "marca_actual": [],
+    "texto": "Un estat del benestar al nivell europeu requereix una fiscalitat que aporti els recursos necessaris i compleixi el principi de progressivitat: qui més té i més guanya, més contribueix. Avui no és així. Les rendes del capital tributen menys que les del treball. Les grans empreses paguen un tipus efectiu molt inferior al nominal. I diverses comunitats autònomes han buidat els impostos sobre el patrimoni i les successions en benefici dels més rics. Cal recuperar capacitat recaptatòria, fer pagar més a qui més té i incorporar la perspectiva de gènere a tot el sistema fiscal."
+   },
+   {
+    "id": "comuns-0170",
+    "partido": "comuns",
+    "titular": "Integrar rentas del trabajo y del capital en la misma base del IRPF",
+    "marca_actual": [],
+    "texto": "- Per eliminar la discriminació que pateixen les rendes del treball en relació amb les del capital, fer que en el càlcul de l’IRPF estiguin juntes en la mateixa base imposable de manera que se’ls hi apliquin els mateixos tipus impositius."
+   },
+   {
+    "id": "comuns-0171",
+    "partido": "comuns",
+    "titular": "Bajar el IRPF hasta 25.000 € y gravar al 3 % las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Abaixarem l’IRPF a les rendes del treball de fins a 25.000 euros. Augmentarem la reducció per rendiments del treball perquè qui cobri el salari mínim no pagui IRPF i estendrem aquesta rebaixa, de manera decreixent, fins als 25.000 euros. Impulsar un impost a les grans fortunes (impost Zucman) que gravi la riquesa excessiva, i buscar consensos socials que permetin encara una limitació de la riquesa total en mans d’una sola persona. Per això proposem la creació d’un gravamen sobre la concentració de riquesa adreçada a persones físiques amb un patrimoni net global superior als 50 milions d’euros. Proposem que la llei estableixi un tipus únic del 3% sobre la base que excedeixi d’aquest llindar de 50 milions, amb exempcions fortament restringides i la supressió expressa de l’exempció general per al patrimoni empresarial i les participacions en entitats."
+   },
+   {
+    "id": "comuns-0181",
+    "partido": "comuns",
+    "titular": "Eliminar beneficios fiscales sin fin social o ecológico, como las ETVE",
+    "marca_actual": [],
+    "texto": "- Eliminar els beneficis fiscals de tot el sistema tributari espanyol que no corresponguin a finalitats de caràcter exclusivament d’interès i contingut socials o ecològics. Especialment, cal eliminar el règim de les Empreses de Tinença de Valors Estrangers (ETVE), que suposa un vehicle societari offshore per l’elusió fiscal internacional; i el règim d’exempcions a l’IRPF, que permet a les persones que es desplacen a treballar a Espanya i tenen rendes fins a 600.000€ anuals pagar un tipus marginal màxim del 24% i no tributar a Espanya per les rendes generades en altres països."
+   },
+   {
+    "id": "comuns-0183",
+    "partido": "comuns",
+    "titular": "Nuevo tramo del IRPF del 50 % para rentas de más de 150.000 €",
+    "marca_actual": [],
+    "texto": "- Gravar en grau més alt els nivells més alts de renda en l’IRPF. En aquest sentit, proposem un nou tram en l’IRPF amb un tipus marginal del 50% per a rendes superiors a 150.000 € anuals."
+   },
+   {
+    "id": "comuns-0190",
+    "partido": "comuns",
+    "titular": "Subir al 80 % del SMI el umbral de familiares a cargo del IRPF",
+    "marca_actual": [],
+    "texto": "- Pujar llindars mínim ascendents i descendents: Revisarem les bonificacions fiscals per a les persones que tenen a càrrec seu persones ascendents de més de 65 anys o amb discapacitat sigui quina sigui la seva edat, descendents menors de 25 anys o amb discapacitat sigui quina sigui la seva edat, així com cònjuges amb discapacitat, situant el llindar contemplat als articles 58, 59 i 81 bis de la Llei 35/2006 de l’IRPF com a ingressos màxims del familiar o persona dependent almenys en el 80% del salari mínim interprofessional."
+   },
+   {
+    "id": "comuns-0197",
+    "partido": "comuns",
+    "titular": "Reformular el IRPF para fomentar el transporte público y los espacios protegidos",
+    "marca_actual": [],
+    "texto": "- Reformular els actuals impostos de l’IRPF per fomentar el transport públic, actuacions i inversions en finques en custòdia i espais naturals protegits."
+   },
+   {
+    "id": "comuns-0284",
+    "partido": "comuns",
+    "titular": "Perseguir a los falsos autónomos y aplicar a los TRADE el convenio del cliente",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Inspecció de Treball contra els falsos autònoms. Als autònoms econòmicament dependents (TRADE) se’ls aplicarà el conveni de l’empresa client, i la seva indemnització per fi de contracte quedarà exempta d’IRPF, com la dels assalariats."
+   },
+   {
+    "id": "comuns-0460",
+    "partido": "comuns",
+    "titular": "Programa MOVES para autónomos del transporte y agricultores, hasta 8.000 euros",
+    "marca_actual": [],
+    "texto": "- Crearem un programa MOVES per a autònoms del transport i agricultors. Ajudes directes de fins a 8.000 euros per vehicle i una deducció reforçada en l’IRPF de fins a 25.000 euros per a substituir per elèctrics els vehicles antics del repartiment urbà i de l’activitat agrària."
+   },
+   {
+    "id": "comuns-0552",
+    "partido": "comuns",
+    "titular": "Bonificaciones y deducciones en el IRPF para actividades en municipios despoblados",
+    "marca_actual": [],
+    "texto": "- Establir incentius fiscals per a les activitats econòmiques situades en municipis despoblats o en risc de despoblament, mitjançant bonificacions i deduccions en l’IRPF."
+   },
+   {
+    "id": "comuns-0603",
+    "partido": "comuns",
+    "titular": "Cobrar la prestación por crianza cada mes como deducción reembolsable del IRPF",
+    "marca_actual": [],
+    "texto": "- Es cobrarà cada mes, des del naixement i sense paperassa. La prestació funcionarà com una deducció reemborsable de l’IRPF que l’Agència Tributària abonarà mensualment, de manera automàtica, a partir de la inscripció al Registre Civil, també a les famílies que no fan la declaració de la renda. És el mateix mecanisme que ja fa servir la deducció per maternitat, però per a tothom i sense haver-lo de sol·licitar."
+   },
+   {
+    "id": "comuns-0604",
+    "partido": "comuns",
+    "titular": "Financiar la prestación por crianza con más aportación de grandes fortunas y rentas altas",
+    "marca_actual": [],
+    "texto": "- La finançarem amb una fiscalitat progressiva: les grans fortunes i les rendes més altes hi aportaran més, i les famílies amb ingressos alts en retornaran una part a la declaració de la renda."
+   },
+   {
+    "id": "comuns-0609",
+    "partido": "comuns",
+    "titular": "Integrar el mínimo por descendientes del IRPF en la prestación por crianza",
+    "marca_actual": [],
+    "texto": "- Es reformarà el mínim per descendents a l’IRPF i la resta de deduccions per fills menors per tal d’integrar-les amb la Prestació Universal per Criança."
+   },
+   {
+    "id": "comuns-0639",
+    "partido": "comuns",
+    "titular": "Eliminar incentivos fiscales a los planes individuales e impulsar planes colectivos públicos",
+    "marca_actual": [],
+    "texto": "- Eliminar els incentius fiscals regressius dels plans de pensions individuals i impulsar plans d’ocupació col·lectius de promoció pública, negociats en conveni i sense ànim de lucre, com a complement de la pensió pública."
+   },
+   {
+    "id": "comuns-0812",
+    "partido": "comuns",
+    "titular": "Casilla cultural en el IRPF e IVA del 4 % para productos culturales",
+    "marca_actual": [],
+    "texto": "- Incorporar la casella cultural en l’IRPF, incentius fiscals a la compra i donació d’obres a institucions públiques i aplicació del 4% per a tots els serveis, instruments i productes culturals."
+   },
+   {
+    "id": "comuns-1034",
+    "partido": "comuns",
+    "titular": "Nuevo modelo de financiación con más autonomía fiscal, empezando por el IRPF",
+    "marca_actual": [],
+    "texto": "- **Impulsarem l’acord per al nou model de finançament, prenent com a punt de partida l’acord entre la Generalitat i el Govern de l’Estat d’aquesta legislatura.** El nou model de finançament ha de garantir la **suficiència,** perquè la Generalitat i les CCAA puguin disposar dels recursos necessaris per garantir els serveis públics i fer front a reptes com la crisi climàtica; **l’autonomia,** incrementant la participació de la Generalitat en els grans impostos de l’Estat (IRPF, IVA), la capacitat normativa per regular els impostos i la gestió dels impostos a càrrec de l’Agència Tributària de Catalunya, començant per l’IRPF. I cal garantir **l’equitat i la solidaritat** reduint les distàncies entre les comunitats millor i pitjor finançades."
+   }
+  ]
+ }
+]

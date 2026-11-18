@@ -1,0 +1,855 @@
+[
+ {
+  "eje": "eje-otan",
+  "pregunta": "¿Seguir en la OTAN?",
+  "posiciones": [
+   {
+    "id": "seguir",
+    "nombre": "Seguir en la OTAN"
+   },
+   {
+    "id": "salir",
+    "nombre": "Salir de la OTAN o cerrar las bases"
+   }
+  ],
+  "n": 43,
+  "palabras": 3466,
+  "candidatos": [
+   {
+    "id": "pp-0063",
+    "partido": "pp",
+    "titular": "Reforzar contingentes en la OTAN y el despliegue militar en África",
+    "marca_actual": [],
+    "texto": "**54 DEFENDEREMOS TODO NUESTRO TERRITORIO CON NUESTROS SOCIOS Y ALIADOS.** Reforzaremos cuando sea necesario los contingentes españoles de la OTAN y contribuiremos a proteger las rutas marítimas de las que depende nuestra economía. Reforzaremos el despliegue militar en Ceuta, Melilla, Canarias y el resto de los territorios españoles en el norte de África y contribuiremos a reforzar el pilar europeo en la OTAN."
+   },
+   {
+    "id": "psoe-0582",
+    "partido": "psoe",
+    "titular": "Balance: no a la guerra en Irán y ayuda al desarrollo casi duplicada",
+    "marca_actual": [],
+    "texto": "En Irán, Pedro Sánchez encabezó en Europa el rechazo a una guerra contraria al derecho internacional e impidió que se utilizaran las bases militares españolas para operaciones vinculadas a ella, sin dejar de condenar la represión del régimen iraní y sus ataques contra otros países.\n\nPor otra parte, hemos revitalizado la cooperación al desarrollo para reducir desigualdades, prevenir conflictos y generar oportunidades. Mientras otros desmantelan sus políticas de cooperación, España ha incrementado su contribución a la solidaridad internacional. En los últimos ocho años hemos casi duplicado la Ayuda Oficial al Desarrollo y solo en 2025 hemos superado los 4.500 millones de euros, situándonos por encima de la media del Comité de Ayuda al Desarrollo (CAD).\n\nHay momentos en nuestra historia como país en los que debemos decidir quiénes somos. Este es uno de ellos. Mientras algunos se pliegan ante aquellos que vuelven a hablar el lenguaje de la fuerza y los muros, los y las socialistas apostamos por un mundo más abierto: con más democracia, más diplomacia, y más respeto a los derechos humanos."
+   },
+   {
+    "id": "fa-0853",
+    "partido": "fa",
+    "titular": "Rechazar el objetivo OTAN del 5 % y reducir el gasto militar",
+    "marca_actual": [],
+    "texto": "- Reducción del gasto militar y rechazo al objetivo de la OTAN: Rechazaremos de forma explícita el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN, impulsando una reducción efectiva de las partidas militares, reorientando los recursos presupuestarios hacia la seguridad humana, la protección civil, emergencias climáticas, sanidad y educación. Todo ello debe contar con el oportuno control parlamentario."
+   },
+   {
+    "id": "fa-0855",
+    "partido": "fa",
+    "titular": "Firmar el Tratado sobre la Prohibición de las Armas Nucleares",
+    "marca_actual": [],
+    "texto": "- Desarme nuclear y un nuevo control de armas: Firma y ratificación del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) y, desde el primer año, participación de España como observadora en sus reuniones de Estados parte, como hicieron Alemania o Noruega, aliados de la OTAN. Impulso desde la UE a un nuevo marco de control de armas nucleares que sustituya al New START y al INF, defensa del TNP tras el fracaso de su última Conferencia de Examen y apoyo a una zona libre de armas nucleares y de destrucción masiva en Oriente Próximo. Blindaremos por ley el compromiso del referéndum de 1986 de no instalar, almacenar ni introducir armas nucleares en territorio español."
+   },
+   {
+    "id": "fa-0862",
+    "partido": "fa",
+    "titular": "Ley de embargo integral, total y permanente de armas a Israel",
+    "marca_actual": [],
+    "texto": "- Ley de embargo integral, total y permanente de armas a Israel: Aprobaremos una ley específica de embargo integral de armas a Israel para mejorar el Real Decreto-ley 10/2025. Esta norma eliminará cualquier excepción autorizable por el Gobierno, fijará el embargo con carácter permanente mientras persista la ocupación ilegal o el riesgo de genocidio, cerrará vías de tránsito militar por aeropuertos, puertos, espacio aéreo y bases militares, y prohibirá la contratación pública o la cooperación militar/tecnológica con la industria de defensa israelí (incluyendo transferencias indirectas a través de terceros países)."
+   },
+   {
+    "id": "compromis-0527",
+    "partido": "compromis",
+    "titular": "Unión Europea de la Defensa que sustituya a la OTAN y reduzca gasto militar",
+    "marca_actual": [],
+    "texto": "- Treballarem per la construcció d'una Unió Europea de la Defensa que puga substituir el marc de l'OTAN, reduïsca duplicitats i despeses militars sense comprometre la seguretat amb un mandat clar en favor del manteniment de la pau, la protecció de la democràcia i la defensa de la legalitat internacional."
+   },
+   {
+    "id": "fo-0019",
+    "partido": "fo",
+    "titular": "Diagnóstico: la OTAN como organización imperialista al servicio de EE.UU.",
+    "marca_actual": [],
+    "texto": "Por otro lado, España forma parte de la OTAN, organización imperialista que sirve a los intereses de EE.UU. y que, además, nos supone un costo anual importante. La OTAN no aporta nada a España, pero sí supone un gasto. Nos arrastra a conflictos que nada tienen que ver con nuestros intereses como país y no nos apoya en el conflicto que mantenemos con Marruecos, por mucho que a nivel oficial puedan parecer nuestros aliados.\n\nPor ello apostamos por tomar las siguientes medidas:"
+   },
+   {
+    "id": "fo-0021",
+    "partido": "fo",
+    "titular": "Salir de inmediato de la OTAN y reforzar el ejército",
+    "marca_actual": [],
+    "texto": "2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército."
+   },
+   {
+    "id": "mundo-0218",
+    "partido": "mundo",
+    "titular": "Reducir el gasto militar un 2 % anual en todos los países",
+    "marca_actual": [],
+    "texto": "- **Gasto militar mundial («Dividendo para la paz»)** — España: 2,0 % del PIB (OTAN · 2025) — Meta: −2 % anual en todos los países — Plazo: 2026–2030"
+   },
+   {
+    "id": "fe-0049",
+    "partido": "fe",
+    "titular": "Abandonar la OTAN, el FMI, la UE y la ONU",
+    "marca_actual": [],
+    "texto": "- 3.1. Como hemos defendido siempre, los falangistas creemos en la total y absoluta soberanía de la Nación española frente a cualquier elemento foráneo. Es por ello que defendemos, sin medias tintas, el abandono inmediato de las organizaciones supranacionales tales como la OTAN, el FMI o las actuales UE u ONU, y retirarnos de todos aquellos tratados internacionales que limiten nuestra autonomía en la toma de decisiones."
+   },
+   {
+    "id": "fe-0169",
+    "partido": "fe",
+    "titular": "Abandonar la OTAN y no participar en misiones ajenas",
+    "marca_actual": [],
+    "texto": "- 16.1. Abandono de la OTAN por parte del Ejército español. Este ha de servir a los intereses de la nación española, no los de EEUU, cualquier otro país u otra entidad supranacional. No participación en misiones y guerras ajenas a nuestros intereses."
+   },
+   {
+    "id": "pcte-0085",
+    "partido": "pcte",
+    "titular": "Romper los acuerdos de uso de bases por fuerzas militares extranjeras",
+    "marca_actual": [],
+    "texto": "- **Bases militares** — **Ruptura de los acuerdos que permiten el uso de territorio español por fuerzas militares extranjeras** y recuperación de la plena soberanía sobre las bases."
+   },
+   {
+    "id": "pcte-0088",
+    "partido": "pcte",
+    "titular": "Salida de España de la OTAN y de la Unión Europea",
+    "marca_actual": [],
+    "texto": "- **OTAN y UE** — **Salida de España de la OTAN y de la Unión Europea**."
+   },
+   {
+    "id": "podemos-0081",
+    "partido": "podemos",
+    "titular": "Diagnóstico: economía de guerra y dependencia de Estados Unidos y la OTAN",
+    "marca_actual": [],
+    "texto": "Esta deriva está impulsando una economía de guerra en detrimento de una economía para la vida. Esto es un gigantesco mecanismo de transferencia de dinero desde abajo hacia arriba. El dinero que la gente aporta con sus impuestos termina convertido en contratos multimillonarios para empresas armamentísticas. También beneficios extraordinarios para grandes empresas aprovechando las subidas de los precios del petróleo y del gas asociadas a las crisis internacionales. Y mientras unos acumulan beneficios en sus consejos de administración, quienes terminan en las trincheras, quienes pierden sus casas y quienes ponen los muertos son las clases populares.\n\nLejos de avanzar hacia una política exterior independiente y comprometida con la paz, España ha reafirmado su compromiso con los objetivos de la OTAN y con una estrategia de rearme que profundiza nuestra dependencia militar, estratégica y económica de Estados Unidos. Una alianza cuyo secretario general, Mark Rutte, ha defendido la necesidad de incrementar su capacidad letal y su poder militar, subordinando la seguridad europea a los intereses geopolíticos estadounidenses. Esta dependencia resulta especialmente peligrosa bajo el Gobierno de Donald Trump, que ha convertido la guerra en instrumento para imponer los intereses de Estados Unidos en el mundo."
+   },
+   {
+    "id": "podemos-0082",
+    "partido": "podemos",
+    "titular": "Diagnóstico: el gasto militar español creció un 50 % en 2025",
+    "marca_actual": [],
+    "texto": "España acaba de protagonizar el mayor rearme de su historia reciente por imperativo de la OTAN. En 2025, el gasto militar español aumentó un 50% hasta alcanzar los 34.200 millones de euros. España fue el país que más incrementó su gasto militar entre las quince mayores potencias militares del mundo.\n\nMás allá de los discursos, el Gobierno de España ha seguido reforzando de facto su integración en la lógica de bloques liderada por Estados Unidos. Esta subordinación se expresa en una aplicación selectiva e hipócrita del derecho internacional. Por un lado, España ha participado de amplias sanciones contra Rusia por su invasión de Ucrania y se ha mantenido la escalada bélica, el envío de armamento y el apoyo a la estrategia militar de la OTAN en vez de impulsar una iniciativa diplomática para alcanzar una paz justa. Por otro, no se ha aplicado una respuesta diplomática frente a Israel pese a las gravísimas vulneraciones del derecho internacional cometidas contra el pueblo palestino y a las obligaciones internacionales de prevenir genocidios."
+   },
+   {
+    "id": "podemos-0083",
+    "partido": "podemos",
+    "titular": "Salir de la OTAN y cerrar las bases estadounidenses de Rota y Morón",
+    "marca_actual": [],
+    "texto": "70. **Salida de la OTAN y cierre de las bases militares estadounidenses de Rota y Morón.** Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón."
+   },
+   {
+    "id": "podemos-0086",
+    "partido": "podemos",
+    "titular": "Rechazar el objetivo de la OTAN del 5 % del PIB en gasto militar",
+    "marca_actual": [],
+    "texto": "73. **Rechazo al objetivo de la OTAN de elevar el gasto militar al 5 % del PIB en 2035.** Rechazaremos el compromiso adquirido por el Gobierno de Pedro Sánchez de elevar el gasto militar hasta el 5 % del PIB en 2035 y defenderemos una política exterior basada en la paz, la diplomacia y la cooperación internacional, priorizando la inversión en derechos sociales frente al rearme."
+   },
+   {
+    "id": "adelante-0637",
+    "partido": "adelante",
+    "titular": "Rechazar el rearme y el 5 % de la OTAN y reducir gasto militar",
+    "marca_actual": [],
+    "texto": "578. **No al rearme** — Rechazo al plan europeo de rearme y al objetivo del 5 % del PIB de la OTAN, reducción progresiva del gasto militar, todo él en el presupuesto y sin créditos extraordinarios, y publicación del gasto militar real. _Porque más gasto militar no trae más seguridad, sino más guerras._"
+   },
+   {
+    "id": "adelante-0638",
+    "partido": "adelante",
+    "titular": "Referéndum sobre la permanencia de España en la OTAN",
+    "marca_actual": [],
+    "texto": "579. **Referéndum sobre la OTAN** — Proceso que termine en una consulta sobre la permanencia de España. _Porque la ciudadanía tiene derecho a decidir sobre la pertenencia a la OTAN._"
+   },
+   {
+    "id": "adelante-0639",
+    "partido": "adelante",
+    "titular": "Renegociar los convenios de Rota y Morón para cerrar las bases extranjeras",
+    "marca_actual": [],
+    "texto": "580. **Rota y Morón sin bases extranjeras** — Renegociación de los convenios con el objetivo de cerrarlas y plan de empleo alternativo para las comarcas, sin escudo antimisiles ni submarinos nucleares en Gibraltar, y España en el Tratado sobre la Prohibición de las Armas Nucleares, sin armas nucleares en su territorio, puertos ni espacio aéreo. _Porque las bases extranjeras hacen de Andalucía un objetivo militar._"
+   },
+   {
+    "id": "adelante-0643",
+    "partido": "adelante",
+    "titular": "Embargo total de armas a Israel y suspender el acuerdo UE-Israel",
+    "marca_actual": [],
+    "texto": "584. **Embargo total de armas a Israel** — Cumplimiento estricto, también del material de doble uso y del tránsito por puertos y bases como Rota, y suspensión del acuerdo de asociación entre la UE e Israel. _Porque ninguna arma que pase por Andalucía debe acabar en un genocidio._"
+   },
+   {
+    "id": "adelante-0713",
+    "partido": "adelante",
+    "titular": "Cercanías y media distancia para la Costa Noroeste de Cádiz",
+    "marca_actual": [],
+    "texto": "647. **Cercanías para la Costa Noroeste** — Cercanías y media distancia que unan Trebujena, Sanlúcar, Chipiona y Rota con Lebrija, Jerez y la Bahía de Cádiz. _Porque la Costa Noroeste tiene más de 100.000 habitantes y no tiene tren._"
+   },
+   {
+    "id": "adelante-0720",
+    "partido": "adelante",
+    "titular": "Remisión a otras propuestas del programa para Cádiz",
+    "marca_actual": [],
+    "texto": "También en este programa: planes para las comarcas con más paro (**367**), Rota y Morón sin bases extranjeras (**580**), protección del Tómbolo de Trafalgar (**424**)."
+   },
+   {
+    "id": "adelante-0793",
+    "partido": "adelante",
+    "titular": "Remisión a otras propuestas del programa para Sevilla",
+    "marca_actual": [],
+    "texto": "También en este programa: Hospital del Aljarafe y centros Pascual, públicos (**69**); los Murillo, a casa (**602**); Patio de los Naranjos (**505**); Morón sin bases (**580**); presas del Guadalquivir (**419**)."
+   },
+   {
+    "id": "bng-0006",
+    "partido": "bng",
+    "titular": "Balance: defensa de la paz frente al gasto militar y compromiso antifascista",
+    "marca_actual": [],
+    "texto": "Vangarda tamén na defensa de políticas de Paz e antiimperialistas fronte á escalada bélica, ao aumento do gasto militar, ás agresións do imperialismo norteamericano, ao xenocidio perpetrado polo sionismo en Palestina ou ao sometemento da UE e do Estado español aos ditados dos EUA e da OTAN.\n\nAliás, fomos e somos unha voz firme contra as políticas de involución democrática e de recorte de dereitos sociais impulsada polo bloque reaccionario encabezado polo Partido Popular. Comprometémonos a que, se do BNG depender, o PP non chegaría ao goberno e actuamos en consecuencia. Mais tamén confrontamos con firmeza as dereitas ultras, denunciando as súas políticas e a demagoxia que as envolven, mesmo empregando a experiencia práctica de xestión de Núñez Feixoo no Goberno galego durante 13 anos. Hoxe, o compromiso antifascista do BNG mantense íntegro, coa certeza de sermos a forza determinante en Galiza para cortar o paso do bloque reaccionario."
+   },
+   {
+    "id": "bng-0535",
+    "partido": "bng",
+    "titular": "Rechazo a la injerencia del Estado en conflictos como peón de EE. UU.",
+    "marca_actual": [],
+    "texto": "O BNG, como forza pacifista e antiimperialista, que aposta polo respecto á soberanía nacional dos pobos e pola resolución pacífica dos conflitos, rexeita de maneira rotunda a política de inxerencias que está a manter o Estado español nos conflitos internacionais, ao se revelar simplemente como un peón dos Estados Unidos e da OTAN, cuxo obxectivo é recuperar un enfrontamento entre bloques que lle permita demorar a súa perda da hexemonía mundial nos campos político e económico.\n\nA nosa loita política tamén traballa para mudar a globalización en favor dunha relación en pé de igualdade entre nacións, ademais de para converter o noso país nun actor que a nivel internacional axude a construír un modelo alternativo ao actual capitalismo transnacional cos demais pobos. Ao defendermos a soberanía do pobo galego, reivindicamos tamén a necesidade de recuperarmos o respecto polo principio de soberanía e a non-inxerencia tamén para os demais.\n\nAvogamos, por tanto, en favor de que o Estado respecte os seus compromisos como signatario da Carta da ONU e dos pactos e acordos posteriores que recollen o dereito dos pobos á auto-determinación —comezando polas nacións que aínda facemos parte del— e se afaste das estratexias bélicas e intervencionistas. Nese sentido, condenamos todas as agresións e defendemos:"
+   },
+   {
+    "id": "bng-0536",
+    "partido": "bng",
+    "titular": "Neutralidad activa: salir de la OTAN y cancelar los acuerdos con EE. UU.",
+    "marca_actual": [],
+    "texto": "- O status internacional de neutralidade activa do Estado español, que incluirá:\n - 1. Saída da OTAN e defensa de disolución desa alianza militar imperialista.\n - 2. Retirada inmediata dos milleiros de efectivos militares españois participantes en misións OTAN e USA, e en concreto nos países fronteirizos coa Federación Rusa.\n - 3. Apoio ás iniciativas que busquen a paz no conflito ruso-ucraíno a través dunha saída diplomática e negociada a esta contenda, censando de inmediato o envío de armamento español á Ucraína, que non fai máis que alongar o conflito e o sufrimento. Reforzar o envío de material humanitario.\n - 4. Eliminación de calquera venda de armamento a estados con réximes ditatoriais e/ou que agridan militarmente outros pobos. Reforzo do control parlamentar neste ámbito.\n - 5. Cancelación dos acordos bilaterais España-USA e instar á retirada dos efectivos militares no Estado español."
+   },
+   {
+    "id": "bng-0537",
+    "partido": "bng",
+    "titular": "Rechazar el aumento del gasto militar y reducirlo progresivamente",
+    "marca_actual": [],
+    "texto": "- Rexeitamento ao incremento do gasto militar e ao acatamento das directrices OTAN e Estados Unidos neste ámbito. Redución progresiva das cantidades millonarias dilapidadas nesta materia, que ademais implican recortes en servizos públicos esenciais como a sanidade, o ensino e os servizos sociais."
+   },
+   {
+    "id": "bng-0538",
+    "partido": "bng",
+    "titular": "Oponerse a la militarización de la UE y vetar la minería de uso militar",
+    "marca_actual": [],
+    "texto": "- Opoñerse, no ámbito da UE, á militarización e ao desvío orzamentario de partidas sociais destinadas a fins militares e á industria bélica. Excluír da explotación nos plans de minaría, no ámbito das actuais competencias españolas en materia de lexislación básica sobre minaría e dos plans de exploración mineira, aquelas materias primas -litio, coltán, neodimo, berilio, etc- definidas como críticas e estratéxicas para uso militar pola OTAN e a UE."
+   },
+   {
+    "id": "bng-0541",
+    "partido": "bng",
+    "titular": "Abolición definitiva del servicio militar obligatorio",
+    "marca_actual": [],
+    "texto": "- Defender unha política de paz opóndose ás medidas que buscan estender na sociedade o militarismo; e consecuentemente demandamos a abolición definitiva do Servizo Militar Obrigatorio (só en \"suspensión\" desde o ano 2001) por responder ás estratexias bélicas da OTAN e UE, e sendo o exército español unha ferramenta do réxime, ao servizo do centralismo españolizador e negador da realidade plurinacional do Estado."
+   },
+   {
+    "id": "erc-0061",
+    "partido": "erc",
+    "titular": "Revertir el giro sobre el Sáhara y embargo de armas a Israel",
+    "marca_actual": [],
+    "texto": "En matèria de relacions bilaterals, Esquerra Republicana ha estat una de les veus més crítiques amb el gir del govern del PSOE respecte el Sàhara Occidental. Cal revertir-lo, denunciar les violacions de drets humans del Marroc i exigir que es compleixin les resolucions del Tribunal de Justícia de la Unió Europea. També exigim un embargament complet d’armes a Israel i la suspensió de l’acord d’associació UE-Israel com a resposta al genocidi a Gaza.\n\nPer últim, defensem un rol preponderant de la Unió Europea en el nou tauler internacional. La Unió Europea ha de tenir una veu pròpia més forta al món, compromesa amb l’ajuda a Ucraïna davant l’agressió russa, dotada amb un pressupost comú més ambiciós i autònoma de l’OTAN en matèria de defensa. Una Europa on Catalunya hi ha de tenir veu pròpia com a espai natural de relació política. Un exemple n’és el procés de presa de decisions en matèria econòmica del Semestre Europeu."
+   },
+   {
+    "id": "bildu-0202",
+    "partido": "bildu",
+    "titular": "Rechazar el envío de armas y el aumento del gasto en defensa",
+    "marca_actual": [],
+    "texto": "La mejor herramienta para la resolución de los conflictos son el diálogo, la diplomacia y el acuerdo. Por ello respaldaremos los procesos de paz y diálogo frente a las intervenciones y escaladas militares. Rechazaremos, por tanto, el envío de armas y la financiación para las mismas, que no harán sino recrudecer las guerras derivadas de estos conflictos. Igualmente, rechazaremos el aumento del gasto en defensa que la OTAN está exigiendo."
+   },
+   {
+    "id": "bildu-0204",
+    "partido": "bildu",
+    "titular": "Rechazar la OTAN y la pertenencia de Euskal Herria a ella",
+    "marca_actual": [],
+    "texto": "Rechazamos la OTAN y la pertenencia de Euskal Herria a la misma, adoptando y reconociendo así la decisión adoptada por la sociedad vasca expresada con su voto en el referéndum de 1986. Por ello, apostaremos por terminar con el modelo de dependencia actual hacia esta organización y EEUU.\n\nFrente a ello, abogaremos por la construcción de un proyecto de seguridad estratégica europeo que establezca nuevos principios en base a la diplomacia, el respeto al derecho internacional, los acuerdos de y la autonomía estratégica, contraponiendo un nuevo modelo integral respetuoso con los pueblos y naciones y su derecho a la paz, frente a la visión ofensiva, injerencista y bélica de EEUU y la alianza atlántica."
+   },
+   {
+    "id": "bildu-0205",
+    "partido": "bildu",
+    "titular": "Cerrar el campo de tiro de Bardenas y las bases de Rota y Morón",
+    "marca_actual": [],
+    "texto": "Propondremos cerrar y desmantelar el campo de tiro de las Bardenas, un entorno protegido de alto valor ecológico, que es utilizado para maniobras con fuego real por el ejército español y la OTAN, lo cual ha generado numerosos accidentes y molestias constantes a la ciudadanía del entorno. Para ello, propondremos planes de reconversión y financiación suficiente que aseguren el futuro de los municipios.\n\nAsí mismo, apostaremos por impedir el uso que Estados Unidos hace de las más de 275 bases e instalaciones en Europa, incluidas Rota y Morón, que son utilizadas como centros de operaciones para las guerras que EEUU mantiene, así como la salida de los más de 100.000 soldados estadounidenses en activo en Europa."
+   },
+   {
+    "id": "pfac-0948",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la pertenencia a la OTAN y la UE como pérdida de soberanía",
+    "marca_actual": [],
+    "texto": "La política exterior española está marcada por la pertenencia de nuestro país a la Organización del Tratado del Atlántico Norte (OTAN) y a la Unión Europea (UE). La adhesión a ambas organizaciones supuso una pérdida de soberanía que ha condicionado las relaciones exteriores españolas, supeditándolas a los intereses de otros países como Estados Unidos (OTAN) o Alemania (UE).\n\nLa incorporación de España a la estructura militar integrada de la OTAN en 1999 ha implicado una pérdida de autonomía en su política de defensa y una subordinación a intereses geoestratégicos ajenos. Una consecuencia de esta situación es el incremento progresivo del gasto militar y de defensa, con el compromiso reciente de alcanzar el 5% del PIB, lo que ha situado en 2025 a España por primera vez en el ranking de los quince países con más gasto militar. Así mismo, la pertenencia a la OTAN implica la participación de nuestro país en conflictos que responden a los intereses de EE. UU. o Reino Unido como es la guerra entre Rusia y Ucrania. En lugar de proponer medidas concretas de presión internacional (económicas, diplomáticas, culturales) para la resolución de conflictos, nuestro país apoya la vía militar, en línea de nuevo con los intereses de la OTAN."
+   },
+   {
+    "id": "pfac-0949",
+    "partido": "pfac",
+    "titular": "Diagnóstico: políticas de la UE alineadas con el militarismo de la OTAN",
+    "marca_actual": [],
+    "texto": "Si bien los objetivos que declara la UE en el Tratado de Lisboa (2016) y en su Carta de Derechos Fundamentales (2012) son el logro de la paz y el bienestar de la ciudadanía, sin fronteras interiores, así como la promoción de la paz, la solidaridad, el derecho internacional y el desarrollo sostenible fuera de sus fronteras, la realidad es que sus políticas actuales están alineadas con el militarismo de la OTAN y los intereses del capitalismo neoliberal y subordinadas a una lógica neocolonial que reproduce las desigualdades globales. Especialmente preocupante es el papel que dentro de la UE está jugando Alemania, que está reorientando su economía a la industria armamentística, al tiempo que promueve un conflicto global contra Rusia y se alinea incondicionalmente con Israel al considerar antisemitismo la defensa de los derechos del pueblo palestino."
+   },
+   {
+    "id": "pfac-0952",
+    "partido": "pfac",
+    "titular": "Política exterior por la paz: salir de la OTAN y romper con Israel",
+    "marca_actual": [],
+    "texto": "- MEDIDA 43. CONSEGUIR UNA POLÍTICA EXTERIOR POR LA PAZ. Acabar con la política belicista y de Incremento del gasto militar, plan progresivo de salida de la OTAN, ruptura de relaciones diplomáticas con el estado de Israel, reclamar la autodeterminación del pueblo saharaui, y negociaciones de paz para acabar con la guerra de Ucrania."
+   },
+   {
+    "id": "pfac-0954",
+    "partido": "pfac",
+    "titular": "Plan progresivo de salida de la OTAN",
+    "marca_actual": [],
+    "texto": "1. Reclamar una política de defensa liberada de la tutela de EE. UU., impulsando un plan progresivo de salida de la OTAN, que tenga en cuenta la realidad geopolítica de España, garantizando la soberanía y la seguridad de nuestro país."
+   },
+   {
+    "id": "pfac-0955",
+    "partido": "pfac",
+    "titular": "No renovar los convenios de bases militares de Estados Unidos",
+    "marca_actual": [],
+    "texto": "2. No renovar los convenios que regulan la presencia de bases militares de Estados Unidos en territorio nacional."
+   },
+   {
+    "id": "ph-0041",
+    "partido": "ph",
+    "titular": "Salir de la estructura militar de la OTAN y declarar la neutralidad activa",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Neutralidad activa y salida de la OTAN** Inicio del proceso legal de salida de España de la estructura militar de la OTAN. Declaración de España como estado soberano de Neutralidad Activa, consagrado a la mediación de paz, la diplomacia preventiva y la cooperación internacional."
+   },
+   {
+    "id": "ph-0043",
+    "partido": "ph",
+    "titular": "Cerrar las bases militares extranjeras de Rota y Morón y reconvertirlas",
+    "marca_actual": [],
+    "texto": "- **Propuesta 3: Cierre de bases militares extranjeras** Cierre programado y desmantelamiento de las instalaciones militares extranjeras en territorio nacional (Bases de Rota y Morón) y su reconversión pública en centros tecnológicos de investigación marina, logística humanitaria y energías renovables."
+   },
+   {
+    "id": "ph-0069",
+    "partido": "ph",
+    "titular": "Gasto: sanidad 9,5 %, educación 7 % y defensa menos del 1 %",
+    "marca_actual": [],
+    "texto": "|Ámbito / Partida|Situación Actual (% PIB o Gasto Real)|Propuesta Partido Humanista 2029 (% PIB / Objetivo)|Variación / Destino Clave del Gasto|\n|---|---|---|---|\n|Sanidad Pública|6,7% del PIB actual|9,5% del PIB|Atención primaria, salud mental comunitaria, odontología y gafas|\n|Educación Pública|4,4% del PIB actual|7,0% del PIB|Escuela 100% pública, laica, ratios de 15 alumnos, gratuidad universidad/FP|\n|Vivienda Social|0,2% del PIB actual (~2,5% parque social)|1,5% del PIB|Alcanzar 20% parque público alquiler, movilización Sareb/fondos|\n|Protección Social y Renta|Prestaciones fragmentadas condicionadas|Renta Básica Universal Incondicional|950 €/mes adultos|\n|Gasto Militar / Defensa|>2,0% del PIB (compromiso OTAN)|<1,0% del PIB|Reducción del 50%, reconversión a industria de paz y salud|\n|Transición Ecosocial y Transporte|Foco en megaparques y AVE|Transporte soberano y comunitario|Transporte ferroviario convencional gratuito y comunidades solares en tejados|"
+   },
+   {
+    "id": "d21-0323",
+    "partido": "d21",
+    "titular": "Reforzar el pilar europeo de defensa y las compras conjuntas de armamento",
+    "marca_actual": [],
+    "texto": "- **Pilar Europeo de Defensa y Base Industrial Común:** la seguridad europea no puede externalizarse indefinidamente. Reforzaremos el pilar europeo dentro de la OTAN y desplegaremos la Hoja de Ruta de Preparación en Materia de Defensa 2030, promoviendo compras conjuntas de armamento, movilidad militar inmediata y la interoperabilidad de nuestros ejércitos. Consolidaremos una base industrial, tecnológica y espacial comunitaria donde las empresas punteras de ingeniería españolas actúen como socias de referencia."
+   }
+  ]
+ },
+ {
+  "eje": "eje-gestacion",
+  "pregunta": "¿Qué hacer con la gestación subrogada?",
+  "posiciones": [
+   {
+    "id": "prohibir",
+    "nombre": "Prohibirla y perseguirla"
+   },
+   {
+    "id": "regular",
+    "nombre": "Regularla"
+   }
+  ],
+  "n": 30,
+  "palabras": 2398,
+  "candidatos": [
+   {
+    "id": "psoe-0399",
+    "partido": "psoe",
+    "titular": "Balance: aborto a los 16 y 17 años sin consentimiento paterno",
+    "marca_actual": [],
+    "texto": "Hemos continuado avanzando en los derechos de las mujeres y en su libertad sexual y reproductiva. Hemos reformado la legislación para garantizar el acceso al aborto de las jóvenes de 16 y 17 años sin consentimiento paterno, reconocer nuevos derechos menstruales y reproductivos y castigar el acoso a las mujeres que acuden a clínicas de interrupción voluntaria del embarazo. Hemos reforzado las medidas contra la gestación subrogada, reconocida como una forma de violencia reproductiva, y en 2025 prohibimos la inscripción directa en el Registro Civil de los nacimientos mediante esta práctica en el extranjero. Y hemos ampliado la duración y triplicado el anticipo del Fondo de Garantía del Pago de Alimentos, de 100 a 300 euros mensuales por hijo o hija, para reforzar la protección económica frente al impago de pensiones alimenticias."
+   },
+   {
+    "id": "psoe-0401",
+    "partido": "psoe",
+    "titular": "Retos: corresponsabilidad en los cuidados y nuevas formas de violencia machista",
+    "marca_actual": [],
+    "texto": "Por otro lado, la corresponsabilidad constituye también un reto estructural. Las mujeres siguen asumiendo mayoritariamente los cuidados y las tareas domésticas, con consecuencias directas sobre su autonomía económica y su desarrollo profesional. El cuidado debe reconocerse como un derecho de todas las personas y una responsabilidad colectiva, garantizando también los derechos de quienes cuidan.\n\nFinalmente, crecen nuevas formas de violencia machista: la violencia económica, la violencia sexual alimentada por una pornografía que fetichiza las agresiones contra las mujeres, la trata, la banalización de la prostitución, la violencia digital o la explotación de la capacidad reproductiva de las mujeres a través de los vientres de alquiler. Nuestro reto es que mujeres y niñas víctimas de cualquier forma de violencia de género cuenten con la protección, justicia y acompañamiento necesarios para recuperar su proyecto de vida."
+   },
+   {
+    "id": "psoe-0428",
+    "partido": "psoe",
+    "titular": "Reforzar la prohibición de la gestación por sustitución y perseguir su intermediación",
+    "marca_actual": [],
+    "texto": "**329. Fortalecer la protección frente a la explotación reproductiva** , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción."
+   },
+   {
+    "id": "compromis-0463",
+    "partido": "compromis",
+    "titular": "Reforzar la prohibición de la gestación subrogada o «vientres de alquiler»",
+    "marca_actual": [],
+    "texto": "- Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents."
+   },
+   {
+    "id": "compromis-0464",
+    "partido": "compromis",
+    "titular": "Prohibir y sancionar la publicidad de agencias de explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Prohibirem i sancionarem la publicitat, la intermediació lucrativa i la promoció comercial d’agències que ofereixen serveis d’explotació reproductiva."
+   },
+   {
+    "id": "compromis-0465",
+    "partido": "compromis",
+    "titular": "Medidas contra el negocio transnacional de la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Impulsarem mesures contra el negoci transnacional de l’explotació reproductiva, incloent-hi la cooperació internacional i el control de les empreses intermediàries."
+   },
+   {
+    "id": "compromis-0467",
+    "partido": "compromis",
+    "titular": "Políticas internacionales contra la pobreza que facilita la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Promourem polítiques internacionals contra la pobresa i la vulnerabilitat econòmica que faciliten l’explotació reproductiva."
+   },
+   {
+    "id": "fo-0083",
+    "partido": "fo",
+    "titular": "Rechazo del feminismo queer, los vientres de alquiler y los cupos",
+    "marca_actual": [],
+    "texto": "Además, estos últimos años el feminismo “clásico” ha desvariado hasta el punto de negar la existencia material de la propia. El feminismo queer, no sabe definir qué es ser una mujer, porque ha dejado de ser algo biológico, para ser algo sentido, asignado… Y esto ha provocado que las propias mujeres se vean apartadas por ejemplo de algunas categorías deportivas. Sus líderes son varones biológicos con vestido y peluca y algunas mujeres han sido expulsadas de su propio movimiento.\n\nLas mujeres de verdad tienen problemas que son ignorados por las feministas, no solo la conciliación familiar. Nosotros nos posicionamos en contra de las mafias de la prostitución y de los vientres de alquiler. La mujer no es un objeto de usar y tirar por parte de los ricos, la mujer ha de ser respetada.\n\nEste nefasto movimiento defiende el lenguaje de género y los cupos, la discriminación positiva. No se puede luchar por la igualdad, por la igualdad real, discriminando. La discriminación engendra más discriminación, nunca justicia ni igualdad. Estamos en contra de todo tipo de cupos."
+   },
+   {
+    "id": "fo-0091",
+    "partido": "fo",
+    "titular": "Prohibir y perseguir los vientres de alquiler, también fuera de España",
+    "marca_actual": [],
+    "texto": "6. Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional. La mujer no es un objeto ni sus hijos una mercancía. Se perseguirá la compra de vientres de alquiler que se realicen fuera de España, para ser criados posteriormente en nuestro país"
+   },
+   {
+    "id": "mundo-0270",
+    "partido": "mundo",
+    "titular": "Mantener la prohibición de la gestación subrogada en España",
+    "marca_actual": [],
+    "texto": "7. **Mantener la prohibición de la gestación subrogada en España,** como medida de protección frente a situaciones de explotación reproductiva, especialmente cuando están vinculadas a la pobreza y la vulnerabilidad económica de las mujeres."
+   },
+   {
+    "id": "pcte-0075",
+    "partido": "pcte",
+    "titular": "Rechazar la gestación subrogada y perseguir a las agencias que la intermedian",
+    "marca_actual": [],
+    "texto": "- **Gestación subrogada** — **Rechazo de la gestación subrogada**. Persecución de las agencias que la intermedian desde España."
+   },
+   {
+    "id": "podemos-0186",
+    "partido": "podemos",
+    "titular": "Combatir la explotación reproductiva y la publicidad de gestación subrogada",
+    "marca_actual": [],
+    "texto": "168. **Combatir la explotación reproductiva y la publicidad de servicios de gestación subrogada.** Reforzar las actuaciones frente a las agencias que facilitan estas prácticas que están prohibidas por ley en España y proteger los derechos de la infancia."
+   },
+   {
+    "id": "adelante-0577",
+    "partido": "adelante",
+    "titular": "Prohibir la gestación subrogada y reforzar la adopción pública",
+    "marca_actual": [],
+    "texto": "521. **Prohibición de la gestación subrogada** — Y refuerzo de la adopción pública. _Porque los cuerpos de las mujeres no se compran ni se alquilan._"
+   },
+   {
+    "id": "pfac-0005",
+    "partido": "pfac",
+    "titular": "La Agenda Feminista como piedra angular del proyecto político",
+    "marca_actual": [],
+    "texto": "El feminismo está en el origen de nuestro proyecto político e impregna todas nuestras propuestas. La defensa de la igualdad entre mujeres y hombres y la voluntad de acabar con las estructuras que sostienen la subordinación de las mujeres inspiran el país que queremos construir. Por eso, aunque la mirada feminista recorre todo este programa, la Agenda Feminista ocupa un lugar propio y es la piedra angular de nuestro proyecto político.\n\nUna sociedad verdaderamente libre e igualitaria no puede construirse mientras las mujeres sigan siendo objeto de violencia, explotación o mercantilización. Tampoco podemos conformarnos con gestionar las consecuencias de estas realidades: debemos abordar las estructuras que las permiten y avanzar hacia su erradicación.\n\nEn estas páginas desarrollamos nuestras propuestas para hacer frente a algunas de las expresiones más graves de la desigualdad y la explotación de las mujeres: erradicar la violencia machista; abolir la prostitución y la pornografía, como formas de explotación sexual de las mujeres; impedir la explotación reproductiva y el comercio de bebés; y abolir el género como categoría jurídica.\n\nLa Agenda Feminista es, por tanto, el punto de partida de una transformación profunda de nuestra sociedad. La igualdad y la libertad de las mujeres son condiciones imprescindibles para construir el país feminista, democrático y justo que defendemos."
+   },
+   {
+    "id": "pfac-0079",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la gestación subrogada como explotación reproductiva de las mujeres",
+    "marca_actual": [],
+    "texto": "La explotación reproductiva de las mujeres es la expresión más extrema del patriarcado neoliberal, el poder de la ciencia médica al servicio del beneficio y la deshumanización de los seres humanos, mujeres y bebés. Se basa en la fragmentación de la capacidad reproductiva y la cosificación de las mujeres y su mercantilización por parte de una industria biotecnológica que la presenta engañosamente como si fuera una técnica de reproducción humana asistida más, que permitiera a quienes compran convertirse en padres o madres mediante una transacción comercial «justa» en la que se adquieren recursos, servicios o productos.\n\nLa situación legislativa en España respecto a la gestación por sustitución, más conocida como gestación subrogada presenta importantes contradicciones.\n\nPor un lado, la Ley Orgánica 1/2023, de 28 de febrero, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo cataloga la gestación subrogada como una forma de violencia contra la mujer. Por otro lado, la Ley 14/2006, de 26 de mayo, sobre técnicas de reproducción humana asistida declara nulos de pleno derecho los contratos de gestación por sustitución en territorio español."
+   },
+   {
+    "id": "pfac-0080",
+    "partido": "pfac",
+    "titular": "Diagnóstico: más de 1.000 niños al año nacen por gestación subrogada en el extranjero",
+    "marca_actual": [],
+    "texto": "En esta misma línea, la sentencia del Tribunal Supremo del 4 de diciembre de 2024 argumenta que estas prácticas tratan a la mujer gestante y al menor como mercancía u objetos de comercio, vulnerando su dignidad e integridad física y moral; involucran grandes sumas de dinero en el extranjero, lo que sitúa a la madre gestante en una situación de vulnerabilidad o explotación económica; Privan al niño de su derecho fundamental a conocer sus orígenes biológicos; y vulneran el interés superior del menor al predeterminar su filiación mediante un negocio previo.\n\nA pesar de este marco legal y jurisprudencial restrictivo en España, se calcula que más de 1.000 niños nacen cada año en el extranjero de padres españoles mediante esta práctica.\n\nY, aunque se haya endurecido recientemente la normativa vigente sobre régimen registral de la filiación de quienes nacen mediante gestación por sustitución, lo bien cierto es que bebés que se gestan mediante la explotación reproductiva de una mujer vulnerable en el extranjero siguen pudiendo inscribirse como hijas o hijos con carácter legítimo de quienes hayan aportado material genético propio para el proceso. Por todo ello, el PFAC propone:"
+   },
+   {
+    "id": "pfac-0083",
+    "partido": "pfac",
+    "titular": "Declarar la gestación subrogada delito universal de lesa humanidad",
+    "marca_actual": [],
+    "texto": "1. Declarar la gestación subrogada, en todas sus fases, modalidades, entornos y países, delito universal de lesa humanidad contra los derechos de las mujeres, modificando la legislación española a tal efecto con carácter de urgencia."
+   },
+   {
+    "id": "pfac-0084",
+    "partido": "pfac",
+    "titular": "Legislar contra las empresas españolas que intermedian en gestación subrogada",
+    "marca_actual": [],
+    "texto": "2. Legislar para poder actuar contra las empresas españolas que funcionan como bufetes de asesoramiento internacional, informando, coordinando y poniendo en contacto a quienes quieren comprar con clínicas y agencias en países extranjeros donde la gestación subrogada es legal."
+   },
+   {
+    "id": "pfac-0087",
+    "partido": "pfac",
+    "titular": "Acabar con el anonimato para garantizar el derecho a conocer los orígenes",
+    "marca_actual": [],
+    "texto": "5. Acabar con el anonimato, para garantizar el derecho a conocer sus orígenes a las personas nacidas por medio del comercio de óvulos y/o gestación subrogada."
+   },
+   {
+    "id": "pfac-0088",
+    "partido": "pfac",
+    "titular": "Campañas sobre la gestación subrogada como violencia para las mujeres",
+    "marca_actual": [],
+    "texto": "6. Realizar campañas informativas para concienciar a la población de que no existe el derecho a ser padre o madre, y de que la gestación subrogada es violencia para las mujeres, aunque quienes compren bebés sean personas famosas y lo presenten como gestación solidaria."
+   },
+   {
+    "id": "pfac-0089",
+    "partido": "pfac",
+    "titular": "Cerrar las webs que ofertan gestación subrogada en terceros países",
+    "marca_actual": [],
+    "texto": "7. Luchar eficazmente contra la publicidad de toda forma de explotación reproductiva, cerrando los sitios web de las empresas que ofertan gestación subrogada en terceros países."
+   },
+   {
+    "id": "pfac-0090",
+    "partido": "pfac",
+    "titular": "Impedir en espacios públicos eventos que blanqueen la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "8. Impedir el uso de espacios públicos, como los campus de las universidades, para la celebración de eventos que pretenden normalizar y blanquear la explotación reproductiva de las mujeres bajo el paraguas de la investigación científica y la tecnología reproductiva."
+   },
+   {
+    "id": "pfac-0092",
+    "partido": "pfac",
+    "titular": "Apoyar que la gestación subrogada se considere delito a nivel europeo",
+    "marca_actual": [],
+    "texto": "10. Apoyar a nivel europeo la consideración como delito de la gestación subrogada y el establecimiento de mecanismos para abordar de manera internacional un delito que trasciende nuestras fronteras."
+   },
+   {
+    "id": "pfac-0094",
+    "partido": "pfac",
+    "titular": "Convertir el SIRHA en órgano de control y limitar la donación de óvulos",
+    "marca_actual": [],
+    "texto": "12. Transformar el Sistema de Información de Reproducción Humana Asistida (SIRHA) en un órgano público de control fiscal y sanitario para impedir la explotación reproductiva de las mujeres mediante el comercio de óvulos. Así, mientras se legisla para realizar lo expuesto en la anterior medida, se incluirían las siguientes acciones inmediatas:\n - Suprimir el anonimato en la donación de gametos con un doble propósito: asegurar el derecho inalienable de las personas nacidas a conocer su origen biológico al alcanzar la mayoría de edad y frenar la especulación económica en la ovodonación.\n - Reducir los límites biológicos autorizados en la plataforma, sustituyendo el criterio actual de nacimientos vivos por un tope estricto y definitivo de un máximo de dos ciclos de estimulación ovárica por persona en toda su vida.\n - Crear un registro de seguimiento médico longitudinal obligatorio dentro del sistema para monitorizar el estado de salud y las secuelas físicas a los 1, 5 y 10 años de la punción folicular, financiando este control con un fondo de responsabilidad a cargo de los centros privados de fertilidad.\n - Auditar los márgenes de beneficio del sector privado a través de la plataforma, fijando precios máximos regulados a los tratamientos para impedir el lucro empresarial a costa de los riesgos de salud asumidos por las mujeres."
+   },
+   {
+    "id": "pfac-0096",
+    "partido": "pfac",
+    "titular": "Concienciar sobre los riesgos para la salud de la extracción de óvulos",
+    "marca_actual": [],
+    "texto": "14. Concienciar a la población, especialmente a las mujeres jóvenes, sobre la violencia que la explotación reproductiva supone para las mujeres, alertando de los problemas de salud que la extracción de óvulos acarrea."
+   },
+   {
+    "id": "pfac-0132",
+    "partido": "pfac",
+    "titular": "Derecho constitucional a la integridad de las mujeres: abolir prostitución, pornografía y gestación subrogada",
+    "marca_actual": [],
+    "texto": "4. Incluir el derecho a la integridad de las mujeres, aboliendo toda forma de mercantilización, incluidas la prostitución, la pornografía y la gestación subrogada. Ninguna parte del cuerpo de una mujer puede ser objeto de compraventa."
+   },
+   {
+    "id": "pfac-0931",
+    "partido": "pfac",
+    "titular": "Contra la industria global de la explotación sexual y reproductiva",
+    "marca_actual": [],
+    "texto": "En el PFAC luchamos contra la expansión global de la industria de la explotación sexual y sus cadenas económicas transnacionales, y contra la explotación reproductiva impulsadas por intereses corporativos, que afectan especialmente a las mujeres más vulnerables. Es imprescindible visibilizar y confrontar los entramados que mercantilizan los cuerpos y reproducen la violencia, protegiendo a las víctimas, así como plantear marcos jurídicos y políticas públicas que reconozcan el sexo como variable central para analizar y combatir la discriminación contra las mujeres.\n\nPor otra parte, la revolución digital y el desarrollo de la inteligencia artificial plantean oportunidades y riesgos: reproducen estereotipos sexistas y sesgos de clase, y amplían la brecha digital limitando el acceso de muchas mujeres a empleos de calidad y a la participación en igualdad de condiciones. Por ello vemos necesarias políticas que combatan esos sesgos, promuevan la alfabetización digital con perspectiva feminista y garanticen el acceso equitativo a las oportunidades tecnológicas.\n\nLa paz y la desmilitarización son condiciones necesarias para la igualdad. Las mujeres y niñas son las primeras víctimas en contextos de guerra y ocupación y su protección efectiva deberían ser prioridades ineludibles. Defendemos que los gobiernos cumplan sus compromisos internacionales en materia de derechos humanos, situando la igualdad como una prioridad real."
+   },
+   {
+    "id": "pfac-0936",
+    "partido": "pfac",
+    "titular": "Impulsar la abolición internacional de la prostitución y prohibir la gestación subrogada",
+    "marca_actual": [],
+    "texto": "3. Impulsar la abolición de la prostitución y la prohibición de la explotación reproductiva (“gestación subrogada”) en el ámbito internacional, mediante acuerdos internacionales, resoluciones en la Unión Europea y la ONU, convenios internacionales, sanciones, cooperación policial y judicial, así como respaldando programas de protección, inserción y atención integral para las víctimas."
+   },
+   {
+    "id": "pfac-0937",
+    "partido": "pfac",
+    "titular": "Prohibir globalmente los «vientres de alquiler» como delito de lesa humanidad",
+    "marca_actual": [],
+    "texto": "4. En el caso de la explotación reproductiva, además promover las reformas jurídicas internacionales necesarias para que la gestación por sustitución (\"vientres de alquiler\") sea prohibida de forma global y catalogada como un Delito Universal de Lesa Humanidad, persiguiendo su práctica en todas sus fases, modalidades y países de origen."
+   },
+   {
+    "id": "pfac-0970",
+    "partido": "pfac",
+    "titular": "Diagnóstico: la integración europea ha perjudicado a la clase trabajadora y a las mujeres",
+    "marca_actual": [],
+    "texto": "Para España, la adhesión a la UE ha tenido como consecuencia la privatización de empresas esenciales del sector público (energéticas, comunicaciones) y la destrucción del tejido industrial para focalizar nuestra economía en el sector servicios, especialmente el turismo, sector muy feminizado y precarizado. Además, las medidas de austeridad asociadas al Plan de Estabilidad y Crecimiento (PEC) están provocando la destrucción de los servicios públicos, lo que también afecta especialmente a las mujeres, sobre las que mayoritariamente recae la carga de los cuidados de las personas dependientes. El proceso de integración en el proyecto europeo ha beneficiado por tanto a las élites económicas y ha perjudicado a la clase trabajadora, causando una enorme brecha social, incluida la brecha salarial entre mujeres y hombres. Los grupos y partidos de ultraderecha han podido prosperar precisamente gracias al descontento social provocado por estas políticas económicas, siendo incapaz, la mal llamada “izquierda institucional”, de ofrecer una alternativa coherente y creíble para mejorar la situación de la población. En los últimos años, además, los cambios legislativos en la UE han ido erosionando los derechos de las mujeres basados en el sexo al ir introduciendo progresivamente el concepto pseudocientífico de la “identidad de género”. Esto ha dificultado el desarrollo de políticas dirigidas a situaciones que tienen su causa precisamente en el sexo: violencia sexual, discriminación reproductiva, deporte femenino, estadísticas, espacios de un solo sexo, etc. Aunque en el Parlamento Europeo se han tomado algunas resoluciones positivas, como el reconocimiento de la prostitución como un sistema de explotación y violencia en septiembre de 2023, en otras áreas como la de la explotación reproductiva los avances no han sido los deseados para erradicar esta práctica en el espacio europeo."
+   }
+  ]
+ },
+ {
+  "eje": "eje-cie",
+  "pregunta": "¿Qué hacer con los CIE (centros de internamiento de extranjeros)?",
+  "posiciones": [
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlos"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerlos o ampliarlos"
+   }
+  ],
+  "n": 15,
+  "palabras": 906,
+  "candidatos": [
+   {
+    "id": "pp-0054",
+    "partido": "pp",
+    "titular": "Ejecutar las órdenes de retorno y ampliar el internamiento",
+    "marca_actual": [],
+    "texto": "**45 LAS ÓRDENES DE RETORNO SE EJECUTARÁN, NO COMO HASTA AHORA.** Aplicaremos plenamente el nuevo Reglamento Europeo de Retornos y reforzaremos los medios para ejecutar las órdenes dictadas, incluidas las de otros países europeos. Ampliaremos el tiempo máximo de permanencia en los centros de internamiento, dentro de los límites europeos, para que las expulsiones se ejecuten. Utilizaremos todos los destinos que el Reglamento permite, incluidos terceros países seguros y primeros países de asilo, e impulsaremos acuerdos para crear centros de retorno en terceros países. Si un país no coopera en las readmisiones, condicionaremos a ello los visados, la cooperación al desarrollo y la posición de España en la política comercial europea. Impulsaremos programas de retorno voluntario con incentivos, en colaboración con la Organización Internacional para las Migraciones."
+   },
+   {
+    "id": "fa-0832",
+    "partido": "fa",
+    "titular": "Cerrar los CIE y limitar la detención en frontera",
+    "marca_actual": [],
+    "texto": "- Cierre de los CIE y limitación estricta de la detención en frontera: Cerraremos los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, la detención se aplicará únicamente como último recurso excepcional, priorizando medidas alternativas y garantizando la no prolongación de plazos."
+   },
+   {
+    "id": "fo-0161",
+    "partido": "fo",
+    "titular": "Hacer operativos o sustituir los CIE y ejecutar todas las órdenes de expulsión",
+    "marca_actual": [],
+    "texto": "9. Operatividad de los CIE o sustitución de estos por otro tipo de centro más efectivo para la deportación. Las órdenes de expulsión deben ser ejecutadas sin excepción alguna."
+   },
+   {
+    "id": "mundo-0164",
+    "partido": "mundo",
+    "titular": "Sustituir los CIE por alternativas abiertas y reforzar la acogida",
+    "marca_actual": [],
+    "texto": "5. **Garantizar una acogida digna y poner fin al internamiento de personas migrantes por motivos administrativos.** Sustituir los Centros de Internamiento de Extranjeros (CIE) por alternativas abiertas y comunitarias, con acompañamiento social y jurídico, respetando la libertad y los derechos fundamentales. Reforzar los recursos públicos de acogida y la atención especializada a personas en situación de especial vulnerabilidad, especialmente menores no acompañados, mujeres víctimas de violencia, personas refugiadas y víctimas de trata. Garantizar procedimientos de determinación de la edad con presunción de minoría, reconocimiento de la documentación válida del país de origen salvo prueba en contrario y pleno derecho de defensa."
+   },
+   {
+    "id": "fe-0018",
+    "partido": "fe",
+    "titular": "Ampliar la capacidad de los CIE y acelerar las expulsiones",
+    "marca_actual": [],
+    "texto": "- Ampliación de la capacidad los CIE mientras se ejecutan, con la máxima celeridad, las órdenes de expulsión."
+   },
+   {
+    "id": "pcte-0094",
+    "partido": "pcte",
+    "titular": "Cerrar los CIE y mecanismo permanente de regularización de trabajadores sin papeles",
+    "marca_actual": [],
+    "texto": "- **CIE y regularización** — **Cierre de los CIE** y fin de las identificaciones por perfil étnico y de las devoluciones en caliente. **Mecanismo permanente de regularización** para todas las personas trabajadoras sin papeles."
+   },
+   {
+    "id": "podemos-0224",
+    "partido": "podemos",
+    "titular": "Cerrar todos los Centros de Internamiento de Extranjeros",
+    "marca_actual": [],
+    "texto": "206. **Cierre de los Centros de Internamiento de Extranjeros (CIE).** Procederemos al cierre de todos los Centros de Internamiento de Extranjeros, sustituyendo la privación de libertad por alternativas comunitarias y procedimientos individualizados que respeten los derechos fundamentales. La situación administrativa irregular no constituye, por sí misma, un delito, por lo que no debe traducirse en una política de encierro. La reforma se realizará gracias a la derogación de la Ley Orgánica 4/2000 y estableciendo en la nueva legislación garantías de alojamiento, atención social y asistencia jurídica para las personas afectadas, respetando las obligaciones judiciales y europeas aplicables."
+   },
+   {
+    "id": "adelante-0027",
+    "partido": "adelante",
+    "titular": "Derogar la Ley de Extranjería, regularización extraordinaria y cierre de los CIE",
+    "marca_actual": [],
+    "texto": "25. **Derechos para todas las personas** — Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.\nSe desarrolla en el programa: Propuestas 547, 548 y 553 · Área 09 Derechos humanos, migraciones, memoria, paz y pueblo gitano"
+   },
+   {
+    "id": "adelante-0612",
+    "partido": "adelante",
+    "titular": "Cerrar los CIE, empezando por el de Algeciras",
+    "marca_actual": [],
+    "texto": "553. **Cierre de los CIE** — Empezando por el de Algeciras, y Andalucía territorio libre de CIE. _Porque encerrar a personas que no han cometido ningún delito es injusto._"
+   },
+   {
+    "id": "adelante-0731",
+    "partido": "adelante",
+    "titular": "Remisión a otras propuestas del programa para el Campo de Gibraltar",
+    "marca_actual": [],
+    "texto": "También en este programa: salud ambiental (**34**), personas trabajadoras transfronterizas (**287**), juzgados contra el blanqueo (**469**), cierre del CIE de Algeciras (**553**), Algeciras como conexión intercontinental (**379**), el Estrecho como mar protegido (**425**)."
+   },
+   {
+    "id": "bng-0110",
+    "partido": "bng",
+    "titular": "Cerrar los CIE y acabar con las devoluciones en caliente",
+    "marca_actual": [],
+    "texto": "- Demandar o peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e o fin das deportacións en quente, garantindo o respecto escrupuloso dos dereitos humanos para a poboación inmigrante, refuxiada e/ou solicitante de asilo."
+   },
+   {
+    "id": "pnv-0181",
+    "partido": "pnv",
+    "titular": "Más garantías para migrantes en fronteras y alternativas a los CIE",
+    "marca_actual": [],
+    "texto": "6. **Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras**, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros y la investigación de posibles vulneraciones de derechos."
+   },
+   {
+    "id": "bildu-0151",
+    "partido": "bildu",
+    "titular": "Rechazar el Pacto Europeo de Migración, las devoluciones sumarias y los CIE",
+    "marca_actual": [],
+    "texto": "- Garantía del derecho de asilo y fin de las políticas migratorias que vulneran derechos: Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE, garantizando procedimientos individuales con todas las garantías jurídicas."
+   },
+   {
+    "id": "ph-0046",
+    "partido": "ph",
+    "titular": "Diagnóstico: la Ley de Extranjería y los CIE condenan a la vulnerabilidad",
+    "marca_actual": [],
+    "texto": "Las políticas fronterizas restrictivas y la actual Ley de Extranjería condenan a cientos de miles de personas que viven y trabajan en España a la economía informal, la vulnerabilidad legal y la privación de derechos básicos, manteniendo espacios anómalos como los Centros de Internamiento de Extranjeros (CIE).\n\nLos Humanista hacemos nuestras las palabras de la Declaración Universal de los Derechos Humanos cuando se afirma: _«Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros»._ Y lo hacemos conscientes de los enormes retos que plantea un mundo global, pero también con la convicción de que cualquier política, antes por intereses geoestratégicos o económicos, debe estar orientada por fuertes convicciones morales.\n\nLas desigualdades económicas, la violencia de las guerras y la crisis climática obliga a grandes grupos de población a desplazarse desde las zonas que más sufren del planeta hacia las más privilegiadas. Militarizar las fronteras, tratar a los diferentes como enemigos y cerrar los ojos antes sus necesidades, no va a solucionar el problema, más bien lo agravará desencadenado fuertes tensiones."
+   },
+   {
+    "id": "ph-0047",
+    "partido": "ph",
+    "titular": "Derogar la Ley de Extranjería y cerrar todos los CIE en 60 días",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Derogación de la Ley de Extranjería y cierre de los CIEs** Derogación de la legislación de extranjería sancionadora y cierre definitivo e incondicional en un plazo de 60 días de todos los Centros de Internamiento de Extranjeros (CIE)."
+   }
+  ]
+ },
+ {
+  "eje": "eje-listas",
+  "pregunta": "¿Listas electorales abiertas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, listas abiertas o desbloqueadas"
+   },
+   {
+    "id": "no",
+    "nombre": "Mantener las listas cerradas"
+   }
+  ],
+  "n": 12,
+  "palabras": 763,
+  "candidatos": [
+   {
+    "id": "autonomos-0093",
+    "partido": "autonomos",
+    "titular": "Sustituir el sistema CAPA de exámenes de conducir por una planificación flexible",
+    "marca_actual": [],
+    "texto": "91. **Reforma y derogación de las rigideces del sistema CAPA en autoescuelas** — Sustitución del actual sistema CAPA de reparto rígido de minutos de examen por una planificación flexible basada en demanda real y refuerzo itinerante de examinadores, desbloqueando la actividad de miles de autoescuelas.\n - **Viabilidad:** _Es viable organizativamente en cuanto se amplíe la plantilla examinadora, reactivando la facturación de las pequeñas autoescuelas y el acceso de jóvenes al empleo._"
+   },
+   {
+    "id": "bng-0004",
+    "partido": "bng",
+    "titular": "Balance: traspaso de la AP-9, financiación de la dependencia y condonación de 4.000 millones",
+    "marca_actual": [],
+    "texto": "O BNG conseguiu un acordo de investidura con medidas de grande relevancia para mellorar a vida da xente. Moitas delas, realmente importantes, saíron adiante e están sendo aplicadas. Por citar apenas uns exemplos, conseguimos desbloquear despois de moitos anos de incumprimentos a transferencia a Galiza da AP-9 a través da aprobación dunha lei que traspasa ao goberno da Xunta a titularidade e xestión desta infraestrutura. Logramos tamén bonificacións e descontos nas peaxes da AP-9 e da AP-53 e a modernización e electrificación da vía no tren que une Lugo e Ourense. Así mesmo, conseguimos que o Goberno español incrementase o financiamento da dependencia e que a nova lei recolla sen ambigüidades a obriga de que o Estado financie o 50% do SAAD e que o Estado asumise a condonación de 4.000 millóns de euros da débeda pública galega malia o rexeitamento do goberno do Partido Popular na Xunta de Galiza."
+   },
+   {
+    "id": "bng-0128",
+    "partido": "bng",
+    "titular": "Desbloquear la ley contra la trata y proteger a las víctimas",
+    "marca_actual": [],
+    "texto": "- Desbloquear a lexislación específica contra a trata, a explotación de seres humanos e impulsar medidas integrais para a protección das vítimas cun enfoque de dereitos, sen ningún tipo de discriminación con base á súa nacionalidade."
+   },
+   {
+    "id": "bng-0253",
+    "partido": "bng",
+    "titular": "Permitir el uso incondicional de los remanentes municipales",
+    "marca_actual": [],
+    "texto": "- Reclamar, como vimos facendo, que se permita a utilización incondicional dos remanentes municipais para o despregamento de políticas públicas para a mellor atención das necesidades da veciñanza dos nosos concellos, co seu desbloqueo definitivo."
+   },
+   {
+    "id": "bng-0254",
+    "partido": "bng",
+    "titular": "Seguir reclamando el uso incondicional de los remanentes municipales",
+    "marca_actual": [],
+    "texto": "- Seguiremos a reclamar que se permita a utilización incondicional dos remanentes municipais para o despregamento de políticas públicas para a mellor atención das necesidades da veciñanza dos nosos concellos, co seu desbloqueo definitivo."
+   },
+   {
+    "id": "teruel-0072",
+    "partido": "teruel",
+    "titular": "Desbloquear la autovía A-40 Cuenca-Teruel y prolongarla hacia Tarragona y Lleida",
+    "marca_actual": [],
+    "texto": "- **Autovía A-40.** Desbloquear el Anteproyecto Cuenca-Teruel, aprobar la realización de la autovía, así como de manera paralela el arreglo de la N 330 entre Villastar y Ademuz. Prolongación de la A40 por las Cuencas Mineras, Alcañiz, Reus y Tarragona, así como Caspe, Fraga y Lleida. ."
+   },
+   {
+    "id": "nex-0092",
+    "partido": "nex",
+    "titular": "Desbloquear los traspasos pendientes y cumplir íntegramente el Estatuto de Autonomía",
+    "marca_actual": [],
+    "texto": "82. Desbloqueo de los traspasos pendientes y cumplimiento íntegro del Estatuto de Autonomía."
+   },
+   {
+    "id": "d21-0053",
+    "partido": "d21",
+    "titular": "Diagnóstico: el 94 % quiere cambiar el sistema electoral y sus listas cerradas",
+    "marca_actual": [],
+    "texto": "El 94% de los españoles afirma querer cambiar nuestro sistema electoral, con un rechazo visceral a las actuales listas cerradas controladas por los partidos políticos. Una democracia del siglo 21 debe permitir a sus ciudadanos elegir con libertad a sus representantes."
+   },
+   {
+    "id": "d21-0054",
+    "partido": "d21",
+    "titular": "Reformar la Ley Electoral con listas desbloqueadas y abiertas",
+    "marca_actual": [],
+    "texto": "- Impulsaremos una reforma de la Ley Electoral que permita a los ciudadanos tener **mayor capacidad para decidir qué personas les representan**, reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas."
+   },
+   {
+    "id": "d21-0083",
+    "partido": "d21",
+    "titular": "Ley Urgente de Desbloqueo Urbanístico y reforma de la Ley del Suelo",
+    "marca_actual": [],
+    "texto": "- **Ley Urgente de Desbloqueo Urbanístico y Reforma de la Ley del Suelo:** modificaremos de urgencia la legislación estatal para acabar con la inseguridad jurídica que paraliza ciudades enteras. Evitaremos que un simple defecto formal o subsanable provoque la nulidad de todo un Plan General de Ordenación Urbana (PGOU). Aprobaremos un régimen de \"Burocracia Exprés\" con silencio administrativo positivo de 3 meses para autorizaciones sectoriales (aguas, carreteras, medio ambiente) y reduciremos los plazos de litigiosidad en los tribunales para evitar que proyectos vitales queden paralizados durante años."
+   },
+   {
+    "id": "d21-0084",
+    "partido": "d21",
+    "titular": "Obligar a liberar el suelo público retenido e incentivar el suelo privado",
+    "marca_actual": [],
+    "texto": "- **Desbloqueo de Suelo Público Retenido e Incentivos al Sector Privado:** la Administración es hoy el mayor tenedor de suelo inactivo del país. Obligaremos por ley a todos los Ayuntamientos, Comunidades, Ministerios y empresas públicas (con especial foco en Defensa, Carreteras, ADIF…) a auditar y liberar de forma inmediata sus reservas de suelo público y dotacional paralizado, agilizando su recalificación y desarrollo urbanístico para cederlo en derecho de superficie al Plan Nacional de Barrios. En paralelo, los Ayuntamientos movilizarán el suelo privado impulsando la figura del agente urbanizador para propiciar su desarrollo. También aprobaremos bonificaciones en la plusvalía municipal y reducciones en el IBI para los propietarios que activen sus parcelas para vivienda asequible, y flexibilizaremos la normativa para transformar oficinas o locales vacíos en nuevos hogares."
+   },
+   {
+    "id": "d21-0205",
+    "partido": "d21",
+    "titular": "Pagar a los evaluadores de la AEI y desbloquear las convocatorias FPU y FPI",
+    "marca_actual": [],
+    "texto": "- **Pagar a Tiempo a Quien Evalúa y a Quien Empieza:** hoy los expertos que evalúan los proyectos esperan a menudo un año para cobrar, y las convocatorias y estancias predoctorales se bloquean. Saldaremos la deuda con los evaluadores de la Agencia Estatal de Investigación, desbloquearemos las convocatorias y estancias FPU y FPI, y crearemos por ley un sistema profesional de evaluación al nivel europeo (Horizonte Europa y ERC): tarifas dignas acordes a su cualificación, pago puntual y plataformas tecnológicas profesionales."
+   }
+  ]
+ },
+ {
+  "eje": "eje-ppr",
+  "pregunta": "¿Qué hacer con la prisión permanente revisable?",
+  "posiciones": [
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   }
+  ],
+  "n": 9,
+  "palabras": 418,
+  "candidatos": [
+   {
+    "id": "vox-0081",
+    "partido": "vox",
+    "titular": "Ampliar la prisión permanente revisable",
+    "marca_actual": [],
+    "texto": "81. Ampliación de la prisión permanente revisable. Los que cometen los peores delitos deben tener las máximas condenas."
+   },
+   {
+    "id": "salf-0041",
+    "partido": "salf",
+    "titular": "Cumplimiento íntegro de penas y prisión permanente revisable por violación a menores",
+    "marca_actual": [],
+    "texto": "2. **Cumplimiento íntegro.** Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.\n - **0** permisos"
+   },
+   {
+    "id": "fe-0179",
+    "partido": "fe",
+    "titular": "Cadena perpetua no revisable por delitos de Lesa Patria, asesinato o terrorismo",
+    "marca_actual": [],
+    "texto": "- 17.2. Reforma del Código penal, introduciendo la posibilidad de la cadena perpetua no revisable para delitos de Lesa Patria (latrocinio, promulgación de ideas separatistas, etc.) y para aquellos que atenten contra la vida humana, como son el asesinato, las violaciones y pederastia o el terrorismo."
+   },
+   {
+    "id": "fe-0180",
+    "partido": "fe",
+    "titular": "Redención de penas por trabajo: dos días menos por día trabajado",
+    "marca_actual": [],
+    "texto": "- 17.3. Para los reclusos condenados en firme sin cadena perpetua, en perfiles seleccionados, de forma voluntaria y en cumplimiento de sus penas, adición del principio de Redención por el Esfuerzo Nacional, con obligación de desempeño de labores logísticas como el mantenimiento de la Red Hidrográfica, Campañas de alta montaña y cortafuegos y recuperación ambiental de zonas degradadas y minería de residuos, bajo estricta vigilancia y resultando en la reducción de 2 días de condena menos por cada día de trabajo efectivo."
+   },
+   {
+    "id": "fe-0181",
+    "partido": "fe",
+    "titular": "Trabajos en autosuficiencia y confinamiento absoluto para condenados a perpetua",
+    "marca_actual": [],
+    "texto": "- 17.4. Para reclusos condenados a cadena perpetua según los supuestos del punto 19.2., plan de trabajos en régimen de autosuficiencia y confinamiento absoluto."
+   },
+   {
+    "id": "adelante-0551",
+    "partido": "adelante",
+    "titular": "Derogar la prisión permanente revisable",
+    "marca_actual": [],
+    "texto": "496. **Derogar la prisión permanente revisable** — Penas orientadas a la reinserción, como manda la Constitución. _Porque la Constitución dice que las penas deben orientarse a la reinserción._"
+   },
+   {
+    "id": "bng-0157",
+    "partido": "bng",
+    "titular": "Derogar la prisión permanente revisable y cumplir las penas en Galicia",
+    "marca_actual": [],
+    "texto": "- Derrogación da prisión permanente revisábel, por ser unha forma encuberta de manter a cadea perpetua e ir en contra do principio de reinserción social, así como das medidas de liberdade vixiada unha vez cumprida a pena, baseadas nunha análise subxectiva sobre a “perigosidade” das persoas e en contradición cos principios de rehabilitación e de reinserción social. Así mesmo, traballar para que se garanta o cumprimento das penas impostas aos galegos e galegas en Galiza, ademais do traslado dos que xa están a cumprir penas de prisión noutros territorios do Estado."
+   },
+   {
+    "id": "pnv-0180",
+    "partido": "pnv",
+    "titular": "Rechazar la prisión permanente revisable y orientar las prisiones a la reinserción",
+    "marca_actual": [],
+    "texto": "5. **Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción**, respetuoso con los derechos de las personas privadas de libertad."
+   },
+   {
+    "id": "d21-0167",
+    "partido": "d21",
+    "titular": "Reformar la Segunda Oportunidad con planes de pago realistas para emprendedores",
+    "marca_actual": [],
+    "texto": "- **Segunda Oportunidad Real para Emprender sin Miedo:** emprender y fallar no puede ser una cadena perpetua. Aprobaremos una reforma del mecanismo de Segunda Oportunidad para garantizar planes de pago realistas, un tratamiento proporcionado de la deuda pública y un apoyo efectivo al reemprendimiento. Alinearemos nuestra normativa con la Unión Europea reforzando la tutela judicial, para que los emprendedores que han tropezado puedan volver a generar riqueza."
+   }
+  ]
+ }
+]

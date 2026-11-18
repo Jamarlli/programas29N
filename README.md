@@ -5,7 +5,7 @@ Los programas electorales de las elecciones generales del 29 de noviembre de 202
 **Web:** https://programas29n.jamarlli.workers.dev
 
 - **Temas:** 17 bloques y 111 subtemas. En cada subtema, lo que dice cada partido, uno al lado del otro.
-- **Dónde chocan:** 40 preguntas de contraste, como «¿Qué hacer con el IRPF?», con la postura de cada partido y la cita de su programa que la justifica.
+- **Dónde chocan:** 50 preguntas de contraste, como «¿Qué hacer con el IRPF?», con la postura de cada partido y la cita de su programa que la justifica.
 - **Programas:** cada programa entero, en su orden original.
 - **Buscar** en todos los programas a la vez.
 

@@ -5,10 +5,11 @@ Un extracto es candidato si:
 - su texto contiene alguna palabra clave del eje;
 - o ya marcaba posición en ese eje.
 
-Uso: python -I pipeline/ejes_candidatos.py <raiz_proyecto> <n_grupos> [--partidos a,b,c --desde N]
+Uso: python -I pipeline/ejes_candidatos.py <raiz_proyecto> <n_grupos> [--partidos a,b,c] [--ejes x,y] [--desde N]
 Escribe data/ejes/candidatos-NN.json (reparto equilibrado de ejes por grupos).
 Con --partidos solo entran extractos de esos partidos y los grupos se numeran desde N
 (para revisar partidos nuevos sin tocar los grupos ya revisados).
+Con --ejes solo entran esos ejes (para revisar ejes nuevos en todos los partidos).
 """
 import json, re, sys, pathlib
 
@@ -16,8 +17,9 @@ raiz = pathlib.Path(sys.argv[1])
 n = int(sys.argv[2])
 args = sys.argv[3:]
 solo = set(args[args.index('--partidos') + 1].split(',')) if '--partidos' in args else None
+sel = set(args[args.index('--ejes') + 1].split(',')) if '--ejes' in args else None
 desde = int(args[args.index('--desde') + 1]) if '--desde' in args else 1
-assert (solo is None) == (desde == 1), 'usa --partidos y --desde juntos'
+assert (solo is None and sel is None) == (desde == 1), 'usa --partidos o --ejes junto con --desde'
 data = raiz / 'data'
 
 CFG = {
@@ -61,6 +63,16 @@ CFG = {
     'eje-jubilacion': ([], r'[Ee]dad (legal )?de jubilaci[oó]n|jubilaci[oó]n anticipada|jubilaci[oó]n flexible|jubilaci[oó]n activa|65 a[nñ]os|67 a[nñ]os'),
     'eje-voto16': ([], r'16 a[nñ]os'),
     'eje-mercosur': ([], r'[Mm]ercosur|[Cc]l[aá]usulas? espejo'),
+    'eje-otan': ([], r'\bOTAN\b|\bNATO\b|[Aa]lianza [Aa]tl[aá]ntica|[Aa]li[aà]n[cç]a [Aa]tl[aà]ntica|[Bb]ases (militares|estadounidenses|norteamericanas|de Rota)|[Bb]ases militars|\bRota\b|Mor[oó]n'),
+    'eje-ppr': ([], r'[Pp]risi[oó]n [Pp]ermanente|[Cc]adena [Pp]erpetua|[Pp]res[oó] [Pp]ermanent|[Cc]adena [Pp]erp[eè]tua|[Pp]risi[oó]n perpetua'),
+    'eje-gestacion': ([], r'[Gg]estaci[oó]n? subrogada|[Vv]ientres? de alquiler|[Vv]entres? de lloguer|[Mm]aternidad subrogada|[Ee]xplotaci[oó]n reproductiva|[Ee]xplotaci[oó] reproductiva'),
+    'eje-cie': ([], r'\bCIE\b|\bCIEs\b|[Cc]entros? de [Ii]nternamiento|[Cc]entres? d.[Ii]nternament|[Ii]nternamento|\bCATE\b'),
+    'eje-cannabis': ([], r'[Cc][aà]nn?abis|[Mm]arihuana|[Cc]a[nñ]amo|[Dd]espenaliz|[Aa]utocultivo|[Dd]rogas|[Dd]rogues'),
+    'eje-renta-basica': (['fam-pobreza'], r'[Rr]enta [Bb][aá]sica|[Rr]enda [Bb][aá]sica|[Rr]enda [Bb]àsica|[Ii]ngreso [Mm][ií]nimo|\bIMV\b|[Pp]aguitas|incondicional'),
+    'eje-ley-electoral': ([], r'[Ll]ey [Ee]lectoral|[Rr]eforma electoral|[Ll]lei [Ee]lectoral|LOREG|[Rr][eé]gimen [Ee]lectoral|[Ss]istema [Ee]lectoral|[Cc]ircunscripci[oó]n|[Cc]ircumscripci|proporcional|D.Hondt|lista m[aá]s votada'),
+    'eje-listas': ([], r'[Ll]istas? (electorales )?(abiertas|desbloqueadas|cerradas|abertas)|[Ll]listes (electorals )?(obertes|desbloquejades|tancades)|[Dd]esbloque|[Dd]esbloqueig|[Vv]oto preferencial'),
+    'eje-mandatos': ([], r'[Ll]imitaci[oó]n de mandatos|[Ll]imitar (los )?mandatos|[Ll]imitaci[oó] de mandats|dos mandatos|ocho a[nñ]os|m[aá]ximo de (dos|tres) (mandatos|legislaturas)|mandatos'),
+    'eje-santa-sede': ([], r'[Ss]anta [Ss]ede|[Ss]anta [Ss]eu|[Ss]anta S[eé]\b|[Vv]aticano|[Cc]oncordato|[Ii]nmatricula|[Ii]mmatricula|[Cc]asilla de la [Ii]glesia|[Ff]inanciaci[oó]n de la [Ii]glesia'),
 }
 
 
@@ -72,6 +84,8 @@ def main():
     cl = {c['id']: c for c in json.loads((data / 'clasificacion.json').read_text(encoding='utf-8'))}
     paquetes = []
     for eid, (subs, rx) in CFG.items():
+        if sel is not None and eid not in sel:
+            continue
         r = re.compile(rx)
         cands = []
         for i, f in ext.items():
@@ -93,7 +107,7 @@ def main():
     out = data / 'ejes'
     out.mkdir(exist_ok=True)
     for k, g in enumerate(grupos, desde):
-        assert solo is None or not (out / f'candidatos-{k:02d}.json').exists(), f'ya existe candidatos-{k:02d}.json'
+        assert desde == 1 or not (out / f'candidatos-{k:02d}.json').exists(), f'ya existe candidatos-{k:02d}.json'
         (out / f'candidatos-{k:02d}.json').write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding='utf-8')
         print(f'grupo {k:02d}: {len(g)} ejes, {sum(p["n"] for p in g)} candidatos, {sum(p["palabras"] for p in g)} palabras:',
               ', '.join(f'{p["eje"]}({p["n"]})' for p in g))

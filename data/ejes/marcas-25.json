@@ -1,0 +1,320 @@
+[
+ {
+  "eje": "eje-otan",
+  "id": "pp-0063",
+  "posicion": "seguir",
+  "cita": "Reforzaremos cuando sea necesario los contingentes españoles de la OTAN y contribuiremos a proteger las rutas marítimas de las que depende nuestra economía."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "d21-0323",
+  "posicion": "seguir",
+  "cita": "Reforzaremos el pilar europeo dentro de la OTAN y desplegaremos la Hoja de Ruta de Preparación en Materia de Defensa 2030"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "fo-0021",
+  "posicion": "salir",
+  "cita": "2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "fe-0049",
+  "posicion": "salir",
+  "cita": "defendemos, sin medias tintas, el abandono inmediato de las organizaciones supranacionales tales como la OTAN, el FMI o las actuales UE u ONU"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "fe-0169",
+  "posicion": "salir",
+  "cita": "Abandono de la OTAN por parte del Ejército español."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "pcte-0085",
+  "posicion": "salir",
+  "cita": "Ruptura de los acuerdos que permiten el uso de territorio español por fuerzas militares extranjeras y recuperación de la plena soberanía sobre las bases."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "pcte-0088",
+  "posicion": "salir",
+  "cita": "OTAN y UE — Salida de España de la OTAN y de la Unión Europea."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "podemos-0083",
+  "posicion": "salir",
+  "cita": "Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "adelante-0639",
+  "posicion": "salir",
+  "cita": "Rota y Morón sin bases extranjeras — Renegociación de los convenios con el objetivo de cerrarlas y plan de empleo alternativo para las comarcas"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "bng-0536",
+  "posicion": "salir",
+  "cita": "1. Saída da OTAN e defensa de disolución desa alianza militar imperialista."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "bildu-0204",
+  "posicion": "salir",
+  "cita": "Rechazamos la OTAN y la pertenencia de Euskal Herria a la misma, adoptando y reconociendo así la decisión adoptada por la sociedad vasca expresada con su voto en el referéndum de 1986."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "bildu-0205",
+  "posicion": "salir",
+  "cita": "apostaremos por impedir el uso que Estados Unidos hace de las más de 275 bases e instalaciones en Europa, incluidas Rota y Morón"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "pfac-0952",
+  "posicion": "salir",
+  "cita": "Acabar con la política belicista y de Incremento del gasto militar, plan progresivo de salida de la OTAN"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "pfac-0954",
+  "posicion": "salir",
+  "cita": "Reclamar una política de defensa liberada de la tutela de EE. UU., impulsando un plan progresivo de salida de la OTAN"
+ },
+ {
+  "eje": "eje-otan",
+  "id": "pfac-0955",
+  "posicion": "salir",
+  "cita": "No renovar los convenios que regulan la presencia de bases militares de Estados Unidos en territorio nacional."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "ph-0041",
+  "posicion": "salir",
+  "cita": "Neutralidad activa y salida de la OTAN Inicio del proceso legal de salida de España de la estructura militar de la OTAN."
+ },
+ {
+  "eje": "eje-otan",
+  "id": "ph-0043",
+  "posicion": "salir",
+  "cita": "Cierre programado y desmantelamiento de las instalaciones militares extranjeras en territorio nacional (Bases de Rota y Morón)"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "psoe-0428",
+  "posicion": "prohibir",
+  "cita": "Fortalecer la protección frente a la explotación reproductiva , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "compromis-0463",
+  "posicion": "prohibir",
+  "cita": "Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "compromis-0464",
+  "posicion": "prohibir",
+  "cita": "Prohibirem i sancionarem la publicitat, la intermediació lucrativa i la promoció comercial d’agències que ofereixen serveis d’explotació reproductiva."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "compromis-0465",
+  "posicion": "prohibir",
+  "cita": "Impulsarem mesures contra el negoci transnacional de l’explotació reproductiva, incloent-hi la cooperació internacional i el control de les empreses intermediàries."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "fo-0091",
+  "posicion": "prohibir",
+  "cita": "Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "mundo-0270",
+  "posicion": "prohibir",
+  "cita": "Mantener la prohibición de la gestación subrogada en España, como medida de protección frente a situaciones de explotación reproductiva"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pcte-0075",
+  "posicion": "prohibir",
+  "cita": "Rechazo de la gestación subrogada. Persecución de las agencias que la intermedian desde España."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "podemos-0186",
+  "posicion": "prohibir",
+  "cita": "Combatir la explotación reproductiva y la publicidad de servicios de gestación subrogada. Reforzar las actuaciones frente a las agencias que facilitan estas prácticas"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "adelante-0577",
+  "posicion": "prohibir",
+  "cita": "Prohibición de la gestación subrogada — Y refuerzo de la adopción pública."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0083",
+  "posicion": "prohibir",
+  "cita": "Declarar la gestación subrogada, en todas sus fases, modalidades, entornos y países, delito universal de lesa humanidad contra los derechos de las mujeres"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0084",
+  "posicion": "prohibir",
+  "cita": "Legislar para poder actuar contra las empresas españolas que funcionan como bufetes de asesoramiento internacional"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0089",
+  "posicion": "prohibir",
+  "cita": "Luchar eficazmente contra la publicidad de toda forma de explotación reproductiva, cerrando los sitios web de las empresas que ofertan gestación subrogada en terceros países."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0090",
+  "posicion": "prohibir",
+  "cita": "Impedir el uso de espacios públicos, como los campus de las universidades, para la celebración de eventos que pretenden normalizar y blanquear la explotación reproductiva de las mujeres"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0092",
+  "posicion": "prohibir",
+  "cita": "Apoyar a nivel europeo la consideración como delito de la gestación subrogada"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0132",
+  "posicion": "prohibir",
+  "cita": "Incluir el derecho a la integridad de las mujeres, aboliendo toda forma de mercantilización, incluidas la prostitución, la pornografía y la gestación subrogada."
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0936",
+  "posicion": "prohibir",
+  "cita": "Impulsar la abolición de la prostitución y la prohibición de la explotación reproductiva (“gestación subrogada”) en el ámbito internacional"
+ },
+ {
+  "eje": "eje-gestacion",
+  "id": "pfac-0937",
+  "posicion": "prohibir",
+  "cita": "promover las reformas jurídicas internacionales necesarias para que la gestación por sustitución (\"vientres de alquiler\") sea prohibida de forma global y catalogada como un Delito Universal de Lesa Humanidad"
+ },
+ {
+  "eje": "eje-cie",
+  "id": "pp-0054",
+  "posicion": "mantener-ampliar",
+  "cita": "Ampliaremos el tiempo máximo de permanencia en los centros de internamiento, dentro de los límites europeos, para que las expulsiones se ejecuten."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "fo-0161",
+  "posicion": "mantener-ampliar",
+  "cita": "Operatividad de los CIE o sustitución de estos por otro tipo de centro más efectivo para la deportación."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "fe-0018",
+  "posicion": "mantener-ampliar",
+  "cita": "Ampliación de la capacidad los CIE mientras se ejecutan, con la máxima celeridad, las órdenes de expulsión."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "fa-0832",
+  "posicion": "cerrar",
+  "cita": "Cerraremos los Centros de Internamiento de Extranjeros (CIE)."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "mundo-0164",
+  "posicion": "cerrar",
+  "cita": "poner fin al internamiento de personas migrantes por motivos administrativos. Sustituir los Centros de Internamiento de Extranjeros (CIE) por alternativas abiertas y comunitarias"
+ },
+ {
+  "eje": "eje-cie",
+  "id": "pcte-0094",
+  "posicion": "cerrar",
+  "cita": "Cierre de los CIE y fin de las identificaciones por perfil étnico y de las devoluciones en caliente."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "podemos-0224",
+  "posicion": "cerrar",
+  "cita": "Procederemos al cierre de todos los Centros de Internamiento de Extranjeros, sustituyendo la privación de libertad por alternativas comunitarias"
+ },
+ {
+  "eje": "eje-cie",
+  "id": "adelante-0027",
+  "posicion": "cerrar",
+  "cita": "Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "adelante-0612",
+  "posicion": "cerrar",
+  "cita": "Cierre de los CIE — Empezando por el de Algeciras, y Andalucía territorio libre de CIE."
+ },
+ {
+  "eje": "eje-cie",
+  "id": "bng-0110",
+  "posicion": "cerrar",
+  "cita": "Demandar o peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español"
+ },
+ {
+  "eje": "eje-cie",
+  "id": "bildu-0151",
+  "posicion": "cerrar",
+  "cita": "Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE"
+ },
+ {
+  "eje": "eje-cie",
+  "id": "ph-0047",
+  "posicion": "cerrar",
+  "cita": "cierre definitivo e incondicional en un plazo de 60 días de todos los Centros de Internamiento de Extranjeros (CIE)."
+ },
+ {
+  "eje": "eje-listas",
+  "id": "d21-0054",
+  "posicion": "si",
+  "cita": "reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas."
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "vox-0081",
+  "posicion": "mantener-ampliar",
+  "cita": "Ampliación de la prisión permanente revisable. Los que cometen los peores delitos deben tener las máximas condenas."
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "salf-0041",
+  "posicion": "mantener-ampliar",
+  "cita": "Prisión permanente revisable por violación a menores o con lesiones graves."
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "fe-0179",
+  "posicion": "mantener-ampliar",
+  "cita": "Reforma del Código penal, introduciendo la posibilidad de la cadena perpetua no revisable para delitos de Lesa Patria"
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "adelante-0551",
+  "posicion": "derogar",
+  "cita": "Derogar la prisión permanente revisable — Penas orientadas a la reinserción, como manda la Constitución."
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "bng-0157",
+  "posicion": "derogar",
+  "cita": "Derrogación da prisión permanente revisábel, por ser unha forma encuberta de manter a cadea perpetua"
+ },
+ {
+  "eje": "eje-ppr",
+  "id": "pnv-0180",
+  "posicion": "derogar",
+  "cita": "Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción"
+ }
+]

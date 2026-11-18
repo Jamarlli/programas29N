@@ -1,0 +1,799 @@
+[
+ {
+  "eje": "eje-ley-electoral",
+  "pregunta": "¿Cambiar la ley electoral?",
+  "posiciones": [
+   {
+    "id": "proporcional",
+    "nombre": "Hacerla más proporcional"
+   },
+   {
+    "id": "lista-mas-votada",
+    "nombre": "Que gobierne la lista más votada"
+   }
+  ],
+  "n": 57,
+  "palabras": 4354,
+  "candidatos": [
+   {
+    "id": "pp-0187",
+    "partido": "pp",
+    "titular": "Prohibir cuentas en redes sociales a menores de 14 y autorización parental hasta 16",
+    "marca_actual": [],
+    "texto": "**168 NINGÚN MENOR DE 14 AÑOS PODRÁ TENER UNA CUENTA EN REDES SOCIALES, Y HASTA LOS 16 NECESITARÁ AUTORIZACIÓN DE SUS PADRES.** Los controles parentales y la verificación de edad serán obligatorios. El acceso a contenidos para adultos y a apuestas estará prohibido en todo caso. Las plataformas que incumplan estas obligaciones responderán con sanciones proporcionales a su facturación. Además, completaremos el Código Penal para que lo que es delito en la calle sea delito en el mundo digital. Reforzaremos la prevención y garantizaremos el descanso digital en periodo nocturno, los límites al scroll infinito y la posibilidad de fijar tiempos máximos de uso, así como el etiquetado obligatorio de contenidos. Se establecerán canales efectivos de denuncia y se aprobarán medidas de apoyo a víctimas. La formación y la prevención de la adicción a las pantallas serán esenciales."
+   },
+   {
+    "id": "psoe-0491",
+    "partido": "psoe",
+    "titular": "Reformar el Senado como cámara de representación territorial con circunscripción autonómica",
+    "marca_actual": [],
+    "texto": "**382.** Reformar el Senado para convertirlo en una auténtica Cámara de representación territorial, haciendo coincidir sus circunscripciones con el ámbito autonómico."
+   },
+   {
+    "id": "psoe-0627",
+    "partido": "psoe",
+    "titular": "Comisión parlamentaria para estudiar una Circunscripción Exterior",
+    "marca_actual": [],
+    "texto": "**492. Impulsar una comisión en el ámbito parlamentario para estudiar la creación de una Circunscripción Exterior** que permita la elección directa de representantes de la ciudadanía española residente en el exterior **.**"
+   },
+   {
+    "id": "vox-0036",
+    "partido": "vox",
+    "titular": "Simplificar al mínimo la burocracia y suprimir lo innecesario",
+    "marca_actual": [],
+    "texto": "36. Simplificar al mínimo la burocracia que soporta el ciudadano. Toda actuación administrativa deberá justificar su existencia, su utilidad y su proporcionalidad. Lo que no sea estrictamente necesario, se suprime. Lo que sea necesario, se simplifica al máximo. Esta revisión será permanente, transversal y afectará a todos los niveles administrativos, sin excepción y sin sectores blindados."
+   },
+   {
+    "id": "fa-0315",
+    "partido": "fa",
+    "titular": "Acercar la tributación de las rentas del capital a la del trabajo",
+    "marca_actual": [],
+    "texto": "- Acercaremos la tributación de las rentas del capital a la de las rentas del trabajo. Hoy las rentas del capital tributan entre el 19 % y el 30 %, mientras que las del trabajo lo hacen entre el 19 % y el 47 %. Así, las clases medias y trabajadoras, que viven de su salario, pagan proporcionalmente más que las rentas altas, que obtienen buena parte de sus ingresos del capital."
+   },
+   {
+    "id": "fa-0357",
+    "partido": "fa",
+    "titular": "Jornada continua como forma habitual y límites a la jornada partida",
+    "marca_actual": [],
+    "texto": "- Generalización de la jornada continua y límites a la jornada partida: Haremos de la jornada continua la forma habitual de organización del trabajo. Limitaremos las jornadas partidas a supuestos justificados por negociación colectiva, fijaremos límites a las interrupciones y estableceremos una compensación salarial obligatoria y no absorbible proporcional al tiempo de interrupción."
+   },
+   {
+    "id": "fa-0393",
+    "partido": "fa",
+    "titular": "Jornada de 37,5 horas en 2026 y de 35 en el sector público",
+    "marca_actual": [],
+    "texto": "- Implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público, prohibiendo la compensación mediante horas extraordinarias y exigiendo la subida proporcional del salario hora en contratos a tiempo parcial."
+   },
+   {
+    "id": "fa-0741",
+    "partido": "fa",
+    "titular": "Ley de Gobiernos Locales con financiación estable y competencias definidas",
+    "marca_actual": [],
+    "texto": "- Aprobaremos un Proyecto de Ley de Gobiernos Locales que refuerce la autonomía local, que garantice un sistema de financiación estable y proporcional a unas competencias muy definidas de las entidades locales para que se puedan desarrollar las políticas públicas con garantías de calidad y transparencia. La nueva ley reconocerá las competencias exclusivas que en régimen local tengan las comunidades autónomas que así lo contemplen en sus estatutos, a las cuales les corresponderá regular, ampliar, desarrollar y desplegar a través de una arquitectura institucional propia. Las denominadas competencias impropias sostenidas por los ayuntamientos deben contar con suficiencia de recursos proporcionados por las comunidades autónomas y debe quedar asegurada en esta modificación del sistema de financiación. Se trata de dotar de estabilidad, rigor y recursos las competencias asumidas por las entidades locales, de forma coordinada con la de la financiación autonómica, definiendo con claridad la participación de las haciendas locales en los tributos del Estado (PIE) y en los de las comunidades autónomas (PICA)."
+   },
+   {
+    "id": "fa-0753",
+    "partido": "fa",
+    "titular": "Quita proporcional a los municipios si se condona deuda a su comunidad",
+    "marca_actual": [],
+    "texto": "- Si el Estado condona deuda a una comunidad autónoma, aplicará una quita proporcional a la deuda de sus municipios."
+   },
+   {
+    "id": "fa-0797",
+    "partido": "fa",
+    "titular": "Hasta 4 años de prisión a directivos de plataformas que desobedezcan retiradas",
+    "marca_actual": [],
+    "texto": "- Responsabilidad penal de directivos y sanciones por contenidos ilícitos: Tipificación como delito de la desobediencia de directivos de grandes plataformas a órdenes de retirada de contenidos ilícitos, castigada con penas de hasta 4 años de prisión en contextos de riesgo para la vida democrática (como procesos electorales o emergencias). Sancionaremos penalmente la amplificación deliberada de contenidos ilícitos por motivos lucrativos, aplicando multas corporativas proporcionales al volumen de facturación."
+   },
+   {
+    "id": "fa-0807",
+    "partido": "fa",
+    "titular": "Sancionar falsas rebajas y regular mercados de predicción e influencers",
+    "marca_actual": [],
+    "texto": "- Fiscalización de falsas ofertas, mercados de predicción y regulación de influencers: Sanción a prácticas comerciales abusivas y falsas rebajas mediante multas proporcionales a la facturación en España. Regularemos apuestas o mercados de predicción disfrazados de productos financieros bajo la legislación sobre el juego, bloqueando plataformas sin licencia. Obligación legal para grandes influencers de emitir rectificaciones ante intromisiones al honor, intimidad o dignidad."
+   },
+   {
+    "id": "fa-0848",
+    "partido": "fa",
+    "titular": "Circunscripción para la diáspora, voto municipal exterior y estrategia de retorno",
+    "marca_actual": [],
+    "texto": "- Derechos de la diáspora y estrategia estatal de retorno: Crearemos una circunscripción electoral propia para la ciudadanía en el exterior (diáspora), restituiremos el voto en elecciones municipales para residentes en el extranjero y aprobaremos una Estrategia Estatal para un Retorno Digno."
+   },
+   {
+    "id": "fa-0928",
+    "partido": "fa",
+    "titular": "Reformar el sistema electoral para lograr proporcionalidad directa nacional",
+    "marca_actual": [],
+    "texto": "- Reformaremos el sistema electoral para lograr la proporcionalidad directa a nivel nacional."
+   },
+   {
+    "id": "fa-0947",
+    "partido": "fa",
+    "titular": "Multas proporcionales a los ingresos y sanciones de índole restaurativa",
+    "marca_actual": [],
+    "texto": "- Reduciremos las multas excesivas y aplicaremos «criterios de proporcionalidad» para ajustarlas a la «capacidad de ingresos de las personas sancionadas», así como a su edad, en el caso de personas más jóvenes. Las posibles sanciones que se den deberán ser «de índole restaurativa» o el resultado de la conciliación «entre la persona autora y la persona o institución ofendida». En todo caso, en el expediente debe primar la «resocialización por encima de la sanción», además de que se eliminará la «limitación actual para poder sustituir las sanciones a menores por trabajo social o comunitario»."
+   },
+   {
+    "id": "pacma-0322",
+    "partido": "pacma",
+    "titular": "Pacto de Estado por la Igualdad en el Empleo",
+    "marca_actual": [],
+    "texto": "Por todo ello, es necesario un **Pacto de Estado por la Igualdad en el Empleo**, a través del cual se pueda **combatir la discriminación laboral y salarial** todavía existente y **promover la presencia de mujeres en puestos de responsabilidad**.\n\nEn la mayoría de las ocasiones, los partidos en el gobierno sólo tienen en cuenta su perspectiva particular. Buena muestra de ello es la conocida como la Ley de Paridad, cuya finalidad era, supuestamente, promover la presencia de mujeres en puestos de responsabilidad. Sin embargo, muchas de las medidas aprobadas, en realidad, están perjudicando esa mayor y más relevante presencia de mujeres. Exponemos como ejemplo la reforma que se ha hecho mediante la citada norma de la Ley Electoral:\n\nAntes, la LOREG establecía que las candidaturas debían tener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista los candidatos de cada uno de los sexos fueran como mínimo el 40%. Tras la reforma, la LOREG establece ahora que las candidaturas deben tener una composición paritaria, alternando personas de uno y otro sexo. Las conocidas como “listas cremallera”."
+   },
+   {
+    "id": "pacma-0323",
+    "partido": "pacma",
+    "titular": "Las listas cremallera obligan a reducir mujeres en candidaturas mayoritariamente femeninas",
+    "marca_actual": [],
+    "texto": "Estas medidas que, según la LOREG y la Ley de Paridad, debían favorecer, en teoría, una mayor presencia de mujeres en las candidaturas, en el caso de PACMA provocan el efecto contrario. Y es que, el Partido Animalista, en el que la presencia de mujeres ha sido siempre mayoritaria, estaba obligado a reducir el número de mujeres en sus listas a un 60% y, tras la reforma de la Ley de Paridad, aún más, a un 50%. Y no sólo a reducir su número, sino a colocar a las mujeres en puestos menos relevantes en las listas, al establecer obligatoriamente las listas cremallera.\n\nEl movimiento animalista es un movimiento impulsado históricamente por mujeres y sustentado en la actualidad mayoritariamente por mujeres. Es por ello por lo que PACMA es también un partido político integrado y sostenido mayoritariamente por mujeres, que cada proceso electoral se encuentra en la tesitura de tener que incluir en sus candidaturas a menos mujeres de las que incluiría -y en puestos menos relevantes- si no existieran estas normas y preceptos que, irónicamente, se han aprobado para aumentar su presencia y relevancia."
+   },
+   {
+    "id": "pacma-0324",
+    "partido": "pacma",
+    "titular": "Ley que exija que las mujeres sean al menos la mitad de las candidaturas",
+    "marca_actual": [],
+    "texto": "Por todo ello, desde PACMA ya advertimos al Gobierno en su momento que no necesitábamos una Ley de Representación Paritaria, cuando lo que se trata es de corregir una menor y menos relevante presencia de mujeres, sino una **Ley para fomentar una mayor y más relevante representación de mujeres.** En casos como el de la LOREG, la solución pasaba por establecer, no que las candidaturas deben tener una composición paritaria de mujeres y hombres, sino una composición equilibrada en la que las mujeres representen, al menos, la mitad de los candidatos/as, para no perjudicar la mayor y más relevante presencia de mujeres en candidaturas como las de PACMA, y así en otros ámbitos, sectores y empresas en las que la presencia de mujeres sea mayoritaria, y que no debería, bajo ningún concepto, verse perjudicada por leyes cuya finalidad, supuestamente, es favorecerla."
+   },
+   {
+    "id": "pacma-0405",
+    "partido": "pacma",
+    "titular": "Avanzar hacia una democracia participativa con consultas ciudadanas",
+    "marca_actual": [],
+    "texto": "Nuestro sistema deriva de una Transición en la cual unos partidos políticos, que no tenían entonces respaldo social, necesitaban verse reforzados desde las instituciones como promotores y conductores de toda reforma. Desde entonces, estos mismos partidos han obstaculizado siempre las vías de participación que no controlan, temiendo el impacto que pueda tener una ciudadanía crítica y participativa.\n\nTodo ello contribuye a que nuestra democracia se vea limitada. Dos ejemplos son las limitaciones a las Iniciativas Legislativas Populares y la injusta Ley Electoral.\n\nAdemás, un sistema realmente democrático no limita la participación ciudadana a votar cada cuatro años.\n\nEn PACMA creemos en **espacios institucionalmente abiertos** para **consultas sobre los contenidos de las políticas y programas de gobierno**.\n\nHoy en día podemos contar con las oportunidades que nos ofrecen las nuevas tecnologías para **facilitar la información y la colaboración entre gobiernos, partidos, instituciones, movimientos sociales y ciudadanía**, y **avanzar hacia una democracia participativa** que dé respuestas a las demandas de la sociedad."
+   },
+   {
+    "id": "pacma-0412",
+    "partido": "pacma",
+    "titular": "Reformar la LOREG para que todos los votos tengan el mismo valor",
+    "marca_actual": [],
+    "texto": "La vigente Ley Orgánica del Régimen Electoral General favorece desorbitadamente a los dos partidos que en su día la pactaron y que se alternan en el Gobierno desde la Transición. Establece un sistema injusto, diseñado para obstaculizar lo máximo posible la entrada de nuevos partidos y perpetuar así su bipartidismo.\n\nCon un sistema electoral justo, de circunscripción única, en las Elecciones Generales de 2019, el Partido Animalista habría conseguido no uno, ni dos, sino cuatro escaños. Sin embargo, con más de 326.000 votos, PACMA no obtuvo representación, mientras cinco partidos con menor número de votos sí obtuvieron entre uno y cuatro diputados.\n\nDesde PACMA defendemos una reforma de la LOREG hacia un **sistema electoral justo, donde todos los votos tengan el mismo valor**, a través de las siguientes medidas:"
+   },
+   {
+    "id": "pacma-0413",
+    "partido": "pacma",
+    "titular": "Circunscripción única, sin barrera electoral y reparto proporcional de escaños",
+    "marca_actual": [],
+    "texto": "- Cambio a un **sistema electoral de circunscripción única**, **sin barrera electoral** y con un **reparto de escaños proporcional al número de votos**."
+   },
+   {
+    "id": "fo-0175",
+    "partido": "fo",
+    "titular": "Diagnóstico: una justicia secuestrada por el poder político",
+    "marca_actual": [],
+    "texto": "La justicia en España se encuentra secuestrada por el poder político. Es bien sabido que en España no existe una independencia judicial real, sino que los grandes partidos políticos se turnan entre ellos para colocar a sus socios, como hacen con el Gobierno. Hacen y deshacen con total impunidad.\n\nExiste un pacto tácito entre los partidos del sistema para mantener esta situación, que beneficia a unos pocos estómagos agradecidos. Entre ellos se acusan de no cumplir cuando quieren presionarse unos a otros, pero ninguno denuncia la raíz del problema, es idéntico a lo que hacen con la Ley Electoral. Como consecuencia, los españoles que quieren denunciar la corrupción política se encuentran con un callejón sin salida.\n\nLos únicos casos de corrupción que acaban en condena, llegan tarde y mal, y nunca tiene efecto sobre los partidos políticos, que deberían ser los primeros en pagar sus crímenes. Además, en ocasiones el ejecutivo no ha dudado en usar el indulto para salvarles de la cárcel y de pagar sus deudas. Si es necesario, como ya ha ocurrido con la malversación, suavizarán las penas para salvar a sus socios. Esto es un insulto a todos los españoles, y una demostración de que el sistema judicial está diseñado para defender a los poderosos."
+   },
+   {
+    "id": "mundo-0107",
+    "partido": "mundo",
+    "titular": "Adaptar las cargas regulatorias al tamaño de las empresas",
+    "marca_actual": [],
+    "texto": "1. **Adaptar las normativas de calidad, producción y otros requisitos regulatorios al tamaño y las características de las empresas,** aplicando criterios de proporcionalidad que eviten cargas administrativas y económicas excesivas para las pequeñas empresas, sin comprometer los estándares de calidad, seguridad y sostenibilidad."
+   },
+   {
+    "id": "fe-0082",
+    "partido": "fe",
+    "titular": "Cuotas de autónomos justas y flexibles y fin de los falsos autónomos",
+    "marca_actual": [],
+    "texto": "- 6.15. Eliminación de trabas burocráticas y flexibilización en el pago de cuotas para autónomos, siendo estas justas y proporcionales. Acabar de una vez con los falsos autónomos."
+   },
+   {
+    "id": "autonomos-0026",
+    "partido": "autonomos",
+    "titular": "Umbral único de 22.000 € para declarar la Renta con varios pagadores",
+    "marca_actual": [],
+    "texto": "24. **Eliminación de penalizaciones fiscales por tener dos o más pagadores** — Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales.\n - **Viabilidad:** _Es viable mediante un simple ajuste técnico en el Reglamento del IRPF y en las tablas de retención, evitando que trabajadores precarios o en pluriempleo sufran liquidaciones inesperadas en la Renta._"
+   },
+   {
+    "id": "autonomos-0056",
+    "partido": "autonomos",
+    "titular": "Reformar la ley electoral para corregir la sobrerrepresentación de partidos regionalistas",
+    "marca_actual": [],
+    "texto": "54. **Reforma de la Ley Electoral con circunscripción más proporcional y segunda vuelta** — Modificación de la LOREG para corregir la sobrerrepresentación de partidos minoritarios regionalistas frente a fuerzas nacionales, valorando la elección a doble vuelta en alcaldías para garantizar gobiernos estables.\n - **Viabilidad:** _Es viable dentro del marco constitucional mediante reforma de ley orgánica, devolviendo el valor igualitario al voto de todos los españoles._"
+   },
+   {
+    "id": "podemos-0032",
+    "partido": "podemos",
+    "titular": "Cláusula «rebus sic stantibus» en hipotecas y proporcionalidad antes de ejecutarlas",
+    "marca_actual": [],
+    "texto": "25. **Protección de las familias frente a los abusos y las ejecuciones hipotecarias.** Estableceremos la aplicación de la cláusula «rebus sic stantibus» a los contratos hipotecarios, obligando a renegociar sus condiciones cuando circunstancias sobrevenidas y ajenas a la voluntad de las personas titulares alteren sustancialmente su capacidad de pago. Reformaremos la Ley de Enjuiciamiento Civil para obligar a los órganos judiciales a realizar un juicio de proporcionalidad antes de acordar una ejecución hipotecaria y paralizar los procedimientos cuando se haya iniciado una renegociación al amparo de esta cláusula o existan demandas pendientes por cláusulas abusivas."
+   },
+   {
+    "id": "podemos-0201",
+    "partido": "podemos",
+    "titular": "Ampliar el permiso por fuerza mayor a 7 días retribuidos al año",
+    "marca_actual": [],
+    "texto": "183. **Permiso de fuerza mayor de 7 días.** Ampliaremos el permiso por fuerza mayor hasta 7 días retribuidos al año para atender urgencias familiares derivadas de enfermedades, accidentes u otras situaciones imprevistas que requieran la presencia inmediata de la persona trabajadora. El permiso incluirá a las personas convivientes y a los animales que convivan con ella, y su duración se multiplicará proporcionalmente en función del número de menores a cargo. Además, se añadirán dos días por cada menor a cargo con discapacidad, enfermedad crónica o necesidades terapéuticas especiales."
+   },
+   {
+    "id": "podemos-0262",
+    "partido": "podemos",
+    "titular": "Estatuto profesional del sector del libro",
+    "marca_actual": [],
+    "texto": "244. **Estatuto profesional del sector del libro.** En él se recogerán los acuerdos sobre buenas prácticas contractuales, los plazos de pago, las liquidaciones, la transparencia de ventas y la protección social de los profesionales. Incluirá además medidas para mejorar las condiciones de autores, ilustradores, traductores y trabajadores editoriales, con un reparto proporcional y equitativo entre autores, librería, editorial y distribuidora de los beneficios generados por la venta de una obra literaria."
+   },
+   {
+    "id": "podemos-0325",
+    "partido": "podemos",
+    "titular": "Sanidad universal sin exclusiones, cartera bucodental al 100 % y copago según renta",
+    "marca_actual": [],
+    "texto": "307. **Derecho a la salud sin barreras: universalidad real, cartera ampliada y copagos limitados.** Recuperaremos una sanidad plenamente universal, financiada con recursos públicos y gestionada desde lo público, que garantice el derecho a la salud en condiciones de igualdad, independientemente de la situación económica, laboral o territorial. Desarrollaremos y, si hiciera falta, modificaremos el RDL 7/2018 para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema. Avanzaremos hacia un sistema sanitario común que integre a los aproximadamente dos millones de funcionarios que hoy cuentan con un modelo diferenciado. Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica, para que una familia humilde reciba la misma atención que una con más recursos puede pagar en el ámbito privado; el dentista público incluirá empastes, limpiezas, ortodoncias, endodoncias, prótesis y férulas. Reformaremos el copago farmacéutico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos. La salud es un derecho, no un negocio: nadie debe tener que elegir entre llegar a fin de mes y seguir el tratamiento que necesita."
+   },
+   {
+    "id": "podemos-0373",
+    "partido": "podemos",
+    "titular": "Defender el taxi frente a las VTC con la proporción 1/30",
+    "marca_actual": [],
+    "texto": "355. **Defensa del servicio público del taxi frente a las grandes corporaciones de VTC.** Proteger el sector del taxi frente a la competencia desleal de las grandes plataformas de VTC, como Uber o Cabify, que promueven un modelo de negocio basado en la desregulación y la precarización de las condiciones laborales. Para ello, se impulsarán las modificaciones legislativas necesarias para garantizar el cumplimiento efectivo de la regla de proporcionalidad de una licencia de VTC por cada 30 licencias de taxi (1/30), poniendo freno a la expansión de estas grandes corporaciones y asegurando la continuidad de un servicio público esencial, accesible y de calidad para toda la ciudadanía."
+   },
+   {
+    "id": "podemos-0433",
+    "partido": "podemos",
+    "titular": "Circunscripción autonómica y método Sainte-Laguë para el Congreso",
+    "marca_actual": [],
+    "texto": "411. **Reforma del sistema electoral para garantizar la proporcionalidad.** Reformaremos el sistema electoral del Congreso de los Diputados mediante la adopción de la circunscripción autonómica. Sustituiremos la fórmula D’Hondt por el método Sainte-Laguë y eliminaremos las barreras electorales de entrada para reducir la distancia entre el porcentaje de votos y el de escaños de cada candidatura."
+   },
+   {
+    "id": "podemos-0434",
+    "partido": "podemos",
+    "titular": "Reforma federal del Senado como cámara de representación territorial",
+    "marca_actual": [],
+    "texto": "412. **Reforma federal del Senado.** Reformaremos el Senado para convertirlo en una verdadera cámara de representación territorial, garantizando la misma representación a todas las Comunidades Autónomas y estableciendo un sistema de elección proporcional en cada circunscripción, que refleje la pluralidad política de sus territorios."
+   },
+   {
+    "id": "podemos-0446",
+    "partido": "podemos",
+    "titular": "Identificación visible de los agentes y cámaras corporales en las actuaciones policiales",
+    "marca_actual": [],
+    "texto": "424. **Garantizar la identificación, transparencia y control de las actuaciones policiales.** Garantizaremos la identificación efectiva de todos los agentes policiales y estableceremos mecanismos de control y transparencia sobre sus actuaciones para prevenir los abusos y proteger los derechos fundamentales. Todos los agentes deberán llevar un número de identificación perfectamente visible desde cualquier ángulo. Implantaremos progresivamente cámaras corporales y sistemas de grabación en los vehículos policiales, con especial prioridad para las intervenciones de mayor riesgo y los dispositivos de orden público, estableciendo protocolos de activación, conservación, acceso y protección de datos que aseguren la preservación de las grabaciones cuando puedan servir para investigar vulneraciones de derechos. Asimismo, revisaremos los protocolos de identificación, registro, detención y uso de la fuerza para garantizar su necesidad y proporcionalidad, eliminando los perfilamientos raciales y las prácticas discriminatorias."
+   },
+   {
+    "id": "adelante-0271",
+    "partido": "adelante",
+    "titular": "Cotización sin topes y aportaciones de impuestos a las pensiones",
+    "marca_actual": [],
+    "texto": "222. **Cotización sin topes** — Financiar el sistema con cotización proporcional a los ingresos reales y aportaciones de los impuestos. _Porque quien más gana debe cotizar por todo lo que gana._"
+   },
+   {
+    "id": "adelante-0285",
+    "partido": "adelante",
+    "titular": "Impuesto de Sociedades progresivo: tipo reducido a pymes y creciente a grandes",
+    "marca_actual": [],
+    "texto": "235. **Sociedades progresivo** — Tipo reducido para las pymes pequeñas, tipos crecientes para las grandes empresas y fin de las deducciones salvo la reinversión ecosocial. _Porque las grandes empresas pagan proporcionalmente menos que las pequeñas._"
+   },
+   {
+    "id": "adelante-0532",
+    "partido": "adelante",
+    "titular": "Reformar la ley electoral para votar desde los 16 años",
+    "marca_actual": [],
+    "texto": "477. **Voto a los 16 años** — Reforma de la ley electoral para que la juventud pueda votar desde los 16 años. _Porque la juventud de 16 años trabaja, paga impuestos y debe poder votar._"
+   },
+   {
+    "id": "bng-0170",
+    "partido": "bng",
+    "titular": "Reforma electoral: método Hare, Galicia como circunscripción y sin umbral del 5 %",
+    "marca_actual": [],
+    "texto": "- Reformar estruturalmente a normativa electoral: implantación do método proporcional directo (cota Hare); estabelecemento de Galiza como circunscrición electoral; eliminación das porcentaxes mínimas de 5% para conseguir representación; obrigatoriedade do voto secreto en cabina; prohibición de reparto de papeletas; garantía de igualdade entre partidos políticos respecto do acceso, da difusión e da presenza nos debates en campaña electoral en horario de máxima audiencia. Así mesmo, exixiremos que o exercicio de voto exterior se realice, ao igual que nas mesas do Estado, sempre en urna en lugares debidamente habilitados para garantir a identificación das persoas votantes e impedir a fraude. Exixiremos o cumprimento do estabelecido na disposición adicional sétima da Lei de pesca, introducida grazas a unha emenda do BNG, que exixe ao Goberno remitir ás Cortes unha proposta para garantir o voto telemático das e dos mariñeiros embarcados nas frotas de altura."
+   },
+   {
+    "id": "erc-0073",
+    "partido": "erc",
+    "titular": "Transponer la Ley Electoral Europea y promover el voto a los 16",
+    "marca_actual": [],
+    "texto": "53. Promoure la transposició de la Llei Electoral Europea, assegurant que garanteixi la pluralitat i la representativitat i que no s’utilitzen els llindars electorals i la configuració de circumscripcions com a minories de bloqueig contra minories nacionals ni contra la pluralitat política. En aquest marc, promoure també l’exercici del dret de vot a partir dels 16 anys."
+   },
+   {
+    "id": "erc-0115",
+    "partido": "erc",
+    "titular": "Financiación, morosidad cero y contratación pública accesible para las pymes",
+    "marca_actual": [],
+    "texto": "86. Fomentar pimes competitives: finançament, morositat zero i contractació pública accessible i fàcil eliminant intermediaris. Reforçar els instruments de finançament de les petites i mitjanes empreses i establir mecanismes efectius per garantir el compliment dels terminis legals de pagament. Cal també revisar la contractació pública per facilitar la participació directa de les pimes mitjançant la digitalització dels procediments, la divisió justificada en lots i l’adaptació de la planificació, preparació i disseny de licitacions per estimular la participació de pimes, assegurant la proporcionalitat dels requisits de solvència i la transparència en els pagaments a subcontractistes. Per últim, s’ha de promoure una simplificació administrativa real durant el cicle de creixement de les pimes, que redueixi costos, duplicitats i terminis sense rebaixar les garanties laborals, socials i ambientals."
+   },
+   {
+    "id": "erc-0178",
+    "partido": "erc",
+    "titular": "Ampliar el autoconsumo compartido a 10 km y a 20 km en zonas rurales",
+    "marca_actual": [],
+    "texto": "138. Ampliar els radis d’autoconsum compartit. Modificar la legislació per ampliar l’àmbit de l’autoconsum col·lectiu fins als 10 km amb caràcter general i fins als 20.000 metres (20 km) en àrees rurals, redefinint els peatges d’accés de manera proporcional als que s’indueixen a la xarxa. Això permetrà estendre l’autoconsum a més polígons industrials, a les urbanitzacions i al món rural, democratitzant l’accés a l’energia per a la majoria de la població que no disposa de teulada pròpia."
+   },
+   {
+    "id": "erc-0206",
+    "partido": "erc",
+    "titular": "Reformar el régimen sancionador pesquero para que sea proporcional",
+    "marca_actual": [],
+    "texto": "165. Reformar el règim sancionador pesquer per garantir la proporcionalitat i evitar la pèrdua injustificada d’ajuts europeus. Revisar la legislació estatal i negociar les modificacions europees oportunes per garantir que la qualificació d’infraccions pesqueres i la pèrdua d’ajuts del FEMPA s’ajustin als principis de proporcionalitat, individualització i seguretat jurídica. Aquesta mesura evitarà que errors formals o de poca gravetat comportin l’exclusió automàtica de fons essencials, valorant adequadament la intencionalitat i l’impacte real de cada cas."
+   },
+   {
+    "id": "erc-0233",
+    "partido": "erc",
+    "titular": "Implantar la viñeta para financiar las vías de alta capacidad",
+    "marca_actual": [],
+    "texto": "186. Implementació de la vinyeta i finançament just de les vies d’alta capacitat a Catalunya. Crear un consorci Estat-Generalitat per mancomunar els actius de la xarxa viària i establir la vinyeta com a sistema únic de pagament i control de pas. Aquest model de finançament proporcional i socialment just garantirà el manteniment de les vies d’alta capacitat sense discriminacions territorials, fent contribuir de manera especial el transport pesant de pas, tot gestionant el trànsit, reduint l’impacte ambiental i protegint la mobilitat quotidiana de la ciutadania."
+   },
+   {
+    "id": "cnv-0057",
+    "partido": "cnv",
+    "titular": "Reducir el periodo mínimo de cotización según la menor esperanza de vida",
+    "marca_actual": [],
+    "texto": "- Demanarem reduir el període mínim de cotització de manera proporcional a la reducció de l'esperança de vida dels treballadors afectats."
+   },
+   {
+    "id": "bildu-0165",
+    "partido": "bildu",
+    "titular": "Reducir el impacto ambiental de la IA y de los centros de datos",
+    "marca_actual": [],
+    "texto": "- Sostenibilidad ambiental y verde IA. Reducir el impacto ambiental de la IA fomentando los algoritmos verdes y el uso responsable de los recursos. Tener en cuenta, en consonancia con los objetivos del Tratado Verde Europeo, el consumo energético y de agua y la ubicación de los centros de datos, para priorizar las infraestructuras proporcionales y sostenibles."
+   },
+   {
+    "id": "pfac-0296",
+    "partido": "pfac",
+    "titular": "Exigir proporcionalidad en las causas de despidos objetivos y colectivos",
+    "marca_actual": [],
+    "texto": "14. Exigir proporcionalidad y razonabilidad de las causas en los despidos objetivos y colectivos por motivos económicos."
+   },
+   {
+    "id": "ph-0037",
+    "partido": "ph",
+    "titular": "Circunscripción única estatal y sin barreras porcentuales en la ley electoral",
+    "marca_actual": [],
+    "texto": "- **Propuesta 3: Reforma de la LOREG hacia la proporcionalidad real** Modificación integral de la ley electoral para implantar la circunscripción única estatal en el Congreso de los Diputados, superando la distorsión del reparto provincial que beneficia al bipartidismo. Supresión de las barreras porcentuales mínimas artificiales para garantizar que todos los votos valgan lo mismo y tengan representación efectiva."
+   },
+   {
+    "id": "d21-0038",
+    "partido": "d21",
+    "titular": "Diputados y senadores obligados a reunirse con ciudadanos cada dos semanas",
+    "marca_actual": [],
+    "texto": "- **Los Diputados y Senadores tendrán la obligación de dedicar una jornada a reuniones abiertas con ciudadanos en su circunscripción al menos una vez cada dos semanas.** Se creará un registro público de reuniones donde consten las fechas y asistentes, garantizando la transparencia. Y se reformarán los Reglamentos del Congreso y del Senado para incluir sanciones monetarias cada vez que falten a esa obligación."
+   },
+   {
+    "id": "d21-0053",
+    "partido": "d21",
+    "titular": "Diagnóstico: el 94 % quiere cambiar el sistema electoral y sus listas cerradas",
+    "marca_actual": [],
+    "texto": "El 94% de los españoles afirma querer cambiar nuestro sistema electoral, con un rechazo visceral a las actuales listas cerradas controladas por los partidos políticos. Una democracia del siglo 21 debe permitir a sus ciudadanos elegir con libertad a sus representantes."
+   },
+   {
+    "id": "d21-0054",
+    "partido": "d21",
+    "titular": "Reformar la Ley Electoral con listas desbloqueadas y abiertas",
+    "marca_actual": [],
+    "texto": "- Impulsaremos una reforma de la Ley Electoral que permita a los ciudadanos tener **mayor capacidad para decidir qué personas les representan**, reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas."
+   },
+   {
+    "id": "d21-0356",
+    "partido": "d21",
+    "titular": "Alta en la Seguridad Social de deportistas de alto nivel desde el inicio",
+    "marca_actual": [],
+    "texto": "- **Cotización desde el Primer Día para Nuestros Deportistas de Alto Nivel:** hoy la cotización de nuestros deportistas de élite depende de trámites voluntarios y ayudas que muchos desconocen. Ningún Deportista de Alto Nivel (DAN) volverá a competir sin cotizar: estará dado de alta en la Seguridad Social desde el mismo momento en que su federación lo proponga como DAN, y el Consejo Superior de Deportes emitirá una certificación digital que acreditará después esa cotización, sin papeleo para el deportista. La cotización será proporcional al importe de su beca y la abonará la entidad otorgante. Y equipararemos a los deportistas paralímpicos con los olímpicos en los criterios de acceso a la condición de DAN."
+   },
+   {
+    "id": "comuns-0210",
+    "partido": "comuns",
+    "titular": "Estudiar el pago por uso de las grandes vías de titularidad estatal",
+    "marca_actual": [],
+    "texto": "- Estudiarem el pagament per ús de grans infraestructures viàries de titularitat estatal, sota criteris de proporcionalitat, exempcions socials i coordinació territorial."
+   },
+   {
+    "id": "comuns-0245",
+    "partido": "comuns",
+    "titular": "Multas según los afectados e infracción muy grave manipular el registro",
+    "marca_actual": [],
+    "texto": "- Calcular les sancions en funció del nombre de persones treballadores afectades, perquè les multes siguin proporcionals a la mida del frau, i qualificar com a infracció molt greu la manipulació del registre i les hores extraordinàries no pagades ni cotitzades."
+   },
+   {
+    "id": "comuns-0915",
+    "partido": "comuns",
+    "titular": "Reformar la LOREG para votar a los 16 años en todas las elecciones",
+    "marca_actual": [],
+    "texto": "- Reformar la Llei orgànica del règim electoral general (LOREG) per reconèixer el dret de sufragi actiu als 16 anys en totes les eleccions."
+   },
+   {
+    "id": "comuns-0987",
+    "partido": "comuns",
+    "titular": "Voto municipal de las personas extranjeras tras un año de residencia",
+    "marca_actual": [],
+    "texto": "- Promoure les reformes constitucionals i de la LOREG per reconèixer el sufragi actiu i passiu en les eleccions municipals a les persones estrangeres a partir d’un any de residència, com a altres països de la UE."
+   },
+   {
+    "id": "comuns-1069",
+    "partido": "comuns",
+    "titular": "Diagnóstico: el reparto de escaños favorece a los grandes partidos",
+    "marca_actual": [],
+    "texto": "El sistema territorial de repartiment d’escons actua dificultant l’obtenció d’escons per part de partits petits en circumscripcions amb pocs habitants.\n\nAixò fa que la representació obtinguda en escons no sigui proporcional al resultat electoral emès en vots. Com a conseqüència, és molt difícil que el sistema de partits canviï i els grans partits (particularment el PP i el PSOE) en surten afavorits.\n\nD’altra banda, la configuració de les llistes electorals ha demostrat ser molt resistent a la representació igualitària de dones i homes, i per tant hi ha una infrarepresentació sistemàtica de les dones, tot i la modificació de la llei electoral que es va produir amb l’aprovació de la Llei d’Igualtat (3/2007).\n\nPer últim, també cal implementar mesures per garantir que el dret a vot es pot fer efectiu i per incrementar els nivells de participació. Per tot això proposem fer una reforma de la llei electoral segons els criteris següents:"
+   },
+   {
+    "id": "comuns-1070",
+    "partido": "comuns",
+    "titular": "Ley electoral: equilibrar proporcionalidad y proximidad territorial",
+    "marca_actual": [],
+    "texto": "- Millorar la representativitat buscant un equilibri entre, d’una banda, una major proporcionalitat i, de l’altra, una major proximitat dels i les representants amb els seus territoris."
+   },
+   {
+    "id": "comuns-1232",
+    "partido": "comuns",
+    "titular": "Reformar la LOREG para prohibir los deepfakes de candidaturas y etiquetar contenido sintético",
+    "marca_actual": [],
+    "texto": "- Reformar la llei electoral (LOREG):\n - prohibir els deepfakes de candidatures;\n - aplicar en període electoral l’obligació europea d’etiquetar el contingut sintètic, amb competència de la Junta Electoral, retirada ràpida i sancions;\n - aprovar un codi de conducta dels partits sobre l’ús de la IA en campanya."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mandatos",
+  "pregunta": "¿Limitar los mandatos de los cargos públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, limitarlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No limitarlos"
+   }
+  ],
+  "n": 21,
+  "palabras": 2050,
+  "candidatos": [
+   {
+    "id": "pp-0001",
+    "partido": "pp",
+    "titular": "Presentación: compromisos concretos para abrir una nueva etapa en España",
+    "marca_actual": [],
+    "texto": "_El programa del cambio necesario para España_\n\nEspaña vive un momento decisivo. Y los momentos decisivos exigen decisiones a su altura. Este documento no nace con el objetivo de desarrollar todas y cada una de las acciones que corresponden a un Gobierno. Nace para exponer ante los españoles lo que hará, sí o sí, un Gobierno del Partido Popular para reparar el daño ocasionado a la Nación en los últimos ocho años, impedir que se repita y abrir una nueva etapa en la historia de España.\n\nLo urgente es responder al deterioro que vamos a encontrarnos, pero nuestra ambición va mucho más allá. Vamos a acometer las reformas que llevan décadas aplazándose: las decisiones para que el Estado cumpla con sus obligaciones y los españoles podamos hacer, con libertad, todo lo demás.\n\nCreemos que esta es la forma más honesta de presentarnos ante los españoles en unas elecciones tan determinantes como las del próximo 29 de noviembre. Diciendo la verdad y con compromisos concretos a cumplir en una legislatura, prioridades marcadas y un proyecto claro para la España de las próximas décadas."
+   },
+   {
+    "id": "psoe-0158",
+    "partido": "psoe",
+    "titular": "Pagar cuatro semanas del permiso parental al 100 % de la base reguladora",
+    "marca_actual": [],
+    "texto": "**105. Impulsar la corresponsabilidad en los cuidados** . Impulsar la corresponsabilidad en los cuidados mediante una prestación de la Seguridad Social que cubra cuatro semanas del permiso parental para el cuidado de hijos menores de ocho años con el 100 % de la base reguladora; y reforzar los permisos de nacimiento y cuidado reconociendo una semana adicional para el segundo progenitor cuando ambos hayan disfrutado sus permisos de forma no solapada."
+   },
+   {
+    "id": "psoe-0181",
+    "partido": "psoe",
+    "titular": "Balance: 300.000 millones más transferidos a las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "Y lo hicimos: en estos ocho años se han transferido a las CC. AA. 300.000 millones de euros más que con el Gobierno de Mariano Rajoy.\n\nSin embargo, en demasiados lugares la ciudadanía percibe un deterioro inadmisible: las listas de espera siguen creciendo, faltan plazas en escuelas infantiles o residencias y la ayuda a la dependencia tarda meses en llegar. Hacen falta más recursos, y los garantizaremos, pero sobre todo hace falta responsabilidad. En las comunidades autónomas gobernadas por la derecha, el volumen inédito de financiación aportado por el Gobierno del Estado no se ha traducido en centros de salud con más profesionales ni en aulas mejor dotadas, sino en desvíos hacia el negocio privado, regalos fiscales a las rentas más altas y un deterioro deliberado de lo público. Mientras la derecha y la ultraderecha pretenden exportar a toda España esta misma receta de recortes, los y las socialistas aspiramos a blindar el Estado de bienestar para garantizar que cada euro público se traduzca en mejores servicios para toda la ciudadanía.\n\nPese a los obstáculos, ese objetivo ha inspirado la acción del gobierno progresista desde 2018, materializada en avances y nuevos derechos."
+   },
+   {
+    "id": "psoe-0309",
+    "partido": "psoe",
+    "titular": "Balance: Ley de Cambio Climático y renovables hasta el 72 % de la potencia",
+    "marca_actual": [],
+    "texto": "Durante estos ocho años hemos demostrado que proteger el planeta y mejorar la vida de la gente pueden y deben ir de la mano. Declaramos la emergencia climática y aprobamos la primera Ley de Cambio Climático, convirtiendo el desafío climático en una oportunidad para reforzar nuestra autonomía energética, modernizar nuestra economía y generar prosperidad compartida. Mientras que durante el último Gobierno del PP la potencia renovable apenas creció dos puntos porcentuales, desde 2018 ha aumentado 23 puntos, hasta representar el 72% de nuestra potencia eléctrica instalada, contribuyendo a que los precios mayoristas de la electricidad sean inferiores a la media europea.\n\nY hemos trabajado para que los beneficios de la transición ecológica lleguen a los hogares. Lo hemos hecho ampliando el bono social eléctrico, impulsando las ayudas al autoconsumo y las comunidades energéticas, y poniendo en marcha la excepción ibérica. Y seguiremos haciéndolo con los más de 9.000 millones de euros movilizados para el Plan Social para el Clima. Porque la transición ecológica debe ser también una transición justa que mejore la vida de la gente."
+   },
+   {
+    "id": "psoe-0582",
+    "partido": "psoe",
+    "titular": "Balance: no a la guerra en Irán y ayuda al desarrollo casi duplicada",
+    "marca_actual": [],
+    "texto": "En Irán, Pedro Sánchez encabezó en Europa el rechazo a una guerra contraria al derecho internacional e impidió que se utilizaran las bases militares españolas para operaciones vinculadas a ella, sin dejar de condenar la represión del régimen iraní y sus ataques contra otros países.\n\nPor otra parte, hemos revitalizado la cooperación al desarrollo para reducir desigualdades, prevenir conflictos y generar oportunidades. Mientras otros desmantelan sus políticas de cooperación, España ha incrementado su contribución a la solidaridad internacional. En los últimos ocho años hemos casi duplicado la Ayuda Oficial al Desarrollo y solo en 2025 hemos superado los 4.500 millones de euros, situándonos por encima de la media del Comité de Ayuda al Desarrollo (CAD).\n\nHay momentos en nuestra historia como país en los que debemos decidir quiénes somos. Este es uno de ellos. Mientras algunos se pliegan ante aquellos que vuelven a hablar el lenguaje de la fuerza y los muros, los y las socialistas apostamos por un mundo más abierto: con más democracia, más diplomacia, y más respeto a los derechos humanos."
+   },
+   {
+    "id": "fa-0220",
+    "partido": "fa",
+    "titular": "Nueva Ley de Patrimonio Cultural contra el expolio",
+    "marca_actual": [],
+    "texto": "- Nueva Ley de Patrimonio Cultural para agilizar el cumplimiento de los mandatos de las diversas convenciones internacionales que España ha refrendado desde el año 2005, abordando temas pendientes como la protección de tipos de bienes culturales como el audiovisual, el industrial, el sonoro o el paisaje cultural y la promoción y sensibilización contra la detección ilegal de metales y el expolio, integrando así la educación ciudadana sobre la importancia de la conservación preventiva y el necesario fomento del cruce de datos y el trabajo conjunto entre las distintas administraciones."
+   },
+   {
+    "id": "fa-0787",
+    "partido": "fa",
+    "titular": "Representación de trabajadores y usuarios en los órganos de las empresas públicas",
+    "marca_actual": [],
+    "texto": "- Control democrático de las empresas públicas: Incorporaremos representación de trabajadores y usuarios en sus órganos directivos, con mandatos de servicio e inversión con objetivos evaluables y transparencia pública para impedir la gestión opaca o el reparto partidista de cargos, bajo una dirección profesionalizada que rinda cuentas periódicamente ante el Congreso de los Diputados."
+   },
+   {
+    "id": "pacma-0422",
+    "partido": "pacma",
+    "titular": "Internet gratuito, estándares abiertos y radiotelevisiones públicas elegidas por concurso",
+    "marca_actual": [],
+    "texto": "Por todo ello, desde PACMA queremos **fomentar la expansión de la comunicación inalámbrica, la elaboración de guías informativas y programas formativos gratuitos** dirigidos a las personas mayores y a las personas en riesgo de exclusión social, **la instalación de puntos de acceso a internet gratuito** para personas en riesgo de exclusión social, **el uso de estándares abiertos en los documentos electrónicos emitidos y/o reclamados por la Administración y la publicación de las herramientas y materiales desarrollados por la Administración** con licencias de distribución libre.\n\nAdemás, **la información debería ser libre, independiente, objetiva y veraz**, para lo que es primordial, entre otros, **despolitizar los medios de comunicación**, cortando los vínculos de dependencia financiera y orgánica entre los partidos políticos y las redacciones. Este objetivo requiere reformas profundas tanto en las radiotelevisiones públicas como en el ecosistema de medios privados.\n\nDe cara a los medios públicos, se debe **garantizar que los consejos de administración y la dirección de las radiotelevisiones públicas se elijan mediante concursos públicos** basados en méritos profesionales, **con mandatos que no coincidan con los ciclos electorales**, así como **sustituir las subvenciones anuales discrecionales por un modelo de financiación blindado a largo plazo**, para impedir que el ejecutivo de turno amenace con recortes presupuestarios si la cobertura informativa le resulta incómoda."
+   },
+   {
+    "id": "fe-0132",
+    "partido": "fe",
+    "titular": "Eliminar primas e impuestos de la energía: CO2, IVA y mandatos de Bruselas",
+    "marca_actual": [],
+    "texto": "- 11.9. Regulación tarifaria mediante la eliminación y reducción de “primas” y absurdos impuestos (emisiones de CO2, IVA abusivo, mandatos absurdos de Bruselas, etc.)."
+   },
+   {
+    "id": "podemos-0436",
+    "partido": "podemos",
+    "titular": "Elegir los vocales judiciales del CGPJ por mayoría absoluta y evitar bloqueos",
+    "marca_actual": [],
+    "texto": "414. **Renovación y democratización del Consejo General del Poder Judicial y del Tribunal Constitucional.** Reformaremos la legislación para establecer mecanismos efectivos de cese y sustitución de los miembros del CGPJ y del TC una vez agotados sus mandatos, respetando los procedimientos de renovación. Asimismo, reformaremos la Ley Orgánica del Poder Judicial para que la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta y el respaldo de al menos la mitad de los grupos parlamentarios, garantizando el pluralismo y evitando los bloqueos. Mientras no exista una mayoría suficiente para acometer la reforma constitucional que permita su elección directa por la ciudadanía, ampliaremos la participación en la presentación de candidaturas mediante avales ciudadanos y comparecencias públicas. Garantizaremos también que los nombramientos discrecionales respeten los principios de mérito, capacidad, transparencia y paridad de género."
+   },
+   {
+    "id": "adelante-0509",
+    "partido": "adelante",
+    "titular": "Limitación de mandatos y revocación de los cargos públicos",
+    "marca_actual": [],
+    "texto": "454. **Mandatos limitados y revocables** — Limitación de mandatos y revocación de los cargos públicos. _Porque eternizarse en un cargo aleja a la clase política de la gente._"
+   },
+   {
+    "id": "adelante-0762",
+    "partido": "adelante",
+    "titular": "Plan ferroviario estatal a seis u ocho años para la Costa del Sol",
+    "marca_actual": [],
+    "texto": "690. **Corredor ferroviario de la Costa del Sol** — Plan ferroviario estatal para la provincia, a seis u ocho años, con presupuesto plurianual y calendario público de estudios, licitaciones y obras: corredor litoral Algeciras–Manilva–Estepona–Marbella–Fuengirola–Málaga y su continuación por Rincón de la Victoria, Vélez-Málaga y Torre del Mar hasta Nerja. _Porque la Costa del Sol es una gran área urbana sin tren más allá de Fuengirola._"
+   },
+   {
+    "id": "pfac-0241",
+    "partido": "pfac",
+    "titular": "Formación obligatoria en igualdad y contra la violencia machista para la población migrante",
+    "marca_actual": [],
+    "texto": "18. Establecer programas formativos -obligatorios y gratuitos- en materia de igualdad entre los sexos y contra la violencia machista, que sensibilicen a la población migrante y le hagan patente la necesidad de que cualquier persona cumpla los mandatos legales establecidos en nuestro país al respecto."
+   },
+   {
+    "id": "pfac-0633",
+    "partido": "pfac",
+    "titular": "Aplicar el decreto de la relación laboral especial de las personas artistas",
+    "marca_actual": [],
+    "texto": "2. Aplicar, reglamentar y ejecutar los mandatos directos que ya contempla el texto del Real Decreto 607/2026, de 22 de julio, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad:\n - Unificar los criterios de la Inspección de Trabajo, garantizando que los periodos de preproducción, postproducción, ensayos y viajes se computen estrictamente como tiempo de trabajo efectivo del personal artístico y técnico.\n - Establecer un calendario de negociación colectiva obligatoria para adaptar las tablas salariales de los diferentes subsectores a los nuevos mínimos y condiciones contractuales fijados por el decreto.\n - Culminar la estructura organizativa y dotación presupuestaria de la nueva entidad encargada de fiscalizar la transparencia de las entidades de gestión de derechos de propiedad intelectual."
+   },
+   {
+    "id": "d21-0032",
+    "partido": "d21",
+    "titular": "Nombramientos abiertos en organismos independientes por 3/5 y sorteo si hay bloqueo",
+    "marca_actual": [],
+    "texto": "- **Todos los representantes de todos los organismos independientes se nombrarán siguiendo procedimientos abiertos**, con comparecencia pública en el Congreso y mayoría reforzada de tres quintos. Si el Congreso bloquea los nombramientos durante más de tres meses, se someterán a sorteo entre todos los elegibles. Y se reformará la duración de los mandatos de todos los organismos independientes para que no coincidan con los periodos de cambio de legislatura."
+   },
+   {
+    "id": "d21-0051",
+    "partido": "d21",
+    "titular": "Dos mandatos como máximo en los cargos públicos",
+    "marca_actual": [],
+    "texto": "_Dos mandatos son más que suficientes._"
+   },
+   {
+    "id": "d21-0052",
+    "partido": "d21",
+    "titular": "Límite legal de dos mandatos u ocho años en un mismo cargo público",
+    "marca_actual": [],
+    "texto": "- Se establecerá la **obligación legal** de no ejercer un mismo cargo público durante más de dos mandatos completos o un periodo acumulado superior a ocho años."
+   },
+   {
+    "id": "d21-0122",
+    "partido": "d21",
+    "titular": "Proveer las direcciones generales por concurso con mandatos de cuatro años",
+    "marca_actual": [],
+    "texto": "- **Selección por Modelo Europeo y Mandatos Blindados:** las Direcciones y Subdirecciones Generales serán provistas mediante concurso público, evaluadas por comités profesionales e independientes (integrados por altos funcionarios y perfiles académicos, como ya ocurre en las instituciones europeas). Para asegurar que los técnicos puedan trabajar y tomar decisiones sin temor a ser apartados, tendrán mandatos estables de cuatro años (prorrogables una sola vez) y solo podrán ser cesados por causas objetivas tasadas en la ley, entre las que no figurará el cambio de Gobierno, de ministro/consejero o de secretario de Estado/autonómico."
+   },
+   {
+    "id": "d21-0225",
+    "partido": "d21",
+    "titular": "Cubrir la dirección de hospitales y áreas de salud por concurso de mérito",
+    "marca_actual": [],
+    "texto": "- **Despolitización Total de la Dirección Hospitalaria:** suprimiremos los nombramientos políticos a dedo de gerentes y cargos directivos en la sanidad pública. La dirección de hospitales y áreas de salud se cubrirá exclusivamente mediante concurso público de mérito, capacidad y competencia profesional acreditada, con mandatos evaluados periódicamente en función de resultados, encuestas de satisfacción y eficiencia en la gestión."
+   },
+   {
+    "id": "d21-0340",
+    "partido": "d21",
+    "titular": "Elegir el Consejo de RTVE por concurso público y dos tercios de las Cortes",
+    "marca_actual": [],
+    "texto": "- **RTVE de Todos, Gobierne Quien Gobierne:** un comité de expertos independientes evaluará en concurso público los proyectos de los candidatos al Consejo de RTVE. Los defenderán en audiencias abiertas, y las Cortes elegirán entre los mejor valorados por dos tercios, sin atajos, un consejo reducido y profesional con mandatos de seis años. Y para que su apoyo al cine no dependa de quién dirija RTVE, un contrato-programa plurianual y vinculante garantizará su financiación, y su inversión en cine y producción independiente será un porcentaje mínimo de sus ingresos fijado por ley. La Agencia EFE tendrá su propia ley con el mismo modelo."
+   },
+   {
+    "id": "d21-0342",
+    "partido": "d21",
+    "titular": "Dirigir museos y teatros públicos por concurso internacional de méritos",
+    "marca_actual": [],
+    "texto": "- **Cultura Dirigida por los Mejores, No por los Afines:** las direcciones de los museos nacionales, los teatros y auditorios públicos, la Biblioteca Nacional o la Filmoteca se elegirán por concurso internacional de méritos, con un comité independiente y un proyecto de gestión defendido en público. Sus mandatos serán de cinco años, desligados del calendario electoral, y solo podrán terminar antes por causas tasadas. A cambio, cada dirección asumirá objetivos públicos (visitantes, ingresos propios, proyección internacional) evaluados con datos abiertos, y ganará autonomía para contratar, programar y atraer patrocinio con agilidad, como ya hace el Prado."
+   }
+  ]
+ },
+ {
+  "eje": "eje-cannabis",
+  "pregunta": "¿Regular el cannabis?",
+  "posiciones": [
+   {
+    "id": "uso-adulto",
+    "nombre": "Legalizar o regular el uso adulto"
+   },
+   {
+    "id": "medicinal",
+    "nombre": "Regular el uso medicinal"
+   },
+   {
+    "id": "prohibir",
+    "nombre": "Mantener la prohibición"
+   }
+  ],
+  "n": 12,
+  "palabras": 878,
+  "candidatos": [
+   {
+    "id": "pp-0036",
+    "partido": "pp",
+    "titular": "Presencia policial en barrios y desalojo inmediato frente a ocupación y narcopisos",
+    "marca_actual": [],
+    "texto": "**27 RECUPERAREMOS LA TRANQUILIDAD EN LOS BARRIOS DONDE LA INSEGURIDAD SE HA CONVERTIDO EN LA PRINCIPAL PREOCUPACIÓN DE LOS VECINOS.** Lo haremos con una presencia policial visible y sostenida y con las reformas legales necesarias para luchar contra la ocupación y para el desalojo inmediato y la eliminación de los narcopisos. Ayudaremos a los ayuntamientos, especialmente a los medianos y pequeños, a financiar videovigilancia en los espacios de mayor riesgo. Actuaremos también para prevenir la degradación del espacio público. Pondremos en marcha un programa de prevención en los colegios frente a las drogas y las bandas. Impulsaremos la formación profesional para los jóvenes en riesgo."
+   },
+   {
+    "id": "fa-0185",
+    "partido": "fa",
+    "titular": "Reforzar la red de centros de tratamiento de adicciones",
+    "marca_actual": [],
+    "texto": "- Fortaleceremos la red de Centros de Tratamiento de Adicciones (alcohol, drogas y juego) en todo el Estado, con un protocolo de actuación común en cada sistema de salud autonómico y una evaluación del número de personas usuarias en cada comunidad, de modo que el Ministerio de Sanidad disponga de informes realistas y pueda lanzar campañas ajustadas a la realidad de la población y a los riesgos de adicción actuales. Asimismo, impulsaremos campañas para la prevención y la detección de consumos adictivos."
+   },
+   {
+    "id": "pacma-0480",
+    "partido": "pacma",
+    "titular": "Ocio alternativo saludable para reducir el consumo de alcohol y drogas en jóvenes",
+    "marca_actual": [],
+    "texto": "Además de las propuestas planteadas en otros ámbitos, como el de la educación, la cultura o el empleo, consideramos importante establecer medidas específicas para prevenir y/o reducir en la juventud el consumo de bebidas alcohólicas y drogas, mediante el **impulso de la oferta y promoción de alternativas saludables de ocio, con actividades culturales, artísticas y deportivas**, como:"
+   },
+   {
+    "id": "fo-0065",
+    "partido": "fo",
+    "titular": "Una cultura transformadora en manos de los trabajadores",
+    "marca_actual": [],
+    "texto": "Apostamos por una cultura que contribuya a la realización de las personas, que cumpla con un papel transformador de la sociedad. La cultura no puede estar reservada a estos sectores de intelectuales, sino que ha de estar en manos de la población. Por ello, hay que asegurar a los trabajadores los medios necesarios para que puedan tener su propia producción cultural y un acceso a conocimientos científicos, sin olvidar tampoco la necesidad de reformar el sistema educativo.\n\nAsimismo, es necesario fomentar un deporte de base alejado de los negocios y las apuestas que les dé a las personas la fortaleza necesaria para afrontar sus problemas en lugar de recurrir a las drogas y otras adicciones para evadirse.\n\nAunque parezca que la nueva izquierda luche por cambiar las cosas, solo fomenta la transgresión individual siguiendo modas como la ideología de género o el multiculturalismo para ganar votos. A la vez que promueve estas ideas, criminaliza a todos aquellos que se cuestionen estas modas y apuesten por un cambio real. Asimismo, la derecha intenta aprovechar esta situación para ganarse a los trabajadores. Se presenta como la resistencia y utiliza el folclore de manera demagógica para sacar rédito político. Defienden una monarquía que mantiene relaciones con dictaduras enemigas de España y pretenden hacerse llamar patriotas."
+   },
+   {
+    "id": "mundo-0120",
+    "partido": "mundo",
+    "titular": "Reforzar el Plan Nacional sobre Drogas y la prevención de las adicciones",
+    "marca_actual": [],
+    "texto": "4. **Reforzar la prevención de las adicciones y garantizar una atención integral y personalizada.** Fortalecer el Plan Nacional sobre Drogas, incrementando los recursos destinados a la prevención, la educación en el ámbito escolar y el acceso a tratamientos. Promover modelos de tratamiento de las adicciones personalizados, preferentemente ambulatorios, garantizando los recursos y profesionales necesarios para su adecuada implementación."
+   },
+   {
+    "id": "fe-0160",
+    "partido": "fe",
+    "titular": "Clausurar los «centros okupas» y detener a sus promotores",
+    "marca_actual": [],
+    "texto": "- 15.1. Clausura y detención de los promotores de “centros okupas” (sic), que constituyen un potente núcleo de tráfico de drogas y de actividades contrarias a los valores más elementales."
+   },
+   {
+    "id": "fe-0163",
+    "partido": "fe",
+    "titular": "Militarizar las aguas con Marruecos y aplicar una Ley de Fugas al narcotráfico",
+    "marca_actual": [],
+    "texto": "- 15.4. Persecución implacable del tráfico de drogas. Militarización de las aguas fronterizas con Marruecos, promulgando y aplicando una Ley de Fugas a toda aquella embarcación que no se detenga ante las advertencias de la Guardia Civil o de la Armada."
+   },
+   {
+    "id": "autonomos-0096",
+    "partido": "autonomos",
+    "titular": "Endurecer las penas por conducir bajo alcohol o drogas y por fuga",
+    "marca_actual": [],
+    "texto": "94. **Endurecimiento penal por conducción bajo alcohol o drogas y fuga** — Reforma del Código Penal para agravar las penas de prisión y retirada definitiva del permiso de conducir cuando se causen víctimas bajo los efectos del alcohol o drogas, especialmente si existe abandono del lugar del accidente.\n - **Viabilidad:** _Es viable jurídicamente y refuerza la seguridad vial y la justicia material para las víctimas y sus familias._"
+   },
+   {
+    "id": "podemos-0451",
+    "partido": "podemos",
+    "titular": "Despenalizar el cannabis y legalizar su uso medicinal y recreativo",
+    "marca_actual": [],
+    "texto": "429. **Despenalización del cannabis y legalización de su uso con fines medicinales y recreativos.** Promover un proceso armonizado y garantista de la despenalización del cultivo y la tenencia de cannabis en los ámbitos personal y colectivo, la regulación de la actividad de los clubs sociales de cannabis y el establecimiento del rol de los Estados en la garantía de seguridad de quienes consuman cannabis y en el control de la producción, la distribución y el consumo. Además, su legalización servirá para reducir la criminalidad, garantizar la salud de la población y aumentar la recaudación de impuestos."
+   },
+   {
+    "id": "adelante-0100",
+    "partido": "adelante",
+    "titular": "Regular el uso del cannabis terapéutico",
+    "marca_actual": [],
+    "texto": "62. **Cannabis terapéutico** — Uso regulado. _Porque hay pacientes que lo necesitan y hoy no tienen una vía legal y segura._"
+   },
+   {
+    "id": "pnv-0203",
+    "partido": "pnv",
+    "titular": "Regular el uso medicinal del cannabis",
+    "marca_actual": [],
+    "texto": "6. Favorecer la regulación del uso medicinal del cannabis, estableciendo las condiciones sanitarias y de seguridad necesarias para su utilización terapéutica."
+   },
+   {
+    "id": "bildu-0169",
+    "partido": "bildu",
+    "titular": "Despenalizar las críticas a la Corona, los sentimientos religiosos y el enaltecimiento",
+    "marca_actual": [],
+    "texto": "- Eliminar los delitos del código penal que restringen la libertad de expresión y opinión. Por ello propondremos despenalizar los artículos sobre las criticas a la corona y las instituciones del estado como los gobiernos o las fuerzas de seguridad; las que penalizan y censuran la critica a sentimientos religiosos, que amparan la censura ideológica frente a la religión; también los artículos sobre el enaltecimiento del terrorismo que permiten una interpretación tan amplia y subjetiva que supone la criminalización de expresiones artísticas, humorísticas o de critica política."
+   }
+  ]
+ },
+ {
+  "eje": "eje-santa-sede",
+  "pregunta": "¿Qué hacer con los acuerdos con la Santa Sede?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Denunciarlos o derogarlos"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlos"
+   }
+  ],
+  "n": 13,
+  "palabras": 697,
+  "candidatos": [
+   {
+    "id": "fa-0995",
+    "partido": "fa",
+    "titular": "Revisar los Acuerdos de 1979 con la Santa Sede",
+    "marca_actual": [],
+    "texto": "- Revisaremos los Acuerdos de 1979 con la Santa Sede, así como con las otras confesiones religiosas, incluyendo la legislación de privilegio que se deriva de los mismos. Modificaremos los arts. 16 y 27 de la Constitución."
+   },
+   {
+    "id": "fa-0999",
+    "partido": "fa",
+    "titular": "Revertir al Estado los bienes inmatriculados por la Iglesia católica",
+    "marca_actual": [],
+    "texto": "- Retrotraeremos la totalidad de los bienes inmatriculados por la Iglesia católica, afectando al Patrimonio del Estado los bienes muebles o inmuebles de interés histórico-artístico y cultural, incluidos los de naturaleza religiosa."
+   },
+   {
+    "id": "compromis-0371",
+    "partido": "compromis",
+    "titular": "Eliminar los privilegios de los acuerdos con la Santa Sede y otras confesiones",
+    "marca_actual": [],
+    "texto": "- Eliminarem els privilegis atorgats mitjançant els diferents acords particulars entre l'Estat i les diferents confessions religioses, com ara el cas del tractat signat amb la Santa Seu el 3 de gener de 1979, entre l'Estat i les esglésies evangèliques (Llei 24/1992, de 10 de novembre), comunitats jueves (Llei 25/1992, de 10 de novembre) i comunitats musulmanes (Llei 26/1996, de 10 de novembre)."
+   },
+   {
+    "id": "podemos-0452",
+    "partido": "podemos",
+    "titular": "Denunciar el Concordato y aprobar una Ley de Libertad de Conciencia",
+    "marca_actual": [],
+    "texto": "430. **Ley de Libertad de Conciencia y un Estado plenamente laico.** Denunciaremos el Concordato con la Santa Sede y los acuerdos de 1979 y aprobaremos una Ley de Libertad de Conciencia que garantice la plena laicidad y neutralidad religiosa del Estado. Acabaremos con los privilegios económicos, fiscales, jurídicos e institucionales de la Iglesia católica, suprimiendo las excepciones legales que la sitúan fuera del derecho común y garantizando que se rija por las mismas normas que cualquier otra asociación privada. Las instituciones públicas deberán mantener una posición de neutralidad respecto a todas las confesiones y a las personas que no profesan ninguna religión, sin conceder privilegios ni espacios de representación institucional a sus dirigentes. De esta forma prohibiremos que cualquier líder religioso pueda hablar desde la tribuna en la sede de la soberanía popular, como ocurrió con León XIV. La soberanía popular y las instituciones democráticas no estarán subordinadas a ninguna autoridad religiosa."
+   },
+   {
+    "id": "podemos-0453",
+    "partido": "podemos",
+    "titular": "Recuperar el patrimonio público inmatriculado indebidamente por la Iglesia católica",
+    "marca_actual": [],
+    "texto": "431. **Recuperación del patrimonio público inmatriculado indebidamente por la Iglesia católica.** Recuperaremos todos los bienes de titularidad pública, comunal o pertenecientes legítimamente a otras administraciones y entidades que hayan sido inmatriculados indebidamente por la Iglesia católica. Elaboraremos un inventario público completo de los bienes inmatriculados, investigaremos las inscripciones controvertidas y facilitaremos su revisión por parte de las administraciones y entidades legítimamente titulares. Impulsaremos los procedimientos necesarios para recuperar todos aquellos bienes cuya titularidad pública quede acreditada, incluidos edificios históricos, ermitas, plazas, espacios comunales y otros inmuebles de uso colectivo. Garantizaremos su conservación, protección y destino social, con especial atención al patrimonio histórico y cultural, y publicaremos informes periódicos sobre las actuaciones realizadas y los resultados obtenidos."
+   },
+   {
+    "id": "adelante-0559",
+    "partido": "adelante",
+    "titular": "Revertir las inmatriculaciones de la Iglesia hechas con el privilegio de 1946",
+    "marca_actual": [],
+    "texto": "504. **Lo inmatriculado, al dominio público** — Revertir las inmatriculaciones hechas con el privilegio franquista de 1946, con un listado público y completo. _Porque la Iglesia se apropió de miles de bienes con un privilegio franquista._"
+   },
+   {
+    "id": "bng-0169",
+    "partido": "bng",
+    "titular": "Denunciar el Concordato y los Acuerdos con la Santa Sede",
+    "marca_actual": [],
+    "texto": "- Denunciar e revogar o Concordato coa Igrexa católica e, nomeadamente, os Acordos vixentes coa Santa Sé, para avanzar nun Estado verdadeiramente laico. Isto suporá a eliminación dos privilexios da Igrexa e a presenza da relixión nas institucións e servizos públicos."
+   },
+   {
+    "id": "bng-0180",
+    "partido": "bng",
+    "titular": "Enseñanza laica sin Religión en el currículo y renegociar el Concordato",
+    "marca_actual": [],
+    "texto": "- Promover un ensino laico. A materia de Relixión non formará parte do currículo escolar, xa que é incuestionábel que a difusión da fe relixiosa corresponde ao ámbito privado e familiar. Neste sentido, será denunciado e renegociado o concordato coa Santa Sé e os acordos coas demais confesións relixiosas."
+   },
+   {
+    "id": "erc-0014",
+    "partido": "erc",
+    "titular": "Aplicar el IBI a propiedades religiosas y anular los acuerdos con la Santa Sede",
+    "marca_actual": [],
+    "texto": "8. Aplicar l’impost sobre béns immobles a totes les propietats de les confessions religioses, sense excepcionalitats i deixant sense efecte els acords de Govern de l’any 1979 amb la Santa Seu i les actualitzacions de l’any 2023, com també els acords de 1992 de l’Estat amb la resta de federacions religioses."
+   },
+   {
+    "id": "pfac-1001",
+    "partido": "pfac",
+    "titular": "Avanzar hacia un Estado republicano, federal y laico y derogar el concordato",
+    "marca_actual": [],
+    "texto": "- MEDIDA 50. AVANZAR HACIA UN ESTADO REPUBLICANO, FEDERAL Y LAICO. Abrir, sin más dilaciones, el debate social y político sobre el modelo de Estado; derogar el concordato con la Santa Sede y, en general, cualquier acuerdo con la Iglesia Católica, la Comisión Islámica y resto de religiones."
+   },
+   {
+    "id": "pfac-1017",
+    "partido": "pfac",
+    "titular": "Revisar las inmatriculaciones y recuperar los bienes públicos inscritos indebidamente",
+    "marca_actual": [],
+    "texto": "16. Revisar las inmatriculaciones realizadas al amparo de la legislación anterior para proteger el patrimonio histórico y garantizar la recuperación de aquellos bienes públicos que hubieran sido inscritos de forma indebida."
+   },
+   {
+    "id": "comuns-1095",
+    "partido": "comuns",
+    "titular": "Denunciar los Acuerdos con la Santa Sede de 1976 y 1979",
+    "marca_actual": [],
+    "texto": "- Denunciar els Acords Estat Espanyol- Santa Seu del 1976 i 1979, que són la continuació dels acords franquistes del 1953."
+   },
+   {
+    "id": "comuns-1102",
+    "partido": "comuns",
+    "titular": "Revisar las inmatriculaciones de la Iglesia católica",
+    "marca_actual": [],
+    "texto": "- Revisar i deixar sense efecte, si s’escau, les inscripcions a nom de l’Església catòlica de propietats sense titular (immatriculacions)."
+   }
+  ]
+ }
+]

@@ -1,0 +1,205 @@
+[
+ {
+  "eje": "eje-cgpj",
+  "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+  "posiciones": [
+   {
+    "id": "ciudadania",
+    "nombre": "Que los elija la ciudadanía por votación"
+   }
+  ],
+  "n": 27,
+  "palabras": 2769,
+  "candidatos": [
+   {
+    "id": "pp-0081",
+    "partido": "pp",
+    "titular": "Mandato único de cinco años para el fiscal general del Estado",
+    "marca_actual": [],
+    "texto": "**70 EL FISCAL GENERAL DEL ESTADO NO DEPENDERÁ DEL GOBIERNO.** La Fiscalía debe defender la legalidad, no los intereses políticos de quien ocupa el poder. Aprobaremos un nuevo Estatuto del Ministerio Fiscal. El fiscal general tendrá un mandato único de cinco años y, como recomienda la Comisión Europea, no cesará con el Gobierno que lo propuso. El informe del Consejo General del Poder Judicial sobre su idoneidad será preceptivo y vinculante para su nombramiento. Su procesamiento conllevará el cese inmediato y automático."
+   },
+   {
+    "id": "pp-0083",
+    "partido": "pp",
+    "titular": "Los jueces elegirán a los doce vocales judiciales del CGPJ",
+    "marca_actual": [],
+    "texto": "**72 LOS JUECES ELEGIRÁN A LOS JUECES.** Los jueces y magistrados de todas las categorías elegirán a los doce vocales judiciales del Consejo General del Poder Judicial. Mantendremos la evaluación pública de méritos de los ocho juristas que designan las Cortes. Extenderemos a todos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección. Adaptaremos el sistema de renovación para impedir que el bloqueo parlamentario paralice el Consejo. Las plazas del Tribunal Supremo se cubrirán por concurso reglado de méritos, con decisiones motivadas y públicas, exigiendo que en la antigüedad mínima de veinte años en la carrera judicial que ya exige la ley no se compute el tiempo en servicios especiales por el desempeño de cargos políticos. Los jueces y fiscales que hayan ocupado cargos políticos no podrán volver a juzgar ni a ejercer la acusación hasta cinco años después de su cese."
+   },
+   {
+    "id": "psoe-0469",
+    "partido": "psoe",
+    "titular": "Balance: apoyo a Ucrania, reconocimiento de Palestina y rechazo al 5 % militar",
+    "marca_actual": [],
+    "texto": "Pero se equivoca. Desde 2018, el Gobierno progresista ha demostrado que la mejor respuesta al odio es más democracia, más derechos y más libertades. También en el mundo, donde hemos situado a España en el lado correcto de la historia: con Ucrania frente a Putin, con el reconocimiento del Estado de Palestina y con la defensa de la paz en Gaza, y sin aceptar el 5 % del PIB en gasto militar, porque la seguridad de Europa no puede construirse a costa de nuestro Estado del bienestar.\n\nHemos conseguido alcanzar una democracia más fuerte y más limpia. Renovamos el Consejo General del Poder Judicial tras más de cinco años de bloqueo del PP, protegimos a quienes denuncian la corrupción y aprobamos la reforma del artículo 49, la primera reforma social de nuestra Constitución.\n\nHemos ampliado derechos y libertades. España es hoy el país europeo más avanzado en derechos LGTBI, según el Rainbow Map 2026 de ILGA-Europe. Hemos aprobado la Ley Zerolo y la Ley de Paridad. Y la cultura cuenta hoy con la mayor inversión de la democracia."
+   },
+   {
+    "id": "psoe-0551",
+    "partido": "psoe",
+    "titular": "Justicia a tiempo: desalojo de viviendas ocupadas en 48 horas y más jueces",
+    "marca_actual": [],
+    "texto": "En esta legislatura hemos emprendido la mayor transformación de la Justicia en décadas. Los Tribunales de Instancia han sustituido a los juzgados unipersonales del siglo XIX, hemos digitalizado el acceso a los tribunales y aprobado la primera ley orgánica del derecho de defensa. Con la Ley de Eficiencia del Servicio Público de Justicia, además, la ocupación ilegal de viviendas, tanto el allanamiento de morada como la usurpación, se juzga desde abril de 2025 por el procedimiento de juicios rápidos. Hemos creado becas para que acceder a la carrera judicial no dependa del dinero de cada familia y hemos renovado el Consejo General del Poder Judicial tras años de bloqueo del PP.\n\nAhora queremos una Justicia que llegue a tiempo: juicios por despido y desahucio en un máximo de tres meses, desalojo de viviendas ocupadas en 48 horas y más jueces y fiscales. Protegeremos mejor a las víctimas, empezando por los niños y niñas, reforzaremos la autonomía de la Fiscalía y sustituiremos por fin la Ley de Enjuiciamiento Criminal de 1882.\n\nCompromisos"
+   },
+   {
+    "id": "vox-0100",
+    "partido": "vox",
+    "titular": "Que los jueces elijan a los doce vocales judiciales del CGPJ",
+    "marca_actual": [],
+    "texto": "100. Independencia y despolitización de la Justicia. Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados, terminando con el sistema de cuotas partidistas. Acabar con la colonización partidista de cualquier institución judicial. Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado."
+   },
+   {
+    "id": "fa-0948",
+    "partido": "fa",
+    "titular": "Derogar los delitos contra los sentimientos religiosos, la Corona y ultrajes a España",
+    "marca_actual": [],
+    "texto": "- Derogaremos los artículos del Código Penal que castigan los delitos contra los sentimientos religiosos o de escarnio público, los delitos contra la Corona, las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus comunidades autónomas o a sus símbolos o emblemas, las injurias al Gobierno de la Nación, al Consejo General del Poder Judicial, al Tribunal Constitucional, al Tribunal Supremo, o al Consejo de Gobierno o al Tribunal Superior de Justicia de una comunidad autónoma y a los Ejércitos, Clases o Cuerpos y Fuerzas de Seguridad y enaltecimiento del terrorismo."
+   },
+   {
+    "id": "fa-0987",
+    "partido": "fa",
+    "titular": "Desbloquear el CGPJ con mayoría absoluta de las Cámaras en segunda votación",
+    "marca_actual": [],
+    "texto": " - Reformaremos la Ley Orgánica del Poder Judicial para que ningún partido pueda volver a bloquear la renovación del Consejo General del Poder Judicial. Los vocales del turno judicial se seguirán eligiendo por mayoría de tres quintos, pero si en dos meses no hay acuerdo, las Cámaras podrán elegirlos en segunda votación por mayoría absoluta. Además, el nuevo Consejo podrá constituirse con los vocales ya elegidos, aunque falten los del turno de juristas.\n - Responsabilidad de jueces por dolo o culpa grave: Recuperaremos el derecho de las personas perjudicadas a reclamar directamente al juez o magistrado que les haya causado daños por dolo o culpa grave, un derecho que suprimió la reforma de la LOPJ de 2015 del PP, al igual que esa posibilidad existe para cualquier otra profesión en nuestro país. La demanda solo podrá presentarse cuando la resolución sea firme, el Ministerio Fiscal intervendrá siempre como garante de la independencia judicial y la sentencia nunca alterará el fallo original.\n - Juzgados de violencia sobre la mujer especializados: Garantizaremos la especialización de los juzgados de violencia sobre la mujer, que estarán en manos de profesionales con formación y experiencia real en esta materia. Si no hay especialistas para una plaza, tendrá preferencia quien haya servido al menos tres de los últimos cinco años en estos órganos, o seis de los últimos diez en el caso de las Audiencias. Los años trabajados en violencia sobre la mujer contarán como orden penal a efectos de carrera. Además, abriremos por una sola vez una vía extraordinaria para que quienes acrediten dos años de experiencia obtengan el título de especialista, con curso y evaluación.\n - Incompatibilidad total de jueces y magistrados: Estableceremos la incompatibilidad total de jueces y magistrados con cualquier actividad remunerada ajena a la carrera judicial, porque la Constitución exige que su régimen de incompatibilidades asegure «la total independencia» de quienes juzgan (art. 127.2 CE). Eliminaremos la excepción que hoy permite cobrar de universidades privadas, academias, empresas, despachos o fundaciones por dar clases, conferencias o preparar opositores. La única formación que podrán impartir será en el sistema público que asumirá la preparación de futuros jueces."
+   },
+   {
+    "id": "compromis-0350",
+    "partido": "compromis",
+    "titular": "Formación obligatoria en materia de género para jueces y juezas",
+    "marca_actual": [],
+    "texto": "- Garantirem l’obligatorietat i avaluació de la formació especialitzada en matèria de gènere no només en les oposicions a Judicatura, Escola Judicial i formació continua anual, impartida pel Consejo General del Poder Judicial, així com als jutges i jutgesses ja en actiu."
+   },
+   {
+    "id": "compromis-0355",
+    "partido": "compromis",
+    "titular": "Un CGPJ independiente, elegido por mérito y capacidad y más colegiado",
+    "marca_actual": [],
+    "texto": "- Garantirem que el Consejo General del Poder Judicial funcione amb independència i siga triat amb criteris de mèrit i capacitat tenint en compte la sobirania del poble. Potenciació del caràcter col·legiat del CGPJ i disminució de l'excessiu presidencialisme."
+   },
+   {
+    "id": "salf-0116",
+    "partido": "salf",
+    "titular": "Prohibir las amnistías en la Constitución y limitar el uso político del indulto",
+    "marca_actual": [],
+    "texto": "3. **Amnistías prohibidas en la Constitución. Indultos, nunca por política.** Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.\n - **0** amnistías: prohibidas en la Constitución"
+   },
+   {
+    "id": "salf-0122",
+    "partido": "salf",
+    "titular": "CGPJ elegido por jueces y delito dar instrucciones a un juez",
+    "marca_actual": [],
+    "texto": "9. **Jueces independientes: CGPJ sin políticos y cárcel para quien dé instrucciones a un juez.** Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo. Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones. Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.\n - **Delito** dar o recibir instrucciones a un juez"
+   },
+   {
+    "id": "fo-0177",
+    "partido": "fo",
+    "titular": "Órganos judiciales de carrera judicial, sin miembros elegidos por el Gobierno",
+    "marca_actual": [],
+    "texto": "1. Garantizar la independencia judicial respecto al poder político, priorizando la membresía por carrera judicial en los órganos superiores. Supresión de la elección por parte del Gobierno de miembros para cualquier órgano judicial."
+   },
+   {
+    "id": "mundo-0234",
+    "partido": "mundo",
+    "titular": "Que jueces y magistrados elijan directamente a los 12 vocales judiciales del CGPJ",
+    "marca_actual": [],
+    "texto": "1. **Reforzar la independencia del Poder Judicial respecto al poder político mediante una reforma de la Ley Orgánica del Poder Judicial**, modificando el sistema de elección de los vocales del Consejo General del Poder Judicial (CGPJ). Mantener la elección parlamentaria de los 8 vocales juristas, 4 por el Congreso y 4 por el Senado, conforme al artículo 122.3 de la Constitución, y establecer que los otros 12 vocales, de procedencia judicial, sean elegidos directamente por jueces y magistrados: 6 entre candidaturas presentadas por las asociaciones judiciales y 6 entre candidaturas de jueces y magistrados no asociados, garantizando la pluralidad, la representatividad y la independencia del órgano de gobierno de los jueces."
+   },
+   {
+    "id": "fe-0183",
+    "partido": "fe",
+    "titular": "Elección del CGPJ por jueces y magistrados",
+    "marca_actual": [],
+    "texto": "- 17.6. Elección del Consejo General del Poder Judicial por los jueces y magistrados."
+   },
+   {
+    "id": "autonomos-0049",
+    "partido": "autonomos",
+    "titular": "Que jueces y magistrados elijan a los vocales del CGPJ",
+    "marca_actual": [],
+    "texto": "47. **Independencia real del Poder Judicial sin cuotas de partidos** — Reforma de la Ley Orgánica del Poder Judicial para que los vocales del Consejo General del Poder Judicial sean elegidos directamente por jueces y magistrados en activo, con participación consultiva de colegios de abogados y fiscales, sin intervención parlamentaria.\n - **Viabilidad:** _Es viable conforme a las recomendaciones reiteradas de la Comisión Europea y el Grupo GRECO, devolviendo la confianza institucional y la seguridad jurídica indispensables para la inversión._"
+   },
+   {
+    "id": "podemos-0431",
+    "partido": "podemos",
+    "titular": "Suprimir los aforamientos y reducir el peso político del Tribunal Supremo",
+    "marca_actual": [],
+    "texto": "409. **Supresión de los aforamientos y reducción del peso político del Tribunal Supremo.** Con la supresión de los aforamientos, las salas de lo Penal de nombramiento discrecional, en especial la Sala Segunda del Tribunal Supremo, tendrán menos peso político y un carácter más jurisdiccional, como tribunal de casación. Asimismo, la aplicación estricta de los principios de mérito, capacidad y paridad de género restablecerá el prestigio de sus salas, devaluado como consecuencia de la politización de su composición, determinada por el CGPJ."
+   },
+   {
+    "id": "podemos-0436",
+    "partido": "podemos",
+    "titular": "Elegir los vocales judiciales del CGPJ por mayoría absoluta y evitar bloqueos",
+    "marca_actual": [],
+    "texto": "414. **Renovación y democratización del Consejo General del Poder Judicial y del Tribunal Constitucional.** Reformaremos la legislación para establecer mecanismos efectivos de cese y sustitución de los miembros del CGPJ y del TC una vez agotados sus mandatos, respetando los procedimientos de renovación. Asimismo, reformaremos la Ley Orgánica del Poder Judicial para que la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta y el respaldo de al menos la mitad de los grupos parlamentarios, garantizando el pluralismo y evitando los bloqueos. Mientras no exista una mayoría suficiente para acometer la reforma constitucional que permita su elección directa por la ciudadanía, ampliaremos la participación en la presentación de candidaturas mediante avales ciudadanos y comparecencias públicas. Garantizaremos también que los nombramientos discrecionales respeten los principios de mérito, capacidad, transparencia y paridad de género."
+   },
+   {
+    "id": "podemos-0437",
+    "partido": "podemos",
+    "titular": "Democratizar el acceso a la carrera judicial con la mitad de plazas por concurso",
+    "marca_actual": [],
+    "texto": "415. **Democratizar el acceso a la carrera judicial.** Reformaremos el sistema de acceso y selección de la carrera judicial para combinar los principios de mérito y capacidad con mecanismos de participación ciudadana que refuercen la legitimidad democrática del Poder Judicial. Diseñaremos un sistema de participación directa de la ciudadanía o indirecta a través de sus representantes en los distintos niveles de responsabilidad judicial, garantizando en todo momento la independencia judicial, la imparcialidad y la igualdad. Asimismo, estableceremos un sistema de acceso a la judicatura en el cual la mitad de las plazas sean por concurso, primando la experiencia de los y las profesionales del derecho en el turno de oficio y justicia gratuita y la formación en derechos humanos y derecho antidiscriminatorio, incluida la perspectiva de género e infancia. Todos los jueces y juezas, sean cuales sean su mecanismo de acceso a la carrera deberán realizar prácticas durante al menos dos años en algún turno de oficio o servicio de orientación jurídica. La preparación de las oposiciones se realizará a través de un posgrado universitario a precios públicos con un sistema de becas que garantice el acceso universal, que será común para el acceso a los puestos jurídicos públicos: Fiscalía, Abogacía del Estado y cuerpos superiores de la administración cuya preparación es actualmente privada y generalizadamente opaca al fisco.La Escuela Judicial dejará de depender exclusivamente del CGPJ, y en su dirección y gestión participarán la Universidad y la Abogacía. De sus planes de estudio y su dirección y gestión se dará cuenta anualmente a la Comisión de Justicia del Congreso de los Diputados."
+   },
+   {
+    "id": "adelante-0527",
+    "partido": "adelante",
+    "titular": "Elección directa del CGPJ por la ciudadanía y, mientras, mejorar la parlamentaria",
+    "marca_actual": [],
+    "texto": "472. **Poder judicial democrático y sin bloqueos** — Reformar el Consejo General del Poder Judicial para reforzar su independencia mediante la elección directa por la ciudadanía. Hasta entonces, mejorar la elección parlamentaria de los vocales para ganar pluralidad y transparencia, sin bloqueos partidistas. Todos los nombramientos discrecionales del CGPJ cumplirán los principios de mérito, capacidad y paridad de género. _Porque el reparto partidista del CGPJ ha bloqueado la justicia durante años._"
+   },
+   {
+    "id": "adelante-0531",
+    "partido": "adelante",
+    "titular": "Comisión en el Congreso para preparar las reformas constitucionales del programa",
+    "marca_actual": [],
+    "texto": "476. **Comisión para la reforma constitucional** — Comisión en el Congreso que prepare las reformas de este programa que necesitan cambiar la Constitución: el voto de las personas extranjeras residentes en todas las elecciones, la vivienda como derecho fundamental, el aborto, Andalucía como nacionalidad histórica, el fin de los aforamientos, el Senado territorial, la elección directa del Consejo General del Poder Judicial, el referéndum de iniciativa ciudadana y el referéndum obligatorio de toda reforma constitucional. _Porque muchas de estas reformas necesitan cambiar la Constitución._"
+   },
+   {
+    "id": "erc-0058",
+    "partido": "erc",
+    "titular": "Crear el Consejo de Justicia de Cataluña como órgano desconcentrado del CGPJ",
+    "marca_actual": [],
+    "texto": "41. Crear el Consell de Justícia de Catalunya. Estructurar el govern judicial propi a Catalunya i, per a això, cal impulsar la reforma de la Llei Orgànica del Poder Judicial per fer possible la creació d’un Consell de Justícia de Catalunya, com a òrgan desconcentrat del CGPJ, amb seu a Barcelona i competències sobre govern judicial, territorial, nomenaments, formació, inspecció, disciplina, organització i planta."
+   },
+   {
+    "id": "pfac-0699",
+    "partido": "pfac",
+    "titular": "Rebajar las mayorías parlamentarias para elegir a los vocales judiciales del CGPJ",
+    "marca_actual": [],
+    "texto": "8. Modificar la Ley Orgánica del Poder Judicial para rebajar las mayorías parlamentarias necesarias en segunda votación para la elección de los vocales judiciales. Esta medida impedirá que los intereses de los partidos políticos bloqueen los nombramientos, asegurando el correcto funcionamiento de los tribunales y evitando el colapso de la Justicia."
+   },
+   {
+    "id": "pfac-0703",
+    "partido": "pfac",
+    "titular": "Formación obligatoria en igualdad en Derecho y cumplir la Ley 1/2004",
+    "marca_actual": [],
+    "texto": "12. Introducir la formación obligatoria en igualdad y en perspectiva feminista en los estudios de derecho. Además, exigir el cumplimiento de la Ley 1/2004 que, en su artículo 47, dispone que: “El Gobierno, el Consejo General del Poder Judicial y las comunidades autónomas, en el ámbito de sus respectivas competencias, asegurarán una formación específica relativa a la igualdad y no discriminación por razón de sexo y sobre violencia machista en los cursos de formación de Jueces y Magistrados, Fiscales, Secretarios Judiciales, Fuerzas y Cuerpos de Seguridad y Médicos Forenses. En todo caso, en los cursos de formación anteriores se introducirá el enfoque de la discapacidad de las víctimas y se tendrá en cuenta la violencia vicaria”."
+   },
+   {
+    "id": "ph-0038",
+    "partido": "ph",
+    "titular": "Elegir por sufragio a los vocales del CGPJ y a los magistrados del Constitucional",
+    "marca_actual": [],
+    "texto": "- **Propuesta 4: Descentralización e independencia de la cúpula judicial** Elección directa de los vocales del Consejo General del Poder Judicial (CGPJ) y Magistrados del Tribunal Constitucional mediante candidaturas independientes sometidas a sufragio de la ciudadanía y juristas de reconocido prestigio, eliminando el cuoteo entre partidos políticos."
+   },
+   {
+    "id": "d21-0030",
+    "partido": "d21",
+    "titular": "Vocales judiciales del CGPJ elegidos por los jueces, sin asociaciones judiciales",
+    "marca_actual": [],
+    "texto": "- **Se cortará de raíz la politización del Consejo General del Poder Judicial (CGPJ)**: los vocales judiciales se elegirán por los jueces, sin intervención alguna de las asociaciones judiciales, como requiere el Consejo de Europa. Los vocales no judiciales tendrán que comparecer públicamente en el Congreso antes de ser votados. No se podrá nombrar a ningún vocal no judicial que tenga un conflicto de interés directo o indirecto."
+   },
+   {
+    "id": "d21-0031",
+    "partido": "d21",
+    "titular": "Fiscal General elegido por el Gobierno de una terna del Congreso por 3/5",
+    "marca_actual": [],
+    "texto": "- **Se garantizará la independencia de la Fiscalía** modificando el sistema de elección del Fiscal General del Estado: el Congreso (por mayoría de 3/5) elegirá una terna y el Gobierno elegirá al Fiscal General entre esa terna, previo informe del CGPJ. Se revisará el periodo del mandato del Fiscal General para que no coincida con el mandato electoral del Gobierno."
+   },
+   {
+    "id": "d21-0033",
+    "partido": "d21",
+    "titular": "Prohibir nombrar en organismos independientes a quien haya sido político en 10 años",
+    "marca_actual": [],
+    "texto": "- **En los organismos independientes no habrá ningún político**: se prohibirán todos los nombramientos de personas con carrera política en los 10 años anteriores a su nombramiento en todos los organismos independientes. Los fiscales y jueces no podrán haber ejercido ningún cargo político en los últimos 20 años. Y los miembros del Consejo General del Poder Judicial, el Tribunal Constitucional, el Tribunal Supremo, el Fiscal General del Estado y el Fiscal Jefe Anticorrupción no podrán haber ejercido ningún cargo político."
+   }
+  ]
+ }
+]

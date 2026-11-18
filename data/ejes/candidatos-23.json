@@ -1,0 +1,916 @@
+[
+ {
+  "eje": "eje-renta-basica",
+  "pregunta": "¿Implantar una renta básica universal?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, una renta básica universal"
+   },
+   {
+    "id": "no",
+    "nombre": "No, solo ayudas condicionadas"
+   }
+  ],
+  "n": 128,
+  "palabras": 8470,
+  "candidatos": [
+   {
+    "id": "psoe-0134",
+    "partido": "psoe",
+    "titular": "Balance: SMI un 66 % más alto, pensiones con el IPC y reforma laboral",
+    "marca_actual": [],
+    "texto": "Segundo, hemos impulsado reformas estructurales para mejorar la vida de la gente, más allá de las crisis. Desde 2018, hemos aumentado el salario mínimo un 66%, pasando de 736 a 1.221 euros. Hemos garantizado por ley que las pensiones mantengan su poder adquisitivo, incrementando las contributivas medias un 46% y las no contributivas un 68%. Hemos creado el Ingreso Mínimo Vital y el CAPI, que ya benefician a más de 3,8 millones de personas y\n\n860.000 hogares con niños, respectivamente. Y hemos facilitado la movilidad de millones de personas con las bonificaciones al transporte público, el abono único y el programa Verano Joven.\n\nTambién hemos demostrado que el crecimiento económico y los derechos laborales pueden avanzar de la mano. Con la reforma laboral, España ha alcanzado los 22,8 millones de ocupados, ha reducido el paro por debajo del 10% por primera vez en 17 años y ha recortado la temporalidad del 20,4% en 2022 al 15,4% en 2026. Hemos ampliado los permisos por nacimiento y cuidado hasta las 19 semanas para cada progenitor, y establecido la cotización por ingresos reales para los autónomos. Porque el trabajo debe ser una fuente de bienestar y seguridad, y no de precariedad."
+   },
+   {
+    "id": "psoe-0141",
+    "partido": "psoe",
+    "titular": "Automatizar la concesión del IMV y adecuarlo al coste de la crianza",
+    "marca_actual": [],
+    "texto": "**89. Potenciar el IMV.** Crear pasarelas que automaticen y simplifiquen la concesión del IMV, utilizando datos de renta y patrimonio más recientes. Se adecuarán las cuantías y umbrales al coste de la crianza para hogares perceptores con niñas y niños."
+   },
+   {
+    "id": "psoe-0159",
+    "partido": "psoe",
+    "titular": "Elevar la pensión de orfandad del 20 % al 30 %",
+    "marca_actual": [],
+    "texto": "**106. Reforzar la protección de las personas en situación de vulnerabilidad** . Elevar del 20% al 30 % la pensión de orfandad, sin el límite del 100 % en supuestos de vulnerabilidad; integrar la pensión en favor de familiares en el marco del IMV; y adaptar la incapacidad permanente al entorno laboral actual."
+   },
+   {
+    "id": "psoe-0183",
+    "partido": "psoe",
+    "titular": "Balance: la dependencia como cuarto pilar del Estado de bienestar",
+    "marca_actual": [],
+    "texto": "En cuidados, familias e inclusión hemos consolidado la dependencia como cuarto pilar del Estado de bienestar. El Estado aporta hoy cinco veces más a la dependencia que hace una década, elevando las ayudas a la gran dependencia de 190 a 660 euros al mes y garantizando apoyos de hasta 9.860 euros mensuales a personas con ELA. Además, reforzamos la protección a la infancia mediante el Ingreso Mínimo Vital (IMV), el Complemento de Ayuda para la Infancia (CAPI) y la Ley frente a la Violencia; impulsamos la reforma del artículo 49 de la Constitución; y desplegamos estrategias estatales frente a la soledad no deseada y por los derechos de la nueva longevidad.\n\nNuestra ambición en los próximos años no es solo defender lo conquistado, sino dar un salto cualitativo hacia un Estado de bienestar cada vez más capaz, moderno y blindado ante intentos de regresiones. Desde 2018 hemos reconstruido los maltrechos servicios públicos con más recursos que nunca, pero la fuerza de la ciudadanía debe seguir exigiendo a todas las AA. PP. que garanticen que cada euro invertido se traduzca en una sanidad, educación y sistema de protección social más robustos y eficaces."
+   },
+   {
+    "id": "psoe-0272",
+    "partido": "psoe",
+    "titular": "Aprobar la primera Ley de Servicios Sociales con una cartera común",
+    "marca_actual": [],
+    "texto": "**202. Aprobar la primera Ley de Servicios Sociales** para blindar el cuarto pilar del Estado de bienestar, pactando con las CC.AA. una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público."
+   },
+   {
+    "id": "psoe-0273",
+    "partido": "psoe",
+    "titular": "Equidad territorial en el acceso a los servicios sociales, con atención al medio rural",
+    "marca_actual": [],
+    "texto": "**203. Garantizar la equidad territorial en el acceso a los servicios sociales** , implantando una evaluación de impacto territorial en las políticas estatales y priorizando la accesibilidad de los servicios públicos, el transporte y la conectividad en el medio rural"
+   },
+   {
+    "id": "psoe-0274",
+    "partido": "psoe",
+    "titular": "Desplegar el Sistema de Información Estatal de Servicios Sociales",
+    "marca_actual": [],
+    "texto": "**204. Desplegar el Sistema de Información Estatal de Servicios Sociales** , garantizando datos comparables, transparencia y cooperación entre las AA.PP."
+   },
+   {
+    "id": "psoe-0411",
+    "partido": "psoe",
+    "titular": "Estrategia Estatal contra la feminización de la pobreza",
+    "marca_actual": [],
+    "texto": "**314. Impulsar una Estrategia Estatal contra la feminización de la pobreza** , reforzando la protección social, el acceso al empleo digno y el acceso prioritario a la vivienda de las mujeres en situación de vulnerabilidad, teniendo en cuenta el impacto de los cuidados sobre sus trayectorias laborales y pensiones."
+   },
+   {
+    "id": "psoe-0412",
+    "partido": "psoe",
+    "titular": "Medir la pobreza de las mujeres y reforzar el complemento de brecha en pensiones",
+    "marca_actual": [],
+    "texto": "**315. Mejorar la medición y la protección frente a la pobreza de las mujeres** , incorporando indicadores multidimensionales, abordando específicamente el sinhogarismo femenino y reforzando el complemento para reducir la brecha de género en las pensiones."
+   },
+   {
+    "id": "vox-0022",
+    "partido": "vox",
+    "titular": "Reservar el Ingreso Mínimo Vital a los españoles",
+    "marca_actual": [],
+    "texto": "22. El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos. Se promoverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos."
+   },
+   {
+    "id": "fa-0098",
+    "partido": "fa",
+    "titular": "Escudo social, comedor escolar gratuito y nutrición sostenible",
+    "marca_actual": [],
+    "texto": "Escudo social, comedor escolar gratuito y nutrición sostenible"
+   },
+   {
+    "id": "fa-0099",
+    "partido": "fa",
+    "titular": "Prohibir por ley el corte de luz, agua y gas en hogares vulnerables",
+    "marca_actual": [],
+    "texto": "- Prohibición de cortes de suministros: Blindaje por ley contra el corte de luz, agua y gas en hogares vulnerables."
+   },
+   {
+    "id": "fa-0102",
+    "partido": "fa",
+    "titular": "Elevar el IPREM hasta 700 € y actualizarlo cada año con el IPC",
+    "marca_actual": [],
+    "texto": "- Elevaremos de inmediato el Indicador Público de Renta de Efectos Múltiples (IPREM) en 100 € iniciales hasta situarlo en un suelo de 700 € mensuales. Fijaremos la obligación legal de actualizar anualmente el IPREM conforme al IPC acumulado, evitando que las ayudas y subsidios asistenciales pierdan poder de compra frente a la inflación."
+   },
+   {
+    "id": "fa-0106",
+    "partido": "fa",
+    "titular": "Conceder el IMV de oficio y elevarlo al 60 % de la renta mediana",
+    "marca_actual": [],
+    "texto": "- Transformaremos de forma radical el Ingreso Mínimo Vital (IMV) para ser concedido de oficio a través de la interconexión automatizada de datos fiscales y de la Seguridad Social, suprimiendo el laberinto burocrático actual. Hay que avanzar hacia que la prestación del IMV alcance el 60 % de la renta mediana de la comunidad autónoma de residencia, con la regla de las unidades de consumo, para situar el nivel de ingresos del hogar por encima del umbral de la pobreza."
+   },
+   {
+    "id": "fa-0107",
+    "partido": "fa",
+    "titular": "Extender el IMV a jóvenes de 18 a 30 años",
+    "marca_actual": [],
+    "texto": "- Extenderemos de forma plena el IMV a jóvenes de 18 a 30 años sin exigir requisitos desproporcionados de emancipación previa, garantizando un suelo de renta equivalente al 40 % de la mediana de ingresos nacional, tal y como recomiendan la AIReF y el Instituto de Estudios Fiscales. Garantizaremos además los itinerarios de inclusión sociolaboral, entendidos como un doble derecho."
+   },
+   {
+    "id": "fa-0108",
+    "partido": "fa",
+    "titular": "Traspasar la gestión del IMV a las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "- Descentralización y seguridad jurídica: Traspasaremos la gestión a las comunidades autónomas y protegeremos frente a reclamaciones por regularizaciones tardías de buena fe."
+   },
+   {
+    "id": "fa-0109",
+    "partido": "fa",
+    "titular": "Calcular el IMV con ingresos recientes para atender la pobreza sobrevenida",
+    "marca_actual": [],
+    "texto": "- Tomaremos en consideración de manera preferente los ingresos recientes, no los del año anterior, para que el IMV pueda dar respuesta a las situaciones de pobreza sobrevenida."
+   },
+   {
+    "id": "fa-0111",
+    "partido": "fa",
+    "titular": "Cuenta de pago básica gratuita para personas vulnerables",
+    "marca_actual": [],
+    "texto": "- Cuentas básicas: Garantizaremos de forma efectiva una cuenta de pago básica gratuita para personas vulnerables."
+   },
+   {
+    "id": "fa-0120",
+    "partido": "fa",
+    "titular": "Marco legislativo de cuidados y sistema de rentas",
+    "marca_actual": [],
+    "texto": "Marco legislativo, marco de cuidados y sistema de rentas (IMV)"
+   },
+   {
+    "id": "fa-0122",
+    "partido": "fa",
+    "titular": "Elevar el IMV y las pensiones mínimas al umbral de la pobreza",
+    "marca_actual": [],
+    "texto": "- Garantía de ingresos y erradicación de la pobreza severa: Incrementaremos gradualmente la renta garantizada del Ingreso Mínimo Vital (IMV) para asegurar que ningún hogar viva por debajo del 40 % de la renta media, equiparando pensiones mínimas y no contributivas al umbral de la pobreza."
+   },
+   {
+    "id": "fa-0133",
+    "partido": "fa",
+    "titular": "Plan Estratégico Estatal para los servicios sociales",
+    "marca_actual": [],
+    "texto": "- Aprobaremos un Plan Estratégico Estatal para los servicios sociales, con el objetivo de promover su modernización y mejora en todo el Estado, reduciendo el asistencialismo y promoviendo el trabajo centrado en las personas y en sus relaciones, así como la activación comunitaria."
+   },
+   {
+    "id": "fa-0134",
+    "partido": "fa",
+    "titular": "Aumentar la financiación estatal de los servicios sociales comunitarios",
+    "marca_actual": [],
+    "texto": "- Incrementaremos la financiación estatal a los servicios sociales comunitarios y la redirigiremos a programas e inversiones estratégicos para el refuerzo del sistema, su modernización e innovación."
+   },
+   {
+    "id": "fa-0135",
+    "partido": "fa",
+    "titular": "Ley de Profesiones de los Servicios Sociales",
+    "marca_actual": [],
+    "texto": "- Ley de Profesiones de los Servicios Sociales: Aprobaremos una ley que regule las profesiones de las trabajadoras sociales, educadores sociales y psicólogos sociales, entre otras, como pieza esencial del sistema de servicios sociales, y que mejore sus condiciones laborales."
+   },
+   {
+    "id": "fa-0293",
+    "partido": "fa",
+    "titular": "Plan de Emancipación Juvenil y revisión del acceso al IMV para jóvenes",
+    "marca_actual": [],
+    "texto": "- Plan de Emancipación Juvenil e Ingreso Mínimo Vital: Plan de emancipación articulado en vivienda asequible, empleo estable y participación, combinado con la revisión de barreras de acceso al IMV para jóvenes."
+   },
+   {
+    "id": "fa-0300",
+    "partido": "fa",
+    "titular": "Ayuda directa de 1.000 euros a 1,4 millones de hogares vulnerables",
+    "marca_actual": [],
+    "texto": "- Ayuda directa de 1.000 € a hogares vulnerables: Destinaremos íntegramente la recaudación del gravamen energético a financiar una ayuda directa de 1.000 euros por hogar durante dos años, beneficiando a 1,4 millones de familias en situación de vulnerabilidad. Reconocimiento automático de la ayuda por parte de la Agencia Tributaria y las Haciendas Forales mediante transferencia bancaria o cheque nominativo (sin barreras digitales), junto a la prohibición expresa de que las energéticas trasladen el impuesto a los clientes, bajo la supervisión y régimen sancionador de la CNMC."
+   },
+   {
+    "id": "fa-0865",
+    "partido": "fa",
+    "titular": "Retirar el apoyo al plan de autonomía marroquí y referéndum saharaui",
+    "marca_actual": [],
+    "texto": "- Apoyo explícito a la autodeterminación y referéndum de la ONU: Retiraremos formalmente el apoyo gubernamental al plan de autonomía marroquí para retomar la posición fijada por el derecho internacional. Defenderemos el derecho incondicional a la autodeterminación del pueblo saharaui mediante un referéndum libre supervisado por Naciones Unidas, el cual deberá incluir expresamente la opción de la independencia."
+   },
+   {
+    "id": "compromis-0068",
+    "partido": "compromis",
+    "titular": "Ley básica estatal de servicios sociales con ratios mínimas y sin privatización",
+    "marca_actual": [],
+    "texto": "- Elaborarem una Llei bàsica estatal de serveis socials que garantisca prestacions mínimes professionalitzades, interdisciplinars, interoperabilitat de dades entre territoris, unes ràtios mínimes d’atenció directa i que impedisca la privatització de determinats serveis."
+   },
+   {
+    "id": "compromis-0069",
+    "partido": "compromis",
+    "titular": "No exigir la misma documentación repetidas veces para acceder a servicios sociales",
+    "marca_actual": [],
+    "texto": "- Desburocratitzarem els serveis socials prohibint que les persones hagen de presentar la mateixa documentació en reiterades ocasions per a accedir a serveis i prestacions essencials."
+   },
+   {
+    "id": "compromis-0075",
+    "partido": "compromis",
+    "titular": "Obligar a las entidades financieras a facilitar cuentas de pago básicas a todos",
+    "marca_actual": [],
+    "texto": "- Obligarem les entitats financeres a donar facilitats i publicitat per a obrir comptes de pagament bàsics a totes les persones, independentment de la seua situació laboral, social o administrativa."
+   },
+   {
+    "id": "compromis-0076",
+    "partido": "compromis",
+    "titular": "Reformar el Ingreso Mínimo Vital para ampliar su cobertura y agilizarlo",
+    "marca_actual": [],
+    "texto": "- Reformarem l’Ingrés Mínim Vital per a incloure noves situacions de vulnerabilitat, millorar la seua cobertura, agilitzar procediments i millorar la compatibilitat amb altres prestacions."
+   },
+   {
+    "id": "compromis-0250",
+    "partido": "compromis",
+    "titular": "Prohibir los cortes de suministro y hacer el bono social realmente progresivo",
+    "marca_actual": [],
+    "texto": "- Prohibirem els talls de subministrament i reformarem el bo social perquè siga realment progressiu i arribe a qui més ho necessita."
+   },
+   {
+    "id": "compromis-0391",
+    "partido": "compromis",
+    "titular": "Prestación universal por crianza de 200 euros mensuales por hijo o hija",
+    "marca_actual": [],
+    "texto": "- Implementarem una prestació universal per criança de 200 euros mensuals per fill o filla per acabar amb la transmissió generacional de l’empobriment. A més, la incrementarem en el cas de famílies monoparentals, i de fills o filles amb una diversitat funcional superior al 60%."
+   },
+   {
+    "id": "salf-0140",
+    "partido": "salf",
+    "titular": "Fin de la prestación tras rechazar dos ofertas y complemento salarial con el IMV",
+    "marca_actual": [],
+    "texto": "10. **Trabajar siempre deja más que la ayuda.** Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno. Sin dejar a nadie atrás, sin dejar a nadie en el sofá. _Coste neto: ≈ 0._\n - **50 cts** por euro ganado, no 1 €"
+   },
+   {
+    "id": "pacma-0242",
+    "partido": "pacma",
+    "titular": "Políticas de equidad social para erradicar la pobreza y la discriminación",
+    "marca_actual": [],
+    "texto": "En una sociedad justa, todas las personas deben poder disfrutar y acceder a una serie de bienes básicos y las más desfavorecidas deben contar con oportunidades de desarrollo.\n\nLa justicia social fomenta la dignidad humana, la igualdad de oportunidades, de género, el desarrollo, el pleno empleo, la igualdad y el bienestar social.\n\nPACMA considera fundamental el compromiso de las administraciones públicas para compensar las desigualdades existentes en nuestra sociedad. Por eso, apostamos, más allá que por la igualdad, por la equidad, teniendo en cuenta las circunstancias particulares.\n\nProponemos políticas de equidad social que erradiquen la pobreza, la discriminación y todas las cuestiones que pueden agrandar la distancia y las diferencias entre las personas. Políticas que garanticen y hagan accesibles y asequibles los bienes y suministros básicos, la vivienda, la sanidad y la educación para toda la ciudadanía, que promuevan el pleno empleo y la igualdad.\n\nEl objetivo final es alcanzar una mayor inclusión de todas las personas para elevar su estándar de vida, hasta alcanzar un verdadero bienestar social para todas."
+   },
+   {
+    "id": "pacma-0243",
+    "partido": "pacma",
+    "titular": "Diagnóstico: falta una estrategia que garantice el derecho a la alimentación",
+    "marca_actual": [],
+    "texto": "España ratificó en 1976 el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC), que reconoce el derecho fundamental de toda persona a estar protegida contra el hambre y, más aún, el derecho a disfrutar de una alimentación adecuada en cantidad y calidad.\n\nEn su interpretación, el Comité de Derechos Económicos, Sociales y Culturales de la ONU (CDESC) ha afirmado que el derecho a una alimentación adecuada está inseparablemente vinculado a la dignidad inherente de la persona humana y es indispensable para el disfrute de otros derechos humanos consagrados en la Carta Internacional de Derechos Humanos.\n\nEntre otras obligaciones de los Estados parte del tratado, se prevé la de aprobar una estrategia nacional que garantice la seguridad alimentaria y la nutrición adecuada para todas las personas. Sin embargo, el enfoque de la normativa española relacionada con la seguridad alimentaria está más orientada a la salubridad de los alimentos que a la garantía del derecho a comer y lo más próximo al cumplimiento de esa obligación fue la Estrategia NAOS (nutrición, actividad física y prevención de la obesidad), aprobada en 2005."
+   },
+   {
+    "id": "pacma-0244",
+    "partido": "pacma",
+    "titular": "Estrategia de seguridad alimentaria con economatos sociales y mínimo vital de agua",
+    "marca_actual": [],
+    "texto": "Para garantizar una alimentación adecuada para todas las personas, desde PACMA proponemos la **elaboración de una Estrategia Nacional de Seguridad Alimentaria y Nutrición**, que prevea **medidas como** el establecimiento de **economatos sociales** y el desarrollo de **acuerdos con los comercios locales para garantizar el acceso a productos de alimentación con precios bonificados** en función de la renta disponible, lo que, a su vez, dinamizaría el comercio local.\n\nOtra de nuestras propuestas es el impulso de **programas de huertos urbanos ecológicos, destinados a personas desempleadas y/o en riesgo de exclusión social**, como una manera de garantizar, mediante la autogestión de esos huertos, una canasta básica de productos alimenticios y/o como ayuda para disponer de productos frescos de temporada.\n\nEl acceso al agua, junto al saneamiento, es considerado por la Asamblea General de la ONU como derecho humano. Desde PACMA defendemos que se garantice su acceso a todas las personas, especialmente a las que se encuentran en situación de vulnerabilidad, mediante el establecimiento de un **mínimo vital de agua**.\n\nCon relación a la energía, si bien contamos ya con una Estrategia Nacional contra la Pobreza Energética (ENPE) 2026-2030, hemos de señalar que se mantiene un modelo asistencialista y que no contiene grandes reformas estructurales para resolver un problema que, según datos del Eurostat, afecta a cerca del 20% de la población española."
+   },
+   {
+    "id": "mundo-0033",
+    "partido": "mundo",
+    "titular": "Reformar la Ley de Segunda Oportunidad para exonerar también deudas públicas",
+    "marca_actual": [],
+    "texto": "3. **Reformar la Ley de Segunda Oportunidad** para que la exoneración de deudas sea efectiva y completa, las administraciones públicas participen en el esfuerzo rehabilitador, las deudas con la Agencia Tributaria y otros organismos públicos puedan ser objeto de exoneración en condiciones legalmente reguladas y se evite la exclusión económica permanente de personas jubiladas o próximas a la jubilación."
+   },
+   {
+    "id": "mundo-0086",
+    "partido": "mundo",
+    "titular": "Repartir mejor el trabajo: menos horas, salarios suficientes y renta básica",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo · Inclusión social\n\n_Tener empleo debería bastar para vivir con dignidad, y hoy no siempre basta. La automatización y la tecnología generan una riqueza enorme, y la cuestión es quién se la queda. Proponemos repartir mejor el trabajo y sus frutos: menos horas, salarios suficientes, más tiempo para cuidar y convivir, y avanzar hacia una renta básica de justicia social._"
+   },
+   {
+    "id": "mundo-0087",
+    "partido": "mundo",
+    "titular": "Avanzar hacia una renta básica de justicia social ampliando el Ingreso Mínimo Vital",
+    "marca_actual": [],
+    "texto": "1. **Avanzar hacia una renta básica de justicia social**, ampliando progresivamente la cobertura, las cuantías y la accesibilidad del Ingreso Mínimo Vital y de las prestaciones complementarias, garantizando ingresos suficientes para una vida digna y su compatibilidad efectiva con el empleo."
+   },
+   {
+    "id": "mundo-0245",
+    "partido": "mundo",
+    "titular": "Reconocer al Tercer Sector como interlocutor en las políticas públicas",
+    "marca_actual": [],
+    "texto": "2. **Reconocer al Tercer Sector como agente de interés general y garantizar su participación como interlocutor clave** en los procesos de elaboración, seguimiento y evaluación de las políticas públicas con impacto social, así como en los principales órganos de participación y consulta de la Administración General del Estado. Impulsar el desarrollo y actualización de la Ley 43/2015 del Tercer Sector de Acción Social y fortalecer la Comisión para el Diálogo Civil como espacio estable de interlocución entre el Estado y el Tercer Sector."
+   },
+   {
+    "id": "mundo-0246",
+    "partido": "mundo",
+    "titular": "Financiación pública estable y plurianual para las entidades del Tercer Sector",
+    "marca_actual": [],
+    "texto": "3. **Garantizar una financiación pública estable, suficiente, previsible y adaptada a las singularidades de las entidades sociales,** impulsando una reforma integral del sistema de financiación del Tercer Sector que favorezca las convocatorias plurianuales, la cobertura de costes estructurales reales, la simplificación administrativa y la sostenibilidad de las entidades que desarrollan actividades de interés general."
+   },
+   {
+    "id": "mundo-0252",
+    "partido": "mundo",
+    "titular": "El fin de la pobreza como decisión política y compromiso de Estado",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Inclusión social · Familias e infancia\n\n_El fin de la pobreza es una decisión política. Es la razón de ser de M+J desde 2004. En uno de los países más ricos del mundo, millones de personas no llegan a fin de mes, no pueden encender la calefacción o renuncian a comer bien para pagar el alquiler. Acabar con esta situación exige un compromiso de Estado que sobreviva a los cambios de gobierno y que cuente con quienes viven la pobreza en primera persona._"
+   },
+   {
+    "id": "mundo-0253",
+    "partido": "mundo",
+    "titular": "Pacto de Estado de Prevención y Lucha contra la Pobreza y la Exclusión Social",
+    "marca_actual": [],
+    "texto": "1. **Suscribir un Pacto de Estado de Prevención y Lucha contra la Pobreza y la Exclusión Social**, que establezca objetivos concretos de reducción de la pobreza, compromisos presupuestarios verificables y mecanismos de seguimiento y evaluación, garantizando la participación efectiva de las personas con experiencia en pobreza y de las organizaciones sociales especializadas."
+   },
+   {
+    "id": "mundo-0254",
+    "partido": "mundo",
+    "titular": "Aprobar una Ley Estatal de Servicios Sociales con estándares mínimos comunes",
+    "marca_actual": [],
+    "texto": "2. **Aprobar una Ley Estatal de Servicios Sociales,** que establezca estándares mínimos comunes de protección, accesibilidad, calidad y acceso a los servicios sociales en todo el territorio, reforzando la cohesión del sistema y la participación de las personas destinatarias y del Tercer Sector."
+   },
+   {
+    "id": "mundo-0255",
+    "partido": "mundo",
+    "titular": "Ampliar el IMV con ayudas individuales, no condicionadas y compatibles con el empleo",
+    "marca_actual": [],
+    "texto": "3. **Ampliar y mejorar el Ingreso Mínimo Vital** para convertirlo en una herramienta que alcance a toda la población en situación vulnerable, incrementando las cuantías y fijando umbrales de acceso más amplios que reduzcan con mayor intensidad la pobreza y estableciendo que las ayudas sean individuales, no condicionadas, compatibles con el empleo y libres de trabas burocráticas que dificultan su solicitud y concesión."
+   },
+   {
+    "id": "mundo-0256",
+    "partido": "mundo",
+    "titular": "Comedor escolar para toda la infancia en pobreza y acceso al IMV",
+    "marca_actual": [],
+    "texto": "4. **Luchar contra la pobreza infantil,** garantizando acceso al comedor escolar a todos los niños y las niñas en situación de pobreza, garantizando el acceso al Ingreso Mínimo Vital a la infancia y adolescencia más vulnerable, incrementando medidas que garanticen el derecho de NNA a una vivienda digna, entre otras medidas."
+   },
+   {
+    "id": "mundo-0257",
+    "partido": "mundo",
+    "titular": "Erradicar la pobreza energética con regulación pública del precio de la energía",
+    "marca_actual": [],
+    "texto": "5. **Garantizar el derecho a la energía como un derecho social y erradicar la pobreza energética**. Por ello apoyamos que el Estado pueda intervenir en la fijación o regulación de su precio y también en un uso eficiente de los recursos con el objeto de conseguir un reparto más igualitario. Con el fin de acabar con la pobreza energética es necesario reforzar la estrategia nacional con más medidas sociales, de eficiencia energética y de intervención del mercado."
+   },
+   {
+    "id": "mundo-0259",
+    "partido": "mundo",
+    "titular": "Pobreza o exclusión (AROPE): del 25,7 % a menos del 20 %",
+    "marca_actual": [],
+    "texto": "- **Riesgo de pobreza o exclusión (AROPE)** — 25,7 % (INE, ECV · 2025) — Meta: < 20 % — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0260",
+    "partido": "mundo",
+    "titular": "IMV de oficio: menos del 25 % de hogares con derecho sin recibirlo",
+    "marca_actual": [],
+    "texto": "- **Hogares con derecho al IMV que no lo reciben** — 55 % (AIReF · 2025) — Meta: < 25 % (concesión de oficio) — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0261",
+    "partido": "mundo",
+    "titular": "Suscribir en 2027 el Pacto de Estado contra la Pobreza",
+    "marca_actual": [],
+    "texto": "- **Pacto de Estado contra la Pobreza** — Medida nueva — Meta: Suscrito, con objetivos anuales — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0281",
+    "partido": "mundo",
+    "titular": "Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo",
+    "marca_actual": [],
+    "texto": "1. **Promover un Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo,** con financiación específica, sistemas de alerta temprana y protocolos de coordinación entre administraciones, servicios sociales, equipos de intervención en calle y recursos de emergencia. Garantizar que ninguna persona salga de una institución pública directamente a una situación de calle. Fomentar la sensibilización social y la participación ciudadana en la prevención de la exclusión residencial."
+   },
+   {
+    "id": "fe-0017",
+    "partido": "fe",
+    "titular": "Ayudas sociales exclusivamente para españoles",
+    "marca_actual": [],
+    "texto": "- Retirada del acceso a ayudas sociales para todo extranjero, que serán única y exclusivamente para españoles."
+   },
+   {
+    "id": "podemos-0056",
+    "partido": "podemos",
+    "titular": "Fijar el IPREM en al menos 700 euros mensuales y actualizarlo con el IPC",
+    "marca_actual": [],
+    "texto": "46. **Actualización del IPREM.** Actualizaremos el Indicador Público de Renta de Efectos Múltiples (IPREM), fijando una cuantía mínima de 700 euros mensuales, para adecuarlo al incremento acumulado del coste de la vida y a la realidad económica actual. Además, estableceremos un mecanismo de actualización automática anual vinculado, al menos, a la evolución del IPC."
+   },
+   {
+    "id": "podemos-0150",
+    "partido": "podemos",
+    "titular": "Convertir el Ingreso Mínimo Vital en una renta universal incondicionada",
+    "marca_actual": [],
+    "texto": "135. **Renta universal incondicionada.** Potenciaremos el Ingreso Mínimo Vital con el objetivo de convertirlo en una renta universal incondicionada para todos los ciudadanos y ciudadanas."
+   },
+   {
+    "id": "podemos-0236",
+    "partido": "podemos",
+    "titular": "Acceso de madres migrantes en situación irregular a prestaciones por maternidad",
+    "marca_actual": [],
+    "texto": "218. **Protección específica para las madres migrantes y las familias reagrupadas.** Prohibiremos que la irregularidad administrativa impida acceder a las prestaciones y apoyos vinculados a la maternidad. Para ello, implementaremos reformas en coordinación con la legislación laboral y la Seguridad Social, así como con las políticas públicas de protección de la infancia y las familias. Se modificará el Real Decreto Legislativo 8/2015, relativo al IMV, para incluir el acceso a prestaciones desde una modalidad no contributiva."
+   },
+   {
+    "id": "podemos-0245",
+    "partido": "podemos",
+    "titular": "Garantizar electricidad, agua y servicios públicos en la Cañada Real",
+    "marca_actual": [],
+    "texto": "227. **Garantía de suministros básicos y acceso a los servicios públicos en la Cañada Real.** Se establecerán medidas urgentes para asegurar el acceso efectivo a la electricidad, el agua, la educación, la sanidad y los servicios sociales en la Cañada Real. La falta de suministros condena a las familias a vivir en situación de exclusión. Se penalizará a las empresas que obstaculicen el acceso a estos suministros básicos."
+   },
+   {
+    "id": "podemos-0399",
+    "partido": "podemos",
+    "titular": "Alimentación sana y sostenible y ley contra el desperdicio alimentario",
+    "marca_actual": [],
+    "texto": "381. **Avanzar hacia una alimentación más sana y más respetuosa con el medioambiente.** Ir cambiando paulatinamente nuestros hábitos de consumo alimentarios hacia una alimentación más basada en productos vegetales de producción cercana y con métodos agroecológico es algo que solamente trae beneficios, en términos de sostenibilidad ambiental, de creación de empleo en la España vaciada, de soberanía alimentaria y también de salud pública. Por todo ello, para caminar hacia ese horizonte, se llevarán a cabo las siguientes medidas.\n - **Compra de proximidad por parte de todos los centros de titularidad pública** que proporcionen alimentación a sus usuarios. Inclusión de los criterios de alimentación saludable, mayoritariamente de origen vegetal y de producción ecológica en dichos centros.\n - **Puesta en marcha de campañas institucionales** para explicar a la población los beneficios en términos de salud, pero también económicos para el conjunto del país y medioambientales, que tiene el consumo de alimentación saludable.\n - **Entrega directa de una cesta mensual de productos de producción ecológica y local a familias de bajos ingresos**, para fomentar la igualdad de oportunidades también desde la alimentación.\n - **Prohibición de toda la publicidad de alimentos dirigida a niños y niñas que tenga efectos negativos comprobados para su salud;** en los medios de comunicación y en Internet, pero también en carteles publicitarios en la calle o en el interior de los establecimientos.\n - **Aprobar una Ley integral contra el Desperdicio Alimentario.** No puede ser que una buena parte de la producción y la importación de alimentos se vaya directamente a la basura, ya sea en origen o en los establecimientos comerciales como pueden ser los hoteles o los restaurantes. Por ello, es necesario aprobar un texto legislativo con carácter integral que establezca mecanismos de control, sancionatorios y de optimización de los procesos de recogida y distribución de los alimentos desechados que reduzca el desperdicio en un 50% en una legislatura."
+   },
+   {
+    "id": "adelante-0142",
+    "partido": "adelante",
+    "titular": "Educadoras y trabajadoras sociales en la plantilla de los institutos",
+    "marca_actual": [],
+    "texto": "100. **Educadoras sociales en los institutos** — Trabajo social, educación social y mediación intercultural en la plantilla, con al menos una trabajadora o un trabajador social público en cada centro, empezando por los de zonas desfavorecidas, como figura de referencia para la coordinación de bienestar y protección. _Porque muchos problemas del aula empiezan fuera de ella._"
+   },
+   {
+    "id": "adelante-0257",
+    "partido": "adelante",
+    "titular": "Ley estatal de servicios sociales con una trabajadora social por 1.700 habitantes",
+    "marca_actual": [],
+    "texto": "209. **Ley estatal de servicios sociales** — Mínimos comunes en todo el Estado e historia social única para no repetir trámites al mudarse. Una trabajadora o un trabajador social por cada 1.700 habitantes, ajustado a la dispersión y la complejidad social; financiación estatal estable y finalista, separada para prestaciones y para personal y equipamientos; plantillas estables, menos burocracia y más intervención; Trabajo Social en el subgrupo A1, y equipos públicos de emergencias sociales integrados en el 112 y en los planes de protección civil. _Porque los derechos sociales no pueden depender de la comunidad en la que se viva._"
+   },
+   {
+    "id": "adelante-0258",
+    "partido": "adelante",
+    "titular": "Sustituir el IPREM por un indicador actualizado para las ayudas",
+    "marca_actual": [],
+    "texto": "210. **Fuera el IPREM** — Sustituirlo por un indicador actualizado para conceder ayudas y bonificaciones. _Porque el IPREM lleva años congelado y deja fuera de las ayudas a mucha gente._"
+   },
+   {
+    "id": "adelante-0349",
+    "partido": "adelante",
+    "titular": "Renta básica universal e incondicional igual al umbral de la pobreza",
+    "marca_actual": [],
+    "texto": "298. **Renta básica universal e incondicional** — Igual al umbral de la pobreza, compatible con otros ingresos y financiada con la reforma fiscal. _Porque nadie debería vivir por debajo del umbral de la pobreza._"
+   },
+   {
+    "id": "adelante-0350",
+    "partido": "adelante",
+    "titular": "Ingreso Mínimo Vital con personal propio y resolución en plazo",
+    "marca_actual": [],
+    "texto": "299. **Ingreso mínimo vital que llegue** — Atención con personal propio de la Seguridad Social y resolución en el plazo legal. _Porque el Ingreso Mínimo Vital no llega a buena parte de quienes tienen derecho._"
+   },
+   {
+    "id": "adelante-0540",
+    "partido": "adelante",
+    "titular": "Tramitación prioritaria en desahucios y silencio positivo en prestaciones sociales",
+    "marca_actual": [],
+    "texto": "485. **Emergencia social urgente** — Tramitación prioritaria en desahucios y cortes de suministros, y silencio positivo en las prestaciones sociales. _Porque una emergencia social no puede esperar meses._"
+   },
+   {
+    "id": "adelante-0657",
+    "partido": "adelante",
+    "titular": "Estatuto del artista adaptado a la intermitencia",
+    "marca_actual": [],
+    "texto": "596. **Estatuto del artista completo** — Régimen laboral y de Seguridad Social adaptado a la intermitencia, que proteja los periodos sin contrato y sea compatible con la renta básica universal. _Porque trabajar en la cultura es trabajar de forma intermitente y eso no puede dejar sin derechos._"
+   },
+   {
+    "id": "bng-0092",
+    "partido": "bng",
+    "titular": "Diagnóstico: el 22,1 % de la población gallega en riesgo de pobreza o exclusión",
+    "marca_actual": [],
+    "texto": "Segundo os datos máis recentes publicados pola Rede Galega Contra a Pobreza (EAPN-Galiza) no seu informe ‘Estado da pobreza en Galiza 2026’, no 2025 unhas 600.000 persoas residentes en Galiza – o 22,1% da poboación, estaba en risco de pobreza e/ou exclusión social (AROPE), 91.000 persoas máis que no 2024.\n\nO risco de pobreza e exclusión social (AROPE) infantil e xuvenil aumentou, sendo o grupo de 18 a 29 anos o que máis incrementa a súa taxa (8,8 puntos ata o 27,6%).\n\nA taxa de pobreza aumenta e pasa do 14,2% en 2024 ao 16% en 2025, é dicir, máis de 434.000 persoas, das cales o 16,2%, 228.000 son mulleres e o 15,8%, 206.000 son homes.\n\nEn canto á poboación pensionista, 361.800 galegas e galegos están por debaixo do limiar da pobreza (873€ ao mes en 14 pagas), o 45,9% do total, é dicir, 11 puntos máis que a nivel estatal (34,9%).\n\nDiante desta situación, desde o BNG comprometémonos a:"
+   },
+   {
+    "id": "bng-0093",
+    "partido": "bng",
+    "titular": "Transferir el IMV a Galicia para una renta de inclusión no inferior al SMI",
+    "marca_actual": [],
+    "texto": "- Reclamar a transferencia a Galiza do Ingreso Mínimo Vital (IMV) para garantir unha xestión máis áxil e acaída á realidade galega, permitindo a creación dunha verdadeira Renda Galega de Inclusión Social e Laboral nunha contía non inferior ao SMI."
+   },
+   {
+    "id": "bng-0094",
+    "partido": "bng",
+    "titular": "Programa específico de lucha contra la pobreza y la exclusión social",
+    "marca_actual": [],
+    "texto": "- Aplicar un programa específico de loita contra a pobreza e contra a exclusión social."
+   },
+   {
+    "id": "bng-0095",
+    "partido": "bng",
+    "titular": "Elevar la inversión en protección social al menos a la media de la UE",
+    "marca_actual": [],
+    "texto": "- Elevar, con carácter global, o investimento en materia de protección social até o situar, como mínimo, no gasto medio do conxunto da Unión Europea, asegurando o carácter público dos servizos sociais básicos, tanto na súa titularidade como na xestión e financiamento."
+   },
+   {
+    "id": "bng-0097",
+    "partido": "bng",
+    "titular": "Cuentas bancarias de pago básicas y gratuitas para personas vulnerables",
+    "marca_actual": [],
+    "texto": "- Facilitar o acceso a contas bancarias de pago básicas e gratuítas para todas as persoas en situación de vulnerabilidade social e mellorar as súas condicións de uso."
+   },
+   {
+    "id": "bng-0253",
+    "partido": "bng",
+    "titular": "Permitir el uso incondicional de los remanentes municipales",
+    "marca_actual": [],
+    "texto": "- Reclamar, como vimos facendo, que se permita a utilización incondicional dos remanentes municipais para o despregamento de políticas públicas para a mellor atención das necesidades da veciñanza dos nosos concellos, co seu desbloqueo definitivo."
+   },
+   {
+    "id": "bng-0254",
+    "partido": "bng",
+    "titular": "Seguir reclamando el uso incondicional de los remanentes municipales",
+    "marca_actual": [],
+    "texto": "- Seguiremos a reclamar que se permita a utilización incondicional dos remanentes municipais para o despregamento de políticas públicas para a mellor atención das necesidades da veciñanza dos nosos concellos, co seu desbloqueo definitivo."
+   },
+   {
+    "id": "erc-0158",
+    "partido": "erc",
+    "titular": "Adaptar el ingreso mínimo vital al coste de la vida en Cataluña",
+    "marca_actual": [],
+    "texto": "123. Exigir a l’Estat els recursos necessaris per adaptar l’ingrés mínim vital al cost de la vida a Catalunya. Incrementar el finançament estatal per adequar les quanties a la realitat socioeconòmica catalana, sense traslladar-ne el sobrecost a la Generalitat."
+   },
+   {
+    "id": "erc-0250",
+    "partido": "erc",
+    "titular": "Los servicios sociales como pilar del estado del bienestar",
+    "marca_actual": [],
+    "texto": "La garantia de drets socials s’articula sobre el sistema de serveis socials, el pilar de l’estat del Benestar que requereix més desenvolupament i recursos humans, materials i d’infraestructures per assegurar una cobertura universal, de qualitat i equitativa territorialment.\n\nCatalunya necessita assegurar l’atenció de les necessitats socials de tota la ciutadania vinculades a l’autonomia personal, relacional i comunitària mitjançant les competències pròpies que li són assignades."
+   },
+   {
+    "id": "cnv-0026",
+    "partido": "cnv",
+    "titular": "Sistema de bienestar eficiente, público y concertado",
+    "marca_actual": [],
+    "texto": "- Reivindiquem un sistema de benestar eficient, públic i concertat, que tingui cura de la gent gran, dels infants, de les persones amb discapacitats i dels més vulnerables."
+   },
+   {
+    "id": "cnv-0027",
+    "partido": "cnv",
+    "titular": "Cooperación público-privada con el tejido asociativo en servicios sociales",
+    "marca_actual": [],
+    "texto": "- Escoltarem les necessitats de la ciutadania i impulsarem un marc de cooperación públicoprivat amb el teixit associatiu, establint un sistema de prestació de serveis que garanteixi el benestar i la qualitat de vida per a tothom."
+   },
+   {
+    "id": "cnv-0028",
+    "partido": "cnv",
+    "titular": "Equidad como eje de las políticas sociales",
+    "marca_actual": [],
+    "texto": "- Defensarem l’equitat com l’eix de les polítiques socials, per tal de promoure l’autonomia de les persones i oferir oportunitats a tothom, en tots els àmbits i al llarg de la vida."
+   },
+   {
+    "id": "cnv-0030",
+    "partido": "cnv",
+    "titular": "Frenar la pobreza energética con acuerdos con las compañías",
+    "marca_actual": [],
+    "texto": "- Treballarem per posar fre a la pobresa energètica, establint acords amb les companyies del sector. No volem cap llar sense els drets bàsics d’aigua, llum i gas."
+   },
+   {
+    "id": "cnv-0107",
+    "partido": "cnv",
+    "titular": "Traspasar a la Generalitat la gestión del Ingreso Mínimo Vital",
+    "marca_actual": [],
+    "texto": "- Reclamarem el traspàs de la gestió de l’Ingrés Mínim Vital per adaptar-lo a la realitat de Catalunya, tal com ja s’ha fet al País Basc i Navarra."
+   },
+   {
+    "id": "cnv-0261",
+    "partido": "cnv",
+    "titular": "Bono social digital contra la exclusión tecnológica",
+    "marca_actual": [],
+    "texto": "- Promourem un bo social digital per combatre l’exclusió tecnològica, especialment adreçat a les persones en situació de vulnerabilitat, i treballarem per estendre el seu abast progressivament."
+   },
+   {
+    "id": "pnv-0229",
+    "partido": "pnv",
+    "titular": "Financiación suficiente y sostenible del sistema público de protección social",
+    "marca_actual": [],
+    "texto": "6. Apoyar una financiación suficiente y sostenible del sistema público de protección social, que permita responder al envejecimiento de la población, la dependencia y las necesidades de las generaciones presentes y futuras."
+   },
+   {
+    "id": "pnv-0230",
+    "partido": "pnv",
+    "titular": "Acuerdos entre administraciones ante los cambios demográficos y nuevas necesidades sociales",
+    "marca_actual": [],
+    "texto": "7. Favorecer acuerdos estables entre administraciones para afrontar los cambios demográficos y las nuevas necesidades sociales, garantizando el respeto a las competencias de Euskadi y una gestión cercana de los servicios públicos."
+   },
+   {
+    "id": "bildu-0082",
+    "partido": "bildu",
+    "titular": "Mantener y reforzar el escudo social para personas vulnerables",
+    "marca_actual": [],
+    "texto": "El objetivo será mantener y reforzar el escudo social que durante los últimos años EH Bildu ha acordado y mantenido como red de apoyo a las personas y familias más vulnerables de nuestra sociedad, ofreciendo un mínimo de seguridad y estabilidad a quienes se encuentran en peor situación. Para ello, propondremos:"
+   },
+   {
+    "id": "bildu-0083",
+    "partido": "bildu",
+    "titular": "Hacer permanente la prohibición de cortar suministros básicos a hogares vulnerables",
+    "marca_actual": [],
+    "texto": "- Hacer estructural y permanente la garantía de suministros básicos para personas vulnerables, la cual impide el corte de los mismos a hogares vulnerables, en vigor hasta 31 de diciembre gracias a los acuerdos de prórroga alcanzados por EH Bildu los últimos 3 años."
+   },
+   {
+    "id": "bildu-0086",
+    "partido": "bildu",
+    "titular": "Actualizar el IPREM según el IPC con un aumento extraordinario",
+    "marca_actual": [],
+    "texto": "- Aumentar el IPREM en función del IPC, con un aumento extraordinario que permita compensar la pérdida de cuantías de los últimos años en prestaciones, desempleo, subvenciones y ayudas que dependen de este índice."
+   },
+   {
+    "id": "bildu-0087",
+    "partido": "bildu",
+    "titular": "Ampliar los requisitos de la calificación de vulnerabilidad para llegar a más familias",
+    "marca_actual": [],
+    "texto": "- Reformular la calificación de vulnerabilidad, ampliando los condicionantes y requisitos como el límite de renta, condiciones especiales, cargas familiares etc. para que las medidas de protección amparadas en esta calificación puedan ser accesibles para más personas y familias en un contexto de aumento extraordinario de la carestía de la vida y dificultades económicas de los hogares."
+   },
+   {
+    "id": "bildu-0088",
+    "partido": "bildu",
+    "titular": "Transferir la competencia del Ingreso Mínimo Vital y aumentar sus cuantías",
+    "marca_actual": [],
+    "texto": "- Transferencia integral de la competencia del Ingreso Mínimo Vital. Transitoriamente, y hasta que la transferencia sea efectiva, ampliar las condiciones y requisitos para hacerlo accesible a más personas. Además, se propone aumentar las cuantías y simplificar trámites para garantizar el acceso a su percepción."
+   },
+   {
+    "id": "bildu-0092",
+    "partido": "bildu",
+    "titular": "Prestaciones autonómicas de apoyo a la crianza compatibles con el IMV",
+    "marca_actual": [],
+    "texto": "- Proponemos que se oriente a las CCAA a desarrollar prestaciones económicas de apoyo a la crianza acordes con índices de gasto de crianza territoriales. También es necesario que esta prestación sea compatible con la percepción del IMV y otros complementos de ayuda a la infancia."
+   },
+   {
+    "id": "teruel-0056",
+    "partido": "teruel",
+    "titular": "Ley Estatal de servicios sociales como derecho subjetivo y universal",
+    "marca_actual": [],
+    "texto": "- **Sistema público de servicios sociales** universal, cercano, profesionalizado y suficientemente financiado, que asegure el derecho de todas las personas a vivir con dignidad, independientemente del municipio en el que residan. Para ello, impulsaremos el reconocimiento de los servicios sociales como un derecho subjetivo y universal mediante una Ley Estatal General Básica que garantice unas prestaciones básicas para toda la ciudadanía. Promoveremos servicios sociales de proximidad en todos los municipios, facilitando el acceso efectivo a la atención primaria y especializada, especialmente en el medio rural, y estableceremos un catálogo común de prestaciones básicas garantizadas con estándares de calidad, cobertura y atención que aseguren la igualdad de derechos en todo el territorio. Asimismo, defenderemos una financiación pública suficiente, estable y corresponsable, que refuerce los recursos económicos, humanos y materiales de los servicios sociales municipales y comarcales, y potenciaremos una atención social profesionalizada y preventiva, que garantice el acompañamiento, la autonomía personal, la prevención de las situaciones de vulnerabilidad y la inclusión social."
+   },
+   {
+    "id": "pfac-0256",
+    "partido": "pfac",
+    "titular": "El Ingreso Mínimo Vital como derecho de ciudadanía ligado al empleo",
+    "marca_actual": [],
+    "texto": "El ingreso mínimo vital se orienta a prevenir el riesgo de pobreza y exclusión social de personas que viven solas o integradas en una unidad de convivencia y carecen de recursos básicos, garantizando una red de seguridad económica. No es una mera ayuda asistencial, sino un derecho de la ciudadanía que pueda presentar una coyuntura de vulnerabilidad económica.\n\nEl Ingreso Mínimo Vital debe acompañarse, adicionalmente, de medidas incentivadoras del empleo con el fin de facilitar la incorporación de las personas beneficiarias al mercado laboral y promover su autonomía personal.\n\nEn el PFAC consideramos que es una política imprescindible para garantizar que nadie quede fuera de la protección del Estado cuando más lo necesita, y por ello pronemos:"
+   },
+   {
+    "id": "pfac-0257",
+    "partido": "pfac",
+    "titular": "Ampliar el IMV, agilizar su tramitación y revisar las ayudas a crianza y dependencia",
+    "marca_actual": [],
+    "texto": "- MEDIDA 14.AMPLIAR EL INGRESO MÍNIMO VITAL Y AGILIZAR SU TRAMITACIÓN, de manera que nadie se quede sin ingresos en ningún momento debido a cambios de situación y/o de requisitos para percibirlo. Revisar y ampliar las ayudas a la crianza y la dependencia."
+   },
+   {
+    "id": "pfac-0258",
+    "partido": "pfac",
+    "titular": "Entradilla del desglose de la medida sobre el IMV",
+    "marca_actual": [],
+    "texto": "Esta medida supone:"
+   },
+   {
+    "id": "pfac-0259",
+    "partido": "pfac",
+    "titular": "Equiparar el umbral del IMV a la pobreza moderada e incluir a menores irregulares",
+    "marca_actual": [],
+    "texto": "1. Garantizar que el Ingreso Mínimo Vital (IMV) llegue a la infancia y la adolescencia más vulnerables mediante las siguientes medidas:\n - Equiparar el umbral de acceso al IMV con el indicador de pobreza moderada, incluyendo a familias actualmente excluidas.\n - Extender la cobertura a niños, niñas y adolescentes en situación administrativa irregular."
+   },
+   {
+    "id": "pfac-0260",
+    "partido": "pfac",
+    "titular": "Garantizar el IMV a familias en trámite de asilo o protección internacional",
+    "marca_actual": [],
+    "texto": "2. Garantizar la protección de las familias que se encuentran en trámite de solicitud de asilo o protección internacional."
+   },
+   {
+    "id": "pfac-0261",
+    "partido": "pfac",
+    "titular": "Eliminar las restricciones por edad y los requisitos reforzados para jóvenes en el IMV",
+    "marca_actual": [],
+    "texto": "3. Eliminar las restricciones por edad en el acceso a IMV y los requisitos reforzados para jóvenes, ya que ello desprotege a la juventud frente a la pobreza y castiga la precariedad laboral juvenil."
+   },
+   {
+    "id": "pfac-0473",
+    "partido": "pfac",
+    "titular": "Los servicios sociales, pilar más débil del bienestar, son para toda la ciudadanía",
+    "marca_actual": [],
+    "texto": "Los servicios sociales y el tercer sector de acción social constituyen en nuestro país el pilar más débil de los cuatro que configuran el estado del bienestar. Creados para que la ciudadanía tenga una mejor calidad de vida a nivel social, son los que menos financiación reciben, los más externalizados y con una percepción social más distorsionada: no son vistos como derechos universales de la ciudadanía, sino como destinados a personas en riesgo de exclusión social, marginales y vinculados a la caridad. Por ello, muchas personas tienen la convicción de que estos servicios se prestan por vocación, lo que, junto con la feminización del sector, contribuye a otorgar a las profesiones de este ámbito escaso reconocimiento laboral y social. Por todo ello, resulta fundamental recalcar que los servicios sociales se dirigen a toda la ciudadanía y buscan la calidad de vida de la población en general."
+   },
+   {
+    "id": "pfac-0474",
+    "partido": "pfac",
+    "titular": "Diagnóstico: España gasta en protección social por debajo de la media europea",
+    "marca_actual": [],
+    "texto": "España destina aproximadamente el 25,13 % de su PIB a prestaciones y protección social, cifra por debajo de la media europea que se sitúa en el 27,34 %, lo que nos coloca en el décimo puesto de la Unión Europea. Si excluimos por completo el gasto en pensiones y en sanidad, España destina aproximadamente un 8,5 % de su PIB a la protección social neta, mientras que la media de la Unión Europea se sitúa en torno al 11,4 %. La diferencia de casi 3 puntos porcentuales con el bloque europeo se concentra fundamentalmente en dos áreas: en prestaciones familiares directas y en las partidas destinadas a mitigar la pobreza habitacional y la exclusión social.\n\nEsta falta de inversión refuerza la aparición de recursos privados concertados con la administración, con una carencia crónica de personal, en trabajos precarios y mal retribuidos, provocando rotaciones que perjudican el servicio prestado a la ciudadanía y la falta de lazos de referencia. La externalización de los servicios, junto con la ausencia de supervisiones estrictas por parte del Estado, transforma derechos fundamentales o servicios esenciales en un nicho de mercado, colocando el beneficio económico de las empresas privadas por encima de la calidad del servicio prestado a la ciudadanía."
+   },
+   {
+    "id": "pfac-0475",
+    "partido": "pfac",
+    "titular": "Apostar por la gestión directa de los servicios sociales y recursos específicos para mujeres",
+    "marca_actual": [],
+    "texto": "En el Partido Feministas al Congreso apostamos por reforzar el sector público y apoyar de forma decidida la gestión directa de los servicios sociales; y cuando esto no sea posible, priorizar la colaboración con entidades sociales del tercer sector por encima de las empresas mercantiles con ánimo de lucro.\n\nPor otra parte, la ausencia de una cartera de servicios única a nivel estatal conlleva graves diferencias entre las comunidades autónomas o que la ejecución de leyes estatales se convierta en un laberinto burocrático y de desigual implementación en el Estado, generando con ello ciudadanía «de primera y de segunda».\n\nAdemás, tanto en los estudios sociales como en la creación de servicios y proyectos se sigue una perspectiva androcéntrica, teniendo en cuenta fundamentalmente las necesidades de los hombres. Existen pocos recursos dirigidos específicamente a las mujeres y su financiación es escasa. Además, tras la aprobación de la conocida como «Ley Trans» —en línea con lo sucedido en otros países—, estos entornos han dejado de ser espacios seguros para ellas. Estos aspectos resultan determinantes, dado que el perfil mayoritario, tanto en el ámbito profesional como en el de la población usuaria de los servicios sociales, es femenino.\n\nEn base a todo lo expuesto, el PFAC emprenderá las siguientes actuaciones:"
+   },
+   {
+    "id": "pfac-0476",
+    "partido": "pfac",
+    "titular": "Aumentar el gasto en protección social hasta la media de la Unión Europea",
+    "marca_actual": [],
+    "texto": "1. Aumentar progresivamente las partidas presupuestarias destinadas a protección social hasta alcanzar, al menos, la equiparación con la media de la Unión Europea."
+   },
+   {
+    "id": "pfac-0477",
+    "partido": "pfac",
+    "titular": "Impulsar una Ley General de Servicios Sociales de ámbito estatal",
+    "marca_actual": [],
+    "texto": "2. Impulsar y apoyar una Ley General de Servicios Sociales de ámbito estatal, tal y como promueve el Consejo General del Trabajo Social. Su meta sería establecer un suelo común de prestaciones básicas garantizadas que asegure la equidad en el acceso a la protección social en todo el territorio nacional. Esta Ley debería servir para:\n - Garantizar derechos subjetivos: Convertir el acceso a las prestaciones básicas en un derecho exigible por ley para cualquier ciudadano, sin depender del territorio donde viva.\n - Reducir desigualdades territoriales: Homogeneizar la cartera de servicios, los requisitos y la calidad de la atención entre comunidades autónomas y corregir expresamente la brecha entre el medio rural y el urbano, garantizando cobertura efectiva en pedanías, pequeños municipios y zonas despobladas.\n - Reforzar el Estado de bienestar: Consolidar los servicios sociales como el cuarto pilar fundamental del bienestar social, al mismo nivel que la sanidad, la educación y las pensiones.\n - Coordinar administraciones: Mejorar la colaboración y los niveles de intervención entre el Estado, las comunidades autónomas y las entidades locales.\n - Simplificar la burocracia: Reducir las trabas administrativas para que las personas usuarias puedan acceder de forma más ágil a la información, el diagnóstico y los recursos."
+   },
+   {
+    "id": "pfac-0478",
+    "partido": "pfac",
+    "titular": "Desarrollar el decreto de entidades del Tercer Sector de Acción Social",
+    "marca_actual": [],
+    "texto": "3. Desarrollar el Real Decreto 592/2026, de 15 de julio, por el que se regula el régimen jurídico de las entidades del Tercer Sector de Acción Social colaboradoras con la Administración General del Estado, cuidando de que se cumplan los compromisos de:\n - Elaborar planes de actuación urgente frente a situaciones de necesidad social sobrevenida.\n - Transparencia y control en la rendición de cuentas, la publicidad de fuentes de financiación, las declaraciones de ausencia de conflictos de interés y las memorias anuales de gestión.\n - Creación de una Comisión de Evaluación encargada de instruir, proponer y hacer el seguimiento de las solicitudes y los planes de actuación."
+   },
+   {
+    "id": "pfac-0479",
+    "partido": "pfac",
+    "titular": "Pacto de Estado para consagrar los servicios sociales como derecho fundamental",
+    "marca_actual": [],
+    "texto": "4. Proponer un Pacto de Estado en materia de servicios sociales para consagrar los servicios sociales como un derecho fundamental de la ciudadanía, igual que la sanidad o la educación."
+   },
+   {
+    "id": "pfac-0480",
+    "partido": "pfac",
+    "titular": "Recuperar la gestión pública directa de los servicios sociales",
+    "marca_actual": [],
+    "texto": "5. Recuperar progresivamente la gestión pública directa de los servicios sociales en los ámbitos estatal, autonómico y municipal. Durante este proceso, se priorizará la colaboración con entidades del tercer sector sobre las empresas con ánimo de lucro."
+   },
+   {
+    "id": "pfac-0481",
+    "partido": "pfac",
+    "titular": "Marco estatal y financiación plurianual estable para el tercer sector de acción social",
+    "marca_actual": [],
+    "texto": "6. Establecer un marco estatal de regulación y financiación estable para el tercer sector de acción social. Este modelo debe implantar una financiación plurianual que facilite la planificación de los servicios y garantice unas condiciones laborales equiparables a las del sector público."
+   },
+   {
+    "id": "pfac-0482",
+    "partido": "pfac",
+    "titular": "Políticas sociales centradas en la autonomía y no en el asistencialismo",
+    "marca_actual": [],
+    "texto": "7. Promover políticas sociales que huyan del asistencialismo y que estén centradas en la autonomía de las personas."
+   },
+   {
+    "id": "pfac-0483",
+    "partido": "pfac",
+    "titular": "Mejorar las condiciones laborales y las ratios de las profesiones de servicios sociales",
+    "marca_actual": [],
+    "texto": "8. Mejorar las condiciones económicas y laborales de las profesiones del sector para dignificarlas, acabar con la parcialidad no deseada, aumentar los ratios de personal y favorecer la formación y cualificación profesional."
+   },
+   {
+    "id": "pfac-0484",
+    "partido": "pfac",
+    "titular": "Actualizar los mapas de servicios sociales y ordenar competencias autonómicas y locales",
+    "marca_actual": [],
+    "texto": "9. Actualizar los mapas de servicios sociales para adaptar la oferta de recursos a factores como el envejecimiento demográfico, la dispersión poblacional y las nuevas realidades de vulnerabilidad; ordenar las competencias entre los niveles autonómico y local, evitando duplicidades o zonas de desamparo; y garantizar que toda la ciudadanía, independientemente de su lugar de residencia, disponga de una red de atención a una distancia razonable."
+   },
+   {
+    "id": "pfac-0485",
+    "partido": "pfac",
+    "titular": "Actualizar y ampliar los catálogos de prestaciones y carteras de servicios",
+    "marca_actual": [],
+    "texto": "10. Actualizar y ampliar los catálogos de prestaciones y las carteras de servicios para adaptar los sistemas de protección pública a las nuevas necesidades económicas, demográficas y sociales de la población."
+   },
+   {
+    "id": "pfac-0486",
+    "partido": "pfac",
+    "titular": "Crear recursos sociales que atiendan las diferentes necesidades de hombres y mujeres",
+    "marca_actual": [],
+    "texto": "11. Crear nuevos recursos y prestaciones atendiendo a las diferencias entre las necesidades de los hombres y las mujeres para evitar un acceso desigual a servicios sociales especializados."
+   },
+   {
+    "id": "pfac-0487",
+    "partido": "pfac",
+    "titular": "Completar el Sistema de Información Estatal de Servicios Sociales con datos abiertos",
+    "marca_actual": [],
+    "texto": "12. Desarrollar la implantación del Sistema de Información Estatal de Servicios Sociales (SIESS), completando la integración total de los datos específicos de las comunidades autónomas en la plataforma, y asegurando sus objetivos de: unificar y conectar la información de las distintas administraciones; incorporar un portal público de datos abiertos para ofrecer información clara y rigurosa; facilitar el conocimiento real del sistema público para medir la eficacia, el impacto y la eficiencia de los servicios desplegados; y planificar recursos según las necesidades sociales reales."
+   },
+   {
+    "id": "pfac-0731",
+    "partido": "pfac",
+    "titular": "Evitar que la transición ecológica aumente la pobreza energética de las mujeres",
+    "marca_actual": [],
+    "texto": "7. Combatir la vulnerabilidad económica de las mujeres para que los cambios de la transición ecológica no incrementen la pobreza energética en los hogares más desfavorecidos."
+   },
+   {
+    "id": "pfac-0949",
+    "partido": "pfac",
+    "titular": "Diagnóstico: políticas de la UE alineadas con el militarismo de la OTAN",
+    "marca_actual": [],
+    "texto": "Si bien los objetivos que declara la UE en el Tratado de Lisboa (2016) y en su Carta de Derechos Fundamentales (2012) son el logro de la paz y el bienestar de la ciudadanía, sin fronteras interiores, así como la promoción de la paz, la solidaridad, el derecho internacional y el desarrollo sostenible fuera de sus fronteras, la realidad es que sus políticas actuales están alineadas con el militarismo de la OTAN y los intereses del capitalismo neoliberal y subordinadas a una lógica neocolonial que reproduce las desigualdades globales. Especialmente preocupante es el papel que dentro de la UE está jugando Alemania, que está reorientando su economía a la industria armamentística, al tiempo que promueve un conflicto global contra Rusia y se alinea incondicionalmente con Israel al considerar antisemitismo la defensa de los derechos del pueblo palestino."
+   },
+   {
+    "id": "ph-0005",
+    "partido": "ph",
+    "titular": "Diagnóstico: 25,7 % en riesgo de pobreza y casi 3 millones de trabajadores pobres",
+    "marca_actual": [],
+    "texto": "España mantiene una de las tasas de vulnerabilidad más alarmantes de la Unión Europea: el 25,7 % de la población (12,5 millones de personas) está en riesgo de pobreza o exclusión social, una cifra que afecta a uno de cada tres menores (33,8 %). Lejos de ser un escudo protector infalible, el empleo ya no garantiza salir de los márgenes: más de 2,2 millones de personas trabajadoras viven en situación de pobreza oficial (el 11,5 % de la ocupación), una cifra que golpea con especial violencia a los contratos a tiempo parcial involuntarios, al régimen de autónomos y a sectores precarizados como el empleo doméstico y la hostelería.\n\nLa brecha se vuelve insostenible cuando entra en juego el coste desbocado de la vivienda: al descontar el pago del techo, otros 770.000 trabajadores caen bajo el umbral, elevando la cifra real a casi 3 millones de personas trabajadoras pobres (el 15,5 % de la masa laboral). El alquiler a precio de mercado actúa como un auténtico sumidero económico que dispara la tasa de pobreza al 34 % entre los empleados inquilinos, demostrando que ni las subidas del salario mínimo ni el récord de afiliación bastan frente a la escasez de horas trabajadas y la asfixia del mercado inmobiliario."
+   },
+   {
+    "id": "ph-0009",
+    "partido": "ph",
+    "titular": "Renta básica universal e incondicional de 950 € al mes",
+    "marca_actual": [],
+    "texto": "- **Propuesta 2: Renta Básica Universal e Incondicional (RBUI)** Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). **Memoria económica y viabilidad:** El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:\n - Una reforma progresiva del IRPF sobre las rentas del capital y del trabajo superiores a 120.000 € anuales (aportando 55.000 M€).\n - Un Impuesto a las Grandes Fortunas y Patrimonio Neto superior a 3 millones de euros (aportando 25.000 M€).\n - Una Tasa sobre Transacciones Financieras Especulativas (Tasa Tobin) del 0,5% en operaciones bursátiles de alta frecuencia (aportando 20.000 M€).\n - Un Plan Integral de Lucha contra el Fraude y la Evasión Fiscal de grandes corporaciones y patrimonios, fijando un objetivo de recaudación recuperada de 30.000 M€ anuales (según estimaciones de los técnicos de Hacienda Gestha).\n - Ahorro de costes administrativos y supresión de partidas redundantes de prestaciones mínimas (10.000 M€)."
+   },
+   {
+    "id": "ph-0047",
+    "partido": "ph",
+    "titular": "Derogar la Ley de Extranjería y cerrar todos los CIE en 60 días",
+    "marca_actual": [],
+    "texto": "- **Propuesta 1: Derogación de la Ley de Extranjería y cierre de los CIEs** Derogación de la legislación de extranjería sancionadora y cierre definitivo e incondicional en un plazo de 60 días de todos los Centros de Internamiento de Extranjeros (CIE)."
+   },
+   {
+    "id": "ph-0069",
+    "partido": "ph",
+    "titular": "Gasto: sanidad 9,5 %, educación 7 % y defensa menos del 1 %",
+    "marca_actual": [],
+    "texto": "|Ámbito / Partida|Situación Actual (% PIB o Gasto Real)|Propuesta Partido Humanista 2029 (% PIB / Objetivo)|Variación / Destino Clave del Gasto|\n|---|---|---|---|\n|Sanidad Pública|6,7% del PIB actual|9,5% del PIB|Atención primaria, salud mental comunitaria, odontología y gafas|\n|Educación Pública|4,4% del PIB actual|7,0% del PIB|Escuela 100% pública, laica, ratios de 15 alumnos, gratuidad universidad/FP|\n|Vivienda Social|0,2% del PIB actual (~2,5% parque social)|1,5% del PIB|Alcanzar 20% parque público alquiler, movilización Sareb/fondos|\n|Protección Social y Renta|Prestaciones fragmentadas condicionadas|Renta Básica Universal Incondicional|950 €/mes adultos|\n|Gasto Militar / Defensa|>2,0% del PIB (compromiso OTAN)|<1,0% del PIB|Reducción del 50%, reconversión a industria de paz y salud|\n|Transición Ecosocial y Transporte|Foco en megaparques y AVE|Transporte soberano y comunitario|Transporte ferroviario convencional gratuito y comunidades solares en tejados|"
+   },
+   {
+    "id": "d21-0097",
+    "partido": "d21",
+    "titular": "Diagnóstico: más de la mitad de hogares con derecho al IMV no lo pide",
+    "marca_actual": [],
+    "texto": "El mayor fracaso del Estado de Bienestar en España no es la falta de recursos, sino la barrera burocrática que separa a los ciudadanos de sus propios derechos. Más de la mitad de los hogares con derecho al Ingreso Mínimo Vital no llega a solicitarlo, y siete de cada diez familias que cumplen los requisitos para recibir ayuda por sus hijos no reciben ninguna. Ante catástrofes naturales, hemos visto que la respuesta pública llega demasiado tarde, fragmentada y sepultada en trámites asfixiantes. El Estado ya dispone de nuestros datos y su deber es ponerlos directamente al servicio inmediato y automático de las personas."
+   },
+   {
+    "id": "d21-0098",
+    "partido": "d21",
+    "titular": "Ley de Administración Proactiva: prestaciones y deducciones concedidas de oficio",
+    "marca_actual": [],
+    "texto": "- **Ayudas Que Funcionen:** el Estado dejará de esperar a que el ciudadano descubra, solicite y justifique los derechos que legalmente le corresponden. Una Ley de Administración Proactiva reconocerá el derecho a no tener que pedir lo que ya te corresponde, y fijará qué prestaciones se conceden de oficio, qué datos se cruzan, con qué finalidad exclusiva y cómo puede cada persona oponerse o corregir sus datos. Mediante el cruce inteligente de datos públicos, la Administración resolverá de oficio y **concederá automáticamente prestaciones y deducciones, notificando directamente al ciudadano en su teléfono móvil** o por correo postal si así lo prefiere.\nCuando falte algún dato, recibirá una propuesta ya calculada que podrá aceptar con un clic o en persona a través de la administración competente, garantizando la atención con o sin cita previa. Así funcionará, por ejemplo, en la asignación directa de becas de estudio (cruzando renta y expediente académico sin formularios) o en el caso de un nacimiento (activando al instante deducciones en IRPF o prestaciones familiares de forma automática al registrar al recién nacido, como ya recomienda la AIReF)."
+   },
+   {
+    "id": "d21-0099",
+    "partido": "d21",
+    "titular": "Red de Alerta Social para tramitar de oficio el IMV y el CAPI",
+    "marca_actual": [],
+    "texto": "- **Red Inteligente de Alerta Social:** desplegaremos un sistema público de alerta prioritaria que cruzará datos de empleo, ingresos fiscales y Seguridad Social para detectar de forma temprana a los hogares en situación de exclusión o pobreza infantil. Esos datos solo podrán usarse para ofrecer ayudas, nunca para sancionar ni para controlar el fraude, y el sistema estará sujeto a la supervisión de la Agencia Española de Protección de Datos. En lugar de exigir a familias vulnerables que naveguen por la burocracia, a través de los servicios sociales la Administración se pondrá en contacto proactivamente con ellas para tramitar de oficio el Ingreso Mínimo Vital (IMV), el Complemento de Ayuda para la Infancia (CAPI) u otras prestaciones sociales esenciales."
+   },
+   {
+    "id": "d21-0245",
+    "partido": "d21",
+    "titular": "Escudo Social Único que integre todas las ayudas en un ingreso mensual",
+    "marca_actual": [],
+    "texto": "- **Escudo Social Único (ESU) – Una Sola Prestación, Cero Laberintos:** integraremos en una única plataforma digital todas las ayudas sociales hoy dispersas entre ministerios, Comunidades y Ayuntamientos (rentas mínimas, bonos de vivienda y luz, prestaciones por infancia o dependencia…). El ciudadano recibirá un único ingreso mensual y gestionará desde su móvil un panel visual con los bonos de protección que tiene activos (vivienda, crianza, dependencia…), la cuantía exacta de cada uno y el efecto inmediato de cualquier cambio en su situación familiar o laboral. Y lo diseñaremos para que trabajar siempre compense: aceptar un empleo nunca hará perder más de lo que se gana."
+   },
+   {
+    "id": "comuns-0601",
+    "partido": "comuns",
+    "titular": "Balance social y cuatro medidas pagadas con una fiscalidad justa",
+    "marca_actual": [],
+    "texto": "El 2023 ens vam comprometre a reformar l’ingrés mínim vital, a crear una prestació universal per criança, a garantir un habitatge estable a les persones sense llar i a canviar el model de cures. Una part d’aquest camí s’ha fet. La reforma de les lleis de dependència i discapacitat, impulsada des del Ministeri de Drets Socials, és llei des del setembre de 2026. Una altra part continua pendent, perquè cada pas endavant ha costat una negociació dura dins del Govern i ha topat amb el bloqueig de la dreta al Congrés.\n\nMentrestant, viure s’ha fet més car i més incert. L’habitatge és avui el primer problema per al 55,7% de la ciutadania, el màxim que ha registrat mai el CIS. I el desnonament de Mari Carmen Abascal, que va morir als 87 anys quinze dies després d’haver de deixar la casa on havia viscut set dècades, ha posat nom i cara a una angoixa que comparteixen milions de llars.\n\nProposem quatre mesures perquè els drets socials arribin a la vida de la gent: que criar no empobreixi, que ningú no perdi la casa sense una alternativa, que ningú no hagi de cuidar sol i que cap llar no quedi per sota del mínim per viure amb dignitat. Les pagarem amb una fiscalitat justa, en què qui més té aporti més."
+   },
+   {
+    "id": "comuns-0620",
+    "partido": "comuns",
+    "titular": "Diagnóstico: el IMV solo llega al 31 % de las personas en pobreza severa",
+    "marca_actual": [],
+    "texto": "L’ingrés mínim vital va ser una conquesta del Govern de coalició: per primera vegada l’Estat va reconèixer el dret de tothom a uns ingressos mínims, visqui on visqui. Però sis anys després continua arribant a massa poca gent. Més de la meitat de les llars que hi tenen dret no el cobren, i només arriba al 31% de les persones en pobresa severa, per sota de la mitjana europea. Les causes són conegudes: requisits complexos, molta paperassa, desconeixement i la sospita que pesa sobre qui el demana.\n\nL’Autoridad Independiente de Responsabilidad Fiscal (AIReF) calcula que, si l’IMV arribés a totes les llars amb dret, reduiria la bretxa de pobresa un 58%, gairebé el doble que ara, i que erradicar la pobresa severa costaria uns 9.100 milions d’euros l’any. Avui hi destinem uns 3.100 milions.\n\nLa desigualtat de renda ha baixat aquests anys fins al nivell més baix des de 2008, sobretot perquè han millorat les rendes més baixes. Però una de cada quatre persones continua en risc de pobresa o exclusió, una proporció que no es mou des de fa més d’una dècada, i el lloguer es menja bona part de les pujades salarials. Al mateix temps, el Banc d’Espanya constata que la riquesa en habitatge es concentra cada vegada més en les llars més riques."
+   },
+   {
+    "id": "comuns-0621",
+    "partido": "comuns",
+    "titular": "No exigir la devolución de prestaciones indebidas por errores de la Administración",
+    "marca_actual": [],
+    "texto": "- Reformarem la Llei de la Seguretat Social i la de l’Ingrés Mínim Vital perquè no es pugui exigir el pagament de prestacions indegudes quan hi hagi errors de l’administració o no provocats per la persona benefici-"
+   },
+   {
+    "id": "comuns-0622",
+    "partido": "comuns",
+    "titular": "No reclamar prestaciones usadas para necesidades básicas de personas vulnerables",
+    "marca_actual": [],
+    "texto": "ària i en cap cas es puguin exigir les quantitats rebudes quan aquestes fossin per cobrir les necessitats bàsiques de subsistència de persones en situació de vulnerabilitat."
+   },
+   {
+    "id": "comuns-0623",
+    "partido": "comuns",
+    "titular": "Pagar el IMV de oficio y revisar los ingresos cada mes",
+    "marca_actual": [],
+    "texto": "- Pagarem l’IMV d’ofici. L’Administració identificarà, amb les dades fiscals i de la Seguretat Social, les llars que hi tenen dret i els el reconeixerà sense que l’hagin de sol·licitar. Revisarem els ingressos cada mes, perquè la prestació arribi quan apareix la necessitat i no un any després."
+   },
+   {
+    "id": "comuns-0624",
+    "partido": "comuns",
+    "titular": "Subir el IMV al 60 % de la renta mediana y las pensiones mínimas",
+    "marca_actual": [],
+    "texto": "- Apujarem gradualment la renda garantida de l’IMV perquè cap llar visqui per sota del 60% de la renda mediana, i farem que les pensions mínimes i les no contributives arribin al llindar de la pobresa, ampliant-ne la cobertura, simplificant requisits de patrimoni, edat i unitat de convivència, i fent que tothom que hi té dret hi accedeixi efectivament."
+   },
+   {
+    "id": "comuns-0625",
+    "partido": "comuns",
+    "titular": "Cobrar el incentivo al empleo del IMV según los ingresos en tiempo real",
+    "marca_actual": [],
+    "texto": "- Reformarem l’actual incentiu a l’ocupació de l’IMV de manera que es pugui cobrar immediatament segons els ingressos per treball en temps real, i no l’augment d’ingressos de l’any anterior; l’incentiu hauria de poder-se rebre per tothom que tingui ingressos laborals en similars nivells de renda sigui o no beneficiari de l’IMV, com ja passa al País Basc i a d’altres països europeus."
+   },
+   {
+    "id": "comuns-0626",
+    "partido": "comuns",
+    "titular": "Revisar los requisitos de residencia del IMV y eliminar barreras documentales",
+    "marca_actual": [],
+    "texto": "- Revisar els requisits de residència de l’IMV i eliminar barreres documentals injustificades, amb assessorament presencial i mediació intercultural."
+   },
+   {
+    "id": "comuns-0628",
+    "partido": "comuns",
+    "titular": "Subir el IPREM 100 euros, hasta 700, y actualizarlo periódicamente",
+    "marca_actual": [],
+    "texto": "- Apujarem l’IPREM en 100 euros, fins als 700 euros i establirem la seva actualització periòdica, per compensar la inflació acumulada des de la seva última actualització i protegir el poder adquisitiu de les prestacions que depenen d’aquest indicador."
+   }
+  ]
+ }
+]

@@ -709,8 +709,9 @@
   }
 
   /* ---------- Pie ---------- */
-  // Los mensajes se envían con EmailJS: la plantilla decide a quién llegan; la clave es pública.
-  const EMAILJS = { servicio: 'service_vg6oefs', plantilla: '', clave: 'djSnpxKmk53yDPEEq' };
+  // Los mensajes se envían con EmailJS, con la plantilla del formulario de contacto de nódicus
+  // (campos name, email, subject, message, origen). La clave es pública.
+  const EMAILJS = { servicio: 'service_vg6oefs', plantilla: 'template_xty5ryd', clave: 'djSnpxKmk53yDPEEq' };
   const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
     <details class="pie-fuentes">
@@ -747,7 +748,10 @@
         method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           service_id: EMAILJS.servicio, template_id: EMAILJS.plantilla, user_id: EMAILJS.clave,
-          template_params: { asunto: v('asunto'), correo: v('correo') || '(sin correo)', mensaje: v('mensaje'), pagina: location.href },
+          template_params: {
+            name: 'Programas 29N', email: v('correo') || '(sin correo)', subject: `[Programas 29N] ${v('asunto')}`,
+            message: `${v('mensaje')}\n\nPágina: ${location.href}`, origen: 'Programas 29N',
+          },
         }),
       });
       if (!r.ok) throw new Error();
