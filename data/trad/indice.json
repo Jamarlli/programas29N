@@ -1,0 +1,2567 @@
+{
+ "es-001": {
+  "idioma": "es",
+  "origen": [
+   "va"
+  ],
+  "extractos": 391,
+  "palabras": 11952,
+  "partidos": [
+   "compromis"
+  ]
+ },
+ "es-002": {
+  "idioma": "es",
+  "origen": [
+   "gl",
+   "va"
+  ],
+  "extractos": 291,
+  "palabras": 11971,
+  "partidos": [
+   "compromis",
+   "bng"
+  ]
+ },
+ "es-003": {
+  "idioma": "es",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 245,
+  "palabras": 11994,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "es-004": {
+  "idioma": "es",
+  "origen": [
+   "ca",
+   "gl"
+  ],
+  "extractos": 220,
+  "palabras": 11977,
+  "partidos": [
+   "bng",
+   "erc"
+  ]
+ },
+ "es-005": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 151,
+  "palabras": 11935,
+  "partidos": [
+   "erc"
+  ]
+ },
+ "es-006": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 198,
+  "palabras": 11976,
+  "partidos": [
+   "erc",
+   "cnv"
+  ]
+ },
+ "es-007": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 292,
+  "palabras": 11978,
+  "partidos": [
+   "cnv",
+   "comuns"
+  ]
+ },
+ "es-008": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 256,
+  "palabras": 11983,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "es-009": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 257,
+  "palabras": 11988,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "es-010": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 294,
+  "palabras": 11973,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "es-011": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 275,
+  "palabras": 11963,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "es-012": {
+  "idioma": "es",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 153,
+  "palabras": 4510,
+  "partidos": [
+   "comuns",
+   "junts"
+  ]
+ },
+ "es-rutas": {
+  "idioma": "es",
+  "extractos": 391,
+  "palabras": 2440
+ },
+ "ca-001": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11958,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "ca-002": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 224,
+  "palabras": 11998,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "ca-003": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 206,
+  "palabras": 11989,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "ca-004": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11945,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "ca-005": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11898,
+  "partidos": [
+   "fa",
+   "psoe"
+  ]
+ },
+ "ca-006": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 152,
+  "palabras": 11982,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "ca-007": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 208,
+  "palabras": 11980,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "ca-008": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11997,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "ca-009": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11907,
+  "partidos": [
+   "psoe",
+   "pp"
+  ]
+ },
+ "ca-010": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11941,
+  "partidos": [
+   "pp"
+  ]
+ },
+ "ca-011": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 148,
+  "palabras": 11944,
+  "partidos": [
+   "pp",
+   "vox"
+  ]
+ },
+ "ca-012": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 642,
+  "palabras": 11985,
+  "partidos": [
+   "vox",
+   "compromis",
+   "salf"
+  ]
+ },
+ "ca-013": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11794,
+  "partidos": [
+   "salf",
+   "pacma"
+  ]
+ },
+ "ca-014": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 112,
+  "palabras": 11819,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "ca-015": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 104,
+  "palabras": 11827,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "ca-016": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 171,
+  "palabras": 11873,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "ca-017": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 163,
+  "palabras": 11948,
+  "partidos": [
+   "pacma",
+   "fo"
+  ]
+ },
+ "ca-018": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 155,
+  "palabras": 11974,
+  "partidos": [
+   "fo",
+   "mundo"
+  ]
+ },
+ "ca-019": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 170,
+  "palabras": 11927,
+  "partidos": [
+   "mundo"
+  ]
+ },
+ "ca-020": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 200,
+  "palabras": 11944,
+  "partidos": [
+   "mundo",
+   "fe"
+  ]
+ },
+ "ca-021": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 256,
+  "palabras": 11919,
+  "partidos": [
+   "fe",
+   "pcte"
+  ]
+ },
+ "ca-022": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 133,
+  "palabras": 11841,
+  "partidos": [
+   "pcte",
+   "autonomos",
+   "podemos"
+  ]
+ },
+ "ca-023": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 113,
+  "palabras": 11891,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "ca-024": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 109,
+  "palabras": 11954,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "ca-025": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 103,
+  "palabras": 11940,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "ca-026": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 79,
+  "palabras": 11831,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "ca-027": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 130,
+  "palabras": 11949,
+  "partidos": [
+   "podemos",
+   "adelante"
+  ]
+ },
+ "ca-028": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 245,
+  "palabras": 11958,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "ca-029": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 240,
+  "palabras": 11997,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "ca-030": {
+  "idioma": "ca",
+  "origen": [
+   "es",
+   "gl"
+  ],
+  "extractos": 235,
+  "palabras": 11963,
+  "partidos": [
+   "adelante",
+   "bng"
+  ]
+ },
+ "ca-031": {
+  "idioma": "ca",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 201,
+  "palabras": 11928,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "ca-032": {
+  "idioma": "ca",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 213,
+  "palabras": 11986,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "ca-033": {
+  "idioma": "ca",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 671,
+  "palabras": 11990,
+  "partidos": [
+   "bng",
+   "erc",
+   "cnv"
+  ]
+ },
+ "ca-034": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 300,
+  "palabras": 11981,
+  "partidos": [
+   "cnv",
+   "pnv"
+  ]
+ },
+ "ca-035": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 199,
+  "palabras": 11971,
+  "partidos": [
+   "pnv",
+   "bildu"
+  ]
+ },
+ "ca-036": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11917,
+  "partidos": [
+   "bildu",
+   "teruel",
+   "pfac"
+  ]
+ },
+ "ca-037": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 197,
+  "palabras": 11991,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "ca-038": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 140,
+  "palabras": 11989,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "ca-039": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 171,
+  "palabras": 11995,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "ca-040": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11960,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "ca-041": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 216,
+  "palabras": 11979,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "ca-042": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11944,
+  "partidos": [
+   "pfac",
+   "ph"
+  ]
+ },
+ "ca-043": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 250,
+  "palabras": 11939,
+  "partidos": [
+   "ph",
+   "nex",
+   "ixlg",
+   "soria",
+   "d21"
+  ]
+ },
+ "ca-044": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 142,
+  "palabras": 11903,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "ca-045": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 111,
+  "palabras": 11982,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "ca-046": {
+  "idioma": "ca",
+  "origen": [
+   "es"
+  ],
+  "extractos": 233,
+  "palabras": 11994,
+  "partidos": [
+   "d21",
+   "comuns"
+  ]
+ },
+ "ca-047": {
+  "idioma": "ca",
+  "origen": [],
+  "extractos": 1099,
+  "palabras": 11998,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "ca-048": {
+  "idioma": "ca",
+  "origen": [],
+  "extractos": 98,
+  "palabras": 1053,
+  "partidos": [
+   "comuns",
+   "junts"
+  ]
+ },
+ "ca-rutas": {
+  "idioma": "ca",
+  "extractos": 1188,
+  "palabras": 7530
+ },
+ "va-001": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11958,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "va-002": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 224,
+  "palabras": 11998,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "va-003": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 206,
+  "palabras": 11989,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "va-004": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11945,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "va-005": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11898,
+  "partidos": [
+   "fa",
+   "psoe"
+  ]
+ },
+ "va-006": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 152,
+  "palabras": 11982,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "va-007": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 208,
+  "palabras": 11980,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "va-008": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11997,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "va-009": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11907,
+  "partidos": [
+   "psoe",
+   "pp"
+  ]
+ },
+ "va-010": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11941,
+  "partidos": [
+   "pp"
+  ]
+ },
+ "va-011": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 148,
+  "palabras": 11944,
+  "partidos": [
+   "pp",
+   "vox"
+  ]
+ },
+ "va-012": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 642,
+  "palabras": 11985,
+  "partidos": [
+   "vox",
+   "compromis",
+   "salf"
+  ]
+ },
+ "va-013": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11794,
+  "partidos": [
+   "salf",
+   "pacma"
+  ]
+ },
+ "va-014": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 112,
+  "palabras": 11819,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "va-015": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 104,
+  "palabras": 11827,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "va-016": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 171,
+  "palabras": 11873,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "va-017": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 163,
+  "palabras": 11948,
+  "partidos": [
+   "pacma",
+   "fo"
+  ]
+ },
+ "va-018": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 155,
+  "palabras": 11974,
+  "partidos": [
+   "fo",
+   "mundo"
+  ]
+ },
+ "va-019": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 170,
+  "palabras": 11927,
+  "partidos": [
+   "mundo"
+  ]
+ },
+ "va-020": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 200,
+  "palabras": 11944,
+  "partidos": [
+   "mundo",
+   "fe"
+  ]
+ },
+ "va-021": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 256,
+  "palabras": 11919,
+  "partidos": [
+   "fe",
+   "pcte"
+  ]
+ },
+ "va-022": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 133,
+  "palabras": 11841,
+  "partidos": [
+   "pcte",
+   "autonomos",
+   "podemos"
+  ]
+ },
+ "va-023": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 113,
+  "palabras": 11891,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "va-024": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 109,
+  "palabras": 11954,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "va-025": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 103,
+  "palabras": 11940,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "va-026": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 79,
+  "palabras": 11831,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "va-027": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 130,
+  "palabras": 11949,
+  "partidos": [
+   "podemos",
+   "adelante"
+  ]
+ },
+ "va-028": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 245,
+  "palabras": 11958,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "va-029": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 240,
+  "palabras": 11997,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "va-030": {
+  "idioma": "va",
+  "origen": [
+   "es",
+   "gl"
+  ],
+  "extractos": 235,
+  "palabras": 11963,
+  "partidos": [
+   "adelante",
+   "bng"
+  ]
+ },
+ "va-031": {
+  "idioma": "va",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 201,
+  "palabras": 11928,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "va-032": {
+  "idioma": "va",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 213,
+  "palabras": 11986,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "va-033": {
+  "idioma": "va",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 671,
+  "palabras": 11990,
+  "partidos": [
+   "bng",
+   "erc",
+   "cnv"
+  ]
+ },
+ "va-034": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 300,
+  "palabras": 11981,
+  "partidos": [
+   "cnv",
+   "pnv"
+  ]
+ },
+ "va-035": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 199,
+  "palabras": 11971,
+  "partidos": [
+   "pnv",
+   "bildu"
+  ]
+ },
+ "va-036": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11917,
+  "partidos": [
+   "bildu",
+   "teruel",
+   "pfac"
+  ]
+ },
+ "va-037": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 197,
+  "palabras": 11991,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "va-038": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 140,
+  "palabras": 11989,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "va-039": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 171,
+  "palabras": 11995,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "va-040": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11960,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "va-041": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 216,
+  "palabras": 11979,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "va-042": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11944,
+  "partidos": [
+   "pfac",
+   "ph"
+  ]
+ },
+ "va-043": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 250,
+  "palabras": 11939,
+  "partidos": [
+   "ph",
+   "nex",
+   "ixlg",
+   "soria",
+   "d21"
+  ]
+ },
+ "va-044": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 142,
+  "palabras": 11903,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "va-045": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 111,
+  "palabras": 11982,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "va-046": {
+  "idioma": "va",
+  "origen": [
+   "es"
+  ],
+  "extractos": 233,
+  "palabras": 11994,
+  "partidos": [
+   "d21",
+   "comuns"
+  ]
+ },
+ "va-047": {
+  "idioma": "va",
+  "origen": [],
+  "extractos": 1099,
+  "palabras": 11998,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "va-048": {
+  "idioma": "va",
+  "origen": [],
+  "extractos": 98,
+  "palabras": 1053,
+  "partidos": [
+   "comuns",
+   "junts"
+  ]
+ },
+ "va-rutas": {
+  "idioma": "va",
+  "extractos": 1188,
+  "palabras": 7530
+ },
+ "gl-001": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11958,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "gl-002": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 224,
+  "palabras": 11998,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "gl-003": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 206,
+  "palabras": 11989,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "gl-004": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11945,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "gl-005": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11898,
+  "partidos": [
+   "fa",
+   "psoe"
+  ]
+ },
+ "gl-006": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 152,
+  "palabras": 11982,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "gl-007": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 208,
+  "palabras": 11980,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "gl-008": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11997,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "gl-009": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11907,
+  "partidos": [
+   "psoe",
+   "pp"
+  ]
+ },
+ "gl-010": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11941,
+  "partidos": [
+   "pp"
+  ]
+ },
+ "gl-011": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 148,
+  "palabras": 11944,
+  "partidos": [
+   "pp",
+   "vox"
+  ]
+ },
+ "gl-012": {
+  "idioma": "gl",
+  "origen": [
+   "es",
+   "va"
+  ],
+  "extractos": 273,
+  "palabras": 11979,
+  "partidos": [
+   "vox",
+   "compromis"
+  ]
+ },
+ "gl-013": {
+  "idioma": "gl",
+  "origen": [
+   "va"
+  ],
+  "extractos": 272,
+  "palabras": 11967,
+  "partidos": [
+   "compromis"
+  ]
+ },
+ "gl-014": {
+  "idioma": "gl",
+  "origen": [
+   "es",
+   "va"
+  ],
+  "extractos": 204,
+  "palabras": 11941,
+  "partidos": [
+   "compromis",
+   "salf"
+  ]
+ },
+ "gl-015": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 107,
+  "palabras": 11912,
+  "partidos": [
+   "salf",
+   "pacma"
+  ]
+ },
+ "gl-016": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 98,
+  "palabras": 11940,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "gl-017": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 137,
+  "palabras": 11967,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "gl-018": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 180,
+  "palabras": 11790,
+  "partidos": [
+   "pacma",
+   "fo"
+  ]
+ },
+ "gl-019": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 155,
+  "palabras": 11962,
+  "partidos": [
+   "fo"
+  ]
+ },
+ "gl-020": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 166,
+  "palabras": 11951,
+  "partidos": [
+   "fo",
+   "mundo"
+  ]
+ },
+ "gl-021": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 170,
+  "palabras": 11969,
+  "partidos": [
+   "mundo",
+   "fe"
+  ]
+ },
+ "gl-022": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 258,
+  "palabras": 12000,
+  "partidos": [
+   "fe",
+   "pcte"
+  ]
+ },
+ "gl-023": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 176,
+  "palabras": 11952,
+  "partidos": [
+   "pcte",
+   "autonomos"
+  ]
+ },
+ "gl-024": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 122,
+  "palabras": 11834,
+  "partidos": [
+   "autonomos",
+   "podemos"
+  ]
+ },
+ "gl-025": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 104,
+  "palabras": 11755,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "gl-026": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 119,
+  "palabras": 11923,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "gl-027": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 72,
+  "palabras": 11793,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "gl-028": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 85,
+  "palabras": 11901,
+  "partidos": [
+   "podemos",
+   "adelante"
+  ]
+ },
+ "gl-029": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 231,
+  "palabras": 11977,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "gl-030": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 233,
+  "palabras": 11956,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "gl-031": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 245,
+  "palabras": 11969,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "gl-032": {
+  "idioma": "gl",
+  "origen": [
+   "ca",
+   "es"
+  ],
+  "extractos": 649,
+  "palabras": 11990,
+  "partidos": [
+   "adelante",
+   "bng",
+   "erc"
+  ]
+ },
+ "gl-033": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 122,
+  "palabras": 11880,
+  "partidos": [
+   "erc"
+  ]
+ },
+ "gl-034": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 125,
+  "palabras": 11833,
+  "partidos": [
+   "erc"
+  ]
+ },
+ "gl-035": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 237,
+  "palabras": 11980,
+  "partidos": [
+   "erc",
+   "cnv"
+  ]
+ },
+ "gl-036": {
+  "idioma": "gl",
+  "origen": [
+   "ca",
+   "es"
+  ],
+  "extractos": 265,
+  "palabras": 11989,
+  "partidos": [
+   "cnv",
+   "pnv"
+  ]
+ },
+ "gl-037": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 218,
+  "palabras": 11937,
+  "partidos": [
+   "pnv",
+   "bildu"
+  ]
+ },
+ "gl-038": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 213,
+  "palabras": 12000,
+  "partidos": [
+   "bildu",
+   "teruel"
+  ]
+ },
+ "gl-039": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 190,
+  "palabras": 11889,
+  "partidos": [
+   "teruel",
+   "pfac"
+  ]
+ },
+ "gl-040": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 156,
+  "palabras": 11980,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "gl-041": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 174,
+  "palabras": 11922,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "gl-042": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 198,
+  "palabras": 11974,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "gl-043": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 189,
+  "palabras": 11978,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "gl-044": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 171,
+  "palabras": 11790,
+  "partidos": [
+   "pfac",
+   "ph"
+  ]
+ },
+ "gl-045": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 187,
+  "palabras": 11988,
+  "partidos": [
+   "ph",
+   "nex"
+  ]
+ },
+ "gl-046": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 201,
+  "palabras": 11922,
+  "partidos": [
+   "nex",
+   "ixlg",
+   "soria",
+   "d21"
+  ]
+ },
+ "gl-047": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 116,
+  "palabras": 11896,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "gl-048": {
+  "idioma": "gl",
+  "origen": [
+   "es"
+  ],
+  "extractos": 115,
+  "palabras": 11948,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "gl-049": {
+  "idioma": "gl",
+  "origen": [
+   "ca",
+   "es"
+  ],
+  "extractos": 169,
+  "palabras": 11902,
+  "partidos": [
+   "d21",
+   "comuns"
+  ]
+ },
+ "gl-050": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 204,
+  "palabras": 11978,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "gl-051": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 209,
+  "palabras": 11943,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "gl-052": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 235,
+  "palabras": 11972,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "gl-053": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 229,
+  "palabras": 11913,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "gl-054": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 221,
+  "palabras": 11991,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "gl-055": {
+  "idioma": "gl",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 82,
+  "palabras": 3023,
+  "partidos": [
+   "comuns",
+   "junts"
+  ]
+ },
+ "gl-rutas": {
+  "idioma": "gl",
+  "extractos": 1453,
+  "palabras": 9188
+ },
+ "eu-001": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 215,
+  "palabras": 11958,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "eu-002": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 224,
+  "palabras": 11998,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "eu-003": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 206,
+  "palabras": 11989,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "eu-004": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11945,
+  "partidos": [
+   "fa"
+  ]
+ },
+ "eu-005": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 182,
+  "palabras": 11898,
+  "partidos": [
+   "fa",
+   "psoe"
+  ]
+ },
+ "eu-006": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 152,
+  "palabras": 11982,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "eu-007": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 208,
+  "palabras": 11980,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "eu-008": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 195,
+  "palabras": 11997,
+  "partidos": [
+   "psoe"
+  ]
+ },
+ "eu-009": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 136,
+  "palabras": 11907,
+  "partidos": [
+   "psoe",
+   "pp"
+  ]
+ },
+ "eu-010": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 135,
+  "palabras": 11941,
+  "partidos": [
+   "pp"
+  ]
+ },
+ "eu-011": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 148,
+  "palabras": 11944,
+  "partidos": [
+   "pp",
+   "vox"
+  ]
+ },
+ "eu-012": {
+  "idioma": "eu",
+  "origen": [
+   "es",
+   "va"
+  ],
+  "extractos": 273,
+  "palabras": 11979,
+  "partidos": [
+   "vox",
+   "compromis"
+  ]
+ },
+ "eu-013": {
+  "idioma": "eu",
+  "origen": [
+   "va"
+  ],
+  "extractos": 272,
+  "palabras": 11967,
+  "partidos": [
+   "compromis"
+  ]
+ },
+ "eu-014": {
+  "idioma": "eu",
+  "origen": [
+   "es",
+   "va"
+  ],
+  "extractos": 204,
+  "palabras": 11941,
+  "partidos": [
+   "compromis",
+   "salf"
+  ]
+ },
+ "eu-015": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 107,
+  "palabras": 11912,
+  "partidos": [
+   "salf",
+   "pacma"
+  ]
+ },
+ "eu-016": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 98,
+  "palabras": 11940,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "eu-017": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 137,
+  "palabras": 11967,
+  "partidos": [
+   "pacma"
+  ]
+ },
+ "eu-018": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 180,
+  "palabras": 11790,
+  "partidos": [
+   "pacma",
+   "fo"
+  ]
+ },
+ "eu-019": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 155,
+  "palabras": 11962,
+  "partidos": [
+   "fo"
+  ]
+ },
+ "eu-020": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 166,
+  "palabras": 11951,
+  "partidos": [
+   "fo",
+   "mundo"
+  ]
+ },
+ "eu-021": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 170,
+  "palabras": 11969,
+  "partidos": [
+   "mundo",
+   "fe"
+  ]
+ },
+ "eu-022": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 258,
+  "palabras": 12000,
+  "partidos": [
+   "fe",
+   "pcte"
+  ]
+ },
+ "eu-023": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 176,
+  "palabras": 11952,
+  "partidos": [
+   "pcte",
+   "autonomos"
+  ]
+ },
+ "eu-024": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 122,
+  "palabras": 11834,
+  "partidos": [
+   "autonomos",
+   "podemos"
+  ]
+ },
+ "eu-025": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 104,
+  "palabras": 11755,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "eu-026": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 119,
+  "palabras": 11923,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "eu-027": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 72,
+  "palabras": 11793,
+  "partidos": [
+   "podemos"
+  ]
+ },
+ "eu-028": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 85,
+  "palabras": 11901,
+  "partidos": [
+   "podemos",
+   "adelante"
+  ]
+ },
+ "eu-029": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 231,
+  "palabras": 11977,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "eu-030": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 233,
+  "palabras": 11956,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "eu-031": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 245,
+  "palabras": 11969,
+  "partidos": [
+   "adelante"
+  ]
+ },
+ "eu-032": {
+  "idioma": "eu",
+  "origen": [
+   "es",
+   "gl"
+  ],
+  "extractos": 213,
+  "palabras": 11979,
+  "partidos": [
+   "adelante",
+   "bng"
+  ]
+ },
+ "eu-033": {
+  "idioma": "eu",
+  "origen": [
+   "gl"
+  ],
+  "extractos": 204,
+  "palabras": 11987,
+  "partidos": [
+   "bng"
+  ]
+ },
+ "eu-034": {
+  "idioma": "eu",
+  "origen": [
+   "ca",
+   "gl"
+  ],
+  "extractos": 218,
+  "palabras": 11999,
+  "partidos": [
+   "bng",
+   "erc"
+  ]
+ },
+ "eu-035": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 119,
+  "palabras": 11928,
+  "partidos": [
+   "erc"
+  ]
+ },
+ "eu-036": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 127,
+  "palabras": 11983,
+  "partidos": [
+   "erc"
+  ]
+ },
+ "eu-037": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 224,
+  "palabras": 11982,
+  "partidos": [
+   "erc",
+   "cnv"
+  ]
+ },
+ "eu-038": {
+  "idioma": "eu",
+  "origen": [
+   "ca",
+   "es"
+  ],
+  "extractos": 262,
+  "palabras": 11816,
+  "partidos": [
+   "cnv",
+   "pnv"
+  ]
+ },
+ "eu-039": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 229,
+  "palabras": 11930,
+  "partidos": [
+   "pnv",
+   "bildu"
+  ]
+ },
+ "eu-040": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 197,
+  "palabras": 11998,
+  "partidos": [
+   "bildu",
+   "teruel"
+  ]
+ },
+ "eu-041": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 204,
+  "palabras": 11964,
+  "partidos": [
+   "teruel",
+   "pfac"
+  ]
+ },
+ "eu-042": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 157,
+  "palabras": 11886,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "eu-043": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 176,
+  "palabras": 11989,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "eu-044": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 190,
+  "palabras": 11989,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "eu-045": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 191,
+  "palabras": 11868,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "eu-046": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 175,
+  "palabras": 11996,
+  "partidos": [
+   "pfac"
+  ]
+ },
+ "eu-047": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 159,
+  "palabras": 11983,
+  "partidos": [
+   "pfac",
+   "ph",
+   "nex"
+  ]
+ },
+ "eu-048": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 240,
+  "palabras": 11949,
+  "partidos": [
+   "nex",
+   "ixlg",
+   "soria",
+   "d21"
+  ]
+ },
+ "eu-049": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 115,
+  "palabras": 11890,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "eu-050": {
+  "idioma": "eu",
+  "origen": [
+   "es"
+  ],
+  "extractos": 107,
+  "palabras": 11879,
+  "partidos": [
+   "d21"
+  ]
+ },
+ "eu-051": {
+  "idioma": "eu",
+  "origen": [
+   "ca",
+   "es"
+  ],
+  "extractos": 165,
+  "palabras": 11990,
+  "partidos": [
+   "d21",
+   "comuns"
+  ]
+ },
+ "eu-052": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 205,
+  "palabras": 11977,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "eu-053": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 208,
+  "palabras": 11988,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "eu-054": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 229,
+  "palabras": 11983,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "eu-055": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 244,
+  "palabras": 11860,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "eu-056": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 207,
+  "palabras": 11967,
+  "partidos": [
+   "comuns"
+  ]
+ },
+ "eu-057": {
+  "idioma": "eu",
+  "origen": [
+   "ca"
+  ],
+  "extractos": 110,
+  "palabras": 4347,
+  "partidos": [
+   "comuns",
+   "junts"
+  ]
+ },
+ "eu-rutas": {
+  "idioma": "eu",
+  "extractos": 1516,
+  "palabras": 9579
+ }
+}

@@ -1,0 +1,713 @@
+{
+ "ui": {
+  "No se han podido cargar los programas": "Ezin izan dira programak kargatu",
+  "Falta el archivo de datos o está dañado. Recarga la página.": "Datu-fitxategia falta da edo hondatuta dago. Kargatu berriro orria.",
+  "castellano": "gaztelania",
+  "catalán": "katalana",
+  "valenciano": "valentziera",
+  "gallego": "galiziera",
+  "euskera": "euskara",
+  "{n} %": "%{n}",
+  "Comparar": "Alderatu",
+  "Ningún partido": "Alderdirik ez",
+  "Medida {n}": "{n}. neurria",
+  "Ver en su programa": "Ikusi bere programan",
+  "PDF, p. {n}": "PDFa, {n}. or.",
+  "Página sin localizar": "Orrialdea zehaztu gabe",
+  "Traducción automática": "Itzulpen automatikoa",
+  "Ver el original": "Ikusi jatorrizkoa",
+  "Tema:": "Gaia:",
+  "Sin titular": "Izenbururik gabe",
+  "p. {n}": "{n}. or.",
+  "Su programa no toma una postura explícita.": "Bere programak ez du jarrera espliziturik hartzen.",
+  "Todo lo que dicen sobre «{x}»": "«{x}» gaiari buruz esaten duten guztia",
+  "Sin postura explícita: {x}": "Jarrera espliziturik gabe: {x}",
+  "Ver la cita de cada partido": "Ikusi alderdi bakoitzaren aipua",
+  "Ocultar las citas": "Ezkutatu aipuak",
+  "La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.": "Zenbaki handia pasarte kopurua da. Ehuneko txikiak adierazten du alderdi bakoitzak bere programaren zer zati eskaintzen dion gaiari, luzera oso desberdineko programak alderatu ahal izateko. Barrak ehuneko horiek errenkadako alderdien artean banatzen ditu, eta guztien artean %100 egiten dute: luzeena gaiari bere programan pisu handiena ematen dion alderdiarena da. Sakatu alderdi baten izena haren ehunekoaren arabera ordenatzeko.",
+  "Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos": "Programa bakoitzaren pasarteak gaika, alderdiaren pasarte guztien gainean zer ehuneko diren eta ehuneko horien banaketa alderdien artean",
+  "Tema": "Gaia",
+  "{p}: {n}, el {q} de su programa; en la barra, el {b} del peso que le dan al tema los partidos": "{p}: {n}, bere programaren {q}; barran, alderdiek gaiari ematen dioten pisuaren {b}",
+  "extractos": "pasarte",
+  "de su programa": "bere programatik",
+  "Pendientes de clasificar": "Sailkatu gabeak",
+  "Programa completo": "Programa osoa",
+  "Qué proponen los partidos para el 29N": "Zer proposatzen dute alderdiek 29N-rako",
+  "Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href=\"#/\" data-salto=\"h-temas\">cada tema</a> y <a href=\"#/choques\">dónde chocan</a> entre sí. No es lo que \"dijo\" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.": "Botoa ematea eskubidea da, baina baita erantzukizuna ere, eta ahalik eta modu kontziente eta informatuenean egin behar dugu. Hala ere, hauteskunde-programak oooso luzeak dira, eta ia inork ez du osorik irakurtzeko denborarik. Horregatik, hemen dituzu ordenatuta, alderdi bakoitzak <a href=\"#/\" data-salto=\"h-temas\">gai bakoitzari</a> buruz zer proposatzen duen eta <a href=\"#/choques\">non egiten duten talka</a> elkarren artean ikus dezazun. Ez da ordezkari batek ez dakit non \"esan zuena\", baizik eta <strong>bere hauteskunde-programan jasotzen duena</strong>.",
+  "Elige un tema": "Aukeratu gai bat",
+  "{a} temas y {b} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.": "{a} gai eta {b} azpigai. Gai bakoitzaren barruan, lehenik alderdiek non egiten duten talka ikusiko duzu, eta gero bakoitzak esaten duen guztia.",
+  "Dónde chocan": "Talka-guneak",
+  "Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.": "Programek gauza kontrajarriak esaten dituzten galderak. Sigla bakoitza bere alderdiak defendatzen duen jarreraren ondoan dago; sakatu galdera bat aipuak irakurtzeko.",
+  "Ver las {n} preguntas": "Ikusi {n} galderak",
+  "Ningún extracto clasificado en este subtema.": "Ez dago pasarterik azpigai honetan sailkatuta.",
+  "Lo trata también en otros subtemas": "Beste azpigai batzuetan ere jorratzen du",
+  "Partido": "Alderdia",
+  "Lo que separa a los partidos en {x}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.": "Gai honetan alderdiak bereizten dituena: {x}. Sigla bakoitza bere programak defendatzen duen jarreraren ondoan dago; zabaldu aipuak bakoitzak esaten duena irakurtzeko.",
+  "Secciones de {x}": "{x} gaiaren atalak",
+  "En este tema": "Gai honetan",
+  "Otros temas": "Beste gai batzuk",
+  "Estás en": "Hemen zaude",
+  "Temas": "Gaiak",
+  "Secciones": "Atalak",
+  "Resumen": "Laburpena",
+  "Texto completo": "Testu osoa",
+  "Cómo se muestran los extractos": "Pasarteak nola erakutsi",
+  "Los titulares son nuestros; el texto es el del programa, traducido automáticamente si está en otro idioma.": "Izenburuak geureak dira; testua programarena da, automatikoki itzulia beste hizkuntza batean badago.",
+  "Anterior": "Aurrekoa",
+  "Siguiente": "Hurrengoa",
+  "Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.": "Oraindik gairik esleituta ez duten pasarteak. Alderdi bakoitzaren programa osoan daude oraindik ere.",
+  "Temas con preguntas": "Galderak dituzten gaiak",
+  "Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.": "Alderdi bat jarrera batean agertzen da soilik bere programak esplizituki esaten badu; galdera bakoitzaren azpian haren aipu literala dago, bere programaren orrialderako estekarekin.",
+  "Todo el tema": "Gai osoa",
+  "Sin postura explícita de ningún partido: {x}": "Inongo alderdiren jarrera espliziturik gabe: {x}",
+  "Programas completos": "Programa osoak",
+  "Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.": "Programa bakoitza osorik, jatorrizko ordenan eta bere izenburuekin. Hemen egiazta daiteke ez dela ezer falta. Alderatzen ari ez zarenak goiko «Gehitu alderdiak» aukeratik gehitzen dira.",
+  "Todos los PDF": "PDF guztiak",
+  "Todos en Markdown": "Guztiak Markdown formatuan",
+  "Leer el programa": "Irakurri programa",
+  "Web original": "Jatorrizko webgunea",
+  "PDF original": "Jatorrizko PDFa",
+  "Índice del programa": "Programaren aurkibidea",
+  "Índice": "Aurkibidea",
+  "Programas": "Programak",
+  "Candidatura": "Hautagaitza",
+  "Fuente": "Iturria",
+  "Página web": "Web-orria",
+  "descargado el {x}": "deskargatze-data: {x}",
+  "Contenido": "Edukia",
+  "Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.": "Webguneko programaren testu osoa da; sortutako PDFaren hasierako oharra baino ez da kendu.",
+  "Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.": "PDFaren testu osoa da; aurkibidea eta orrialde-goiburuak baino ez dira kendu.",
+  "Idioma": "Hizkuntza",
+  "El programa original está en {x}. Aquí lo lees en traducción automática; cada extracto enlaza a su texto original.": "Jatorrizko programaren hizkuntza: {x}. Hemen itzulpen automatikoan irakurtzen duzu; pasarte bakoitzak bere jatorrizko testurako esteka du.",
+  "Mostrar {a} más de {b}": "Erakutsi beste {a} (falta diren {b} horietatik)",
+  "alquiler, pensiones, sanidad, inmigración, impuestos, educación, energía, agua, igualdad, autónomos, okupación, despoblación": "alokairua, pentsioak, osasuna, immigrazioa, zergak, hezkuntza, energia, ura, berdintasuna, autonomoak, okupazioa, despopulazioa",
+  "Buscar en los programas": "Bilatu programetan",
+  "Una o varias palabras": "Hitz bat edo batzuk",
+  "Buscar": "Bilatu",
+  "Escribe al menos una palabra de dos letras.": "Idatzi gutxienez bi letrako hitz bat.",
+  "Por ejemplo": "Adibidez",
+  "todas estas palabras": "hitz hauek guztiak",
+  "Resultados de la búsqueda": "Bilaketaren emaitzak",
+  "Ningún extracto contiene {q}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».": "Ez da pasarterik aurkitu {q} bilatuta. Saiatu hitz gutxiagorekin edo beste forma batekin; adibidez, «alokairua», «alokairuak» idatzi beharrean.",
+  "Su programa no contiene esta búsqueda.": "Bere programan ez da bilaketa hau agertzen.",
+  "Esta página no existe": "Orri hau ez da existitzen",
+  "Volver a los temas": "Itzuli gaietara",
+  "Subrayada, la cita de «{x}»": "Azpimarratuta, «{x}» galderaren aipua",
+  "Subrayado, el texto que buscabas": "Azpimarratuta, bilatzen zenuen testua",
+  "Volver": "Itzuli",
+  "Fuentes: los {n} programas oficiales": "Iturriak: {n} programa ofizialak",
+  "Datos del {x}.": "Datuen data: {x}.",
+  "¿Has visto un error o quieres comentar algo?": "Akatsen bat ikusi duzu edo zerbait esan nahi duzu?",
+  "Asunto": "Gaia",
+  "Tu correo": "Zure helbide elektronikoa",
+  "(opcional, para poder responderte)": "(aukerakoa, zuri erantzun ahal izateko)",
+  "Mensaje": "Mezua",
+  "Enviar": "Bidali",
+  "Escribe un asunto y un mensaje.": "Idatzi gai bat eta mezu bat.",
+  "Revisa el correo: no parece válido.": "Berrikusi helbide elektronikoa: ez dirudi baliozkoa denik.",
+  "Enviando…": "Bidaltzen…",
+  "Enviado. Gracias.": "Bidali da. Eskerrik asko.",
+  "No se ha podido enviar. Inténtalo de nuevo en un rato.": "Ezin izan da bidali. Saiatu berriro geroxeago.",
+  "Aún no está disponible.": "Oraindik ez dago erabilgarri.",
+  "{a} y {b}": "{a} eta {b}",
+  "Toda España": "Espainia osoa",
+  "Añadir": "Gehitu",
+  "Añadido": "Gehituta",
+  "No se ha encontrado su programa.": "Ez da haren programa aurkitu.",
+  "Añadir {x}": "Gehitu {x}",
+  "Añadir los {n} que faltan": "Gehitu falta direnak ({n})",
+  "Ya comparas todos": "Guztiak alderatzen ari zara jada",
+  "Comparar toda la circunscripción": "Alderatu barruti osoa",
+  "Ningún partido coincide.": "Ez dago bat datorren alderdirik.",
+  "Comparas": "Alderatzen dituzunak",
+  "quitar de la comparación": "kendu alderaketatik",
+  "Restablecer": "Berrezarri",
+  "Mapa de circunscripciones": "Barrutien mapa",
+  "Ver toda España": "Ikusi Espainia osoa",
+  "Ver el partido": "Ikusi alderdia",
+  "Ver los {n} partidos": "Ikusi {n} alderdiak",
+  "Añadir partidos": "Gehitu alderdiak",
+  "Cerrar": "Itxi",
+  "Partidos": "Alderdiak",
+  "Buscar por nombre o sigla": "Bilatu izenaren edo siglaren arabera",
+  "Filtrar por circunscripción": "Iragazi barrutiaren arabera",
+  "Hecho": "Eginda",
+  "Añadir partidos (comparas {x})": "Gehitu alderdiak ({x} alderatzen ari zara)",
+  "Idioma: {x}. Cambiar de idioma": "Hizkuntza: {x}. Aldatu hizkuntza",
+  "Programa de {x}": "{x} alderdiaren programa",
+  "{n} subtema": "{n} azpigai",
+  "{n} subtemas": "{n} azpigai",
+  "{n} extracto": "{n} pasarte",
+  "{n} extractos": "{n} pasarte",
+  "{n} pág.": "{n} or.",
+  "{n} págs.": "{n} or.",
+  "{n} pregunta": "{n} galdera",
+  "{n} preguntas": "{n} galdera",
+  "{n} pregunta en la que chocan": "talka egiten duten {n} galdera",
+  "{n} preguntas en las que chocan": "talka egiten duten {n} galdera",
+  "{n} pregunta en la que los programas toman posturas distintas.": "Programek jarrera desberdinak hartzen dituzten {n} galdera.",
+  "{n} preguntas en las que los programas toman posturas distintas.": "Programek jarrera desberdinak hartzen dituzten {n} galdera.",
+  "<b>{n}</b> página": "<b>{n}</b> orrialde",
+  "<b>{n}</b> páginas": "<b>{n}</b> orrialde",
+  "<b>{n}</b> extracto": "<b>{n}</b> pasarte",
+  "<b>{n}</b> extractos": "<b>{n}</b> pasarte",
+  "<b>{n}</b> palabra": "<b>{n}</b> hitz",
+  "<b>{n}</b> palabras": "<b>{n}</b> hitz",
+  "PDF generado de {n} página": "{n} orrialdeko PDF sortua",
+  "PDF generado de {n} páginas": "{n} orrialdeko PDF sortua",
+  "PDF de {n} página": "{n} orrialdeko PDFa",
+  "PDF de {n} páginas": "{n} orrialdeko PDFa",
+  "{n} palabra": "{n} hitz",
+  "{n} palabras": "{n} hitz",
+  "Busca en el texto del programa que comparas.": "Bilatu alderatzen ari zaren programaren testuan.",
+  "Busca en el texto de los {n} programas que comparas.": "Bilatu alderatzen ari zaren {n} programen testuan.",
+  "{n} extracto contiene {q}.": "{n} pasarte aurkitu da {q} bilatuta.",
+  "{n} extractos contienen {q}.": "{n} pasarte aurkitu dira {q} bilatuta.",
+  "y {n} circunscripción más": "eta beste {n} barruti",
+  "y {n} circunscripciones más": "eta beste {n} barruti",
+  "{n} circunscripción": "{n} barruti",
+  "{n} circunscripciones": "{n} barruti",
+  "{n} partido en {x}": "{n} alderdi hemen: {x}",
+  "{n} partidos en {x}": "{n} alderdi hemen: {x}",
+  "{n} partido": "{n} alderdi",
+  "{n} partidos": "{n} alderdi",
+  "Traducción automática y revisada del programa original en {x}, hecha por Programas 29N. El original: {u}": "Programas 29N-k egindako itzulpen automatiko eta berrikusia; jatorrizko programa {x}z dago. Jatorrizkoa: {u}"
+ },
+ "html": {
+  "Qué propone cada partido sobre cada tema y dónde chocan entre sí. No es lo que &quot;dijo&quot; un representante nosedónde, sino lo que pone en su programa electoral.": "Alderdi bakoitzak gai bakoitzari buruz zer proposatzen duen eta non egiten duten talka elkarren artean. Ez da ordezkari batek ez dakit non &quot;esan zuena&quot;, baizik eta bere hauteskunde-programan jasotzen duena.",
+  "Qué proponen los partidos para el 29N": "Zer proposatzen dute alderdiek 29N-rako",
+  "Programas 29N: qué proponen los partidos para el 29N, con un ejemplo de «Dónde chocan» sobre el precio del alquiler.": "Programas 29N: zer proposatzen dute alderdiek 29N-rako, alokairuaren prezioari buruzko «Talka-guneak» ataleko adibide batekin.",
+  "Saltar al contenido": "Joan edukira",
+  "Programas 29N, inicio": "Programas 29N, hasiera",
+  "Generales · 29 nov 2026": "Orokorrak · 2026ko aza. 29",
+  "Secciones": "Atalak",
+  "Temas": "Gaiak",
+  "Dónde chocan": "Talka-guneak",
+  "Buscar": "Bilatu",
+  "Programas": "Programak",
+  "Buscar en los programas": "Bilatu programetan",
+  "Buscar en los programas…": "Bilatu programetan…",
+  "Añadir partidos": "Gehitu alderdiak",
+  "Partidos": "Alderdiak",
+  "Cargando los programas…": "Programak kargatzen…",
+  "Esta web necesita JavaScript para mostrar los programas.": "Webgune honek JavaScript behar du programak erakusteko."
+ },
+ "temas": {
+  "vivienda": "Etxebizitza",
+  "vivienda-publica": "Etxebizitza publikoa eta soziala",
+  "vivienda-alquiler": "Alokairua",
+  "vivienda-compra": "Erosketa eta lehen etxebizitzarako sarbidea",
+  "vivienda-especulacion": "Espekulazioa, funtsak eta etxebizitza turistikoa",
+  "vivienda-okupacion-desahucios": "Okupazioa eta etxegabetzeak",
+  "vivienda-suelo-construccion": "Lurzorua, eraikuntza eta birgaitzea",
+  "vivienda-fiscalidad": "Etxebizitzaren gaineko zergak",
+  "vivienda-derecho": "Etxebizitzarako eskubidea eta etxebizitza-legea",
+  "impuestos": "Zergak eta kontu publikoak",
+  "imp-irpf": "PFEZ eta lanaren gaineko zergak",
+  "imp-capital-patrimonio": "Kapitala, ondarea eta herentziak",
+  "imp-sociedades": "Sozietateen gaineko zerga eta enpresa handiak",
+  "imp-iva-indirectos": "BEZ eta zeharkako zergak",
+  "imp-verdes": "Fiskalitate berdea eta luxuaren gainekoa",
+  "imp-fraude": "Iruzur fiskala eta paradisu fiskalak",
+  "imp-gasto-deuda": "Gastu publikoa, defizita eta zorra",
+  "imp-modelo": "Zerga-eredua oro har",
+  "trabajo": "Lana, soldatak eta pentsioak",
+  "trab-salarios": "Gutxieneko soldata eta soldatak",
+  "trab-jornada": "Lanaldia eta lan-denbora",
+  "trab-contratos-despido": "Kontratuak, kaleratzea eta lan-erreforma",
+  "trab-empleo": "Langabezia eta enplegu-politikak",
+  "trab-pensiones": "Pentsioak eta Gizarte Segurantza",
+  "trab-sindicatos": "Negoziazio kolektiboa eta parte-hartzea",
+  "trab-empleo-publico": "Enplegu publikoa",
+  "economia": "Ekonomia, enpresa eta industria",
+  "eco-industria": "Industria-politika",
+  "eco-autonomos-pymes": "Autonomoak eta ETEak",
+  "eco-burocracia": "Burokrazia eta erregulazioa",
+  "eco-innovacion": "Zientzia, I+G eta berrikuntza",
+  "eco-publico-banca": "Enpresa publikoak, banka eta lehia",
+  "eco-consumo-precios": "Kontsumoa eta bizitzaren kostua",
+  "eco-turismo-comercio": "Turismoa, merkataritza eta sektoreak",
+  "eco-modelo": "Hazkundea eta produktibitatea",
+  "energia-medioambiente": "Energia, klima eta ingurumena",
+  "ener-modelo": "Energia-eredua",
+  "clima": "Klima-aldaketa eta isuriak",
+  "agua": "Ura",
+  "naturaleza": "Biodibertsitatea eta naturaguneak",
+  "residuos": "Hondakinak eta ekonomia zirkularra",
+  "animales": "Animalien ongizatea",
+  "rural": "Landa eta landa-mundua",
+  "rural-agro": "Nekazaritza, abeltzaintza eta arrantza",
+  "rural-despoblacion": "Despopulazioa eta zerbitzuak landa-eremuan",
+  "rural-tradiciones": "Ehiza, tauromakia eta landa-tradizioak",
+  "infraestructuras": "Azpiegiturak eta garraioa",
+  "infra-tren": "Trenbidea",
+  "infra-carreteras": "Errepideak eta bide-segurtasuna",
+  "infra-transporte-publico": "Garraio publikoa eta mugikortasuna",
+  "infra-corredores-puertos": "Korridoreak, portuak eta aireportuak",
+  "infra-inversion-territorial": "Estatuaren inbertsioa lurraldeka",
+  "infra-digital": "Telekomunikazioak eta konektibitatea",
+  "sanidad": "Osasuna",
+  "san-listas-espera": "Itxaron-zerrendak eta sarbidea",
+  "san-modelo": "Osasun-eredua eta finantzaketa",
+  "san-primaria": "Lehen mailako arreta",
+  "san-profesionales": "Osasun-profesionalak",
+  "san-mental": "Osasun mentala",
+  "san-prestaciones": "Prestazio berriak",
+  "san-publica-prevencion": "Osasun publikoa eta prebentzioa",
+  "san-farmacia": "Botikak eta industria farmazeutikoa",
+  "san-sexual-reproductiva": "Sexu- eta ugalketa-osasuna",
+  "educacion-cultura": "Hezkuntza, kultura eta kirola",
+  "edu-modelo": "Hezkuntza-eredua eta finantzaketa",
+  "edu-infantil": "0 eta 3 urte bitarteko hezkuntza",
+  "edu-escuela": "Eskola: lehen hezkuntza, DBH eta batxilergoa",
+  "edu-lenguas": "Hizkuntzak",
+  "edu-profesorado": "Irakasleak",
+  "edu-becas": "Bekak eta ekitatea",
+  "edu-fp": "Lanbide Heziketa",
+  "edu-universidad": "Unibertsitatea",
+  "cultura": "Kultura",
+  "deporte": "Kirola",
+  "familias-social": "Familiak, zaintzak eta gizarte-babesa",
+  "fam-natalidad": "Jaiotza-tasa eta familiak",
+  "fam-infancia": "Haurtzaroa eta nerabezaroa",
+  "fam-juventud": "Gazteria",
+  "fam-mayores": "Adinekoak",
+  "fam-dependencia": "Mendekotasuna eta zaintzak",
+  "fam-discapacidad": "Desgaitasuna",
+  "fam-pobreza": "Pobrezia eta Bizitzeko Gutxieneko Diru-sarrera",
+  "igualdad-derechos": "Berdintasuna eta eskubide zibilak",
+  "igu-mujeres": "Emakumeen eta gizonen arteko berdintasuna",
+  "igu-violencia": "Emakumeen aurkako indarkeria",
+  "igu-lgtbi": "LGTBI eskubideak eta trans pertsonak",
+  "igu-racismo": "Arrazakeria eta tratu-berdintasuna",
+  "igu-vida": "Abortua, eutanasia eta bizitza",
+  "igu-libertades": "Askatasun publikoak eta protesta",
+  "igu-laicidad": "Erlijioa eta laikotasuna",
+  "igu-memoria": "Memoria demokratikoa",
+  "inmigracion": "Immigrazioa",
+  "inm-fronteras": "Mugak eta immigrazio irregularra",
+  "inm-regularizacion": "Erregularizazioa eta bide legalak",
+  "inm-asilo": "Asiloa eta babesa",
+  "inm-integracion": "Integrazioa, nazionalitatea eta laguntzetarako sarbidea",
+  "seguridad-justicia": "Segurtasuna, justizia eta defentsa",
+  "seg-policia": "Herritarren segurtasuna eta polizia",
+  "seg-penal": "Zigor Kodea eta delituak",
+  "seg-justicia": "Justiziaren funtzionamendua",
+  "seg-terrorismo": "Terrorismoa eta haren biktimak",
+  "seg-independencia-judicial": "Independentzia judiziala eta Fiskaltza",
+  "seg-defensa": "Defentsa eta Indar Armatuak",
+  "seg-emergencias": "Larrialdiak eta babes zibila",
+  "seg-ciberseguridad": "Zibersegurtasuna",
+  "instituciones": "Erakundeak eta Estatu-eredua",
+  "inst-corrupcion": "Ustelkeria, gardentasuna eta osotasuna",
+  "inst-constitucion": "Konstituzioa, Koroa eta hauteskunde-sistema",
+  "inst-gobierno-parlamento": "Gobernua eta Parlamentua",
+  "inst-territorial": "Lurralde-eredua",
+  "inst-financiacion-autonomica": "Finantzaketa autonomikoa",
+  "inst-local": "Udalak eta toki-finantzaketa",
+  "inst-administracion": "Administrazio publikoa",
+  "inst-medios": "Komunikabideak",
+  "inst-ceuta-melilla": "Ceuta eta Melilla",
+  "digital": "Teknologia eta ingurune digitala",
+  "dig-ia": "Adimen artifiziala",
+  "dig-plataformas": "Plataformak, sare sozialak eta adingabeak",
+  "dig-datos": "Datuak, pribatutasuna eta burujabetza digitala",
+  "exterior": "Espainia munduan",
+  "ext-ue": "Europar Batasuna",
+  "ext-politica": "Kanpo-politika eta multilateralismoa",
+  "ext-conflictos": "Nazioarteko gatazkak",
+  "ext-cooperacion": "Garapenerako lankidetza",
+  "ext-exterior-ciudadania": "Atzerriko espainiarrak",
+  "presentacion": "Aurkezpena eta ikuspegi orokorra",
+  "pres-diagnostico": "Programaren diagnostikoa eta xedea",
+  "pres-por-anunciar": "Iragartzeko dauden neurriak"
+ },
+ "ejes": {
+  "eje-irpf": {
+   "pregunta": "Zer egin PFEZarekin?",
+   "posiciones": {
+    "bajar": "Jaistea edo kenkariak zabaltzea",
+    "subir-altas": "Errenta altuei igotzea",
+    "mantener": "Dagoen bezala mantentzea"
+   }
+  },
+  "eje-patrimonio": {
+   "pregunta": "Zer egin ondarearen eta aberastasun handien gaineko zergekin?",
+   "posiciones": {
+    "suprimir-bajar": "Kentzea edo jaistea",
+    "reforzar": "Indartzea edo igotzea"
+   }
+  },
+  "eje-herencias": {
+   "pregunta": "Zer egin oinordetza- eta dohaintza-zergarekin?",
+   "posiciones": {
+    "suprimir-bajar": "Kentzea edo jaistea",
+    "reforzar": "Indartzea edo gorantz harmonizatzea"
+   }
+  },
+  "eje-sociedades": {
+   "pregunta": "Zer egin sozietateen gaineko zergarekin?",
+   "posiciones": {
+    "bajar": "Jaistea",
+    "subir": "Igotzea edo gutxieneko eraginkor altuagoa ezartzea"
+   }
+  },
+  "eje-iva": {
+   "pregunta": "Zer egin BEZarekin?",
+   "posiciones": {
+    "bajar": "Jaistea, oro har edo produktu batzuetan",
+    "subir-lujo": "Luxuzko ondasunei igotzea edo tasak gorantz berrantolatzea"
+   }
+  },
+  "eje-ley-vivienda": {
+   "pregunta": "Zer egin 2023ko Etxebizitza Legearekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea",
+    "mantener-ampliar": "Mantentzea, aplikatzea edo zabaltzea"
+   }
+  },
+  "eje-alquiler": {
+   "pregunta": "Alokairuaren prezioa mugatu?",
+   "posiciones": {
+    "si": "Bai, prezioak arautzea edo jaistea",
+    "no": "Ez, eskaintza handiagoa eta segurtasun juridikoa"
+   }
+  },
+  "eje-okupacion": {
+   "pregunta": "Nola jorratu okupazioa eta etxegabetzeak?",
+   "posiciones": {
+    "desalojo-rapido": "Kanporatze azkarra eta zigor gehiago",
+    "proteger-vulnerables": "Pertsona zaurgarrien etxegabetzeak geldiaraztea"
+   }
+  },
+  "eje-smi": {
+   "pregunta": "Gutxieneko soldata igotzen jarraitu?",
+   "posiciones": {
+    "subir": "Igotzea edo legez indartzea",
+    "contener": "Ez, mugatzea edo akordio bidez finkatzea"
+   }
+  },
+  "eje-jornada": {
+   "pregunta": "Lanaldia legez murriztu?",
+   "posiciones": {
+    "reducir": "Bai, soldata jaitsi gabe murriztea",
+    "no": "Ez legez"
+   }
+  },
+  "eje-reforma-laboral": {
+   "pregunta": "Zer egin lan-erreformarekin eta kaleratzearekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea",
+    "mantener-profundizar": "Kaleratzearen eta prekarietatearen aurkako babesa zabaltzea"
+   }
+  },
+  "eje-nuclear": {
+   "pregunta": "Zer egin zentral nuklearrekin?",
+   "posiciones": {
+    "mantener": "Mantentzea edo haien bizitza luzatzea",
+    "cerrar": "Egutegiaren arabera ixtea"
+   }
+  },
+  "eje-agua": {
+   "pregunta": "Ur-transferentziak eta arroen arteko interkonexioa?",
+   "posiciones": {
+    "si": "Bai, plan hidrologiko bat arroen arteko interkonexioarekin",
+    "no": "Ez: eskariaren kudeaketa, ura ondasun publiko gisa"
+   }
+  },
+  "eje-gestion-sanitaria": {
+   "pregunta": "Osasun-kudeaketa publikoa ala lankidetza pribatua?",
+   "posiciones": {
+    "publica": "Kudeaketa publiko zuzena lehenestea",
+    "colaboracion": "Kudeaketa edo lankidetza pribatuaz baliatzea"
+   }
+  },
+  "eje-regularizacion": {
+   "pregunta": "Egoera irregularrean dauden etorkinak erregularizatu?",
+   "posiciones": {
+    "si": "Bai, erregularizazioak edo bide egonkorrak",
+    "no": "Ez, debekatzea eta kanporatzea"
+   }
+  },
+  "eje-violencia-genero": {
+   "pregunta": "Zer egin genero-indarkeriari buruzko legeekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea edo ordeztea",
+    "mantener-reforzar": "Mantentzea edo indartzea"
+   }
+  },
+  "eje-aborto": {
+   "pregunta": "Zer egin abortatzeko eskubidearekin?",
+   "posiciones": {
+    "blindar": "Blindatzea edo zabaltzea",
+    "restringir": "Murriztea edo alternatibak sustatzea"
+   }
+  },
+  "eje-trans": {
+   "pregunta": "Zer egin Trans Legearekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea edo erreformatzea",
+    "desplegar": "Garatzea edo zabaltzea"
+   }
+  },
+  "eje-memoria": {
+   "pregunta": "Zer egin Memoria Demokratikoaren Legearekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea",
+    "ampliar": "Mantentzea edo zabaltzea"
+   }
+  },
+  "eje-territorial": {
+   "pregunta": "Zer lurralde-eredurantz?",
+   "posiciones": {
+    "recentralizar": "Deszentralizazioa geldiaraztea edo Estatuaren eskumenak blindatzea",
+    "autonomico": "Estatu autonomikoa mantentzea eta hobetzea",
+    "federal": "Estatu federala, konfederala edo plurinazionala",
+    "autodeterminacion": "Erabakitzeko eskubidea, autodeterminazioa edo independentzia"
+   }
+  },
+  "eje-jefatura": {
+   "pregunta": "Monarkia ala errepublika?",
+   "posiciones": {
+    "monarquia": "Monarkia edo Koroa defendatzea",
+    "republica": "Errepublika baterantz aurrera egitea"
+   }
+  },
+  "eje-defensa": {
+   "pregunta": "Defentsan gastu gehiago?",
+   "posiciones": {
+    "aumentar": "Handitzea",
+    "contener": "Mugatzea edo giza segurtasuna lehenestea"
+   }
+  },
+  "eje-cgpj": {
+   "pregunta": "Nork aukeratzen ditu BJKNko kide judizialak?",
+   "posiciones": {
+    "jueces": "Epaileek aukeratzea kide judizialak",
+    "parlamento": "Parlamentu bidezko hautaketa mantentzea",
+    "ciudadania": "Herritarrek bozketa bidez aukeratzea"
+   }
+  },
+  "eje-lengua": {
+   "pregunta": "Zer hizkuntza eskolan?",
+   "posiciones": {
+    "espanol": "Espainiera hizkuntza beheikular gisa bermatzea",
+    "cooficiales": "Hizkuntza koofizialak eta murgiltzea babestea"
+   }
+  },
+  "eje-financiacion-autonomica": {
+   "pregunta": "Autonomia-erkidegoen zorraren zati bat barkatu?",
+   "posiciones": {
+    "si": "Bai, barkatzea",
+    "no": "Ez, barkamena baztertzea"
+   }
+  },
+  "eje-capital": {
+   "pregunta": "Nola zergapetu behar dira kapitalaren errentak?",
+   "posiciones": {
+    "igualar-subir": "Igotzea edo lanaren errentekin berdintzea",
+    "bajar": "Jaistea edo aurrezkiari abantaila fiskalak ematea"
+   }
+  },
+  "eje-amnistia": {
+   "pregunta": "Zer egin Amnistia Legearekin?",
+   "posiciones": {
+    "derogar": "Indargabetzea edo deuseztatzea",
+    "defender": "Defendatzea"
+   }
+  },
+  "eje-sedicion": {
+   "pregunta": "Sedizio-delitua berreskuratu?",
+   "posiciones": {
+    "si": "Bai, berreskuratzea edo delitu horiek gogortzea",
+    "no": "Ez, edo iritzi-delituak despenalizatzea"
+   }
+  },
+  "eje-mordaza": {
+   "pregunta": "Zer egin Herritarren Segurtasunerako Legearekin («mozal legea»)?",
+   "posiciones": {
+    "derogar-sustituir": "Indargabetzea edo ordeztea",
+    "mantener": "Mantentzea edo indartzea"
+   }
+  },
+  "eje-prioridad-nacional": {
+   "pregunta": "Espainiarrentzako lehentasuna laguntzetan eta zerbitzuetan?",
+   "posiciones": {
+    "si": "Bai: lehentasun nazionala edo sarbiderako baldintza gehiago",
+    "no": "Ez: sarbide-berdintasuna"
+   }
+  },
+  "eje-burka": {
+   "pregunta": "Burka eta nikaba debekatu espazio publikoetan?",
+   "posiciones": {
+    "si": "Bai, debekatzea",
+    "no": "Ez"
+   }
+  },
+  "eje-clima-ritmo": {
+   "pregunta": "Zer erritmo trantsizio klimatikorako?",
+   "posiciones": {
+    "acelerar": "Helburuak mantentzea edo bizkortzea",
+    "frenar": "Geldiaraztea edo Itun Berdea eta 2030 Agenda atzera botatzea"
+   }
+  },
+  "eje-tauromaquia": {
+   "pregunta": "Tauromakia babestu?",
+   "posiciones": {
+    "proteger": "Bai, ondare gisa babestea",
+    "retirar": "Ez, babesa edo finantzaketa kentzea"
+   }
+  },
+  "eje-prostitucion": {
+   "pregunta": "Zer egin prostituzioarekin?",
+   "posiciones": {
+    "abolir": "Abolitzea",
+    "derechos": "Prostituzioan aritzen direnei eskubideak aitortzea"
+   }
+  },
+  "eje-eutanasia": {
+   "pregunta": "Eutanasia ala zainketa aringarriak?",
+   "posiciones": {
+    "mantener": "Mantentzea edo bermatzea",
+    "derogar": "Zainketa aringarriak azpimarratzea"
+   }
+  },
+  "eje-concertada": {
+   "pregunta": "Zer egin itunpeko eskolarekin?",
+   "posiciones": {
+    "apoyar": "Babestea edo ikastetxea aukeratzeko askatasuna bermatzea",
+    "reducir": "Haren finantzaketa murriztea eta publikoa lehenestea"
+   }
+  },
+  "eje-lomloe": {
+   "pregunta": "Zer egin indarrean dagoen hezkuntza-legearekin (LOMLOE)?",
+   "posiciones": {
+    "derogar": "Indargabetzea edo ordeztea",
+    "mantener": "Mantentzea edo garatzea"
+   }
+  },
+  "eje-jubilacion": {
+   "pregunta": "Zer egin erretiro-adinarekin?",
+   "posiciones": {
+    "adelantar": "Aurreratzea edo beherantz malgutzea",
+    "mantener-retrasar": "Mantentzea edo atzeratzea sustatzea"
+   }
+  },
+  "eje-voto16": {
+   "pregunta": "16 urterekin botoa eman?",
+   "posiciones": {
+    "si": "Bai",
+    "no": "Ez"
+   }
+  },
+  "eje-mercosur": {
+   "pregunta": "Zer egin EB-Mercosur akordioarekin?",
+   "posiciones": {
+    "rechazar": "Baztertzea edo ispilu-klausulak eskatzea",
+    "apoyar": "Babestea",
+    "salvaguardas": "Babes-neurriekin eta kontrolarekin aplikatzea"
+   }
+  },
+  "eje-otan": {
+   "pregunta": "NATOn jarraitu?",
+   "posiciones": {
+    "seguir": "NATOn jarraitzea",
+    "salir": "NATOtik ateratzea edo baseak ixtea"
+   }
+  },
+  "eje-ppr": {
+   "pregunta": "Zer egin espetxe-zigor iraunkor berrikusgarriarekin?",
+   "posiciones": {
+    "mantener-ampliar": "Mantentzea edo zabaltzea",
+    "derogar": "Indargabetzea"
+   }
+  },
+  "eje-gestacion": {
+   "pregunta": "Zer egin subrogazio bidezko haurdunaldiarekin?",
+   "posiciones": {
+    "prohibir": "Debekatzea eta jazartzea",
+    "regular": "Arautzea"
+   }
+  },
+  "eje-cie": {
+   "pregunta": "Zer egin AIZekin (atzerritarrak barneratzeko zentroekin)?",
+   "posiciones": {
+    "cerrar": "Ixtea",
+    "mantener-ampliar": "Mantentzea edo zabaltzea"
+   }
+  },
+  "eje-cannabis": {
+   "pregunta": "Kanabisa arautu?",
+   "posiciones": {
+    "uso-adulto": "Helduen erabilera legeztatzea edo arautzea",
+    "medicinal": "Erabilera medikoa arautzea",
+    "prohibir": "Debekua mantentzea"
+   }
+  },
+  "eje-renta-basica": {
+   "pregunta": "Oinarrizko errenta unibertsala ezarri?",
+   "posiciones": {
+    "si": "Bai, oinarrizko errenta unibertsal bat",
+    "no": "Ez, baldintzapeko laguntzak soilik"
+   }
+  },
+  "eje-ley-electoral": {
+   "pregunta": "Hauteskunde-legea aldatu?",
+   "posiciones": {
+    "proporcional": "Proportzionalagoa egitea",
+    "lista-mas-votada": "Boto gehien dituen zerrendak gobernatzea"
+   }
+  },
+  "eje-listas": {
+   "pregunta": "Hauteskunde-zerrenda irekiak?",
+   "posiciones": {
+    "si": "Bai, zerrenda irekiak edo desblokeatuak",
+    "no": "Zerrenda itxiak mantentzea"
+   }
+  },
+  "eje-mandatos": {
+   "pregunta": "Kargu publikoen agintaldiak mugatu?",
+   "posiciones": {
+    "si": "Bai, mugatzea",
+    "no": "Ez mugatzea"
+   }
+  },
+  "eje-santa-sede": {
+   "pregunta": "Zer egin Egoitza Santuarekiko akordioekin?",
+   "posiciones": {
+    "derogar": "Salatzea edo indargabetzea",
+    "mantener": "Mantentzea"
+   }
+  }
+ },
+ "fuentes": {
+  "fa": "ofiziala (frenteamplio.info)",
+  "psoe": "Demócratak argitaratutako kopia (PSOEren webgunea ez zegoen eskuragarri)",
+  "pp": "ofiziala (pp.es)",
+  "vox": "ofiziala (voxespana.es)",
+  "compromis": "Interneteko artxiboko kopia (Wayback Machine), 2026-11-16koa; frontvalencia.org-eko jatorrizkoa ez dago eskuragarri jada",
+  "salf": "ofiziala (seacabolafiesta.com)",
+  "pacma": "ofiziala (pacma.es)",
+  "fo": "ofiziala (frenteobrero.es); bere programa politiko orokorra da, dokumentuak ez du 29N aipatzen",
+  "mundo": "ofiziala (porunmundomasjusto.es)",
+  "fe": "ofiziala (falange.es)",
+  "pcte": "ofiziala (pcte.es); «Programa de lucha»: testuak berak dio ez dela hauteskunde-programa bat. Bertsio bat dago valentzieraz, eduki berarekin",
+  "autonomos": "ofiziala (partidoautonomos.es)",
+  "podemos": "democrata.es-eko kopia; programa ez dago alderdiaren inongo webgunetan argitaratuta",
+  "adelante": "ofiziala (adelanteandalucia.org)",
+  "bng": "ofiziala (bng.gal); 2026-11-12ko bertsioa",
+  "erc": "ofiziala (esquerrarepublicana.cat)",
+  "cnv": "ofiziala (convergents.org); 2025eko azaroko PDFa",
+  "pnv": "ofiziala (eaj-pnv.eus); euskaraz ere bai",
+  "bildu": "ofiziala (ehbildu.eus); euskaraz ere bai",
+  "teruel": "ofiziala (teruelexiste.info)",
+  "pfac": "ofiziala (feministasalcongreso.es); 10 orrialdeko laburpen bat ere badago",
+  "ph": "ofiziala (partidohumanista.es)",
+  "nex": "ofiziala (nuevoext.es)",
+  "ixlg": "ofiziala (iniciativaporlagomera.org); Senaturako programa",
+  "soria": "ofiziala (soriaya.org); orrialde bateko kartel bat",
+  "d21": "ofiziala (democracia21.es)",
+  "comuns": "ofiziala (comuns.cat); Frente Amplioren programa Katalunian, berezkoa eta katalanez",
+  "junts": "ofiziala (tualcentre.cat), web-orri gisa soilik argitaratua; PDFa Programas 29N-k sortu du hartatik abiatuta"
+ }
+}

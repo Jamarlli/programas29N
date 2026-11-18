@@ -1,0 +1,713 @@
+{
+ "ui": {
+  "No se han podido cargar los programas": "No s'han pogut carregar els programes",
+  "Falta el archivo de datos o está dañado. Recarga la página.": "Falta el fitxer de dades o està danyat. Recarrega la pàgina.",
+  "castellano": "castellà",
+  "catalán": "català",
+  "valenciano": "valencià",
+  "gallego": "gallec",
+  "euskera": "basc",
+  "{n} %": "{n} %",
+  "Comparar": "Comparar",
+  "Ningún partido": "Cap partit",
+  "Medida {n}": "Mesura {n}",
+  "Ver en su programa": "Veure-ho en el seu programa",
+  "PDF, p. {n}": "PDF, p. {n}",
+  "Página sin localizar": "Pàgina sense localitzar",
+  "Traducción automática": "Traducció automàtica",
+  "Ver el original": "Veure l'original",
+  "Tema:": "Tema:",
+  "Sin titular": "Sense titular",
+  "p. {n}": "p. {n}",
+  "Su programa no toma una postura explícita.": "El seu programa no pren una postura explícita.",
+  "Todo lo que dicen sobre «{x}»": "Tot el que diuen sobre «{x}»",
+  "Sin postura explícita: {x}": "Sense postura explícita: {x}",
+  "Ver la cita de cada partido": "Veure la cita de cada partit",
+  "Ocultar las citas": "Amagar les cites",
+  "La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.": "La xifra gran és el nombre d'extractes. El percentatge xicotet diu quina part del seu programa dedica cada partit al tema, per a comparar programes d'extensions molt distintes. La barra reparteix eixos percentatges entre els partits de la fila, que entre totes sumen el 100 %: la més llarga és la del partit que més pes li dona al tema dins del seu programa. Polsa el nom d'un partit per a ordenar pel seu percentatge.",
+  "Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos": "Extractes de cada programa per tema, percentatge que suposen sobre tots els extractes del partit i repartiment d'eixos percentatges entre els partits",
+  "Tema": "Tema",
+  "{p}: {n}, el {q} de su programa; en la barra, el {b} del peso que le dan al tema los partidos": "{p}: {n}, el {q} del seu programa; en la barra, el {b} del pes que li donen al tema els partits",
+  "extractos": "extractes",
+  "de su programa": "del seu programa",
+  "Pendientes de clasificar": "Pendents de classificar",
+  "Programa completo": "Programa complet",
+  "Qué proponen los partidos para el 29N": "Què proposen els partits per al 29N",
+  "Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href=\"#/\" data-salto=\"h-temas\">cada tema</a> y <a href=\"#/choques\">dónde chocan</a> entre sí. No es lo que \"dijo\" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.": "Votar és un dret però també una responsabilitat, i hem de fer-ho de la manera més conscient i informada possible. No obstant això, els programes electorals són moooolt llargs, i quasi ningú no té temps de llegir-los sencers. Així que ací els tens ordenats perquè veges què proposa cada partit sobre <a href=\"#/\" data-salto=\"h-temas\">cada tema</a> i <a href=\"#/choques\">on xoquen</a> entre si. No és el que \"va dir\" un representant vés a saber on, sinó <strong>el que posa en el seu programa electoral</strong>.",
+  "Elige un tema": "Tria un tema",
+  "{a} temas y {b} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.": "{a} temes i {b} subtemes. Dins de cada tema veuràs primer on xoquen els partits i després tot el que diu cadascun.",
+  "Dónde chocan": "On xoquen",
+  "Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.": "Preguntes en què els programes diuen coses oposades. Cada sigla està al costat de la postura que defén el seu partit; polsa una pregunta per a llegir les cites.",
+  "Ver las {n} preguntas": "Veure les {n} preguntes",
+  "Ningún extracto clasificado en este subtema.": "Cap extracte classificat en este subtema.",
+  "Lo trata también en otros subtemas": "També el tracta en altres subtemes",
+  "Partido": "Partit",
+  "Lo que separa a los partidos en {x}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.": "El que separa els partits en {x}. Cada sigla està al costat de la postura que defén el seu programa; desplega les cites per a llegir el que diu cadascun.",
+  "Secciones de {x}": "Seccions de {x}",
+  "En este tema": "En este tema",
+  "Otros temas": "Altres temes",
+  "Estás en": "Estàs en",
+  "Temas": "Temes",
+  "Secciones": "Seccions",
+  "Resumen": "Resum",
+  "Texto completo": "Text complet",
+  "Cómo se muestran los extractos": "Com es mostren els extractes",
+  "Los titulares son nuestros; el texto es el del programa, traducido automáticamente si está en otro idioma.": "Els titulars són nostres; el text és el del programa, traduït automàticament si està en un altre idioma.",
+  "Anterior": "Anterior",
+  "Siguiente": "Següent",
+  "Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.": "Extractes que encara no tenen tema assignat. Continuen estant en el programa complet de cada partit.",
+  "Temas con preguntas": "Temes amb preguntes",
+  "Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.": "Un partit apareix en una postura només si el seu programa ho diu de manera explícita; davall de cada pregunta hi ha la seua cita literal, amb enllaç a la pàgina del seu programa.",
+  "Todo el tema": "Tot el tema",
+  "Sin postura explícita de ningún partido: {x}": "Sense postura explícita de cap partit: {x}",
+  "Programas completos": "Programes complets",
+  "Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.": "Cada programa sencer, en el seu orde original i amb els seus títols. Ací es pot comprovar que no hi falta res. Els que no estàs comparant s'afigen des d'«Afegir partits», a dalt.",
+  "Todos los PDF": "Tots els PDF",
+  "Todos en Markdown": "Tots en Markdown",
+  "Leer el programa": "Llegir el programa",
+  "Web original": "Web original",
+  "PDF original": "PDF original",
+  "Índice del programa": "Índex del programa",
+  "Índice": "Índex",
+  "Programas": "Programes",
+  "Candidatura": "Candidatura",
+  "Fuente": "Font",
+  "Página web": "Pàgina web",
+  "descargado el {x}": "descarregat el {x}",
+  "Contenido": "Contingut",
+  "Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.": "És tot el text del programa de la web; només s'ha llevat l'avís inicial del PDF generat.",
+  "Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.": "És tot el text del PDF; només s'han llevat l'índex i les capçaleres de pàgina.",
+  "Idioma": "Idioma",
+  "El programa original está en {x}. Aquí lo lees en traducción automática; cada extracto enlaza a su texto original.": "El programa original està en {x}. Ací el lliges en traducció automàtica; cada extracte enllaça amb el seu text original.",
+  "Mostrar {a} más de {b}": "Mostrar {a} més de {b}",
+  "alquiler, pensiones, sanidad, inmigración, impuestos, educación, energía, agua, igualdad, autónomos, okupación, despoblación": "lloguer, pensions, sanitat, immigració, impostos, educació, energia, aigua, igualtat, autònoms, ocupació il·legal, despoblament",
+  "Buscar en los programas": "Buscar en els programes",
+  "Una o varias palabras": "Una o diverses paraules",
+  "Buscar": "Buscar",
+  "Escribe al menos una palabra de dos letras.": "Escriu almenys una paraula de dues lletres.",
+  "Por ejemplo": "Per exemple",
+  "todas estas palabras": "totes estes paraules",
+  "Resultados de la búsqueda": "Resultats de la busca",
+  "Ningún extracto contiene {q}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».": "Cap extracte no conté {q}. Prova amb menys paraules o amb una altra forma, per exemple «lloguer» en compte de «lloguers».",
+  "Su programa no contiene esta búsqueda.": "El seu programa no conté esta busca.",
+  "Esta página no existe": "Esta pàgina no existix",
+  "Volver a los temas": "Tornar als temes",
+  "Subrayada, la cita de «{x}»": "Subratllada, la cita de «{x}»",
+  "Subrayado, el texto que buscabas": "Subratllat, el text que buscaves",
+  "Volver": "Tornar",
+  "Fuentes: los {n} programas oficiales": "Fonts: els {n} programes oficials",
+  "Datos del {x}.": "Dades del {x}.",
+  "¿Has visto un error o quieres comentar algo?": "Has vist un error o vols comentar alguna cosa?",
+  "Asunto": "Assumpte",
+  "Tu correo": "El teu correu",
+  "(opcional, para poder responderte)": "(opcional, per a poder respondre't)",
+  "Mensaje": "Missatge",
+  "Enviar": "Enviar",
+  "Escribe un asunto y un mensaje.": "Escriu un assumpte i un missatge.",
+  "Revisa el correo: no parece válido.": "Revisa el correu: no pareix vàlid.",
+  "Enviando…": "S'està enviant…",
+  "Enviado. Gracias.": "Enviat. Gràcies.",
+  "No se ha podido enviar. Inténtalo de nuevo en un rato.": "No s'ha pogut enviar. Torna-ho a provar d'ací a una estona.",
+  "Aún no está disponible.": "Encara no està disponible.",
+  "{a} y {b}": "{a} i {b}",
+  "Toda España": "Tota Espanya",
+  "Añadir": "Afegir",
+  "Añadido": "Afegit",
+  "No se ha encontrado su programa.": "No s'ha trobat el seu programa.",
+  "Añadir {x}": "Afegir {x}",
+  "Añadir los {n} que faltan": "Afegir els {n} que falten",
+  "Ya comparas todos": "Ja els compares tots",
+  "Comparar toda la circunscripción": "Comparar tota la circumscripció",
+  "Ningún partido coincide.": "Cap partit no coincidix.",
+  "Comparas": "Compares",
+  "quitar de la comparación": "llevar de la comparació",
+  "Restablecer": "Restablir",
+  "Mapa de circunscripciones": "Mapa de circumscripcions",
+  "Ver toda España": "Veure tota Espanya",
+  "Ver el partido": "Veure el partit",
+  "Ver los {n} partidos": "Veure els {n} partits",
+  "Añadir partidos": "Afegir partits",
+  "Cerrar": "Tancar",
+  "Partidos": "Partits",
+  "Buscar por nombre o sigla": "Buscar per nom o sigla",
+  "Filtrar por circunscripción": "Filtrar per circumscripció",
+  "Hecho": "Fet",
+  "Añadir partidos (comparas {x})": "Afegir partits (compares {x})",
+  "Idioma: {x}. Cambiar de idioma": "Idioma: {x}. Canviar d'idioma",
+  "Programa de {x}": "Programa de {x}",
+  "{n} subtema": "{n} subtema",
+  "{n} subtemas": "{n} subtemes",
+  "{n} extracto": "{n} extracte",
+  "{n} extractos": "{n} extractes",
+  "{n} pág.": "{n} pàg.",
+  "{n} págs.": "{n} pàg.",
+  "{n} pregunta": "{n} pregunta",
+  "{n} preguntas": "{n} preguntes",
+  "{n} pregunta en la que chocan": "{n} pregunta en què xoquen",
+  "{n} preguntas en las que chocan": "{n} preguntes en què xoquen",
+  "{n} pregunta en la que los programas toman posturas distintas.": "{n} pregunta en què els programes prenen postures distintes.",
+  "{n} preguntas en las que los programas toman posturas distintas.": "{n} preguntes en què els programes prenen postures distintes.",
+  "<b>{n}</b> página": "<b>{n}</b> pàgina",
+  "<b>{n}</b> páginas": "<b>{n}</b> pàgines",
+  "<b>{n}</b> extracto": "<b>{n}</b> extracte",
+  "<b>{n}</b> extractos": "<b>{n}</b> extractes",
+  "<b>{n}</b> palabra": "<b>{n}</b> paraula",
+  "<b>{n}</b> palabras": "<b>{n}</b> paraules",
+  "PDF generado de {n} página": "PDF generat d'{n} pàgina",
+  "PDF generado de {n} páginas": "PDF generat de {n} pàgines",
+  "PDF de {n} página": "PDF d'{n} pàgina",
+  "PDF de {n} páginas": "PDF de {n} pàgines",
+  "{n} palabra": "{n} paraula",
+  "{n} palabras": "{n} paraules",
+  "Busca en el texto del programa que comparas.": "Busca en el text del programa que compares.",
+  "Busca en el texto de los {n} programas que comparas.": "Busca en el text dels {n} programes que compares.",
+  "{n} extracto contiene {q}.": "{n} extracte conté {q}.",
+  "{n} extractos contienen {q}.": "{n} extractes contenen {q}.",
+  "y {n} circunscripción más": "i {n} circumscripció més",
+  "y {n} circunscripciones más": "i {n} circumscripcions més",
+  "{n} circunscripción": "{n} circumscripció",
+  "{n} circunscripciones": "{n} circumscripcions",
+  "{n} partido en {x}": "{n} partit en {x}",
+  "{n} partidos en {x}": "{n} partits en {x}",
+  "{n} partido": "{n} partit",
+  "{n} partidos": "{n} partits",
+  "Traducción automática y revisada del programa original en {x}, hecha por Programas 29N. El original: {u}": "Traducció automàtica i revisada del programa original en {x}, feta per Programas 29N. L'original: {u}"
+ },
+ "html": {
+  "Qué propone cada partido sobre cada tema y dónde chocan entre sí. No es lo que &quot;dijo&quot; un representante nosedónde, sino lo que pone en su programa electoral.": "Què proposa cada partit sobre cada tema i on xoquen entre si. No és el que &quot;va dir&quot; un representant vés a saber on, sinó el que posa en el seu programa electoral.",
+  "Qué proponen los partidos para el 29N": "Què proposen els partits per al 29N",
+  "Programas 29N: qué proponen los partidos para el 29N, con un ejemplo de «Dónde chocan» sobre el precio del alquiler.": "Programas 29N: què proposen els partits per al 29N, amb un exemple d'«On xoquen» sobre el preu del lloguer.",
+  "Saltar al contenido": "Saltar al contingut",
+  "Programas 29N, inicio": "Programas 29N, inici",
+  "Generales · 29 nov 2026": "Generals · 29 nov. 2026",
+  "Secciones": "Seccions",
+  "Temas": "Temes",
+  "Dónde chocan": "On xoquen",
+  "Buscar": "Buscar",
+  "Programas": "Programes",
+  "Buscar en los programas": "Buscar en els programes",
+  "Buscar en los programas…": "Buscar en els programes…",
+  "Añadir partidos": "Afegir partits",
+  "Partidos": "Partits",
+  "Cargando los programas…": "S'estan carregant els programes…",
+  "Esta web necesita JavaScript para mostrar los programas.": "Esta web necessita JavaScript per a mostrar els programes."
+ },
+ "temas": {
+  "vivienda": "Habitatge",
+  "vivienda-publica": "Habitatge públic i social",
+  "vivienda-alquiler": "Lloguer",
+  "vivienda-compra": "Compra i accés al primer habitatge",
+  "vivienda-especulacion": "Especulació, fons i habitatge turístic",
+  "vivienda-okupacion-desahucios": "Ocupació il·legal i desnonaments",
+  "vivienda-suelo-construccion": "Sòl, construcció i rehabilitació",
+  "vivienda-fiscalidad": "Impostos sobre l'habitatge",
+  "vivienda-derecho": "Dret a l'habitatge i llei d'habitatge",
+  "impuestos": "Impostos i comptes públics",
+  "imp-irpf": "IRPF i impostos al treball",
+  "imp-capital-patrimonio": "Capital, patrimoni i herències",
+  "imp-sociedades": "Impost de Societats i grans empreses",
+  "imp-iva-indirectos": "IVA i impostos indirectes",
+  "imp-verdes": "Fiscalitat verda i del luxe",
+  "imp-fraude": "Frau fiscal i paradisos fiscals",
+  "imp-gasto-deuda": "Despesa pública, dèficit i deute",
+  "imp-modelo": "Model fiscal en general",
+  "trabajo": "Treball, salaris i pensions",
+  "trab-salarios": "Salari mínim i salaris",
+  "trab-jornada": "Jornada i temps de treball",
+  "trab-contratos-despido": "Contractes, acomiadament i reforma laboral",
+  "trab-empleo": "Atur i polítiques d'ocupació",
+  "trab-pensiones": "Pensions i Seguretat Social",
+  "trab-sindicatos": "Negociació col·lectiva i participació",
+  "trab-empleo-publico": "Ocupació pública",
+  "economia": "Economia, empresa i indústria",
+  "eco-industria": "Política industrial",
+  "eco-autonomos-pymes": "Autònoms i pimes",
+  "eco-burocracia": "Burocràcia i regulació",
+  "eco-innovacion": "Ciència, R+D i innovació",
+  "eco-publico-banca": "Empreses públiques, banca i competència",
+  "eco-consumo-precios": "Consum i cost de la vida",
+  "eco-turismo-comercio": "Turisme, comerç i sectors",
+  "eco-modelo": "Creixement i productivitat",
+  "energia-medioambiente": "Energia, clima i medi ambient",
+  "ener-modelo": "Model energètic",
+  "clima": "Canvi climàtic i emissions",
+  "agua": "Aigua",
+  "naturaleza": "Biodiversitat i espais naturals",
+  "residuos": "Residus i economia circular",
+  "animales": "Benestar animal",
+  "rural": "Camp i món rural",
+  "rural-agro": "Agricultura, ramaderia i pesca",
+  "rural-despoblacion": "Despoblament i serveis en el medi rural",
+  "rural-tradiciones": "Caça, tauromàquia i tradicions rurals",
+  "infraestructuras": "Infraestructures i transport",
+  "infra-tren": "Ferrocarril",
+  "infra-carreteras": "Carreteres i seguretat viària",
+  "infra-transporte-publico": "Transport públic i mobilitat",
+  "infra-corredores-puertos": "Corredors, ports i aeroports",
+  "infra-inversion-territorial": "Inversió de l'Estat per territoris",
+  "infra-digital": "Telecomunicacions i connectivitat",
+  "sanidad": "Sanitat",
+  "san-listas-espera": "Llistes d'espera i accés",
+  "san-modelo": "Model sanitari i finançament",
+  "san-primaria": "Atenció primària",
+  "san-profesionales": "Professionals sanitaris",
+  "san-mental": "Salut mental",
+  "san-prestaciones": "Noves prestacions",
+  "san-publica-prevencion": "Salut pública i prevenció",
+  "san-farmacia": "Medicaments i indústria farmacèutica",
+  "san-sexual-reproductiva": "Salut sexual i reproductiva",
+  "educacion-cultura": "Educació, cultura i esport",
+  "edu-modelo": "Model educatiu i finançament",
+  "edu-infantil": "Educació de 0 a 3 anys",
+  "edu-escuela": "Escola: primària, ESO i batxillerat",
+  "edu-lenguas": "Llengües",
+  "edu-profesorado": "Professorat",
+  "edu-becas": "Beques i equitat",
+  "edu-fp": "Formació Professional",
+  "edu-universidad": "Universitat",
+  "cultura": "Cultura",
+  "deporte": "Esport",
+  "familias-social": "Famílies, cures i protecció social",
+  "fam-natalidad": "Natalitat i famílies",
+  "fam-infancia": "Infància i adolescència",
+  "fam-juventud": "Joventut",
+  "fam-mayores": "Persones majors",
+  "fam-dependencia": "Dependència i cures",
+  "fam-discapacidad": "Discapacitat",
+  "fam-pobreza": "Pobresa i Ingrés Mínim Vital",
+  "igualdad-derechos": "Igualtat i drets civils",
+  "igu-mujeres": "Igualtat entre dones i hòmens",
+  "igu-violencia": "Violència contra les dones",
+  "igu-lgtbi": "Drets LGTBI i persones trans",
+  "igu-racismo": "Racisme i igualtat de tracte",
+  "igu-vida": "Avortament, eutanàsia i vida",
+  "igu-libertades": "Llibertats públiques i protesta",
+  "igu-laicidad": "Religió i laïcitat",
+  "igu-memoria": "Memòria democràtica",
+  "inmigracion": "Immigració",
+  "inm-fronteras": "Fronteres i immigració irregular",
+  "inm-regularizacion": "Regularització i vies legals",
+  "inm-asilo": "Asil i refugi",
+  "inm-integracion": "Integració, nacionalitat i accés a ajudes",
+  "seguridad-justicia": "Seguretat, justícia i defensa",
+  "seg-policia": "Seguretat ciutadana i policia",
+  "seg-penal": "Codi Penal i delictes",
+  "seg-justicia": "Funcionament de la justícia",
+  "seg-terrorismo": "Terrorisme i les seues víctimes",
+  "seg-independencia-judicial": "Independència judicial i Fiscalia",
+  "seg-defensa": "Defensa i Forces Armades",
+  "seg-emergencias": "Emergències i protecció civil",
+  "seg-ciberseguridad": "Ciberseguretat",
+  "instituciones": "Institucions i model d'Estat",
+  "inst-corrupcion": "Corrupció, transparència i integritat",
+  "inst-constitucion": "Constitució, Corona i sistema electoral",
+  "inst-gobierno-parlamento": "Govern i Parlament",
+  "inst-territorial": "Model territorial",
+  "inst-financiacion-autonomica": "Finançament autonòmic",
+  "inst-local": "Ajuntaments i finançament local",
+  "inst-administracion": "Administració pública",
+  "inst-medios": "Mitjans de comunicació",
+  "inst-ceuta-melilla": "Ceuta i Melilla",
+  "digital": "Tecnologia i entorn digital",
+  "dig-ia": "Intel·ligència artificial",
+  "dig-plataformas": "Plataformes, xarxes socials i menors",
+  "dig-datos": "Dades, privacitat i sobirania digital",
+  "exterior": "Espanya en el món",
+  "ext-ue": "Unió Europea",
+  "ext-politica": "Política exterior i multilateralisme",
+  "ext-conflictos": "Conflictes internacionals",
+  "ext-cooperacion": "Cooperació al desenvolupament",
+  "ext-exterior-ciudadania": "Espanyols a l'exterior",
+  "presentacion": "Presentació i visió general",
+  "pres-diagnostico": "Diagnòstic i propòsit del programa",
+  "pres-por-anunciar": "Mesures per anunciar"
+ },
+ "ejes": {
+  "eje-irpf": {
+   "pregunta": "Què fer amb l'IRPF?",
+   "posiciones": {
+    "bajar": "Baixar-lo o ampliar deduccions",
+    "subir-altas": "Pujar-lo a les rendes altes",
+    "mantener": "Mantindre'l com està"
+   }
+  },
+  "eje-patrimonio": {
+   "pregunta": "Què fer amb els impostos al patrimoni i les grans fortunes?",
+   "posiciones": {
+    "suprimir-bajar": "Suprimir-los o baixar-los",
+    "reforzar": "Reforçar-los o pujar-los"
+   }
+  },
+  "eje-herencias": {
+   "pregunta": "Què fer amb l'impost de successions i donacions?",
+   "posiciones": {
+    "suprimir-bajar": "Suprimir-lo o baixar-lo",
+    "reforzar": "Reforçar-lo o harmonitzar-lo a l'alça"
+   }
+  },
+  "eje-sociedades": {
+   "pregunta": "Què fer amb l'Impost de Societats?",
+   "posiciones": {
+    "bajar": "Baixar-lo",
+    "subir": "Pujar-lo o fixar un mínim efectiu més alt"
+   }
+  },
+  "eje-iva": {
+   "pregunta": "Què fer amb l'IVA?",
+   "posiciones": {
+    "bajar": "Baixar-lo, en general o en alguns productes",
+    "subir-lujo": "Pujar-lo als béns de luxe o reordenar tipus a l'alça"
+   }
+  },
+  "eje-ley-vivienda": {
+   "pregunta": "Què fer amb la Llei d'Habitatge de 2023?",
+   "posiciones": {
+    "derogar": "Derogar-la",
+    "mantener-ampliar": "Mantindre-la, aplicar-la o ampliar-la"
+   }
+  },
+  "eje-alquiler": {
+   "pregunta": "Limitar el preu del lloguer?",
+   "posiciones": {
+    "si": "Sí, regular o baixar preus",
+    "no": "No, més oferta i seguretat jurídica"
+   }
+  },
+  "eje-okupacion": {
+   "pregunta": "Com tractar l'ocupació il·legal i els desnonaments?",
+   "posiciones": {
+    "desalojo-rapido": "Desallotjament ràpid i més penes",
+    "proteger-vulnerables": "Frenar desnonaments de persones vulnerables"
+   }
+  },
+  "eje-smi": {
+   "pregunta": "Continuar pujant el salari mínim?",
+   "posiciones": {
+    "subir": "Pujar-lo o reforçar-lo per llei",
+    "contener": "No, contindre'l o fixar-lo per acord"
+   }
+  },
+  "eje-jornada": {
+   "pregunta": "Reduir la jornada laboral per llei?",
+   "posiciones": {
+    "reducir": "Sí, reduir-la sense baixar el sou",
+    "no": "No per llei"
+   }
+  },
+  "eje-reforma-laboral": {
+   "pregunta": "Què fer amb la reforma laboral i l'acomiadament?",
+   "posiciones": {
+    "derogar": "Derogar-la",
+    "mantener-profundizar": "Ampliar la protecció davant de l'acomiadament i la precarietat"
+   }
+  },
+  "eje-nuclear": {
+   "pregunta": "Què fer amb les centrals nuclears?",
+   "posiciones": {
+    "mantener": "Mantindre-les o allargar-ne la vida",
+    "cerrar": "Tancar-les segons el calendari"
+   }
+  },
+  "eje-agua": {
+   "pregunta": "Transvasaments i interconnexió de conques?",
+   "posiciones": {
+    "si": "Sí, un pla hidrològic amb interconnexió de conques",
+    "no": "No: gestió de la demanda, aigua com a bé públic"
+   }
+  },
+  "eje-gestion-sanitaria": {
+   "pregunta": "Gestió sanitària pública o col·laboració privada?",
+   "posiciones": {
+    "publica": "Prioritzar la gestió pública directa",
+    "colaboracion": "Comptar amb la gestió o col·laboració privada"
+   }
+  },
+  "eje-regularizacion": {
+   "pregunta": "Regularitzar immigrants en situació irregular?",
+   "posiciones": {
+    "si": "Sí, regularitzacions o vies estables",
+    "no": "No, prohibir-les i expulsar"
+   }
+  },
+  "eje-violencia-genero": {
+   "pregunta": "Què fer amb les lleis de violència de gènere?",
+   "posiciones": {
+    "derogar": "Derogar-les o substituir-les",
+    "mantener-reforzar": "Mantindre-les o reforçar-les"
+   }
+  },
+  "eje-aborto": {
+   "pregunta": "Què fer amb el dret a l'avortament?",
+   "posiciones": {
+    "blindar": "Blindar-lo o ampliar-lo",
+    "restringir": "Restringir-lo o promoure alternatives"
+   }
+  },
+  "eje-trans": {
+   "pregunta": "Què fer amb la Llei Trans?",
+   "posiciones": {
+    "derogar": "Derogar-la o reformar-la",
+    "desplegar": "Desplegar-la o ampliar-la"
+   }
+  },
+  "eje-memoria": {
+   "pregunta": "Què fer amb la Llei de Memòria Democràtica?",
+   "posiciones": {
+    "derogar": "Derogar-la",
+    "ampliar": "Mantindre-la o ampliar-la"
+   }
+  },
+  "eje-territorial": {
+   "pregunta": "Cap a quin model territorial?",
+   "posiciones": {
+    "recentralizar": "Frenar la descentralització o blindar competències de l'Estat",
+    "autonomico": "Mantindre i millorar l'Estat autonòmic",
+    "federal": "Estat federal, confederal o plurinacional",
+    "autodeterminacion": "Dret a decidir, autodeterminació o independència"
+   }
+  },
+  "eje-jefatura": {
+   "pregunta": "Monarquia o república?",
+   "posiciones": {
+    "monarquia": "Defendre la monarquia o la Corona",
+    "republica": "Avançar cap a una república"
+   }
+  },
+  "eje-defensa": {
+   "pregunta": "Més despesa en defensa?",
+   "posiciones": {
+    "aumentar": "Augmentar-la",
+    "contener": "Contindre-la o prioritzar la seguretat humana"
+   }
+  },
+  "eje-cgpj": {
+   "pregunta": "Qui elegix els vocals judicials del CGPJ?",
+   "posiciones": {
+    "jueces": "Que els jutges elegisquen els vocals judicials",
+    "parlamento": "Mantindre l'elecció parlamentària",
+    "ciudadania": "Que els elegisca la ciutadania per votació"
+   }
+  },
+  "eje-lengua": {
+   "pregunta": "Quina llengua a l'escola?",
+   "posiciones": {
+    "espanol": "Garantir l'espanyol com a llengua vehicular",
+    "cooficiales": "Protegir les llengües cooficials i la immersió"
+   }
+  },
+  "eje-financiacion-autonomica": {
+   "pregunta": "Condonar part del deute autonòmic?",
+   "posiciones": {
+    "si": "Sí, condonar-lo",
+    "no": "No, rebutjar la condonació"
+   }
+  },
+  "eje-capital": {
+   "pregunta": "Com han de tributar les rendes del capital?",
+   "posiciones": {
+    "igualar-subir": "Pujar-les o igualar-les a les del treball",
+    "bajar": "Baixar-les o donar avantatges fiscals a l'estalvi"
+   }
+  },
+  "eje-amnistia": {
+   "pregunta": "Què fer amb la Llei d'Amnistia?",
+   "posiciones": {
+    "derogar": "Derogar-la o anul·lar-la",
+    "defender": "Defendre-la"
+   }
+  },
+  "eje-sedicion": {
+   "pregunta": "Recuperar el delicte de sedició?",
+   "posiciones": {
+    "si": "Sí, recuperar-lo o endurir eixos delictes",
+    "no": "No, o despenalitzar delictes d'opinió"
+   }
+  },
+  "eje-mordaza": {
+   "pregunta": "Què fer amb la Llei de Seguretat Ciutadana («llei mordassa»)?",
+   "posiciones": {
+    "derogar-sustituir": "Derogar-la o substituir-la",
+    "mantener": "Mantindre-la o reforçar-la"
+   }
+  },
+  "eje-prioridad-nacional": {
+   "pregunta": "Prioritat per als espanyols en ajudes i serveis?",
+   "posiciones": {
+    "si": "Sí: prioritat nacional o més requisits per a accedir-hi",
+    "no": "No: igualtat d'accés"
+   }
+  },
+  "eje-burka": {
+   "pregunta": "Prohibir el burca i el nicab en espais públics?",
+   "posiciones": {
+    "si": "Sí, prohibir-los",
+    "no": "No"
+   }
+  },
+  "eje-clima-ritmo": {
+   "pregunta": "Quin ritme per a la transició climàtica?",
+   "posiciones": {
+    "acelerar": "Mantindre o accelerar els objectius",
+    "frenar": "Frenar-la o revertir el Pacte Verd i l'Agenda 2030"
+   }
+  },
+  "eje-tauromaquia": {
+   "pregunta": "Protegir la tauromàquia?",
+   "posiciones": {
+    "proteger": "Sí, protegir-la com a patrimoni",
+    "retirar": "No, retirar-li la protecció o el finançament"
+   }
+  },
+  "eje-prostitucion": {
+   "pregunta": "Què fer amb la prostitució?",
+   "posiciones": {
+    "abolir": "Abolir-la",
+    "derechos": "Reconéixer drets a qui l'exercix"
+   }
+  },
+  "eje-eutanasia": {
+   "pregunta": "Eutanàsia o cures pal·liatives?",
+   "posiciones": {
+    "mantener": "Mantindre-la o garantir-la",
+    "derogar": "Posar l'accent en les cures pal·liatives"
+   }
+  },
+  "eje-concertada": {
+   "pregunta": "Què fer amb l'escola concertada?",
+   "posiciones": {
+    "apoyar": "Donar-li suport o garantir la llibertat d'elecció de centre",
+    "reducir": "Reduir-ne el finançament i prioritzar la pública"
+   }
+  },
+  "eje-lomloe": {
+   "pregunta": "Què fer amb la llei educativa vigent (LOMLOE)?",
+   "posiciones": {
+    "derogar": "Derogar-la o substituir-la",
+    "mantener": "Mantindre-la o desenvolupar-la"
+   }
+  },
+  "eje-jubilacion": {
+   "pregunta": "Què fer amb l'edat de jubilació?",
+   "posiciones": {
+    "adelantar": "Avançar-la o flexibilitzar-la a la baixa",
+    "mantener-retrasar": "Mantindre-la o incentivar retardar-la"
+   }
+  },
+  "eje-voto16": {
+   "pregunta": "Votar als 16 anys?",
+   "posiciones": {
+    "si": "Sí",
+    "no": "No"
+   }
+  },
+  "eje-mercosur": {
+   "pregunta": "Què fer amb l'acord UE-Mercosur?",
+   "posiciones": {
+    "rechazar": "Rebutjar-lo o exigir clàusules espill",
+    "apoyar": "Donar-li suport",
+    "salvaguardas": "Aplicar-lo amb salvaguardes i control"
+   }
+  },
+  "eje-otan": {
+   "pregunta": "Seguir en l'OTAN?",
+   "posiciones": {
+    "seguir": "Seguir en l'OTAN",
+    "salir": "Eixir de l'OTAN o tancar les bases"
+   }
+  },
+  "eje-ppr": {
+   "pregunta": "Què fer amb la presó permanent revisable?",
+   "posiciones": {
+    "mantener-ampliar": "Mantindre-la o ampliar-la",
+    "derogar": "Derogar-la"
+   }
+  },
+  "eje-gestacion": {
+   "pregunta": "Què fer amb la gestació subrogada?",
+   "posiciones": {
+    "prohibir": "Prohibir-la i perseguir-la",
+    "regular": "Regular-la"
+   }
+  },
+  "eje-cie": {
+   "pregunta": "Què fer amb els CIE (centres d'internament d'estrangers)?",
+   "posiciones": {
+    "cerrar": "Tancar-los",
+    "mantener-ampliar": "Mantindre'ls o ampliar-los"
+   }
+  },
+  "eje-cannabis": {
+   "pregunta": "Regular el cànnabis?",
+   "posiciones": {
+    "uso-adulto": "Legalitzar o regular l'ús adult",
+    "medicinal": "Regular l'ús medicinal",
+    "prohibir": "Mantindre la prohibició"
+   }
+  },
+  "eje-renta-basica": {
+   "pregunta": "Implantar una renda bàsica universal?",
+   "posiciones": {
+    "si": "Sí, una renda bàsica universal",
+    "no": "No, només ajudes condicionades"
+   }
+  },
+  "eje-ley-electoral": {
+   "pregunta": "Canviar la llei electoral?",
+   "posiciones": {
+    "proporcional": "Fer-la més proporcional",
+    "lista-mas-votada": "Que governe la llista més votada"
+   }
+  },
+  "eje-listas": {
+   "pregunta": "Llistes electorals obertes?",
+   "posiciones": {
+    "si": "Sí, llistes obertes o desbloquejades",
+    "no": "Mantindre les llistes tancades"
+   }
+  },
+  "eje-mandatos": {
+   "pregunta": "Limitar els mandats dels càrrecs públics?",
+   "posiciones": {
+    "si": "Sí, limitar-los",
+    "no": "No limitar-los"
+   }
+  },
+  "eje-santa-sede": {
+   "pregunta": "Què fer amb els acords amb la Santa Seu?",
+   "posiciones": {
+    "derogar": "Denunciar-los o derogar-los",
+    "mantener": "Mantindre'ls"
+   }
+  }
+ },
+ "fuentes": {
+  "fa": "oficial (frenteamplio.info)",
+  "psoe": "còpia publicada per Demócrata (la web del PSOE no era accessible)",
+  "pp": "oficial (pp.es)",
+  "vox": "oficial (voxespana.es)",
+  "compromis": "còpia de l'arxiu d'internet (Wayback Machine) del 16-11-2026; l'original de frontvalencia.org ja no està accessible",
+  "salf": "oficial (seacabolafiesta.com)",
+  "pacma": "oficial (pacma.es)",
+  "fo": "oficial (frenteobrero.es); és el seu programa polític general, el document no esmenta el 29N",
+  "mundo": "oficial (porunmundomasjusto.es)",
+  "fe": "oficial (falange.es)",
+  "pcte": "oficial (pcte.es); «Programa de lucha»: el mateix text diu que no és un programa electoral. Hi ha versió en valencià amb el mateix contingut",
+  "autonomos": "oficial (partidoautonomos.es)",
+  "podemos": "còpia de democrata.es; el programa no està publicat en cap web del partit",
+  "adelante": "oficial (adelanteandalucia.org)",
+  "bng": "oficial (bng.gal); versió del 12-11-2026",
+  "erc": "oficial (esquerrarepublicana.cat)",
+  "cnv": "oficial (convergents.org); PDF de novembre de 2025",
+  "pnv": "oficial (eaj-pnv.eus); també en basc",
+  "bildu": "oficial (ehbildu.eus); també en basc",
+  "teruel": "oficial (teruelexiste.info)",
+  "pfac": "oficial (feministasalcongreso.es); hi ha també un resum de 10 pàgines",
+  "ph": "oficial (partidohumanista.es)",
+  "nex": "oficial (nuevoext.es)",
+  "ixlg": "oficial (iniciativaporlagomera.org); programa al Senat",
+  "soria": "oficial (soriaya.org); un cartell d'una pàgina",
+  "d21": "oficial (democracia21.es)",
+  "comuns": "oficial (comuns.cat); el programa del Frente Amplio a Catalunya, propi i en català",
+  "junts": "oficial (tualcentre.cat), publicat només com a pàgina web; el PDF l'ha generat Programas 29N a partir d'esta"
+ }
+}

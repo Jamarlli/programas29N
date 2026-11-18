@@ -1,0 +1,713 @@
+{
+ "ui": {
+  "No se han podido cargar los programas": "No se han podido cargar los programas",
+  "Falta el archivo de datos o está dañado. Recarga la página.": "Falta el archivo de datos o está dañado. Recarga la página.",
+  "castellano": "castellano",
+  "catalán": "catalán",
+  "valenciano": "valenciano",
+  "gallego": "gallego",
+  "euskera": "euskera",
+  "{n} %": "{n} %",
+  "Comparar": "Comparar",
+  "Ningún partido": "Ningún partido",
+  "Medida {n}": "Medida {n}",
+  "Ver en su programa": "Ver en su programa",
+  "PDF, p. {n}": "PDF, p. {n}",
+  "Página sin localizar": "Página sin localizar",
+  "Traducción automática": "Traducción automática",
+  "Ver el original": "Ver el original",
+  "Tema:": "Tema:",
+  "Sin titular": "Sin titular",
+  "p. {n}": "p. {n}",
+  "Su programa no toma una postura explícita.": "Su programa no toma una postura explícita.",
+  "Todo lo que dicen sobre «{x}»": "Todo lo que dicen sobre «{x}»",
+  "Sin postura explícita: {x}": "Sin postura explícita: {x}",
+  "Ver la cita de cada partido": "Ver la cita de cada partido",
+  "Ocultar las citas": "Ocultar las citas",
+  "La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.": "La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.",
+  "Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos": "Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos",
+  "Tema": "Tema",
+  "{p}: {n}, el {q} de su programa; en la barra, el {b} del peso que le dan al tema los partidos": "{p}: {n}, el {q} de su programa; en la barra, el {b} del peso que le dan al tema los partidos",
+  "extractos": "extractos",
+  "de su programa": "de su programa",
+  "Pendientes de clasificar": "Pendientes de clasificar",
+  "Programa completo": "Programa completo",
+  "Qué proponen los partidos para el 29N": "Qué proponen los partidos para el 29N",
+  "Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href=\"#/\" data-salto=\"h-temas\">cada tema</a> y <a href=\"#/choques\">dónde chocan</a> entre sí. No es lo que \"dijo\" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.": "Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href=\"#/\" data-salto=\"h-temas\">cada tema</a> y <a href=\"#/choques\">dónde chocan</a> entre sí. No es lo que \"dijo\" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.",
+  "Elige un tema": "Elige un tema",
+  "{a} temas y {b} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.": "{a} temas y {b} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.",
+  "Dónde chocan": "Dónde chocan",
+  "Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.": "Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.",
+  "Ver las {n} preguntas": "Ver las {n} preguntas",
+  "Ningún extracto clasificado en este subtema.": "Ningún extracto clasificado en este subtema.",
+  "Lo trata también en otros subtemas": "Lo trata también en otros subtemas",
+  "Partido": "Partido",
+  "Lo que separa a los partidos en {x}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.": "Lo que separa a los partidos en {x}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.",
+  "Secciones de {x}": "Secciones de {x}",
+  "En este tema": "En este tema",
+  "Otros temas": "Otros temas",
+  "Estás en": "Estás en",
+  "Temas": "Temas",
+  "Secciones": "Secciones",
+  "Resumen": "Resumen",
+  "Texto completo": "Texto completo",
+  "Cómo se muestran los extractos": "Cómo se muestran los extractos",
+  "Los titulares son nuestros; el texto es el del programa, traducido automáticamente si está en otro idioma.": "Los titulares son nuestros; el texto es el del programa, traducido automáticamente si está en otro idioma.",
+  "Anterior": "Anterior",
+  "Siguiente": "Siguiente",
+  "Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.": "Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.",
+  "Temas con preguntas": "Temas con preguntas",
+  "Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.": "Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.",
+  "Todo el tema": "Todo el tema",
+  "Sin postura explícita de ningún partido: {x}": "Sin postura explícita de ningún partido: {x}",
+  "Programas completos": "Programas completos",
+  "Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.": "Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.",
+  "Todos los PDF": "Todos los PDF",
+  "Todos en Markdown": "Todos en Markdown",
+  "Leer el programa": "Leer el programa",
+  "Web original": "Web original",
+  "PDF original": "PDF original",
+  "Índice del programa": "Índice del programa",
+  "Índice": "Índice",
+  "Programas": "Programas",
+  "Candidatura": "Candidatura",
+  "Fuente": "Fuente",
+  "Página web": "Página web",
+  "descargado el {x}": "descargado el {x}",
+  "Contenido": "Contenido",
+  "Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.": "Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.",
+  "Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.": "Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.",
+  "Idioma": "Idioma",
+  "El programa original está en {x}. Aquí lo lees en traducción automática; cada extracto enlaza a su texto original.": "El programa original está en {x}. Aquí lo lees en traducción automática; cada extracto enlaza a su texto original.",
+  "Mostrar {a} más de {b}": "Mostrar {a} más de {b}",
+  "alquiler, pensiones, sanidad, inmigración, impuestos, educación, energía, agua, igualdad, autónomos, okupación, despoblación": "alquiler, pensiones, sanidad, inmigración, impuestos, educación, energía, agua, igualdad, autónomos, okupación, despoblación",
+  "Buscar en los programas": "Buscar en los programas",
+  "Una o varias palabras": "Una o varias palabras",
+  "Buscar": "Buscar",
+  "Escribe al menos una palabra de dos letras.": "Escribe al menos una palabra de dos letras.",
+  "Por ejemplo": "Por ejemplo",
+  "todas estas palabras": "todas estas palabras",
+  "Resultados de la búsqueda": "Resultados de la búsqueda",
+  "Ningún extracto contiene {q}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».": "Ningún extracto contiene {q}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».",
+  "Su programa no contiene esta búsqueda.": "Su programa no contiene esta búsqueda.",
+  "Esta página no existe": "Esta página no existe",
+  "Volver a los temas": "Volver a los temas",
+  "Subrayada, la cita de «{x}»": "Subrayada, la cita de «{x}»",
+  "Subrayado, el texto que buscabas": "Subrayado, el texto que buscabas",
+  "Volver": "Volver",
+  "Fuentes: los {n} programas oficiales": "Fuentes: los {n} programas oficiales",
+  "Datos del {x}.": "Datos del {x}.",
+  "¿Has visto un error o quieres comentar algo?": "¿Has visto un error o quieres comentar algo?",
+  "Asunto": "Asunto",
+  "Tu correo": "Tu correo",
+  "(opcional, para poder responderte)": "(opcional, para poder responderte)",
+  "Mensaje": "Mensaje",
+  "Enviar": "Enviar",
+  "Escribe un asunto y un mensaje.": "Escribe un asunto y un mensaje.",
+  "Revisa el correo: no parece válido.": "Revisa el correo: no parece válido.",
+  "Enviando…": "Enviando…",
+  "Enviado. Gracias.": "Enviado. Gracias.",
+  "No se ha podido enviar. Inténtalo de nuevo en un rato.": "No se ha podido enviar. Inténtalo de nuevo en un rato.",
+  "Aún no está disponible.": "Aún no está disponible.",
+  "{a} y {b}": "{a} y {b}",
+  "Toda España": "Toda España",
+  "Añadir": "Añadir",
+  "Añadido": "Añadido",
+  "No se ha encontrado su programa.": "No se ha encontrado su programa.",
+  "Añadir {x}": "Añadir {x}",
+  "Añadir los {n} que faltan": "Añadir los {n} que faltan",
+  "Ya comparas todos": "Ya comparas todos",
+  "Comparar toda la circunscripción": "Comparar toda la circunscripción",
+  "Ningún partido coincide.": "Ningún partido coincide.",
+  "Comparas": "Comparas",
+  "quitar de la comparación": "quitar de la comparación",
+  "Restablecer": "Restablecer",
+  "Mapa de circunscripciones": "Mapa de circunscripciones",
+  "Ver toda España": "Ver toda España",
+  "Ver el partido": "Ver el partido",
+  "Ver los {n} partidos": "Ver los {n} partidos",
+  "Añadir partidos": "Añadir partidos",
+  "Cerrar": "Cerrar",
+  "Partidos": "Partidos",
+  "Buscar por nombre o sigla": "Buscar por nombre o sigla",
+  "Filtrar por circunscripción": "Filtrar por circunscripción",
+  "Hecho": "Hecho",
+  "Añadir partidos (comparas {x})": "Añadir partidos (comparas {x})",
+  "Idioma: {x}. Cambiar de idioma": "Idioma: {x}. Cambiar de idioma",
+  "Programa de {x}": "Programa de {x}",
+  "{n} subtema": "{n} subtema",
+  "{n} subtemas": "{n} subtemas",
+  "{n} extracto": "{n} extracto",
+  "{n} extractos": "{n} extractos",
+  "{n} pág.": "{n} pág.",
+  "{n} págs.": "{n} págs.",
+  "{n} pregunta": "{n} pregunta",
+  "{n} preguntas": "{n} preguntas",
+  "{n} pregunta en la que chocan": "{n} pregunta en la que chocan",
+  "{n} preguntas en las que chocan": "{n} preguntas en las que chocan",
+  "{n} pregunta en la que los programas toman posturas distintas.": "{n} pregunta en la que los programas toman posturas distintas.",
+  "{n} preguntas en las que los programas toman posturas distintas.": "{n} preguntas en las que los programas toman posturas distintas.",
+  "<b>{n}</b> página": "<b>{n}</b> página",
+  "<b>{n}</b> páginas": "<b>{n}</b> páginas",
+  "<b>{n}</b> extracto": "<b>{n}</b> extracto",
+  "<b>{n}</b> extractos": "<b>{n}</b> extractos",
+  "<b>{n}</b> palabra": "<b>{n}</b> palabra",
+  "<b>{n}</b> palabras": "<b>{n}</b> palabras",
+  "PDF generado de {n} página": "PDF generado de {n} página",
+  "PDF generado de {n} páginas": "PDF generado de {n} páginas",
+  "PDF de {n} página": "PDF de {n} página",
+  "PDF de {n} páginas": "PDF de {n} páginas",
+  "{n} palabra": "{n} palabra",
+  "{n} palabras": "{n} palabras",
+  "Busca en el texto del programa que comparas.": "Busca en el texto del programa que comparas.",
+  "Busca en el texto de los {n} programas que comparas.": "Busca en el texto de los {n} programas que comparas.",
+  "{n} extracto contiene {q}.": "{n} extracto contiene {q}.",
+  "{n} extractos contienen {q}.": "{n} extractos contienen {q}.",
+  "y {n} circunscripción más": "y {n} circunscripción más",
+  "y {n} circunscripciones más": "y {n} circunscripciones más",
+  "{n} circunscripción": "{n} circunscripción",
+  "{n} circunscripciones": "{n} circunscripciones",
+  "{n} partido en {x}": "{n} partido en {x}",
+  "{n} partidos en {x}": "{n} partidos en {x}",
+  "{n} partido": "{n} partido",
+  "{n} partidos": "{n} partidos",
+  "Traducción automática y revisada del programa original en {x}, hecha por Programas 29N. El original: {u}": "Traducción automática y revisada del programa original en {x}, hecha por Programas 29N. El original: {u}"
+ },
+ "html": {
+  "Qué propone cada partido sobre cada tema y dónde chocan entre sí. No es lo que &quot;dijo&quot; un representante nosedónde, sino lo que pone en su programa electoral.": "Qué propone cada partido sobre cada tema y dónde chocan entre sí. No es lo que &quot;dijo&quot; un representante nosedónde, sino lo que pone en su programa electoral.",
+  "Qué proponen los partidos para el 29N": "Qué proponen los partidos para el 29N",
+  "Programas 29N: qué proponen los partidos para el 29N, con un ejemplo de «Dónde chocan» sobre el precio del alquiler.": "Programas 29N: qué proponen los partidos para el 29N, con un ejemplo de «Dónde chocan» sobre el precio del alquiler.",
+  "Saltar al contenido": "Saltar al contenido",
+  "Programas 29N, inicio": "Programas 29N, inicio",
+  "Generales · 29 nov 2026": "Generales · 29 nov 2026",
+  "Secciones": "Secciones",
+  "Temas": "Temas",
+  "Dónde chocan": "Dónde chocan",
+  "Buscar": "Buscar",
+  "Programas": "Programas",
+  "Buscar en los programas": "Buscar en los programas",
+  "Buscar en los programas…": "Buscar en los programas…",
+  "Añadir partidos": "Añadir partidos",
+  "Partidos": "Partidos",
+  "Cargando los programas…": "Cargando los programas…",
+  "Esta web necesita JavaScript para mostrar los programas.": "Esta web necesita JavaScript para mostrar los programas."
+ },
+ "temas": {
+  "vivienda": "Vivienda",
+  "vivienda-publica": "Vivienda pública y social",
+  "vivienda-alquiler": "Alquiler",
+  "vivienda-compra": "Compra y acceso a la primera vivienda",
+  "vivienda-especulacion": "Especulación, fondos y vivienda turística",
+  "vivienda-okupacion-desahucios": "Okupación y desahucios",
+  "vivienda-suelo-construccion": "Suelo, construcción y rehabilitación",
+  "vivienda-fiscalidad": "Impuestos sobre la vivienda",
+  "vivienda-derecho": "Derecho a la vivienda y ley de vivienda",
+  "impuestos": "Impuestos y cuentas públicas",
+  "imp-irpf": "IRPF e impuestos al trabajo",
+  "imp-capital-patrimonio": "Capital, patrimonio y herencias",
+  "imp-sociedades": "Impuesto de Sociedades y grandes empresas",
+  "imp-iva-indirectos": "IVA e impuestos indirectos",
+  "imp-verdes": "Fiscalidad verde y del lujo",
+  "imp-fraude": "Fraude fiscal y paraísos fiscales",
+  "imp-gasto-deuda": "Gasto público, déficit y deuda",
+  "imp-modelo": "Modelo fiscal en general",
+  "trabajo": "Trabajo, salarios y pensiones",
+  "trab-salarios": "Salario mínimo y salarios",
+  "trab-jornada": "Jornada y tiempo de trabajo",
+  "trab-contratos-despido": "Contratos, despido y reforma laboral",
+  "trab-empleo": "Desempleo y políticas de empleo",
+  "trab-pensiones": "Pensiones y Seguridad Social",
+  "trab-sindicatos": "Negociación colectiva y participación",
+  "trab-empleo-publico": "Empleo público",
+  "economia": "Economía, empresa e industria",
+  "eco-industria": "Política industrial",
+  "eco-autonomos-pymes": "Autónomos y pymes",
+  "eco-burocracia": "Burocracia y regulación",
+  "eco-innovacion": "Ciencia, I+D e innovación",
+  "eco-publico-banca": "Empresas públicas, banca y competencia",
+  "eco-consumo-precios": "Consumo y coste de la vida",
+  "eco-turismo-comercio": "Turismo, comercio y sectores",
+  "eco-modelo": "Crecimiento y productividad",
+  "energia-medioambiente": "Energía, clima y medio ambiente",
+  "ener-modelo": "Modelo energético",
+  "clima": "Cambio climático y emisiones",
+  "agua": "Agua",
+  "naturaleza": "Biodiversidad y espacios naturales",
+  "residuos": "Residuos y economía circular",
+  "animales": "Bienestar animal",
+  "rural": "Campo y mundo rural",
+  "rural-agro": "Agricultura, ganadería y pesca",
+  "rural-despoblacion": "Despoblación y servicios en el medio rural",
+  "rural-tradiciones": "Caza, tauromaquia y tradiciones rurales",
+  "infraestructuras": "Infraestructuras y transporte",
+  "infra-tren": "Ferrocarril",
+  "infra-carreteras": "Carreteras y seguridad vial",
+  "infra-transporte-publico": "Transporte público y movilidad",
+  "infra-corredores-puertos": "Corredores, puertos y aeropuertos",
+  "infra-inversion-territorial": "Inversión del Estado por territorios",
+  "infra-digital": "Telecomunicaciones y conectividad",
+  "sanidad": "Sanidad",
+  "san-listas-espera": "Listas de espera y acceso",
+  "san-modelo": "Modelo sanitario y financiación",
+  "san-primaria": "Atención primaria",
+  "san-profesionales": "Profesionales sanitarios",
+  "san-mental": "Salud mental",
+  "san-prestaciones": "Nuevas prestaciones",
+  "san-publica-prevencion": "Salud pública y prevención",
+  "san-farmacia": "Medicamentos e industria farmacéutica",
+  "san-sexual-reproductiva": "Salud sexual y reproductiva",
+  "educacion-cultura": "Educación, cultura y deporte",
+  "edu-modelo": "Modelo educativo y financiación",
+  "edu-infantil": "Educación de 0 a 3 años",
+  "edu-escuela": "Escuela: primaria, ESO y bachillerato",
+  "edu-lenguas": "Lenguas",
+  "edu-profesorado": "Profesorado",
+  "edu-becas": "Becas y equidad",
+  "edu-fp": "Formación Profesional",
+  "edu-universidad": "Universidad",
+  "cultura": "Cultura",
+  "deporte": "Deporte",
+  "familias-social": "Familias, cuidados y protección social",
+  "fam-natalidad": "Natalidad y familias",
+  "fam-infancia": "Infancia y adolescencia",
+  "fam-juventud": "Juventud",
+  "fam-mayores": "Personas mayores",
+  "fam-dependencia": "Dependencia y cuidados",
+  "fam-discapacidad": "Discapacidad",
+  "fam-pobreza": "Pobreza e Ingreso Mínimo Vital",
+  "igualdad-derechos": "Igualdad y derechos civiles",
+  "igu-mujeres": "Igualdad entre mujeres y hombres",
+  "igu-violencia": "Violencia contra las mujeres",
+  "igu-lgtbi": "Derechos LGTBI y personas trans",
+  "igu-racismo": "Racismo e igualdad de trato",
+  "igu-vida": "Aborto, eutanasia y vida",
+  "igu-libertades": "Libertades públicas y protesta",
+  "igu-laicidad": "Religión y laicidad",
+  "igu-memoria": "Memoria democrática",
+  "inmigracion": "Inmigración",
+  "inm-fronteras": "Fronteras e inmigración irregular",
+  "inm-regularizacion": "Regularización y vías legales",
+  "inm-asilo": "Asilo y refugio",
+  "inm-integracion": "Integración, nacionalidad y acceso a ayudas",
+  "seguridad-justicia": "Seguridad, justicia y defensa",
+  "seg-policia": "Seguridad ciudadana y policía",
+  "seg-penal": "Código Penal y delitos",
+  "seg-justicia": "Funcionamiento de la justicia",
+  "seg-terrorismo": "Terrorismo y sus víctimas",
+  "seg-independencia-judicial": "Independencia judicial y Fiscalía",
+  "seg-defensa": "Defensa y Fuerzas Armadas",
+  "seg-emergencias": "Emergencias y protección civil",
+  "seg-ciberseguridad": "Ciberseguridad",
+  "instituciones": "Instituciones y modelo de Estado",
+  "inst-corrupcion": "Corrupción, transparencia e integridad",
+  "inst-constitucion": "Constitución, Corona y sistema electoral",
+  "inst-gobierno-parlamento": "Gobierno y Parlamento",
+  "inst-territorial": "Modelo territorial",
+  "inst-financiacion-autonomica": "Financiación autonómica",
+  "inst-local": "Ayuntamientos y financiación local",
+  "inst-administracion": "Administración pública",
+  "inst-medios": "Medios de comunicación",
+  "inst-ceuta-melilla": "Ceuta y Melilla",
+  "digital": "Tecnología y entorno digital",
+  "dig-ia": "Inteligencia artificial",
+  "dig-plataformas": "Plataformas, redes sociales y menores",
+  "dig-datos": "Datos, privacidad y soberanía digital",
+  "exterior": "España en el mundo",
+  "ext-ue": "Unión Europea",
+  "ext-politica": "Política exterior y multilateralismo",
+  "ext-conflictos": "Conflictos internacionales",
+  "ext-cooperacion": "Cooperación al desarrollo",
+  "ext-exterior-ciudadania": "Españoles en el exterior",
+  "presentacion": "Presentación y visión general",
+  "pres-diagnostico": "Diagnóstico y propósito del programa",
+  "pres-por-anunciar": "Medidas por anunciar"
+ },
+ "ejes": {
+  "eje-irpf": {
+   "pregunta": "¿Qué hacer con el IRPF?",
+   "posiciones": {
+    "bajar": "Bajarlo o ampliar deducciones",
+    "subir-altas": "Subirlo a las rentas altas",
+    "mantener": "Mantenerlo como está"
+   }
+  },
+  "eje-patrimonio": {
+   "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+   "posiciones": {
+    "suprimir-bajar": "Suprimirlos o bajarlos",
+    "reforzar": "Reforzarlos o subirlos"
+   }
+  },
+  "eje-herencias": {
+   "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+   "posiciones": {
+    "suprimir-bajar": "Suprimirlo o bajarlo",
+    "reforzar": "Reforzarlo o armonizarlo al alza"
+   }
+  },
+  "eje-sociedades": {
+   "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+   "posiciones": {
+    "bajar": "Bajarlo",
+    "subir": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  },
+  "eje-iva": {
+   "pregunta": "¿Qué hacer con el IVA?",
+   "posiciones": {
+    "bajar": "Bajarlo, en general o en algunos productos",
+    "subir-lujo": "Subirlo a bienes de lujo o reordenar tipos al alza"
+   }
+  },
+  "eje-ley-vivienda": {
+   "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+   "posiciones": {
+    "derogar": "Derogarla",
+    "mantener-ampliar": "Mantenerla, aplicarla o ampliarla"
+   }
+  },
+  "eje-alquiler": {
+   "pregunta": "¿Limitar el precio del alquiler?",
+   "posiciones": {
+    "si": "Sí, regular o bajar precios",
+    "no": "No, más oferta y seguridad jurídica"
+   }
+  },
+  "eje-okupacion": {
+   "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+   "posiciones": {
+    "desalojo-rapido": "Desalojo rápido y más penas",
+    "proteger-vulnerables": "Frenar desahucios de personas vulnerables"
+   }
+  },
+  "eje-smi": {
+   "pregunta": "¿Seguir subiendo el salario mínimo?",
+   "posiciones": {
+    "subir": "Subirlo o reforzarlo por ley",
+    "contener": "No, contenerlo o fijarlo por acuerdo"
+   }
+  },
+  "eje-jornada": {
+   "pregunta": "¿Reducir la jornada laboral por ley?",
+   "posiciones": {
+    "reducir": "Sí, reducirla sin bajar el sueldo",
+    "no": "No por ley"
+   }
+  },
+  "eje-reforma-laboral": {
+   "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+   "posiciones": {
+    "derogar": "Derogarla",
+    "mantener-profundizar": "Ampliar la protección frente al despido y la precariedad"
+   }
+  },
+  "eje-nuclear": {
+   "pregunta": "¿Qué hacer con las centrales nucleares?",
+   "posiciones": {
+    "mantener": "Mantenerlas o alargar su vida",
+    "cerrar": "Cerrarlas según el calendario"
+   }
+  },
+  "eje-agua": {
+   "pregunta": "¿Trasvases e interconexión de cuencas?",
+   "posiciones": {
+    "si": "Sí, un plan hidrológico con interconexión de cuencas",
+    "no": "No: gestión de la demanda, agua como bien público"
+   }
+  },
+  "eje-gestion-sanitaria": {
+   "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+   "posiciones": {
+    "publica": "Priorizar la gestión pública directa",
+    "colaboracion": "Contar con la gestión o colaboración privada"
+   }
+  },
+  "eje-regularizacion": {
+   "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+   "posiciones": {
+    "si": "Sí, regularizaciones o vías estables",
+    "no": "No, prohibirlas y expulsar"
+   }
+  },
+  "eje-violencia-genero": {
+   "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+   "posiciones": {
+    "derogar": "Derogarlas o sustituirlas",
+    "mantener-reforzar": "Mantenerlas o reforzarlas"
+   }
+  },
+  "eje-aborto": {
+   "pregunta": "¿Qué hacer con el derecho al aborto?",
+   "posiciones": {
+    "blindar": "Blindarlo o ampliarlo",
+    "restringir": "Restringirlo o promover alternativas"
+   }
+  },
+  "eje-trans": {
+   "pregunta": "¿Qué hacer con la Ley Trans?",
+   "posiciones": {
+    "derogar": "Derogarla o reformarla",
+    "desplegar": "Desplegarla o ampliarla"
+   }
+  },
+  "eje-memoria": {
+   "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+   "posiciones": {
+    "derogar": "Derogarla",
+    "ampliar": "Mantenerla o ampliarla"
+   }
+  },
+  "eje-territorial": {
+   "pregunta": "¿Hacia qué modelo territorial?",
+   "posiciones": {
+    "recentralizar": "Frenar la descentralización o blindar competencias del Estado",
+    "autonomico": "Mantener y mejorar el Estado autonómico",
+    "federal": "Estado federal, confederal o plurinacional",
+    "autodeterminacion": "Derecho a decidir, autodeterminación o independencia"
+   }
+  },
+  "eje-jefatura": {
+   "pregunta": "¿Monarquía o república?",
+   "posiciones": {
+    "monarquia": "Defender la monarquía o la Corona",
+    "republica": "Avanzar hacia una república"
+   }
+  },
+  "eje-defensa": {
+   "pregunta": "¿Más gasto en defensa?",
+   "posiciones": {
+    "aumentar": "Aumentarlo",
+    "contener": "Contenerlo o priorizar la seguridad humana"
+   }
+  },
+  "eje-cgpj": {
+   "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+   "posiciones": {
+    "jueces": "Que los jueces elijan a los vocales judiciales",
+    "parlamento": "Mantener la elección parlamentaria",
+    "ciudadania": "Que los elija la ciudadanía por votación"
+   }
+  },
+  "eje-lengua": {
+   "pregunta": "¿Qué lengua en la escuela?",
+   "posiciones": {
+    "espanol": "Garantizar el español como lengua vehicular",
+    "cooficiales": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  },
+  "eje-financiacion-autonomica": {
+   "pregunta": "¿Condonar parte de la deuda autonómica?",
+   "posiciones": {
+    "si": "Sí, condonarla",
+    "no": "No, rechazar la condonación"
+   }
+  },
+  "eje-capital": {
+   "pregunta": "¿Cómo deben tributar las rentas del capital?",
+   "posiciones": {
+    "igualar-subir": "Subirlas o igualarlas a las del trabajo",
+    "bajar": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  },
+  "eje-amnistia": {
+   "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+   "posiciones": {
+    "derogar": "Derogarla o anularla",
+    "defender": "Defenderla"
+   }
+  },
+  "eje-sedicion": {
+   "pregunta": "¿Recuperar el delito de sedición?",
+   "posiciones": {
+    "si": "Sí, recuperarlo o endurecer esos delitos",
+    "no": "No, o despenalizar delitos de opinión"
+   }
+  },
+  "eje-mordaza": {
+   "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+   "posiciones": {
+    "derogar-sustituir": "Derogarla o sustituirla",
+    "mantener": "Mantenerla o reforzarla"
+   }
+  },
+  "eje-prioridad-nacional": {
+   "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+   "posiciones": {
+    "si": "Sí: prioridad nacional o más requisitos para acceder",
+    "no": "No: igualdad de acceso"
+   }
+  },
+  "eje-burka": {
+   "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+   "posiciones": {
+    "si": "Sí, prohibirlos",
+    "no": "No"
+   }
+  },
+  "eje-clima-ritmo": {
+   "pregunta": "¿Qué ritmo para la transición climática?",
+   "posiciones": {
+    "acelerar": "Mantener o acelerar los objetivos",
+    "frenar": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  },
+  "eje-tauromaquia": {
+   "pregunta": "¿Proteger la tauromaquia?",
+   "posiciones": {
+    "proteger": "Sí, protegerla como patrimonio",
+    "retirar": "No, retirarle la protección o la financiación"
+   }
+  },
+  "eje-prostitucion": {
+   "pregunta": "¿Qué hacer con la prostitución?",
+   "posiciones": {
+    "abolir": "Abolirla",
+    "derechos": "Reconocer derechos a quienes la ejercen"
+   }
+  },
+  "eje-eutanasia": {
+   "pregunta": "¿Eutanasia o cuidados paliativos?",
+   "posiciones": {
+    "mantener": "Mantenerla o garantizarla",
+    "derogar": "Poner el acento en los cuidados paliativos"
+   }
+  },
+  "eje-concertada": {
+   "pregunta": "¿Qué hacer con la escuela concertada?",
+   "posiciones": {
+    "apoyar": "Apoyarla o garantizar la libertad de elección de centro",
+    "reducir": "Reducir su financiación y priorizar la pública"
+   }
+  },
+  "eje-lomloe": {
+   "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+   "posiciones": {
+    "derogar": "Derogarla o sustituirla",
+    "mantener": "Mantenerla o desarrollarla"
+   }
+  },
+  "eje-jubilacion": {
+   "pregunta": "¿Qué hacer con la edad de jubilación?",
+   "posiciones": {
+    "adelantar": "Adelantarla o flexibilizarla a la baja",
+    "mantener-retrasar": "Mantenerla o incentivar retrasarla"
+   }
+  },
+  "eje-voto16": {
+   "pregunta": "¿Votar a los 16 años?",
+   "posiciones": {
+    "si": "Sí",
+    "no": "No"
+   }
+  },
+  "eje-mercosur": {
+   "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+   "posiciones": {
+    "rechazar": "Rechazarlo o exigir cláusulas espejo",
+    "apoyar": "Apoyarlo",
+    "salvaguardas": "Aplicarlo con salvaguardas y control"
+   }
+  },
+  "eje-otan": {
+   "pregunta": "¿Seguir en la OTAN?",
+   "posiciones": {
+    "seguir": "Seguir en la OTAN",
+    "salir": "Salir de la OTAN o cerrar las bases"
+   }
+  },
+  "eje-ppr": {
+   "pregunta": "¿Qué hacer con la prisión permanente revisable?",
+   "posiciones": {
+    "mantener-ampliar": "Mantenerla o ampliarla",
+    "derogar": "Derogarla"
+   }
+  },
+  "eje-gestacion": {
+   "pregunta": "¿Qué hacer con la gestación subrogada?",
+   "posiciones": {
+    "prohibir": "Prohibirla y perseguirla",
+    "regular": "Regularla"
+   }
+  },
+  "eje-cie": {
+   "pregunta": "¿Qué hacer con los CIE (centros de internamiento de extranjeros)?",
+   "posiciones": {
+    "cerrar": "Cerrarlos",
+    "mantener-ampliar": "Mantenerlos o ampliarlos"
+   }
+  },
+  "eje-cannabis": {
+   "pregunta": "¿Regular el cannabis?",
+   "posiciones": {
+    "uso-adulto": "Legalizar o regular el uso adulto",
+    "medicinal": "Regular el uso medicinal",
+    "prohibir": "Mantener la prohibición"
+   }
+  },
+  "eje-renta-basica": {
+   "pregunta": "¿Implantar una renta básica universal?",
+   "posiciones": {
+    "si": "Sí, una renta básica universal",
+    "no": "No, solo ayudas condicionadas"
+   }
+  },
+  "eje-ley-electoral": {
+   "pregunta": "¿Cambiar la ley electoral?",
+   "posiciones": {
+    "proporcional": "Hacerla más proporcional",
+    "lista-mas-votada": "Que gobierne la lista más votada"
+   }
+  },
+  "eje-listas": {
+   "pregunta": "¿Listas electorales abiertas?",
+   "posiciones": {
+    "si": "Sí, listas abiertas o desbloqueadas",
+    "no": "Mantener las listas cerradas"
+   }
+  },
+  "eje-mandatos": {
+   "pregunta": "¿Limitar los mandatos de los cargos públicos?",
+   "posiciones": {
+    "si": "Sí, limitarlos",
+    "no": "No limitarlos"
+   }
+  },
+  "eje-santa-sede": {
+   "pregunta": "¿Qué hacer con los acuerdos con la Santa Sede?",
+   "posiciones": {
+    "derogar": "Denunciarlos o derogarlos",
+    "mantener": "Mantenerlos"
+   }
+  }
+ },
+ "fuentes": {
+  "fa": "oficial (frenteamplio.info)",
+  "psoe": "copia publicada por Demócrata (la web del PSOE no era accesible)",
+  "pp": "oficial (pp.es)",
+  "vox": "oficial (voxespana.es)",
+  "compromis": "copia del archivo de internet (Wayback Machine) del 16-11-2026; el original de frontvalencia.org ya no está accesible",
+  "salf": "oficial (seacabolafiesta.com)",
+  "pacma": "oficial (pacma.es)",
+  "fo": "oficial (frenteobrero.es); es su programa político general, el documento no menciona el 29N",
+  "mundo": "oficial (porunmundomasjusto.es)",
+  "fe": "oficial (falange.es)",
+  "pcte": "oficial (pcte.es); «Programa de lucha»: el propio texto dice que no es un programa electoral. Hay versión en valenciano con el mismo contenido",
+  "autonomos": "oficial (partidoautonomos.es)",
+  "podemos": "copia de democrata.es; el programa no está publicado en ninguna web del partido",
+  "adelante": "oficial (adelanteandalucia.org)",
+  "bng": "oficial (bng.gal); versión del 12-11-2026",
+  "erc": "oficial (esquerrarepublicana.cat)",
+  "cnv": "oficial (convergents.org); PDF de noviembre de 2025",
+  "pnv": "oficial (eaj-pnv.eus); también en euskera",
+  "bildu": "oficial (ehbildu.eus); también en euskera",
+  "teruel": "oficial (teruelexiste.info)",
+  "pfac": "oficial (feministasalcongreso.es); hay también un resumen de 10 páginas",
+  "ph": "oficial (partidohumanista.es)",
+  "nex": "oficial (nuevoext.es)",
+  "ixlg": "oficial (iniciativaporlagomera.org); programa al Senado",
+  "soria": "oficial (soriaya.org); un cartel de una página",
+  "d21": "oficial (democracia21.es)",
+  "comuns": "oficial (comuns.cat); el programa del Frente Amplio en Cataluña, propio y en catalán",
+  "junts": "oficial (tualcentre.cat), publicado solo como página web; el PDF lo ha generado Programas 29N a partir de ella"
+ }
+}

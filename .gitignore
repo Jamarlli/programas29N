@@ -7,3 +7,7 @@ web/descargas/
 dist/programas-29n-pdf.zip
 .DS_Store
 Thumbs.db
+
+# lotes de traducción: se regeneran con pipeline/trad_lotes.py; las copias previas a la revisión no hacen falta
+data/trad/lotes/
+data/trad/salida/*.sin-revisar.txt

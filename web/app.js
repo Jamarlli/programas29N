@@ -4,18 +4,35 @@
 
   const D = window.PROGRAMAS;
   const main = document.getElementById('main');
+  // Textos de la interfaz: el castellano está aquí mismo, en cada llamada a t(); los demás idiomas traen su
+  // traducción en D.ui (data/i18n/<idioma>.json), con la misma frase en castellano como clave.
+  const UI = (D && D.ui) || {};
+  const t = (s, v) => (UI[s] || s).replace(/\{(\w+)\}/g, (m, k) => (v && k in v ? v[k] : m));
   if (!D || !Array.isArray(D.extractos)) {
-    main.innerHTML = `<div class="fallo"><h1>No se han podido cargar los programas</h1>
-      <p>Falta el archivo de datos (data.js) o está dañado. Si has descargado la web, comprueba que data.js está en la misma carpeta que index.html y recarga la página.</p></div>`;
+    main.innerHTML = `<div class="fallo"><h1>${t('No se han podido cargar los programas')}</h1>
+      <p>${t('Falta el archivo de datos o está dañado. Recarga la página.')}</p></div>`;
     return;
   }
+  const L = D.idioma || 'es';
+  const IDIOMAS = [
+    { id: 'es', nombre: 'Español', ruta: '/', bcp: 'es', loc: 'es-ES' },
+    { id: 'ca', nombre: 'Català', ruta: '/ca/', bcp: 'ca', loc: 'ca-ES' },
+    { id: 'va', nombre: 'Valencià', ruta: '/va/', bcp: 'ca-ES-valencia', loc: 'ca-ES-valencia' },
+    { id: 'eu', nombre: 'Euskara', ruta: '/eu/', bcp: 'eu', loc: 'eu-ES' },
+    { id: 'gl', nombre: 'Galego', ruta: '/gl/', bcp: 'gl', loc: 'gl-ES' },
+  ];
+  const IDI = Object.fromEntries(IDIOMAS.map((x) => [x.id, x]));
+  const LOC = IDI[L].loc;
+  const NOMBRE_IDIOMA = { es: t('castellano'), ca: t('catalán'), va: t('valenciano'), gl: t('gallego'), eu: t('euskera') };
+  // abierta como archivo (la web en un solo HTML), los enlaces a otros idiomas van a la web publicada
+  const SITIO = /^https?:$/.test(location.protocol) ? '' : 'https://programas29n.jamarlli.workers.dev';
   const $ = (s, el = document) => el.querySelector(s);
   const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
   const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const norm = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-  const fmt = (n) => n.toLocaleString('es-ES');
-  const pct = (x) => `${x.toLocaleString('es-ES', { minimumFractionDigits: 1, maximumFractionDigits: 1 })} %`;
-  const plural = (n, uno, varios) => `${fmt(n)} ${n === 1 ? uno : varios}`;
+  const fmt = (n) => n.toLocaleString(LOC);
+  const pct = (x) => t('{n} %', { n: x.toLocaleString(LOC, { minimumFractionDigits: 1, maximumFractionDigits: 1 }) });
+  const plural = (n, uno, varios, v) => t(n === 1 ? uno : varios, { ...v, n: fmt(n) });
   const leer = (k, def) => { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? def : v; } catch (_) { return def; } };
   const guardar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) { /* sin almacenamiento */ } };
 
@@ -88,6 +105,10 @@
   };
   const fmtMB = (mb) => `${String(mb).replace('.', ',')} MB`;
   const enlacePDF = (e) => `${P[e.p].pdfCopia || P[e.p].fuente}#page=${e.g}`;
+  // idioma del texto de un extracto: el de la página si está traducido; si no, el original de su programa
+  const idiomaDe = (e) => (e.t ? L : P[e.p].idioma || 'es');
+  const langDe = (e) => IDI[idiomaDe(e)].bcp;
+  const original = (e) => `${SITIO}${IDI[P[e.p].idioma || 'es'].ruta}#/e/${e.i}`;
   const hrefSub = (s) => `#/tema/${bloqueDe[s].id}/${s}`;
   // «Frente Amplio» → «FA»; los nombres cortos se quedan igual
   const abrev = (p) => p.sigla || (p.corto.includes(' ') ? p.corto.split(/\s+/).map((w) => w[0]).join('').toUpperCase() : p.corto);
@@ -98,7 +119,7 @@
   // punto lleno = partido visible; punto hueco = oculto (la forma lo dice, no solo el color)
   function filtroHTML(cuentas) {
     return `<div class="filtro" role="group" aria-labelledby="filtro-t">
-      <span class="filtro-t" id="filtro-t">Comparar</span>
+      <span class="filtro-t" id="filtro-t">${t('Comparar')}</span>
       ${partidos.map((p) => `<button type="button" class="chip" data-p="${p.id}" data-partido="${p.id}" aria-pressed="${visibles.includes(p.id)}">${punto(p)}${nombreP(p)}${cuentas ? `<span class="c">${fmt(cuentas[p.id] || 0)}</span>` : ''}</button>`).join('')}
     </div>`;
   }
@@ -109,7 +130,7 @@
     return `<ul class="pf">${eje.posiciones.map((pos) => {
       const q = m[pos.id] || {};
       const ps = pvis().filter((p) => q[p.id]);
-      return `<li${ps.length ? '' : ' class="pf--nadie"'}><span class="pf-n">${esc(pos.nombre)}</span><span class="pf-p">${ps.map((p) => sigla(p)).join('') || '<span class="nadie">Ningún partido</span>'}</span></li>`;
+      return `<li${ps.length ? '' : ' class="pf--nadie"'}><span class="pf-n">${esc(pos.nombre)}</span><span class="pf-p">${ps.map((p) => sigla(p)).join('') || `<span class="nadie">${t('Ningún partido')}</span>`}</span></li>`;
     }).join('')}</ul>`;
   }
   const segmentado = (clave, opciones, actual, etiqueta) =>
@@ -121,20 +142,21 @@
     const abierto = o.fijo || (o.abierto != null ? o.abierto : vistaTexto === 'texto');
     const src = [];
     if (o.partido) src.push(`<strong>${esc(p.corto)}</strong>`);
-    if (e.k === 'm' && e.n) src.push(`Medida ${esc(e.n)}`);
-    if (!o.fijo) src.push(`<a href="#/e/${e.i}">Ver en su programa${ICO.der}</a>`);
-    src.push(e.g ? `<a href="${esc(enlacePDF(e))}" target="_blank" rel="noopener">PDF, p. ${e.g}${ICO.ext}</a>` : 'Página sin localizar');
-    if (o.tema && e.s) src.push(`<span>Tema: <a href="${hrefSub(e.s)}">${esc(sub[e.s].nombre)}</a></span>`);
+    if (e.k === 'm' && e.n) src.push(t('Medida {n}', { n: esc(e.n) }));
+    if (!o.fijo) src.push(`<a href="#/e/${e.i}">${t('Ver en su programa')}${ICO.der}</a>`);
+    src.push(e.g ? `<a href="${esc(enlacePDF(e))}" target="_blank" rel="noopener">${t('PDF, p. {n}', { n: e.g })}${ICO.ext}</a>` : t('Página sin localizar'));
+    if (e.t) src.push(`<span class="ex-trad">${t('Traducción automática')} · <a href="${esc(original(e))}" hreflang="${IDI[P[e.p].idioma || 'es'].bcp}">${t('Ver el original')}</a></span>`);
+    if (o.tema && e.s) src.push(`<span>${t('Tema:')} <a href="${hrefSub(e.s)}">${esc(sub[e.s].nombre)}</a></span>`);
     const ruta = D.rutas[e.r];
     const cab = o.fijo
-      ? `<h3 class="ex-tit">${esc(e.h || 'Sin titular')}</h3>`
+      ? `<h3 class="ex-tit">${esc(e.h || t('Sin titular'))}</h3>`
       : `<h3 class="ex-hh"><button type="button" class="ex-h" aria-expanded="${abierto}">
-          ${o.partido ? sigla(p) : ''}<span class="ex-tit">${esc(e.h || 'Sin titular')}</span>
+          ${o.partido ? sigla(p) : ''}<span class="ex-tit">${esc(e.h || t('Sin titular'))}</span>
           ${ICO.chev}</button></h3>`;
     return `<article class="ex${abierto ? ' abierto' : ''}${o.fijo ? ' ex--fijo' : ''}" id="${e.i}">
       ${cab}
       <div class="ex-body">
-        <div class="ex-txt" lang="es">${e.c}</div>
+        <div class="ex-txt" lang="${langDe(e)}">${e.c}</div>
         <p class="ex-src">${src.join('<span class="sep" aria-hidden="true">·</span>')}</p>
         ${ruta && !o.sinRuta ? `<p class="ex-ruta">${esc(ruta)}</p>` : ''}
       </div>
@@ -182,21 +204,21 @@
       const suyas = eje.posiciones.filter((pos) => (m[pos.id] || {})[p.id]);
       const cuerpo = suyas.length ? suyas.map((pos) => `<div class="cp-pos">
           <p class="postura">${esc(pos.nombre)}</p>
-          <ul>${m[pos.id][p.id].map(({ e, cita }) => `<li>${cita ? `<blockquote class="cita" lang="es">${esc(cita)}</blockquote>` : `<p class="cita-tit">${esc(e.h)}</p>`}
-            <a class="ir" href="#/e/${e.i}/${eje.id}">Ver en su programa${e.g ? ` · p. ${e.g}` : ''}${ICO.der}</a></li>`).join('')}</ul>
-        </div>`).join('') : '<p class="nadie">Su programa no toma una postura explícita.</p>';
+          <ul>${m[pos.id][p.id].map(({ e, cita }) => `<li>${cita ? `<blockquote class="cita" lang="${langDe(e)}">${esc(cita)}</blockquote>` : `<p class="cita-tit">${esc(e.h)}</p>`}
+            <a class="ir" href="#/e/${e.i}/${eje.id}">${t('Ver en su programa')}${e.g ? ` · ${t('p. {n}', { n: e.g })}` : ''}${ICO.der}</a></li>`).join('')}</ul>
+        </div>`).join('') : `<p class="nadie">${t('Su programa no toma una postura explícita.')}</p>`;
       return `<div class="cp${suyas.length ? '' : ' cp--sin'}" data-p="${p.id}"><h4 class="cp-n">${punto(p)}${esc(p.corto)}</h4><div class="cp-cuerpo">${cuerpo}</div></div>`;
     });
     const s = sub[eje.subtema];
     const pie = o.enTema
-      ? `<a class="eje-a" href="${hrefSub(s.id)}" data-salto="${s.id}">Todo lo que dicen sobre «${esc(s.nombre)}»${ICO.abajo}</a>`
-      : `<a class="eje-a" href="${hrefSub(s.id)}">Todo lo que dicen sobre «${esc(s.nombre)}»${ICO.der}</a>`;
+      ? `<a class="eje-a" href="${hrefSub(s.id)}" data-salto="${s.id}">${t('Todo lo que dicen sobre «{x}»', { x: esc(s.nombre) })}${ICO.abajo}</a>`
+      : `<a class="eje-a" href="${hrefSub(s.id)}">${t('Todo lo que dicen sobre «{x}»', { x: esc(s.nombre) })}${ICO.der}</a>`;
     return `<article class="eje" id="${eje.id}" aria-labelledby="q-${eje.id}">
       <h3 class="eje-q" id="q-${eje.id}">${esc(eje.pregunta)}</h3>
       ${posturasHTML(eje)}
-      ${sin.length ? `<p class="eje-sin">Sin postura explícita: ${sin.map((p) => esc(p.corto)).join(', ')}</p>` : ''}
+      ${sin.length ? `<p class="eje-sin">${t('Sin postura explícita: {x}', { x: sin.map((p) => esc(p.corto)).join(', ') })}</p>` : ''}
       <div class="eje-acc">
-        <button type="button" class="eje-ver" data-citas="${eje.id}" aria-expanded="${abierta}" aria-controls="par-${eje.id}">${ICO.chev}<span class="si-cerrada">Ver la cita de cada partido</span><span class="si-abierta">Ocultar las citas</span></button>
+        <button type="button" class="eje-ver" data-citas="${eje.id}" aria-expanded="${abierta}" aria-controls="par-${eje.id}">${ICO.chev}<span class="si-cerrada">${t('Ver la cita de cada partido')}</span><span class="si-abierta">${t('Ocultar las citas')}</span></button>
         ${pie}
       </div>
       <div class="eje-par" id="par-${eje.id}" style="--k:${Math.min(vs.length, 4)}"${abierta ? '' : ' hidden'}>${cols.join('')}</div>
@@ -215,24 +237,24 @@
     const orden = filas.slice();
     if (ordenIndice) orden.sort((a, b) => b.cuota[ordenIndice] - a.cuota[ordenIndice]);
     return `<div class="indice-w${partidos.length > 4 ? ' indice-w--ancha' : ''}" id="indice" style="--np:${partidos.length}">
-      <p class="nota indice-nota">La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.</p>
+      <p class="nota indice-nota">${t('La cifra grande es el número de extractos. El porcentaje pequeño dice qué parte de su programa dedica cada partido al tema, para comparar programas de extensiones muy distintas. La barra reparte esos porcentajes entre los partidos de la fila, que entre todas suman el 100 %: la más larga es la del partido que más peso le da al tema dentro de su programa. Pulsa el nombre de un partido para ordenar por su porcentaje.')}</p>
       <div class="indice-scroll"><table class="indice">
-        <caption class="sr">Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos</caption>
-        <thead><tr><th scope="col">Tema</th>${partidos.map((p) => `<th scope="col" class="num"${ordenIndice === p.id ? ' aria-sort="descending"' : ''}>
+        <caption class="sr">${t('Extractos de cada programa por tema, porcentaje que suponen sobre todos los extractos del partido y reparto de esos porcentajes entre los partidos')}</caption>
+        <thead><tr><th scope="col">${t('Tema')}</th>${partidos.map((p) => `<th scope="col" class="num"${ordenIndice === p.id ? ' aria-sort="descending"' : ''}>
           <button type="button" class="ord" data-orden="${p.id}" aria-pressed="${ordenIndice === p.id}">${punto(p)}${nombreP(p)}${ICO.abajo}</button></th>`).join('')}</tr></thead>
         <tbody>${orden.map((f) => `<tr data-href="#/tema/${f.b.id}">
-          <th scope="row"><a href="#/tema/${f.b.id}">${esc(f.b.nombre)}</a><span class="n-sub">${plural(f.b.subtemas.length, 'subtema', 'subtemas')}</span></th>
+          <th scope="row"><a href="#/tema/${f.b.id}">${esc(f.b.nombre)}</a><span class="n-sub">${plural(f.b.subtemas.length, '{n} subtema', '{n} subtemas')}</span></th>
           ${partidos.map((p) => {
             const n = f.c[p.id];
             const q = f.cuota[p.id];
-            const t = `${p.corto}: ${plural(n, 'extracto', 'extractos')}, el ${pct(q)} de su programa; en la barra, el ${pct(f.barra[p.id])} del peso que le dan al tema los partidos`;
-            return `<td class="num${n ? '' : ' cero'}" data-p="${p.id}" title="${esc(t)}"><span class="v">${fmt(n)}<span class="sr"> extractos</span></span>
-              <span class="cuota"><span class="bar" aria-hidden="true"><i style="width:${f.barra[p.id].toFixed(1)}%"></i></span><span class="q">${n ? pct(q) : ''}<span class="sr"> de su programa</span></span></span></td>`;
+            const tt = t('{p}: {n}, el {q} de su programa; en la barra, el {b} del peso que le dan al tema los partidos', { p: p.corto, n: plural(n, '{n} extracto', '{n} extractos'), q: pct(q), b: pct(f.barra[p.id]) });
+            return `<td class="num${n ? '' : ' cero'}" data-p="${p.id}" title="${esc(tt)}"><span class="v">${fmt(n)}<span class="sr"> ${t('extractos')}</span></span>
+              <span class="cuota"><span class="bar" aria-hidden="true"><i style="width:${f.barra[p.id].toFixed(1)}%"></i></span><span class="q">${n ? pct(q) : ''}<span class="sr"> ${t('de su programa')}</span></span></span></td>`;
           }).join('')}
         </tr>`).join('')}
-        ${pendientes().length ? `<tr data-href="#/tema/_pendientes"><th scope="row"><a href="#/tema/_pendientes">Pendientes de clasificar</a></th>${partidos.map((p) => `<td class="num">${pendientes().filter((e) => e.p === p.id).length}</td>`).join('')}</tr>` : ''}
+        ${pendientes().length ? `<tr data-href="#/tema/_pendientes"><th scope="row"><a href="#/tema/_pendientes">${t('Pendientes de clasificar')}</a></th>${partidos.map((p) => `<td class="num">${pendientes().filter((e) => e.p === p.id).length}</td>`).join('')}</tr>` : ''}
         </tbody>
-        <tfoot><tr><th scope="row">Programa completo</th>${partidos.map((p) => `<td class="num"><a href="#/programa/${p.id}">${fmt(nExt[p.id])}</a> <span class="q">100 %</span></td>`).join('')}</tr></tfoot>
+        <tfoot><tr><th scope="row">${t('Programa completo')}</th>${partidos.map((p) => `<td class="num"><a href="#/programa/${p.id}">${fmt(nExt[p.id])}</a> <span class="q">${pct(100)}</span></td>`).join('')}</tr></tfoot>
       </table></div>
     </div>`;
   }
@@ -245,22 +267,22 @@
     const nEjes = D.ejes.filter((e) => marcasDe[e.id]).length;
     return `
       <section class="hero">
-        <h1>Qué proponen los partidos para el 29N</h1>
-        <p class="lead">Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href="#/" data-salto="h-temas">cada tema</a> y <a href="#/choques">dónde chocan</a> entre sí. No es lo que "dijo" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.</p>
-        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} ${p.paginas === 1 ? 'pág.' : 'págs.'}</span></li>`).join('')}</ul>
+        <h1>${t('Qué proponen los partidos para el 29N')}</h1>
+        <p class="lead">${t('Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href="#/" data-salto="h-temas">cada tema</a> y <a href="#/choques">dónde chocan</a> entre sí. No es lo que "dijo" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.')}</p>
+        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${plural(p.paginas, '{n} pág.', '{n} págs.')}</span></li>`).join('')}</ul>
       </section>
       <section class="bloque" aria-labelledby="h-temas">
-        <div class="bloque-h"><h2 id="h-temas">Elige un tema</h2><p class="bloque-d">${D.bloques.length} temas y ${nSubtemas} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.</p></div>
+        <div class="bloque-h"><h2 id="h-temas">${t('Elige un tema')}</h2><p class="bloque-d">${t('{a} temas y {b} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.', { a: D.bloques.length, b: nSubtemas })}</p></div>
         ${indiceHTML()}
       </section>
       ${destacados.length ? `<section class="bloque bloque--choques" aria-labelledby="h-choques">
-        <div class="bloque-h"><h2 id="h-choques">Dónde chocan</h2><p class="bloque-d">Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.</p></div>
+        <div class="bloque-h"><h2 id="h-choques">${t('Dónde chocan')}</h2><p class="bloque-d">${t('Preguntas en las que los programas dicen cosas opuestas. Cada sigla está junto a la postura que defiende su partido; pulsa una pregunta para leer las citas.')}</p></div>
         <ul class="qcs">${destacados.map(({ e }) => `<li class="qc">
           <p class="qc-t">${esc(bloqueDe[e.subtema].nombre)} › ${esc(sub[e.subtema].nombre)}</p>
           <h3 class="qc-q"><a href="#/choques#${e.id}">${esc(e.pregunta)}</a></h3>
           ${posturasHTML({ ...e, posiciones: e.posiciones.filter((pos) => marcasDe[e.id][pos.id]) })}
         </li>`).join('')}</ul>
-        <p class="mas-p"><a class="btn" href="#/choques">Ver las ${nEjes} preguntas</a></p>
+        <p class="mas-p"><a class="btn" href="#/choques">${t('Ver las {n} preguntas', { n: nEjes })}</a></p>
       </section>` : ''}`;
   }
 
@@ -286,17 +308,17 @@
       const act = pestana && visibles.includes(pestana) ? pestana : (vs.find((p) => (fila[p.id] || []).length) || vs[0]).id;
       const cols = vs.map((p) => {
         const l = fila[p.id] || [];
-        const t = [...new Set([...(tam[p.id] || []), ...(conEje[p.id] || [])])].sort((a, b2) => a.o - b2.o);
+        const otros = [...new Set([...(tam[p.id] || []), ...(conEje[p.id] || [])])].sort((a, b2) => a.o - b2.o);
         return `<div class="col${p.id === act ? ' on' : ''}" data-p="${p.id}" id="${s.id}--${p.id}" role="tabpanel" aria-label="${esc(p.corto)}">
           <h3 class="col-h">${punto(p)}${esc(p.corto)}<span class="c">${l.length || ''}</span></h3>
-          ${l.length ? `<div class="col-l">${l.map((e) => extracto(e)).join('')}</div>` : '<p class="vacio">Ningún extracto clasificado en este subtema.</p>'}
-          ${t.length ? `<details class="tambien"${l.length ? '' : ' open'}><summary>${ICO.chev}Lo trata también en otros subtemas<span class="c">${t.length}</span></summary>
-            <div class="col-l">${t.map((e) => extracto(e, { tema: true })).join('')}</div></details>` : ''}
+          ${l.length ? `<div class="col-l">${l.map((e) => extracto(e)).join('')}</div>` : `<p class="vacio">${t('Ningún extracto clasificado en este subtema.')}</p>`}
+          ${otros.length ? `<details class="tambien"${l.length ? '' : ' open'}><summary>${ICO.chev}${t('Lo trata también en otros subtemas')}<span class="c">${otros.length}</span></summary>
+            <div class="col-l">${otros.map((e) => extracto(e, { tema: true })).join('')}</div></details>` : ''}
         </div>`;
       }).join('');
       return `<section class="sub" id="${s.id}" aria-labelledby="h-${s.id}">
-        <header class="sub-h"><h2 id="h-${s.id}">${esc(s.nombre)}</h2><span class="c">${plural(n, 'extracto', 'extractos')}</span></header>
-        ${vs.length > 1 ? `<div class="pestanas" role="tablist" aria-label="Partido">${vs.map((p) => {
+        <header class="sub-h"><h2 id="h-${s.id}">${esc(s.nombre)}</h2><span class="c">${plural(n, '{n} extracto', '{n} extractos')}</span></header>
+        ${vs.length > 1 ? `<div class="pestanas" role="tablist" aria-label="${t('Partido')}">${vs.map((p) => {
           const k = (fila[p.id] || []).length;
           return `<button type="button" role="tab" data-tab="${p.id}" aria-selected="${p.id === act}">${punto(p)}${nombreP(p)}<span class="c">${k}</span></button>`;
         }).join('')}</div>` : ''}
@@ -307,45 +329,45 @@
     const ejes = b.subtemas.flatMap((s) => (ejesDe[s.id] || []).filter((e) => marcasDe[e.id]));
     const idCh = `choques-${b.id}`;
     const choques = ejes.length ? `<section class="sub sub--choques" id="${idCh}" aria-labelledby="h-${idCh}">
-        <header class="sub-h"><h2 id="h-${idCh}">Dónde chocan</h2><span class="c">${plural(ejes.length, 'pregunta', 'preguntas')}</span></header>
-        <p class="sub-d">Lo que separa a los partidos en ${esc(b.nombre.toLowerCase())}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.</p>
+        <header class="sub-h"><h2 id="h-${idCh}">${t('Dónde chocan')}</h2><span class="c">${plural(ejes.length, '{n} pregunta', '{n} preguntas')}</span></header>
+        <p class="sub-d">${t('Lo que separa a los partidos en {x}. Cada sigla está junto a la postura que defiende su programa; despliega las citas para leer lo que dice cada uno.', { x: esc(b.nombre.toLocaleLowerCase(LOC)) })}</p>
         ${ejes.map((e) => preguntaHTML(e, { enTema: true })).join('')}
       </section>` : '';
     const entradas = [
-      ...(ejes.length ? [{ id: idCh, nombre: 'Dónde chocan', n: ejes.length, cls: ' class="ir-choques"' }] : []),
+      ...(ejes.length ? [{ id: idCh, nombre: t('Dónde chocan'), n: ejes.length, cls: ' class="ir-choques"' }] : []),
       ...b.subtemas.map((s) => ({ id: s.id, href: hrefSub(s.id), nombre: s.nombre, n: nDe(s), cls: '' })),
     ];
     const hrefE = (x) => x.href || `#/tema/${b.id}/${x.id}`;
     return `
       <div class="con-lado">
         <aside class="lado">
-          <nav aria-label="Secciones de ${esc(b.nombre)}">
-            <p class="lado-t">En este tema</p>
+          <nav aria-label="${t('Secciones de {x}', { x: esc(b.nombre) })}">
+            <p class="lado-t">${t('En este tema')}</p>
             <ol class="lado-l">${entradas.map((x) => `<li${x.cls}><a href="${hrefE(x)}" data-salto="${x.id}"><span>${esc(x.nombre)}</span><span class="c">${x.n}</span></a></li>`).join('')}</ol>
-            <details class="lado-o"><summary>${ICO.chev}Otros temas</summary><ol>${D.bloques.map((x) => `<li><a href="#/tema/${x.id}"${x === b ? ' aria-current="page"' : ''}>${esc(x.nombre)}</a></li>`).join('')}</ol></details>
+            <details class="lado-o"><summary>${ICO.chev}${t('Otros temas')}</summary><ol>${D.bloques.map((x) => `<li><a href="#/tema/${x.id}"${x === b ? ' aria-current="page"' : ''}>${esc(x.nombre)}</a></li>`).join('')}</ol></details>
           </nav>
         </aside>
         <div class="cuerpo">
           <div class="cab">
-            <nav class="migas" aria-label="Estás en"><a href="#/">Temas</a><span aria-hidden="true">›</span><span aria-current="page">${esc(b.nombre)}</span></nav>
+            <nav class="migas" aria-label="${t('Estás en')}"><a href="#/">${t('Temas')}</a><span aria-hidden="true">›</span><span aria-current="page">${esc(b.nombre)}</span></nav>
             <h1>${esc(b.nombre)}</h1>
-            <p class="cab-d">${plural(b.subtemas.length, 'subtema', 'subtemas')} · ${plural(total, 'extracto', 'extractos')}${ejes.length ? ` · ${plural(ejes.length, 'pregunta', 'preguntas')} en las que chocan` : ''}</p>
-            <nav class="subindice" aria-label="Secciones">${entradas.map((x) => `<a href="${hrefE(x)}" data-salto="${x.id}">${esc(x.nombre)}<span class="c">${x.n}</span></a>`).join('')}</nav>
-            <div class="barra">${filtroHTML()}<div class="vista">${segmentado('vista', [['titulares', 'Resumen'], ['texto', 'Texto completo']], vistaTexto, 'Cómo se muestran los extractos')}<p class="nota">Los titulares son nuestros; el texto es literal del partido.</p></div></div>
+            <p class="cab-d">${plural(b.subtemas.length, '{n} subtema', '{n} subtemas')} · ${plural(total, '{n} extracto', '{n} extractos')}${ejes.length ? ` · ${plural(ejes.length, '{n} pregunta en la que chocan', '{n} preguntas en las que chocan')}` : ''}</p>
+            <nav class="subindice" aria-label="${t('Secciones')}">${entradas.map((x) => `<a href="${hrefE(x)}" data-salto="${x.id}">${esc(x.nombre)}<span class="c">${x.n}</span></a>`).join('')}</nav>
+            <div class="barra">${filtroHTML()}<div class="vista">${segmentado('vista', [['titulares', t('Resumen')], ['texto', t('Texto completo')]], vistaTexto, t('Cómo se muestran los extractos'))}<p class="nota">${t('Los titulares son nuestros; el texto es el del programa, traducido automáticamente si está en otro idioma.')}</p></div></div>
           </div>
           ${choques}
           ${subs}
-          <nav class="paso" aria-label="Otros temas">
-            ${ant ? `<a class="paso-a" href="#/tema/${ant.id}"><span class="paso-k">${ICO.izq}Anterior</span><span class="paso-n">${esc(ant.nombre)}</span></a>` : '<span></span>'}
-            ${sig ? `<a class="paso-a der" href="#/tema/${sig.id}"><span class="paso-k">Siguiente${ICO.der}</span><span class="paso-n">${esc(sig.nombre)}</span></a>` : ''}
+          <nav class="paso" aria-label="${t('Otros temas')}">
+            ${ant ? `<a class="paso-a" href="#/tema/${ant.id}"><span class="paso-k">${ICO.izq}${t('Anterior')}</span><span class="paso-n">${esc(ant.nombre)}</span></a>` : '<span></span>'}
+            ${sig ? `<a class="paso-a der" href="#/tema/${sig.id}"><span class="paso-k">${t('Siguiente')}${ICO.der}</span><span class="paso-n">${esc(sig.nombre)}</span></a>` : ''}
           </nav>
         </div>
       </div>`;
   }
 
   function vPendientes() {
-    return `<div class="cab"><h1>Pendientes de clasificar</h1>
-      <p class="lead">Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.</p></div>
+    return `<div class="cab"><h1>${t('Pendientes de clasificar')}</h1>
+      <p class="lead">${t('Extractos que aún no tienen tema asignado. Siguen estando en el programa completo de cada partido.')}</p></div>
       <div class="lista">${pendientes().map((e) => extracto(e, { partido: true, abierto: true })).join('')}</div>`;
   }
 
@@ -356,23 +378,23 @@
     return `
       <div class="con-lado">
         <aside class="lado">
-          <nav aria-label="Temas con preguntas">
-            <p class="lado-t">Temas</p>
+          <nav aria-label="${t('Temas con preguntas')}">
+            <p class="lado-t">${t('Temas')}</p>
             <ol class="lado-l">${bloques.map(({ b, ejes }) => `<li><a href="#/choques#hb-${b.id}" data-salto="hb-${b.id}"><span>${esc(b.nombre)}</span><span class="c">${ejes.length}</span></a></li>`).join('')}</ol>
           </nav>
         </aside>
         <div class="cuerpo">
           <div class="cab">
-            <h1>Dónde chocan</h1>
-            <p class="lead">${plural(bloques.reduce((a, x) => a + x.ejes.length, 0), 'pregunta', 'preguntas')} en las que los programas toman posturas distintas. Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.</p>
-            <nav class="subindice" aria-label="Temas">${bloques.map(({ b, ejes }) => `<a href="#/choques#hb-${b.id}" data-salto="hb-${b.id}">${esc(b.nombre)}<span class="c">${ejes.length}</span></a>`).join('')}</nav>
+            <h1>${t('Dónde chocan')}</h1>
+            <p class="lead">${plural(bloques.reduce((a, x) => a + x.ejes.length, 0), '{n} pregunta en la que los programas toman posturas distintas.', '{n} preguntas en las que los programas toman posturas distintas.')} ${t('Un partido aparece en una postura solo si su programa lo dice de forma explícita; debajo de cada pregunta está su cita literal, con enlace a la página de su programa.')}</p>
+            <nav class="subindice" aria-label="${t('Temas')}">${bloques.map(({ b, ejes }) => `<a href="#/choques#hb-${b.id}" data-salto="hb-${b.id}">${esc(b.nombre)}<span class="c">${ejes.length}</span></a>`).join('')}</nav>
             <div class="barra">${filtroHTML()}</div>
           </div>
           ${bloques.map(({ b, ejes }) => `<section class="grupo-ejes" id="hb-${b.id}" aria-labelledby="hbh-${b.id}">
-            <div class="grupo-h"><h2 id="hbh-${b.id}">${esc(b.nombre)}</h2><a class="eje-a" href="#/tema/${b.id}">Todo el tema${ICO.der}</a></div>
+            <div class="grupo-h"><h2 id="hbh-${b.id}">${esc(b.nombre)}</h2><a class="eje-a" href="#/tema/${b.id}">${t('Todo el tema')}${ICO.der}</a></div>
             ${ejes.map((e) => preguntaHTML(e, { abierta: true })).join('')}
           </section>`).join('')}
-          ${vacios.length ? `<p class="nota nota--pie">Sin postura explícita de ningún partido: ${vacios.map((e) => esc(e.pregunta)).join(' · ')}</p>` : ''}
+          ${vacios.length ? `<p class="nota nota--pie">${t('Sin postura explícita de ningún partido: {x}', { x: vacios.map((e) => esc(e.pregunta)).join(' · ') })}</p>` : ''}
         </div>
       </div>`;
   }
@@ -380,18 +402,18 @@
   /* ---------- Programas ---------- */
   function vProgramas() {
     return `
-      <div class="cab"><h1>Programas completos</h1>
-        <p class="lead">Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.</p>
-        ${D.descargas ? `<p class="descargas"><a class="btn" href="${esc(D.descargas.pdf.url)}">${ICO.desc}Todos los PDF <span>(.zip, ${fmtMB(D.descargas.pdf.mb)})</span></a><a class="btn" href="${esc(D.descargas.md.url)}" download>${ICO.desc}Todos en Markdown <span>(.zip, ${fmtMB(D.descargas.md.mb)})</span></a></p>` : ''}</div>
+      <div class="cab"><h1>${t('Programas completos')}</h1>
+        <p class="lead">${t('Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.')}</p>
+        ${D.descargas ? `<p class="descargas"><a class="btn" href="${esc(D.descargas.pdf.url)}">${ICO.desc}${t('Todos los PDF')} <span>(.zip, ${fmtMB(D.descargas.pdf.mb)})</span></a><a class="btn" href="${esc(D.descargas.md.url)}" download>${ICO.desc}${t('Todos en Markdown')} <span>(.zip, ${fmtMB(D.descargas.md.mb)})</span></a></p>` : ''}</div>
       <ul class="programas">${todos.map((p) => `<li>
           <a class="pg" href="#/programa/${p.id}" data-p="${p.id}">
             <span class="pg-n">${punto(p)}${esc(p.corto)}</span>
             <span class="pg-t">${esc(p.titulo)}</span>
             <span class="pg-d">${esc(p.nombre)}</span>
-            <span class="pg-s"><span><b>${p.paginas}</b> ${p.paginas === 1 ? 'página' : 'páginas'}</span><span><b>${fmt(nExt[p.id])}</b> extractos</span><span><b>${fmt(palabras[p.id])}</b> palabras</span></span>
-            <span class="pg-a">Leer el programa${ICO.der}</span>
+            <span class="pg-s"><span>${plural(p.paginas, '<b>{n}</b> página', '<b>{n}</b> páginas')}</span><span>${plural(nExt[p.id], '<b>{n}</b> extracto', '<b>{n}</b> extractos')}</span><span>${plural(palabras[p.id], '<b>{n}</b> palabra', '<b>{n}</b> palabras')}</span></span>
+            <span class="pg-a">${t('Leer el programa')}${ICO.der}</span>
           </a>
-          <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">${p.pdfCopia ? 'Web original' : 'PDF original'}${ICO.ext}</a>
+          <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">${p.pdfCopia ? t('Web original') : t('PDF original')}${ICO.ext}</a>
         </li>`).join('')}</ul>`;
   }
 
@@ -417,18 +439,19 @@
     return `
       <div class="con-lado con-lado--prog">
         <aside class="lado">
-          ${toc.length > 1 ? `<nav aria-label="Índice del programa"><details class="toc" open><summary>${ICO.chev}Índice</summary><ol class="lado-l">${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}"><span>${esc(c.t)}</span></a></li>`).join('')}</ol></details></nav>` : ''}
+          ${toc.length > 1 ? `<nav aria-label="${t('Índice del programa')}"><details class="toc" open><summary>${ICO.chev}${t('Índice')}</summary><ol class="lado-l">${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}"><span>${esc(c.t)}</span></a></li>`).join('')}</ol></details></nav>` : ''}
         </aside>
         <div class="cuerpo">
           <div class="cab">
-            <nav class="migas" aria-label="Estás en"><a href="#/programas">Programas</a><span aria-hidden="true">›</span><span aria-current="page">${esc(p.corto)}</span></nav>
+            <nav class="migas" aria-label="${t('Estás en')}"><a href="#/programas">${t('Programas')}</a><span aria-hidden="true">›</span><span aria-current="page">${esc(p.corto)}</span></nav>
             <h1>${esc(p.corto)}: <span class="prog-titulo">${esc(p.titulo)}</span></h1>
             <dl class="ficha">
-              <div><dt>Candidatura</dt><dd>${esc(p.nombre)}</dd></div>
-              <div><dt>Fuente</dt><dd>${p.pdfCopia ? `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">Página web${ICO.ext}</a> · <a href="${esc(p.pdfCopia)}" target="_blank" rel="noopener">PDF generado de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a>` : `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a>`} · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
-              <div><dt>Contenido</dt><dd>${plural(l.length, 'extracto', 'extractos')}, ${fmt(palabras[pid])} palabras. ${p.pdfCopia ? 'Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.' : 'Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.'}</dd></div>
+              <div><dt>${t('Candidatura')}</dt><dd>${esc(p.nombre)}</dd></div>
+              <div><dt>${t('Fuente')}</dt><dd>${p.pdfCopia ? `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">${t('Página web')}${ICO.ext}</a> · <a href="${esc(p.pdfCopia)}" target="_blank" rel="noopener">${plural(p.paginas, 'PDF generado de {n} página', 'PDF generado de {n} páginas')}${ICO.ext}</a>` : `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">${plural(p.paginas, 'PDF de {n} página', 'PDF de {n} páginas')}${ICO.ext}</a>`} · ${esc(p.tipoFuente)} · ${t('descargado el {x}', { x: esc(fecha(p.descarga)) })}</dd></div>
+              <div><dt>${t('Contenido')}</dt><dd>${plural(l.length, '{n} extracto', '{n} extractos')}, ${plural(palabras[pid], '{n} palabra', '{n} palabras')}. ${p.pdfCopia ? t('Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.') : t('Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.')}</dd></div>
+              ${p.traducido ? `<div><dt>${t('Idioma')}</dt><dd>${t('El programa original está en {x}. Aquí lo lees en traducción automática; cada extracto enlaza a su texto original.', { x: NOMBRE_IDIOMA[p.idioma] })}</dd></div>` : ''}
             </dl>
-            ${toc.length > 1 ? `<details class="toc-m"><summary>${ICO.chev}Índice del programa</summary><ol>${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}">${esc(c.t)}</a></li>`).join('')}</ol></details>` : ''}
+            ${toc.length > 1 ? `<details class="toc-m"><summary>${ICO.chev}${t('Índice del programa')}</summary><ol>${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}">${esc(c.t)}</a></li>`).join('')}</ol></details>` : ''}
           </div>
           <div class="prog-txt">${cuerpo}</div>
         </div>
@@ -443,20 +466,20 @@
     const l = resultados[pid] || [];
     const hasta = Math.min(l.length, desde + POR_PAGINA);
     return l.slice(desde, hasta).map((e) => extracto(e, { tema: true, abierto: true })).join('') +
-      (hasta < l.length ? `<p class="mas"><button type="button" class="btn" data-mas="${pid}:${hasta}">Mostrar ${Math.min(POR_PAGINA, l.length - hasta)} más de ${fmt(l.length - hasta)}</button></p>` : '');
+      (hasta < l.length ? `<p class="mas"><button type="button" class="btn" data-mas="${pid}:${hasta}">${t('Mostrar {a} más de {b}', { a: Math.min(POR_PAGINA, l.length - hasta), b: fmt(l.length - hasta) })}</button></p>` : '');
   }
   // palabras de ejemplo para quien llega sin saber qué buscar; solo se muestran las que aparecen en los programas
-  const EJEMPLOS = ['alquiler', 'pensiones', 'sanidad', 'inmigración', 'impuestos', 'educación', 'energía', 'agua', 'igualdad', 'autónomos', 'okupación', 'despoblación'];
+  const EJEMPLOS = t('alquiler, pensiones, sanidad, inmigración, impuestos, educación, energía, agua, igualdad, autónomos, okupación, despoblación').split(/\s*,\s*/);
   const prepararBusqueda = () => {
     if (textoBusqueda) return;
     const tmp = document.createElement('div');
     textoBusqueda = new Map(E.map((e) => { tmp.innerHTML = e.c; return [e.i, norm(`${e.h} ${tmp.textContent}`)]; }));
   };
   const cajaBusqueda = (q) => `<form class="busca-v" data-buscar role="search">
-      <label class="sr" for="qv">Buscar en los programas</label>
+      <label class="sr" for="qv">${t('Buscar en los programas')}</label>
       <svg class="busca-i" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m13 13 4.25 4.25" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
-      <input id="qv" type="search" value="${esc(q)}" placeholder="Una o varias palabras" autocomplete="off" spellcheck="false" enterkeyhint="search">
-      <button type="submit" class="btn btn--fuerte">Buscar</button>
+      <input id="qv" type="search" value="${esc(q)}" placeholder="${t('Una o varias palabras')}" autocomplete="off" spellcheck="false" enterkeyhint="search">
+      <button type="submit" class="btn btn--fuerte">${t('Buscar')}</button>
     </form>`;
   function vBuscar(q) {
     $('#q').value = q;
@@ -464,10 +487,10 @@
     prepararBusqueda();
     if (!terminos.length) {
       const ejemplos = EJEMPLOS.map((w) => [w, E.filter((e) => enComparacion(e) && textoBusqueda.get(e.i).includes(norm(w))).length]).filter(([, n]) => n);
-      return `<div class="cab cab--buscar"><h1>Buscar en los programas</h1>
+      return `<div class="cab cab--buscar"><h1>${t('Buscar en los programas')}</h1>
         ${cajaBusqueda('')}
-        <p class="nota">${q.trim() ? 'Escribe al menos una palabra de dos letras. ' : ''}Busca en el texto literal de ${partidos.length === 4 ? 'los cuatro programas' : `los ${partidos.length} programas`} que comparas.</p>
-        ${ejemplos.length ? `<div class="ejemplos"><p class="ejemplos-t">Por ejemplo</p><ul>${ejemplos.map(([w, n]) => `<li><a href="#/buscar/${encodeURIComponent(w)}">${esc(w)}<span class="c">${fmt(n)}</span></a></li>`).join('')}</ul></div>` : ''}
+        <p class="nota">${q.trim() ? `${t('Escribe al menos una palabra de dos letras.')} ` : ''}${plural(partidos.length, 'Busca en el texto del programa que comparas.', 'Busca en el texto de los {n} programas que comparas.')}</p>
+        ${ejemplos.length ? `<div class="ejemplos"><p class="ejemplos-t">${t('Por ejemplo')}</p><ul>${ejemplos.map(([w, n]) => `<li><a href="#/buscar/${encodeURIComponent(w)}">${esc(w)}<span class="c">${fmt(n)}</span></a></li>`).join('')}</ul></div>` : ''}
       </div>`;
     }
     resultados = {};
@@ -477,16 +500,17 @@
     });
     const vs = pvis();
     const total = vs.reduce((a, p) => a + (resultados[p.id] || []).length, 0);
+    const buscado = terminos.length > 1 ? t('todas estas palabras') : `«${esc(q.trim())}»`;
     return `
-      <div class="cab cab--buscar"><h1 class="sr">Resultados de la búsqueda</h1>
+      <div class="cab cab--buscar"><h1 class="sr">${t('Resultados de la búsqueda')}</h1>
         ${cajaBusqueda(q)}
-        <p class="res-n">${total ? `${plural(total, 'extracto contiene', 'extractos contienen')} ${terminos.length > 1 ? 'todas estas palabras' : '«' + esc(q.trim()) + '»'}.` : `Ningún extracto contiene ${terminos.length > 1 ? 'todas estas palabras' : '«' + esc(q.trim()) + '»'}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».`}</p>
+        <p class="res-n">${total ? plural(total, '{n} extracto contiene {q}.', '{n} extractos contienen {q}.', { q: buscado }) : t('Ningún extracto contiene {q}. Prueba con menos palabras o con otra forma, por ejemplo «alquiler» en vez de «alquileres».', { q: buscado })}</p>
         ${total ? `<div class="barra">${filtroHTML(Object.fromEntries(partidos.map((p) => [p.id, (resultados[p.id] || []).length])))}</div>` : ''}
       </div>
       ${total ? vs.map((p) => {
         const n = (resultados[p.id] || []).length;
-        return `<section class="res-p" data-p="${p.id}" id="hr-${p.id}" aria-labelledby="hrh-${p.id}"><h2 id="hrh-${p.id}">${punto(p)}${esc(p.corto)}<span class="c">${plural(n, 'extracto', 'extractos')}</span></h2>
-          ${n ? `<div class="lista">${resultadosPartido(p.id, 0)}</div>` : '<p class="vacio">Su programa no contiene esta búsqueda.</p>'}</section>`;
+        return `<section class="res-p" data-p="${p.id}" id="hr-${p.id}" aria-labelledby="hrh-${p.id}"><h2 id="hrh-${p.id}">${punto(p)}${esc(p.corto)}<span class="c">${plural(n, '{n} extracto', '{n} extractos')}</span></h2>
+          ${n ? `<div class="lista">${resultadosPartido(p.id, 0)}</div>` : `<p class="vacio">${t('Su programa no contiene esta búsqueda.')}</p>`}</section>`;
       }).join('') : ''}`;
   }
   const ACENTOS = { a: '[aáàäâ]', e: '[eéèëê]', i: '[iíìïî]', o: '[oóòöô]', u: '[uúùüû]', n: '[nñ]', c: '[cç]' };
@@ -521,7 +545,7 @@
   }
 
   function vNoEncontrado() {
-    return '<div class="cab"><h1>Esta página no existe</h1><p class="lead"><a href="#/">Volver a los temas</a></p></div>';
+    return `<div class="cab"><h1>${t('Esta página no existe')}</h1><p class="lead"><a href="#/">${t('Volver a los temas')}</a></p></div>`;
   }
 
   /* ---------- Llegar a un extracto en su programa ---------- */
@@ -561,8 +585,8 @@
     const eje = ejeId && D.ejes.find((x) => x.id === ejeId);
     art.classList.add('ex--aqui');
     art.insertAdjacentHTML('afterbegin', `<p class="aqui">
-      <span class="aqui-t">${exacta && eje ? `Subrayada, la cita de «${esc(eje.pregunta)}»` : 'Subrayado, el texto que buscabas'}</span>
-      ${history.length > 1 ? `<button type="button" class="btn aqui-v" data-volver>${ICO.izq}Volver</button>` : ''}</p>`);
+      <span class="aqui-t">${exacta && eje ? t('Subrayada, la cita de «{x}»', { x: esc(eje.pregunta) }) : t('Subrayado, el texto que buscabas')}</span>
+      ${history.length > 1 ? `<button type="button" class="btn aqui-v" data-volver>${ICO.izq}${t('Volver')}</button>` : ''}</p>`);
     const foco = $('mark.subr', art) || art;
     const centrar = () => foco.scrollIntoView({ block: 'center' });
     requestAnimationFrame(centrar);
@@ -712,22 +736,22 @@
   // Los mensajes se envían con EmailJS, con la plantilla del formulario de contacto de nódicus
   // (campos name, email, subject, message, origen). La clave es pública.
   const EMAILJS = { servicio: 'service_vg6oefs', plantilla: 'template_xty5ryd', clave: 'djSnpxKmk53yDPEEq' };
-  const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
+  const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString(LOC, { day: 'numeric', month: 'long', year: 'numeric' });
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
     <details class="pie-fuentes">
-      <summary>${ICO.chev}Fuentes: los ${todos.length} programas oficiales</summary>
-      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} ${p.paginas === 1 ? 'pág.' : 'págs.'}</li>`).join('')}</ul>
-      <p>Datos del ${esc(fecha(D.generado))}.</p>
+      <summary>${ICO.chev}${t('Fuentes: los {n} programas oficiales', { n: todos.length })}</summary>
+      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.tituloOriginal || p.titulo)}</a> · ${plural(p.paginas, '{n} pág.', '{n} págs.')}</li>`).join('')}</ul>
+      <p>${t('Datos del {x}.', { x: esc(fecha(D.generado)) })}</p>
     </details>
     ${EMAILJS.plantilla ? `<form class="opina" novalidate>
-      <h2>¿Has visto un error o quieres comentar algo?</h2>
+      <h2>${t('¿Has visto un error o quieres comentar algo?')}</h2>
       <div class="opina-campos">
-        <label class="campo"><span class="campo-t">Asunto</span><input name="asunto" required maxlength="120" autocomplete="off"></label>
-        <label class="campo"><span class="campo-t">Tu correo <span class="opc">(opcional, para poder responderte)</span></span><input name="correo" type="email" maxlength="200" autocomplete="email"></label>
-        <label class="campo opina-msg"><span class="campo-t">Mensaje</span><textarea name="mensaje" required rows="4" maxlength="5000"></textarea></label>
+        <label class="campo"><span class="campo-t">${t('Asunto')}</span><input name="asunto" required maxlength="120" autocomplete="off"></label>
+        <label class="campo"><span class="campo-t">${t('Tu correo')} <span class="opc">${t('(opcional, para poder responderte)')}</span></span><input name="correo" type="email" maxlength="200" autocomplete="email"></label>
+        <label class="campo opina-msg"><span class="campo-t">${t('Mensaje')}</span><textarea name="mensaje" required rows="4" maxlength="5000"></textarea></label>
         <input name="botcheck" type="checkbox" hidden tabindex="-1" autocomplete="off">
       </div>
-      <div class="opina-pie"><button type="submit" class="btn btn--fuerte btn--peq">Enviar</button><p class="opina-estado" role="status" aria-live="polite"></p></div>
+      <div class="opina-pie"><button type="submit" class="btn btn--fuerte btn--peq">${t('Enviar')}</button><p class="opina-estado" role="status" aria-live="polite"></p></div>
     </form>` : ''}
   </div>`; };
   pintarPie();
@@ -738,10 +762,10 @@
     const estado = $('.opina-estado', form);
     const boton = $('button', form);
     const v = (n) => form.elements[n].value.trim();
-    if (!v('asunto') || !v('mensaje')) { estado.textContent = 'Escribe un asunto y un mensaje.'; return; }
-    if (v('correo') && !form.elements.correo.checkValidity()) { estado.textContent = 'Revisa el correo: no parece válido.'; return; }
+    if (!v('asunto') || !v('mensaje')) { estado.textContent = t('Escribe un asunto y un mensaje.'); return; }
+    if (v('correo') && !form.elements.correo.checkValidity()) { estado.textContent = t('Revisa el correo: no parece válido.'); return; }
     boton.disabled = true;
-    estado.textContent = 'Enviando…';
+    estado.textContent = t('Enviando…');
     try {
       if (form.elements.botcheck.checked) throw new Error();
       const r = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
@@ -750,15 +774,15 @@
           service_id: EMAILJS.servicio, template_id: EMAILJS.plantilla, user_id: EMAILJS.clave,
           template_params: {
             name: 'Programas 29N', email: v('correo') || '(sin correo)', subject: `[Programas 29N] ${v('asunto')}`,
-            message: `${v('mensaje')}\n\nPágina: ${location.href}`, origen: 'Programas 29N',
+            message: `${v('mensaje')}\n\nPágina: ${location.href}\nIdioma: ${L}`, origen: 'Programas 29N',
           },
         }),
       });
       if (!r.ok) throw new Error();
       form.reset();
-      estado.textContent = 'Enviado. Gracias.';
+      estado.textContent = t('Enviado. Gracias.');
     } catch (_) {
-      estado.textContent = 'No se ha podido enviar. Inténtalo de nuevo en un rato.';
+      estado.textContent = t('No se ha podido enviar. Inténtalo de nuevo en un rato.');
     } finally {
       boton.disabled = false;
     }
@@ -768,8 +792,8 @@
   // Una fila por programa: las candidaturas que comparten programa vienen fundidas desde build_web.py.
   const CAND = D.candidaturas || [];
   const filtroC = { q: '', prov: '' };
-  const SIN_PROG = { pdf: 'Aún no está disponible.', 'no-publicado': 'Aún no está disponible.' };
-  const listaY = (l) => (l.length > 1 ? `${l.slice(0, -1).join(', ')} y ${l[l.length - 1]}` : l[0] || '');
+  const SIN_PROG = { pdf: t('Aún no está disponible.'), 'no-publicado': t('Aún no está disponible.') };
+  const listaY = (l) => (l.length > 1 ? t('{a} y {b}', { a: l.slice(0, -1).join(', '), b: l[l.length - 1] }) : l[0] || '');
   const lugares = (c) => [...new Set([...c.c, ...c.se])];
   const N_CIRC = (D.mapa && D.mapa.zonas.length) || 52;
   function coincide(c, prov = filtroC.prov) {
@@ -783,24 +807,24 @@
   }
   function dondeTexto(c) {
     const l = lugares(c);
-    if (l.length >= N_CIRC) return 'Toda España';
-    if (filtroC.prov && l.length > 1) return `${esc(filtroC.prov)} <span class="cand-mas">y ${plural(l.length - 1, 'circunscripción más', 'circunscripciones más')}</span>`;
-    return l.length > 4 ? plural(l.length, 'circunscripción', 'circunscripciones') : esc(listaY(l));
+    if (l.length >= N_CIRC) return t('Toda España');
+    if (filtroC.prov && l.length > 1) return `${esc(filtroC.prov)} <span class="cand-mas">${plural(l.length - 1, 'y {n} circunscripción más', 'y {n} circunscripciones más')}</span>`;
+    return l.length > 4 ? plural(l.length, '{n} circunscripción', '{n} circunscripciones') : esc(listaY(l));
   }
   const elegido = (id) => partidos.some((p) => p.id === id);
   function candHTML(c) {
     const pr = c.prog && P[c.prog];
     const accion = pr
-      ? `<button type="button" class="btn btn--peq cand-b" data-alternar="${pr.id}" aria-pressed="${elegido(pr.id)}"${elegido(pr.id) && partidos.length === 1 ? ' disabled' : ''}><span class="si-no">${ICO.mas}Añadir</span><span class="si-si">${ICO.ok}Añadido</span><span class="sr"> ${esc(c.n)}</span></button>`
+      ? `<button type="button" class="btn btn--peq cand-b" data-alternar="${pr.id}" aria-pressed="${elegido(pr.id)}"${elegido(pr.id) && partidos.length === 1 ? ' disabled' : ''}><span class="si-no">${ICO.mas}${t('Añadir')}</span><span class="si-si">${ICO.ok}${t('Añadido')}</span><span class="sr"> ${esc(c.n)}</span></button>`
       : '';
     return `<li class="cand${pr ? '' : ' cand--sin'}">
       <p class="cand-n">${pr ? punto(pr) : '<span class="pc pc--vacio" aria-hidden="true"></span>'}<span>${esc(c.n)}</span><span class="cand-s">${esc(c.s)}</span></p>
       <p class="cand-d">${dondeTexto(c)}</p>
-      ${pr ? '' : `<p class="cand-e">${SIN_PROG[c.e] || 'No se ha encontrado su programa.'}</p>`}
+      ${pr ? '' : `<p class="cand-e">${SIN_PROG[c.e] || t('No se ha encontrado su programa.')}</p>`}
       ${accion}
     </li>`;
   }
-  const alfa = (a, b) => a.n.localeCompare(b.n, 'es', { sensitivity: 'base' });
+  const alfa = (a, b) => a.n.localeCompare(b.n, LOC, { sensitivity: 'base' });
   function elegirResultados() {
     // primero los que ya comparas, luego los que se pueden añadir y al final los que no tienen programa en la web
     const grupo = (c) => (!c.prog ? 2 : elegido(c.prog) ? 0 : 1);
@@ -810,19 +834,19 @@
     const deCirc = filtroC.prov ? [...new Set(CAND.filter((c) => c.prog && lugares(c).includes(filtroC.prov)).map((c) => c.prog))] : [];
     const soloCirc = deCirc.length && (deCirc.length !== partidos.length || deCirc.some((id) => !elegido(id)));
     return `<div class="dlg-acc">
-        <p class="dlg-n" role="status">${plural(l.length, 'partido', 'partidos')}${filtroC.prov ? ` en ${esc(filtroC.prov)}` : ''}</p>
+        <p class="dlg-n" role="status">${filtroC.prov ? plural(l.length, '{n} partido en {x}', '{n} partidos en {x}', { x: esc(filtroC.prov) }) : plural(l.length, '{n} partido', '{n} partidos')}</p>
         <div class="dlg-bs">
-          ${faltan.length ? `<button type="button" class="btn btn--peq btn--fuerte" data-anadir-todos="${faltan.join(' ')}">${ICO.mas}${faltan.length === 1 ? `Añadir ${esc(P[faltan[0]].corto)}` : `Añadir los ${faltan.length} que faltan`}</button>` : (progs.length ? '<span class="dlg-ok" tabindex="-1">Ya comparas todos</span>' : '')}
-          ${soloCirc ? `<button type="button" class="btn btn--peq" data-solo-estos="${deCirc.join(' ')}">Comparar toda la circunscripción</button>` : ''}
+          ${faltan.length ? `<button type="button" class="btn btn--peq btn--fuerte" data-anadir-todos="${faltan.join(' ')}">${ICO.mas}${faltan.length === 1 ? t('Añadir {x}', { x: esc(P[faltan[0]].corto) }) : t('Añadir los {n} que faltan', { n: faltan.length })}</button>` : (progs.length ? `<span class="dlg-ok" tabindex="-1">${t('Ya comparas todos')}</span>` : '')}
+          ${soloCirc ? `<button type="button" class="btn btn--peq" data-solo-estos="${deCirc.join(' ')}">${t('Comparar toda la circunscripción')}</button>` : ''}
         </div>
       </div>
-      ${l.length ? `<ul class="cands">${l.map(candHTML).join('')}</ul>` : '<p class="vacio dlg-vacio">Ningún partido coincide.</p>'}`;
+      ${l.length ? `<ul class="cands">${l.map(candHTML).join('')}</ul>` : `<p class="vacio dlg-vacio">${t('Ningún partido coincide.')}</p>`}`;
   }
   function elegidosHTML() {
     const uno = partidos.length === 1;
-    return `<p class="dlg-st">Comparas <span class="c">${partidos.length}</span></p>
-      <ul class="dlg-chips">${partidos.map((p) => `<li><button type="button" class="chip chip--quitar" data-p="${p.id}" data-alternar="${p.id}"${uno ? ' disabled' : ''}>${punto(p)}${esc(p.corto)}${uno ? '' : `<span class="sr">: quitar de la comparación</span>${ICO.x}`}</button></li>`).join('')}</ul>
-      ${partidos.map((p) => p.id).join() !== BASE.join() ? '<button type="button" class="enlace dlg-base" data-base>Restablecer</button>' : ''}`;
+    return `<p class="dlg-st">${t('Comparas')} <span class="c">${partidos.length}</span></p>
+      <ul class="dlg-chips">${partidos.map((p) => `<li><button type="button" class="chip chip--quitar" data-p="${p.id}" data-alternar="${p.id}"${uno ? ' disabled' : ''}>${punto(p)}${esc(p.corto)}${uno ? '' : `<span class="sr">: ${t('quitar de la comparación')}</span>${ICO.x}`}</button></li>`).join('')}</ul>
+      ${partidos.map((p) => p.id).join() !== BASE.join() ? `<button type="button" class="enlace dlg-base" data-base>${t('Restablecer')}</button>` : ''}`;
   }
   // Mapa de circunscripciones: cada una es un botón; Ceuta y Melilla llevan además un círculo para poder pulsarlas.
   const MAPA = D.mapa;
@@ -830,7 +854,7 @@
   function mapaHTML() {
     if (!MAPA) return '';
     const zonas = MAPA.zonas.slice().sort((a, b) => PEQUENAS.includes(a.n) - PEQUENAS.includes(b.n));
-    return `<svg class="mapa-svg" viewBox="${MAPA.caja.join(' ')}" role="group" aria-label="Mapa de circunscripciones">
+    return `<svg class="mapa-svg" viewBox="${MAPA.caja.join(' ')}" role="group" aria-label="${t('Mapa de circunscripciones')}">
       <path class="mapa-marco" d="${MAPA.marco}" aria-hidden="true"/>
       ${zonas.map((z) => `<g class="mapa-z" data-prov="${esc(z.n)}" role="button" tabindex="0" aria-pressed="false">
         <title>${esc(z.n)}</title><path d="${z.d}"/>${PEQUENAS.includes(z.n) ? `<circle cx="${z.x}" cy="${z.y}" r="7"/>` : ''}</g>`).join('')}
@@ -843,15 +867,15 @@
       const n = g.dataset.prov;
       const k = CAND.filter((c) => coincide(c, n)).length;
       g.setAttribute('aria-pressed', String(filtroC.prov === n));
-      g.setAttribute('aria-label', `${n}: ${plural(k, 'partido', 'partidos')}`);
+      g.setAttribute('aria-label', `${n}: ${plural(k, '{n} partido', '{n} partidos')}`);
       g.classList.toggle('mapa-z--vacia', !k);
-      $('title', g).textContent = `${n} · ${plural(k, 'partido', 'partidos')}`;
+      $('title', g).textContent = `${n} · ${plural(k, '{n} partido', '{n} partidos')}`;
     });
     $('#mapa-t', dlg).innerHTML = filtroC.prov
-      ? `<span>${esc(filtroC.prov)}</span><button type="button" class="enlace" data-espana>Ver toda España</button>`
-      : '<span>Toda España</span>';
+      ? `<span>${esc(filtroC.prov)}</span><button type="button" class="enlace" data-espana>${t('Ver toda España')}</button>`
+      : `<span>${t('Toda España')}</span>`;
     const n = CAND.filter((c) => coincide(c)).length;
-    $('.mapa-ir', dlg).textContent = `Ver ${n === 1 ? 'el partido' : `los ${n} partidos`}`;
+    $('.mapa-ir', dlg).textContent = n === 1 ? t('Ver el partido') : t('Ver los {n} partidos', { n });
   }
   let dlg = null;
   function abrirElegir() {
@@ -861,17 +885,17 @@
       dlg.setAttribute('aria-labelledby', 'dlg-t');
       dlg.innerHTML = `<div class="dlg-in">
         <header class="dlg-h">
-          <h2 id="dlg-t">Añadir partidos</h2>
-          <button type="button" class="dlg-x" data-cerrar aria-label="Cerrar">${ICO.x}</button>
+          <h2 id="dlg-t">${t('Añadir partidos')}</h2>
+          <button type="button" class="dlg-x" data-cerrar aria-label="${t('Cerrar')}">${ICO.x}</button>
         </header>
         <div class="dlg-cuerpo">
-          <section class="dlg-izq" aria-label="Partidos">
+          <section class="dlg-izq" aria-label="${t('Partidos')}">
             <form class="dlg-f" role="search">
-              <label class="campo campo--q"><span class="sr">Buscar por nombre o sigla</span><input type="search" id="dlg-q" autocomplete="off" spellcheck="false" placeholder="Buscar por nombre o sigla"></label>
+              <label class="campo campo--q"><span class="sr">${t('Buscar por nombre o sigla')}</span><input type="search" id="dlg-q" autocomplete="off" spellcheck="false" placeholder="${t('Buscar por nombre o sigla')}"></label>
             </form>
             <div class="dlg-res" id="dlg-res"></div>
           </section>
-          <aside class="dlg-der" aria-label="Filtrar por circunscripción">
+          <aside class="dlg-der" aria-label="${t('Filtrar por circunscripción')}">
             <div class="mapa">
               <p class="mapa-t" id="mapa-t" tabindex="-1"></p>
               ${mapaHTML()}
@@ -881,7 +905,7 @@
             <div class="dlg-sel" id="dlg-sel"></div>
           </aside>
         </div>
-        <footer class="dlg-pie"><button type="button" class="btn btn--fuerte" data-cerrar>Hecho</button></footer>
+        <footer class="dlg-pie"><button type="button" class="btn btn--fuerte" data-cerrar>${t('Hecho')}</button></footer>
       </div>`;
       document.body.appendChild(dlg);
       const pintar = () => { $('#dlg-res', dlg).innerHTML = elegirResultados(); pintarMapa(); };
@@ -951,12 +975,61 @@
     const n = $('.top-partidos .c');
     if (n) n.textContent = partidos.length;
     const b = $('.top-partidos');
-    if (b) b.setAttribute('aria-label', `Añadir partidos (comparas ${plural(partidos.length, 'partido', 'partidos')})`);
+    if (b) b.setAttribute('aria-label', t('Añadir partidos (comparas {x})', { x: plural(partidos.length, '{n} partido', '{n} partidos') }));
   }
   document.addEventListener('click', (ev) => {
     if (ev.target.closest('[data-elegir]')) { ev.preventDefault(); abrirElegir(); }
   });
   contarPartidos();
+
+  /* ---------- Idioma ---------- */
+  // Arriba a la derecha, un círculo con la bandera del idioma de la página; al pulsarlo se despliegan los demás.
+  // Cada bandera es un enlace a la misma vista en el otro idioma, y lleva el nombre del idioma (para lectores
+  // de pantalla y al pasar el ratón), porque una bandera sola no dice qué idioma es.
+  const BANDERA = {
+    es: '<rect width="30" height="30" fill="#c60b1e"/><rect y="7.5" width="30" height="15" fill="#ffc400"/>',
+    ca: '<rect width="30" height="30" fill="#fcdd09"/>' + [1, 3, 5, 7].map((k) => `<rect y="${(k * 30 / 9).toFixed(2)}" width="30" height="3.34" fill="#da121a"/>`).join(''),
+    va: '<rect width="30" height="30" fill="#fcdd09"/>' + [1, 3, 5, 7].map((k) => `<rect y="${(k * 30 / 9).toFixed(2)}" width="30" height="3.34" fill="#da121a"/>`).join('') + '<rect width="9" height="30" fill="#0f47af"/>',
+    eu: '<rect width="30" height="30" fill="#d52b1e"/><path d="M0 0 30 30M30 0 0 30" stroke="#009b48" stroke-width="5"/><path d="M15 0v30M0 15h30" stroke="#fff" stroke-width="4.4"/>',
+    gl: '<rect width="30" height="30" fill="#fff"/><path d="M-2 2 2-2 32 28 28 32z" fill="#0099cc"/>',
+  };
+  const bandera = (id) => `<svg class="idi-f" viewBox="0 0 30 30" aria-hidden="true"><clipPath id="idi-c-${id}"><circle cx="15" cy="15" r="15"/></clipPath><g clip-path="url(#idi-c-${id})">${BANDERA[id]}</g></svg>`;
+  const recordarIdioma = (id) => guardar('p29n-idioma', id);
+  const caja = document.getElementById('idiomas');
+  if (caja) {
+    const otros = IDIOMAS.filter((x) => x.id !== L);
+    caja.innerHTML = `<button type="button" class="idi-b" aria-expanded="false" aria-controls="idi-l" title="${esc(IDI[L].nombre)}" aria-label="${esc(t('Idioma: {x}. Cambiar de idioma', { x: IDI[L].nombre }))}">${bandera(L)}</button>
+      <ul class="idi-l" id="idi-l" hidden>${otros.map((x, k) => `<li style="--k:${k}"><a class="idi-a" data-idioma="${x.id}" hreflang="${x.bcp}" lang="${x.bcp}" title="${esc(x.nombre)}" aria-label="${esc(x.nombre)}">${bandera(x.id)}<span class="idi-n">${esc(x.nombre)}</span></a></li>`).join('')}</ul>`;
+    const boton = $('.idi-b', caja);
+    const lista = $('.idi-l', caja);
+    const abrir = (si) => {
+      boton.setAttribute('aria-expanded', String(si));
+      lista.hidden = !si;
+      caja.classList.toggle('abierta', si);
+    };
+    boton.addEventListener('click', () => abrir(lista.hidden));
+    caja.addEventListener('click', (ev) => { const a = ev.target.closest('[data-idioma]'); if (a) recordarIdioma(a.dataset.idioma); });
+    caja.addEventListener('keydown', (ev) => { if (ev.key === 'Escape' && !lista.hidden) { abrir(false); boton.focus(); } });
+    document.addEventListener('click', (ev) => { if (!lista.hidden && !caja.contains(ev.target)) abrir(false); });
+    caja.addEventListener('focusout', (ev) => { if (!caja.contains(ev.relatedTarget) && ev.relatedTarget) abrir(false); });
+  }
+  // los enlaces de idioma llevan a la misma vista: se actualizan cada vez que cambia la dirección
+  function ponerIdiomas() {
+    $$('#idiomas [data-idioma]').forEach((a) => { a.href = `${SITIO}${IDI[a.dataset.idioma].ruta}${location.hash}`; });
+  }
+  // primera visita a la portada en castellano: si el navegador está en catalán, valenciano, gallego o euskera,
+  // se va a esa versión; si el lector ya eligió un idioma, se respeta
+  (function idiomaInicial() {
+    if (L !== 'es' || SITIO || !/^\/(index\.html)?$/.test(location.pathname)) return;
+    let id = leer('p29n-idioma', null);
+    if (!id) {
+      for (const n of (navigator.languages || [navigator.language || '']).map((x) => x.toLowerCase())) {
+        if (n.startsWith('ca')) { id = /valencia/.test(n) ? 'va' : 'ca'; break; }
+        if (n.startsWith('gl') || n.startsWith('eu') || n.startsWith('es')) { id = n.slice(0, 2); break; }
+      }
+    }
+    if (id && id !== 'es' && IDI[id]) location.replace(`${IDI[id].ruta}${location.hash}`);
+  }());
 
   /* ---------- Rutas ---------- */
   function ruta() {
@@ -974,13 +1047,13 @@
     let objetivo = ancla;
     // «Ver en su programa»: el programa entero, con el extracto subrayado en su sitio
     const llegada = v === 'e' && porId[a];
-    if (llegada) { html = vPrograma(llegada.p); nav = 'programas'; titulo = `Programa de ${P[llegada.p].corto} · Programas 29N`; }
+    if (llegada) { html = vPrograma(llegada.p); nav = 'programas'; titulo = `${t('Programa de {x}', { x: P[llegada.p].corto })} · Programas 29N`; }
     else if (!v) html = vInicio();
     else if (v === 'tema') { html = vBloque(a); objetivo = ancla || b; const bl = D.bloques.find((x) => x.id === a); if (bl) titulo = `${bl.nombre} · Programas 29N`; }
-    else if (v === 'choques') { html = vChoques(); nav = 'choques'; titulo = 'Dónde chocan · Programas 29N'; }
-    else if (v === 'programas') { html = vProgramas(); nav = 'programas'; titulo = 'Programas completos · Programas 29N'; }
-    else if (v === 'programa') { html = vPrograma(a); nav = 'programas'; if (P[a]) titulo = `Programa de ${P[a].corto} · Programas 29N`; }
-    else if (v === 'buscar') { html = vBuscar(a || ''); nav = 'buscar'; titulo = a ? `«${a}» · Buscar · Programas 29N` : 'Buscar · Programas 29N'; }
+    else if (v === 'choques') { html = vChoques(); nav = 'choques'; titulo = `${t('Dónde chocan')} · Programas 29N`; }
+    else if (v === 'programas') { html = vProgramas(); nav = 'programas'; titulo = `${t('Programas completos')} · Programas 29N`; }
+    else if (v === 'programa') { html = vPrograma(a); nav = 'programas'; if (P[a]) titulo = `${t('Programa de {x}', { x: P[a].corto })} · Programas 29N`; }
+    else if (v === 'buscar') { html = vBuscar(a || ''); nav = 'buscar'; titulo = a ? `«${a}» · ${t('Buscar')} · Programas 29N` : `${t('Buscar')} · Programas 29N`; }
     else html = vNoEncontrado();
     main.innerHTML = html;
     main.dataset.lectura = vistaTexto;
@@ -997,18 +1070,18 @@
       return;
     }
     if (!irArriba) return;
-    const t = objetivo && document.getElementById(objetivo);
-    if (t) {
-      if (t.classList.contains('ex')) {
-        const sec = t.closest('.sub');
-        const col = t.closest('.col');
+    const dest = objetivo && document.getElementById(objetivo);
+    if (dest) {
+      if (dest.classList.contains('ex')) {
+        const sec = dest.closest('.sub');
+        const col = dest.closest('.col');
         if (sec && col) activarPestana(sec, col.dataset.p);
-        abrirExtracto(t, true);
-        t.classList.add('destello');
-      } else if (t.classList.contains('col')) {
-        activarPestana(t.closest('.sub'), t.dataset.p);
+        abrirExtracto(dest, true);
+        dest.classList.add('destello');
+      } else if (dest.classList.contains('col')) {
+        activarPestana(dest.closest('.sub'), dest.dataset.p);
       }
-      t.scrollIntoView({ block: 'start' });
+      dest.scrollIntoView({ block: 'start' });
     } else if (vista !== ultimaVista) {
       window.scrollTo(0, 0);
       // al abrir «Buscar» sin palabras, el cursor va directo a la caja
@@ -1016,6 +1089,7 @@
       else main.focus({ preventScroll: true });
     }
     ultimaVista = vista;
+    ponerIdiomas();
   }
   window.addEventListener('hashchange', () => render(true));
   $('.busca').addEventListener('submit', (ev) => {
