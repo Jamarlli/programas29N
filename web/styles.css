@@ -467,7 +467,6 @@ mark.subr { background: var(--mark); color: var(--mark-ink); padding: .05em 0; -
 .enlace:hover { text-decoration-color: currentColor; }
 .top-partidos { flex: none; height: 40px; padding: 0 12px 0 14px; }
 .top-partidos .c { display: inline-flex; align-items: center; justify-content: center; min-width: 22px; height: 22px; margin-left: 4px; padding: 0 6px; border-radius: 999px; background: var(--surface-3); font-size: .8125rem; font-weight: 700; color: var(--ink-2); }
-.hero-mas { align-self: center; }
 
 /* Con más de cuatro partidos, la tabla de temas se desplaza en horizontal y el nombre del tema queda fijo */
 /* position: relative para que los textos .sr (absolutos) de las columnas no escapen del desplazamiento y ensanchen la página */

@@ -245,8 +245,7 @@
       <section class="hero">
         <h1>Qué proponen los partidos para el 29N</h1>
         <p class="lead">${partidos.length > 4 ? `Los programas de los ${partidos.length} partidos que comparas` : `Los programas de ${partidos.map((p) => esc(p.corto)).join(', ').replace(/, ([^,]*)$/, ' y $1')}`}, enteros y ordenados por temas. <a href="#/" data-salto="h-temas">Elige un tema</a> para leer qué dice cada partido, mira <a href="#/choques">dónde chocan</a> en ${nEjes} preguntas concretas o <a href="#/buscar">busca una palabra</a>. Lo que dice un partido está copiado tal cual de su programa, y siempre puedes verlo en el original.</p>
-        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} págs.</span></li>`).join('')}
-          <li class="hero-mas"><button type="button" class="btn btn--peq" data-elegir>${ICO.mas}Añadir partidos</button></li></ul>
+        <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} págs.</span></li>`).join('')}</ul>
       </section>
       <section class="bloque" aria-labelledby="h-temas">
         <div class="bloque-h"><h2 id="h-temas">Elige un tema</h2><p class="bloque-d">${D.bloques.length} temas y ${nSubtemas} subtemas. Dentro de cada tema verás primero dónde chocan los partidos y después todo lo que dice cada uno.</p></div>
@@ -380,7 +379,7 @@
   function vProgramas() {
     return `
       <div class="cab"><h1>Programas completos</h1>
-        <p class="lead">Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden con <button type="button" class="enlace" data-elegir>Añadir partidos</button>.</p></div>
+        <p class="lead">Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.</p></div>
       <ul class="programas">${todos.map((p) => `<li>
           <a class="pg" href="#/programa/${p.id}" data-p="${p.id}">
             <span class="pg-n">${punto(p)}${esc(p.corto)}</span>
@@ -707,8 +706,8 @@
   }
 
   /* ---------- Pie ---------- */
-  // Los mensajes se envían con Web3Forms: la clave es pública y solo sirve para mandar correos a su dueño.
-  const WEB3FORMS = '';
+  // Los mensajes se envían con EmailJS: la plantilla decide a quién llegan; la clave es pública.
+  const EMAILJS = { servicio: 'service_vg6oefs', plantilla: '', clave: 'djSnpxKmk53yDPEEq' };
   const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
     <details class="pie-fuentes">
@@ -716,7 +715,7 @@
       <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul>
       <p>Datos del ${esc(fecha(D.generado))}.</p>
     </details>
-    ${WEB3FORMS ? `<form class="opina" novalidate>
+    ${EMAILJS.plantilla ? `<form class="opina" novalidate>
       <h2>¿Has visto un error o quieres comentar algo?</h2>
       <div class="opina-campos">
         <label class="campo"><span class="campo-t">Asunto</span><input name="asunto" required maxlength="120" autocomplete="off"></label>
@@ -740,15 +739,15 @@
     boton.disabled = true;
     estado.textContent = 'Enviando…';
     try {
-      const r = await fetch('https://api.web3forms.com/submit', {
-        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+      if (form.elements.botcheck.checked) throw new Error();
+      const r = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          access_key: WEB3FORMS, subject: `[Programas 29N] ${v('asunto')}`, from_name: 'Programas 29N',
-          ...(v('correo') ? { email: v('correo'), replyto: v('correo') } : {}),
-          message: `${v('mensaje')}\n\n— Enviado desde ${location.href}`, botcheck: form.elements.botcheck.checked,
+          service_id: EMAILJS.servicio, template_id: EMAILJS.plantilla, user_id: EMAILJS.clave,
+          template_params: { asunto: v('asunto'), correo: v('correo') || '(sin correo)', mensaje: v('mensaje'), pagina: location.href },
         }),
       });
-      if (!(await r.json()).success) throw new Error();
+      if (!r.ok) throw new Error();
       form.reset();
       estado.textContent = 'Enviado. Gracias.';
     } catch (_) {

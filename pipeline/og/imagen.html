@@ -1,0 +1,42 @@
+<!doctype html>
+<!-- Imagen para compartir (web/og.png, 1200×630). Se genera con una captura de esta página a ese tamaño. -->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face { font-family: "Schibsted Grotesk"; font-weight: 400 800; src: url("../../web/fonts/schibsted-grotesk-latin.woff2") format("woff2"); }
+:root {
+  --bg: #f4f5f7; --surface: #fff; --surface-2: #f3f4f6; --line: #e3e5e9; --line-2: #c9ced6;
+  --ink: #15181d; --ink-2: #454d59; --ink-3: #5c6573;
+}
+* { box-sizing: border-box; margin: 0; }
+html, body { width: 1200px; height: 630px; overflow: hidden; }
+body { display: grid; grid-template-columns: 1fr 470px; gap: 56px; align-items: center; padding: 0 72px; background: var(--bg); font-family: "Schibsted Grotesk", sans-serif; color: var(--ink); }
+.marca { font-size: 26px; font-weight: 800; letter-spacing: -.02em; }
+.marca span { display: block; margin-top: 2px; font-size: 17px; font-weight: 500; letter-spacing: 0; color: var(--ink-3); }
+h1 { margin-top: 44px; font-size: 64px; font-weight: 800; line-height: 1.02; letter-spacing: -.035em; }
+p { margin-top: 26px; font-size: 24px; line-height: 1.35; color: var(--ink-2); }
+.ficha { padding: 30px 30px 32px; border: 1px solid var(--line); border-radius: 20px; background: var(--surface); }
+.ficha small { display: block; font-size: 16px; font-weight: 700; color: var(--ink-3); }
+.ficha h2 { margin: 8px 0 20px; font-size: 27px; font-weight: 800; line-height: 1.15; letter-spacing: -.02em; }
+.pos { display: flex; flex-direction: column; gap: 12px; padding: 16px 18px; border-radius: 12px; background: var(--surface-2); font-size: 19px; font-weight: 500; }
+.pos + .pos { margin-top: 12px; }
+.sig { display: flex; gap: 8px; }
+.sig b { display: inline-flex; align-items: center; gap: 7px; padding: 5px 11px; border: 1px solid var(--line-2); border-radius: 8px; background: var(--surface); font-size: 16px; font-weight: 700; }
+.sig b::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+</style>
+</head>
+<body>
+<div>
+  <div class="marca">Programas 29N<span>Elecciones generales · 29 nov 2026</span></div>
+  <h1>Qué proponen<br>los partidos<br>para el 29N</h1>
+  <p>Los programas electorales enteros, ordenados por temas y citados literalmente.</p>
+</div>
+<div class="ficha">
+  <small>Dónde chocan</small>
+  <h2>¿Limitar el precio del alquiler?</h2>
+  <div class="pos">Sí, regular o bajar precios<div class="sig"><b style="--c:#dc6a1c">FA</b><b style="--c:#a8122a">PSOE</b></div></div>
+  <div class="pos">No, más oferta y seguridad jurídica<div class="sig"><b style="--c:#1f5fa6">PP</b><b style="--c:#3e9230">Vox</b></div></div>
+</div>
+</body>
+</html>
