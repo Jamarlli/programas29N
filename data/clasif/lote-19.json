@@ -1,0 +1,2139 @@
+[
+ {
+  "id": "mundo-0079",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Gravar los beneficios extraordinarios y limitar al 90 % la exención por doble imposición",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0080",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Mantener y ampliar la Tasa Google a más servicios digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0081",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Converger la presión fiscal (37,1 % del PIB) con la zona euro en 2030",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Subir o bajar la presión fiscal general? → subirla hasta la media de la zona euro, con más progresividad"
+ },
+ {
+  "id": "mundo-0082",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Aumentar un 40 % los recursos de inspección de la Agencia Tributaria para 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0083",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Tributación mínima del 3 % para patrimonios de más de 50 M€ (2027)",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0084",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Limitar al 90 % la exención por doble imposición en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0085",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Oxfam Intermón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0086",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Repartir mejor el trabajo: menos horas, salarios suficientes y renta básica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0087",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Avanzar hacia una renta básica de justicia social ampliando el Ingreso Mínimo Vital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0088",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada laboral a 35 horas semanales sin reducción salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0089",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Reforzar los servicios públicos de empleo para personas con más dificultades de inserción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0090",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la Inspección de Trabajo contra la explotación laboral y la economía sumergida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0091",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Garantizar vías accesibles y estables de regularización de las personas migrantes",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0092",
+  "subtema": "trab-salarios",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Trasladar las subidas del SMI a todas las categorías mediante la negociación colectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0093",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Ampliar los periodos cotizados por cuidado de hijos y familiares dependientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0094",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Jornada máxima de 35 horas sin reducción salarial en 2030",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0095",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reducir la temporalidad del 14,8 % a menos del 10 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0096",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Mantener el SMI en al menos el 60 % del salario medio hasta 2030",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0097",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Oxfam Intermón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0098",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Que los autónomos coticen por lo que ganan, cobren a tiempo y tengan derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0099",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Cotizar por ingresos reales con tramos bajos más baratos para los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0100",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Revisar deducciones para que las grandes empresas no tributen menos que un autónomo",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0101",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Pagar a autónomos y pymes en 30 días, con intereses de demora automáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0102",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Perseguir a los falsos autónomos y presumir la laboralidad en las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0103",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Avales y microcréditos para emprender, con condiciones preferentes en municipios rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0104",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Ninguna administración pagando a autónomos y pymes en más de 30 días (2027)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0105",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Presunción de laboralidad en plataformas al transponer la directiva (diciembre de 2026)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0106",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Economía al servicio del bien común, más allá del crecimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0107",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Adaptar las cargas regulatorias al tamaño de las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0108",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Transponer y aplicar la directiva europea de diligencia debida empresarial",
+  "ejes": [],
+  "nota": "SIN ENCAJE: responsabilidad social de las empresas y diligencia debida en derechos humanos"
+ },
+ {
+  "id": "mundo-0109",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Revisar los acuerdos comerciales que favorecen la explotación de países empobrecidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0110",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reforzar la rendición de cuentas de las empresas y la reparación de las víctimas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: responsabilidad social de las empresas y diligencia debida en derechos humanos"
+ },
+ {
+  "id": "mundo-0111",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Promover la economía circular y controlar los traslados de residuos a terceros países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0112",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Aplicar la Ley 1/2026 de economía social y abrirle la contratación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0113",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Indicadores de una economía de la suficiencia e índice de precios de lo suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0114",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Directiva de diligencia debida transpuesta, con autoridad de control, en 2027",
+  "ejes": [],
+  "nota": "SIN ENCAJE: responsabilidad social de las empresas y diligencia debida en derechos humanos"
+ },
+ {
+  "id": "mundo-0115",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Desarrollar la Ley 1/2026 de economía social con reserva en contratación pública (2027)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0116",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Una sanidad pública para todos, empezando por reforzar la atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0117",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Más inversión sanitaria y atención universal, también a personas en situación irregular",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0118",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Elevar la atención primaria al 25 % del gasto sanitario y frenar la privatización",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0119",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Un Estatuto Marco del personal sanitario pactado con los colectivos y las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0120",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Reforzar el Plan Nacional sobre Drogas y la prevención de las adicciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0121",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Mejorar las condiciones de los profesionales de cuidados de larga duración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0122",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Aprobar una ley estatal que garantice el acceso a cuidados paliativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0123",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Consolidar la Agencia Estatal de Salud Pública con una partida finalista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0124",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Estrategia Nacional de Fomento del Deporte contra el Sedentarismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0125",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Atención primaria: del 13,9 % al 25 % del gasto sanitario en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0126",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Reducir la espera media para cirugía de 121 a 60 días en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0127",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Plataforma del Tercer Sector",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0128",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Más profesionales de salud mental en sanidad y escuelas y prevención del suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0129",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Reforzar la prevención del suicidio y llegar a 50 profesionales por 100.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0130",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Integrar profesionales de la psicología en los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0131",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Red pública de hospitales de día de salud mental infantojuvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0132",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Duplicar los psicólogos clínicos del SNS hasta 12 por 100.000 habitantes en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0133",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Reducir un 20 % los suicidios para 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0134",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Aplicar y evaluar la Estrategia de Salud Mental del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0135",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Prevenir, acompañar y cuidar al principio y al final de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0136",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Prevenir los embarazos no deseados con educación afectivo-sexual y anticonceptivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0137",
+  "subtema": "igu-vida",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Acompañamiento gratuito a mujeres con embarazos en situación de vulnerabilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0138",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Atención psicológica gratuita por ley antes y después de interrumpir el embarazo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0139",
+  "subtema": "igu-vida",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Valoración urgente de cuidados paliativos para quien solicite la eutanasia, sin condicionar sus derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0140",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Acceso universal a cuidados paliativos especializados en 2030 (hoy, ≈ 40 %)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0141",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Atención psicológica gratuita antes y después de una IVE, reconocida por ley en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0142",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Plataforma del Tercer Sector",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0143",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Defensa de una educación pública, inclusiva, gratuita y equitativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0144",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Invertir el 6 % del PIB en educación, reconociendo la concertada",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0145",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Reforzar la formación docente y fijar por ley una jornada lectiva máxima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0146",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Bajar por ley las ratios a 20 alumnos en Primaria y 25 en ESO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0147",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-infantil"
+  ],
+  "titular": "Plan Estatal de Inclusión Educativa, gratuidad de 0 a 3 años y más becas",
+  "ejes": [
+   {
+    "eje": "eje-lomloe",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0148",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ampliar plazas, equipamientos y profesorado de la Formación Profesional pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0149",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Prevenir el acoso escolar y reforzar la participación en los centros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0150",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Estrategia Estatal de Educación para la Ciudadanía y la Justicia Global en el currículo",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Educación afectivo-sexual obligatoria en la escuela? → sí, adaptada a cada etapa"
+ },
+ {
+  "id": "mundo-0151",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Inversión pública en educación del 4,48 % al 6 % del PIB en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0152",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Abandono escolar temprano del 12,8 % a menos del 9 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0153",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Gratuidad universal de la educación de 0 a 3 años en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0154",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Jornada lectiva máxima: 23 horas en Infantil y Primaria, 18 en el resto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0155",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Un pacto de Estado para que la investigación impulse una economía sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0156",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Pacto de Estado por la ciencia y reforzar la Agencia Estatal de Investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0157",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Aumentar la inversión en ciencia e innovación hasta el 3 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0158",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Inversión en I+D del 1,50 % al 3 % del PIB en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0159",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "La migración como fenómeno estructural y oportunidad, no como problema",
+  "ejes": [],
+  "nota": "SIN ENCAJE: falta un subtema general de política migratoria para entradillas del bloque"
+ },
+ {
+  "id": "mundo-0160",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Reforzar Salvamento Marítimo y evitar la criminalización de las ONG de rescate",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0161",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Facilitar vías legales y seguras de migración y permisos de trabajo en origen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0162",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Poner fin a la externalización de fronteras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0163",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Eliminar las devoluciones en caliente sin garantías y asegurar el acceso al asilo",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir las devoluciones en caliente (rechazos en frontera)? → no, eliminarlas"
+ },
+ {
+  "id": "mundo-0164",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Sustituir los CIE por alternativas abiertas y reforzar la acogida",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener los Centros de Internamiento de Extranjeros (CIE)? → no, sustituirlos por alternativas abiertas"
+ },
+ {
+  "id": "mundo-0165",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Vías accesibles y permanentes de regularización y oficinas de extranjería más ágiles",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0166",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Acceso sin discriminación de las personas migrantes a sanidad, educación, vivienda y servicios sociales",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0167",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Eliminar por ley las devoluciones en caliente sin garantías en 2027",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir las devoluciones en caliente (rechazos en frontera)? → no, eliminarlas"
+ },
+ {
+  "id": "mundo-0168",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Resolver en 3 meses como máximo los permisos de residencia y trabajo en origen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0169",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Amnistía Internacional y Fundación Ciudadanía Global",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0170",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "La crisis climática como crisis de justicia: más esfuerzo para quien más contamina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0171",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Respaldar el −55 % de emisiones en 2030 y la neutralidad en 2050",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0172",
+  "subtema": "clima",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Plan Estatal de Adaptación a la Emergencia Climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0173",
+  "subtema": "clima",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Compromiso con el Fondo internacional de Pérdidas y Daños climáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0174",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Ciudades verdes: parque a menos de 15 minutos y 30 % de cubierta arbórea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0175",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Reducir las emisiones un 55 % respecto a 1990 en 2030",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0176",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Emisiones netas cero en 2050",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0177",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Parque a 15 minutos en cada barrio y 30 % de arbolado urbano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0178",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Enlázate por la Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0179",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Restaurar la naturaleza, cuidar el agua como bien común y una agricultura sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0180",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plan Nacional de Agricultura Ecológica: 6 millones de hectáreas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0181",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Desarrollar la Ley de Restauración de la Naturaleza y una red de corredores ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0182",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Plan de Recuperación de Especies en Declive",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0183",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "imp-verdes",
+   "rural-agro"
+  ],
+  "titular": "Ecoetiquetado ambiental y una tasa según la huella ambiental de cada producto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0184",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "El agua como bien público, sin cortes a hogares vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0185",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Superficie agraria ecológica de 2,94 a 6 millones de hectáreas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0186",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "La energía como derecho social: renovables, autoconsumo y comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0187",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Eliminar las fuentes de energía fósiles y apoyar el autoconsumo local",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0188",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Apostar por las renovables y financiar comunidades energéticas con sus ingresos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0189",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Descarbonizar el transporte: más transporte público y tren, menos vuelos con alternativa ferroviaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0190",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Transición ecológica justa en el campo, agroecología y relevo generacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0191",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear un Fondo Generacional de la Energía público para invertir en renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0192",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Electricidad renovable del 55,5 % al 81 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0193",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Fondo Generacional de la Energía operativo en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0194",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Rechazo al sufrimiento animal innecesario, sin cambios en la regulación de caza y tauromaquia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0195",
+  "subtema": "animales",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Prohibir el hacinamiento en las granjas y apoyar la ganadería extensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0196",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reforzar la prohibición de experimentar con animales para cosmética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0197",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Incluir parcialmente a los perros de caza en la Ley 7/2023 de bienestar animal",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Incluir a los perros de caza en la Ley de protección animal? → sí, con una inclusión parcial y mínimos comunes"
+ },
+ {
+  "id": "mundo-0198",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Plan Integral contra el Abandono Animal y fomento de la adopción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0199",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reducir un 30 % los perros y gatos abandonados o perdidos para 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0200",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Aprobar en 2027 el Plan Integral contra el Abandono Animal con financiación estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0201",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "La cultura como derecho: que la renta no decida quién accede a ella",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0202",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aprobar una Ley del Derecho a la Cultura y completar el Estatuto del Artista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0203",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Destinar una parte fija del presupuesto cultural a proyectos con personas excluidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0204",
+  "subtema": "igu-memoria",
+  "otros": [
+   "seg-terrorismo"
+  ],
+  "titular": "Red estatal de espacios de memoria y reconciliación sobre la violencia política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0205",
+  "subtema": "cultura",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Visado cultural ágil para artistas de países empobrecidos y residencias compartidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0206",
+  "subtema": "cultura",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Red de cultura rural con programación estable en los municipios pequeños",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0207",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aprobar la Ley del Derecho a la Cultura en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0208",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Desarrollo completo del Estatuto del Artista en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0209",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "La diplomacia y el derecho internacional frente al rearme y la guerra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0210",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Transparencia y rendición de cuentas en los presupuestos de defensa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0211",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "No aumentar el gasto militar y apoyar el «Dividendo para la paz mundial»",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0212",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Prohibir exportar armas a países en guerra o que vulneren derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0213",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reforzar el multilateralismo y reformar el Consejo de Seguridad de la ONU",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0214",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Situar la diplomacia preventiva en el centro de la política exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0215",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Cumplir las resoluciones de la CIJ y la CPI y suspender el acuerdo UE-Israel",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Embargo de armas y ruptura de relaciones con Israel? → sí, suspender el Acuerdo de Asociación UE-Israel"
+ },
+ {
+  "id": "mundo-0216",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Informe anual de coherencia de políticas e impacto de cada ley en el Sur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0217",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Rendición de cuentas por los ataques a población civil y personal humanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0218",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reducir el gasto militar un 2 % anual en todos los países",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0219",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Coordinadora ONGD y Enlázate por la Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0220",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Una democracia abierta y participativa frente a la corrupción, la desinformación y la polarización",
+  "ejes": [],
+  "nota": "SIN ENCAJE: falta un subtema general de regeneración democrática o calidad institucional"
+ },
+ {
+  "id": "mundo-0221",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Pacto de Estado por el Diálogo y la Convivencia Democrática frente a la polarización",
+  "ejes": [],
+  "nota": "SIN ENCAJE: polarización política y convivencia democrática"
+ },
+ {
+  "id": "mundo-0222",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Tolerancia cero con la corrupción: suspensión con juicio oral, sin indultos y menos aforamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0223",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Eliminar los avales exigidos a los partidos sin representación para presentar candidaturas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0224",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Reformar la Ley de Partidos para que la afiliación elija cargos y candidaturas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: partidos políticos y su democracia interna"
+ },
+ {
+  "id": "mundo-0225",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Ley de Integridad del Debate Público ante la desinformación de cargos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0226",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Facilitar las ILP y ampliar las consultas ciudadanas, incluidos referendos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0227",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Crear una Comisión Nacional de Reconciliación Democrática",
+  "ejes": [],
+  "nota": "SIN ENCAJE: polarización política y convivencia democrática"
+ },
+ {
+  "id": "mundo-0228",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Prevenir la desinformación con programas de alfabetización mediática y digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0229",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Índice de Percepción de la Corrupción de 55 a 65 puntos en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0230",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Eliminar en 2027 los avales para concurrir a elecciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0231",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reducir los aforamientos al mínimo imprescindible en 2028",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Suprimir los aforamientos? → reducirlos al mínimo imprescindible"
+ },
+ {
+  "id": "mundo-0232",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Amnistía Internacional y España Puede Ser la Hostia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0233",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Justicia independiente, organismos de control elegidos por mérito y fin de las puertas giratorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0234",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Que jueces y magistrados elijan directamente a los 12 vocales judiciales del CGPJ",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0235",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Reformar la elección del Fiscal General para reducir la influencia del Gobierno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0236",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Informe anual de los partidos en el Gobierno sobre el cumplimiento de su programa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0237",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Elegir por consenso y mérito a los organismos de control, regulación y consulta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0238",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Impedir durante 5 años que un alto cargo trabaje en empresas de su sector",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0239",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Portales de transparencia comprensibles para toda la ciudadanía, no solo para expertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0240",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Nueva Ley de Secretos Oficiales: las violaciones de derechos humanos nunca serán secretas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0241",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ampliar de 2 a 5 años la incompatibilidad por puertas giratorias en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0242",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: España Puede Ser la Hostia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0243",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Entrada del capítulo de participación ciudadana, sin propuestas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0244",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Defender el espacio cívico y reformar la Ley de Seguridad Ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0245",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Reconocer al Tercer Sector como interlocutor en las políticas públicas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: tercer sector, voluntariado y sociedad civil organizada"
+ },
+ {
+  "id": "mundo-0246",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Financiación pública estable y plurianual para las entidades del Tercer Sector",
+  "ejes": [],
+  "nota": "SIN ENCAJE: tercer sector, voluntariado y sociedad civil organizada"
+ },
+ {
+  "id": "mundo-0247",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Incorporar a las entidades sociales a la gestión de las emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0248",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Aprobar el reglamento de la Ley 45/2015 de Voluntariado",
+  "ejes": [],
+  "nota": "SIN ENCAJE: tercer sector, voluntariado y sociedad civil organizada"
+ },
+ {
+  "id": "mundo-0249",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Canales estables de participación infantil en las políticas que les afectan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0250",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Aprobar en 2027 el reglamento de la Ley del Voluntariado, pendiente desde 2015",
+  "ejes": [],
+  "nota": "SIN ENCAJE: tercer sector, voluntariado y sociedad civil organizada"
+ },
+ {
+  "id": "mundo-0251",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Reformar la Ley de Seguridad Ciudadana en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0252",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "El fin de la pobreza como decisión política y compromiso de Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0253",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Pacto de Estado de Prevención y Lucha contra la Pobreza y la Exclusión Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0254",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Aprobar una Ley Estatal de Servicios Sociales con estándares mínimos comunes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0255",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ampliar el IMV con ayudas individuales, no condicionadas y compatibles con el empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0256",
+  "subtema": "fam-infancia",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Comedor escolar para toda la infancia en pobreza y acceso al IMV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0257",
+  "subtema": "ener-modelo",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Erradicar la pobreza energética con regulación pública del precio de la energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0258",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Evitar la exclusión digital con atención presencial y derecho al acompañamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0259",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Pobreza o exclusión (AROPE): del 25,7 % a menos del 20 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0260",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "IMV de oficio: menos del 25 % de hogares con derecho sin recibirlo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0261",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Suscribir en 2027 el Pacto de Estado contra la Pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0262",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Oxfam Intermón y Plataforma del Tercer Sector",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0263",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Igualdad real: proteger a las víctimas y comprometer a los hombres en el cuidado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0264",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aplicar las 461 medidas del Pacto de Estado contra la Violencia de Género",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0265",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ayudas y recursos para víctimas de violencia de género aunque no exista riesgo vital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0266",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Combatir la feminización de la pobreza, la brecha salarial y la pobreza menstrual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0267",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Coeducación y prevención de la violencia de género en todas las etapas educativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0268",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Formación obligatoria en igualdad para profesionales que trabajan con personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0269",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Combatir la trata y avanzar hacia la abolición de la prostitución",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0270",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Mantener la prohibición de la gestación subrogada en España",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir la gestación subrogada? → no, mantener su prohibición"
+ },
+ {
+  "id": "mundo-0271",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Reducir la brecha salarial de género a menos del 8 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0272",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reducir a la mitad los feminicidios por pareja o expareja para 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0273",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Pacto de Estado contra la Violencia de Género: 100 % aplicado en 2030",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0274",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Amnistía Internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0275",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Entrada del capítulo de derechos de las personas LGTBI, sin propuestas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0276",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reforzar la protección frente a la discriminación y la violencia contra las personas LGTBI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0277",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Financiar y evaluar las estrategias estatales LGTBI y de inclusión de las personas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0278",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Educación en diversidad sexual y de género y protocolos contra el acoso por LGTBIfobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0279",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Estrategias estatales LGTBI y trans financiadas y con evaluación anual en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0280",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prevenir el sinhogarismo y ofrecer una vivienda estable como punto de partida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0281",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0282",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Atención integral centrada en la autonomía de las personas sin hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0283",
+  "subtema": "trab-empleo",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Programas de inserción sociolaboral para personas en situación de sinhogarismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0284",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Sustituir los recursos institucionales por vivienda estable con acompañamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0285",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Programa de erradicación del sinhogarismo en el Plan Estatal de Vivienda, con Housing First",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0286",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Acceso a la vivienda social sin condiciones previas (Housing First y Housing Led)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0287",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Reducir a la mitad las personas sin hogar (≥ 37.000) para 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0288",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ninguna salida de instituciones públicas a la calle en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0289",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Programa Housing First / Led con presupuesto propio en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0290",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Red FACIAM",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0291",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Prisiones orientadas a la reinserción, la reparación del daño y las segundas oportunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0292",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Modelo penitenciario de justicia restaurativa, rehabilitación y reinserción social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0293",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Homologar el régimen de visitas y la accesibilidad de todos los centros penitenciarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0294",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Acompañamiento a las familias de las personas privadas de libertad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0295",
+  "subtema": "seg-policia",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Transferir la sanidad penitenciaria a las comunidades y fijar ratios máximas de pacientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0296",
+  "subtema": "seg-policia",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "FP en prisión y bonificaciones por contratar a personas que han cumplido condena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0297",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Evaluar aptitudes y empatía en la selección del personal penitenciario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0298",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Más medidas alternativas y libertad condicional para la población reclusa (62.522 internos)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0299",
+  "subtema": "seg-policia",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Cubrir en 2028 todas las plazas de medicina penitenciaria (hoy, > 72 % vacantes)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0300",
+  "subtema": "seg-policia",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Itinerario de FP acreditado para toda persona interna que lo solicite en 2029",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0301",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cumplir el 0,7 % y hacer de la cooperación una política de Estado estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0302",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Consolidar la cooperación al desarrollo como política de Estado según la Ley 1/2023",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0303",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reforzar la AECID con un nuevo Contrato de Gestión y desarrollar la reforma",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0304",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Al menos 400 M€ anuales para las ONGD a través de la AECID",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0305",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Compromisos vinculantes en las agendas de desarrollo, con el Sur global como igual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0306",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Destinar el 0,7 % de la RNB a Ayuda Oficial al Desarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0307",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Acción humanitaria basada en principios, con el 10 % de la AOD",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0308",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cooperación financiera vía FEDES alineada con el desarrollo sostenible y los derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0309",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Política exterior y de cooperación feministas, con el 20 % de la AOD",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0310",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Promover la cancelación de la deuda externa y auditorías ciudadanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0311",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "AOD del 0,27 % al 0,7 % de la RNB en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0312",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Acción humanitaria: 10 % de la AOD en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0313",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Coordinadora ONGD y Enlázate por la Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0314",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Discriminación positiva y servicios públicos garantizados para repoblar los pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0315",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Plan de repoblación a 5 años de las 23 provincias de la España Vaciada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0316",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Recuperar paisajes con ganadería extensiva y herbivoría de conservación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0317",
+  "subtema": "naturaleza",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Crear un Cuerpo Civil de Regeneración de la Naturaleza y Consejos Biorregionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0318",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Plan de repoblación de la España Vaciada en marcha en 23 provincias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0319",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Anexo de fuentes: informes de organizaciones de la sociedad civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0320",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Anexo de fuentes: Oxfam, Plataforma de Infancia, Tercer Sector y Red FACIAM",
+  "ejes": [],
+  "nota": ""
+ }
+]

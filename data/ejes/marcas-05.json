@@ -1,0 +1,57 @@
+[
+{"eje": "eje-tauromaquia", "id": "compromis-0381", "posicion": "retirar", "cita": "Suprimirem els espectacles taurins amb mort i patiment de l'animal i eliminarem tot tipus de subvencions i ajudes públiques a manifestacions o espectacles que impliquen patiment animal."},
+{"eje": "eje-tauromaquia", "id": "compromis-0383", "posicion": "retirar", "cita": "Derogarem la llei 18/2013, de 12 de noviembre que recull els espectacles taurins com a patrimoni cultural."},
+{"eje": "eje-tauromaquia", "id": "pacma-0019", "posicion": "retirar", "cita": "patrimonio cultural, que se transmite de generación en generación, debe infundir un sentimiento de identidad hacia el pueblo al que pertenece, por lo que una tradición que la gran mayoría rechaza no debería formar parte de este de ninguna manera."},
+{"eje": "eje-tauromaquia", "id": "pacma-0023", "posicion": "retirar", "cita": "empezando por derogar la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural"},
+{"eje": "eje-tauromaquia", "id": "fe-0240", "posicion": "proteger", "cita": "Protección especial y promoción de la tauromaquia, facilitando la celebración de festejos con el patrocinio de la Administración Pública."},
+
+{"eje": "eje-irpf", "id": "compromis-0139", "posicion": "bajar", "cita": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació."},
+{"eje": "eje-irpf", "id": "compromis-0413", "posicion": "bajar", "cita": "Establirem una deducció estatal en l'IRPF per a les persones joves que viuen de lloguer, amb rendes anuals de fins a 33.000 euros"},
+{"eje": "eje-irpf", "id": "pacma-0130", "posicion": "bajar", "cita": "de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales"},
+{"eje": "eje-irpf", "id": "pacma-0369", "posicion": "bajar", "cita": "ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona"},
+{"eje": "eje-irpf", "id": "fo-0041", "posicion": "bajar", "cita": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos"},
+{"eje": "eje-irpf", "id": "fo-0041", "posicion": "subir-altas", "cita": "incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos"},
+{"eje": "eje-irpf", "id": "fe-0097", "posicion": "bajar", "cita": "destinada a los nuevos trabajadores españoles de los sectores primario y secundario en estas zonas, con rebajas en las cotizaciones y exenciones en el pago de IRPF los cinco primeros años"},
+{"eje": "eje-irpf", "id": "fe-0106", "posicion": "bajar", "cita": "Deflactación inicial conforme al porcentaje de inflación real y bajada progresiva del Impuesto sobre la Renta de las Personas Físicas."},
+{"eje": "eje-irpf", "id": "fe-0109", "posicion": "bajar", "cita": "Con el coeficiente familiar, los ingresos se gravarían de la misma manera (más favorable) tanto cuando ambos cónyuges trabajan como cuando sólo trabaja un miembro de la familia."},
+{"eje": "eje-irpf", "id": "autonomos-0012", "posicion": "bajar", "cita": "Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad"},
+{"eje": "eje-irpf", "id": "autonomos-0019", "posicion": "bajar", "cita": "Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas"},
+{"eje": "eje-irpf", "id": "autonomos-0024", "posicion": "bajar", "cita": "Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales"},
+{"eje": "eje-irpf", "id": "autonomos-0069", "posicion": "bajar", "cita": "Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica"},
+
+{"eje": "eje-trans", "id": "compromis-0485", "posicion": "desplegar", "cita": "Blindarem els avanços en matèria de drets LGTBIQ+, com ara la Llei per la igualtat real i efectiva de les persones trans"},
+{"eje": "eje-trans", "id": "fo-0087", "posicion": "derogar", "cita": "Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer"},
+{"eje": "eje-trans", "id": "fe-0090", "posicion": "derogar", "cita": "Derogaremos todas las Leyes que reconozcan a estos “colectivos”, así como las llamadas de ‘género’"},
+
+{"eje": "eje-herencias", "id": "fo-0046", "posicion": "reforzar", "cita": "El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos."},
+{"eje": "eje-herencias", "id": "fo-0046", "posicion": "suprimir-bajar", "cita": "Eliminación del impuesto de sucesiones para las rentas bajas."},
+{"eje": "eje-herencias", "id": "autonomos-0015", "posicion": "suprimir-bajar", "cita": "Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos"},
+
+{"eje": "eje-regularizacion", "id": "compromis-0547", "posicion": "si", "cita": "Regularitzarem i donarem drets per als qui viuen ací. Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball"},
+{"eje": "eje-regularizacion", "id": "fo-0155", "posicion": "no", "cita": "Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país. Imposibilidad de regularse si han intentado entrar de forma ilegal."},
+{"eje": "eje-regularizacion", "id": "fo-0166", "posicion": "no", "cita": "acabando con la abusiva utilización actual como manera de prolongar la estancia en suelo nacional para obtener la regularización de inmigración ilegal."},
+{"eje": "eje-regularizacion", "id": "fe-0014", "posicion": "no", "cita": "Cese absoluto e inmediato de la concesión de permisos de residencia y/o trabajo."},
+{"eje": "eje-regularizacion", "id": "pcte-0094", "posicion": "si", "cita": "Mecanismo permanente de regularización para todas las personas trabajadoras sin papeles."},
+
+{"eje": "eje-lengua", "id": "fe-0206", "posicion": "espanol", "cita": "Las asignaturas básicas en todas las etapas educativas deberán ser impartidas en español"},
+{"eje": "eje-lengua", "id": "fe-0211", "posicion": "espanol", "cita": "El resto de las asignaturas deben ser impartidas en castellano para facilitar y asegurar su comprensión por parte de alumnos y profesores."},
+{"eje": "eje-lengua", "id": "fe-0235", "posicion": "espanol", "cita": "abogamos por la preservación, cuidado y enseñanza de todas nuestras lenguas regionales, en paralelo con el aseguramiento del uso del español como lengua vehicular."},
+{"eje": "eje-lengua", "id": "autonomos-0076", "posicion": "espanol", "cita": "Ley orgánica que garantice el derecho a estudiar y relacionarse con la Administración en español en todo el territorio nacional"},
+
+{"eje": "eje-jubilacion", "id": "compromis-0038", "posicion": "adelantar", "cita": "Retornarem l'edat de jubilació als 65 anys."},
+{"eje": "eje-jubilacion", "id": "compromis-0039", "posicion": "adelantar", "cita": "Eliminarem el coeficients reductors que penalitzen aquells treballadors i treballadores que malgrat haver treballat 40 anys veuen penalitzada la seua pensió quan es jubilen anticipadament"},
+{"eje": "eje-jubilacion", "id": "fo-0142", "posicion": "adelantar", "cita": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto laboral desempeñado."},
+{"eje": "eje-jubilacion", "id": "fe-0085", "posicion": "adelantar", "cita": "vuelta a la edad de jubilación a los 65 años y estudio de posibilidad de rebaja."},
+{"eje": "eje-jubilacion", "id": "pcte-0007", "posicion": "adelantar", "cita": "Jubilación ordinaria a los 60 años, con pensión suficiente y sin penalización. En trabajos especialmente penosos, peligrosos, tóxicos o insalubres, jubilación a los 55 años."},
+{"eje": "eje-jubilacion", "id": "autonomos-0033", "posicion": "adelantar", "cita": "Eliminación de los coeficientes reductores permanentes en la pensión de jubilación para aquellos trabajadores autónomos y asalariados que acrediten 40 o más años de cotización efectiva"},
+
+{"eje": "eje-aborto", "id": "compromis-0456", "posicion": "blindar", "cita": "Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública"},
+{"eje": "eje-aborto", "id": "fe-0093", "posicion": "restringir", "cita": "Ilegalizaremos todas las leyes que permiten hoy arrebatarla, tales como las del aborto y la eutanasia."},
+{"eje": "eje-aborto", "id": "pcte-0071", "posicion": "blindar", "cita": "Derechos sexuales y reproductivos garantizados dentro de la sanidad pública: todas las interrupciones del embarazo, en hospitales públicos."},
+
+{"eje": "eje-concertada", "id": "compromis-0059", "posicion": "reducir", "cita": "Modificarem la normativa bàsica de concerts educatius perquè la xarxa concertada siga realment subsidiària de la pública."},
+{"eje": "eje-concertada", "id": "fo-0054", "posicion": "reducir", "cita": "Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación."},
+{"eje": "eje-concertada", "id": "pcte-0035", "posicion": "reducir", "cita": "prohibición de nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales"},
+{"eje": "eje-concertada", "id": "pcte-0040", "posicion": "reducir", "cita": "Integración de los centros concertados en una red pública única."},
+{"eje": "eje-concertada", "id": "autonomos-0077", "posicion": "apoyar", "cita": "respetando plenamente el derecho constitucional de las familias a elegir centros concertados o privados con ideario propio"}
+]

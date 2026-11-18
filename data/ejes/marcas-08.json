@@ -1,0 +1,65 @@
+[
+{"eje": "eje-capital", "id": "compromis-0043", "posicion": "igualar-subir", "cita": "Eliminarem els avantatges fiscals de PIAS (pla individual d'estalvi sistemàtic) i SIALP (assegurança individual d'estalvi a llarg termini)"},
+{"eje": "eje-capital", "id": "compromis-0145", "posicion": "igualar-subir", "cita": "Eliminarem els privilegis de les rendes financeres respecte de les del treball, fent-les idènticament progressives."},
+{"eje": "eje-capital", "id": "compromis-0146", "posicion": "igualar-subir", "cita": "Modificarem la fiscalitat de les rendes immobiliàries per tal de fer-la efectivament progressiva mitjançant l'eliminació de deduccions de les quals no gaudeixen les rendes del treball."},
+{"eje": "eje-capital", "id": "autonomos-0024", "posicion": "bajar", "cita": "Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos."},
+
+{"eje": "eje-reforma-laboral", "id": "compromis-0025", "posicion": "mantener-profundizar", "cita": "Modificarem la normativa laboral sobre acomiadaments recuperant els salaris de tramitació (en el cas d’acomiadament improcedent indemnitzat) i la indemnització de 45 dies per any treballat."},
+{"eje": "eje-reforma-laboral", "id": "fo-0011", "posicion": "mantener-profundizar", "cita": "Restricción de las condiciones que permiten a las empresas acogerse a contratos temporales o fijos-discontinuos. Prohibición de las empresas de trabajo temporal (ETTS)."},
+{"eje": "eje-reforma-laboral", "id": "fo-0014", "posicion": "derogar", "cita": "Derogación de las sucesivas reformas laborales que han fortalecido el despido libre y barato para las empresas"},
+{"eje": "eje-reforma-laboral", "id": "fe-0071", "posicion": "derogar", "cita": "Derogación inmediata y total de las distintas Reformas Laborales de PP, PSOE y Podemos/Sumar que solo nos han arrebatado derechos y precarizan nuestras vidas."},
+{"eje": "eje-reforma-laboral", "id": "fe-0072", "posicion": "mantener-profundizar", "cita": "Limitación de los contratos temporales e ilegalización de las ETTs."},
+{"eje": "eje-reforma-laboral", "id": "fe-0073", "posicion": "mantener-profundizar", "cita": "Prohibición de los despidos improcedentes, reconociéndose únicamente en el ordenamiento jurídico el despido objetivo indemnizado"},
+{"eje": "eje-reforma-laboral", "id": "fe-0074", "posicion": "mantener-profundizar", "cita": "Todo despido que no tenga condición de objetivo o disciplinario será declarado despido nulo, con la correspondiente condena a la readmisión en el puesto de trabajo"},
+{"eje": "eje-reforma-laboral", "id": "pcte-0008", "posicion": "mantener-profundizar", "cita": "contrato fijo a partir de 6 meses de contratos encadenados en un periodo de 12, en la misma empresa o grupo, sea cual sea el puesto."},
+{"eje": "eje-reforma-laboral", "id": "pcte-0010", "posicion": "mantener-profundizar", "cita": "Readmisión obligatoria, a elección del trabajador, ante el despido injustificado."},
+{"eje": "eje-reforma-laboral", "id": "pcte-0011", "posicion": "mantener-profundizar", "cita": "Prohibición de los despidos colectivos en empresas con beneficios o que repartan dividendos. Autorización administrativa previa para cualquier despido colectivo"},
+{"eje": "eje-reforma-laboral", "id": "pcte-0070", "posicion": "mantener-profundizar", "cita": "Derecho a pasar a jornada completa para toda trabajadora a tiempo parcial que lo pida."},
+{"eje": "eje-reforma-laboral", "id": "pcte-0072", "posicion": "mantener-profundizar", "cita": "Nulidad y readmisión automática en todo despido hasta que el hijo o la hija cumpla 3 años"},
+{"eje": "eje-reforma-laboral", "id": "pcte-0105", "posicion": "mantener-profundizar", "cita": "Nulidad y readmisión obligatoria en todo despido o sanción por actividad sindical"},
+
+{"eje": "eje-defensa", "id": "compromis-0527", "posicion": "contener", "cita": "Treballarem per la construcció d'una Unió Europea de la Defensa que puga substituir el marc de l'OTAN, reduïsca duplicitats i despeses militars"},
+{"eje": "eje-defensa", "id": "compromis-0529", "posicion": "contener", "cita": "Prioritzarem les inversions en capacitats de defensa necessàries, seguretat humana i protecció davant d'amenaces híbrides, evitant la compra d'armament que no responga a les necessitats reals del país."},
+{"eje": "eje-defensa", "id": "fe-0170", "posicion": "aumentar", "cita": "Aumento del presupuesto destinado a la defensa de la nación española."},
+{"eje": "eje-defensa", "id": "pcte-0082", "posicion": "contener", "cita": "Ningún euro de investigación pública para fines militares: los fondos de I+D militar, a salud, energía, alimentación y medio ambiente."},
+{"eje": "eje-defensa", "id": "pcte-0084", "posicion": "contener", "cita": "No al rearme: reducción del gasto militar real y anulación de los Programas Especiales de Modernización."},
+
+{"eje": "eje-agua", "id": "compromis-0259", "posicion": "no", "cita": "Garantirem el dret a l'aigua a través d'una gestió pública eficient dels recursos hídrics que incorpore una major progressivitat tarifària en el consum"},
+{"eje": "eje-agua", "id": "compromis-0260", "posicion": "no", "cita": "Establirem una transició hidrològica justa i un full de ruta per a adaptar el regadiu i el futur de l'agricultura a la disponibilitat hídrica"},
+{"eje": "eje-agua", "id": "pacma-0201", "posicion": "no", "cita": "son necesarias políticas sectoriales que minimicen su consumo, garanticen caudales ambientales parecidos al régimen natural y aseguren la calidad del agua disponible."},
+{"eje": "eje-agua", "id": "pacma-0202", "posicion": "no", "cita": "Es necesario promover el ahorro y la depuración del agua y garantizar una buena gestión pública."},
+{"eje": "eje-agua", "id": "fe-0128", "posicion": "si", "cita": "Proyección de un Plan Hidrológico Nacional real, interconexionando cuencas y garantizando el agua como recurso estratégico nacional indisoluble."},
+{"eje": "eje-agua", "id": "autonomos-0088", "posicion": "si", "cita": "Inversión prioritaria en interconexión de cuencas, balsas de regulación, desaladoras energéticamente eficientes y modernización de regadíos"},
+
+{"eje": "eje-okupacion", "id": "compromis-0020", "posicion": "proteger-vulnerables", "cita": "Prohibirem legalment els desnonaments sense alternativa habitacional, especialment als desnonaments promoguts per grans tenidors i fons d’inversió."},
+{"eje": "eje-okupacion", "id": "fo-0137", "posicion": "proteger-vulnerables", "cita": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajadoras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional."},
+{"eje": "eje-okupacion", "id": "fo-0138", "posicion": "desalojo-rapido", "cita": "Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso."},
+{"eje": "eje-okupacion", "id": "fe-0048", "posicion": "desalojo-rapido", "cita": "Lucha contra la ocupación ilegal de inmuebles: Agilización de los procedimientos de desahucio"},
+{"eje": "eje-okupacion", "id": "fe-0160", "posicion": "desalojo-rapido", "cita": "Clausura y detención de los promotores de “centros okupas” (sic)"},
+{"eje": "eje-okupacion", "id": "fe-0161", "posicion": "desalojo-rapido", "cita": "Persecución de la “okupación” de propiedades de trabajadores españoles que han adquirido con su esfuerzo."},
+{"eje": "eje-okupacion", "id": "pcte-0022", "posicion": "proteger-vulnerables", "cita": "Prohibición efectiva de todo desahucio de hogares trabajadores de su vivienda habitual, sea cual sea la causa"},
+{"eje": "eje-okupacion", "id": "pcte-0023", "posicion": "proteger-vulnerables", "cita": "la Administración garantizará siempre, antes de la salida, una alternativa digna y estable en el mismo barrio"},
+{"eje": "eje-okupacion", "id": "pcte-0026", "posicion": "proteger-vulnerables", "cita": "Quien no pueda pagar su alquiler no se queda sin casa: si la vivienda es de un banco, fondo o gran tenedor, alquiler social obligatorio de no más del 15 % de sus ingresos"},
+{"eje": "eje-okupacion", "id": "pcte-0033", "posicion": "proteger-vulnerables", "cita": "Ninguna ejecución hipotecaria de la vivienda habitual de hogares trabajadores: reestructuración de la deuda a cargo de la banca, dación en pago cuando el hogar lo elija"},
+{"eje": "eje-okupacion", "id": "autonomos-0062", "posicion": "desalojo-rapido", "cita": "Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación"},
+{"eje": "eje-okupacion", "id": "autonomos-0084", "posicion": "proteger-vulnerables", "cita": "Moratoria temporal y mediación obligatoria para familias vulnerables en paro sobrevenido con riesgo de ejecución hipotecaria de su vivienda habitual"},
+
+{"eje": "eje-nuclear", "id": "compromis-0249", "posicion": "cerrar", "cita": "Mantindrem el calendari de tancament de les centrals nuclears i no acceptarem cap nova pròrroga"},
+{"eje": "eje-nuclear", "id": "fo-0032", "posicion": "mantener", "cita": "España posee unas condiciones muy favorables para el desarrollo de las energías renovables, que deben compaginarse con la energía nuclear."},
+{"eje": "eje-nuclear", "id": "fo-0037", "posicion": "mantener", "cita": "Apuesta por la energía nuclear, como fuente de energía fiable, estable y controlable. Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país. Ampliación del parque nuclear"},
+{"eje": "eje-nuclear", "id": "fe-0125", "posicion": "mantener", "cita": "Implantación de un nuevo mix energético, potenciando la energía nuclear como fuente principal"},
+{"eje": "eje-nuclear", "id": "fe-0127", "posicion": "mantener", "cita": "freno de todo proyecto de “transición energética”, anulando el plan de cierre de nucleares, proyectando nuevas e incluyendo el uso e instalación de minirreactores nucleares (SMR)"},
+
+{"eje": "eje-mordaza", "id": "compromis-0358", "posicion": "derogar-sustituir", "cita": "Derogarem la Llei de Protecció de la Seguretat Ciutadana, coneguda com a llei mordassa."},
+{"eje": "eje-mordaza", "id": "pcte-0093", "posicion": "derogar-sustituir", "cita": "Derogación de la Ley de Seguridad Ciudadana (la llamada Ley Mordaza) y anulación de las sanciones impuestas con ella por participar en huelgas y protestas."},
+
+{"eje": "eje-memoria", "id": "compromis-0363", "posicion": "ampliar", "cita": "Exigirem el compliment efectiu de l'article 15 de la llei de Memòria Històrica"},
+{"eje": "eje-memoria", "id": "compromis-0364", "posicion": "ampliar", "cita": "Promourem la investigació del total de diners incautats pel govern franquista després de 1936"},
+{"eje": "eje-memoria", "id": "compromis-0365", "posicion": "ampliar", "cita": "per tal que es reconeguen el paper moneda i altres signes confiscats pel règim franquista i es reconega el dret de reparació als particulars afectats per la confiscació dels seus diners."},
+{"eje": "eje-memoria", "id": "fe-0234", "posicion": "derogar", "cita": "Derogación inmediata de las mal llamadas Leyes de “Memoria”, que falsean nuestra historia e inducen al enfrentamiento y revanchismo del pueblo español."},
+{"eje": "eje-memoria", "id": "pcte-0096", "posicion": "ampliar", "cita": "Ilegalización de las organizaciones fascistas y franquistas y disolución de las fundaciones que enaltecen la dictadura: ni un espacio ni un euro público para ellas."},
+
+{"eje": "eje-sedicion", "id": "pcte-0098", "posicion": "no", "cita": "Derogación de los delitos de opinión que protegen al poder: injurias a la Corona y a las instituciones y ultrajes a símbolos."},
+
+{"eje": "eje-mercosur", "id": "fe-0139", "posicion": "rechazar", "cita": "Abandono de España del acuerdo UE-Mercosur, que tanto daña nuestra producción nacional."}
+]

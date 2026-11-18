@@ -1,0 +1,1335 @@
+[
+ {
+  "id": "pacma-0142",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reducir la contaminación del aire actuando sobre tráfico, industria y macrogranjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0143",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Reducir la demanda de transporte urbano con peatón, bicicleta y transporte público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0144",
+  "subtema": "trab-jornada",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Fomentar el teletrabajo con incentivos fiscales y coworking públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0145",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Apostar por el ferrocarril electrificado, las cercanías y el consumo de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0146",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: el consumo de alimentos de origen animal como gran fuente de emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0147",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: la alimentación de origen animal daña ecosistemas y clima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0148",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: impactos ambientales y sanitarios del consumo de carne",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0149",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Minimizar el consumo de alimentos de origen animal y fomentar la dieta vegetal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0150",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto climático a los productos de origen animal según sus emisiones",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Gravar más los productos y explotaciones de origen animal? → sí, impuesto climático"
+ },
+ {
+  "id": "pacma-0151",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Etiquetar la huella de carbono de los alimentos y advertir en carnes procesadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0152",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Cesar las campañas institucionales de promoción de productos de origen animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0153",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Campañas sobre la dieta vegetal y la situación de los animales en granjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0154",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Subvencionar frutas, verduras, legumbres y otros alimentos vegetales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0155",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Subir el IVA de los lácteos animales y bajar el de sus equivalentes vegetales",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Gravar más los productos y explotaciones de origen animal? → sí, más IVA a los lácteos animales"
+ },
+ {
+  "id": "pacma-0156",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: España, primer productor de carne de cerdo de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0157",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Crítica: el Gobierno presenta como logro el crecimiento de la producción porcina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0158",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: la expansión de las macrogranjas deja purines y contaminación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0159",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: emisiones de las macrogranjas y nitratos en más del 45 % de acuíferos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0160",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Crítica: el Gobierno ha permitido e incentivado las macrogranjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0161",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Frenar la proliferación de las macrogranjas en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0162",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "No autorizar nuevas explotaciones ganaderas y avícolas ni su ampliación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0163",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Revisar las autorizaciones concedidas evaluando su impacto ambiental acumulado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0164",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Norma estatal que limite el tamaño de las granjas y regule los purines",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0165",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Más controles e inspecciones de las explotaciones ganaderas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0166",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Suprimir las subvenciones al sector ganadero y avícola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0167",
+  "subtema": "imp-verdes",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Impuesto climático a las explotaciones ganaderas y avícolas según sus emisiones",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Gravar más los productos y explotaciones de origen animal? → sí, impuesto climático"
+ },
+ {
+  "id": "pacma-0168",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: las piscifactorías como macrogranjas de peces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0169",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: antibióticos y eutrofización en las piscifactorías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0170",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reconvertir la industria pesquera y cesar sus subvenciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0171",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Fin de la comercialización de carne y aletas de tiburón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0172",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir la producción e importación de pulpos criados en cautividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0173",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Diagnóstico: la cría intensiva de pulpos causa un sufrimiento extremo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0174",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Diagnóstico: ninguna ley regula el bienestar de los pulpos en granjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0175",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Proteger a los cefalópodos frente a la explotación y el maltrato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0176",
+  "subtema": "animales",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Prohibir las granjas de pulpos y proteger penalmente a invertebrados y crustáceos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0177",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: contaminación química y uso generalizado del glifosato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0178",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Prohibir el glifosato y otros plaguicidas peligrosos y fomentar la producción orgánica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0179",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Las técnicas agrícolas ecológicas favorecen a los polinizadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0180",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyar la agricultura local y ecológica y la soberanía alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0181",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Introducción a las medidas en defensa de la agricultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0182",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Aumentar las subvenciones a la agricultura en detrimento de la ganadería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0183",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Redistribuir las ayudas directas hacia explotaciones pequeñas y respetuosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0184",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Preservar los métodos de producción tradicionales, regionales y locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0185",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Impulsar canales cooperativos de comercialización al margen de las multinacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0186",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyar el almacenamiento, conservación y transformación de productos hortofrutícolas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0187",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyo técnico a los profesionales del sector agrícola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0188",
+  "subtema": "rural-agro",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Reforzar la vigilancia, el análisis de alimentos y la alerta temprana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0189",
+  "subtema": "rural-agro",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Impulsar cursos de especialización y formación profesional agrícola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0190",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Más transparencia en la comercialización de productos agrícolas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0191",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Revitalizar los suelos agrícolas perjudicados por la actividad industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0192",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Desincentivar los monocultivos y reorientar hacia una agricultura agroecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0193",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Incentivar el consumo de producto local",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0194",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Abastecer los comedores y cafeterías públicos con productos locales ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0195",
+  "subtema": "rural-agro",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Subvencionar renovables para sistemas de riego inteligentes que ahorran agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0196",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Desincentivar productos de alto impacto ambiental y encarecer el sobreembalaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0197",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Incentivar la reutilización y el reciclaje con sistemas de retorno de envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0198",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Combatir la obsolescencia programada con más garantía y libertad de reparación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0199",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Campañas de reeducación hacia un consumo responsable y sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0200",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Diagnóstico: el cambio climático reducirá hasta un 40 % el agua del sureste",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0201",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Gestionar el agua con eficiencia, caudales ambientales y menos ganadería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0202",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Promover el ahorro, la depuración y la gestión pública del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0203",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: los vertebrados han caído un 60 % en cuarenta años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0204",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ampliar las zonas protegidas al 30 % del territorio para 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0205",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: balsas y canales de riego como trampas mortales para la fauna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0206",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: hasta 55 millones de vertebrados mueren al año en carreteras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0207",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Limitar profundidad y pendiente de las balsas de regadío y poner rampas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0208",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Barreras flotantes y rampas de salida en los canales de regadío",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0209",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Cerramientos adecuados en pozos y aljibes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0210",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Plataformas flotantes con rampas de salida en piscinas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0211",
+  "subtema": "naturaleza",
+  "otros": [
+   "infra-carreteras"
+  ],
+  "titular": "Pasos de fauna, menos velocidad y señalización en puntos sensibles de carreteras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0212",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Hacer visibles pantallas y cristaleras para evitar colisiones de aves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0213",
+  "subtema": "naturaleza",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Sustituir los aerogeneradores de aspas por aerogeneradores de vibración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0214",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Adaptar tendidos eléctricos y catenarias para evitar la electrocución de aves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0215",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Pasos o escaleras para peces en construcciones hidráulicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0216",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Eliminar o abrir los vallados cinegéticos para la huida de animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0217",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Norma que obligue a proteger la fauna silvestre en todas las infraestructuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0218",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Política forestal contra la deforestación tras 301.681 hectáreas quemadas en 2026",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0219",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reforzar las políticas de prevención de incendios forestales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0220",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "La Ley de Montes ya obliga a planes de prevención de incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0221",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "La ganadería extensiva no es la solución a los incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0222",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Prohibir la caza para que los herbívoros silvestres prevengan incendios",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir la caza deportiva? → sí"
+ },
+ {
+  "id": "pacma-0223",
+  "subtema": "rural-tradiciones",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Prohibir la caza deportiva para recuperar la biodiversidad y frenar incendios",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir la caza deportiva? → sí"
+ },
+ {
+  "id": "pacma-0224",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Prohibir la caza 30 años en terrenos quemados por intereses cinegéticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0225",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Selvicultura preventiva, alternativas al fuego y prohibir pirotecnia y farolillos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0226",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Revisar la normativa para proteger el patrimonio natural y los parques nacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0227",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Diagnóstico: el turismo aporta el 12,6 % del PIB pero la turistificación desplaza vecinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0228",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Estrategia nacional de turismo sostenible y respetuoso con los animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0229",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Crear un Observatorio de Turismo y Sostenibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0230",
+  "subtema": "animales",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Retirar la declaración de interés turístico a fiestas que usen animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0231",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Orientar las empresas públicas de turismo hacia un turismo sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0232",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Potenciar la actividad turística sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0233",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Investigación, estadística y asesoramiento en turismo sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0234",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Analizar nuevos productos y mercados turísticos sostenibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0235",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Información turística con criterios éticos de sostenibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0236",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Repartir el turismo por todo el territorio y fuera del verano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0237",
+  "subtema": "naturaleza",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Limitar la frecuencia y el volumen de visitas a los espacios naturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0238",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ley nacional que regule la contaminación acústica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0239",
+  "subtema": "naturaleza",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Prohibir la pirotecnia y evaluar el impacto de espectáculos de más de 100 kilos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0240",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Diagnóstico: la contaminación lumínica altera la fauna y la biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0241",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Norma nacional contra la contaminación lumínica con alumbrado racional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0242",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Políticas de equidad social para erradicar la pobreza y la discriminación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0243",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Diagnóstico: falta una estrategia que garantice el derecho a la alimentación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0244",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Estrategia de seguridad alimentaria con economatos sociales y mínimo vital de agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0245",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Facilitar el acceso al bono social eléctrico e impulsar comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0246",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Apostar por la promoción de la salud con políticas públicas saludables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0247",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: recortes y privatización han deteriorado la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0248",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Evaluar las infraestructuras y necesidades sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0249",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Reintegrar en la sanidad pública los servicios privatizados",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0250",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Reforzar la atención primaria y su conexión con el sistema sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0251",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Programas autonómicos de I+D+i sanitaria con financiación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0252",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Números gratuitos de información sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0253",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Planes de atención sanitaria domiciliaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0254",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Planes para reducir las listas de espera de consultas, pruebas y cirugías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0255",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Actualizar los planes de contingencia ante epidemias y pandemias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0256",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Oposición al copago sanitario",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Copago en la sanidad pública? → no, oponerse al copago"
+ },
+ {
+  "id": "pacma-0257",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Campañas de educación para la salud y hábitos saludables desde la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0258",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Más dietistas-nutricionistas en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0259",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Cada euro invertido en dietistas-nutricionistas ahorra cuatro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0260",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Negociar la salud laboral tras 735 muertes por accidente laboral en 2025",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0261",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Plan de prevención del suicidio con detección, atención inmediata y seguimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0262",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Abordar el suicidio como problema de salud pública con respuesta integral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0263",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Ampliar el conocimiento ciudadano sobre salud mental y suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0264",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Luchar contra el estigma de los problemas de salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0265",
+  "subtema": "san-mental",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Estrategias para detectar y atender el bullying y el ciberbullying",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0266",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Servicios de asistencia social y de salud mental completos e integrados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0267",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Fortalecer los sistemas de información sobre salud mental y suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0268",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Detección precoz de la depresión y del riesgo suicida en colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0269",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Formar a profesionales de distintos sectores en detección del suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0270",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Mejorar la atención a las personas con problemas de salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0271",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Continuidad asistencial a personas con conductas suicidas y supervivientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0272",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Programas de inclusión y participación comunitaria en salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0273",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Impulsar la investigación sobre salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0274",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Más especialistas en psiquiatría y psicología en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0275",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Atención bucodental gratuita: la sanidad pública solo cubre el 2 % del gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0276",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Garantizar el acceso a la educación y la cultura para todos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0277",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: las leyes educativas se han aprobado sin pacto ni acuerdo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0278",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Pacto de Estado por una educación pública de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0279",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Aumentar los fondos para becas en todas las etapas educativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0280",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Plazas públicas suficientes para niños y niñas de 0 a 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0281",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Libros de texto gratuitos y con licencia copyleft",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0282",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Transporte y menú escolar gratuitos para familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0283",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reducir la ratio de alumnos por profesor en todas las etapas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0284",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Nuevas formas de enseñanza con tecnologías de la información",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0285",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Fomentar una formación integral, diversificada e intercultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0286",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Garantizar una escuela pública realmente laica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0287",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la participación y representación estudiantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0288",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Opción de menú 100 % vegetal en todos los comedores escolares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0289",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Fomentar la lectura, la educación artística y centros de desarrollo del talento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0290",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación inclusiva con aprendizaje personalizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0291",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Garantizar la atención temprana de 0 a 6 años a menores con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0292",
+  "subtema": "fam-infancia",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Equipos multidisciplinares para detectar maltrato infantil y acoso escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0293",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Programas contra el absentismo y el abandono escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0294",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Revisar los criterios de concertación para evitar la segregación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0295",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ampliar la orientación en secundaria con plazas de psicología y pedagogía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0296",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Programas de mediación intercultural en los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0297",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "La educación en valores como objetivo transversal del sistema educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0298",
+  "subtema": "edu-escuela",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Incluir el respeto y la empatía hacia los animales en todas las etapas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0299",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Promover la participación estudiantil hacia un modelo sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0300",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Educar desde la infancia en corresponsabilidad e igualdad de género",
+  "ejes": [],
+  "nota": ""
+ }
+]

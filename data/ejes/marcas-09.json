@@ -1,0 +1,254 @@
+[
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0018",
+  "posicion": "bajar",
+  "cita": "Nadie paga IRPF por los primeros 35.000 euros."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0047",
+  "posicion": "bajar",
+  "cita": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto)"
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0055",
+  "posicion": "bajar",
+  "cita": "Nadie paga IRPF por los primeros 35.000 euros."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0056",
+  "posicion": "bajar",
+  "cita": "35.000 euros libres de IRPF para todos. Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0057",
+  "posicion": "bajar",
+  "cita": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0058",
+  "posicion": "bajar",
+  "cita": "Fin de la subida de impuestos por inflación. Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0131",
+  "posicion": "bajar",
+  "cita": "Cuña fiscal del 41 al 29 %. Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0159",
+  "posicion": "bajar",
+  "cita": "Ceuta y Melilla, plaza franca: 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones. Para siempre."
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0160",
+  "posicion": "bajar",
+  "cita": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027"
+ },
+ {
+  "eje": "eje-irpf",
+  "id": "salf-0162",
+  "posicion": "bajar",
+  "cita": "Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF"
+ },
+ {
+  "eje": "eje-capital",
+  "id": "mundo-0074",
+  "posicion": "igualar-subir",
+  "cita": "Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social, equiparando la tributación de las rentas del capital y del trabajo"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "mundo-0209",
+  "posicion": "contener",
+  "cita": "Elegimos la defensa de la vida y la seguridad integral por encima del negocio de las armas y del horror de la destrucción"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "mundo-0211",
+  "posicion": "contener",
+  "cita": "No avanzar en la escalada armamentística incrementando el gasto militar a nivel estatal y europeo y reorientar estas partidas a la atención de las necesidades básicas de la ciudadanía."
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "mundo-0218",
+  "posicion": "contener",
+  "cita": "Gasto militar mundial («Dividendo para la paz») — España: 2,0 % del PIB (OTAN · 2025) — Meta: −2 % anual en todos los países"
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "id": "salf-0156",
+  "posicion": "frenar",
+  "cita": "Veto a Mercosur, al recorte de la PAC y al Pacto Verde."
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "id": "mundo-0171",
+  "posicion": "acelerar",
+  "cita": "Respaldar el compromiso de la Unión Europea de reducir al menos un 55% las emisiones de gases efecto invernadero para el año 2030 con respecto a 1990, así como el alcanzar la neutralidad de carbono en 2050."
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "id": "mundo-0175",
+  "posicion": "acelerar",
+  "cita": "Emisiones de gases de efecto invernadero — 270,7 Mt CO₂-eq · −4,8 % vs. 1990 (MITECO · 2025) — Meta: −55 % respecto a 1990 — Plazo: 2030"
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "id": "mundo-0176",
+  "posicion": "acelerar",
+  "cita": "Neutralidad de carbono — Medida nueva — Meta: Emisiones netas cero — Plazo: 2050"
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "id": "mundo-0189",
+  "posicion": "acelerar",
+  "cita": "Descarbonización del sector transporte. Apuesta por el transporte público limpio y de calidad."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "salf-0060",
+  "posicion": "bajar",
+  "cita": "Sociedades: 20 %. 15 % si reinviertes. 10 % startups. Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "salf-0159",
+  "posicion": "bajar",
+  "cita": "Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "mundo-0076",
+  "posicion": "subir",
+  "cita": "cuando se repatríen beneficios a España, se abone la diferencia entre el Impuesto sobre Sociedades satisfecho en el extranjero y el aplicable en España."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "mundo-0079",
+  "posicion": "subir",
+  "cita": "Revisar los incentivos y deducciones fiscales, limitando al 90 % la exención por doble imposición"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "mundo-0084",
+  "posicion": "subir",
+  "cita": "Exención por doble imposición — Medida nueva — Meta: Limitada al 90 % — Plazo: 2027"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "mundo-0100",
+  "posicion": "subir",
+  "cita": "Revisaremos esas deducciones para que las grandes empresas tributen conforme a su capacidad real y para cerrar la brecha"
+ },
+ {
+  "eje": "eje-eutanasia",
+  "id": "mundo-0139",
+  "posicion": "derogar",
+  "cita": "Que nadie pida morir por falta de cuidados. Garantizar que las personas que manifiesten sufrimiento intenso o soliciten la eutanasia puedan acceder voluntariamente y con carácter urgente a una valoración integral de cuidados paliativos"
+ },
+ {
+  "eje": "eje-eutanasia",
+  "id": "mundo-0139",
+  "posicion": "mantener",
+  "cita": "soliciten la eutanasia puedan acceder voluntariamente y con carácter urgente a una valoración integral de cuidados paliativos, salud mental y apoyos a la dependencia, sin retrasar ni condicionar sus derechos."
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "id": "mundo-0264",
+  "posicion": "mantener-reforzar",
+  "cita": "asegurando la aplicación de las 461 medidas del Pacto de Estado contra la Violencia de Género y de la Directiva Europea sobre violencia contra las mujeres y violencia doméstica"
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "id": "mundo-0265",
+  "posicion": "mantener-reforzar",
+  "cita": "Equiparar la vigencia y el alcance de las acreditaciones de violencia de género a las de violencia sexual, ampliar la cobertura temporal de los subsidios"
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "id": "mundo-0267",
+  "posicion": "mantener-reforzar",
+  "cita": "Garantizar la educación en igualdad y la prevención de la violencia de género en todas las etapas educativas, incorporando al currículo común contenidos de coeducación"
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "id": "mundo-0273",
+  "posicion": "mantener-reforzar",
+  "cita": "Medidas del Pacto de Estado contra la Violencia de Género — 461 medidas (Pacto de Estado) — Meta: 100 % aplicadas y evaluadas"
+ },
+ {
+  "eje": "eje-smi",
+  "id": "mundo-0096",
+  "posicion": "subir",
+  "cita": "Salario Mínimo Interprofesional — 1.221 €/mes × 14 (RD SMI 2026) — Meta: Mantener ≥ 60 % del salario medio — Plazo: 2026–2030"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "salf-0028",
+  "posicion": "bajar",
+  "cita": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "salf-0062",
+  "posicion": "bajar",
+  "cita": "Luz y agua al 4 % de IVA para siempre. La luz, del 21 al 4 %; el agua, del 10 al 4 %."
+ },
+ {
+  "eje": "eje-jornada",
+  "id": "mundo-0088",
+  "posicion": "reducir",
+  "cita": "Reducir progresivamente la jornada laboral hasta las 35 horas semanales, sin reducción salarial"
+ },
+ {
+  "eje": "eje-jornada",
+  "id": "mundo-0094",
+  "posicion": "reducir",
+  "cita": "Jornada laboral máxima — 40 h semanales (Estatuto de los Trabajadores) — Meta: 35 h sin reducción salarial — Plazo: 2030"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "salf-0091",
+  "posicion": "adelantar",
+  "cita": "Con 40 años cotizados te jubilas cuando quieras, sin penalización."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "salf-0091",
+  "posicion": "mantener-retrasar",
+  "cita": "Jubilación activa total. Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "salf-0166",
+  "posicion": "adelantar",
+  "cita": "profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada"
+ },
+ {
+  "eje": "eje-agua",
+  "id": "mundo-0184",
+  "posicion": "no",
+  "cita": "Promover el agua como bien público y no solo como un producto comercial."
+ },
+ {
+  "eje": "eje-lomloe",
+  "id": "mundo-0147",
+  "posicion": "mantener",
+  "cita": "Garantizar una educación inclusiva y equitativa, haciendo efectivos los derechos reconocidos en la LOMLOE"
+ },
+ {
+  "eje": "eje-burka",
+  "id": "salf-0083",
+  "posicion": "si",
+  "cita": "Velo integral prohibido. Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza."
+ }
+]

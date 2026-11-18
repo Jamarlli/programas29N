@@ -1,0 +1,422 @@
+[
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "vox-0008",
+  "posicion": "derogar",
+  "cita": "Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "psoe-0164",
+  "posicion": "mantener-profundizar",
+  "cita": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "psoe-0165",
+  "posicion": "mantener-profundizar",
+  "cita": "Recuperar los salarios de tramitación en los supuestos legalmente establecidos y reforzar la protección frente a despidos discriminatorios"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "psoe-0178",
+  "posicion": "mantener-profundizar",
+  "cita": "Reformar la regulación del contrato a tiempo parcial para exigir que se justifique de forma precisa la causa por la que no se formaliza un contrato a jornada completa"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "fa-0363",
+  "posicion": "mantener-profundizar",
+  "cita": "Reformaremos la indemnización por despido improcedente para que repare el daño real causado a la persona trabajadora y disuada de los despidos injustificados"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "fa-0364",
+  "posicion": "mantener-profundizar",
+  "cita": "Recuperaremos la autorización administrativa previa para despidos colectivos"
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "id": "fa-0366",
+  "posicion": "mantener-profundizar",
+  "cita": "modificaremos la regulación vigente para limitar las facultades del convenio colectivo al desarrollar los derechos que el Estatuto de los Trabajadores reconoce a las personas fijas discontinuas"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "pp-0164",
+  "posicion": "no",
+  "cita": "Eliminaremos las zonas tensionadas y el índice de precios, que han introducido más intervención, más incertidumbre y menos oferta en el mercado del alquiler."
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "vox-0030",
+  "posicion": "no",
+  "cita": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda."
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "psoe-0099",
+  "posicion": "si",
+  "cita": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados."
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "psoe-0119",
+  "posicion": "si",
+  "cita": "garantizar el cumplimiento de la normativa de precios del alquiler a través de una línea de financiación específica destinada a aumentar las inspecciones públicas"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0003",
+  "posicion": "si",
+  "cita": "toparemos las rentas vinculándolas al 25 % de los ingresos del hogar"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0012",
+  "posicion": "si",
+  "cita": "Los precios del alquiler público se toparán teniendo en cuenta el coste de la vida en cada territorio con un máximo de 600 € mensuales"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0033",
+  "posicion": "si",
+  "cita": "se equiparará el régimen jurídico, en especial en lo relativo a los mecanismos de contención de rentas, entre el alquiler de vivienda habitual y el alquiler de temporada"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0044",
+  "posicion": "si",
+  "cita": "Tope de precios de alquiler vinculado al 25 % de la renta del barrio"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0045",
+  "posicion": "si",
+  "cita": "Limitaremos por ley el precio del alquiler residencial en todas las zonas tensionadas"
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0046",
+  "posicion": "si",
+  "cita": "En municipios de más de 200.000 habitantes o con masificación turística severa, se ordenará una rebaja adicional obligatoria del 30 % sobre el valor regulado."
+ },
+ {
+  "eje": "eje-alquiler",
+  "id": "fa-0659",
+  "posicion": "si",
+  "cita": "proteger a autónomos y pequeñas empresas frente a subidas abusivas en los alquileres de locales y frenar la especulación inmobiliaria. Garantizaremos contratos mínimos de 5 años, un límite legal a las subidas anuales"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pp-0025",
+  "posicion": "autonomico",
+  "cita": "Defendemos el Estado de las Autonomías y el autogobierno de las Comunidades Autónomas en el marco de la Constitución."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "psoe-0490",
+  "posicion": "autonomico",
+  "cita": "el reto no es recentralizar ni fragmentar, sino hacer que el Estado autonómico funcione mejor"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "psoe-0491",
+  "posicion": "autonomico",
+  "cita": "Reformar el Senado para convertirlo en una auténtica Cámara de representación territorial, haciendo coincidir sus circunscripciones con el ámbito autonómico."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "psoe-0492",
+  "posicion": "autonomico",
+  "cita": "Institucionalizar la Conferencia de Presidentes. La convocaremos con una periodicidad fija y un reglamento que garantice el seguimiento de sus acuerdos"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "psoe-0493",
+  "posicion": "autonomico",
+  "cita": "Aprobar una ley de cooperación interadministrativa . Ordenará los instrumentos de colaboración entre el Estado, las comunidades autónomas y los gobiernos locales"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0008",
+  "posicion": "federal",
+  "cita": "proponemos avanzar hacia una República Federal y Plurinacional que reconozca la diversidad de nuestros pueblos"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0708",
+  "posicion": "federal",
+  "cita": "avanzando hacia un modelo de financiación que responda a los principios de un federalismo social y plurinacional"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0920",
+  "posicion": "federal",
+  "cita": "avanzar hacia un modelo de Estado republicano federal y plurinacional, que regule el referéndum y el pleno reconocimiento de la realidad plurinacional y plurilingüística de España"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0921",
+  "posicion": "federal",
+  "cita": "Nuestro horizonte es avanzar hacia una República Federal que nos permita alcanzar una democracia real"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0923",
+  "posicion": "federal",
+  "cita": "impulsar el cambio de modelo territorial establecido en la Constitución, en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "fa-0924",
+  "posicion": "federal",
+  "cita": "el máximo desarrollo de los Estatutos de Autonomía y de la Constitución a partir de una lectura federal"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "vox-0089",
+  "posicion": "aumentar",
+  "cita": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento."
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "pp-0062",
+  "posicion": "aumentar",
+  "cita": "Aumentaremos los efectivos, los reconoceremos como profesión de riesgo, mejoraremos sus retribuciones y modernizaremos su doctrina, su material y sus medios tecnológicos"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "psoe-0469",
+  "posicion": "contener",
+  "cita": "sin aceptar el 5 % del PIB en gasto militar, porque la seguridad de Europa no puede construirse a costa de nuestro Estado del bienestar"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "psoe-0580",
+  "posicion": "contener",
+  "cita": "rechazando el aumento del gasto militar al 5% del PIB, pues ello pondría en riesgo nuestro Estado del bienestar. Somos aliados, no vasallos."
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "fa-0853",
+  "posicion": "contener",
+  "cita": "Rechazaremos de forma explícita el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN, impulsando una reducción efectiva de las partidas militares"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "fa-0852",
+  "posicion": "contener",
+  "cita": "Defenderemos una nueva arquitectura de seguridad mundial centrada en la seguridad humana y la seguridad compartida frente al discurso belicista"
+ },
+ {
+  "eje": "eje-defensa",
+  "id": "fa-0854",
+  "posicion": "contener",
+  "cita": "Transición del modelo de seguridad hacia la desmilitarización para convertir los recintos de uso militar extranjero en polos tecnológicos, industriales y de respuesta civil ante emergencias"
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "id": "pp-0164",
+  "posicion": "derogar",
+  "cita": "DEROGAREMOS LA LEY DE VIVIENDA. Recuperaremos la seguridad jurídica que necesitan propietarios e inquilinos."
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "id": "vox-0030",
+  "posicion": "derogar",
+  "cita": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda."
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "id": "psoe-0100",
+  "posicion": "mantener-ampliar",
+  "cita": "Identificar y publicar desde el Ministerio de Vivienda un mapa de zonas tensionadas de vivienda que actualmente deben elaborar las comunidades autónomas en aplicación de la Ley de Vivienda"
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "id": "fa-0050",
+  "posicion": "mantener-ampliar",
+  "cita": "La declaración de Zona de Mercado Residencial Tensionado (ZMRT) será obligatoria y automática en el momento en que una demarcación cumpla con los parámetros objetivos legalmente establecidos en la Ley de Vivienda"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "vox-0002",
+  "posicion": "bajar",
+  "cita": "Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "pp-0200",
+  "posicion": "bajar",
+  "cita": "LA EMPRESA QUE INVIERTA PARA CRECER PAGARÁ MENOS IMPUESTO SOBRE SOCIEDADES. Ampliaremos la libertad de amortización"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0085",
+  "posicion": "bajar",
+  "cita": "Tipo cero en el Impuesto sobre Sociedades para las cooperativas de vivienda en cesión de uso sin ánimo de lucro y entidades del tercer sector"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "psoe-0195",
+  "posicion": "subir",
+  "cita": "Aumentar la tributación de las empresas cotizadas cuya ratio entre la retribución total de su ejecutivo principal y la mediana de su plantilla supere 100 a 1"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "psoe-0588",
+  "posicion": "subir",
+  "cita": "Apoyar de forma activa los trabajos de la OCDE y las Naciones Unidas para reforzar la tributación mínima efectiva de los grandes grupos multinacionales"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0006",
+  "posicion": "subir",
+  "cita": "el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0294",
+  "posicion": "subir",
+  "cita": "Impondremos un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado para las grandes empresas y grupos corporativos, avanzando sobre el mínimo previo del 15 %"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0080",
+  "posicion": "subir",
+  "cita": "Pasarán a tributar por el tipo general del Impuesto sobre Sociedades (con el tipo mínimo real del 20 %), eliminando de forma tajante su exención tributaria"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0295",
+  "posicion": "subir",
+  "cita": "Eliminaremos el régimen de consolidación fiscal de los grupos empresariales para impedir la reducción artificial de la tributación."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0296",
+  "posicion": "subir",
+  "cita": "Limitación a un plazo máximo de 4 años para la compensación de bases imponibles negativas (pérdidas) o deducciones no aplicadas."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0297",
+  "posicion": "subir",
+  "cita": "Eliminaremos la exención por doble imposición internacional aplicable a los dividendos repatriados desde fuera de la Unión Europea"
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0298",
+  "posicion": "subir",
+  "cita": "Cerraremos vías de elusión tributaria en el Impuesto sobre Sociedades mediante la revisión y reducción sistemática de las deducciones fiscales vigentes aplicables a grandes empresas."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0307",
+  "posicion": "subir",
+  "cita": "Eliminaremos la bonificación del 40 % aplicable a determinadas rentas del alquiler en el Impuesto sobre Sociedades, salvo cuando los inmuebles estén destinados a alquiler asequible."
+ },
+ {
+  "eje": "eje-sociedades",
+  "id": "fa-0031",
+  "posicion": "subir",
+  "cita": "perderán toda deducción en el Impuesto sobre Sociedades e IRPF (gastos financieros, reformas y amortización)"
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "pp-0247",
+  "posicion": "mantener",
+  "cita": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil"
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "vox-0008",
+  "posicion": "mantener",
+  "cita": "Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre."
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "psoe-0321",
+  "posicion": "cerrar",
+  "cita": "Mantener el calendario de cierre de las centrales nucleares hasta 2035"
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "fa-0457",
+  "posicion": "cerrar",
+  "cita": "Cumpliremos el calendario de cierre de las centrales nucleares. Almaraz I y II cerrarán en los plazos previstos (2027-2028)"
+ },
+ {
+  "eje": "eje-jefatura",
+  "id": "vox-0105",
+  "posicion": "monarquia",
+  "cita": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona."
+ },
+ {
+  "eje": "eje-jefatura",
+  "id": "fa-0008",
+  "posicion": "republica",
+  "cita": "proponemos avanzar hacia una República Federal y Plurinacional que reconozca la diversidad de nuestros pueblos"
+ },
+ {
+  "eje": "eje-jefatura",
+  "id": "fa-0920",
+  "posicion": "republica",
+  "cita": "el objetivo de avanzar hacia un modelo de Estado republicano federal y plurinacional"
+ },
+ {
+  "eje": "eje-jefatura",
+  "id": "fa-0921",
+  "posicion": "republica",
+  "cita": "Nuestro horizonte es avanzar hacia una República Federal que nos permita alcanzar una democracia real en la que también elijamos la Jefatura del Estado."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "pp-0231",
+  "posicion": "apoyar",
+  "cita": "LOS PADRES ELEGIRÁN COLEGIO, Y NINGÚN CONCIERTO EDUCATIVO SE ELIMINARÁ DONDE HAYA DEMANDA SUFICIENTE."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "vox-0067",
+  "posicion": "apoyar",
+  "cita": "Garantizar la libre elección de centro educativo en todos los niveles para que las familias elijan libremente el modelo educativo que desean"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "vox-0074",
+  "posicion": "apoyar",
+  "cita": "Distrito único y libre elección de centro escolar para los padres."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "fa-0191",
+  "posicion": "reducir",
+  "cita": "se prohibirán de forma inmediata las cuotas obligatorias en centros sostenidos con fondos públicos, sancionando incumplimientos. El objetivo es que el 100 % de los fondos públicos vayan destinados a la educación pública."
+ },
+ {
+  "eje": "eje-mercosur",
+  "id": "vox-0048",
+  "posicion": "rechazar",
+  "cita": "Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones. Inclusión de cláusulas espejo."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pp-0027",
+  "posicion": "recentralizar",
+  "cita": "BLINDAREMOS LA UNIDAD DE LA AGENCIA TRIBUTARIA Y LA CAJA ÚNICA DE LA SEGURIDAD SOCIAL. La gestión de los tributos del Estado no se fragmentará más."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pp-0070",
+  "posicion": "recentralizar",
+  "cita": "No habrá cesiones en materia de igualdad básica, Hacienda general, Seguridad Social, Defensa y Fuerzas Armadas, política exterior y política migratoria y fronteras"
+ },
+ {
+  "eje": "eje-mercosur",
+  "id": "fa-0872",
+  "posicion": "salvaguardas",
+  "cita": "Bajo la aplicación del Acuerdo UE-Mercosur, se fiscalizarán los compromisos laborales, ambientales y de derechos humanos, activando cláusulas de salvaguarda cuando las importaciones agrarias generen competencia desleal."
+ }
+]

@@ -1,0 +1,2236 @@
+[
+ {
+  "id": "fa-0510",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Fomentar boyas ecológicas permanentes que protejan la biodiversidad marina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0511",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Incluir el cachalote y el rorcual común en el Catálogo de Especies Amenazadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0512",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Desplegar un Plan Nacional de Restauración Marina Pasiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0513",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar los objetivos del Marco Mundial de biodiversidad Kunming-Montreal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0514",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Prohibir la venta de productos importados ligados a la deforestación o a abusos laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0515",
+  "subtema": "clima",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Descarbonizar los alojamientos turísticos con 100 % de energía renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0516",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Ordenar el turismo según la capacidad ecológica y social de los territorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0517",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Diversificar y adaptar el turismo al calor, la sequía y la pérdida de playas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0518",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "La economía circular y el residuo cero como prioridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0519",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Minería urbana para cubrir el 57 % de la demanda de metales en 2050",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0520",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Fomentar el ecodiseño frente a productos no reutilizables ni reciclables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0521",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Actualizar la normativa sobre sustancias tóxicas en productos y envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0522",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Aprobar una ley que sancione la obsolescencia programada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0523",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Fijar objetivos vinculantes de reutilización de envases y embalajes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0524",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Actuar contra el derroche alimentario en toda la cadena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0525",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Restringir hasta eliminar los plásticos de un solo uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0526",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Modelo sostenible de gestión de residuos agrarios y ganaderos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0527",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Campañas contra la compra en grandes plataformas de productos de baja calidad importados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0528",
+  "subtema": "residuos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Ayudas a pequeñas empresas de reutilización y reparación de ropa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0529",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Garantizar el tratamiento de residuos textiles y el diseño circular de la ropa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0530",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Reconocer el derecho humano al agua y prohibir los cortes por motivos económicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0531",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Ciclo del agua 100 % de gestión pública directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0532",
+  "subtema": "agua",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Canon hídrico progresivo al exceso de consumo de agua de grandes corporaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0533",
+  "subtema": "agua",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Canon al agua de centros de datos y prohibir refrigerarlos con agua en sequía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0534",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Obligar a recuperar aguas grises en hoteles y grandes infraestructuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0535",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Clausurar los pozos ilegales y recuperar los acuíferos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0536",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Moratoria a nuevos embalses, trasvases y megabalsas",
+  "ejes": [
+   {
+    "eje": "eje-agua",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0537",
+  "subtema": "agua",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Regular o prohibir el uso de agua de centros de datos con estrés hídrico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0538",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Restaurar ríos y garantizar caudales ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0539",
+  "subtema": "clima",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Prohibir construir en zonas inundables y en los primeros 500 metros del litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0540",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Misión nacional para cultivar 6 millones de hectáreas con prácticas regenerativas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0541",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Plan Nacional de Ahorro de Recursos Hídricos y frenar nuevas demandas de regadío",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0542",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Revisar la planificación hidrológica para adaptarla al cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0543",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "El bienestar animal como pilar de la ética pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0544",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reformar la Ley 7/2023 para incluir perros de caza y animales de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0545",
+  "subtema": "animales",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Endurecer las penas por maltrato animal según la reincidencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0546",
+  "subtema": "animales",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Suprimir la multa sustitutoria y tratar el maltrato animal machista como violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0547",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Aprobar la Ley de Protección de los Grandes Simios y regular zoos y acuarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0548",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Modificar la ley de animales potencialmente peligrosos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0549",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Acabar con la financiación pública de la tauromaquia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0550",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Derogar la Ley 18/2013 de protección de la tauromaquia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Proteger la tauromaquia como patrimonio cultural? → no, derogar su protección y su financiación"
+ },
+ {
+  "id": "fa-0551",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Suprimir las subvenciones estatales directas e indirectas a la tauromaquia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Proteger la tauromaquia como patrimonio cultural? → no, derogar su protección y su financiación"
+ },
+ {
+  "id": "fa-0552",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Fortalecer la protección pública y las entidades de protección animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0553",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Plan Estatal de Abandono Cero y atención veterinaria a colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0554",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Fondo estatal para refugios y entidades de protección animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0555",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Implantar el método CER para colonias felinas en todos los municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0556",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Más recursos y formación para las entidades de protección animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0557",
+  "subtema": "animales",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Anular las cláusulas que prohíben animales de compañía en los alquileres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0558",
+  "subtema": "animales",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Plan estatal de atención a los animales en emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0559",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Cuidados veterinarios al alcance de todas las personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0560",
+  "subtema": "animales",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Bajar al 10 % el IVA de los productos veterinarios",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0561",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reconocer la veterinaria como profesión sanitaria esencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0562",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Garantizar la gestión ética de los animales urbanos y silvestres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0563",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Estrategia estatal de gestión ética de las poblaciones de animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0564",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Devolver al lobo la protección estricta y descartar su gestión letal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0565",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Reconversión y desaparición progresiva de los zoos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0566",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Transformar zoos y acuarios en centros de recuperación sin exhibición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0567",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Acabar con la cautividad de cetáceos y crear santuarios marinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0568",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Avanzar hacia modelos más respetuosos con los animales de consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0569",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Fin de las nuevas jaulas en granjas según la legislación europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0570",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Fondo nacional de transición ganadera con ventanilla única",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0571",
+  "subtema": "rural-agro",
+  "otros": [
+   "animales"
+  ],
+  "titular": "No autorizar nuevas macrogranjas ni acuicultura intensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0572",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir la cría de animales para pieles y cerrar las granjas peleteras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0573",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Eliminar la alimentación forzada en la producción de foie gras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0574",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir la eliminación de pollitos macho mediante el sexado en el huevo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0575",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Cumplir la prohibición europea del corte rutinario del rabo en cerdos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0576",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Aturdimiento previo para peces de piscifactoría",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0577",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Limitar el transporte de animales vivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0578",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Eliminar las peleas de gallos en todo el Estado sin excepciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0579",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Etiquetar los productos animales según el sistema de cría",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0580",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Opción de menú 100 % vegetal en todos los comedores públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0581",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plan Nacional de Fomento de las Proteínas Vegetales de cercanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0582",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Promover alternativas a la experimentación animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0583",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Plan estatal de métodos alternativos a la experimentación animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0584",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Estrategia educativa en protección animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0585",
+  "subtema": "animales",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Integrar la protección animal en el currículo educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0586",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Cumplir las recomendaciones de la ONU sobre infancia y tauromaquia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0587",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Arquitectura institucional y banca pública de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0588",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Transformar la SEPI en una Agencia Industrial Pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0589",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Inversión en I+D+i del 3 % del PIB en 2030 y 4 % después",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0590",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Crear un Banco Público de Inversión y reorganizar los fondos de apoyo empresarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0591",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Fondo público de inversión para empresas tecnológicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0592",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Financiar startups y pymes innovadoras sin acceso a crédito",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0593",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Distribuir la innovación hacia territorios desindustrializados o despoblados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0594",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Estrategia plurianual de inversión por misiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0595",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Reforzar la participación pública en empresas estratégicas con acción de oro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0596",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Condicionar las ayudas públicas a empresas a compromisos de empleo e inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0597",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Presupuesto plurianual de ciencia y +15 % a la Agencia Estatal de Investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0598",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Ser líder en innovación en 2030 y consolidar la carrera científica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0599",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Ciencia abierta y Consejo Ciudadano de Ciencia en el Congreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0600",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Redes de transferencia tecnológica para pymes innovadoras y cooperativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0601",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Centros de datos como infraestructura estratégica bajo control nacional o europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0602",
+  "subtema": "dig-datos",
+  "otros": [
+   "agua",
+   "ener-modelo"
+  ],
+  "titular": "Exigir renovables y prohibir refrigerar con agua en sequía a los centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0603",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "«Tasa nube» sobre los servicios digitales de los centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0604",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Publicar el consumo de luz y agua de los grandes centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0605",
+  "subtema": "dig-datos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Programa de Soberanía Tecnológica y software libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0606",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Adherirse al consorcio europeo Digital Commons EDIC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0607",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Nube soberana: alojar los datos sensibles del Estado en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0608",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Impulsar en la UE proyectos de soberanía tecnológica como IRIS²",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0609",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Estrategia «España, potencia industrial verde»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0610",
+  "subtema": "eco-industria",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Plan de apoyo a la industria electrointensiva con descuentos en la tarifa renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0611",
+  "subtema": "edu-fp",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Impulsar la FP industrial e integrar los servicios públicos de empleo en la reindustrialización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0612",
+  "subtema": "ext-ue",
+  "otros": [
+   "eco-industria",
+   "imp-gasto-deuda"
+  ],
+  "titular": "Plan europeo de inversión del 4,5 % del PIB y revisar las reglas fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0613",
+  "subtema": "clima",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Ley de transición justa con planes cinco años antes de cada cierre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0614",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Dotar a la SEPI de medios para entrar en sectores estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0615",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Convertir Navantia en motor de la reindustrialización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0616",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reforzar Correos y crear un Banco Postal público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0617",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Reforzar la Agencia EFE y someterla a control parlamentario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0618",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Crear una empresa pública de materias primas estratégicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0619",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Banca Pública Estatal con el ICO, Correos y el 18 % de CaixaBank",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0620",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Crear un Banco Postal Estatal a partir de Correos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0621",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Integrar la banca sistémica y las cooperativas de crédito en la banca pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0622",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Pacto de Estado y Ley de Futuro de la Agricultura y la Alimentación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0623",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Garantizar la renta agraria y precios justos para productores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0624",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ceder suelo rústico de la SAREB para explotaciones agrarias ecológicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0625",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Etiquetado europeo que favorezca la producción extensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0626",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Controlar y sancionar los incumplimientos de la Ley de la Cadena Alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0627",
+  "subtema": "naturaleza",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Plan de Empleo Forestal en zonas de grandes incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0628",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Eliminar los derechos históricos de la PAC y no favorecer a grandes terratenientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0629",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Vincular la caza y la pesca a la mejora de los recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0630",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Aumentar las indemnizaciones a la ganadería extensiva por daños de fauna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0631",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Considerar los stocks pesqueros como bien público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0632",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Mantener la flota pesquera y su rentabilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0633",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Gestionar las cuotas pesqueras con criterios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0634",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plan de ayuda a la pesca afectada por el alga invasora Rugulopteryx okamurae",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0635",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Estrategia de ganadería extensiva y coexistencia con los grandes carnívoros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0636",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "25 % de superficie en ecológico en 2030 y 100 % en 2050",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0637",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ley de Agricultura para la transición integral a la agroecología",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0638",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Banco público de tierras y techo de superficie por comprador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0639",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reformar la PAC y excluir de las ayudas a fondos de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0640",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "IVA reducido para alimentos ecológicos y de proximidad y más impuestos a los procesados",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0641",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Objetivos vinculantes para reducir plaguicidas, fertilizantes sintéticos y antimicrobianos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0642",
+  "subtema": "rural-agro",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Reducir consumos fósiles y emisiones en las actividades agrarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0643",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Priorizar los productos agroalimentarios locales frente a importaciones más baratas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0644",
+  "subtema": "rural-agro",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Descarbonizar el procesamiento y la logística agroalimentaria y reorientar el regadío",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0645",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Priorizar la pesca artesanal de bajo impacto ambiental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0646",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Eliminar progresivamente la flota industrial y poner fin a la pesca de arrastre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0647",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ayudas al relevo generacional y de género en la pesca de bajo impacto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0648",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Crear reservas marinas de protección efectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0649",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Mantener el marisqueo y restringir la acuicultura industrial intensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0650",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "IVA franquiciado: sin liquidaciones periódicas por debajo de 85.000 euros anuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0651",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cotización fija bonificada para autónomos con ingresos inferiores al SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0652",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Hacer plenamente operativo el IVA de caja para pymes y autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0653",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Reforzar la ventanilla única y la digitalización para reducir trámites",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0654",
+  "subtema": "dig-ia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Plan Nacional de Adopción de IA para pymes: 90 % digitalizadas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0655",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reformar de forma integral la Ley de Segunda Oportunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0656",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Régimen sancionador efectivo contra la morosidad comercial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0657",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Crédito ICO de 3.000 millones anuales para empresas de menos de 50 trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0658",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Garantizar la competencia bancaria y evitar más concentración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0659",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reformar la LAU para proteger el alquiler de locales con contratos de 5 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0660",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Compras colectivas de electricidad y autoconsumo para pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0661",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Ayudas para descarbonizar las flotas de vehículos de pymes y autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0662",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Desarrollar la Ley 1/2026 de economía social con financiación estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0663",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Más fondos y avales para cooperativas y mantener su fiscalidad ventajosa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0664",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Crear un fondo estatal de economía social y solidaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0665",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cooperativas y economía social como forma preferente de las ayudas a pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0666",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Derecho preferente de los trabajadores a adquirir empresas viables en venta o cierre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0667",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Impulsar el Hub de la Economía Social en Donostia y las finanzas éticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0668",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Desarrollar el Reglamento de las Sociedades de Beneficio e Interés Común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0669",
+  "subtema": "inst-administracion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Reformar la Ley de Contratos: al menos 51 % de criterios sociales y ambientales",
+  "ejes": [],
+  "nota": "SIN ENCAJE: contratación pública"
+ },
+ {
+  "id": "fa-0670",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Reservar más del 15 % de contratos públicos a centros especiales de empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0671",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Indexar al SMI los contratos públicos con autónomos y equiparar a los TRADE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0672",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "La contratación pública como palanca para pymes, autónomos y economía social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0673",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Compensar los costes de inserción sociolaboral de las empresas de inserción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0674",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Marco estatal de gestión público-comunitaria y cuidados públicos sin ánimo de lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0675",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Programa Estatal de Rescate Demográfico con cooperativas en municipios despoblados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0676",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Economía social como prioridad del presupuesto europeo 2028-2034",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0677",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Plan de empleo e industrialización local con bonificaciones en territorios de baja densidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0678",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Desarrollar la II Estrategia estatal frente al Reto Demográfico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0679",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Servicios públicos básicos a menos de 30 minutos en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0680",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fondos europeos directos contra la despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0681",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Aplicar el mecanismo rural de garantía a las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0682",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Programa Integral de Vivienda Rural con un piloto de 75 millones en Aragón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0683",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Mantener las paradas de autobús y financiar el transporte en zonas despobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0684",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-digital"
+  ],
+  "titular": "Fibra y 5G real en los pueblos y polígonos rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0685",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Adaptar la sanidad a las zonas de baja densidad de población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0686",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Reforzar las escuelas rurales con las comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0687",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Aprobar el Estatuto Básico de los Municipios de Menor Población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0688",
+  "subtema": "rural-agro",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Bancos de tierras públicas para facilitar el acceso de nuevos agricultores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0689",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Reforzar el plus de residencia de los empleados estatales en las islas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0690",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Diversificar la economía de Baleares y Canarias más allá del turismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0691",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Estudiar medidas que compensen el sobrecoste del consumo en las islas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0692",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Garantizar conexiones todo el año entre las islas y con la península",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0693",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Mantener indefinidamente el régimen especial balear y las ayudas al transporte insular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0694",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Apoyar la cultura de las islas y la lengua catalana en Baleares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0695",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Subidas salariales con cláusula de garantía para los empleados públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0696",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Reducir la temporalidad en el sector público hasta el 8 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0697",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Recuperar capacidades técnicas propias y profesionalizar la dirección pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0698",
+  "subtema": "inst-administracion",
+  "otros": [
+   "inst-corrupcion",
+   "trab-sindicatos"
+  ],
+  "titular": "Contratación pública transparente que priorice a empresas con convenio y representación sindical",
+  "ejes": [],
+  "nota": "SIN ENCAJE: contratación pública"
+ },
+ {
+  "id": "fa-0699",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Reforzar la independencia de la Agencia Estatal de Evaluación de Políticas Públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0700",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Ampliar la plantilla de la Inspección de Trabajo hacia la ratio de la OIT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0701",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Aumentar un 30 % los recursos de las Oficinas de Extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0702",
+  "subtema": "imp-fraude",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Duplicar la plantilla de la Agencia Tributaria en cuatro años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0703",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Plan de Empleo Garantizado para personas desempleadas de larga duración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0704",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Destinos del Plan de Empleo Garantizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0705",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Empleo garantizado para reforzar servicios públicos y actividades insuficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0706",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Empleo garantizado en nuevas actividades ecológicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0707",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Remunerar y dignificar el trabajo de cuidados domésticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0708",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Reformar ya la financiación autonómica hacia un federalismo social y plurinacional",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0709",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Destinar un 2,3 % del PIB adicional a la financiación autonómica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0710",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Mecanismo para que las comunidades infrafinanciadas presten los mismos servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0711",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Medir las necesidades de gasto autonómico con criterios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0712",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Sacar de la regla de gasto los nuevos recursos autonómicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0713",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Repartir el fondo climático de 735 millones según el riesgo de cada territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0714",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Fondo de convergencia para las comunidades con menos recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0715",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Obligar a las comunidades a financiar las competencias impropias de los ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0716",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Modificar la interpretación de la regla de gasto en la reforma de la financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0717",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-fraude",
+   "vivienda-publica"
+  ],
+  "titular": "Condonar deuda autonómica a cambio de prohibir el dumping fiscal",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0718",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Reestructurar la deuda autonómica restante y compensar los déficits de financiación desde 2001",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0719",
+  "subtema": "imp-fraude",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Actuar contra el dumping fiscal autonómico con condicionalidad positiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0720",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   },
+   {
+    "eje": "eje-herencias",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0721",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Modelo público, reversión de subcontratas y plantillas en alta velocidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0722",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Alta velocidad 100 % pública y reversión de la liberalización",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Liberalización del ferrocarril de alta velocidad? → revertirla, operación exclusiva de Renfe"
+ },
+ {
+  "id": "fa-0723",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Integrar en Renfe a la plantilla de Ouigo e Iryo que lo desee",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0724",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Internalizar en Renfe y Adif los servicios subcontratados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0725",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Auditoría, seguridad y gobernanza ferroviaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0726",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Auditoría independiente de la alta velocidad y sustitución del LZB por ERTMS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0727",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Auditoría independiente de todo el sistema ferroviario en seis meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0728",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Mesa Permanente de Seguridad ferroviaria y canal protegido de denuncias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0729",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Infraestructuras de Cercanías, Media Distancia y articulación territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0730",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan de inversión y accesibilidad en Cercanías, Media Distancia y red convencional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0731",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Destinar al ferrocarril los casi 13.000 millones del plan DORA de aeropuertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0732",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Red ferroviaria menos centrada en Madrid y prioridad a los corredores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0733",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Ejecutar el Plan de Rodalies y completar su traspaso a la Generalitat",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0734",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Aparcamientos disuasorios y espacios para bicicletas en las estaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0735",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Ampliar la capacidad para mercancías por tren y conectar los puertos al Corredor Mediterráneo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0736",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Plan de inversiones según el peso poblacional y territorial de cada comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0737",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "El Estado asumirá la reconstrucción de las infraestructuras dañadas por la DANA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0738",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Infraestructuras hidráulicas frente a fenómenos extremos y ejecución del PNACC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0739",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Plan de Reindustrialización Verde para las comarcas afectadas por la DANA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0740",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Agilizar y eximir de tributación las ayudas por la DANA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0741",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Ley de Gobiernos Locales con financiación estable y competencias definidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0742",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Segunda descentralización con más capacidad fiscal para los municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0743",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Participación municipal en los tributos del Estado hasta el 2,5 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0744",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Condicionar la financiación local a no hacer rebajas fiscales regresivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0745",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Extender a todos los municipios la participación en el IRPF",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0746",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Participación estable de los ayuntamientos en los ingresos autonómicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0747",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Ninguna nueva competencia municipal sin financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0748",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Índice de Estabilidad Local frente a los errores de previsión del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0749",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Fondo de Convergencia Municipal para reducir la brecha de financiación al 50 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0750",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Integrar las subvenciones condicionadas en la participación en tributos del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0751",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Condonación extraordinaria de deuda a los ayuntamientos en riesgo financiero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0752",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Condonar las liquidaciones negativas de 2008 y 2009 a los municipios más endeudados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0753",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Quita proporcional a los municipios si se condona deuda a su comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0754",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Eximir a los ayuntamientos saneados de planes económico-financieros por usar remanentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0755",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Permitir a los ayuntamientos saneados invertir sus remanentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0756",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Inversiones financieramente sostenibles plurianuales y con más ámbitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0757",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Sacar de la regla de gasto local los gastos no estructurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0758",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reconocer como permanentes los aumentos de ingresos por cambios normativos o catastrales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0759",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Permitir que el gasto municipal crezca con sus ingresos permanentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0760",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Excluir de la regla de gasto la nueva participación en los tributos del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0761",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "IBI progresivo y penalización de las viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0762",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "IBI progresivo contra grandes tenedores y fondos buitre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0763",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Recargo del IBI de hasta el 150 % para viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ }
+]

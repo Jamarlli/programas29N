@@ -1,0 +1,3103 @@
+[
+ {
+  "id": "compromis-0001",
+  "partido": "compromis",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "0. Introducció"
+  ],
+  "texto": "Proposem estes set prioritats com a punt de partida per a construir una alternativa des de les diferents forces de l'esquerra valenciana per a les Corts Generals. Un acord fet des del País Valencià, amb veu pròpia i voluntat de transformar les coses.\n\nDos anys després de la DANA, la reparació de les víctimes i la protecció de la ciutadania enfront de l'emergència climàtica no poden esperar ni dependre de qui governe: seran una exigència en qualsevol acord.\n\nVolem formar part d'una majoria d'esquerres que governe i transforme el país, i el nostre vot sempre estarà quan es garantisca la defensa dels interessos dels valencians i les valencianes, especialment d’aquelles de la classe treballadora. Ni xec en blanc, ni vot en contra: un vot valencià que es fa valdre.\n\nEl teu vot serà útil per posar a triar un grup de representants que treballen a favor de les persones, la vida, la terra. La coalició Compromís-Front Valencià posarà en valor el teu vot."
+ },
+ {
+  "id": "compromis-0002",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Prohibirem que societats especulatives i fons voltor puguen comprar habitatges al nostre País i impedirem que eludisquen aquesta prohibició mitjançant societats instrumentals o interposades."
+ },
+ {
+  "id": "compromis-0003",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Promourem el lloguer indefinit com a règim ordinari, garantint el dret a recuperar la possessió per motius d’ús personal o familiar."
+ },
+ {
+  "id": "compromis-0004",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Aprovarem una nova Llei d’Expropiació de Grans Fons i Societat Tenidores per a ampliar el parc públic d’habitatge, començant per fons que tinguen més de 1000 habitatges baixant fins als 50 immobles."
+ },
+ {
+  "id": "compromis-0005",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Destinarem l’ 1% del PIB anual a programes d’adquisició d’habitatges o de promoció d’habitatge protegit, de titularitat pública o en col·laboració amb cooperatives, empreses del tercer sector i d’altres societats privades sense ànim especulatiu, en col·laboració amb comunitats autònomes i ajuntaments."
+ },
+ {
+  "id": "compromis-0006",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Prohibirem temporalment la compravenda d’habitatges a població no-resident en les zones tensionades."
+ },
+ {
+  "id": "compromis-0007",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Limitarem les compres d'habitatges destinades a l'acumulació especulativa de propietats, tant per part de persones físiques com jurídiques, mitjançant criteris objectius de concentració de la propietat i garantint la protecció de l'habitatge habitual."
+ },
+ {
+  "id": "compromis-0008",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Impedirem el desenvolupament i ús d’algoritmes immobiliaris i programaris de fixació de preus i d’IA que coordinen o determinen els preus de lloguer mitjançant dades compartides entre propietaris i immobiliàries. Les empreses infractores seran sancionades amb multes de fins al 10% dels seus beneficis mundials."
+ },
+ {
+  "id": "compromis-0009",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Donarem competències als Ajuntaments perquè puguen declarar zones tensionades, d’acord amb la Llei estatal de Vivienda, als seus municipis per impulsar el control efectiu de preus de lloguer."
+ },
+ {
+  "id": "compromis-0010",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Exercirem, en cas de venda de promocions antigues d’habitatges de protecció oficial, a través de les Administracions competents el dret de tanteig, llevat que la transmissió siga entre particulars per a finalitat exclusiva d’habitatge habitual."
+ },
+ {
+  "id": "compromis-0011",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Abolirem els privilegis fiscals de les SOCIMIS i les EDAV com a vehicles d’especulació financera."
+ },
+ {
+  "id": "compromis-0012",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Crearem el Registre Estatal d’Arrendaments Urbans obligatori que permeta controlar en temps real els preus i detectar pràctiques fraudulentes, incloent els lloguers de temporada i d’habitacions."
+ },
+ {
+  "id": "compromis-0013",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Reforçarem els requisits d’habitabilitat per a poder llogar una vivenda amb millors condicions de confort, espai i temperatura."
+ },
+ {
+  "id": "compromis-0014",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Atorgarem exempcions de l’Impost sobre Transmissions Patrimonials per a l’adquisició de la primera vivenda valorada en menys de 350.000€. A partir de la tercera propietat s’augmentarà un 200%."
+ },
+ {
+  "id": "compromis-0015",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Augmentarem l’Impost de Béns Immobles a aquells propietaris que tinguen més de 2 habitatges. De manera progressiva a partir del tercer habitatge, per a penalitzar l’acaparament d’habitatges en poques mans i per a millorar el finançament dels ajuntaments."
+ },
+ {
+  "id": "compromis-0016",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Impulsarem la mobilització d’estalvis privats per a augmentar la inversió en habitatge a través de la creació d’un Fons d’Inversió Estatal que capte 18.000M€ destinats a programes d’habitatge assequible i donant remuneració a xicotets estalviadors."
+ },
+ {
+  "id": "compromis-0017",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Desenvoluparem una enquesta que determine el nombre real d'habitatges buits permetent així aplicar als ajuntaments recàrrecs de l'IBI."
+ },
+ {
+  "id": "compromis-0018",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Mobilitzarem habitatges buits fent que Casa 47 i les empreses públiques d’àmbit autonòmic actuen d’intermediàries entre propietàries i demandants d’habitatge, assegurant a la propietat el cobrament puntual de rendes i el bon manteniment dels immobles i garantint a les demandants d’habitatge el pagament d’unes rendes justes."
+ },
+ {
+  "id": "compromis-0019",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Crearem un gravamen específic del 10% sobre el valor cadastral dels habitatges addicionals a partir del tercer immoble en mans de persones físiques o jurídiques, incloent-hi els que es troben en règim d’arrendament o desocupats. Quedaran excloses les persones que justifiquen que els habitatges estan destinats a ús habitual, a cooperatives sense ànim de lucre o a programes públics d’habitatge social."
+ },
+ {
+  "id": "compromis-0020",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Habitatge"
+  ],
+  "texto": "- Prohibirem legalment els desnonaments sense alternativa habitacional, especialment als desnonaments promoguts per grans tenidors i fons d’inversió."
+ },
+ {
+  "id": "compromis-0021",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou."
+ },
+ {
+  "id": "compromis-0022",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Garantirem per llei que l’SMI arribe al 60% del salari mitjà, sense que l’augment puga absorbir els complements retributius, i impulsarem mesures per a augmentar el salari mitjà."
+ },
+ {
+  "id": "compromis-0023",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Introduirem en la legislació laboral clàusules d’actualització salarial automàtiques durant la ultraactivitat dels convenis."
+ },
+ {
+  "id": "compromis-0024",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Reduirem un 50% els diumenges o festius laborables i restringirem les Zones de Gran Afluència Turística, reformant la Llei d’horaris comercials."
+ },
+ {
+  "id": "compromis-0025",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Modificarem la normativa laboral sobre acomiadaments recuperant els salaris de tramitació (en el cas d’acomiadament improcedent indemnitzat) i la indemnització de 45 dies per any treballat."
+ },
+ {
+  "id": "compromis-0026",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Aprofundirem en la flexibilitat horària, el teletreball i la desconnexió digital, ferramentes essencials per a la conciliació i l'equilibri entre el treball i la vida personal."
+ },
+ {
+  "id": "compromis-0027",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Proposarem un pla de desenvolupament de les cures i de l'equilibri vida-treball, amb finançament del Fons Social Europeu Plus (FSE+)."
+ },
+ {
+  "id": "compromis-0028",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Proposarem garanties perquè les pràctiques formatives no substituisquen llocs de plantilla i compten amb remuneració i protecció adequades. Defensarem programes de primera experiència laboral amb contracte, formació i possibilitats de continuïtat."
+ },
+ {
+  "id": "compromis-0029",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Condicionarem la concessió d'ajudes, bonificacions i contractes públics al compliment de la normativa laboral, al manteniment de l'ocupació i a la qualitat dels llocs de treball."
+ },
+ {
+  "id": "compromis-0030",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Salaris i condicions laborals"
+  ],
+  "texto": "- Reforçarem la Inspecció de Treball per a detectar i sancionar el frau en la contractació, les hores extraordinàries no declarades i els incompliments de la jornada laboral màxima."
+ },
+ {
+  "id": "compromis-0031",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Millorarem la protecció social de les persones autònomes fent que per accedir a la prestació per cessament d’activitat només hagen d’acreditar un any de pèrdues."
+ },
+ {
+  "id": "compromis-0032",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Modificarem la regulació de l'Impost sobre Activitats Econòmiques, per a transposar de forma immediata la directiva europea sobre l’IVA franquiciat a aquelles persones autònomes que facturen menys de 85.000 euros anuals."
+ },
+ {
+  "id": "compromis-0033",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Bonificarem la totalitat de la quota de la Seguretat Social des del primer dia de baixa per malalties greus, i no a partir dels 60 dies, com succeeix actualment."
+ },
+ {
+  "id": "compromis-0034",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Impulsarem una baixa flexible per a malalties greus o cròniques, amb reincorporació progressiva o intermitent."
+ },
+ {
+  "id": "compromis-0035",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Defensarem l'eliminació progressiva del sistema d'estimació objectiva (sistema de mòduls), implantant un període transitori, durant el qual aquest model s'anirà substituint progressivament per un nou règim fiscal d'Estimació Directa Especial, fins la seua eliminació definitiva en un període de 3 anys."
+ },
+ {
+  "id": "compromis-0036",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Impulsarem una reducció dels tràmits administratius, que poden arribar a llastrar el funcionament de micropimes i persones treballadores i autonòmes pel que fa a notificacions i el canvi de declaracions trimestrals a semestrals."
+ },
+ {
+  "id": "compromis-0037",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Persones autònomes"
+  ],
+  "texto": "- Impulsarem millores en la protecció social d'autònoms i mesures enfront d'impagaments i abusos de grans clients. Defensarem atenció bancària presencial, comissions transparents i garanties enfront de crèdits d'alt cost, amb atenció a persones majors i municipis sense serveis pròxims."
+ },
+ {
+  "id": "compromis-0038",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Retornarem l'edat de jubilació als 65 anys."
+ },
+ {
+  "id": "compromis-0039",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Eliminarem el coeficients reductors que penalitzen aquells treballadors i treballadores que malgrat haver treballat 40 anys veuen penalitzada la seua pensió quan es jubilen anticipadament de forma voluntària."
+ },
+ {
+  "id": "compromis-0040",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Acabarem amb el topall a la base màxima de cotització, perquè les nòmines més altes cotitzen íntegrament a la Seguretat Social."
+ },
+ {
+  "id": "compromis-0041",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Assegurarem el manteniment del poder adquisitiu de les pensions, garantint constitucionalment la seua revaloració conforme al cost de la vida."
+ },
+ {
+  "id": "compromis-0042",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Suprimirem tota desgravació fiscal als plans de pensions privats per evitar la competència amb el sistema públic de pensions ."
+ },
+ {
+  "id": "compromis-0043",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Eliminarem els avantatges fiscals de PIAS (pla individual d'estalvi sistemàtic) i SIALP (assegurança individual d'estalvi a llarg termini), productes dissenyats específicament per a premiar a les rendes altes que poden destinar rendes presents a estalvi i consum futur."
+ },
+ {
+  "id": "compromis-0044",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Promourem una compensació fora de l’actual procediment de l’IRPF per a aquelles persones pensionistes que van tributar doblement per aportacions a mutualitats laborals obligatòries abans de 1979, a les quals l’AEAT no pot compensar-les amb devolucions degut a que, pels seus baixos ingressos no se’ls han practicat retencions."
+ },
+ {
+  "id": "compromis-0045",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Una vida segura: habitatge, salaris i pensions",
+   "Pensions"
+  ],
+  "texto": "- Augmentarem les pensions no contributives fins els 800€"
+ },
+ {
+  "id": "compromis-0046",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Blindarem la gestió pública de la sanitat i impedirem la mercantilització de l’atenció sanitària i la privatització de la gestió dels serveis públics a través de la derogació de la Llei 15/1997."
+ },
+ {
+  "id": "compromis-0047",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Garantirem l’accés universal a l’atenció sanitària pública, sense discriminacions per origen o situació administrativa."
+ },
+ {
+  "id": "compromis-0048",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Reforçarem l’atenció primària, la salut comunitària i la prevenció, fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims, i millorant la continuïtat assistencial."
+ },
+ {
+  "id": "compromis-0049",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Aprovarem un Pacte estatal per la salut mental amb finançament suficient per a ampliar les plantilles de professionals, millorar l’accés a l’atenció psicològica i reforçar la prevenció del suïcidi."
+ },
+ {
+  "id": "compromis-0050",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Ampliarem el finançament i el catàleg de recursos per augmentar la xarxa de centres de dia i de teràpia ambulatòria per garantir un tractament integral de les malalties de salut mental en el sistema sanitari públic."
+ },
+ {
+  "id": "compromis-0051",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Suprimirem el copagament farmacèutic de pensionistes i regulació de les aportacions de la resta amb millor progressivitat per tal que les rendes més altes paguen més i les mitjanes i baixes menys."
+ },
+ {
+  "id": "compromis-0052",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Sanitat"
+  ],
+  "texto": "- Inclourem en el catàleg del Sistema Nacional de Salut les especialitats i prestacions d’oftalmologia, podologia, nutrició, odontologia i estomatologia."
+ },
+ {
+  "id": "compromis-0053",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Salut pública"
+  ],
+  "texto": "- Crearem una indústria farmacèutica pública per a investigar, produir i comercialitzar medicaments essencials, genèrics i productes sanitaris estratègics, d’ús hospitalari i per a tractaments de malalties rares, reduint així la dependència de les multinacionals farmacèutiques."
+ },
+ {
+  "id": "compromis-0054",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Salut pública"
+  ],
+  "texto": "- Promourem avaluacions d’impacte en salut per a les grans infraestructures, els projectes industrials i les normes que puguen afectar la salut de la població."
+ },
+ {
+  "id": "compromis-0055",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Salut pública"
+  ],
+  "texto": "- Ampliarem les mesures per a lluitar contra el tabaquisme, incloent la prohibició de fumar en terrasses i platges."
+ },
+ {
+  "id": "compromis-0056",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Salut pública"
+  ],
+  "texto": "- Prohibirem la venda de begudes energètiques a persones menors de 16 anys"
+ },
+ {
+  "id": "compromis-0057",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Exigirem recursos per a una educació pública de qualitat, amb millora de la inclusió i de les condicions d’aprenentatge, augmentant la inversió educativa estatal i les transferències a les comunitats autònomes, amb l’objectiu d’avançar cap a una inversió educativa equivalent al 7% del PIB estatal."
+ },
+ {
+  "id": "compromis-0058",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Prohibirem la cessió de sòl públic per a la construcció de centres educatius privats."
+ },
+ {
+  "id": "compromis-0059",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Modificarem la normativa bàsica de concerts educatius perquè la xarxa concertada siga realment subsidiària de la pública."
+ },
+ {
+  "id": "compromis-0060",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Defensarem el finançament estatal i els acords amb les administracions responsables per a ampliar una xarxa pública en l’educació de 0 a 3 anys i avançar cap a la seua gratuïtat amb condicions laborals dignes del professorat."
+ },
+ {
+  "id": "compromis-0061",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Reformarem la Llei Orgànica d’Educació perquè el menjador escolar siga reconeguda com a part dels programes educatius essencials, establint així la gratuïtat i universalitat del servei."
+ },
+ {
+  "id": "compromis-0062",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Defensarem finançament i acords per ampliar les places i l’oferta territorial en la formació professional pública."
+ },
+ {
+  "id": "compromis-0063",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Donarem major espai a la coeducació, l’educació ambiental, l’educació en valors, la democràcia, la cultura de la pau, l’educació afectivo-sexual i la prevenció de violència i assetjament en el marc educatiu estatal."
+ },
+ {
+  "id": "compromis-0064",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Reforçarem l’atenció a la diversitat, l’orientació educativa i els recursos per a l’alumnat amb necessitats específiques de suport."
+ },
+ {
+  "id": "compromis-0065",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Desenvoluparem protocols específics contra l’assetjament escolar, la violència digital i la difusió no consentida d'imatges íntimes."
+ },
+ {
+  "id": "compromis-0066",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Actualitzarem la normativa d’educació de persones adultes per a garantir l’aprenentatge, la formació i el reciclatge professional al llarg de la vida."
+ },
+ {
+  "id": "compromis-0067",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Educació"
+  ],
+  "texto": "- Impulsarem una nova llei de Formació Professional que l’adapte al model productiu, les necessitats de formació i el dret a l’accés al món del treball."
+ },
+ {
+  "id": "compromis-0068",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Elaborarem una Llei bàsica estatal de serveis socials que garantisca prestacions mínimes professionalitzades, interdisciplinars, interoperabilitat de dades entre territoris, unes ràtios mínimes d’atenció directa i que impedisca la privatització de determinats serveis."
+ },
+ {
+  "id": "compromis-0069",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Desburocratitzarem els serveis socials prohibint que les persones hagen de presentar la mateixa documentació en reiterades ocasions per a accedir a serveis i prestacions essencials."
+ },
+ {
+  "id": "compromis-0070",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Reconeixerem el servei d’ajuda a domicili com un servei públic essencial, plenament integrat en el sistema d’atenció a la dependència."
+ },
+ {
+  "id": "compromis-0071",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Avançarem cap a condicions laborals en l’àmbit de les cures amb majors salaris, estabilitat i eliminant desigualtat injustificades per a treballadores que desenvolupen funcions equivalents."
+ },
+ {
+  "id": "compromis-0072",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Reformarem la Llei de Dependència per a prioritzar l’atenció a persones majors i dependents en els seus propis entorns amb suport adequat, atenció sanitària i serveis comunitaris."
+ },
+ {
+  "id": "compromis-0073",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Aprovarem un Estatut de les Persones Cuidadores que done reconega la seua dedicació continuada establint drets i garanties sociolaborals, econòmiques i de protecció social."
+ },
+ {
+  "id": "compromis-0074",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Desenvoluparem una política pública de cures que repartisca la responsabilitat entre les institucions, les empreses, els homes i les dones, i que no descanse de manera desproporcionada sobre les famílies."
+ },
+ {
+  "id": "compromis-0075",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Obligarem les entitats financeres a donar facilitats i publicitat per a obrir comptes de pagament bàsics a totes les persones, independentment de la seua situació laboral, social o administrativa."
+ },
+ {
+  "id": "compromis-0076",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Serveis socials, sistemes de cures i inclusió social"
+  ],
+  "texto": "- Reformarem l’Ingrés Mínim Vital per a incloure noves situacions de vulnerabilitat, millorar la seua cobertura, agilitzar procediments i millorar la compatibilitat amb altres prestacions."
+ },
+ {
+  "id": "compromis-0077",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Exigirem un pla de manteniment, inversions i augment de plantilla per a ampliar freqüències, renovar trens, millorar l’accessibilitat de les estacions i reduir els temps de trajecte."
+ },
+ {
+  "id": "compromis-0078",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Crearem i dotarem de forma adequada l’Autoritat Metropolitana de Transport, amb una aportació estatal de referència de 50 milions d’euros per reforçar la xarxa de transports i la intermodalitat."
+ },
+ {
+  "id": "compromis-0079",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Garantirem tarifes accessibles, integració dels títols de transport i una planificació coordinada entre ferrocarrils, autobusos i xarxes metropolitanes."
+ },
+ {
+  "id": "compromis-0080",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Accelerarem l’execució del Corredor Mediterrani i les connexions ferroviàries de mercaderies, amb calendari, pressupost i rendició de comptes, prioritzant actuacions que amplien la capacitat, les connexions i la fiabilitat."
+ },
+ {
+  "id": "compromis-0081",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Revisarem les actuacions del corredor Cantàbric-Mediterrani perquè responguen a les necessitats del territori i a criteris de sostenibilitat."
+ },
+ {
+  "id": "compromis-0082",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Insistirem en les inversions estatals en carreteres, negociant una dotació suficient per a noves infraestructures necessàries i per al manteniment de la xarxa existent, amb major presència i control públics."
+ },
+ {
+  "id": "compromis-0083",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Exigirem la paralització dels projectes de grans infraestructures i ampliacions que no estiguen justificades des del punt de vista d’impacte ambiental o per criteris de mobilitat real, com l’ampliació nord del Port de València o les ampliacions dels aeroports de València i Alacant."
+ },
+ {
+  "id": "compromis-0084",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Posarem el focus en una millora integral del transport públic al sud del País Valencià."
+ },
+ {
+  "id": "compromis-0085",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Impulsarem una reestructuració completa de l’empresa pública ADIF, revertint la seua privatització encoberta mitjançant subcontractes, augmentant el personal propi i incrementant ostensiblement la inversió en manteniment i millora de la xarxa ferroviària."
+ },
+ {
+  "id": "compromis-0086",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Racionalitzarem l’alta velocitat liberalitzada, apostant pel transport de mercaderies, per a lluitar contra el canvi climàtic."
+ },
+ {
+  "id": "compromis-0087",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Incorporarem als programes estatals de mobilitat els desplaçaments per acompanyar infància, atendre familiars o acudir a serveis, amb condicions d’accessibilitat i prevenció de l’assetjaments, així com el transport assequible per a joves i el suport estatal a connexions educatives, laborals, nocturnes i rurals."
+ },
+ {
+  "id": "compromis-0088",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Desenvoluparem la Llei 9/2025 de Mobilitat Sostenible, amb l’objectiu d’aconseguir la neutralitat climàtica al 2050."
+ },
+ {
+  "id": "compromis-0089",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Impulsarem el pes dels corredors ferroviaris de mercaderies, enfront de la carretera, posant en valor la seua sostenibilitat mediambiental, millorant la seua productivitat i la connexió amb els ports i centres logístics."
+ },
+ {
+  "id": "compromis-0090",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Limitarem, de manera efectiva, els vols nacionals quan existisca una alternativa ferroviària competitiva amb una duració inferior a les 2 hores i mitja."
+ },
+ {
+  "id": "compromis-0091",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Desenvoluparem l'electrificació progressiva de les terminals portuàries."
+ },
+ {
+  "id": "compromis-0092",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Protegirem el sector del taxi com a servei públic essencial establint limitacions a les VTC a fi d'evitar la competència deslleial i garantir les millors condicions de treball."
+ },
+ {
+  "id": "compromis-0093",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Implementarem mesures específiques per a garantir que la mobilitat sostenible arribe realment al medi rural (estant degudament adaptades a la pròpia idiosincràsia d'aquests territoris), així com fomentar la mobilitat elèctrica en tot el territori."
+ },
+ {
+  "id": "compromis-0094",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Mobilitat sostenible"
+  ],
+  "texto": "- Defensarem un model de gestió aeroportuària que prioritze l’interés general, la salut pública i la qualitat de vida de les poblacions afectades, per damunt de criteris exclusivament econòmics. Donarem participació de la Generalitat i els Ajuntaments afectats en les decisions sobre ampliacions aeroportuàries, plans d’inversió i operacions de vol incloent les recomanacions de l’OMS en matèria de soroll, especialment durant el període nocturn."
+ },
+ {
+  "id": "compromis-0095",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Aprovarem una llei de finançament d’infraestructures estatals que garantisca una distribució equitativa dels recursos entre museus, teatres, auditoris, etc."
+ },
+ {
+  "id": "compromis-0096",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Reforçarem el finançament de les institucions culturals valencianes, dels festivals, les companyies, les associacions i els projectes de creació."
+ },
+ {
+  "id": "compromis-0097",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Defensarem finançament per a la creació, la producció independent i unes condicions laborals dignes en el sector cultural."
+ },
+ {
+  "id": "compromis-0098",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Desplegarem íntegrament l’Estatut de l’Artista per a garantir unes condicions laborals, fiscals i de protecció social adequades a les particularitat del treball cultural i artístic, especialment pel que fa a la intermitència de l’activitat professional."
+ },
+ {
+  "id": "compromis-0099",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Garantirem el suport estatal a iniciatives com la Mostra de Teatre Espanyol d’Autors Contemporanis d’Alacant, Sagunt a Escena, Dansa València i Trovam."
+ },
+ {
+  "id": "compromis-0100",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Reforçarem les aportacions estatals al Palau de les Arts, l’IVAM, el Museu de Belles Arts de València, el Museu de Sant Pius V, les societats musicals i altres institucions culturals valencianes."
+ },
+ {
+  "id": "compromis-0101",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Impulsarem la recuperació i rehabilitació del patrimoni històric valencià, incloent-hi el castell de Sagunt, la Cova del Bolomor, la Murta i altres espais patrimonials que necessiten actuacions de conservació."
+ },
+ {
+  "id": "compromis-0102",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Avançarem en l’adquisició i recuperació d’espais patrimonials d’interés públic, inclós el monestir de Sant Jeroni de Cotalba."
+ },
+ {
+  "id": "compromis-0103",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Reivindicarem el retorn permanent de la Dama d’Elx a la ciutat d’Elx i el Llibre dels Repartiments a Oriola per a la seua exhibició."
+ },
+ {
+  "id": "compromis-0104",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Impulsarem el traspàs a la Generalitat de la propietat i l’ús del Convent de Sant Domènec de València, amb les garanties patrimonials corresponents."
+ },
+ {
+  "id": "compromis-0105",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Promourem premis i reconeixements estatals per a la creació literària en les llengües cooficials, en condicions d’equivalència i prestigi."
+ },
+ {
+  "id": "compromis-0106",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Ampliarem l’accés a la cultura amb preus assequibles, ajudes per a les persones amb menys recursos i l’extensió del Bo Cultural Jove a la població de 16 a 30 anys."
+ },
+ {
+  "id": "compromis-0107",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Millorarem les condicions laborals del sector cultural i audiovisual, afavorint l’estabilitat, la remuneració justa i la protecció dels drets de les persones treballadores."
+ },
+ {
+  "id": "compromis-0108",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Impulsarem una llei estatal de l’audiovisual que afavorisca la producció territorial, el pluralisme lingüístic i la diversitat cultural."
+ },
+ {
+  "id": "compromis-0109",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Descentralitzarem les ajudes estatals a la producció audiovisual."
+ },
+ {
+  "id": "compromis-0110",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Promourem i faciltarem la presència de les creadores i els creadors valencians en fires i festivals estatals i internacionals."
+ },
+ {
+  "id": "compromis-0111",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Crearem una mesa estatal de cultura amb participació de les comunitats autònomes i dels sectors culturals per a coordinar les polítiques públiques."
+ },
+ {
+  "id": "compromis-0112",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Ampliarem les excepcions als drets de propietat intel·lectual per afavorir els usos educatius i culturals sense ànim de lucre, amb les garanties necessàries."
+ },
+ {
+  "id": "compromis-0113",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Recuperarem la Llei del Cine i de la Cultura Audiovisual, que es va quedar pendent en la passada legislatura."
+ },
+ {
+  "id": "compromis-0114",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Finançarem la restauració del Teatre Principal de València per a que s’ubique allí una subseu de l’Institut Nacional d’Arts Escèniques i de la Música."
+ },
+ {
+  "id": "compromis-0115",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Reforçarem la presència de la creació en valencià a l’Instituto Cervantes."
+ },
+ {
+  "id": "compromis-0116",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Cultura"
+  ],
+  "texto": "- Crearem un pla per a redirigir els ingressos dels macroesdeveniments per al finançament de sales independents i festivals xicotets i rurals."
+ },
+ {
+  "id": "compromis-0117",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Esport"
+  ],
+  "texto": "- Establirem un programa marc de finançament per a la recepta esportiva o prescripció d’exercici físic als centres de salut."
+ },
+ {
+  "id": "compromis-0118",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Esport"
+  ],
+  "texto": "- Establirem com a condició indispensable la residència fiscal a l’estat perquè esportistes beneficiar-se d’ajudes públiques i obligarem a tributar a Espanya pels ingressos obtinguts en exercici de funcions de representació internacional com campionats."
+ },
+ {
+  "id": "compromis-0119",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Esport"
+  ],
+  "texto": "- Promocionarem programes per afavorir especialment la preparació d’esportistes d’elit, compatibilitzant l’activitat dins de la Universitat."
+ },
+ {
+  "id": "compromis-0120",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Oci educatiu"
+  ],
+  "texto": "- Mantindrem i augmentarem el Pla Coresponsables per a ampliar l’oferta d’extraescolars universals i serveis de cures professionals a la infància."
+ },
+ {
+  "id": "compromis-0121",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Oci educatiu"
+  ],
+  "texto": "- Impulsarem suport estatal a espais culturals, esportius i de trobada accessibles que no obliguen a consumir."
+ },
+ {
+  "id": "compromis-0122",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Procurarem emissions en totes les televisions públiques que emeten en les diferents CCAA en la totalitat de l’Estat, especialment de la reciprocitat entre les televisions públiques autonòmiques que comparteixen un mateix sistema lingüístic."
+ },
+ {
+  "id": "compromis-0123",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Avançarem cap a una programació completa en valencià al Centre Territorial de RTVE al País Valencià, compartida i intercanviada amb les altres comunitats autònomes del mateix domini lingüístic."
+ },
+ {
+  "id": "compromis-0124",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Avançarem en l’emissió multilingüe de totes les radiotelevisions públiques de l’Estat."
+ },
+ {
+  "id": "compromis-0125",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Elaborarem un Estatut de la Informació per a protegir els i les professionals del sector i instaurarem un codi deontològic que acabe amb les informacions falses i contemple greus sancions a qui desinforme."
+ },
+ {
+  "id": "compromis-0126",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Posarem en marxa el Consell Estatal de Mitjans Audiovisuals (CEMA) com a òrgan regulador, supervisor i sancionador del sector."
+ },
+ {
+  "id": "compromis-0127",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Decentralitzarem la promoció i difusió de la producció audiovisual, de tal manera que l’Estat afavorisca la presència en fires i festivals, també internacionals, amb ajudes específiques, i financie la producció audiovisual territorial."
+ },
+ {
+  "id": "compromis-0128",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Elaborarem normes clares per a augmentar la transparència dels algoritmes i combatre’n els biaixos, i prendrem mesures contra els patrons addictius de les plataformes digitals."
+ },
+ {
+  "id": "compromis-0129",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Model comunicatiu i drets digitals"
+  ],
+  "texto": "- Regularem de manera estricta els usos legítims de la intel·ligència artificial perquè s’oriente exclusivament a la millora de la societat, millorarem la protecció front els deep fakes, exigirem responsabilitats als directius de les tecnològiques que creen o difonen missatges falsos i prohibirem assistents digitals que creen dependència emocional."
+ },
+ {
+  "id": "compromis-0130",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Augmentarem les ajudes a l’estudi, la investigació i les infraestructures científiques, amb criteris d’equitat territorial."
+ },
+ {
+  "id": "compromis-0131",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Aprofundirem la cooperació entre universitats, centres d’investigació i sectors productius, garantint la transferència de coneixement i el retorn social de la inversió pública."
+ },
+ {
+  "id": "compromis-0132",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Millorarem el sistema estatal de beques i garantirem que les beques universitàries es resolguen i s’ingressen a principi de curs, evitant que les dificultats econòmiques impedisquen continuar els estudis."
+ },
+ {
+  "id": "compromis-0133",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Posarem en marxa un nou sistema de taxes universitàries perquè qui menys recursos té pague menys."
+ },
+ {
+  "id": "compromis-0134",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Defensarem recursos per a universitats i investigació pública i reformes que reduïsquen la precarietat de les carreres científiques."
+ },
+ {
+  "id": "compromis-0135",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Implementarem un sistema d’avaluació periòdica en les universitats que permeta conéixer el rendiment dels recursos públics rebuts i fomente una cultura de coresponsabilitat social."
+ },
+ {
+  "id": "compromis-0136",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Dissenyarem una carrera investigadora integral i amb contractació estable que prenga en consideració totes les etapes en la recerca."
+ },
+ {
+  "id": "compromis-0137",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Dignificarem la situació del personal professor d’universitat."
+ },
+ {
+  "id": "compromis-0138",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Serveis públics per a cuidar i protegir",
+   "Universitats"
+  ],
+  "texto": "- Limitarem la proliferació d’universitats privades i evitarem el desviament de recursos públics a la xarxa privada d’universitats."
+ },
+ {
+  "id": "compromis-0139",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació."
+ },
+ {
+  "id": "compromis-0140",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman."
+ },
+ {
+  "id": "compromis-0141",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Modificarem l’Impost sobre el Patrimoni en allò referent a la valoració d’immobles per tal de que tributen sobre el valor fixat pel l’Índex d’Habitatges Estatal."
+ },
+ {
+  "id": "compromis-0142",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Lluitarem contra el frau fiscal, incrementant les plantilles de l’AEAT."
+ },
+ {
+  "id": "compromis-0143",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Eliminarem els avantatges de les grans empreses en relació amb les PIMES."
+ },
+ {
+  "id": "compromis-0144",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Crearem un impost sobre el benefici de les empreses oligopolístiques."
+ },
+ {
+  "id": "compromis-0145",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Eliminarem els privilegis de les rendes financeres respecte de les del treball, fent-les idènticament progressives."
+ },
+ {
+  "id": "compromis-0146",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Modificarem la fiscalitat de les rendes immobiliàries per tal de fer-la efectivament progressiva mitjançant l'eliminació de deduccions de les quals no gaudeixen les rendes del treball."
+ },
+ {
+  "id": "compromis-0147",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Reduirem la deducció per amortització d’immobles, des del 3% actual a l’1% incrementant la recaptació de més de 465 milions d’euros."
+ },
+ {
+  "id": "compromis-0148",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Rebaixarem la deducció per arrendament d’immobles destinats a habitatges des de l’actual 50% fins a un màxim del 20%, condicionat a les rendes de lloguer iguals o inferiors al 85 % del lloguer mitjà de la comunitat autònoma, i eliminant-la per a rendes de lloguer iguals o superiors a la mitjana autonòmica."
+ },
+ {
+  "id": "compromis-0149",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Implantarem una taxa de 2€ per pernoctació en habitatges d’ús turístics."
+ },
+ {
+  "id": "compromis-0150",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Simplificarem tributs per tal de reduir l’elusió fiscal."
+ },
+ {
+  "id": "compromis-0151",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Eliminarem els privilegis fiscals al sector l’aviació (combustible, IVA…) i destinarem els 6.000 milions anuals recaptats a reforçar el sector ferroviari."
+ },
+ {
+  "id": "compromis-0152",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Crearem un impost sobre l'emissió d'òxids de nitrogen a l'atmosfera per part de l'aviació comercial."
+ },
+ {
+  "id": "compromis-0153",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Gravarem a l’IRPF la tinença d’habitatges buits injustificadament."
+ },
+ {
+  "id": "compromis-0154",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Impulsarem un impost directe o taxa a les empreses per l'ús de robots que substitueixen mà d'obra humana, gravant les conseqüències de la robotització en la mà d'obra del sector productiu i les cotitzacions a la Seguretat Social, reforçant el sistema públic de pensions."
+ },
+ {
+  "id": "compromis-0155",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Reduirem l’IVA dels productes utilitzats per a la cura de la salut, higiene femenina, serveis de perruqueria, productes per a persones celíaques, serveis i productes culturals, prevenció de malalties i tractament amb finalitats veterinàries."
+ },
+ {
+  "id": "compromis-0156",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Augmentarem l’IVA a productes de luxe, contaminants i nocius per a la salut pública."
+ },
+ {
+  "id": "compromis-0157",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Fiscalitat"
+  ],
+  "texto": "- Reformarem la llei d’hisendes locals per a introduir la progressivitat fiscal en l’impost sobre els béns immobles, reconeixent els mateixos drets a les famílies monoparentals i les nombroses."
+ },
+ {
+  "id": "compromis-0158",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Impulsarem la modificació de la Llei d'Arrendaments Urbans, amb el propòsit de regular els lloguers comercials i evitar també la gentrificació comercial."
+ },
+ {
+  "id": "compromis-0159",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Impulsarem mesures eficaces contra l'intrusisme i la competència deslleial, molt especialment quant a les pràctiques comercials de la banca i l'economia submergida en el sector comercial."
+ },
+ {
+  "id": "compromis-0160",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Crearem línies d'ajudes directes per a les pimes de comerços de consum energètic intensiu, afavorint la reducció de consums i la transició cap a energies netes."
+ },
+ {
+  "id": "compromis-0161",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Impulsarem la creació del Dia del Comerç de Proximitat com a dia especial de referència assenyalat en el calendari per al reconeixement del paper del comerç urbà de proximitat en la vertebració de les ciutats, la creació de riquesa i ocupació i la seua contribució a la identitat del nostre país."
+ },
+ {
+  "id": "compromis-0162",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Desenvoluparem una política assenyada de rebaixes i promocions, que limite aquests períodes a determinades èpoques de l'any recuperant l'esperit pel qual van ser creades de donar eixida al sobrant d'estoc de cada temporada."
+ },
+ {
+  "id": "compromis-0163",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Promourem la creació d'Escoles Sectorials, com l'escola tècnica de vendes, des de les Administracions Públiques juntament amb les Associacions Empresarials, amb unes infraestructures adequades, dirigides a capacitar a futurs professionals, i reforçar els coneixements i habilitats dels actuals."
+ },
+ {
+  "id": "compromis-0164",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Comerç"
+  ],
+  "texto": "- Impulsarem línies d'ajudes a fons perdut i crèdits blans dirigits al comerç minorista per tal d’afavorir l’accés i la renovació d'elements tecnològics, impulsar el comerç en línia i executar obres d’accessibilitat als locals."
+ },
+ {
+  "id": "compromis-0165",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Establirem la participació directa de persones treballadores en els consells d’administració de les grans empreses, incloses les públiques."
+ },
+ {
+  "id": "compromis-0166",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Crearem una banca pública d’inversió i crèdit per a garantir l’accés al crèdit de les PIMES, les cooperatives, l’economia social i les famílies, i per orientar la inversió cap a la reindustrialització verda, l’habitatge assequible, la innovació i la cohesió territorial que actuarà amb criteris de transparència, rendició de comptes i compliment dels objectius socials i ambientals, i es coordininarà amb l’ICO i les eines públiques existents per evitar duplicitats."
+ },
+ {
+  "id": "compromis-0167",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Augmentarem la presència de l’estat en sectors estratègics a través de l’adquisició de participacions i accions en empreses o la creació d’empreses estatals per a la sobirania econòmica, la transició ecològica i la cohesió social amb una governança democràtica, controls de transparència i objectius de servei públic."
+ },
+ {
+  "id": "compromis-0168",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Defensarem una política industrial que perseguisca la reindustrialització del país i la descarbonització de la indústria, com també reduir la dependència externa, tan energètica com en el proveïment de productes. Per això crearem fulls de ruta específics amb finançament dedicat per a protegir sectors com la ceràmica, el calcer, les joguines o l’automoció potenciant la seua transició cap a energies verdes, la digitalització i la millora de condicions de treball."
+ },
+ {
+  "id": "compromis-0169",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Crearem les condicions per convertir-nos en un pol punter en la producció de tecnologies netes incloent bateries o dispositius de generació d’energies renovables."
+ },
+ {
+  "id": "compromis-0170",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Instarem la redacció d'una nova Llei d'Indústria i Autonomia Estratègica que substituïsca la Llei 21/1992 que no contempla els desafiaments moderns com la descarbonització, la digitalització o l'autonomia estratègica."
+ },
+ {
+  "id": "compromis-0171",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Modificarem el Pla General de Comptabilitat perquè no sols arreplegue la informació economicofinancera, sinó perquè obligatòriament els comptes anuals arrepleguen informes de sostenibilitat que incloguen informació social i mediambiental."
+ },
+ {
+  "id": "compromis-0172",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Treballarem per a simplificar i agilitzar els processos de tramitació en les relacions de les pimes amb l’administració, sobretot a través d’eines telemàtiques i digitals."
+ },
+ {
+  "id": "compromis-0173",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Impulsarem la creació de finestretes úniques per a la realització de gestions i tramitacions empresarials de tipus administratiu."
+ },
+ {
+  "id": "compromis-0174",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Ens oposarem a nous processos de concentració bancària, el resultat final de la qual és la pèrdua de llocs de treball, el desproveïment de serveis bancaris en xicotetes poblacions, la pèrdua de competència en el mercat bancari, en detriment d'empreses i particulars i la reducció del crèdit."
+ },
+ {
+  "id": "compromis-0175",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Potenciarem i protegirem les cooperatives: completarem la reforma de la llei de cooperatives, actualitzarem el seu règim fiscal, ampliarem el diàleg social, reduirem burocràcia, donarem major participació en els processos d’industrialització i prioritzarem empreses que creen arrelament territorial."
+ },
+ {
+  "id": "compromis-0176",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Indústria i empresa"
+  ],
+  "texto": "- Facilitarem la creació de nous models d’empreses basades en l’economia social i solidària, reconeixent societats públic-comunitàries per a desenvolupar activitats empresarials d’interés comú"
+ },
+ {
+  "id": "compromis-0177",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Defensarem per als els Projectes de Generació de Coneixement un finançament suficient, estable i sostingut en el temps, que supere per fi el 3% d'inversió del PIB."
+ },
+ {
+  "id": "compromis-0178",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Impulsarem la instauració de la clàusula de no retrocés, que garantisca que, davant qualsevol escenari de crisi econòmica o reducció de la despesa pública general, les partides destinades a la ciència no patisquen retallades en termes reals."
+ },
+ {
+  "id": "compromis-0179",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Proposarem la creació d'una carrera pública predictible per a personal científic i investigador, eliminant l'actual sistema de contractes precaris concatenats i creant una ruta professional estable, clara i homologable als països més avançats, que reduïsca l'edat mitjana d'entrada a les places fixes."
+ },
+ {
+  "id": "compromis-0180",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Fomentarem un canvi normatiu que disminuisca la càrrega administrativa i burocràtica associada als projectes i centres d'investigació, sempre respectant els principis de transparència i rendició de comptes en l'ús dels recursos."
+ },
+ {
+  "id": "compromis-0181",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Impulsarem una millora en les condicions laborals del Sistema Espanyol de Ciència, Tecnologia i Innovació. És necessari revisar les condicions de la carrera científica, amb especial atenció als salaris i determinants laborals dels investigadors i les investigadores, amb el propòsit de retindre talent i recuperar el que hem exportat a altres països en el passat recent."
+ },
+ {
+  "id": "compromis-0182",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Ciència i innovació"
+  ],
+  "texto": "- Planificarem de manera estratègica l’expansió dels centres de dades amb condicionants socials, energètics i hidràulics de forma de utilitzen aigües regenerades, energies renovables i que tributen pels beneficis generats de manera efectiva."
+ },
+ {
+  "id": "compromis-0183",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Aprovarem un Estatut de les Persones Llauradores i Ramaderes Professionals que actualitze el marc estatal d’explotacions prioritàries i coordine fiscalitat, protecció social, transmissió, finançament i simplificació."
+ },
+ {
+  "id": "compromis-0184",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Treballarem per la constitució d'una mesa estable amb els ministeris d’Agricultura, Hisenda, Treball i Seguretat Social i les organitzacions agràries representatives."
+ },
+ {
+  "id": "compromis-0185",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Encetarem iniciatives per implantar un sistema estatal estable de representativitat de les organitzacions professionals agràries basat en eleccions professionals, coordinat amb els sistemes autonòmics."
+ },
+ {
+  "id": "compromis-0186",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Crearem un sistema d’etiquetatge on s’indique clarament quina part del preu va destinat al productors."
+ },
+ {
+  "id": "compromis-0187",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Perseguirem aquells que etiqueten de forma confusa l’origen dels productes agroalimentaris."
+ },
+ {
+  "id": "compromis-0188",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Exigirem accelerar les infraestructures estatals que connecten les comarques amb els mercats, inclòs el Corredor Mediterrani."
+ },
+ {
+  "id": "compromis-0189",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Impulsarem estratègies estatals de conservació productiva i valorització de cultius i produccions tradicionals minoritàries."
+ },
+ {
+  "id": "compromis-0190",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Incentivarem fiscalment arrendaments estables de més de cinc anys."
+ },
+ {
+  "id": "compromis-0191",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Millorarem la cobertura de contingències i del cessament d’activitat del treball autònom agrari facilitant primes assumibles, cobertures adequades i ajudes per a catàstrofes i danys no coberts amb resposta fiscal, social i productiva preparada."
+ },
+ {
+  "id": "compromis-0192",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Treballarem per a integrar el pasturatge, els mosaics agraris i la gestió de biomassa en les polítiques estatals de prevenció."
+ },
+ {
+  "id": "compromis-0193",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Facilitarem l’accés de les dones a terra, inversió, formació i representació."
+ },
+ {
+  "id": "compromis-0194",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Revindicarem una PAC adaptada a l’agricultura mediterrània amb pressupost suficient, superació de referències històriques i règims simplificats fins a 5.000€ amb ajudes i ecorègims viables i prioritzarem per al cobrament de les PAC les persones professionals que assumeixen el risc empresarial, sense excloure qui exerceix una agricultura a temps parcial real."
+ },
+ {
+  "id": "compromis-0195",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Reforçarem la Llei de la cadena alimentària perquè els preus cobrisquen els costos efectius de producció. Impulsarem millores en la capacitat negociadora d'agricultors, ramaders i pescadors i exigirem protecció laboral per als qui treballen en aquestes activitats, incloses les temporeres."
+ },
+ {
+  "id": "compromis-0196",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Establirem canals àgils de denúncia que protegisquen la identitat dels productors davant de represàlies comercials. Promourem canvis legislatius per tal d’habilitar les organitzacions professionals agràries per a representar les persones afectades i facilitar reclamacions col·lectives front pràctiques abusives repetitives."
+ },
+ {
+  "id": "compromis-0197",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Iniciarem canvis legislatius per tal de perseguir la concertació de preus de compra i evitar les situacions de poder de mercat."
+ },
+ {
+  "id": "compromis-0198",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Reforçarem els controls, incloent en origen, per a assegurar que les importacions de productes extracomunitaris complixen amb les condicions essencials de producció sanitàries, ambientals, laborals i de benestar animal imposades als productors europeus."
+ },
+ {
+  "id": "compromis-0199",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Defensarem un IVA reduït als béns i serveis necessaris per a la producció agrària, inclosa la maquinària."
+ },
+ {
+  "id": "compromis-0200",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Ampliarem el control públic sobre la concentració empresarial i els marges de les grans cadenes de distribució alimentària, exigint transparència en els preus i els marges de cada fase de la cadena i actuant contra les pràctiques abusives que perjudiquen les persones productores i consumidores."
+ },
+ {
+  "id": "compromis-0201",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Exigirem incorporar les necessitats reals de les explotacions a la planificació hidrològica i donar al reg agrari una consideració prioritària després de l’abastiment humà, compatible amb les obligacions ambientals."
+ },
+ {
+  "id": "compromis-0202",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Promourem que els transvasaments siguen una mesura excepcional, amb acord entre conques, disponibilitat acreditada i respecte als cabals ecològics i les necessitats de la conca cedent."
+ },
+ {
+  "id": "compromis-0203",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Instarem la modificació de la Llei 43/2002 de Sanitat Vegetal per a establir calendaris de reducció de pesticides i fertilitzants de síntesi."
+ },
+ {
+  "id": "compromis-0204",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Exigirem reforçar la vigilància, la disponibilitat de vacunes i medicaments i el diagnòstic, amb plans previs als períodes de risc de contagis. Igualment, promourem la coordinació de la resposta davant malalties com la llengua blava, Malaltia Hemorràgica Epizoòtica (EHE, per les seues sigles en castellà) i malaltia de Newcastle i garantir informació clara al sector i recursos per a executar les mesures."
+ },
+ {
+  "id": "compromis-0205",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Promourem que les indicacions de benestar animal i les denominacions de productes ramaders informen sense confusió, amb aplicació efectiva de les normes i els calendaris corresponents."
+ },
+ {
+  "id": "compromis-0206",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Proposarem facilitar la compra pública amb criteris socials, ambientals i de temporada compatibles amb la normativa."
+ },
+ {
+  "id": "compromis-0207",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Posarem a disposició recursos i acords per a facilitar accés a sòl agrari i recuperar explotacions abandonades. Promourem relleu generacional, projectes cooperatius i accés de dones a titularitat, crèdit i formació, sense fer del patrimoni heretat una condició per a començar."
+ },
+ {
+  "id": "compromis-0208",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Defensarem per al sector pesquer mesures compensatòries a la pujada dels preus dels combustibles."
+ },
+ {
+  "id": "compromis-0209",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Agricultura i pesca"
+  ],
+  "texto": "- Mantindrem una postura ferma davant el Consell de la UE que ajude a la reconversió del sector pesquer que afavorisca una producció més sostenible mantenint una distribució just dels dies de treball"
+ },
+ {
+  "id": "compromis-0210",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Impulsarem la transposició de la Directiva europea 2020/1828, per a regular amb plenes garanties les accions de representació col·lectives, que permetrà a les entitats legitimades (com a associacions de consumidors o organismes públics) actuar en nom d'un grup de persones afectades per una mateixa infracció per a defensar els seus interessos col·lectius."
+ },
+ {
+  "id": "compromis-0211",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Promourem una legislació específica contra l'obsolescència programada, hui dia molt difusa (Directiva UE 2024/1799 del Dret a la Reparació, Reglament UE 2023/1542 sobre bateries, Llei General de Defensa dels Consumidors i Usuaris, Reial decret 110/2015 sobre residus d'aparells elèctrics i electrònic, etc.)."
+ },
+ {
+  "id": "compromis-0212",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Limitarem i arribarem a prohibir que les administracions públiques contracten amb empreses sancionades en ferma per cometre infraccions greus i molt greus, així com que incomplisquen laudes o acords de mediació."
+ },
+ {
+  "id": "compromis-0213",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Impulsarem major transparència i protecció en la contractació de serveis bancaris, en empreses de telefonia i internet i en les factures de serveis energètics."
+ },
+ {
+  "id": "compromis-0214",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Reforçarem les mesures compensatòries per demores en el transport públic, especialment en el ferroviari, excepte el produït per causa major."
+ },
+ {
+  "id": "compromis-0215",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Avançarem en l’extensió del 5G a tot el territori, incloses les zones rurals."
+ },
+ {
+  "id": "compromis-0216",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Lluitarem contra l’escletxa digital, garantint les cartes en paper a la restauració o el dret al pagament en efectiu."
+ },
+ {
+  "id": "compromis-0217",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Combatrem les tècniques de tarificació dinàmica i preus basats en perfils personals en serveis digitals."
+ },
+ {
+  "id": "compromis-0218",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Perseguirem actituds abusives respecte equipatges, endarreriments o drets de les persones viatgeres d’aerolínies i altres operadors de transport i turisme."
+ },
+ {
+  "id": "compromis-0219",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Farem efectiu el compliment de la Llei 7/2022, de Residus i Sòls Contaminats, i el RD 1055/2022, de Residus, i posarem en marxa abans de la meitat de la legislatura el Sistema de Depòsit, Devolució i Retorn d’Envasos."
+ },
+ {
+  "id": "compromis-0220",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Drets de les persones consumidores"
+  ],
+  "texto": "- Enfortirem els control i la normativa per garantir el compliment de la Responsabilitat Ampliada del Productor sobre els residus generats pels productes que posen al mercat."
+ },
+ {
+  "id": "compromis-0221",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Impulsarem un Pacte d'Estat per a un Turisme Just, Sostenible i inclusiu."
+ },
+ {
+  "id": "compromis-0222",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Millorarem les condicions de treball al sector: pujada del salari mínim, reducció de la jornada laboral i fi de la generalització de les hores extra. Modificarem l'article 42 de l'Estatut dels Treballadors per a impedir que els hotels subcontracten el servei de neteja d'habitacions a empreses multiserveis, limitarem del nombre de llits i habitacions assignades per jornada laboral i millores ergonòmiques, com la dotació obligatòria de llits elevables i carros motoritzats, reconeixerem automàticament patologies musculoesquelètiques com a malalties professionals derivades de moviments repetitius, incrementarem salarials i farem complir els convenis col·lectius del sector d'hostaleria i turisme."
+ },
+ {
+  "id": "compromis-0223",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Corregirem la pressió i l'alça de preus ocasionada pel turisme amb la regulació dels apartaments turístics."
+ },
+ {
+  "id": "compromis-0224",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Fomentarem plans de mobilitat sostenible, prioritzant l'ús el ferrocarril enfront de l'ús del lloguer de vehicles privats, els vols curts (excloent els vols domèstics de la població insular) i jets privats. Regular l'arribada massiva de creuers a les nostres costes."
+ },
+ {
+  "id": "compromis-0225",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Prioritzarem la protecció de la biodiversitat, la cerca de la neutralitat climàtica i l'adaptació a les conseqüències actuals i previstes del canvi climàtic. També, la política d'aigua i d'energia han de coordinar-se mediambiental, social i econòmicament a la planificació turística."
+ },
+ {
+  "id": "compromis-0226",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Promocionarem la singularitat de cada territori, paisatge, cultura, llengua i patrimoni com un valor afegit per al turisme i com un dret per a la ciutadania, evitant la gentrificació de les ciutats i l'expulsió de les famílies dels seus barris."
+ },
+ {
+  "id": "compromis-0227",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Desenvoluparem plans integrals de dinamització de l'economia en els municipis altament dependents del sector turístic, especialment en zones on l'impacte climàtic és més sever. És igualment necessari garantir el finançament públic dels serveis públics tensionats per l'afluència de turistes nacionals o estrangers."
+ },
+ {
+  "id": "compromis-0228",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Democratització de l’economia",
+   "Turisme"
+  ],
+  "texto": "- Destinarem tots els recursos de la promoció turística a la reconversió ecològica del teixit industrial i l’I+D+i."
+ },
+ {
+  "id": "compromis-0229",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Desenvoluparem el Pla Nacional de la Natura i promourem la modificació de la Llei 42/2007 amb la finalitat de frenar la pèrdua i recuperar ecosistemes funcionals, biodiversos i resilients, complementant les polítiques de conservació amb objectius ambiciosos de restauració ecològica en diferents escales espacials i temporals i finançament suficients i mecanismes de seguiment que permeten comprovar els resultats ecològics obtinguts."
+ },
+ {
+  "id": "compromis-0230",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Prioritzarem la recuperació dels espais protegits que pateixen processos greus de deterioració i aconseguir que la seua protecció es reflectisca en millores comprovables de la biodiversitat, no únicament en l'augment de la superfície declarada."
+ },
+ {
+  "id": "compromis-0231",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Reduirem de manera efectiva les principals amenaces per a la fauna, com la destrucció d'hàbitats, les línies elèctriques perilloses, les captures accidentals, els verins i altres causes evitables de mortalitat."
+ },
+ {
+  "id": "compromis-0232",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Assegurarem que el finançament públic contribuïsca a millorar l'estat de conservació de les espècies i els ecosistemes."
+ },
+ {
+  "id": "compromis-0233",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Garantirem la convivència entre la vida silvestre i les activitats humanes en el medi natural, fomentant la coexistència entre les espècies silvestres i les activitats econòmiques."
+ },
+ {
+  "id": "compromis-0234",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Establirem el “Marc Verd” com a principi rector de la nostra política que garantirà que qualsevol política, programa o projecte es sotmeta a un filtre climàtic vinculant que impedixca iniciatives que comporten un augment en les emissions."
+ },
+ {
+  "id": "compromis-0235",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Garantirem una Transició Ecològica Justa posant en marxa protocols d’actuació preferent i plans de formació, subsidi i reciclatge professional per a col·lectius vulnerables i treballadors dels sectors descarbonitzats."
+ },
+ {
+  "id": "compromis-0236",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Posarem en marxa abans del final del primer any de legislatura Un Pla Estatal d’Emergència Per la Biodiversitat i Restauració d’Ecosistemes amb dotació pressupostària plurianual."
+ },
+ {
+  "id": "compromis-0237",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Impulsarem la modificació de la Llei 26/2007 de Responsabilitat Mediambiental per garantir que el 100% dels costos de restauració i descontaminació recaiguen obligatòriament sobre l’empresa o agent causant."
+ },
+ {
+  "id": "compromis-0238",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Medi ambient i biodiversitat"
+  ],
+  "texto": "- Prohibirem per llei els patrocinis i anuncis d’empreses de combustibles fòssils i crearem l’Observatori de la Publicitat Verda Enganyosa."
+ },
+ {
+  "id": "compromis-0239",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Reduirem el pes del mercat marginalista i implementarem un model de remuneració regulat i estable, amb contractes a llarg termini a preu fix per a les renovables, que traslladen a la ciutadania el baix cost real de generar-les i acaben amb la volatilitat."
+ },
+ {
+  "id": "compromis-0240",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Traurem de la factura l’impost elèctric i els càrrecs de política energètica i els finançarem via Pressupostos Generals de l’Estat: així el seu finançament passa a ser progressiu —paga més qui més renda té i més contamina—, la factura baixa per a tothom i l’electricitat es converteix en l’opció per defecte."
+ },
+ {
+  "id": "compromis-0241",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Crearem una empresa pública de generació, distribució i comercialització, degudament capitalitzada i amb capacitat tècnica i de gestió, que gestione renovables, les centrals hidroelèctriques revertides i desplegue les noves xarxes de distribució en els barris i les zones de nou desenvolupament."
+ },
+ {
+  "id": "compromis-0242",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Recuperarem progressivament la titularitat pública de les grans empreses elèctriques, començant per les activitats estratègiques de generació i comercialització, mitjançant adquisicions públiques que permeten reduir el poder dels oligopolis i democratitzar el control de l'energia."
+ },
+ {
+  "id": "compromis-0243",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Impulsarem la generació distribuïda residencial i industrial, amb un èmfasi especial en les comunitats energètiques i el desenvolupament de projectes a edificis públics, per aprofitar millor els recursos de cada territori."
+ },
+ {
+  "id": "compromis-0244",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Crearem un dret de tanteig i retracte a favor de l’administració i de l’empresa pública d’energia en la compravenda de plantes fotovoltaiques entre empreses, replicant el mecanisme que ja existeix contra la compra especulativa d’habitatge per fons voltor."
+ },
+ {
+  "id": "compromis-0245",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Posarem en marxa un pla d’inversió anticipada en la xarxa elèctrica —construir abans que arribe la demanda—, que prioritze els usos productius i residencials i revise els permisos especulatius que avui embussen les cues de connexió."
+ },
+ {
+  "id": "compromis-0246",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Assolirem el 100 % de titularitat pública de Red Eléctrica, recuperant el control estatal sobre una infraestructura estratègica per a planificar el sistema elèctric i garantir que funcione d'acord amb l'interés general."
+ },
+ {
+  "id": "compromis-0247",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Desplegarem un pla per a electrificar els usos finals al transport, sector residencial, agrícola i industrial. Liderarem l’electrificació des de la provisió pública —més tren i transport públic, flotes públiques electrificades— i amb ajudes i incentius dirigits als canvis en la indústria, l’agricultura i la maquinària agrícola."
+ },
+ {
+  "id": "compromis-0248",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Crearem un fons per a la rehabilitació energètica dels habitatges —aïllament i electrificació— que combine ajudes directes i préstecs a interés 0% real a través de l’ICO o un instrument equivalent de manera que les persones vulnerables no hagen d’avançar els diners."
+ },
+ {
+  "id": "compromis-0249",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Mantindrem el calendari de tancament de les centrals nuclears i no acceptarem cap nova pròrroga, alhora que impulsarem un pla de reindustrialització verda per a la comarca que garantisca els llocs de treball."
+ },
+ {
+  "id": "compromis-0250",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Prohibirem els talls de subministrament i reformarem el bo social perquè siga realment progressiu i arribe a qui més ho necessita."
+ },
+ {
+  "id": "compromis-0251",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Durem l’Estat a tindre una majoria de com a mínim el 51% de Red Eléctrica, per mantindre el control de l’operador del sistema i de la xarxa de transport i garantir que els seus beneficis reverteixen en allò públic."
+ },
+ {
+  "id": "compromis-0252",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Separarem l’energia de la CNMC amb una nova Comissió Nacional de l’Energia, desfent la fusió de 2013 que va diluir la supervisió del sector."
+ },
+ {
+  "id": "compromis-0253",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Acompanyarem les comunitats autònomes en la definició de les seues zones d’acceleració renovable i agilitzarem els permisos de les noves plantes, prioritzant els sòls ja degradats o transformats i respectant els espais naturals protegits, sempre amb diàleg amb el territori i garantint el retorn de la riquesa a les comarques on s’instal·len."
+ },
+ {
+  "id": "compromis-0254",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Proposarem simplificar les regles estatals de l'autoconsum col·lectiu, l'emmagatzematge i les comunitats energètiques. Exigirem al Govern actuar sobre les barreres de la seua competència i promoure acords amb administracions i operadors per a resoldre les restants, facilitant la participació dels qui no tenen habitatge en propietat."
+ },
+ {
+  "id": "compromis-0255",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Crearem un fons sobirà d’energies renovables perquè els beneficis de l’oligopoli energètic financie serveis públics, transició i reindustrialització verdes i protecció social."
+ },
+ {
+  "id": "compromis-0256",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Revisarem la Llei 7/2021 de Canvi Climàtic i Transició Energètica i ampliarem els compromisos d’electrificació del sistema, fins al 100% en 2030, i d’abandonament dels combustibles fòssils amb l’horitzó 2040."
+ },
+ {
+  "id": "compromis-0257",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Millorarem el Pla Nacional d’Adaptació al Canvi Climàtic per fer front a les conseqüències del Canvi Climàtic i disminuir la vulnerabilitat del conjunt del territori estatal i aconseguir una societat i una economia més resilent."
+ },
+ {
+  "id": "compromis-0258",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Energia"
+  ],
+  "texto": "- Avaluarem el Pla Nacional Integrat d’Energia i Clima (PNIEC), com ferramenta principal de les polítiques de prevenció, publicant els resultats de forma comprensible i assumint nous objectius verificables"
+ },
+ {
+  "id": "compromis-0259",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Garantirem el dret a l'aigua a través d'una gestió pública eficient dels recursos hídrics que incorpore una major progressivitat tarifària en el consum, així com les tecnologies més eficients en els sistemes de depuració, recuperació i reutilització d'aigües, i mesures actives d'estalvi."
+ },
+ {
+  "id": "compromis-0260",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Establirem una transició hidrològica justa i un full de ruta per a adaptar el regadiu i el futur de l'agricultura a la disponibilitat hídrica i garantir un repartiment equitatiu dels recursos en quantitat i qualitat amb el proveïment de les poblacions, els cabals ecològics i altres usos prioritaris."
+ },
+ {
+  "id": "compromis-0261",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Desenvoluparem estratègies i posarem en marxa mesures per a frenar la contaminació de l'aigua per nitrats, i revertir l'actual i greu situació, tot garantint la transparència en les dades de qualitat de l’aigua."
+ },
+ {
+  "id": "compromis-0262",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Prendrem mesures en la lluita per la contaminació de l'aigua provocada per l'ús excessiu de fertilitzants sintètics i excrements i purins de la ramaderia industrial."
+ },
+ {
+  "id": "compromis-0263",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Desenvoluparem projectes de protecció i restauració dels rius, dels boscos de ribera i les capçaleres de valls amb l'objectiu de millora de la capacitat de recàrrega dels aqüífers."
+ },
+ {
+  "id": "compromis-0264",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Impulsarem la declaració de l’Albufera de València i l’Illa de Tabarca d’Alacant i les Illes Columbretes com a Reserva de la Bioesfera de la UNESCO."
+ },
+ {
+  "id": "compromis-0265",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Aigua"
+  ],
+  "texto": "- Garantirem en la planificació hidrològica del Xúquer els cabals ambientals de l’Albufera i dels rius valencians, com a condició per a qualsevol nova concessió o transferència d’aigua."
+ },
+ {
+  "id": "compromis-0266",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Incorporarem a la Llei del Sòl la protecció del sòl agrari d’alt valor, com l’Horta de València, les hortes periurbanes i els regadius històrics, perquè no es puga urbanitzar com si fora sòl buit."
+ },
+ {
+  "id": "compromis-0267",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Recuperarem i connectarem les vies pecuàries i els cursos fluvials com a corredors ecològics i itineraris per a caminar i anar en bicicleta, amb la delimitació pública dels camins i de les lleres usurpades."
+ },
+ {
+  "id": "compromis-0268",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Crearem un fons estatal que remunere els municipis rurals pels serveis ambientals que donen a tot el país (aigua, boscos, biodiversitat i absorció de carboni), sobretot els que estan dins d’espais protegits."
+ },
+ {
+  "id": "compromis-0269",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Aprovarem i finançarem el Pla Nacional de Restauració que exigeix la Unió Europea, per a recuperar rius, zones humides, boscos i sòls degradats, i farem que la Xarxa Natura 2000 tinga plans de gestió aprovats i pressupost per a aplicar-los."
+ },
+ {
+  "id": "compromis-0270",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Executarem amb pressupost i calendari un pla estatal contra la regressió de la costa valenciana. Estes actuacions es fonamentaran en solucions basades en la natura (dunes, aportació de sediment i retirada d’estructures que agreugen l’erosió), i farà que els ports i els embassaments que retenen el sediment el tornen a les platges i paguen la seua regeneració."
+ },
+ {
+  "id": "compromis-0271",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Cap gran obra al litoral, siga portuària, urbanística o d’infraestructura, no s’aprovarà sense una alternativa 0 i una avaluació que tinga en compte la pujada del nivell del mar i l’erosió a 2045 i a 2100."
+ },
+ {
+  "id": "compromis-0272",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Revertirem la reforma de la Llei de Costes del PP de 2013, que va allargar les concessions fins a 75 anys i va rebaixar la protecció del litoral, i impedirem noves construccions en zones amenaçades per la pujada del nivell del mar."
+ },
+ {
+  "id": "compromis-0273",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Protegirem les praderies de posidònia, que fixen la sorra i esmorteeixen els temporals, amb restriccions de fondeig i amb l’objectiu de protegir el 30% del Mediterrani."
+ },
+ {
+  "id": "compromis-0274",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Promourem el principi d’Ocupació Neta Zero de sòl natural i agrari."
+ },
+ {
+  "id": "compromis-0275",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Territori"
+  ],
+  "texto": "- Reformarem durant el primer any de legislatura la Llei 21/2013 d’Avaluació Ambiental per a prohibir els trossejaments de projectes i exigir avaluacions d’impacte ambientals acumulatives."
+ },
+ {
+  "id": "compromis-0276",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Crearem un programa estatal d’adaptació climàtica urbana, cofinançat amb les comunitats autònomes i els ajuntaments, per a renaturalitzar, plantar arbrat i guanyar ombra i zones verdes. L’objectiu serà un 30% de cobertura arbòria a tots els nuclis urbans en 2040, amb prioritat per als barris més vulnerables i més exposats a l’illa de calor."
+ },
+ {
+  "id": "compromis-0277",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Reconeixerem per llei el confort climàtic com a dret social bàsic i finançarem una xarxa estatal de refugis climàtics, amb un mapa públic i accessible, perquè ningú tinga un espai fresc, amb aigua i d’accés gratuït a més de 10 minuts a peu de casa."
+ },
+ {
+  "id": "compromis-0278",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Aprovarem uns estàndards estatals mínims de confort tèrmic, ombra, ventilació i accés a l’aigua en escoles i residències de majors. Els acompanyarem d’un pla plurianual d’ajudes per a bioclimatitzar els més de 28.000 centres educatius i renaturalitzar els patis, oberts al barri com a refugis climàtics."
+ },
+ {
+  "id": "compromis-0279",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Reformarem la Llei del Sòl, d’acord amb les comunitats autònomes, amb nous estàndards de proximitat: no s’aprovarà cap nou desenvolupament residencial sense centre de salut, escola, zona verda i transport públic a menys de 15 minuts a peu o en transport col·lectiu."
+ },
+ {
+  "id": "compromis-0280",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Impulsarem un fons estatal de regeneració urbana integral per als barris més degradats, amb convocatòries anuals per als ajuntaments, que combine rehabilitació, espai públic, equipaments i salut. Inclourà garanties antiespeculatives perquè la millora no expulse els veïns i les veïnes que hi viuen."
+ },
+ {
+  "id": "compromis-0281",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Farem una auditoria estatal d’accessibilitat dels edificis residencials col·lectius i finançarem ascensors, rampes i l’eliminació de barreres, amb prioritat per als edificis on viuen persones majors o amb mobilitat reduïda, perquè ningú quede presoner a sa casa."
+ },
+ {
+  "id": "compromis-0282",
+  "partido": "compromis",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Un territori habitable i resilient",
+   "Model de ciutat i urbanisme"
+  ],
+  "texto": "- Finançarem la pacificació i la peatonalització de carrers, els entorns escolars segurs i els carrils bici urbans, amb una mobilitat amb perspectiva de gènere i de cures. A més, reformarem la normativa estatal de trànsit perquè els ajuntaments puguen guanyar espai per als vianants amb més facilitat."
+ }
+]

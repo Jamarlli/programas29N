@@ -1,0 +1,1429 @@
+[
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 36,
+  "palabras": 2364,
+  "candidatos": [
+   {
+    "id": "compromis-0046",
+    "partido": "compromis",
+    "titular": "Blindar la gestión pública de la sanidad derogando la Ley 15/1997",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Blindarem la gestió pública de la sanitat i impedirem la mercantilització de l’atenció sanitària i la privatització de la gestió dels serveis públics a través de la derogació de la Llei 15/1997."
+   },
+   {
+    "id": "compromis-0047",
+    "partido": "compromis",
+    "titular": "Acceso universal a la sanidad pública sin discriminación por origen o situación administrativa",
+    "marca_actual": [],
+    "texto": "- Garantirem l’accés universal a l’atenció sanitària pública, sense discriminacions per origen o situació administrativa."
+   },
+   {
+    "id": "compromis-0447",
+    "partido": "compromis",
+    "titular": "Observatorios públicos de los sesgos de género en la atención sanitaria",
+    "marca_actual": [],
+    "texto": "- Impulsarem observatoris públics que identifiquen els biaixos de gènere en l’atenció sanitària i publiquen indicadors sobre retards diagnòstics, tractaments i resultats en salut."
+   },
+   {
+    "id": "compromis-0499",
+    "partido": "compromis",
+    "titular": "Desarrollar el FOGA y el Fondo de Cohesión Sanitaria y pagar los importes pendientes",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem adequadament el Fons de Garantia Assistencial (FOGA) i el Fons de Cohesió Sanitària, diferenciant-ne les funcions i garantint la liquidació i el pagament dels imports pendents."
+   },
+   {
+    "id": "pacma-0024",
+    "partido": "pacma",
+    "titular": "Diagnóstico: la caza, causa de pérdida de biodiversidad y de contaminación por plomo",
+    "marca_actual": [],
+    "texto": "Cada año, millones de animales son abatidos por los cazadores mientras PACMA es el único partido que se opone a ello.\n\nLa actividad cinegética no es una herramienta necesaria para la gestión y el equilibrio medio ambiental, como los gobiernos central y autonómicos están tratando de “vendernos” en los últimos años. Muy al contrario, como ya ha advertido el Parlamento Europeo, la caza es una de las principales causas de la pérdida de la biodiversidad.\n\nCada temporada, además, los cazadores dejan tras de sí miles de toneladas de plomo en el agua y el suelo, que permanecen en el sustrato cientos de años, prolongando su efecto tóxico en la naturaleza. Miles de aves, acuáticas y rapaces, mueren cada año por su ingestión directa.\n\nA pesar de ello, los diferentes gobiernos no tienen ningún reparo en establecer beneficios y bonificaciones fiscales para el fomento de la práctica de esta actividad minoritaria, que suponen reducciones de millones de euros de ingreso en las arcas públicas, y, a su vez, la inversión de millones de euros de todos los contribuyentes en el desarrollo de una actividad que no practica la enorme mayoría.\n\nDe la misma manera, en el ámbito legislativo han puesto todo su empeño para que prácticas como la montería con rehala o la cetrería sean declaradas Bien de Interés Cultural."
+   },
+   {
+    "id": "pacma-0202",
+    "partido": "pacma",
+    "titular": "Promover el ahorro, la depuración y la gestión pública del agua",
+    "marca_actual": [],
+    "texto": "Las administraciones responsables deben **respetar las llanuras de inundación y evitar la contaminación difusa o los usos excesivos**. Es necesario **promover el ahorro y la depuración del agua y garantizar una buena gestión pública**.\n\nAsimismo, consideramos fundamental **implicar a la ciudadanía contra la contaminación del agua**, ya que nuestra huella medioambiental puede ser crítica, incluso sin salir de casa. Son necesarias **campañas informativas destinadas a concienciar sobre los perjuicios medioambientales de utilizar detergentes y químicos tóxicos en el ámbito doméstico**, como en la limpieza del hogar y la ropa, y **fomentar**, en su lugar, **el uso de productos ecológicos o inocuos**. Se deben **evitar los vertidos de sustancias no biodegradables en los desagües**, como pinturas, disolventes o aceites, **y el uso de los inodoros como papeleras**. Arrojar objetos que no se degradan como toallitas húmedas, bastoncillos, compresas o tampones, no solo provoca serios problemas en los sistemas de alcantarillado, sino que, con el tiempo, estos objetos pueden terminar en arroyos, ríos y otras masas de agua."
+   },
+   {
+    "id": "pacma-0247",
+    "partido": "pacma",
+    "titular": "Diagnóstico: recortes y privatización han deteriorado la sanidad pública",
+    "marca_actual": [],
+    "texto": "Defendemos un uso eficiente de la sanidad, que garantice la cobertura sanitaria a toda persona que lo necesite.\n\nLos continuos recortes, el desmantelamiento y la privatización de los últimos años han perjudicado seriamente la calidad de la sanidad pública, poniendo en jaque el acceso universal de las personas a los servicios sanitarios. La reducción del personal sanitario, el cierre de plantas en hospitales, la reducción del número de camas o el aumento de los tiempos de espera para consultas, pruebas y/o intervenciones quirúrgicas, son solo algunas de las consecuencias.\n\nEntre las competencias exclusivas del Estado, en el ámbito sanitario, se encuentran las bases y coordinación general de la sanidad, para establecer normas que fijen las condiciones y requisitos mínimos, persiguiendo una igualación básica de condiciones en el funcionamiento de los servicios públicos.\n\nPor ello, desde PACMA consideramos que el Estado debe impulsar el desarrollo de las siguientes medidas:"
+   },
+   {
+    "id": "pacma-0248",
+    "partido": "pacma",
+    "titular": "Evaluar las infraestructuras y necesidades sanitarias",
+    "marca_actual": [],
+    "texto": "- **Análisis de la situación actual de las infraestructuras sanitarias y evaluación de las necesidades** para la mejora de la calidad asistencial."
+   },
+   {
+    "id": "pacma-0249",
+    "partido": "pacma",
+    "titular": "Reintegrar en la sanidad pública los servicios privatizados",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- **Reintegración** al sistema sanitario público **los servicios privatizados**."
+   },
+   {
+    "id": "pacma-0252",
+    "partido": "pacma",
+    "titular": "Números gratuitos de información sanitaria",
+    "marca_actual": [],
+    "texto": "- Puesta en marcha de **números gratuitos de información sanitaria**."
+   },
+   {
+    "id": "pacma-0256",
+    "partido": "pacma",
+    "titular": "Oposición al copago sanitario",
+    "marca_actual": [],
+    "texto": "Un sistema de salud pública, por definición, debe garantizar una sanidad de calidad y sin costes adicionales para una ciudadanía que ya la financia a través de sus impuestos y con el porcentaje de sus salarios destinados a la Seguridad Social.\n\nTal y como ha señalado la Organización Mundial de la Salud, la práctica del copago, a la larga, termina suponiendo un mayor gasto sanitario, a la vez que perjudica la salud de la población, pues la disuade de utilizar los servicios sanitarios, sobre todo a la más desfavorecida, acrecentando por tanto las desigualdades."
+   },
+   {
+    "id": "pacma-0294",
+    "partido": "pacma",
+    "titular": "Revisar los criterios de concertación para evitar la segregación",
+    "marca_actual": [],
+    "texto": "- **Revisión de los criterios de concertación** con la enseñanza privada para garantizar que los conciertos respeten criterios de servicio público y evitar que se fomente la segregación."
+   },
+   {
+    "id": "pacma-0318",
+    "partido": "pacma",
+    "titular": "Cultura accesible y asequible: actividades gratuitas, descuentos y accesibilidad",
+    "marca_actual": [],
+    "texto": "La cultura, como motor de ideas y forma de expresión, es, sin duda, una de las mejores herramientas para la evolución social y la inclusión. El arte y la cultura tienen la capacidad de transformar cualquier situación personal o social, contribuyendo al pleno desarrollo de las personas. Disfrutar o participar de ellas debería ser un derecho, no un privilegio. Las políticas de apoyo a la cultura deberían centrarse en hacer más accesibles y asequibles los productos culturales, por una cultura al alcance de todos y todas.\n\nPACMA propone la puesta en marcha de **políticas para la participación activa en el ámbito cultural de las personas con discapacidad o con dificultades personales o sociales**, no sólo como espectadoras, sino también como autoras, productoras y promotoras.\n\nEs fundamental **mejorar la accesibilidad física y cognitiva de los espacios culturales**, con salas accesibles, visitas guiadas y creación de materiales adaptados.\n\nPara que la cultura sea asequible, apostamos por el **impulso de una oferta cultural amplia y variada, dirigida a todos los públicos, con actividades culturales gratuitas y a precios reducidos,** como encuentros, muestras, exposiciones, festivales y otras actividades culturales, **así como descuentos, bonificaciones y promociones** para la compra de libros, entradas a conciertos y espectáculos de música y danza, cine, teatro, museos y otros espacios y actividades culturales."
+   },
+   {
+    "id": "pacma-0395",
+    "partido": "pacma",
+    "titular": "Sistema unificado de evaluación de la eficacia del gasto público",
+    "marca_actual": [],
+    "texto": "Para **medir la eficacia y eficiencia del gasto público**, desde PACMA proponemos, además, implantar, de cara a los presupuestos del Estado, de las Comunidades Autónomas y de los ayuntamientos, un **sistema unificado de valoración de la eficacia y eficiencia de las partidas de gastos** que figuren en estos, publicando esta información e incorporando las consecuencias de esta a la gestión pública."
+   },
+   {
+    "id": "pacma-0451",
+    "partido": "pacma",
+    "titular": "Fortalecer los servicios de urgencias y el transporte sanitario",
+    "marca_actual": [],
+    "texto": "- **Fortalecimiento de los servicios de urgencias y transporte sanitario**."
+   },
+   {
+    "id": "pacma-0458",
+    "partido": "pacma",
+    "titular": "Reformar la Constitución para blindar las pensiones públicas",
+    "marca_actual": [],
+    "texto": "Y, por supuesto, es inaplazable reformar la Constitución para **blindar las pensiones**, garantizando que el sistema público no pueda recortarse, ni privatizarse."
+   },
+   {
+    "id": "fo-0025",
+    "partido": "fo",
+    "titular": "Diagnóstico: la industria española desmantelada por las imposiciones de la UE",
+    "marca_actual": [],
+    "texto": "La industria española ha sido totalmente desmantelada por las imposiciones de la Unión Europea, que nos ha convertido en un país de servicios, sin capacidad productiva. La UE, con la colaboración de los gobiernos de izquierda y derecha, ha secuestrado nuestra soberanía y nos ha impuesto una agenda económica en beneficio de países extranjeros, que va en contra de nuestros intereses a futuro.\n\nEl proceso de desindustrialización ha supuesto que los trabajadores españoles se vean abocados a aceptar trabajos con unos salarios de miseria y de baja productividad. Han convertido a España en uno de los países europeos con las mayores tasas de paro y pobreza, además de ser el lugar de destino para el turismo de ocio destructivo, cuyos beneficios solo repercuten en la fortuna de unos pocos.\n\nNingún país puede tener un mínimo de soberanía si no tiene una capacidad industrial avanzada. Durante décadas, hemos visto cómo los sectores estratégicos de nuestro país han sido objeto de privatización y especulación con el beneplácito y complicidad de todos los partidos del sistema, lo cual ha traído consecuencias nefastas como el encarecimiento de la vida y, principalmente, la pérdida de nuestra soberanía."
+   },
+   {
+    "id": "fo-0120",
+    "partido": "fo",
+    "titular": "Diagnóstico: recortes, externalización y privatización de la sanidad",
+    "marca_actual": [],
+    "texto": "El Sistema Nacional de Salud viene arrastrando recortes desde hace años. La externalización y privatización de los servicios sanitarios ha sido y es una herramienta muy utilizada por los diferentes gobiernos que se han sucedido en España para recortar el gasto, a la par que un suculento negocio para los capitalistas.\n\nTodos los partidos del sistema han contribuido, en mayor o menor medida, a estas prácticas aumentando el deterioro de los servicios sanitarios, mediante la externalización y privatización del sector\n\nEs necesario garantizar un sistema de prestaciones sanitarias adecuadas para cuidar y sanar a los trabajadores cuando caigan enfermos y con independencia de donde vivan, e implantar medidas que nos ayuden a afrontar el incremento del gasto por el envejecimiento de la población. A su vez, es importante establecer unos marcos de actuación y dotar de recursos al sistema sanitario para poder afrontar futuras contingencias que no impliquen un debilitamiento de nuestro sistema de salud.\n\nPara ello, es necesario organizar los recursos de nuestra patria para asegurar unos servicios sanitarios totalmente gratuitos y de igual acceso y calidad para todos los españoles, con independencia de su lugar de nacimiento.\n\nPor ello, vemos necesarias la implantación de las siguientes medidas:"
+   },
+   {
+    "id": "fo-0121",
+    "partido": "fo",
+    "titular": "Centralizar, unificar y homogeneizar el sistema nacional de salud",
+    "marca_actual": [],
+    "texto": "- Centralizar, unificar y homogeneizar el sistema nacional de salud."
+   },
+   {
+    "id": "fo-0122",
+    "partido": "fo",
+    "titular": "Acabar con la externalización y privatización de la sanidad y controlar las mutuas",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Acabar con el proceso de externalización y privatización de la sanidad. Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamaciones contra estas."
+   },
+   {
+    "id": "fo-0123",
+    "partido": "fo",
+    "titular": "Incrementar el gasto y la inversión sanitaria",
+    "marca_actual": [],
+    "texto": "- Incrementar el gasto e inversión sanitaria con el objetivo de afrontar los cambios, mejoras y modernización del sistema sanitario para:"
+   },
+   {
+    "id": "fo-0124",
+    "partido": "fo",
+    "titular": "Dotar de medios a toda la infraestructura sanitaria existente",
+    "marca_actual": [],
+    "texto": "1. Mejorar y dispensar de los medios precisos a toda la infraestructura sanitaria ya establecida."
+   },
+   {
+    "id": "fo-0130",
+    "partido": "fo",
+    "titular": "Mejorar condiciones laborales y salariales del personal sanitario y de limpieza",
+    "marca_actual": [],
+    "texto": "7. Mejorar las condiciones laborales y salariales de todo el personal vinculado con el sector sanitario, en especial a los trabajadores perjudicados por los procesos de externalización y privatización, cómo las trabajadoras de la limpieza."
+   },
+   {
+    "id": "fe-0225",
+    "partido": "fe",
+    "titular": "Unificar el Sistema Nacional de Salud en uno para toda España",
+    "marca_actual": [],
+    "texto": "- 20.1. Unificar el Sistema Nacional de Salud, siendo uno para toda España, asegurando un servicio de salud nacional y de calidad para todos los españoles."
+   },
+   {
+    "id": "fe-0226",
+    "partido": "fe",
+    "titular": "Inversión sanitaria con atención a primaria y listas de espera",
+    "marca_actual": [],
+    "texto": "- 20.2. Como servicio esencial que es, se garantizará una justa inversión en sanidad, que asegure una óptima atención a todos los españoles y poniendo especial atención en los estamentos más denostados hoy (atención primaria, listas de espera para pruebas diagnósticas e intervenciones quirúrgicas, etc.)."
+   },
+   {
+    "id": "fe-0227",
+    "partido": "fe",
+    "titular": "Fin de la externalización y privatización de la sanidad",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- 20.3. Poner fin a las prácticas de externalización y privatización de la sanidad. La cobertura sanitaria debe estar asegurada por el Estado, teniendo este la capacidad de intervenir la sanidad privada siempre que las necesidades lo demanden."
+   },
+   {
+    "id": "pcte-0001",
+    "partido": "pcte",
+    "titular": "Diagnóstico: poder adquisitivo un 4,6 % inferior a 2008 bajo el capitalismo",
+    "marca_actual": [],
+    "texto": "**En España, el poder adquisitivo de los trabajadores y trabajadoras es hoy un 4,6 % inferior al de 2008. La vivienda absorbe una parte creciente de los salarios. La carestía de la vida no para de subir. Las jornadas nos dejan devastados física y mentalmente. Se privatizan los servicios públicos. Y mientras faltan medios para necesidades básicas, crece el gasto militar, los ricos cada vez son más ricos y los Estados se preparan para tenernos más controlados si protestamos.**\n\nEste sistema, **el sistema capitalista**, se levanta sobre nuestra miseria en todo el globo. Tanto es así que millones de personas se ven forzadas a abandonar sus hogares, huir de sus países y jugarse la vida para poder sobrevivir. Huyen de la miseria, de las guerras, de la devastación ambiental, de la barbarie del capitalismo.\n\n¿Y qué hacen los partidos políticos y los gobiernos? La gran mayoría de ellos asume este sistema como el único posible. Incluso aquellos partidos reformistas que dicen defender nuestros intereses los amoldan, en realidad, a las posibilidades de la ley y la economía, que no es más que amoldarlos a **las líneas rojas que imponen la gran empresa y la banca**."
+   },
+   {
+    "id": "pcte-0034",
+    "partido": "pcte",
+    "titular": "Diagnóstico: la privatización convierte necesidades básicas en negocio",
+    "marca_actual": [],
+    "texto": "El salario no termina en la nómina. Garantizar mínimos vitales dignos depende también de disponer de **sanidad, educación y protección social sin tener que comprarlas en el mercado**.\n\nCuando un servicio público se deteriora, quien tiene dinero busca una alternativa privada y quien no lo tiene soporta esperas, falta de plazas o servicios insuficientes. **La privatización convierte necesidades básicas en oportunidades de negocio** a costa de nuestras vidas.\n\nDefender lo público no puede ser defender la gestión de quienes lo están desmantelando. La defensa de los servicios exige **la unidad organizada de quienes trabajan en ellos y de quienes los usan**."
+   },
+   {
+    "id": "pcte-0035",
+    "partido": "pcte",
+    "titular": "Derogar la Ley 15/1997 y prohibir nuevos conciertos en sanidad, educación y servicios sociales",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- **Privatizaciones** — **Ni una privatización más**: **derogación de la Ley 15/1997** y prohibición de nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales."
+   },
+   {
+    "id": "pcte-0036",
+    "partido": "pcte",
+    "titular": "Reforzar la sanidad pública y destinar el 25 % del gasto a atención primaria",
+    "marca_actual": [],
+    "texto": "- **Sanidad pública** — **Refuerzo de la sanidad pública**, especialmente de atención primaria, atención especializada, salud mental, salud bucodental, prevención e investigación. **25 % del gasto sanitario para atención primaria**."
+   },
+   {
+    "id": "pcte-0037",
+    "partido": "pcte",
+    "titular": "Recuperar los servicios externalizados y privatizados mediante gestión pública directa",
+    "marca_actual": [],
+    "texto": "- **Gestión pública** — **Recuperación de servicios externalizados y privatizados mediante gestión pública directa** bajo mecanismos democráticos de control obrero."
+   },
+   {
+    "id": "pcte-0044",
+    "partido": "pcte",
+    "titular": "Fin de los incentivos fiscales a los planes privados de pensiones",
+    "marca_actual": [],
+    "texto": "- **Planes de pensiones** — **Rechazamos su privatización**: fin de los incentivos fiscales a los planes privados y a los fondos de pensiones de empleo."
+   },
+   {
+    "id": "autonomos-0068",
+    "partido": "autonomos",
+    "titular": "Tarjeta sanitaria única e historia clínica interoperable en toda España",
+    "marca_actual": [],
+    "texto": "66. **Tarjeta Sanitaria Única interoperable en toda España** — Implantación definitiva de una historia clínica digital y tarjeta sanitaria única válida en las 17 comunidades autónomas, Ceuta y Melilla para atención primaria, especialistas y retirada de recetas sin trámites de desplazado.\n - **Viabilidad:** _Es viable aprovechando la infraestructura del Sistema Nacional de Salud y la receta electrónica interoperable, eliminando barreras burocráticas internas para trabajadores y viajeros._"
+   },
+   {
+    "id": "autonomos-0071",
+    "partido": "autonomos",
+    "titular": "Ratios mínimos de enfermería y urgencias en todas las residencias de mayores",
+    "marca_actual": [],
+    "texto": "69. **Dotación obligatoria de enfermería y urgencias en residencias de mayores** — Exigencia legal de ratios mínimos de personal sanitario y equipamiento de primera intervención en todas las residencias geriátricas públicas y privadas, con inspecciones periódicas sin previo aviso.\n - **Viabilidad:** _Es viable mediante conciertos sociosanitarios auditados que vinculen la financiación pública al cumplimiento estricto de los ratios asistenciales._"
+   },
+   {
+    "id": "autonomos-0073",
+    "partido": "autonomos",
+    "titular": "Auditar las fundaciones y entidades que gestionan centros de dependencia",
+    "marca_actual": [],
+    "texto": "71. **Auditoría de fundaciones y entidades gestoras de servicios de dependencia** — Control financiero estricto sobre fundaciones y asociaciones que gestionan centros de dependencia con subvenciones públicas, prohibiendo el lucro encubierto y garantizando que los fondos lleguen al usuario.\n - **Viabilidad:** _Es viable mediante auditorías obligatorias de cuentas por la Intervención autonómica como requisito previo para renovar cualquier concierto público._"
+   },
+   {
+    "id": "autonomos-0083",
+    "partido": "autonomos",
+    "titular": "Liberar suelo público para alquiler asequible con colaboración público-privada",
+    "marca_actual": [],
+    "texto": "81. **Plan Nacional de Vivienda Asequible y movilización de suelo público** — Liberación ágil de suelo público en desuso para construcción de vivienda en alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda.\n - **Viabilidad:** _Es viable porque aumenta la oferta real de vivienda —única vía eficaz para moderar los precios— sin intervenir artificialmente el mercado ni ahuyentar a los propietarios._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarlas o sustituirlas"
+   },
+   {
+    "id": "mantener-reforzar",
+    "nombre": "Mantenerlas o reforzarlas"
+   }
+  ],
+  "n": 45,
+  "palabras": 1721,
+  "candidatos": [
+   {
+    "id": "compromis-0349",
+    "partido": "compromis",
+    "titular": "Reforzar la lucha contra la violencia de género en la Administración de Justicia",
+    "marca_actual": [],
+    "texto": "- Incrementarem la lluita contra la violència de gènere, amb una major coordinació entre les OVD i la resta de recursos dels Lletrats de l'Administració de Justícia, personal judicial i la conselleria competent en matèria de dones; col·laboració en la formació transversal en matèria de gènere de jutges i fiscals; reforç de les unitats de valoració de l'Institut de Medicina Legal; i la Integració del SIRAJ amb els sistemes de gestió processal."
+   },
+   {
+    "id": "compromis-0461",
+    "partido": "compromis",
+    "titular": "Educación afectivosexual integral, científica y feminista adaptada a cada edad",
+    "marca_actual": [],
+    "texto": "- Impulsarem una educació afectivosexual integral, científica, feminista i adequada a cada edat, que treballe la diferència entre consentiment i desig, les relacions respectuoses i la prevenció de les violències."
+   },
+   {
+    "id": "compromis-0463",
+    "partido": "compromis",
+    "titular": "Reforzar la prohibición de la gestación subrogada o «vientres de alquiler»",
+    "marca_actual": [],
+    "texto": "- Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents."
+   },
+   {
+    "id": "compromis-0464",
+    "partido": "compromis",
+    "titular": "Prohibir y sancionar la publicidad de agencias de explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Prohibirem i sancionarem la publicitat, la intermediació lucrativa i la promoció comercial d’agències que ofereixen serveis d’explotació reproductiva."
+   },
+   {
+    "id": "compromis-0465",
+    "partido": "compromis",
+    "titular": "Medidas contra el negocio transnacional de la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Impulsarem mesures contra el negoci transnacional de l’explotació reproductiva, incloent-hi la cooperació internacional i el control de les empreses intermediàries."
+   },
+   {
+    "id": "compromis-0468",
+    "partido": "compromis",
+    "titular": "Revisar los protocolos de riesgo y auditar los casos en que falló la protección",
+    "marca_actual": [],
+    "texto": "- Revisarem de manera integral els protocols de valoració del risc i de protecció de les víctimes, incorporant auditories externes dels casos en què els mecanismes de protecció hagen fallat."
+   },
+   {
+    "id": "compromis-0469",
+    "partido": "compromis",
+    "titular": "Reforzar unidades policiales, juzgados de violencia sobre la mujer y asistencia jurídica",
+    "marca_actual": [],
+    "texto": "- Reforçarem les unitats policials especialitzades, els jutjats de violència sobre la dona, els serveis forenses i l’assistència jurídica gratuïta."
+   },
+   {
+    "id": "compromis-0470",
+    "partido": "compromis",
+    "titular": "Respuesta penal efectiva ante la violencia machista, con atención a la reincidencia",
+    "marca_actual": [],
+    "texto": "- Garantirem una resposta penal proporcionada i efectiva davant la violència masclista, amb especial atenció a la reincidència, l’incompliment de les ordres de protecció i les conductes d’alt risc."
+   },
+   {
+    "id": "compromis-0471",
+    "partido": "compromis",
+    "titular": "Coordinar policía, justicia y servicios para que las víctimas no repitan su relato",
+    "marca_actual": [],
+    "texto": "- Millorarem la coordinació entre policia, justícia, serveis socials, sanitat i centres educatius, evitant que les víctimes hagen de repetir contínuament el seu relat."
+   },
+   {
+    "id": "compromis-0472",
+    "partido": "compromis",
+    "titular": "Proteger a hijas e hijos de la violencia vicaria y revisar guarda y visitas",
+    "marca_actual": [],
+    "texto": "- Reforçarem la protecció de les filles i els fills davant la violència vicària, amb mecanismes de detecció precoç i revisió de les decisions de guarda i visites quan hi haja risc."
+   },
+   {
+    "id": "compromis-0473",
+    "partido": "compromis",
+    "titular": "Responsabilidad institucional ante negligencias graves en la protección",
+    "marca_actual": [],
+    "texto": "- Establirem mecanismes d’avaluació i responsabilitat institucional davant negligències greus, amb garanties procedimentals."
+   },
+   {
+    "id": "compromis-0474",
+    "partido": "compromis",
+    "titular": "Programas de prevención e intervención con hombres agresores",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem programes de prevenció i intervenció amb homes agressors, sense que substituïsquen la protecció de les víctimes ni les conseqüències penals."
+   },
+   {
+    "id": "compromis-0475",
+    "partido": "compromis",
+    "titular": "Más sanciones a la explotación sexual y la trata, sin sancionar a las prostituidas",
+    "marca_actual": [],
+    "texto": "- Establirem majors responsabilitats i sancions per a activitats que impliquen explotació sexual i tràfic de persones amb finalitats d’explotació sexual, amb un règim penal proporcionat per als supòsits més greus, evitant en tot cas sancionar les persones prostituïdes."
+   },
+   {
+    "id": "compromis-0476",
+    "partido": "compromis",
+    "titular": "Reforzar la persecución de la explotación sexual y de las organizaciones criminales",
+    "marca_actual": [],
+    "texto": "- Reforçarem la investigació i persecució dels delictes d’explotació sexual, especialment aquells que impliquen violència, coacció, intimidació, engany o abús de situacions de vulnerabilitat, així com les organitzacions criminals que se’n beneficien."
+   },
+   {
+    "id": "compromis-0477",
+    "partido": "compromis",
+    "titular": "Plan estatal contra la explotación sexual y la trata con vivienda, ingresos e inserción",
+    "marca_actual": [],
+    "texto": "- Crearem un pla estatal contra l’explotació sexual i el tràfic de persones amb finalitats d’explotació sexual, amb finançament plurianual, que garantisca habitatge, ingressos suficients, atenció sanitària i psicològica, formació i inserció laboral."
+   },
+   {
+    "id": "compromis-0478",
+    "partido": "compromis",
+    "titular": "Proteger a las mujeres migrantes en situación irregular para que accedan a los servicios",
+    "marca_actual": [],
+    "texto": "- Garantirem protecció i alternatives a les dones migrants en situació administrativa irregular, evitant que la por a l’expulsió impedisca accedir als serveis públics."
+   },
+   {
+    "id": "compromis-0479",
+    "partido": "compromis",
+    "titular": "Campañas para hombres y adolescentes que cuestionen la compra de sexo y la prostitución",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem campanyes educatives dirigides especialment als homes i als adolescents, que qüestionen la compra d’accés sexual al cos de les dones i la normalització de la prostitució."
+   },
+   {
+    "id": "compromis-0480",
+    "partido": "compromis",
+    "titular": "Evaluar cómo inciden las medidas en la demanda y la salida de la prostitución",
+    "marca_actual": [],
+    "texto": "- Avaluarem periòdicament els efectes de les mesures per a saber com incideixen en la reducció de la demanda, en l'evolució del rebuig social cap als demandants i en la quantitat de dones que ixen del sistema prostitucional i els seus itineraris d'inserció."
+   },
+   {
+    "id": "pacma-0054",
+    "partido": "pacma",
+    "titular": "Permitir animales en transporte público, albergues, residencias y casas de acogida",
+    "marca_actual": [],
+    "texto": "Abogaremos para **se permita y regule el acceso de los animales al transporte público, a los albergues para personas sin hogar, a las residencias para mayores y a las casas de acogida y pisos tutelados para víctimas de violencia de género**, de manera que las personas que tengan que alojarse en estos lugares no se vean abocadas, además, a tener que separarse de ellos, dejarlos atrás o dormir en la calle."
+   },
+   {
+    "id": "pacma-0268",
+    "partido": "pacma",
+    "titular": "Detección precoz de la depresión y del riesgo suicida en colectivos vulnerables",
+    "marca_actual": [],
+    "texto": "- Desarrollar **programas para la detección precoz de la depresión y del riesgo suicida**, prestando especial atención a las víctimas de violencia de género, sus hijos e hijas; a los niños, niñas y adolescentes en el ámbito educativo; a las personas mayores; a las que padecen alguna patología crónica, discapacidad y/o dolor; a las que no tienen hogar y a las que se encuentren en situación de cumplimiento penitenciario."
+   },
+   {
+    "id": "pacma-0424",
+    "partido": "pacma",
+    "titular": "Diagnóstico: más de 1.300 mujeres asesinadas desde 2003 y violencia vicaria",
+    "marca_actual": [],
+    "texto": "La violencia machista, como manifestación más cruel de la desigualdad y las relaciones de poder, se ha cobrado la vida de más de mil trescientas mujeres en España desde 2003, año en el que en nuestro país se empezó a contabilizar el número de mujeres asesinadas por sus parejas o exparejas.\n\nLas encuestas de Sanidad indican que más de ochocientos mil hijos e hijas de mujeres maltratadas sufren anualmente las consecuencias de la violencia machista en España; la mayoría, de manera directa.\n\nNo podemos olvidar que, además de los hijos e hijas, muchos animales también son víctimas de la violencia vicaria, siendo amenazados, maltratados o matados por los agresores para causar daño y sufrimiento a la mujer.\n\nLa sociedad en general y las Administraciones Públicas en particular, deben participar en la erradicación de esta lacra social."
+   },
+   {
+    "id": "pacma-0425",
+    "partido": "pacma",
+    "titular": "La violencia contra las mujeres desaparecerá con igualdad real",
+    "marca_actual": [],
+    "texto": "La violencia contra las mujeres desaparecerá cuando las mujeres dejen de estar a la cabeza de las cifras de pobreza y de las listas de desempleo; cuando dejen de sufrir los problemas de conciliación de su vida personal, familiar y laboral; cuando exista una verdadera educación no sexista en la que las niñas y los niños tengan un presente y un futuro con las mismas oportunidades; cuando en los hogares haya realmente una corresponsabilidad y un reparto equitativo de las tareas domésticas y de las responsabilidades familiares; cuando se combata la discriminación salarial todavía existente y se promueva la presencia de mujeres en puestos de responsabilidad de manera eficaz.\n\nAdemás de las medidas de igualdad y equidad propuestas en anteriores epígrafes, desde PACMA proponemos medidas específicas contra la violencia sobre la mujer, como:"
+   },
+   {
+    "id": "pacma-0426",
+    "partido": "pacma",
+    "titular": "Programas de prevención de la violencia sobre la mujer en todas las etapas educativas",
+    "marca_actual": [],
+    "texto": "- **Programas educativos de prevención de violencia sobre la mujer en todas las etapas educativas**."
+   },
+   {
+    "id": "pacma-0427",
+    "partido": "pacma",
+    "titular": "Formar a los profesionales educativos para detectar violencia machista en jóvenes",
+    "marca_actual": [],
+    "texto": "- **Formación específica** en la materia **de todos los/as profesionales que intervengan en el proceso educativo**, procurándoles las herramientas necesarias para la detección de situaciones de violencia machista en jóvenes."
+   },
+   {
+    "id": "pacma-0428",
+    "partido": "pacma",
+    "titular": "Protocolos de detección precoz de violencia machista en el ámbito sanitario",
+    "marca_actual": [],
+    "texto": "- **Protocolos de detección precoz en el ámbito sanitario, con formación especializada para el personal** sanitario."
+   },
+   {
+    "id": "pacma-0429",
+    "partido": "pacma",
+    "titular": "Unidades policiales especializadas en violencia machista 24 horas, 365 días",
+    "marca_actual": [],
+    "texto": "- **Unidades policiales especializadas y disponibles las 24 horas, los 365 días del año**, para atender los casos de violencia machista."
+   },
+   {
+    "id": "pacma-0430",
+    "partido": "pacma",
+    "titular": "Potenciar las unidades de valoración forense integral",
+    "marca_actual": [],
+    "texto": "- **Potenciación de las unidades de valoración forense integral**, con personal especializado."
+   },
+   {
+    "id": "pacma-0431",
+    "partido": "pacma",
+    "titular": "Planes de ayudas económicas para que las víctimas rehagan sus vidas",
+    "marca_actual": [],
+    "texto": "- **Mejora de los mecanismos de protección para las víctimas**. Estas mejoras han de pasar por articular en los presupuestos **planes de ayudas económicas que les permitan rehacer sus vidas** y que no se tramiten solo a través de las rentas activas de reinserción en casos muy graves de máxima necesidad."
+   },
+   {
+    "id": "pacma-0432",
+    "partido": "pacma",
+    "titular": "Más recursos asistenciales y sociales para las víctimas",
+    "marca_actual": [],
+    "texto": "- **Más recursos asistenciales y sociales para las víctimas** con independencia del momento procesal en el que se encuentre su caso."
+   },
+   {
+    "id": "pacma-0433",
+    "partido": "pacma",
+    "titular": "Fortalecer la tutela judicial y el acceso a la justicia de las víctimas",
+    "marca_actual": [],
+    "texto": "- **Fortalecimiento de la tutela judicial y del acceso a la justicia**."
+   },
+   {
+    "id": "pacma-0434",
+    "partido": "pacma",
+    "titular": "Formación en violencia machista de todos los estamentos de la Justicia",
+    "marca_actual": [],
+    "texto": "- **Formación especializada en violencia machista de todos los estamentos de la Justicia** (judicatura, fiscalía, abogacía, medicina forense y personal al servicio de la administración de justicia)."
+   },
+   {
+    "id": "pacma-0435",
+    "partido": "pacma",
+    "titular": "Equipos multidisciplinares para una respuesta integral a la violencia machista",
+    "marca_actual": [],
+    "texto": "- Implantación de **equipos multidisciplinares con formación específica** integrados por profesionales de la judicatura, fiscalía, abogacía, medicina y psicología forense y policía, para ofrecer una **respuesta integral** a los casos de violencia machista durante todas las fases del proceso."
+   },
+   {
+    "id": "pacma-0436",
+    "partido": "pacma",
+    "titular": "Mayor protección y asistencia letrada para hijos e hijas de víctimas",
+    "marca_actual": [],
+    "texto": "- **Mayor protección de los hijos e hijas de las mujeres víctimas de violencia machista**. Debe darse a los/as menores un **tratamiento y protección específicos**, incluida la **asistencia social integral**, con la previsión de dotarles de **asistencia letrada autónoma y defensor judicial en caso de conflicto de intereses**."
+   },
+   {
+    "id": "pacma-0437",
+    "partido": "pacma",
+    "titular": "Equipos judiciales especializados en menores víctimas de violencia de género",
+    "marca_actual": [],
+    "texto": "- **Equipos especializados en menores víctimas de violencia de género en los órganos judiciales**."
+   },
+   {
+    "id": "pacma-0438",
+    "partido": "pacma",
+    "titular": "Reconocer legalmente la violencia vicaria ejercida sobre los animales",
+    "marca_actual": [],
+    "texto": "- **Reconocimiento legal de la violencia vicaria ejercida sobre los animales**."
+   },
+   {
+    "id": "pacma-0439",
+    "partido": "pacma",
+    "titular": "Más casas de acogida, pisos tutelados y puntos de encuentro familiar",
+    "marca_actual": [],
+    "texto": "- **Incremento del número de casas de acogida, pisos tutelados y puntos de encuentro familiar**."
+   },
+   {
+    "id": "pacma-0440",
+    "partido": "pacma",
+    "titular": "Admitir a los animales de las víctimas en casas de acogida",
+    "marca_actual": [],
+    "texto": "- **Admisión de los animales** a cargo de las mujeres víctimas de violencia machista **a las casas de acogida y pisos tutelados**."
+   },
+   {
+    "id": "pacma-0441",
+    "partido": "pacma",
+    "titular": "Campañas de sensibilización contra los estereotipos de género y la violencia machista",
+    "marca_actual": [],
+    "texto": "- Implantación de **planes y campañas de sensibilización dirigidas a la ciudadanía en general y a los/as jóvenes en particular**, con la finalidad de eliminar los prejuicios y estereotipos de género y prevenir conductas de violencia machista."
+   },
+   {
+    "id": "fo-0084",
+    "partido": "fo",
+    "titular": "Afirmación de que la violencia de género no existe como violencia estructural",
+    "marca_actual": [],
+    "texto": "También hemos podido ver cómo el feminismo trata a la mujer como si fuera un ser de luz. A través de presiones, han conseguido dinamitar la presunción de inocencia. Si una mujer señala, se convierte en juez, jurado y verdugo. No existen los seres de luz, igual que existen hombres maltratadores y violentos también existen mujeres con las mismas características.\n\nLa realidad es que la violencia de género no existe. No existe una violencia estructural contra las mujeres, sino que esta es multifactorial y se da en ambas direcciones. Se da de forma distinta por las diferencias físicas entre hombres y mujeres, no porque el hombre sea en esencia violento o dominante, como pretenden hacernos creer quienes defienden esta terminología."
+   },
+   {
+    "id": "fo-0090",
+    "partido": "fo",
+    "titular": "Planes contra la trata y la explotación sexual y lucha contra la prostitución",
+    "marca_actual": [],
+    "texto": "5. Implantación de planes contra la trata y la explotación sexual. La prostitución es una industria que se basa en el sufrimiento humano y, como tal, debemos luchar contra ella."
+   },
+   {
+    "id": "fe-0090",
+    "partido": "fe",
+    "titular": "Derogar las leyes LGTBI y de género, incluida la Ley de Violencia de Género",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- 7.3. Derogaremos todas las Leyes que reconozcan a estos “colectivos”, así como las llamadas de ‘género’ –incluida la conocida Ley de Violencia de Género-, y suprimiremos todos los privilegios y subvenciones que se les hayan concedido por pertenecer a los mismos, gozando exclusivamente de los derechos y obligaciones inherentes a su condición de ciudadanos españoles."
+   },
+   {
+    "id": "pcte-0069",
+    "partido": "pcte",
+    "titular": "Garantizar vivienda, ingresos y atención a las mujeres que sufren violencia",
+    "marca_actual": [],
+    "texto": "- **Violencia machista** — **Garantizar vivienda, ingresos, empleo y atención sanitaria, psicológica y jurídica** suficientes a las mujeres que sufren violencia, para que puedan romper la dependencia económica."
+   },
+   {
+    "id": "pcte-0073",
+    "partido": "pcte",
+    "titular": "Prohibir la prostitución y el proxenetismo, con alternativas para las mujeres prostituidas",
+    "marca_actual": [],
+    "texto": "- **Prostitución** — **Prohibición de la prostitución y el proxenetismo**, con alternativas materiales para las mujeres prostituidas."
+   },
+   {
+    "id": "autonomos-0062",
+    "partido": "autonomos",
+    "titular": "Ley contra la ocupación ilegal con desalojo policial en menos de 24 horas",
+    "marca_actual": [],
+    "texto": "60. **Ley integral contra la ocupación ilegal y protección de la propiedad privada** — Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación y suspensión del empadronamiento fraudulento.\n - **Viabilidad:** _Es viable armonizando la legislación penal y procesal española con la de países vecinos como Francia o Alemania, protegiendo tanto a familias como a locales comerciales._"
+   },
+   {
+    "id": "autonomos-0065",
+    "partido": "autonomos",
+    "titular": "Tutela para todas las víctimas de violencia intrafamiliar y perseguir las denuncias falsas",
+    "marca_actual": [],
+    "texto": "63. **Igualdad plena ante la ley y persecución de denuncias falsas** — Garantía absoluta de la presunción de inocencia, tutela judicial efectiva para todas las víctimas de violencia intrafamiliar sin discriminación y persecución de oficio del falso testimonio y la denuncia falsa.\n - **Viabilidad:** _Es viable reforzando los recursos de los juzgados especializados y aplicando con rigor el artículo 14 de la Constitución Española._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-iva",
+  "pregunta": "¿Qué hacer con el IVA?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo, en general o en algunos productos"
+   },
+   {
+    "id": "subir-lujo",
+    "nombre": "Subirlo a bienes de lujo o reordenar tipos al alza"
+   }
+  ],
+  "n": 23,
+  "palabras": 1469,
+  "candidatos": [
+   {
+    "id": "compromis-0032",
+    "partido": "compromis",
+    "titular": "Aplicar el IVA franquiciado a autónomos que facturen menos de 85.000 euros",
+    "marca_actual": [],
+    "texto": "- Modificarem la regulació de l'Impost sobre Activitats Econòmiques, per a transposar de forma immediata la directiva europea sobre l’IVA franquiciat a aquelles persones autònomes que facturen menys de 85.000 euros anuals."
+   },
+   {
+    "id": "compromis-0151",
+    "partido": "compromis",
+    "titular": "Eliminar privilegios fiscales de la aviación y destinar 6.000 millones al tren",
+    "marca_actual": [],
+    "texto": "- Eliminarem els privilegis fiscals al sector l’aviació (combustible, IVA…) i destinarem els 6.000 milions anuals recaptats a reforçar el sector ferroviari."
+   },
+   {
+    "id": "compromis-0155",
+    "partido": "compromis",
+    "titular": "Reducir el IVA de higiene femenina, peluquería, productos celíacos, cultura y veterinaria",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Reduirem l’IVA dels productes utilitzats per a la cura de la salut, higiene femenina, serveis de perruqueria, productes per a persones celíaques, serveis i productes culturals, prevenció de malalties i tractament amb finalitats veterinàries."
+   },
+   {
+    "id": "compromis-0156",
+    "partido": "compromis",
+    "titular": "Subir el IVA a productos de lujo, contaminantes y nocivos para la salud",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "- Augmentarem l’IVA a productes de luxe, contaminants i nocius per a la salut pública."
+   },
+   {
+    "id": "compromis-0199",
+    "partido": "compromis",
+    "titular": "IVA reducido para los bienes y servicios de la producción agraria, maquinaria incluida",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Defensarem un IVA reduït als béns i serveis necessaris per a la producció agrària, inclosa la maquinària."
+   },
+   {
+    "id": "compromis-0240",
+    "partido": "compromis",
+    "titular": "Pasar el impuesto eléctrico y los cargos de la factura a los Presupuestos",
+    "marca_actual": [],
+    "texto": "- Traurem de la factura l’impost elèctric i els càrrecs de política energètica i els finançarem via Pressupostos Generals de l’Estat: així el seu finançament passa a ser progressiu —paga més qui més renda té i més contamina—, la factura baixa per a tothom i l’electricitat es converteix en l’opció per defecte."
+   },
+   {
+    "id": "pacma-0129",
+    "partido": "pacma",
+    "titular": "Reconocer las clínicas veterinarias como sanitarias y bajar su IVA al 4 %",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "A pesar de que los partidos del Gobierno se comprometieron a reducir el IVA por los servicios veterinarios para animales de compañía, este continúa siendo del 21%.\n\nEstamos hablando de la salud, de la vida de los animales que forman parte de nuestras familias. Es inadmisible que se siga considerando un tratamiento o una operación quirúrgica, del que depende su salud, su calidad de vida o su propia vida, como un lujo.\n\nAdemás, este IVA de lujo se traduce en un sobrecoste que desincentiva las vacunaciones, los tratamientos preventivos y los diagnósticos tempranos, con el consiguiente riesgo sanitario para todos.\n\nLa Ley de Ordenación de las Profesiones Sanitarias reconoce expresamente a la Veterinaria como profesión sanitaria. Sin embargo, ese reconocimiento no se ha trasladado con coherencia en el sistema. Desde PACMA reclamamos el **reconocimiento de las clínicas veterinarias como centros sanitarios**, dado que están directamente relacionados, no solo con la salud y bienestar de los animales, sino también con la salud pública, debido a su importancia en la prevención y vigilancia de las zoonosis y la seguridad sanitaria desde el enfoque de Una sola salud (One Health).\n\nEste reconocimiento permitiría una necesaria **reducción del IVA de los servicios veterinarios**, no al tipo reducido del 10%, sino **al tipo superreducido del 4% e, incluso, a su exención**."
+   },
+   {
+    "id": "pacma-0134",
+    "partido": "pacma",
+    "titular": "Crítica: el Gobierno grava la sanidad animal con un 21 % de IVA",
+    "marca_actual": [],
+    "texto": "Por último, queremos destacar una vez más la incoherencia y la hipocresía absolutas de este Gobierno al aprobar normas como el RD 666/2023 para garantizar, según su preámbulo, _el más alto nivel de protección de la sanidad animal,_ cuándo, al mismo tiempo, está gravando esa sanidad con un 21% de IVA como si fuera un lujo, inaccesible para muchas familias."
+   },
+   {
+    "id": "pacma-0155",
+    "partido": "pacma",
+    "titular": "Subir el IVA de los lácteos animales y bajar el de sus equivalentes vegetales",
+    "marca_actual": [],
+    "texto": "- **Mayor tipo impositivo a las leches, yogures, quesos y demás productos lácteos de origen animal y menor a sus equivalentes de origen vegetal**, dado que, actualmente, los de origen animal tienen un IVA superreducido del 4%, mientras que los de origen vegetal tributan al 10%."
+   },
+   {
+    "id": "pacma-0369",
+    "partido": "pacma",
+    "titular": "Bonificar IRPF e IBI al alquiler barato y rebajar ITP e IVA",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona; reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual."
+   },
+   {
+    "id": "fo-0043",
+    "partido": "fo",
+    "titular": "Bajar el IVA y llevar los bienes de primera necesidad al superreducido",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "3. Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercancías de primera necesidad en el tipo superreducido."
+   },
+   {
+    "id": "fo-0071",
+    "partido": "fo",
+    "titular": "Reducir los impuestos sobre libros y material artístico",
+    "marca_actual": [],
+    "texto": "5. Apostar por una reducción de los impuestos sobre productos culturales como libros o material artístico."
+   },
+   {
+    "id": "fe-0103",
+    "partido": "fe",
+    "titular": "Cuota cero para autónomos bajo el SMI e IVA de caja automático",
+    "marca_actual": [],
+    "texto": "- 9.6. Para los trabajadores por cuenta propia, cuota cero real por ingresos debajo del SMI de su sector, devengo del IVA de caja automático y excluyente, dejando de adelantar dinero de facturas aún no cobradas y bonificación fiscal del 50% para aquellos autónomos que incorporen a sus hijos o familiares de primer grado como relevo generacional en el negocio."
+   },
+   {
+    "id": "fe-0132",
+    "partido": "fe",
+    "titular": "Eliminar primas e impuestos de la energía: CO2, IVA y mandatos de Bruselas",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- 11.9. Regulación tarifaria mediante la eliminación y reducción de “primas” y absurdos impuestos (emisiones de CO2, IVA abusivo, mandatos absurdos de Bruselas, etc.)."
+   },
+   {
+    "id": "autonomos-0003",
+    "partido": "autonomos",
+    "titular": "Cuota cero de autónomos cuando los ingresos no alcancen el SMI",
+    "marca_actual": [],
+    "texto": "01. **Cuota Cero automática cuando los ingresos no alcancen el SMI** — Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa.\n - **Viabilidad:** _Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo._"
+   },
+   {
+    "id": "autonomos-0004",
+    "partido": "autonomos",
+    "titular": "IVA franquiciado para facturaciones de hasta 85.000 € e IVA de caja obligatorio",
+    "marca_actual": [],
+    "texto": "02. **IVA Franquiciado hasta 85.000 € y IVA de Caja obligatorio** — Transposición inmediata de la Directiva Europea 2020/285 para que autónomos y microempresas que facturen menos de 85.000 € anuales queden exentos de repercutir y liquidar el IVA trimestral, implantando además el IVA de caja real para que nadie adelante impuestos de facturas no cobradas.\n - **Viabilidad:** _Es viable jurídica y económicamente porque ya funciona en la práctica totalidad de la Unión Europea sin merma estructural de recaudación. El ahorro en gestión administrativa y la mejora de liquidez reducen la morosidad y afloran actividad económica que hoy se frena por miedo a los adelantos fiscales._"
+   },
+   {
+    "id": "autonomos-0012",
+    "partido": "autonomos",
+    "titular": "Deducción plena en IRPF e IVA de los gastos afectos al negocio",
+    "marca_actual": [],
+    "texto": "10. **Deducción plena y objetiva de gastos afectos al negocio** — Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora.\n - **Viabilidad:** _Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada._"
+   },
+   {
+    "id": "autonomos-0013",
+    "partido": "autonomos",
+    "titular": "Informe anual a cada contribuyente sobre el destino de sus impuestos",
+    "marca_actual": [],
+    "texto": "11. **Reversión fiscal y transparencia en el retorno de impuestos** — Creación de un informe anual personalizado para cada contribuyente que detalle el destino exacto de sus impuestos pagados y la calidad real de los servicios públicos recibidos frente a la media europea (donde el IVA general medio ronda el 21,6 %).\n - **Viabilidad:** _Es viable aprovechando los sistemas de información de la Agencia Tributaria sin coste adicional, fomentando la cultura de exigencia ciudadana y obligando a los gestores públicos a mejorar la eficiencia del gasto para justificar la presión fiscal._"
+   },
+   {
+    "id": "autonomos-0014",
+    "partido": "autonomos",
+    "titular": "Bajar el IVA eléctrico al 10 % para hogares y pequeños negocios",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "12. **Rebaja del IVA eléctrico al 10 % y optimización de potencia para pymes** — Reducción permanente del IVA de la electricidad al 10 % para hogares y pequeños negocios con potencia contratada inferior a 15 kW, permitiendo además cambiar gratuitamente la potencia contratada dos veces al año para adaptarla a la estacionalidad.\n - **Viabilidad:** _Es viable porque el coste energético sigue representando uno de los principales gastos fijos del comercio y la hostelería; ajustar los tramos de potencia evita sobrecostes innecesarios en la red y mantiene la actividad abierta en meses valle._"
+   },
+   {
+    "id": "autonomos-0017",
+    "partido": "autonomos",
+    "titular": "IVA del 4 % para pañales, compresas, tampones y productos básicos de higiene",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "15. **IVA superreducido del 4 % para productos de higiene y primera necesidad** — Aplicación permanente del tipo superreducido del 4 % de IVA a pañales infantiles y de adultos, compresas, tampones y productos básicos de higiene femenina, equiparándolos fiscalmente a los alimentos de primera necesidad.\n - **Viabilidad:** _Es viable tras la reforma de la Directiva Europea de tipos de IVA, tiene un impacto recaudatorio muy acotado y alivia de forma directa y regresiva la cesta de la compra de todas las familias._"
+   },
+   {
+    "id": "autonomos-0022",
+    "partido": "autonomos",
+    "titular": "Bonificar un 50 % el ICIO en obras de rehabilitación y eficiencia energética",
+    "marca_actual": [],
+    "texto": "20. **Bonificación del 50 % en el ICIO para rehabilitación y eficiencia energética** — Reducción obligatoria del 50 % en el Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) para reformas de mantenimiento, accesibilidad y eficiencia energética tanto en viviendas particulares como en locales comerciales.\n - **Viabilidad:** _Es viable porque dinamiza al sector de autónomos de la construcción y reformas (albañiles, fontaneros, electricistas), aflorando facturas legales con IVA que compensan la bonificación municipal._"
+   },
+   {
+    "id": "autonomos-0025",
+    "partido": "autonomos",
+    "titular": "IVA del 10 % para peluquerías, estética y gimnasios",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "23. **Restitución del IVA reducido al 10 % para peluquerías, estética y gimnasios** — Rebaja definitiva del tipo de IVA del 21 % al 10 % para los servicios de peluquería, imagen personal, estética y centros deportivos, corrigiendo la subida excepcional aprobada en 2012.\n - **Viabilidad:** _Es viable porque se trata de sectores intensivos en mano de obra femenina y autoempleo con miles de pequeños salones; bajar el IVA frena el cierre de establecimientos y reduce la economía informal._"
+   },
+   {
+    "id": "autonomos-0027",
+    "partido": "autonomos",
+    "titular": "Devolución mensual automática del gasóleo profesional a transportistas, taxistas y maquinaria agrícola",
+    "marca_actual": [],
+    "texto": "25. **Bonificación profesional del gasóleo y energía para transportistas** — Devolución mensual automática y ampliada del impuesto sobre hidrocarburos (gasóleo profesional) para transportistas autónomos, taxistas, VTC y maquinaria agrícola, vinculada a índices objetivos de costes energéticos.\n - **Viabilidad:** _Es viable utilizando el censo ya operativo de beneficiarios de gasóleo profesional de la Agencia Tributaria, evitando el colapso logístico y el encarecimiento de la cesta de la compra._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-jornada",
+  "pregunta": "¿Reducir la jornada laboral por ley?",
+  "posiciones": [
+   {
+    "id": "reducir",
+    "nombre": "Sí, reducirla sin bajar el sueldo"
+   },
+   {
+    "id": "no",
+    "nombre": "No por ley"
+   }
+  ],
+  "n": 21,
+  "palabras": 1236,
+  "candidatos": [
+   {
+    "id": "compromis-0021",
+    "partido": "compromis",
+    "titular": "Reducir la jornada laboral a cuatro días (32 horas) sin bajar el sueldo",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou."
+   },
+   {
+    "id": "compromis-0024",
+    "partido": "compromis",
+    "titular": "Reducir un 50 % los festivos laborables y restringir Zonas de Gran Afluencia Turística",
+    "marca_actual": [],
+    "texto": "- Reduirem un 50% els diumenges o festius laborables i restringirem les Zones de Gran Afluència Turística, reformant la Llei d’horaris comercials."
+   },
+   {
+    "id": "compromis-0026",
+    "partido": "compromis",
+    "titular": "Profundizar en la flexibilidad horaria, el teletrabajo y la desconexión digital",
+    "marca_actual": [],
+    "texto": "- Aprofundirem en la flexibilitat horària, el teletreball i la desconnexió digital, ferramentes essencials per a la conciliació i l'equilibri entre el treball i la vida personal."
+   },
+   {
+    "id": "compromis-0027",
+    "partido": "compromis",
+    "titular": "Plan de cuidados y equilibrio vida-trabajo financiado con el FSE+",
+    "marca_actual": [],
+    "texto": "- Proposarem un pla de desenvolupament de les cures i de l'equilibri vida-treball, amb finançament del Fons Social Europeu Plus (FSE+)."
+   },
+   {
+    "id": "compromis-0030",
+    "partido": "compromis",
+    "titular": "Reforzar la Inspección de Trabajo contra el fraude y las horas extraordinarias no declaradas",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Inspecció de Treball per a detectar i sancionar el frau en la contractació, les hores extraordinàries no declarades i els incompliments de la jornada laboral màxima."
+   },
+   {
+    "id": "compromis-0222",
+    "partido": "compromis",
+    "titular": "Impedir que los hoteles subcontraten la limpieza de habitaciones y limitar camas por jornada",
+    "marca_actual": [],
+    "texto": "- Millorarem les condicions de treball al sector: pujada del salari mínim, reducció de la jornada laboral i fi de la generalització de les hores extra. Modificarem l'article 42 de l'Estatut dels Treballadors per a impedir que els hotels subcontracten el servei de neteja d'habitacions a empreses multiserveis, limitarem del nombre de llits i habitacions assignades per jornada laboral i millores ergonòmiques, com la dotació obligatòria de llits elevables i carros motoritzats, reconeixerem automàticament patologies musculoesquelètiques com a malalties professionals derivades de moviments repetitius, incrementarem salarials i farem complir els convenis col·lectius del sector d'hostaleria i turisme."
+   },
+   {
+    "id": "compromis-0401",
+    "partido": "compromis",
+    "titular": "Políticas de conciliación con flexibilidad horaria e incentivos para la crianza",
+    "marca_actual": [],
+    "texto": "- Dissenyarem noves polítiques de conciliació de la vida laboral i familiar amb mesures de flexibilització de l'horari laboral, incentius econòmics i flexibilitat laboral per a totes aquelles persones que vulguen augmentar la dedicació a la criança dels fills i filles."
+   },
+   {
+    "id": "pacma-0144",
+    "partido": "pacma",
+    "titular": "Fomentar el teletrabajo con incentivos fiscales y coworking públicos",
+    "marca_actual": [],
+    "texto": "Para reducir significativamente el tráfico rodado, descongestionar carreteras y transportes públicos, apostamos por el **fomento del teletrabajo**, con medidas que faciliten, incentiven y promuevan esta modalidad laboral, ya sea de manera continuada o con jornadas mixtas, tanto en la empresa pública como en la privada, autónomos/as y pymes, mediante un **sistema de incentivos fiscales, ayudas directas para la contratación y/o el equipamiento de los puestos remotos**, así como de un **servicio de intermediación,** entre empresas y personas trabajadoras.\n\nOtra de nuestras propuestas es el impulso para la **creación de centros de trabajo intermedios**, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.\n\nTodas estas medidas supondrían una importante reducción del número de desplazamientos y trayectos diarios, tanto en transporte privado como público, lo que conllevaría aparejada una disminución del consumo de combustibles fósiles y una consecuente minoración de la contaminación atmosférica. De manera colateral, también se estaría reduciendo el riesgo de accidentes de tráfico y se favorecería, al mismo tiempo, la conciliación familiar. En definitiva, un mayor bienestar y calidad de vida para las personas, en múltiples dimensiones."
+   },
+   {
+    "id": "pacma-0321",
+    "partido": "pacma",
+    "titular": "Diagnóstico: brecha salarial y mayor desempleo de las mujeres",
+    "marca_actual": [],
+    "texto": "El informe “Voces contra la precariedad: mujeres y pobreza laboral en Europa”, publicado por Oxfam Intermón, expuso que las mujeres españolas tienen que trabajar 52 días más al año para cobrar lo mismo que los hombres y que un 14% de la diferencia de salario en España \"sólo puede atribuirse a la discriminación directa o indirecta por razón de género\".\n\nAdemás, la organización advertía que la pobreza laboral de las mujeres queda en parte invisibilizada estadísticamente \"porque los datos de pobreza laboral se calculan por hogares y no reflejan la discriminación de género dentro del hogar\". El trabajo doméstico de las mujeres representaría el 27% del PIB. Mientras las mujeres dedican una media de 22 horas semanales, los hombres sólo dedican 10.\n\nSegún los datos del SEPE, en el número total de personas desempleadas demandantes de empleo es muy superior el porcentaje de mujeres frente al de hombres. Un dato que refleja claramente el largo camino que queda por recorrer para alcanzar la igualdad efectiva. Cualquier medida orientada a mejorar las condiciones laborales y combatir las altas tasas de desempleo, debe tener en cuenta este hecho."
+   },
+   {
+    "id": "pacma-0327",
+    "partido": "pacma",
+    "titular": "Jornada adaptable, teletrabajo, guarderías en empresas y permisos incluidos los animales",
+    "marca_actual": [],
+    "texto": "- Del sistema laboral: se debe promover, prestar apoyo y asesoramiento para la elaboración de **planes de igualdad en las empresas, fomentando la implantación de medidas de conciliación** laboral, personal y familiar entre sus plantillas, como permitir a sus trabajadores **adaptar la duración y distribución de la jornada laboral** en función de sus circunstancias personales y familiares, o ejercer el teletrabajo. Se debe fomentar e incentivar la **creación de guarderías en los propios centros de trabajo, tanto para el cuidado de niños y niñas como de animales de compañía**, así como los **permisos retribuidos en casos de fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales**."
+   },
+   {
+    "id": "fo-0017",
+    "partido": "fo",
+    "titular": "Reforzar el control del registro de horas extra",
+    "marca_actual": [],
+    "texto": "10. Reforzar el control sobre el registro de horas extra y garantizar que solo se realicen las previstas por ley para cada trabajador."
+   },
+   {
+    "id": "fo-0096",
+    "partido": "fo",
+    "titular": "Alargar los permisos de maternidad y paternidad y flexibilizar la jornada",
+    "marca_actual": [],
+    "texto": "3. Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos."
+   },
+   {
+    "id": "fe-0070",
+    "partido": "fe",
+    "titular": "Estudiar reducir las horas semanales por sectores tras el cambio productivo",
+    "marca_actual": [],
+    "texto": "- 6.3. Una vez estabilizado el cambio modelo productivo aquí propuesto y cosechados sus positivos resultados, estudio de la reducción de horas trabajadas por semana, aplicándolo siempre por sectores en los que sea viable."
+   },
+   {
+    "id": "fe-0076",
+    "partido": "fe",
+    "titular": "Limitar y justificar las horas extra y pagarlas según convenio",
+    "marca_actual": [],
+    "texto": "- 6.9. Control exhaustivo de las horas extra, limitándolas y justificándolas, y pago de estas según convenio."
+   },
+   {
+    "id": "fe-0084",
+    "partido": "fe",
+    "titular": "Conciliación por ley, prohibir la jornada partida y descanso en fin de semana",
+    "marca_actual": [],
+    "texto": "- 6.17. Obligación, por Ley, al derecho a la conciliación de los trabajadores españoles, especialmente en tareas referentes a los cuidados familiares. Prohibición, como norma general, de jornadas partidas. Establecimiento por ley, como norma general, de descanso semanal los fines de semana, con las excepciones de sectores vitales, como sanidad o transportes."
+   },
+   {
+    "id": "fe-0086",
+    "partido": "fe",
+    "titular": "Cese de la actividad laboral y comercial los sábados desde las 14:00",
+    "marca_actual": [],
+    "texto": "- 6.19. Blindaje del fin de semana familiar, estableciendo por ley que todas las empresas y administraciones públicas del país, salvo los servicios de emergencia esenciales, sanidad o turnos industriales de ciclo continuo, deberán cesar su actividad laboral o comercial los sábados a partir de las 14:00. Las empresas y establecimientos de hostelería estarían exentas de este cierre, pero obligadas a garantizar por cuadrante que cada trabajador disfrute de al menos dos fines de semana completos y consecutivos al mes."
+   },
+   {
+    "id": "fe-0096",
+    "partido": "fe",
+    "titular": "Ley de Trabajo Remoto para repartir a los trabajadores por el territorio",
+    "marca_actual": [],
+    "texto": "- 8.3. Enlazado con el punto anterior, promulgaremos una Ley de Trabajo Remoto real, que facilite a los trabajadores españoles que sus puestos lo permitan, repartirse por todo el territorio nacional."
+   },
+   {
+    "id": "pcte-0005",
+    "partido": "pcte",
+    "titular": "Jornada de 35 horas sin reducción salarial, como paso hacia las 30",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- **Jornada laboral** — **Jornada de 35 horas semanales ya, sin reducción salarial**, como paso hacia las 30. **Tope de 1.540 horas anuales de trabajo efectivo**. Registro horario controlado por la representación de los trabajadores y prohibición de las bolsas de horas y de la distribución irregular de la jornada. La reducción no podrá compensarse con menos plantilla, ritmos más intensos, horas extraordinarias o mayor disponibilidad."
+   },
+   {
+    "id": "pcte-0006",
+    "partido": "pcte",
+    "titular": "Cinco semanas (25 días laborables) de vacaciones retribuidas",
+    "marca_actual": [],
+    "texto": "- **Vacaciones** — **Cinco semanas (25 días laborables) de vacaciones retribuidas**. El aumento de la productividad debe traducirse también en más tiempo para vivir."
+   },
+   {
+    "id": "pcte-0019",
+    "partido": "pcte",
+    "titular": "Negociar con los trabajadores la introducción de nuevas tecnologías: menos jornada, no menos empleo",
+    "marca_actual": [],
+    "texto": "- **Nuevas tecnologías** — **La introducción de nuevas tecnologías debe negociarse con los trabajadores**. Si una máquina permite producir lo mismo en menos tiempo, el resultado debe ser **menos jornada y no menos empleo**."
+   },
+   {
+    "id": "autonomos-0012",
+    "partido": "autonomos",
+    "titular": "Deducción plena en IRPF e IVA de los gastos afectos al negocio",
+    "marca_actual": [],
+    "texto": "10. **Deducción plena y objetiva de gastos afectos al negocio** — Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora.\n - **Viabilidad:** _Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-alquiler",
+  "pregunta": "¿Limitar el precio del alquiler?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regular o bajar precios"
+   },
+   {
+    "id": "no",
+    "nombre": "No, más oferta y seguridad jurídica"
+   }
+  ],
+  "n": 19,
+  "palabras": 910,
+  "candidatos": [
+   {
+    "id": "compromis-0003",
+    "partido": "compromis",
+    "titular": "Promover el alquiler indefinido como régimen ordinario",
+    "marca_actual": [],
+    "texto": "- Promourem el lloguer indefinit com a règim ordinari, garantint el dret a recuperar la possessió per motius d’ús personal o familiar."
+   },
+   {
+    "id": "compromis-0008",
+    "partido": "compromis",
+    "titular": "Prohibir algoritmos e IA que fijen alquileres, con multas de hasta el 10 %",
+    "marca_actual": [],
+    "texto": "- Impedirem el desenvolupament i ús d’algoritmes immobiliaris i programaris de fixació de preus i d’IA que coordinen o determinen els preus de lloguer mitjançant dades compartides entre propietaris i immobiliàries. Les empreses infractores seran sancionades amb multes de fins al 10% dels seus beneficis mundials."
+   },
+   {
+    "id": "compromis-0009",
+    "partido": "compromis",
+    "titular": "Dar a los ayuntamientos competencia para declarar zonas tensionadas y controlar alquileres",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Donarem competències als Ajuntaments perquè puguen declarar zones tensionades, d’acord amb la Llei estatal de Vivienda, als seus municipis per impulsar el control efectiu de preus de lloguer."
+   },
+   {
+    "id": "compromis-0012",
+    "partido": "compromis",
+    "titular": "Crear un Registro Estatal de Arrendamientos Urbanos obligatorio con precios en tiempo real",
+    "marca_actual": [],
+    "texto": "- Crearem el Registre Estatal d’Arrendaments Urbans obligatori que permeta controlar en temps real els preus i detectar pràctiques fraudulentes, incloent els lloguers de temporada i d’habitacions."
+   },
+   {
+    "id": "compromis-0013",
+    "partido": "compromis",
+    "titular": "Reforzar los requisitos de habitabilidad para poder alquilar una vivienda",
+    "marca_actual": [],
+    "texto": "- Reforçarem els requisits d’habitabilitat per a poder llogar una vivenda amb millors condicions de confort, espai i temperatura."
+   },
+   {
+    "id": "compromis-0018",
+    "partido": "compromis",
+    "titular": "Movilizar viviendas vacías con Casa 47 como intermediaria entre propietarios y demandantes",
+    "marca_actual": [],
+    "texto": "- Mobilitzarem habitatges buits fent que Casa 47 i les empreses públiques d’àmbit autonòmic actuen d’intermediàries entre propietàries i demandants d’habitatge, assegurant a la propietat el cobrament puntual de rendes i el bon manteniment dels immobles i garantint a les demandants d’habitatge el pagament d’unes rendes justes."
+   },
+   {
+    "id": "compromis-0148",
+    "partido": "compromis",
+    "titular": "Rebajar del 50 % al 20 % la deducción por arrendamiento de vivienda",
+    "marca_actual": [],
+    "texto": "- Rebaixarem la deducció per arrendament d’immobles destinats a habitatges des de l’actual 50% fins a un màxim del 20%, condicionat a les rendes de lloguer iguals o inferiors al 85 % del lloguer mitjà de la comunitat autònoma, i eliminant-la per a rendes de lloguer iguals o superiors a la mitjana autonòmica."
+   },
+   {
+    "id": "compromis-0413",
+    "partido": "compromis",
+    "titular": "Deducción en el IRPF para jóvenes de alquiler con rentas de hasta 33.000 euros",
+    "marca_actual": [],
+    "texto": "- Establirem una deducció estatal en l'IRPF per a les persones joves que viuen de lloguer, amb rendes anuals de fins a 33.000 euros, per reduir l'esforç econòmic que suposa accedir a un habitatge i facilitar l'emancipació juvenil."
+   },
+   {
+    "id": "pacma-0367",
+    "partido": "pacma",
+    "titular": "Las prórrogas y suspensiones de lanzamientos cargan el problema sobre pequeños propietarios",
+    "marca_actual": [],
+    "texto": "El Gobierno, que no ha sido capaz de resolver esta situación a lo largo de dos legislaturas, no ha reaccionado hasta que la calle ha explotado. Sólo tras masivas manifestaciones y una nueva acampada en Sol por el derecho a la vivienda, ha aprobado dos normas de manera urgente que, por el momento, lo que han provocado es la retirada de viviendas del mercado y una consecuente subida de precios en las escasas disponibles.\n\nAnte la falta de vivienda pública para alquiler, la carga de su inacción recae ahora, en gran parte, sobre los propietarios particulares, con prórrogas de contratos y suspensiones de lanzamientos. Sin embargo, la inmensa mayoría de los inquilinos e inquilinas no quiere permanecer meses y meses en una vivienda que no puede pagar. Lo que quiere es poder pagar la vivienda que necesitan para vivir: que la renta sea asequible para su nivel de ingresos, y retrasar la recuperación de las viviendas en casos de impago, no ayuda a bajar los precios del alquiler. Puede suponer un parche momentáneo, pero conduce a una ampliación de la oferta y, por tanto, no soluciona la cronificación de esta problemática."
+   },
+   {
+    "id": "pacma-0370",
+    "partido": "pacma",
+    "titular": "Seguros o avales públicos ante impagos del alquiler",
+    "marca_actual": [],
+    "texto": "- Seguridad jurídica ante impagos, mediante seguros o avales públicos."
+   },
+   {
+    "id": "pacma-0371",
+    "partido": "pacma",
+    "titular": "Registro obligatorio del alquiler por habitaciones y de temporada contra el fraude",
+    "marca_actual": [],
+    "texto": "- Persecución efectiva del fraude, blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio, evitando que se utilicen de forma fraudulenta para sortear la Ley de Vivienda."
+   },
+   {
+    "id": "pacma-0375",
+    "partido": "pacma",
+    "titular": "Reformar la LAU para anular cláusulas que prohíban animales de compañía",
+    "marca_actual": [],
+    "texto": "Con relación al acceso a la vivienda de alquiler, debemos destacar que, si ya es complicado para cualquiera, para las familias interespecie, mucho más. Los datos que reflejan los propios portales de anuncios no dejan lugar a dudas: sólo un 7% admite animales. Por ello, desde PACMA impulsaremos una **reforma de la Ley Arrendamientos Urbanos que, de manera expresa, declare nulas las cláusulas que prohíban la tenencia de animales de compañía en los contratos**."
+   },
+   {
+    "id": "fe-0041",
+    "partido": "fe",
+    "titular": "Beneficios fiscales a arrendadores con alquileres bajo el 30 % de los ingresos familiares",
+    "marca_actual": [],
+    "texto": "- 2.4. Se establecerán beneficios fiscales para aquellos arrendadores que alquilen viviendas a precios por debajo del 30% de ingresos de la unidad familiar y para aquellos que constituyan el primer hogar familiar."
+   },
+   {
+    "id": "fe-0044",
+    "partido": "fe",
+    "titular": "Expropiar viviendas vacías de bancos para vivienda protegida y alquiler social",
+    "marca_actual": [],
+    "texto": "- 2.7. Aumento de la oferta con vivienda inmovilizada: además de impulsar la construcción de un gran parque de vivienda social, proponemos la expropiación y acondicionamiento de viviendas vacías titularidad de las entidades bancarias, sacándolas al mercado como viviendas de protección oficial y/o alquiler social. Planes de restauración de viviendas antiguas para garantizar la habitabilidad de las mismas y estudio de nueva construcción en zonas tensionadas y donde solo sea estrictamente necesario."
+   },
+   {
+    "id": "fe-0046",
+    "partido": "fe",
+    "titular": "Tope al alquiler: no más del 25 % del salario familiar",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- 2.9. Precio y duración máximos del alquiler: Fijación de un tope máximo de precios del alquiler, no pudiendo ser superior al 25% del salario de la unidad familiar. Establecimiento de una duración máxima de los arrendamientos de vivienda según lo establecido en la LAU, con prórrogas tácitas anuales."
+   },
+   {
+    "id": "fe-0142",
+    "partido": "fe",
+    "titular": "Regular y controlar precios para proteger a los pequeños productores",
+    "marca_actual": [],
+    "texto": "- 12.7. Regulación y control de precios para evitar abusos a los pequeños productores."
+   },
+   {
+    "id": "pcte-0025",
+    "partido": "pcte",
+    "titular": "Bajar los alquileres un 50 % y fijar precios máximos ligados a salarios",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Bajada de alquileres** — **Bajada inmediata de los alquileres del 50 %**, a costa de la ganancia de los propietarios y no mediante ayudas públicas que acaban en su bolsillo y empujan los precios al alza. A partir de ahí, **precios máximos ligados a los salarios medios de la zona**. Contratos indefinidos por defecto."
+   },
+   {
+    "id": "pcte-0027",
+    "partido": "pcte",
+    "titular": "Mismas normas para todo alquiler de vivienda habitual, también de temporada y habitaciones",
+    "marca_actual": [],
+    "texto": "- **Alquiler de vivienda habitual** — **Todo alquiler que sea vivienda habitual**, también el de temporada y el de habitaciones, se rige por las mismas normas de protección, duración y precio."
+   },
+   {
+    "id": "autonomos-0083",
+    "partido": "autonomos",
+    "titular": "Liberar suelo público para alquiler asequible con colaboración público-privada",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "81. **Plan Nacional de Vivienda Asequible y movilización de suelo público** — Liberación ágil de suelo público en desuso para construcción de vivienda en alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda.\n - **Viabilidad:** _Es viable porque aumenta la oferta real de vivienda —única vía eficaz para moderar los precios— sin intervenir artificialmente el mercado ni ahuyentar a los propietarios._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-jefatura",
+  "pregunta": "¿Monarquía o república?",
+  "posiciones": [
+   {
+    "id": "monarquia",
+    "nombre": "Defender la monarquía o la Corona"
+   },
+   {
+    "id": "republica",
+    "nombre": "Avanzar hacia una república"
+   }
+  ],
+  "n": 7,
+  "palabras": 556,
+  "candidatos": [
+   {
+    "id": "fo-0065",
+    "partido": "fo",
+    "titular": "Una cultura transformadora en manos de los trabajadores",
+    "marca_actual": [],
+    "texto": "Apostamos por una cultura que contribuya a la realización de las personas, que cumpla con un papel transformador de la sociedad. La cultura no puede estar reservada a estos sectores de intelectuales, sino que ha de estar en manos de la población. Por ello, hay que asegurar a los trabajadores los medios necesarios para que puedan tener su propia producción cultural y un acceso a conocimientos científicos, sin olvidar tampoco la necesidad de reformar el sistema educativo.\n\nAsimismo, es necesario fomentar un deporte de base alejado de los negocios y las apuestas que les dé a las personas la fortaleza necesaria para afrontar sus problemas en lugar de recurrir a las drogas y otras adicciones para evadirse.\n\nAunque parezca que la nueva izquierda luche por cambiar las cosas, solo fomenta la transgresión individual siguiendo modas como la ideología de género o el multiculturalismo para ganar votos. A la vez que promueve estas ideas, criminaliza a todos aquellos que se cuestionen estas modas y apuesten por un cambio real. Asimismo, la derecha intenta aprovechar esta situación para ganarse a los trabajadores. Se presenta como la resistencia y utiliza el folclore de manera demagógica para sacar rédito político. Defienden una monarquía que mantiene relaciones con dictaduras enemigas de España y pretenden hacerse llamar patriotas."
+   },
+   {
+    "id": "fo-0169",
+    "partido": "fo",
+    "titular": "República encaminada al socialismo e igualdad de competencias entre autonomías",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensamos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías. Los vascos o los catalanes no son ni más ni menos que los extremeños o los murcianos, las relaciones entre las diferentes regiones deben ser en igualdad, con las mismas condiciones para todos.\n\nEspaña es un país con una gran burocratización y, por ello, creemos que es necesario rebajar el número de cargos políticos y cargos administrativos acabando con duplicidades y puestos improductivos. También defendemos la unión de municipios para primar la operatividad, la eficacia y el bien de los ciudadanos, ya que en España hay demasiadas administraciones locales.\n\nPor todo ello, proponemos las siguientes medidas para ser aplicadas cuanto antes:"
+   },
+   {
+    "id": "fe-0148",
+    "partido": "fe",
+    "titular": "Abolir la monarquía y crear un Estado republicano nacional-sindicalista",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "- 13.1. La aspiración de Falange Española de las JONS es la abolición de la Monarquía Parlamentaria liberal de la familia Borbón, alumbrando un estado republicano Nacional-Sindicalista."
+   },
+   {
+    "id": "fe-0149",
+    "partido": "fe",
+    "titular": "La monarquía como institución fenecida, sin revisión histórica",
+    "marca_actual": [],
+    "texto": "- 13.2. Nuestra posición política se basa en lo defendido por nuestros fundadores y en la experiencia política que nos ha otorgado la historia en los últimos casi tres siglos. La monarquía, como bien dijo José Antonio “es una institución gloriosamente fenecida”, por lo que no está en nuestro ánimo el de realizar una suerte de revisión histórica en el que se juzgue a la institución."
+   },
+   {
+    "id": "fe-0150",
+    "partido": "fe",
+    "titular": "La Corona ha perdido el derecho a seguir existiendo",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "- 13.3. Creemos que, hoy por hoy, la Corona ha perpetrado tal cantidad de gravísimas traiciones a España, que ha perdido todo el derecho y el honor de seguir existiendo."
+   },
+   {
+    "id": "pcte-0091",
+    "partido": "pcte",
+    "titular": "Reconocer la República Árabe Saharaui Democrática y un referéndum de autodeterminación",
+    "marca_actual": [],
+    "texto": "- **Sáhara Occidental** — **Reconocimiento de la República Árabe Saharaui Democrática** y referéndum de autodeterminación libre y vinculante para el pueblo saharaui. España, como antigua potencia administradora, debe retirar su apoyo al plan de autonomía marroquí y renunciar a cualquier acuerdo con Marruecos a costa del pueblo saharaui y de sus recursos."
+   },
+   {
+    "id": "pcte-0098",
+    "partido": "pcte",
+    "titular": "Derogar los delitos de injurias a la Corona y ultrajes a símbolos",
+    "marca_actual": [],
+    "texto": "- **Delitos de opinión** — **Derogación de los delitos de opinión que protegen al poder**: injurias a la Corona y a las instituciones y ultrajes a símbolos."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prostitucion",
+  "pregunta": "¿Qué hacer con la prostitución?",
+  "posiciones": [
+   {
+    "id": "abolir",
+    "nombre": "Abolirla"
+   },
+   {
+    "id": "derechos",
+    "nombre": "Reconocer derechos a quienes la ejercen"
+   }
+  ],
+  "n": 7,
+  "palabras": 401,
+  "candidatos": [
+   {
+    "id": "compromis-0479",
+    "partido": "compromis",
+    "titular": "Campañas para hombres y adolescentes que cuestionen la compra de sexo y la prostitución",
+    "marca_actual": [
+     "abolir"
+    ],
+    "texto": "- Desenvoluparem campanyes educatives dirigides especialment als homes i als adolescents, que qüestionen la compra d’accés sexual al cos de les dones i la normalització de la prostitució."
+   },
+   {
+    "id": "compromis-0480",
+    "partido": "compromis",
+    "titular": "Evaluar cómo inciden las medidas en la demanda y la salida de la prostitución",
+    "marca_actual": [],
+    "texto": "- Avaluarem periòdicament els efectes de les mesures per a saber com incideixen en la reducció de la demanda, en l'evolució del rebuig social cap als demandants i en la quantitat de dones que ixen del sistema prostitucional i els seus itineraris d'inserció."
+   },
+   {
+    "id": "fo-0072",
+    "partido": "fo",
+    "titular": "Acabar con la publicidad de apuestas, alcohol y pornografía o prostitución",
+    "marca_actual": [],
+    "texto": "6. Tender a acabar con la publicidad sobre apuestas, bebidas alcohólicas y pornografía o prostitución."
+   },
+   {
+    "id": "fo-0076",
+    "partido": "fo",
+    "titular": "Luchar contra la cultura del consumo, la drogadicción y la prostitución",
+    "marca_actual": [],
+    "texto": "Debemos luchar contra la implantación de esta cultura del consumo que promueve la drogadicción, la prostitución y una vida de excesos que arruina la vida de miles de nuestros jóvenes y que promueve el sistema actual, rompiendo con la imagen de que los jóvenes solo quieren divertirse.\n\nNo se puede entender la lucha por una España mejor, de progreso y soberana, sin una juventud combativa.\n\nAnte esta situación, queremos promover la implementación de una serie de medidas que den las herramientas suficientes a la juventud para luchar por un futuro mejor."
+   },
+   {
+    "id": "fo-0083",
+    "partido": "fo",
+    "titular": "Rechazo del feminismo queer, los vientres de alquiler y los cupos",
+    "marca_actual": [],
+    "texto": "Además, estos últimos años el feminismo “clásico” ha desvariado hasta el punto de negar la existencia material de la propia. El feminismo queer, no sabe definir qué es ser una mujer, porque ha dejado de ser algo biológico, para ser algo sentido, asignado… Y esto ha provocado que las propias mujeres se vean apartadas por ejemplo de algunas categorías deportivas. Sus líderes son varones biológicos con vestido y peluca y algunas mujeres han sido expulsadas de su propio movimiento.\n\nLas mujeres de verdad tienen problemas que son ignorados por las feministas, no solo la conciliación familiar. Nosotros nos posicionamos en contra de las mafias de la prostitución y de los vientres de alquiler. La mujer no es un objeto de usar y tirar por parte de los ricos, la mujer ha de ser respetada.\n\nEste nefasto movimiento defiende el lenguaje de género y los cupos, la discriminación positiva. No se puede luchar por la igualdad, por la igualdad real, discriminando. La discriminación engendra más discriminación, nunca justicia ni igualdad. Estamos en contra de todo tipo de cupos."
+   },
+   {
+    "id": "fo-0090",
+    "partido": "fo",
+    "titular": "Planes contra la trata y la explotación sexual y lucha contra la prostitución",
+    "marca_actual": [
+     "abolir"
+    ],
+    "texto": "5. Implantación de planes contra la trata y la explotación sexual. La prostitución es una industria que se basa en el sufrimiento humano y, como tal, debemos luchar contra ella."
+   },
+   {
+    "id": "pcte-0073",
+    "partido": "pcte",
+    "titular": "Prohibir la prostitución y el proxenetismo, con alternativas para las mujeres prostituidas",
+    "marca_actual": [
+     "abolir"
+    ],
+    "texto": "- **Prostitución** — **Prohibición de la prostitución y el proxenetismo**, con alternativas materiales para las mujeres prostituidas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sociedades",
+  "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo"
+   },
+   {
+    "id": "subir",
+    "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  ],
+  "n": 8,
+  "palabras": 328,
+  "candidatos": [
+   {
+    "id": "compromis-0143",
+    "partido": "compromis",
+    "titular": "Eliminar las ventajas de las grandes empresas respecto a las pymes",
+    "marca_actual": [],
+    "texto": "- Eliminarem els avantatges de les grans empreses en relació amb les PIMES."
+   },
+   {
+    "id": "compromis-0144",
+    "partido": "compromis",
+    "titular": "Crear un impuesto sobre el beneficio de las empresas oligopolísticas",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Crearem un impost sobre el benefici de les empreses oligopolístiques."
+   },
+   {
+    "id": "compromis-0154",
+    "partido": "compromis",
+    "titular": "Gravar a las empresas por usar robots que sustituyan mano de obra humana",
+    "marca_actual": [],
+    "texto": "- Impulsarem un impost directe o taxa a les empreses per l'ús de robots que substitueixen mà d'obra humana, gravant les conseqüències de la robotització en la mà d'obra del sector productiu i les cotitzacions a la Seguretat Social, reforçant el sistema públic de pensions."
+   },
+   {
+    "id": "fo-0045",
+    "partido": "fo",
+    "titular": "Subir Sociedades y Patrimonio a las grandes empresas",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "5. Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional."
+   },
+   {
+    "id": "fe-0102",
+    "partido": "fe",
+    "titular": "Bajar impuestos a pymes y autónomos e Impuesto de Sociedades de Retorno",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- 9.5. Rebaja de la presión fiscal para PYMEs, autónomos y pequeños comercios, fomentando la participación de los españoles en dichas actividades. Aplicación de un Impuesto de Sociedades de Retorno, rebajando la carga impositiva a cambio de un compromiso demostrable con la economía nacional: mejora de instalaciones, adquisición de maquinaria, reparto de beneficios, contratación de trabajadores locales, etc."
+   },
+   {
+    "id": "fe-0111",
+    "partido": "fe",
+    "titular": "Tasas específicas a multinacionales deslocalizadas, sobre todo tecnológicas",
+    "marca_actual": [],
+    "texto": "- 9.14. Aplicación de tasas máximas específicas para empresas multinacionales y deslocalizadas, especialmente del sector tecnológico, que se enriquecen en nuestra nación mientras tributan en otras."
+   },
+   {
+    "id": "autonomos-0018",
+    "partido": "autonomos",
+    "titular": "Eliminar la retención del 19 % en el alquiler de locales a autónomos",
+    "marca_actual": [],
+    "texto": "16. **Eliminación de retenciones en alquileres de locales comerciales** — Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales.\n - **Viabilidad:** _Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación final del propietario en su IRPF o Impuesto de Sociedades, reduciendo errores formales y sanciones innecesarias._"
+   },
+   {
+    "id": "autonomos-0023",
+    "partido": "autonomos",
+    "titular": "Rebajar los tipos del IBI y bonificar locales comerciales afectados por obras",
+    "marca_actual": [],
+    "texto": "21. **Reducción y revisión nacional de los tipos del Impuesto de Bienes Inmuebles** — Rebaja del tipo mínimo y máximo del IBI urbano y rústico tras la actualización de valores catastrales, estableciendo bonificaciones obligatorias para locales comerciales abiertos al público en zonas afectadas por obras o caída de tráfico.\n - **Viabilidad:** _Es viable compensando la menor recaudación por IBI con la reducción de gasto político municipal y la mayor actividad económica derivada de mantener persianas abiertas en los barrios._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-cgpj",
+  "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+  "posiciones": [
+   {
+    "id": "jueces",
+    "nombre": "Que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "parlamento",
+    "nombre": "Mantener la elección parlamentaria"
+   }
+  ],
+  "n": 5,
+  "palabras": 207,
+  "candidatos": [
+   {
+    "id": "compromis-0350",
+    "partido": "compromis",
+    "titular": "Formación obligatoria en materia de género para jueces y juezas",
+    "marca_actual": [],
+    "texto": "- Garantirem l’obligatorietat i avaluació de la formació especialitzada en matèria de gènere no només en les oposicions a Judicatura, Escola Judicial i formació continua anual, impartida pel Consejo General del Poder Judicial, així com als jutges i jutgesses ja en actiu."
+   },
+   {
+    "id": "compromis-0355",
+    "partido": "compromis",
+    "titular": "Un CGPJ independiente, elegido por mérito y capacidad y más colegiado",
+    "marca_actual": [],
+    "texto": "- Garantirem que el Consejo General del Poder Judicial funcione amb independència i siga triat amb criteris de mèrit i capacitat tenint en compte la sobirania del poble. Potenciació del caràcter col·legiat del CGPJ i disminució de l'excessiu presidencialisme."
+   },
+   {
+    "id": "fo-0177",
+    "partido": "fo",
+    "titular": "Órganos judiciales de carrera judicial, sin miembros elegidos por el Gobierno",
+    "marca_actual": [
+     "jueces"
+    ],
+    "texto": "1. Garantizar la independencia judicial respecto al poder político, priorizando la membresía por carrera judicial en los órganos superiores. Supresión de la elección por parte del Gobierno de miembros para cualquier órgano judicial."
+   },
+   {
+    "id": "fe-0183",
+    "partido": "fe",
+    "titular": "Elección del CGPJ por jueces y magistrados",
+    "marca_actual": [
+     "jueces"
+    ],
+    "texto": "- 17.6. Elección del Consejo General del Poder Judicial por los jueces y magistrados."
+   },
+   {
+    "id": "autonomos-0049",
+    "partido": "autonomos",
+    "titular": "Que jueces y magistrados elijan a los vocales del CGPJ",
+    "marca_actual": [
+     "jueces"
+    ],
+    "texto": "47. **Independencia real del Poder Judicial sin cuotas de partidos** — Reforma de la Ley Orgánica del Poder Judicial para que los vocales del Consejo General del Poder Judicial sean elegidos directamente por jueces y magistrados en activo, con participación consultiva de colegios de abogados y fiscales, sin intervención parlamentaria.\n - **Viabilidad:** _Es viable conforme a las recomendaciones reiteradas de la Comisión Europea y el Grupo GRECO, devolviendo la confianza institucional y la seguridad jurídica indispensables para la inversión._"
+   }
+  ]
+ }
+]

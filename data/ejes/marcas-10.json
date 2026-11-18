@@ -1,0 +1,51 @@
+[
+ {"eje": "eje-patrimonio", "id": "salf-0061", "posicion": "suprimir-bajar", "cita": "Sucesiones, Donaciones y Patrimonio: suprimidos. Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas."},
+ {"eje": "eje-patrimonio", "id": "mundo-0077", "posicion": "reforzar", "cita": "Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas"},
+ {"eje": "eje-patrimonio", "id": "mundo-0078", "posicion": "reforzar", "cita": "Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas"},
+ {"eje": "eje-patrimonio", "id": "mundo-0083", "posicion": "reforzar", "cita": "Grandes patrimonios (> 50 M€ netos) — Medida nueva — Meta: Tributación efectiva mínima del 3 %"},
+
+ {"eje": "eje-okupacion", "id": "salf-0016", "posicion": "desalojo-rapido", "cita": "Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas."},
+ {"eje": "eje-okupacion", "id": "salf-0027", "posicion": "desalojo-rapido", "cita": "Y el okupa, fuera en 48 horas."},
+ {"eje": "eje-okupacion", "id": "salf-0030", "posicion": "desalojo-rapido", "cita": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad'"},
+ {"eje": "eje-okupacion", "id": "mundo-0003", "posicion": "proteger-vulnerables", "cita": "Evitar que ninguna persona o familia vulnerable se quede sin hogar como consecuencia de un desahucio, garantizando alternativas habitacionales adecuadas"},
+ {"eje": "eje-okupacion", "id": "mundo-0010", "posicion": "proteger-vulnerables", "cita": "Evitar que el coste de una política de protección frente a los desahucios recaiga injustamente sobre pequeñas propietarias."},
+ {"eje": "eje-okupacion", "id": "mundo-0016", "posicion": "proteger-vulnerables", "cita": "Suspender la ejecución de los desahucios cuando la persona o familia se encuentre acreditádamente en situación de vulnerabilidad económica, o de cualquier otro tipo y/o carezca de alternativa habitacional adecuada."},
+ {"eje": "eje-okupacion", "id": "mundo-0048", "posicion": "proteger-vulnerables", "cita": "evitando los desalojos que afecten a menores sin una alternativa habitacional adecuada."},
+
+ {"eje": "eje-gestion-sanitaria", "id": "salf-0100", "posicion": "colaboracion", "cita": "Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública."},
+ {"eje": "eje-gestion-sanitaria", "id": "salf-0104", "posicion": "colaboracion", "cita": "Cita con tu médico en 48 horas. Si no la hay, consulta privada pagada por el Sistema."},
+ {"eje": "eje-gestion-sanitaria", "id": "mundo-0118", "posicion": "publica", "cita": "Frenar la privatización y recuperar progresivamente los servicios externalizados, priorizando la gestión pública directa."},
+
+ {"eje": "eje-prioridad-nacional", "id": "salf-0084", "posicion": "si", "cita": "Sin papeles, sin ayudas. Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización."},
+ {"eje": "eje-prioridad-nacional", "id": "salf-0105", "posicion": "si", "cita": "La sanidad española es para los españoles. Tarjeta para españoles y residentes legales con cotización o cobertura."},
+ {"eje": "eje-prioridad-nacional", "id": "mundo-0117", "posicion": "no", "cita": "eliminando las barreras administrativas que dificultan el acceso a la atención sanitaria, especialmente para las personas en situación administrativa irregular."},
+ {"eje": "eje-prioridad-nacional", "id": "mundo-0166", "posicion": "no", "cita": "Asegurar el acceso efectivo y sin discriminación a la sanidad, la educación, el empadronamiento, la vivienda, los servicios sociales y los derechos laborales"},
+
+ {"eje": "eje-regularizacion", "id": "salf-0072", "posicion": "no", "cita": "Inmigración: expulsiones efectivas y fin de regularizaciones"},
+ {"eje": "eje-regularizacion", "id": "salf-0076", "posicion": "no", "cita": "Fin de las regularizaciones. Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva."},
+ {"eje": "eje-regularizacion", "id": "mundo-0091", "posicion": "si", "cita": "Garantizar vías accesibles y estables de regularización de las personas migrantes que viven y trabajan en España"},
+ {"eje": "eje-regularizacion", "id": "mundo-0165", "posicion": "si", "cita": "Facilitar la regularización y eliminar las barreras administrativas. Establecer vías accesibles y permanentes de regularización, prevenir la irregularidad sobrevenida"},
+
+ {"eje": "eje-herencias", "id": "salf-0061", "posicion": "suprimir-bajar", "cita": "Sucesiones, Donaciones y Patrimonio: suprimidos. Heredar la casa de tus padres no es un hecho imponible. Es un duelo."},
+
+ {"eje": "eje-alquiler", "id": "mundo-0009", "posicion": "si", "cita": "Establecer un alquiler de referencia y limitar el precio en función de las características y localización de la vivienda."},
+ {"eje": "eje-alquiler", "id": "mundo-0057", "posicion": "si", "cita": "Regular el alquiler de habitaciones, hoy la única salida para miles de jóvenes y prácticamente sin control, con contrato por escrito, derechos claros y precios sujetos a los índices de referencia."},
+
+ {"eje": "eje-cgpj", "id": "salf-0122", "posicion": "jueces", "cita": "con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo."},
+ {"eje": "eje-cgpj", "id": "mundo-0234", "posicion": "jueces", "cita": "establecer que los otros 12 vocales, de procedencia judicial, sean elegidos directamente por jueces y magistrados"},
+
+ {"eje": "eje-trans", "id": "mundo-0276", "posicion": "desplegar", "cita": "Reforzar la aplicación efectiva de la legislación de protección de los derechos de las personas LGTBI"},
+
+ {"eje": "eje-concertada", "id": "salf-0148", "posicion": "apoyar", "cita": "El dinero sigue al alumno. Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo."},
+ {"eje": "eje-concertada", "id": "mundo-0144", "posicion": "apoyar", "cita": "Apoyar la coexistencia de la educación pública y privada, concertada y no concertada, reconociendo especialmente la aportación social de la concertada en contextos de mayor precariedad."},
+
+ {"eje": "eje-lengua", "id": "salf-0024", "posicion": "espanol", "cita": "Educación — Ley de 20 años. Castellano garantizado. El dinero sigue al alumno."},
+ {"eje": "eje-lengua", "id": "salf-0143", "posicion": "espanol", "cita": "evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España."},
+ {"eje": "eje-lengua", "id": "salf-0144", "posicion": "espanol", "cita": "Castellano garantizado, sin ir a juicio. Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona."},
+
+ {"eje": "eje-financiacion-autonomica", "id": "salf-0066", "posicion": "no", "cita": "Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe."},
+
+ {"eje": "eje-mercosur", "id": "salf-0156", "posicion": "rechazar", "cita": "Veto a Mercosur, al recorte de la PAC y al Pacto Verde. Mercosur se aplica desde mayo de 2026 contra el voto de Francia"},
+
+ {"eje": "eje-prostitucion", "id": "mundo-0269", "posicion": "abolir", "cita": "Avanzar hacia la abolición de la prostitución, garantizando que las personas que la ejercen no queden desprotegidas"}
+]

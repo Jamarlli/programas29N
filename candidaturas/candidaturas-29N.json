@@ -1,0 +1,2002 @@
+[
+ {
+  "clave": "PSOE",
+  "sigla": "PSOE",
+  "nombre": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+  "congreso": [
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Palencia",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Ávila"
+  ],
+  "senado": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Ceuta",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "La Rioja",
+   "Madrid",
+   "Melilla",
+   "Murcia"
+  ]
+ },
+ {
+  "clave": "FO",
+  "sigla": "FO",
+  "nombre": "FRENTE OBRERO",
+  "congreso": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Girona",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lleida",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Ceuta",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Galicia",
+   "Illes Balears",
+   "La Rioja",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "SALF",
+  "sigla": "SALF",
+  "nombre": "SE ACABÓ LA FIESTA",
+  "congreso": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Burgos",
+   "Castellón",
+   "Ceuta",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Ceuta",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Galicia",
+   "Illes Balears",
+   "La Rioja",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "MUNDO+JUSTO",
+  "sigla": "MUNDO+JUSTO",
+  "nombre": "POR UN MUNDO MAS JUSTO",
+  "congreso": [
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Bizkaia",
+   "Burgos",
+   "Cuenca",
+   "Cádiz",
+   "Granada",
+   "Guadalajara",
+   "Huesca",
+   "Jaén",
+   "Las Palmas",
+   "Madrid",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Valencia",
+   "Valladolid",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Bizkaia",
+   "Burgos",
+   "Cuenca",
+   "Cádiz",
+   "Granada",
+   "Guadalajara",
+   "Huesca",
+   "Jaén",
+   "Las Palmas",
+   "Madrid",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Valencia",
+   "Valladolid",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Galicia",
+   "Madrid",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "VOX",
+  "sigla": "VOX",
+  "nombre": "VOX",
+  "congreso": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Girona",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lleida",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Córdoba",
+   "Gipuzkoa",
+   "Girona",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Jaén",
+   "La Rioja",
+   "León",
+   "Lleida",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Teruel",
+   "Toledo",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Ceuta",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Galicia",
+   "Illes Balears",
+   "La Rioja",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PODEMOS",
+  "sigla": "PODEMOS",
+  "nombre": "PODEMOS",
+  "congreso": [
+   "A Coruña",
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Jaén",
+   "La Rioja",
+   "León",
+   "Lugo",
+   "Madrid",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Teruel",
+   "Toledo",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [
+   "A Coruña",
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Jaén",
+   "La Rioja",
+   "Lugo",
+   "Madrid",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Teruel",
+   "Toledo",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Extremadura",
+   "Galicia",
+   "La Rioja",
+   "Madrid",
+   "Murcia",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PACMA",
+  "sigla": "PACMA",
+  "nombre": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+  "congreso": [
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Bizkaia",
+   "Castellón",
+   "Cuenca",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Girona",
+   "Granada",
+   "Huelva",
+   "Huesca",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lleida",
+   "Madrid",
+   "Málaga",
+   "Navarra",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Tarragona",
+   "Teruel",
+   "Valencia",
+   "Valladolid",
+   "Álava"
+  ],
+  "senado": [
+   "Cádiz",
+   "Gipuzkoa",
+   "Huesca",
+   "Jaén",
+   "Las Palmas",
+   "León",
+   "Málaga",
+   "Santa Cruz de Tenerife",
+   "Sevilla",
+   "Valladolid"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Comunitat Valenciana",
+   "La Rioja",
+   "Madrid",
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PP",
+  "sigla": "PP",
+  "nombre": "PARTIDO POPULAR",
+  "congreso": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Girona",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lleida",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Tarragona",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "senado": [
+   "A Coruña",
+   "Albacete",
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Barcelona",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Lleida",
+   "Lugo",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Ourense",
+   "Palencia",
+   "Pontevedra",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Álava",
+   "Ávila"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Cataluña",
+   "Ceuta",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Galicia",
+   "Illes Balears",
+   "La Rioja",
+   "Madrid",
+   "Melilla",
+   "Murcia",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "FA",
+  "sigla": "FA",
+  "nombre": "Frente Amplio",
+  "congreso": [
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Bizkaia",
+   "Burgos",
+   "Cantabria",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Gipuzkoa",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Jaén",
+   "La Rioja",
+   "León",
+   "Madrid",
+   "Murcia",
+   "Málaga",
+   "Palencia",
+   "Salamanca",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Toledo",
+   "Valladolid",
+   "Zamora",
+   "Ávila"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Andalucía",
+   "Asturias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Extremadura",
+   "La Rioja",
+   "Madrid",
+   "Murcia",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-IU-MS)",
+  "sigla": "SDP (PSOE-IU-MS)",
+  "nombre": "SENADO DE PROGRESO",
+  "congreso": [],
+  "senado": [
+   "Albacete",
+   "Almería",
+   "Asturias",
+   "Badajoz",
+   "Burgos",
+   "Cantabria",
+   "Ceuta",
+   "Ciudad Real",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Jaén",
+   "León",
+   "Melilla",
+   "Murcia",
+   "Málaga",
+   "Palencia",
+   "Salamanca",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Toledo",
+   "Valladolid",
+   "Zamora",
+   "Ávila"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Asturias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Ceuta",
+   "Extremadura",
+   "Melilla",
+   "Murcia"
+  ]
+ },
+ {
+  "clave": "PARTIDO AUTÓNOMOS",
+  "sigla": "PARTIDO AUTÓNOMOS",
+  "nombre": "PARTIDO AUTÓNOMOS",
+  "congreso": [
+   "Alicante",
+   "Castellón",
+   "Santa Cruz de Tenerife"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Canarias",
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "PCTE",
+  "sigla": "PCTE",
+  "nombre": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+  "congreso": [
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Cuenca",
+   "Cáceres",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Madrid",
+   "Murcia",
+   "Málaga",
+   "Navarra",
+   "Palencia",
+   "Salamanca",
+   "Santa Cruz de Tenerife",
+   "Segovia",
+   "Sevilla",
+   "Soria",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zamora",
+   "Zaragoza",
+   "Ávila"
+  ],
+  "senado": [
+   "Alicante",
+   "Almería",
+   "Asturias",
+   "Burgos",
+   "Cantabria",
+   "Castellón",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Guadalajara",
+   "Huelva",
+   "Huesca",
+   "Illes Balears",
+   "Jaén",
+   "La Rioja",
+   "León",
+   "Madrid",
+   "Málaga",
+   "Navarra",
+   "Salamanca",
+   "Sevilla",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid",
+   "Zaragoza"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Asturias",
+   "Canarias",
+   "Cantabria",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Comunitat Valenciana",
+   "Extremadura",
+   "Illes Balears",
+   "La Rioja",
+   "Madrid",
+   "Murcia",
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "COMPROMIS-EUPV-PODEM-ERPV",
+  "sigla": "COMPROMIS-EUPV-PODEM-ERPV",
+  "nombre": "COMPROMÍS: FRONT VALENCIÀ",
+  "congreso": [
+   "Alicante",
+   "Castellón",
+   "Valencia"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-COMPROMIS-EUPV)",
+  "sigla": "SDP (PSOE-COMPROMIS-EUPV)",
+  "nombre": "SENADO DE PROGRESO",
+  "congreso": [],
+  "senado": [
+   "Alicante",
+   "Castellón",
+   "Valencia"
+  ],
+  "ccaa": [
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "ADELANTE ANDALUCÍA",
+  "sigla": "ADELANTE ANDALUCÍA",
+  "nombre": "ADELANTE ANDALUCÍA",
+  "congreso": [
+   "Almería",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Huelva",
+   "Jaén",
+   "Málaga",
+   "Sevilla"
+  ],
+  "senado": [
+   "Almería",
+   "Cádiz",
+   "Córdoba",
+   "Granada",
+   "Huelva",
+   "Jaén",
+   "Málaga",
+   "Sevilla"
+  ],
+  "ccaa": [
+   "Andalucía"
+  ]
+ },
+ {
+  "clave": "ESCAÑOS EN BLANCO",
+  "sigla": "ESCAÑOS EN BLANCO",
+  "nombre": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+  "congreso": [
+   "Almería",
+   "Córdoba",
+   "Gipuzkoa",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Murcia",
+   "Palencia",
+   "Pontevedra",
+   "Soria",
+   "Valladolid",
+   "Álava"
+  ],
+  "senado": [
+   "Almería",
+   "Córdoba",
+   "Gipuzkoa",
+   "La Rioja",
+   "Las Palmas",
+   "León",
+   "Murcia",
+   "Palencia",
+   "Pontevedra",
+   "Soria",
+   "Valladolid",
+   "Álava"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Canarias",
+   "Castilla y León",
+   "Galicia",
+   "La Rioja",
+   "Murcia",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PSOE) PSE-EE (PSOE",
+  "sigla": "PSE-EE (PSOE)",
+  "nombre": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA",
+  "congreso": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "senado": [],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "EH BILDU",
+  "sigla": "EH BILDU",
+  "nombre": "EUSKAL HERRIA BILDU",
+  "congreso": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "senado": [],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "EAJ-PNV",
+  "sigla": "EAJ-PNV",
+  "nombre": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+  "congreso": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "senado": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PCTE/ELAK",
+  "sigla": "PCTE/ELAK",
+  "nombre": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA",
+  "congreso": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "senado": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "FRENTE AMPLIO-FRONTE ZABALA",
+  "sigla": "FRENTE AMPLIO-FRONTE ZABALA",
+  "nombre": "FRENTE AMPLIO-FRONTE ZABALA",
+  "congreso": [
+   "Navarra",
+   "Álava"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PFAC",
+  "sigla": "PFAC",
+  "nombre": "FEMINISTAS AL CONGRESO",
+  "congreso": [
+   "Álava"
+  ],
+  "senado": [],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PSOE-EZAN IU-MS",
+  "sigla": "PSOE-EZAN IU-MS",
+  "nombre": "SENADO DE PROGRESO/AURRERA DOAN SENATUA SDP",
+  "congreso": [],
+  "senado": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Álava"
+  ],
+  "ccaa": [
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "EH BILDU-ERC",
+  "sigla": "EH BILDU-ERC",
+  "nombre": "EUSKAL HERRIA BILDU-ESQUERRA REPUBLICANA DE CATALUNYA",
+  "congreso": [
+   "Navarra"
+  ],
+  "senado": [
+   "Bizkaia",
+   "Gipuzkoa",
+   "Navarra",
+   "Álava"
+  ],
+  "ccaa": [
+   "Navarra",
+   "País Vasco"
+  ]
+ },
+ {
+  "clave": "PUEDE",
+  "sigla": "PUEDE",
+  "nombre": "PARTIDO UNIONISTA ESTADO DE ESPAÑA",
+  "congreso": [
+   "Asturias"
+  ],
+  "senado": [
+   "Asturias"
+  ],
+  "ccaa": [
+   "Asturias"
+  ]
+ },
+ {
+  "clave": "P.D.S.J.E.",
+  "sigla": "P.D.S.J.E.",
+  "nombre": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS",
+  "congreso": [
+   "Ávila"
+  ],
+  "senado": [
+   "Ávila"
+  ],
+  "ccaa": [
+   "Castilla y León"
+  ]
+ },
+ {
+  "clave": "NEX",
+  "sigla": "NEX",
+  "nombre": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA",
+  "congreso": [
+   "Badajoz",
+   "Cáceres"
+  ],
+  "senado": [
+   "Badajoz",
+   "Cáceres"
+  ],
+  "ccaa": [
+   "Extremadura"
+  ]
+ },
+ {
+  "clave": "PSIB-PSOE",
+  "sigla": "PSIB-PSOE",
+  "nombre": "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES",
+  "congreso": [
+   "Illes Balears"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "ARAMÉS-EU-MS",
+  "sigla": "ARAMÉS-EU-MS",
+  "nombre": "ARAMÉS-FRONT AMPLI",
+  "congreso": [
+   "Illes Balears"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PSIB-PSOE-MÉS PER MALLORCA-SUMAR-EUIB",
+  "sigla": "PSIB-PSOE-MÉS PER MALLORCA-SUMAR-EUIB",
+  "nombre": "ACORD DE PROGRÉS PER MALLORCA",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PSOE-MÉS PER MENORCA-EM-EU-PODEMOS",
+  "sigla": "PSOE-MÉS PER MENORCA-EM-EU-PODEMOS",
+  "nombre": "MENORCA AL SENAT",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PSOE-SUMAR-EUIB-ARA EIVISSA-PODEM",
+  "sigla": "PSOE-SUMAR-EUIB-ARA EIVISSA-PODEM",
+  "nombre": "EIVISSA AL SENAT",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PSOE-GxF-M.SUMAR",
+  "sigla": "PSOE-GxF-M.SUMAR",
+  "nombre": "FORMENTERA AL SENAT",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "FV",
+  "sigla": "FV",
+  "nombre": "Formentera Viva",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PP-COMPROMÍS) (SA UNIÓ",
+  "sigla": "SA UNIÓ",
+  "nombre": "SA UNIÓ DE FORMENTERA",
+  "congreso": [],
+  "senado": [
+   "Illes Balears"
+  ],
+  "ccaa": [
+   "Illes Balears"
+  ]
+ },
+ {
+  "clave": "PSC-PSOE) (PSC",
+  "sigla": "PSC-PSOE",
+  "nombre": "PARTIT DELS SOCIALISTES DE CATALUNYA",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "JxCat",
+  "sigla": "JxCat",
+  "nombre": "JUNTS PER CATALUNYA",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "ERC",
+  "sigla": "ERC",
+  "nombre": "ESQUERRA REPUBLICANA DE CATALUNYA",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "PCTC",
+  "sigla": "PCTC",
+  "nombre": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "COMUNS-FRONT AMPLI",
+  "sigla": "COMUNS-FRONT AMPLI",
+  "nombre": "Comuns-Front Ampli",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "D21",
+  "sigla": "D21",
+  "nombre": "DEMOCRACIA PARA EL SIGLO 21",
+  "congreso": [
+   "Barcelona",
+   "Madrid"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Cataluña",
+   "Madrid"
+  ]
+ },
+ {
+  "clave": "ALHORA",
+  "sigla": "ALHORA",
+  "nombre": "ALHORA",
+  "congreso": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "ERC-EH BILDU",
+  "sigla": "ERC-EH BILDU",
+  "nombre": "ESQUERRA REPUBLICANA DE CATALUNYA-EUSKAL HERRIA BILDU",
+  "congreso": [],
+  "senado": [
+   "Barcelona",
+   "Girona",
+   "Lleida",
+   "Tarragona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "C-DEM",
+  "sigla": "C-DEM",
+  "nombre": "Comuns-Front Ampli per la democràcia",
+  "congreso": [],
+  "senado": [
+   "Barcelona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "FE de las JONS",
+  "sigla": "FE de las JONS",
+  "nombre": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+  "congreso": [
+   "Castellón",
+   "Córdoba",
+   "Guadalajara",
+   "Madrid",
+   "Palencia",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid"
+  ],
+  "senado": [
+   "Castellón",
+   "Córdoba",
+   "Guadalajara",
+   "Madrid",
+   "Palencia",
+   "Teruel",
+   "Toledo",
+   "Valencia",
+   "Valladolid"
+  ],
+  "ccaa": [
+   "Andalucía",
+   "Aragón",
+   "Castilla y León",
+   "Castilla-La Mancha",
+   "Comunitat Valenciana",
+   "Madrid"
+  ]
+ },
+ {
+  "clave": "PSdeG-PSOE",
+  "sigla": "PSdeG-PSOE",
+  "nombre": "Partido dos Socialistas de Galicia-PSOE",
+  "congreso": [
+   "A Coruña",
+   "Lugo",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "PCTG",
+  "sigla": "PCTG",
+  "nombre": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA",
+  "congreso": [
+   "A Coruña",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "senado": [
+   "A Coruña",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "BNG",
+  "sigla": "BNG",
+  "nombre": "BLOQUE NACIONALISTA GALEGO",
+  "congreso": [
+   "A Coruña",
+   "Lugo",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "senado": [
+   "A Coruña",
+   "Lugo",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "FRENTE AMPLIO-FRONTE AMPLA",
+  "sigla": "FRENTE AMPLIO-FRONTE AMPLA",
+  "nombre": "Frente Amplio-Fronte Ampla",
+  "congreso": [
+   "A Coruña",
+   "Lugo",
+   "Ourense",
+   "Pontevedra"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-MS)",
+  "sigla": "SDP (PSOE-MS)",
+  "nombre": "SENADO DE PROGRESO",
+  "congreso": [],
+  "senado": [
+   "A Coruña",
+   "Lugo",
+   "Ourense"
+  ],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "CHA-IU-MS-FRENTE AMPLIO",
+  "sigla": "CHA-IU-MS-FRENTE AMPLIO",
+  "nombre": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN",
+  "congreso": [
+   "Huesca",
+   "Zaragoza"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Aragón"
+  ]
+ },
+ {
+  "clave": "FIA",
+  "sigla": "FIA",
+  "nombre": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON",
+  "congreso": [
+   "Huesca",
+   "Zaragoza"
+  ],
+  "senado": [
+   "Huesca",
+   "Zaragoza"
+  ],
+  "ccaa": [
+   "Aragón"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-CHA-IU-MS)",
+  "sigla": "SDP (PSOE-CHA-IU-MS)",
+  "nombre": "SENADO DE PROGRESO DE ARAGÓN",
+  "congreso": [],
+  "senado": [
+   "Huesca",
+   "Teruel",
+   "Zaragoza"
+  ],
+  "ccaa": [
+   "Aragón"
+  ]
+ },
+ {
+  "clave": "P. ALANTRE",
+  "sigla": "P. ALANTRE",
+  "nombre": "PROYECTO ALANTRE",
+  "congreso": [
+   "León"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Castilla y León"
+  ]
+ },
+ {
+  "clave": "PREPAL",
+  "sigla": "PREPAL",
+  "nombre": "PARTIDO REGIONALISTA DEL PAIS LEONES",
+  "congreso": [
+   "León",
+   "Salamanca",
+   "Zamora"
+  ],
+  "senado": [
+   "León",
+   "Salamanca",
+   "Zamora"
+  ],
+  "ccaa": [
+   "Castilla y León"
+  ]
+ },
+ {
+  "clave": "PH",
+  "sigla": "PH",
+  "nombre": "PARTIDO HUMANISTA",
+  "congreso": [
+   "Madrid"
+  ],
+  "senado": [
+   "Madrid"
+  ],
+  "ccaa": [
+   "Madrid"
+  ]
+ },
+ {
+  "clave": "IE",
+  "sigla": "IE",
+  "nombre": "IUSTITIA EUROPA",
+  "congreso": [
+   "Madrid"
+  ],
+  "senado": [
+   "Madrid"
+  ],
+  "ccaa": [
+   "Madrid"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-MM-IU-MS)",
+  "sigla": "SDP (PSOE-MM-IU-MS)",
+  "nombre": "SENADO DE PROGRESO",
+  "congreso": [],
+  "senado": [
+   "Madrid"
+  ],
+  "ccaa": [
+   "Madrid"
+  ]
+ },
+ {
+  "clave": "29",
+  "sigla": "29",
+  "nombre": "ALTERNATIVA MALAGUEÑA",
+  "congreso": [
+   "Málaga"
+  ],
+  "senado": [
+   "Málaga"
+  ],
+  "ccaa": [
+   "Andalucía"
+  ]
+ },
+ {
+  "clave": "3e",
+  "sigla": "3e",
+  "nombre": "TERCERA EDAD EN ACCIÓN",
+  "congreso": [
+   "Murcia"
+  ],
+  "senado": [
+   "Murcia"
+  ],
+  "ccaa": [
+   "Murcia"
+  ]
+ },
+ {
+  "clave": "PSN-PSOE",
+  "sigla": "PSN-PSOE",
+  "nombre": "PARTIDO SOCIALISTA DE NAVARRA-PSOE",
+  "congreso": [
+   "Navarra"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "EGUZKILORE",
+  "sigla": "EGUZKILORE",
+  "nombre": "EGUZKILORE",
+  "congreso": [
+   "Navarra"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "GBAI",
+  "sigla": "GBAI",
+  "nombre": "GEROA BAI",
+  "congreso": [
+   "Navarra"
+  ],
+  "senado": [
+   "Navarra"
+  ],
+  "ccaa": [
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "UPN-PP",
+  "sigla": "UPN-PP",
+  "nombre": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR",
+  "congreso": [
+   "Navarra"
+  ],
+  "senado": [
+   "Navarra"
+  ],
+  "ccaa": [
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "SDP (PSOE-IUN NEB-MS-BATZARRE)",
+  "sigla": "SDP (PSOE-IUN NEB-MS-BATZARRE)",
+  "nombre": "SENADO DE PROGRESO",
+  "congreso": [],
+  "senado": [
+   "Navarra"
+  ],
+  "ccaa": [
+   "Navarra"
+  ]
+ },
+ {
+  "clave": "LIB",
+  "sigla": "LIB",
+  "nombre": "LIBERACIÓN CANARIA",
+  "congreso": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "D.R.G",
+  "sigla": "D.R.G",
+  "nombre": "PARTIDO DRAGO CANARIAS",
+  "congreso": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "CCa-1.ºCAN",
+  "sigla": "CCa-1.ºCAN",
+  "nombre": "Coalición Canaria-Municipalistas Primero Canarias",
+  "congreso": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "senado": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "NC-BC, PODEMOS, IU, SUMAR",
+  "sigla": "NC-BC, PODEMOS, IU, SUMAR",
+  "nombre": "UNIDAD DEL PUEBLO CANARIO UPC",
+  "congreso": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "senado": [
+   "Las Palmas",
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "PCPC",
+  "sigla": "PCPC",
+  "nombre": "PARTIDO COMUNISTA DEL PUEBLO CANARIO",
+  "congreso": [
+   "Las Palmas"
+  ],
+  "senado": [
+   "Las Palmas"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "PSOE-MS",
+  "sigla": "PSOE-MS",
+  "nombre": "Coalición electoral Senado de Progreso SDP",
+  "congreso": [],
+  "senado": [
+   "Pontevedra"
+  ],
+  "ccaa": [
+   "Galicia"
+  ]
+ },
+ {
+  "clave": "PSOE-IU-MS",
+  "sigla": "PSOE-IU-MS",
+  "nombre": "SENADO DE PROGRESO SDP",
+  "congreso": [],
+  "senado": [
+   "La Rioja"
+  ],
+  "ccaa": [
+   "La Rioja"
+  ]
+ },
+ {
+  "clave": "IxLG",
+  "sigla": "IxLG",
+  "nombre": "INICIATIVA POR LA GOMERA",
+  "congreso": [],
+  "senado": [
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "ASG",
+  "sigla": "ASG",
+  "nombre": "AGRUPACION SOCIALISTA GOMERA",
+  "congreso": [],
+  "senado": [
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "A.H.I.",
+  "sigla": "A.H.I.",
+  "nombre": "AGRUPACION HERREÑA INDEPENDIENTE",
+  "congreso": [],
+  "senado": [
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "ASAMBLEA HERREÑA",
+  "sigla": "ASAMBLEA HERREÑA",
+  "nombre": "ASAMBLEA HERREÑA",
+  "congreso": [],
+  "senado": [
+   "Santa Cruz de Tenerife"
+  ],
+  "ccaa": [
+   "Canarias"
+  ]
+ },
+ {
+  "clave": "SY",
+  "sigla": "SY",
+  "nombre": "SORIA ¡YA!",
+  "congreso": [
+   "Soria"
+  ],
+  "senado": [
+   "Soria"
+  ],
+  "ccaa": [
+   "Castilla y León"
+  ]
+ },
+ {
+  "clave": "CNV",
+  "sigla": "CNV",
+  "nombre": "CONVERGENTS",
+  "congreso": [
+   "Tarragona"
+  ],
+  "senado": [
+   "Tarragona"
+  ],
+  "ccaa": [
+   "Cataluña"
+  ]
+ },
+ {
+  "clave": "TERUEL EXISTE",
+  "sigla": "TERUEL EXISTE",
+  "nombre": "TERUEL EXISTE",
+  "congreso": [
+   "Teruel"
+  ],
+  "senado": [
+   "Teruel"
+  ],
+  "ccaa": [
+   "Aragón"
+  ]
+ },
+ {
+  "clave": "VLC",
+  "sigla": "VLC",
+  "nombre": "VALENCIA UNIDA",
+  "congreso": [
+   "Valencia"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "RRB",
+  "sigla": "RRB",
+  "nombre": "RENACER RENAIXER",
+  "congreso": [
+   "Valencia"
+  ],
+  "senado": [],
+  "ccaa": [
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "AGENDA VALENCIANA",
+  "sigla": "AGENDA VALENCIANA",
+  "nombre": "AGENDA VALENCIANA",
+  "congreso": [
+   "Valencia"
+  ],
+  "senado": [
+   "Valencia"
+  ],
+  "ccaa": [
+   "Comunitat Valenciana"
+  ]
+ },
+ {
+  "clave": "PANCAL-URCI",
+  "sigla": "PANCAL-URCI",
+  "nombre": "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA",
+  "congreso": [
+   "Valladolid"
+  ],
+  "senado": [
+   "Valladolid"
+  ],
+  "ccaa": [
+   "Castilla y León"
+  ]
+ },
+ {
+  "clave": "PAZ,CASA Y TRABAJO",
+  "sigla": "PAZ,CASA Y TRABAJO",
+  "nombre": "PODEMOS",
+  "congreso": [
+   "Ceuta"
+  ],
+  "senado": [
+   "Ceuta"
+  ],
+  "ccaa": [
+   "Ceuta"
+  ]
+ }
+]

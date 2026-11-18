@@ -1,0 +1,1745 @@
+[
+ {
+  "id": "fo-0019",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Diagnóstico: la OTAN como organización imperialista al servicio de EE.UU.",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0020",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Salir de la Unión Europea para recuperar la soberanía nacional",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permanecer en la Unión Europea? → salir"
+ },
+ {
+  "id": "fo-0021",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Salir de inmediato de la OTAN y reforzar el ejército",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permanecer en la OTAN? → salir"
+ },
+ {
+  "id": "fo-0022",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Expulsar las bases militares extranjeras y recuperar el control de Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0023",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Defender el derecho del pueblo saharaui a la autodeterminación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0024",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Delimitar las aguas archipelágicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0025",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: la industria española desmantelada por las imposiciones de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0026",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reindustrialización para garantizar el desarrollo y la soberanía de España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0027",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reindustrializar el país priorizando industrias estratégicas y recursos propios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0028",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Estrategia industrial independiente que ponga fin a las imposiciones de Bruselas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0029",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Nacionalizar los sectores estratégicos de la economía",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Nacionalizar los sectores estratégicos? → sí"
+ },
+ {
+  "id": "fo-0030",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Cambiar el turismo de ocio destructivo por turismo de calidad y rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0031",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: pérdida de soberanía energética por la UE y los oligopolios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0032",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Independencia energética basada en la nuclear compaginada con renovables",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0033",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Poner fin a la llamada «transición ecológica»",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "frenar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0034",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Regular de inmediato la factura de la luz y los combustibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0035",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Acabar con los abusos de los oligopolios energéticos y las puertas giratorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0036",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Frenar el cierre de centrales energéticas en plena capacidad productiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0037",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ampliar el parque nuclear y explotar los recursos nacionales de uranio",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0038",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Apoyar las renovables como complemento a la nuclear e invertir en I+D",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0039",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: un sistema fiscal que castiga al que trabaja y favorece a los ricos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0040",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Renovar el sistema fiscal con un Estado que priorice a los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0041",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Bajar el IRPF a las rentas bajas y subirlo a las más altas",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0042",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Suprimir las subvenciones ideológicas y las entidades públicas ineficaces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0043",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Bajar el IVA y llevar los bienes de primera necesidad al superreducido",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0044",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Multas y expropiación a empresas que cometen fraude fiscal o tributan fuera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0045",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Subir Sociedades y Patrimonio a las grandes empresas",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   },
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0046",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Centralizar Sucesiones y Patrimonio y suprimir sus bonificaciones a los ricos",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "reforzar"
+   },
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0047",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Combatir la usura y facilitar el pago de deudas a quien no puede",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0048",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: una educación con recortes, propaganda y alto abandono escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0049",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Revertir la digitalización de la enseñanza y limitar la tecnología a menores de 16",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0050",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "La educación como eje de la cultura del esfuerzo y el trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0051",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Educación gratuita en todos los niveles para rentas bajas y más becas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0052",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Comedor escolar gratuito",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0053",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Frenar la educación digital y apostar por una educación integral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0054",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Eliminar las subvenciones a la escuela privada para reforzar la pública",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0055",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Condiciones dignas para los empleados de la educación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0056",
+  "subtema": "edu-fp",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Prácticas remuneradas en formación profesional y universidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0057",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Evitar la fuga de cerebros de trabajadores altamente cualificados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0058",
+  "subtema": "edu-universidad",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Expulsar a las empresas privadas de la universidad y la FP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0059",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Garantizar estudiar en castellano o en las lenguas cooficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0060",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Dejar el islam y las teorías anticientíficas fuera de los centros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0061",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Fomentar el deporte desde las escuelas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0062",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Mejorar la educación de los niños con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0063",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Diagnóstico: la cultura española negada por el cosmopolitismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0064",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "La cultura como herramienta de desarrollo y patrimonio del pueblo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0065",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Una cultura transformadora en manos de los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0066",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Diagnóstico: el multiculturalismo y el islam sustituyen la cultura española",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0067",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger la cultura española de la sustitución cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0068",
+  "subtema": "cultura",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Programas educativos y culturales en colegios e institutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0069",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Acceso gratuito a museos, patrimonio, bibliotecas y filmotecas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0070",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Construir y rehabilitar espacios culturales en barrios obreros y zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0071",
+  "subtema": "cultura",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Reducir los impuestos sobre libros y material artístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0072",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Acabar con la publicidad de apuestas, alcohol y pornografía o prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0073",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Crear clubes deportivos y construir instalaciones deportivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0074",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Diagnóstico: una juventud aislada y dañada por la cultura del consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0075",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Fomentar una generación joven radical, intransigente y disciplinada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0076",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Luchar contra la cultura del consumo, la drogadicción y la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0077",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reducir el paro juvenil combinando estudios con prácticas laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0078",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Parques de vivienda juveniles y ayudas a la emancipación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0079",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Fomentar asociaciones juveniles y cederles locales rehabilitados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0080",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Perseguir a las mafias del narcotráfico con altas penas de cárcel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0081",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Integrar los centros de desintoxicación en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0082",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Rechazo del feminismo como ideología liberal que divide a los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0083",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Rechazo del feminismo queer, los vientres de alquiler y los cupos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0084",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Afirmación de que la violencia de género no existe como violencia estructural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0085",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Crítica al Ministerio de Igualdad y rechazo del feminismo en todas sus formas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0086",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Derogar las leyes de discriminación positiva y suprimir los cupos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener cuotas y discriminación positiva? → suprimir"
+ },
+ {
+  "id": "fo-0087",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Derogar la Ley Trans",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0088",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Suprimir el Ministerio de Igualdad y destinar su presupuesto a cuestiones sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0089",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Planes de apoyo económico a la natalidad sin perjudicar la carrera de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0090",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Planes contra la trata y la explotación sexual y lucha contra la prostitución",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0091",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Prohibir y perseguir los vientres de alquiler, también fuera de España",
+  "ejes": [],
+  "nota": "SIN ENCAJE: gestación subrogada / vientres de alquiler. EJE NUEVO: ¿Prohibir la gestación subrogada? → sí"
+ },
+ {
+  "id": "fo-0092",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Diagnóstico: natalidad de 1,1 hijos por mujer y fomento de la inmigración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0093",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Causas económicas y culturales del descenso de la natalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0094",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Planes estatales de natalidad para superar los dos hijos por mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0095",
+  "subtema": "edu-infantil",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Construir guarderías y jardines de infancia públicos y gratuitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0096",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Alargar los permisos de maternidad y paternidad y flexibilizar la jornada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0097",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Psicólogos y trabajadores sociales para proteger a la familia y la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0098",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Prohibir en organismos públicos la propaganda contraria a la familia y la natalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0099",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: el campo sofocado por la Agenda 2030, la PAC y las importaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0100",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico de la ganadería y la pesca y defensa de la caza regulada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0101",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Diagnóstico: falta de inversión y éxodo del campo a las ciudades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0102",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Romper con la PAC y los tratados internacionales que merman la producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0103",
+  "subtema": "rural-agro",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Expropiar tierras sin usar de terratenientes y prohibir parques solares en cultivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0104",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Fomentar cooperativas agrarias y la concentración parcelaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0105",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Controlar la normativa laboral y de prevención de riesgos en el sector primario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0106",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reivindicar el derecho a explotar las aguas españolas sin ceder ante otros países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0107",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Fomentar la pesca sostenible y crear piscifactorías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0108",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Planes hidrográficos para repartir el agua y poner fin al derribo de presas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0109",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Priorizar la limpieza y el mantenimiento de ríos, lagos y embalses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0110",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Planes de recuperación de la biodiversidad y control de especies invasoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0111",
+  "subtema": "rural-tradiciones",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "La caza y el control de fauna como competencia del Estado con cazadores locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0112",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Crear empleo de calidad en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0113",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Diagnóstico: ofensiva contra las libertades e imposición de un pensamiento único",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0114",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Denuncia de la censura en medios, plataformas y por «delitos de odio»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0115",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Introducción a las medidas contra la censura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0116",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar toda normativa que ataque las libertades por persecución ideológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0117",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Control estatal de las grandes plataformas digitales para evitar sesgos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0118",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Garantizar la neutralidad e independencia de los medios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0119",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Blindar el derecho a informar de cualquier medio o perfil sin censura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0120",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: recortes, externalización y privatización de la sanidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0121",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Centralizar, unificar y homogeneizar el sistema nacional de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0122",
+  "subtema": "san-modelo",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Acabar con la externalización y privatización de la sanidad y controlar las mutuas",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0123",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Incrementar el gasto y la inversión sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0124",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Dotar de medios a toda la infraestructura sanitaria existente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0125",
+  "subtema": "san-primaria",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Más centros de atención primaria, sobre todo en zonas rurales y barrios obreros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0126",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Recursos para reducir las listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0127",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Atención bucodental, fisioterapéutica y oftalmológica gratuita",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0128",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Más personal y recursos para la salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0129",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "La prevención como eje vertebrador del sistema de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0130",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Mejorar condiciones laborales y salariales del personal sanitario y de limpieza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0131",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Abaratar los medicamentos con receta y crear una industria farmacéutica nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0132",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Asegurar plazas públicas en residencias de la tercera edad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0133",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: la vivienda convertida en mercancía y falta de vivienda pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0134",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Diagnóstico: vivienda vacía, fondos buitre y aumento de la ocupación ilegal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0135",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Construir vivienda pública de calidad y asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0136",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Luchar contra la especulación de fondos buitre y frenar los pisos turísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0137",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Paralizar los desahucios de familias vulnerables y garantizar la dación en pago",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0138",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Acabar con las mafias de la ocupación, los narcopisos y los inquiokupas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0139",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Destinar la vivienda pública a los españoles autóctonos",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0140",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Diagnóstico: insostenibilidad del sistema de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0141",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Sostener las pensiones con reindustrialización y aumento de la natalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0142",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revertir el aumento de la edad de jubilación y adaptarla al puesto",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0143",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir las pensiones no contributivas y mínimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0144",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Calcular la pensión con la media de los mejores años cotizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0145",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Aumentar la actividad y el empleo y luchar contra la economía sumergida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0146",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Diagnóstico: España ha superado su límite de absorción de inmigrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0147",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Revalorizar la nacionalidad y defender las fronteras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0148",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Deportar a quien incumpla las leyes e imponer la asimilación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0149",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "El capitalismo como culpable de la inmigración masiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0150",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Preferir inmigrantes de contexto europeo o hispanoamericano a los de contexto islámico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0151",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Asimilar a los inmigrantes, eliminar pagas y promover estudios étnicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0152",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Medidas drásticas de retorno y revalorización de la nacionalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0153",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Control absoluto de las fronteras terrestres y marítimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0154",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Perseguir a las mafias de tráfico de inmigrantes con altas penas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0155",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Expulsar a reincidentes e irregulares e impedir regularizarse a quien entró ilegalmente",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0156",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Expulsar a radicales islámicos y prohibir el hijab en lugares y puestos públicos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir el hijab en lugares y puestos de trabajo públicos? → sí"
+ },
+ {
+  "id": "fo-0157",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Sancionar a las organizaciones y ONG que eludan la legalidad migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0158",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Suspender la concesión de nacionalidades y primar el ius sanguinis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0159",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Retirar la nacionalidad a los nacionalizados que cometan un delito grave",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0160",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Fomentar el retorno de los españoles emigrados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0161",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Hacer operativos o sustituir los CIE y ejecutar todas las órdenes de expulsión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0162",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Dotación moderna para la Policía y la Guardia Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0163",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Acuerdos con países cercanos para centros de deportación en suelo extranjero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0164",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Promover la cultura española para la asimilación de los inmigrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0165",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Supervisar a las empresas que contratan inmigrantes contra condiciones leoninas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0166",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Restringir el asilo político y expulsar a quienes se les deniegue",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0167",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Endurecer las medidas migratorias si no son suficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0168",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Comunidades autónomas simétricas y recuperación de competencias por el Estado",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "recentralizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0169",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-territorial",
+   "inst-administracion"
+  ],
+  "titular": "República encaminada al socialismo e igualdad de competencias entre autonomías",
+  "ejes": [
+   {
+    "eje": "eje-jefatura",
+    "posicion": "republica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0170",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Mismas competencias y mismo régimen fiscal para todas las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0171",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Centralizar sanidad, educación y servicios de emergencia",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "recentralizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0172",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Eliminar puestos y cargos inoperantes o duplicados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0173",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Promover la fusión de ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0174",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Mejorar las condiciones de trabajo y seguridad de los cuerpos policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0175",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Diagnóstico: una justicia secuestrada por el poder político",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0176",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Transformar la justicia: fin de la persecución política y acceso para todos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0177",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Órganos judiciales de carrera judicial, sin miembros elegidos por el Gobierno",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0178",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Justicia gratuita de calidad al alcance de todos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0179",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Aumentar las penas por corrupción, también a los partidos políticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0180",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Prohibir el indulto en casos de corrupción política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0181",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Reformular y democratizar las Fuerzas y Cuerpos de Seguridad del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0182",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Depurar a los mandos policiales al servicio de la partitocracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0183",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Democratizar los cuerpos policiales y permitir sindicarse en la Guardia Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0184",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Equiparar los sueldos de los cuerpos policiales y la Guardia Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0185",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Suprimir las policías autonómicas e integrarlas en la Policía Nacional",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "recentralizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fo-0186",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Democratizar el ejército y mejorar las condiciones de los soldados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0187",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Modernizar y democratizar el ejército y depurar mandos reaccionarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0188",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Libertad de reunión, sindicación y afiliación política para los soldados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0189",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Acabar con el cese de contrato de los soldados a los 45 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0190",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Refundar el ejército como un Ejército al servicio del pueblo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fo-0191",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Retirar a los soldados de misiones en el extranjero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un Estado orgánico que recupere la soberanía nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Una España sin inmigración masiva y con servicios exclusivos para españoles",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fe-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Enmienda a la totalidad al régimen constitucional de 1978",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0004",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Diagnóstico: la inmigración rebaja condiciones laborales y amenaza la identidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0005",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Fronteras cerradas y militarizadas, salir de Schengen y visados controlados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0006",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Revisar las nacionalidades concedidas en los últimos 35 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0007",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Nacionalidad solo por ius sanguinis y prohibición de la doble nacionalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0008",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Expulsar a extranjeros con antecedentes penales o sin contrato de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0009",
+  "subtema": "inm-asilo",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Cerrar los centros de MENAS y expulsar a los menores extranjeros delincuentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0010",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Construir un muro infranqueable en la frontera sur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0011",
+  "subtema": "seg-policia",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Plan de seguridad para recuperar los barrios convertidos en guetos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0012",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Plan Nacional de Remigración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0013",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Derogar la Ley de Extranjería y aprobar una Ley de Extranjería y Remigración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0014",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Cese inmediato de la concesión de permisos de residencia y trabajo",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fe-0015",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Crear el Instituto Nacional de la Remigración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0016",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Expulsar a inmigrantes con antecedentes, en paro o dependientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0017",
+  "subtema": "inm-integracion",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Ayudas sociales exclusivamente para españoles",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fe-0018",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Ampliar la capacidad de los CIE y acelerar las expulsiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fe-0019",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Sanciones a países que no acepten retornos y acuerdos con terceros países",
+  "ejes": [],
+  "nota": ""
+ }
+]

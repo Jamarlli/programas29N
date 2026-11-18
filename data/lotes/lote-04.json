@@ -1,0 +1,3208 @@
+[
+ {
+  "id": "psoe-0202",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "Gobierno y Buena Gestión del SNS, basada en la transparencia, la rendición de cuentas, la participación y la evaluación permanente de resultados."
+ },
+ {
+  "id": "psoe-0203",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "139",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**139. Garantizar la atención pediátrica y la asistencia sanitaria de proximidad en todo el territorio** , financiando en colaboración con las CC. AA. la cobertura prioritaria en zonas rurales y de difícil acceso."
+ },
+ {
+  "id": "psoe-0204",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "140",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**140. Mejorar la adherencia terapéutica** y garantizar el acceso universal a cuidados paliativos integrales y de calidad."
+ },
+ {
+  "id": "psoe-0205",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "141",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**141. Reforzar la atención primaria y garantizar su continuidad asistencial** , desarrollando el Plan de Acción de Atención Primaria y Comunitaria más allá de 2027 para potenciar los equipos multidisciplinares y ampliar la capacidad diagnóstica y resolutiva de los centros de salud."
+ },
+ {
+  "id": "psoe-0206",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "142",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**142. Impulsar un nuevo contrato social con los profesionales sanitarios** , dignificando y potenciando todas las profesiones, mejorando sus condiciones laborales, estabilidad, formación, conciliación, reconocimiento profesional, captación y fidelización del talento y participación en la gobernanza del sistema."
+ },
+ {
+  "id": "psoe-0207",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "143",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**143.** Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un plazo máximo de 30 días. Para hacerlo posible, reforzaremos la presencia de profesionales de psicología clínica en el Sistema Nacional de Salud, especialmente en atención primaria, y ampliaremos los programas de salud mental infantojuvenil y prevención del suicidio, con atención inmediata para los casos urgentes."
+ },
+ {
+  "id": "psoe-0208",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "144",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**144. Consolidar el Plan VEO y ampliar progresivamente su cobertura en otros tramos de edad a colectivos vulnerables.**"
+ },
+ {
+  "id": "psoe-0209",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "145",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**145. Garantizar el acceso equitativo a medicamentos y terapias innovadoras** , potenciando los fármacos estratégicos, genéricos y biosimilares, y reforzando la evaluación de su valor clínico y efectividad real."
+ },
+ {
+  "id": "psoe-0210",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "146",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**146.** Reforzar la participación de las organizaciones de pacientes en el SNS mediante un marco jurídico estable y específico."
+ },
+ {
+  "id": "psoe-0211",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "147",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**147.** Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia, de acuerdo con la legislación vigente."
+ },
+ {
+  "id": "psoe-0212",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "148",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**148. Impulsar una Ley de Salud Digital** , consolidando la interoperabilidad del sistema sanitario, la receta electrónica común y el despliegue del Espacio Europeo de Datos Sanitarios y garantizar la movilidad sanitaria entre CCAA."
+ },
+ {
+  "id": "psoe-0213",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "149",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**149. Garantizar la libertad y los derechos reproductivos** , adaptando el marco regulatorio de la crioconservación de ovocitos para blindar la capacidad de decisión de las mujeres sobre la conservación, uso o destino de sus óvulos; además de actualizar la normativa de reproducción humana asistida conforme a los avances científicos."
+ },
+ {
+  "id": "psoe-0214",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "150",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**150. Impulsar una estrategia integral de prevención y abordaje del cáncer** , reforzando la prevención, los cribados, el diagnóstico precoz, el Registro Estatal de Cáncer y el derecho al olvido oncológico."
+ },
+ {
+  "id": "psoe-0215",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "151",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**151. Garantizar actualización continua del programa de cribado neonatal** del SNS, reforzando la equidad territorial **.**"
+ },
+ {
+  "id": "psoe-0216",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "152",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**152. Reforzar la atención a la cronicidad, el envejecimiento saludable y la autonomía personal,** impulsando la atención domiciliaria, los cuidados de media y larga duración y la coordinación sociosanitaria"
+ },
+ {
+  "id": "psoe-0217",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "153",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**153. Impulsar el diagnóstico temprano y el acceso equitativo al tratamiento de las enfermedades raras,** promoviendo la cooperación europea y el intercambio de datos sanitarios."
+ },
+ {
+  "id": "psoe-0218",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "154",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**154. Reforzar las políticas de prevención frente al tabaquismo, el consumo de alcohol y otros factores de riesgo** para la salud, especialmente entre niños, niñas y adolescentes, con la regulación del uso de productos del tabaco (vapeadores, bolsas de nicotina..), estableciendo información sobre sus componentes, dosis máximas de nicotina y la prohibición de sabores agradables."
+ },
+ {
+  "id": "psoe-0219",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "155",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**155. Garantizar el apoyo integral a las personas con celiaquía** , estableciendo ayudas para compensar el sobrecoste de los productos sin gluten y actualizando los protocolos diagnósticos."
+ },
+ {
+  "id": "psoe-0220",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "156",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La sanidad pública, la gran prioridad"
+  ],
+  "texto": "**156. Impulsar una estrategia integral de salud sexual y reproductiva** , reforzando la educación afectivo-sexual, la prevención de las ITS y del VIH, el acceso a la PrEP y la PEP, la salud menstrual y la accesibilidad económica a los productos esenciales para la salud sexual y reproductiva."
+ },
+ {
+  "id": "psoe-0221",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "La educación garantiza la igualdad de oportunidades, construye una sociedad más libre, cohesionada y próspera, y representa una inversión estratégica para una economía basada en el conocimiento y la innovación.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0222",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "157",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**157. Universalizar la educación de 0 a 3 años** , promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas, reduciendo el número de alumnos por aula, mejorando espacios educativos y favoreciendo la conciliación."
+ },
+ {
+  "id": "psoe-0223",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "158",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**158. Ampliar y mejorar el sistema de becas y limitar la capacidad máxima por aula** , incrementando la financiación y cobertura de las ayudas al estudio, con una actualización de los umbrales de renta y un refuerzo en transporte, residencia, discapacidad y necesidades específicas, al tiempo que se mejora la atención personalizada mediante el doble cómputo del alumnado con necesidades educativas especiales, para reducir la sobrecarga del profesorado."
+ },
+ {
+  "id": "psoe-0224",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "159",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**159. Aprobar el Estatuto del Docente** para dignificar y reforzar la profesión docente, simplificando las cargas burocráticas, impulsando un plan nacional de bienestar docente y consolidando la carrera profesional, la formación inicial y permanente, el reconocimiento profesional y la equiparación progresiva entre cuerpos docentes."
+ },
+ {
+  "id": "psoe-0225",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "160",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**160. Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030** , reforzando la prevención, el apoyo, las segundas oportunidades y las unidades de acompañamiento y orientación familiar."
+ },
+ {
+  "id": "psoe-0226",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "161",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**161. Reforzar la orientación educativa y la atención a la diversidad** , alcanzando una ratio de un profesional de orientación por cada 250 estudiantes y fortaleciendo los equipos de apoyo especializados."
+ },
+ {
+  "id": "psoe-0227",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "162",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**162. Desplegar el Plan Estratégico de Educación Inclusiva** , dotando a los centros de los recursos necesarios para atender al alumnado con necesidades específicas, especialmente con trastorno del espectro autista (TEA), y necesidades educativas especiales (NEE), y reforzando el papel de los centros de educación especial como referencia y apoyo."
+ },
+ {
+  "id": "psoe-0228",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "163",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**163. Proteger y fortalecer la escuela rural** , garantizando el acceso a una educación pública de calidad y proximidad en todo el territorio."
+ },
+ {
+  "id": "psoe-0229",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "164",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**164. Fomentar la adaptación de los centros educativos al cambio climático** , en coordinación con las administraciones competentes, mejorando el confort térmico, transformando los patios en refugios climáticos e impulsando sistemas de climatización eficientes, aerotermia y energías renovables."
+ },
+ {
+  "id": "psoe-0230",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "165",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**165. Promover el conocimiento de la memoria democrática** , los derechos humanos y los valores cívicos, fortaleciendo el pensamiento crítico, la participación democrática y la lucha contra la desinformación y los discursos de odio."
+ },
+ {
+  "id": "psoe-0231",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "166",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**166. Impulsar una estrategia integral para el uso educativo de la inteligencia artificial** , mediante formación permanente del profesorado y una plataforma pública de recursos éticos."
+ },
+ {
+  "id": "psoe-0232",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "167",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**167. Reforzar las enseñanzas artísticas** , mejorando los recursos humanos y materiales, facilitando la compatibilidad con otros estudios, ampliando becas e incorporando programas de bienestar emocional."
+ },
+ {
+  "id": "psoe-0233",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "168",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**168. Impulsar la ampliación del servicio de comedor escolar** , garantizando su gratuidad a todo el alumnado en situación de pobreza y/o exclusión social, estableciendo una financiación específica para garantizar una alimentación saludable y de calidad nutricional."
+ },
+ {
+  "id": "psoe-0234",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "169",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "La educación pública: motor de progreso e igualdad",
+   "Educación Infantil, Primaria, Secundaria y Bachillerato"
+  ],
+  "texto": "**169. Fortalecer la educación de personas adultas** , mediante una oferta más flexible, el impulso a los Centros de Educación de Personas Adultas y la estabilización de sus plantillas docentes."
+ },
+ {
+  "id": "psoe-0235",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "La Formación Profesional ha sido una de las grandes prioridades de los gobiernos progresistas. La Ley de FP ha transformado el sistema en un modelo moderno, flexible e integrado, profundamente conectado con el empleo de calidad, la innovación y las necesidades del tejido productivo.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0236",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "170",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**170.** Fomentar la ampliación de las plazas públicas de Formación Profesional Media y Superior, asegurando que nadie quede sin acceso a la formación deseada por falta de oferta."
+ },
+ {
+  "id": "psoe-0237",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "171",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**171.** Ampliar la FP Básica y reforzar el acompañamiento educativo para favorecer el éxito escolar, la continuidad en los estudios y reducir el abandono escolar temprano."
+ },
+ {
+  "id": "psoe-0238",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "172",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**172.** Ampliar el sistema de becas y las ayudas para movilidad, transporte y alojamiento del alumnado desplazado, así como el apoyo para la adquisición de materiales, equipamientos y licencias formativas."
+ },
+ {
+  "id": "psoe-0239",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "173",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**173.** Adaptar la FP a los sectores estratégicos del futuro, impulsando titulaciones en inteligencia artificial, ciberseguridad, transición energética, biotecnología, microelectrónica e industria avanzada."
+ },
+ {
+  "id": "psoe-0240",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "174",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**174.** Reforzar la red de centros de excelencia y de referencia nacional, utilizándolos como espacios clave para la orientación, acreditación de competencias, recualificación profesional y aprendizaje permanente."
+ },
+ {
+  "id": "psoe-0241",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "175",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Formación Profesional"
+  ],
+  "texto": "**175.** Potenciar el sistema de microcredenciales, que ha tenido resultados exitosos en los últimos años, en una amplia multitud de dominios educativos para ayudar al progreso profesional y social y la adaptación de la formación a las cambiantes necesidades del mercado de trabajo"
+ },
+ {
+  "id": "psoe-0242",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad"
+  ],
+  "texto": "La universidad pública sigue siendo uno de los principales motores de igualdad y movilidad social de nuestro país. En los últimos años hemos reforzado el compromiso del Estado con el sistema universitario expandiendo las becas, mejorando la financiación que depende del Estado, fortalecimiento la UNED, e impulsando una regulación más exigente para garantizar la calidad de todo el sistema universitario. Pero persisten importantes desafíos. La expansión acelerada de universidades privadas y la insuficiente financiación de muchas universidades públicas está generando deteriorando el papel de la universidad como igualador de oportunidades. Nosotros defendemos una universidad pública fuerte, accesible y de calidad. Una universidad en la que el acceso dependa del talento y el esfuerzo, y no de la renta familiar ni del código postal del estudiante; y que cuente con una financiación suficiente y estable."
+ },
+ {
+  "id": "psoe-0243",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "176",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**176.** Crear un nuevo modelo de becas para garantizar la igualdad de oportunidades:"
+ },
+ {
+  "id": "psoe-0244",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "177",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**177.** Compensaremos las barreras económicas de partida creando complementos específicos para estudiantes que sean la primera generación en acceder a la universidad y para quienes afronten mayores dificultades económicas por su situación personal o familiar."
+ },
+ {
+  "id": "psoe-0245",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "178",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**178.** Derecho a la movilidad. Ampliaremos las oportunidades de estudiar en otras universidades. Aseguraremos becas Erasmus al alcance de hasta 1.000 y 1.500€ mensuales, en función de los ingresos. Las nuevas Becas Luisa de Medrano serán consolidadas para permitir cursar parte de sus estudios en otra comunidad autónoma."
+ },
+ {
+  "id": "psoe-0246",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "179",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**179.** Impulsar la **gratuidad de la matrícula del primer curso de grado** en las universidades públicas de todo el país."
+ },
+ {
+  "id": "psoe-0247",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "180",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**180. Ampliar las plazas públicas de alojamiento universitario** , expandiendo el compromiso ya aprobado en 2026 de crear 2.000 nuevas plazas y promoviendo acuerdos con las comunidades autónomas, los ayuntamientos y las universidades públicas para aumentar la oferta a precios asequibles."
+ },
+ {
+  "id": "psoe-0248",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "181",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**181.** Aprobar una nueva Ley de Equidad en el Acceso a la Universidad Pública que garantice una financiación suficiente, estable y de calidad para las universidades públicas en todas las comunidades autónomas, mediante compromisos plurianuales vinculantes y mecanismos de seguimiento de su cumplimiento, asegurando además una oferta mínima de plazas públicas en titulaciones estratégicas y de alta demanda."
+ },
+ {
+  "id": "psoe-0249",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "182",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**182. Consolidar el crecimiento y la modernización de la UNED** , ampliando su oferta a titulaciones presenciales en ámbitos estratégicos y de alta demanda."
+ },
+ {
+  "id": "psoe-0250",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "183",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**183. Transformar la Universidad Internacional Menéndez Pelayo (UIMP) en una universidad pública singula** r integrada en el sistema universitario español, preservando su singular proyección internacional."
+ },
+ {
+  "id": "psoe-0251",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "184",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**184.** Reforzar el marco regulador para garantizar los estándares de calidad del sistema universitario, garantizando que todas las universidades y titulaciones, públicas y privadas, cumplan requisitos exigentes de docencia, investigación y profesorado, y evitando modelos orientados exclusivamente al beneficio económico, con mayores garantías de calidad y presencialidad en las titulaciones que así lo requieran, especialmente en el ámbito sanitario."
+ },
+ {
+  "id": "psoe-0252",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "185",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Universidad",
+   "Compromisos"
+  ],
+  "texto": "**185. Impulsar la renovación y estabilización de las plantillas universitarias** mediante el Programa María Goyri, **garantizando la incorporación de nuevo profesorado** , el relevo generacional, la reducción de la precariedad y la atracción de talento para reforzar la docencia y la investigación en las universidades públicas."
+ },
+ {
+  "id": "psoe-0253",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "El deporte es un derecho de ciudadanía, una herramienta de salud y un sector que genera empleo y cohesión social, además de transmitir valores como el esfuerzo, la igualdad y la superación. Por ello, seguiremos fortaleciendo el deporte base, escolar y federado, y promoviendo la actividad física para mejorar la salud y combatir el sedentarismo, porque entendemos el deporte como una política de país que genera oportunidades, reduce desigualdades y mejora la calidad de vida de toda la ciudadanía.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0254",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "186",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**186. Desplegar el Estatuto del Deportista** , garantizando su salud física y mental, su protección social, la compatibilidad con los estudios en todas las etapas y el acompañamiento al final de su carrera deportiva."
+ },
+ {
+  "id": "psoe-0255",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "187",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**187. Impulsar una Estrategia Integral contra el Sedentarismo y de Promoción de la Actividad Física** , extendiendo la receta deportiva y la actividad física supervisada desde la atención primaria, fomentando el deporte extraescolar."
+ },
+ {
+  "id": "psoe-0256",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "188",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**188. Reformar la Ley de Mecenazgo e impulsar incentivos fiscales** para fomentar la práctica deportiva, la inversión en infraestructuras y el patrocinio en el sector."
+ },
+ {
+  "id": "psoe-0257",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "189",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**189. Impulsar la igualdad efectiva en el deporte y la profesionalización del fútbol femenino** , favoreciendo la continuidad de niñas y adolescentes en la práctica deportiva, aumentando la presencia de mujeres en los órganos de dirección, reforzando la visibilidad del deporte femenino y garantizando la igualdad de condiciones en el ámbito deportivo."
+ },
+ {
+  "id": "psoe-0258",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "190",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**190. Desarrollar un Plan Estratégico del Deporte Español** , articulando el deporte base, la tecnificación y el alto rendimiento, y garantizando la financiación del deporte olímpico y paralímpico."
+ },
+ {
+  "id": "psoe-0259",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "191",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Deporte, fuente de bienestar"
+  ],
+  "texto": "**191. Garantizar que el Mundial 2030 y los grandes eventos deportivos dejen un legado social** : instalaciones abiertas a la ciudadanía, impulso al deporte base y empleo en el territorio."
+ },
+ {
+  "id": "psoe-0260",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "Queremos un Estado de bienestar que acompañe a cada persona en todas las etapas de la vida.\n\n_Infancia, adolescencia y familias_"
+ },
+ {
+  "id": "psoe-0261",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "192",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**192. Prestación estatal por crianza** para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente: un nuevo derecho para los 8 millones de niñas, niños y adolescentes de nuestro país. Será una prestación progresiva para apoyar la crianza y proteger de forma más eficaz a los hogares de menor renta. Su implementación contará con financiará procedente de la nueva tributación de los grandes patrimonios y rentas del capital."
+ },
+ {
+  "id": "psoe-0262",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "193",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**193. Crear una Cuenta de Futuro.** Asignar al nacer a cada niño o niña una cuenta pública de 1.000 euros invertida en fondos públicos, complementada con aportaciones anuales para los hogares de menor renta; este fondo finalista estará disponible a partir de los 18 años para financiar estudios o proyectos propios, garantizando que el futuro de la juventud no dependa del patrimonio heredado."
+ },
+ {
+  "id": "psoe-0263",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "194",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**194. Crear juzgados especializados en violencia contra la infancia en el despliegue integral de la LOPIVI** , instando a las CC.AA. a la implantación efectiva de la figura del Coordinador de Bienestar y la extensión del modelo Barnahus."
+ },
+ {
+  "id": "psoe-0264",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "195",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**195. Desplegar un programa de apoyo al acogimiento familiar frente al residencial** para niñas, niños y adolescentes tutelados, especialmente los de menor edad, en coordinación con las CC.AA."
+ },
+ {
+  "id": "psoe-0265",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "196",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**196. Garantizar el acceso a productos de primera necesidad y cuidados en los 1000 primeros días de crianza** , desplegando un marco estatal de ayudas públicas y priorizando el acompañamiento a las familias y la atención temprana."
+ },
+ {
+  "id": "psoe-0266",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "197",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**197. Combatir la obesidad infantil mediante el Plan Estratégico Nacional** reforzando la promoción de la actividad física y los hábitos de vida saludables entre la infancia y la adolescencia."
+ },
+ {
+  "id": "psoe-0267",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "198",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**198.** Garantizar la participación real y efectiva de la infancia y la adolescencia en las decisiones públicas, mediante el impulso de los órganos de participación locales, autonómicos y estatales."
+ },
+ {
+  "id": "psoe-0268",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "199",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**199. Garantizar la protección legal y económica de todas las familias** mediante la Ley de Familias, desarrollando la nueva normativa de reconocimiento y protección a las familias monoparentales y otras medidas de apoyo a familias vulnerables."
+ },
+ {
+  "id": "psoe-0269",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "200",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**200. Crear una Unidad de Apoyo a la Infancia Migrante** , con equipos multidisciplinares especializados en protección infantil, atención psicosocial, mediación intercultural y asesoramiento jurídico, para ofrecer apoyo inmediato a las CC.AA. y territorios que afronten situaciones de emergencia."
+ },
+ {
+  "id": "psoe-0270",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "201",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**201.** Establecer un **itinerario de acompañamiento a jóvenes extutelados** común en todas las CC.AA., para acompañarlos en su transición a la vida autónoma."
+ },
+ {
+  "id": "psoe-0271",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "_Sistema de dependencia, cuidados y políticas sociales_"
+ },
+ {
+  "id": "psoe-0272",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "202",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**202. Aprobar la primera Ley de Servicios Sociales** para blindar el cuarto pilar del Estado de bienestar, pactando con las CC.AA. una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público."
+ },
+ {
+  "id": "psoe-0273",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "203",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**203. Garantizar la equidad territorial en el acceso a los servicios sociales** , implantando una evaluación de impacto territorial en las políticas estatales y priorizando la accesibilidad de los servicios públicos, el transporte y la conectividad en el medio rural"
+ },
+ {
+  "id": "psoe-0274",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "204",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**204. Desplegar el Sistema de Información Estatal de Servicios Sociales** , garantizando datos comparables, transparencia y cooperación entre las AA.PP."
+ },
+ {
+  "id": "psoe-0275",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "205",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**205. Asegurar la plena aplicación de la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026)** , con una programación económica plurianual orientada a seguir reduciendo las listas de espera y un sistema de seguimiento por territorios."
+ },
+ {
+  "id": "psoe-0276",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "206",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**206. Consolidar el Servicio de Ayuda a Domicilio como servicio público esencial del sistema de dependencia** , garantizando junto a las AA.PP. una financiación suficiente y estable, una atención de calidad centrada en las personas y la mejora progresiva de las condiciones laborales de sus profesionales."
+ },
+ {
+  "id": "psoe-0277",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "207",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**207. Mejorar la protección social de las personas que son cuidadoras principales,** especialmente quienes asumen esta responsabilidad de manera continuada durante largos periodos de tiempo, y estudiar medidas que compensen el impacto que esta tarea tiene sobre su trayectoria laboral."
+ },
+ {
+  "id": "psoe-0278",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "208",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**208. Ampliar los servicios de asistencia personal** , centros de día y programas de respiro familiar, favoreciendo la permanencia digna en el entorno elegido y liberando a las familias de la sobrecarga de cuidados."
+ },
+ {
+  "id": "psoe-0279",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "209",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**209. Promover la atención pública integral y personalizada a las personas con ELA en situación de dependencia extrema (Grado III+)** , acordando con las CC.AA. la exención de copagos, la atención domiciliaria continuada y la compatibilidad de las prestaciones de apoyo."
+ },
+ {
+  "id": "psoe-0280",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "210",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**210. Proteger el derecho a la salud de los pacientes con electrodependencia** , creando un registro estatal, garantizando una respuesta adecuada a sus necesidades y compensando el sobrecoste energético derivado del uso de equipos médicos y soportes vitales."
+ },
+ {
+  "id": "psoe-0281",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "211",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**211. Garantizar la accesibilidad universal efectiva** , reforzando la inspección y dotando de una financiación estable y suficiente al Programa Estatal de Promoción de la Accesibilidad Universal."
+ },
+ {
+  "id": "psoe-0282",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "212",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**212. Desplegar el Marco Estratégico Estatal de las Soledades 2026-2030** , en alianza con el tercer sector, garantizando servicios de proximidad y apoyos personalizados."
+ },
+ {
+  "id": "psoe-0283",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "213",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**213. Avanzar en la prevención y erradicación del sinhogarismo** , reforzando los recursos de emergencia en colaboración con las administraciones competentes e impulsando soluciones estables de alojamiento y acompañamiento social bajo el modelo _Housing First_ ."
+ },
+ {
+  "id": "psoe-0284",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "_Nueva longevidad: vivir más, vivir mejor_"
+ },
+ {
+  "id": "psoe-0285",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "214",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**214. Desplegar el Plan** **_“A Tu Lado_ ” para envejecer en casa, con autonomía y compañía.** Ayudas para instalar ascensores y eliminar barreras, para que ninguna persona mayor o con movilidad reducida se quede atrapada en su casa. A partir de los 80 años, una visita periódica a domicilio de enfermería o trabajo social para detectar a tiempo la fragilidad y la soledad."
+ },
+ {
+  "id": "psoe-0286",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "215",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**215. Impulsar una nueva industria de los cuidados mediante un PERTE financiado con el Fondo España Crece** , movilizando inversión pública y privada desarrollar una industria de los cuidados puntera, que incorpore tecnología, robótica y domótica, aumentando la productividad del sector y aliviando la dureza del trabajo en un sector fuertemente feminizado y con alta incidencia de dolencias musculoesqueléticas."
+ },
+ {
+  "id": "psoe-0287",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "216",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**216. Impulsar un programa de suelo público para cooperativas sénior.** Ceder suelo público destinado a la construcción de viviendas colaborativas y asequibles para personas mayores, ofreciendo espacios y servicios compartidos que favorezcan su autonomía, los cuidados y la lucha contra la soledad no deseada."
+ },
+ {
+  "id": "psoe-0288",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "217",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**217. Impulsar un Pacto de Estado por los derechos de las personas mayores** , reforzando su participación efectiva en las políticas públicas y desplegando en su seno la Estrategia Estatal contra el Maltrato y la Soledad no Deseada, con mecanismos de detección temprana, coordinación sociosanitaria y apoyos comunitarios."
+ },
+ {
+  "id": "psoe-0289",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "218",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**218. Desplegar una Estrategia Nacional para la Nueva Longevidad** orientada a promover un envejecimiento activo, saludable y autónomo, la atención a la cronicidad, la consolidación de los cuidados a domicilio, el refuerzo de la salud mental, el aprendizaje a lo largo de la vida, el acceso universal a las competencias digitales, el aprovechamiento del talento sénior y la lucha contra el edadismo."
+ },
+ {
+  "id": "psoe-0290",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "219",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Un Estado de bienestar para todos los hogares y todas las edades"
+  ],
+  "texto": "**219. Promover la autonomía y la permanencia digna en el hogar de las personas mayores** , favoreciendo la adaptación de sus viviendas, con especial atención al medio rural."
+ },
+ {
+  "id": "psoe-0291",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad"
+  ],
+  "texto": "En materia de discapacidad, hemos avanzado en el reconocimiento y garantía de derechos con la reforma del artículo 49 de la Constitución Española en 2024, que refuerza los principios de igualdad real y efectiva, autonomía personal, inclusión social y accesibilidad universal. hemos aprobado la Ley ELA, ampliando el marco de protección y atención especializada a las personas afectadas por esta enfermedad y otras patologías de alta complejidad. Y la aprobación definitiva por las Cortes Generales, en septiembre de 2026, de la Ley 4/2026 actualiza las leyes de discapacidad y de dependencia y constituye otro avance fundamental en este ámbito. La nueva regulación adapta ambas normas al artículo 49 de la Constitución y refuerza los derechos a la inclusión, la autonomía y la accesibilidad universal."
+ },
+ {
+  "id": "psoe-0292",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "220",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**220. Garantizaremos el ejercicio efectivo de los derechos de las personas con discapacidad reconocidos en el artículo 49 de la CE** , desplegando la reciente reforma de la Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social."
+ },
+ {
+  "id": "psoe-0293",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "221",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**221.** Desplegaremos un marco de apoyos a la vida independiente que facilite el acceso efectivo a asistencia personal, vivienda accesible y servicios comunitarios."
+ },
+ {
+  "id": "psoe-0294",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "222",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**222. Pondremos en marcha el Programa Estatal de Promoción de la Accesibilidad Universa** l."
+ },
+ {
+  "id": "psoe-0295",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "223",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**223. Desarrollaremos la figura de la persona facilitadora procesal** , para cubrir las necesidades de apoyo de las personas con discapacidad relacionadas con la comprensión, comunicación e interacción con el entorno de los actos procesales en los que deban participar."
+ },
+ {
+  "id": "psoe-0296",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "224",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**224. Desplegar el Plan Estratégico de Educación Inclusiva 2026-2031** , en colaboración con las comunidades autónomas, reforzando los recursos y apoyos educativos y garantizando criterios comunes de calidad y seguimiento para que el lugar de residencia no condicione el acceso a una educación inclusiva y de calidad."
+ },
+ {
+  "id": "psoe-0297",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "225",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**225. Continuar fortaleciendo al Tercer Sector de la discapacidad** , promoviendo la participación de las organizaciones y las familias en el diseño, ejecución y evaluación de las políticas públicas."
+ },
+ {
+  "id": "psoe-0298",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "226",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**226. Revisaremos los criterios establecidos en el Real Decreto 888/2022** para garantizar que se tengan adecuadamente en cuenta las secuelas, comorbilidades y limitaciones funcionales de las personas mayores y de larga evolución con VIH."
+ },
+ {
+  "id": "psoe-0299",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "227",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**227. Impulsar el cumplimiento de la cuota de reserva de empleo de personas con discapacidad** en las empresas."
+ },
+ {
+  "id": "psoe-0300",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "228",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Derechos de las personas con discapacidad",
+   "Compromisos"
+  ],
+  "texto": "**228. Impulsaremos el buen uso de las zonas de estacionamiento reservadas a las personas con discapacidad** , para evitar el mal uso que se hace de ellas por parte de otras personas usuarias."
+ },
+ {
+  "id": "psoe-0301",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "Nuestra prioridad es reforzar el Estado del bienestar, con una sanidad y una educación públicas de calidad, una atención digna a la dependencia y unos servicios sociales sólidos que garanticen la protección y mejoren la vida de las clases medias y trabajadoras."
+ },
+ {
+  "id": "psoe-0302",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "229",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "**229. Impulsaremos el nuevo sistema de financiación autonómica propuesto por el Gobierno de España y aprobado en el Consejo de Política Fiscal y Financiera, que aporta 21.000 millones de euros adicionales** con el objetivo de garantizar que las Comunidades Autónomas, responsables de gestionar y prestar servicios públicos fundamentales como la sanidad, la educación y los servicios sociales, cuenten con los recursos necesarios para prestar unos servicios de calidad y fortalecer nuestro Estado del bienestar."
+ },
+ {
+  "id": "psoe-0303",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "230",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "**230. Actualizaremos y potenciaremos los mecanismos de cohesión y convergencia territorial como el Fondo de Compensación Interterritorial y los incentivos regionales** para atender los principales retos de cada territorio, como la reindustrialización, la digitalización y la innovación, la despoblación, las externalidades asociadas al turismo masivo, los riesgos derivados de la masa forestal y la insularidad y extrapeninsularidad."
+ },
+ {
+  "id": "psoe-0304",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "231",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "**231. Avanzaremos en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica** , reduciendo la carga financiera de las Comunidades Autónomas y liberando recursos para reforzar los servicios públicos y el Estado del bienestar."
+ },
+ {
+  "id": "psoe-0305",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "232",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "**232. Garantizaremos una financiación local suficiente y justa, adaptada a las distintas realidades territoriales** (municipios, diputaciones provinciales, cabildos y consejos insulares, comarcas, mancomunidades, áreas metropolitanas y entidades locales menores) y con especial **apoyo a los municipios con mayores dificultades financieras** ."
+ },
+ {
+  "id": "psoe-0306",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "233",
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "**233. Reforzaremos el compromiso con la España rural y los territorios afectados por la despoblación** , garantizando el acceso a servicios públicos de calidad con independencia del lugar de residencia e impulsando oportunidades que permitan fijar y atraer población."
+ },
+ {
+  "id": "psoe-0307",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+   "Financiación territorial justa para garantizar los servicios públicos"
+  ],
+  "texto": "Un país que combate el cambio climático."
+ },
+ {
+  "id": "psoe-0308",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "El cambio climático ya no es una amenaza del futuro: es una realidad que afecta a nuestras vidas, nuestra economía y nuestro territorio. Sus impactos sobre la vida de las personas, la salud, la economía y el territorio son cada vez más visibles. La DANA de 2024 dejó 241 víctimas, los incendios de 2025 arrasaron más de 350.000 hectáreas y los fenómenos climáticos extremos provocan cada año pérdidas multimillonarias. Sus consecuencias golpean especialmente al mundo rural, que lleva décadas sufriendo el envejecimiento y la pérdida de población. Si no actuamos, el cambio climático agravará las desigualdades, aumentará nuestra dependencia de los combustibles fósiles y dejará atrás a quienes viven en los territorios más vulnerables.\n\nPero la transición ecológica nos presenta también una gran oportunidad para generar prosperidad, crear empleo y cohesionar nuestro territorio. Aprovechar nuestros recursos naturales para producir energía limpia y barata, modernizar nuestra economía, fortalecer nuestra autonomía energética y garantizar que vivir en un pueblo no signifique tener menos oportunidades que vivir en una ciudad."
+ },
+ {
+  "id": "psoe-0309",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "Durante estos ocho años hemos demostrado que proteger el planeta y mejorar la vida de la gente pueden y deben ir de la mano. Declaramos la emergencia climática y aprobamos la primera Ley de Cambio Climático, convirtiendo el desafío climático en una oportunidad para reforzar nuestra autonomía energética, modernizar nuestra economía y generar prosperidad compartida. Mientras que durante el último Gobierno del PP la potencia renovable apenas creció dos puntos porcentuales, desde 2018 ha aumentado 23 puntos, hasta representar el 72% de nuestra potencia eléctrica instalada, contribuyendo a que los precios mayoristas de la electricidad sean inferiores a la media europea.\n\nY hemos trabajado para que los beneficios de la transición ecológica lleguen a los hogares. Lo hemos hecho ampliando el bono social eléctrico, impulsando las ayudas al autoconsumo y las comunidades energéticas, y poniendo en marcha la excepción ibérica. Y seguiremos haciéndolo con los más de 9.000 millones de euros movilizados para el Plan Social para el Clima. Porque la transición ecológica debe ser también una transición justa que mejore la vida de la gente."
+ },
+ {
+  "id": "psoe-0310",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "Lo hemos hecho impulsando una transición ecológica que también es una transformación económica y social. Nuestra apuesta por las energías renovables, la electrificación y la adaptación climática está contribuyendo a la reindustrialización, la creación de empleo y la competitividad de nuestras empresas. El impulso de nuevos proyectos como la fábrica de hidrógeno verde en Huelva o las gigafactorías de baterías nos ha permitido generar 160.000 nuevos puestos de empleo verde desde 2017. Pero también hemos duplicado la inversión en protección del agua, impulsado la movilidad sostenible, desplegado el mayor operativo antiincendios de nuestra historia y situado el reto demográfico en el centro de la acción del Gobierno.\n\nHemos demostrado que no hay que elegir entre crecimiento económico y sostenibilidad, entre proteger el medioambiente y crear empleo, entre modernizar nuestra economía y cohesionar nuestro territorio. Son objetivos que pueden avanzar juntos y reforzarse mutuamente."
+ },
+ {
+  "id": "psoe-0311",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "Nuestro modelo parte de una convicción: la transición ecológica debe mejorar la vida de la gente y protegerla frente a los efectos del cambio climático. Para que las familias paguen menos por la energía, para que nuestras empresas sean más competitivas, para crear nuevos empleos de calidad y para proteger a la ciudadanía frente a los efectos del cambio climático. Porque la transición ecológica no debe ser un esfuerzo que recaiga sobre quienes menos tienen, sino una oportunidad de prosperidad compartida.\n\nQueremos una España más verde, pero también más segura, más próspera y más justa. Un país que aproveche el sol, el viento y sus recursos naturales para producir energía limpia y barata, reducir su dependencia del exterior y generar nuevas oportunidades industriales. Que esté mejor preparado para afrontar sequías, incendios e inundaciones. Que proteja el agua, los bosques, nuestros mares y nuestra biodiversidad. Y que convierta la lucha contra el cambio climático en una oportunidad para las generaciones presentes y futuras."
+ },
+ {
+  "id": "psoe-0312",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "Y queremos una España en la que el futuro no dependa del código postal. Donde vivir en un pueblo no signifique renunciar a oportunidades, servicios o derechos. Donde nuestros agricultores, ganaderos y pescadores puedan desarrollar su actividad con dignidad. Donde el mundo rural sea protagonista de la transición ecológica, de la creación de empleo y de las nuevas oportunidades económicas. Porque no puede haber una España próspera si una parte de su territorio se queda atrás.\n\nNuestra ambición para 2030 es clara: una España que produzca la mayor parte de su electricidad con energía limpia y barata, que proteja a su gente frente a los extremos climáticos y que ofrezca oportunidades de futuro en cada rincón del país.\n\nPara conseguirlo, proponemos medidas articuladas en cinco grandes prioridades: impulsar una economía verde basada en las energías renovables y la economía circular; reforzar nuestra resiliencia climática, mejorando la prevención de emergencias y la seguridad hídrica;"
+ },
+ {
+  "id": "psoe-0313",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde"
+  ],
+  "texto": "garantizar un territorio vivo y sostenible, protegiendo el mundo rural, la agricultura, la ganadería, la pesca, la movilidad sostenible y la biodiversidad; avanzar en la protección y el bienestar animal; y fortalecer el liderazgo climático de España. Porque la transición ecológica no consiste solo en proteger el planeta. Consiste también en proteger la vida de la gente y construir un futuro con más oportunidades para todos, vivan donde vivan."
+ },
+ {
+  "id": "psoe-0314",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "_Energía renovable para una vida asequible, una industria competitiva y un país más seguro_\n\nLas renovables son autonomía estratégica, precios estables, empresas más competitivas y seguridad frente a las guerras fósiles. Continuaremos promoviendo la transición energética, para que el sol, el viento y la industria españolas reviertan en beneficios y oportunidades en todos los territorios y para toda la sociedad.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0315",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "234",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**234. Impulsar el despliegue de energías renovables** , para alcanzar el 81% de generación eléctrica en 2030, priorizando su ubicación en las Zonas de Aceleración Renovable para garantizar el máximo consenso social y la compatibilidad con la preservación de la biodiversidad y la actividad agroganadera."
+ },
+ {
+  "id": "psoe-0316",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "235",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**235. Impulsar la electrificación como elemento crucial para aprovechar el despliegue de renovables** , y aprobar un plan nacional para promover el bombeo hidroeléctrico. Aprobar una **hoja de ruta para el abandono progresivo de los combustibles fósiles**"
+ },
+ {
+  "id": "psoe-0317",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "236",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**236. Extender el autoconsumo y la eficiencia energética en viviendas** , edificios públicos, pymes e industrias, trasladando los beneficios de las energías renovables a hogares, empresas y administraciones públicas."
+ },
+ {
+  "id": "psoe-0318",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "237",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**237. Acelerar el despliegue del almacenamiento energético** , la gestión de la demanda, el hidrógeno renovable y las interconexiones internacionales para reforzar la seguridad y flexibilidad del sistema eléctrico."
+ },
+ {
+  "id": "psoe-0319",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "238",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**238. Acelerar el refuerzo y la extensión de la red troncal de gasoductos preparados** para el transporte de hidrógeno verde, consolidando las interconexiones estratégicas con Francia para posicionar a nuestro país como el principal nodo de energía limpia y renovable del sur de Europa."
+ },
+ {
+  "id": "psoe-0320",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "239",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**239. Defender la reforma del mercado eléctrico europeo** para garantizar que los beneficios de las energías renovables se trasladen de forma efectiva a consumidores, hogares y empresas."
+ },
+ {
+  "id": "psoe-0321",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "240",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**240.** Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas, preservando las capacidades tecnológicas y de conocimiento vinculadas al sector."
+ },
+ {
+  "id": "psoe-0322",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "241",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**241. Reorientar la fiscalidad para la transición ecológica** , eliminando barreras y reduciendo costes para las tecnologías limpias."
+ },
+ {
+  "id": "psoe-0323",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "242",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**242. Desplegar el Plan Social para el Clima** para proteger a los hogares vulnerables, las microempresas y las personas usuarias del transporte frente a los costes de la transición."
+ },
+ {
+  "id": "psoe-0324",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "243",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**243.** Reforzar las capacidades industriales nacionales en las cadenas de valor verdes en sectores estratégicos como los bienes de equipo para energías renovables, almacenamiento energético y acero verde. Para ello, se promoverá la I+D, la transferencia de conocimiento y la compra pública innovadora."
+ },
+ {
+  "id": "psoe-0325",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "244",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**244. Formar y recualificar a las personas trabajadoras** para los empleos verdes del futuro, reforzando la FP Dual y los programas de capacitación permanente."
+ },
+ {
+  "id": "psoe-0326",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "245",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde"
+  ],
+  "texto": "**245. Garantizar una gestión sostenible de las materias primas minerales** y aprobar una nueva Ley de Minas alineada con la transición ecológica."
+ },
+ {
+  "id": "psoe-0327",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social"
+  ],
+  "texto": "Extraer, producir, consumir y desechar no es viable: la mitad de los residuos acaba en vertedero. Seguiremos impulsando la economía circular en todas las fases del proceso productivo, buscando reforzar la competitividad de la industria española, aumentar nuestra autonomía estratégica, y promover una sociedad más consciente de los impactos ambientales del actual modelo de producción y consumo."
+ },
+ {
+  "id": "psoe-0328",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "246",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social",
+   "Compromisos"
+  ],
+  "texto": "**246. Reducir el vertido de residuos por debajo del 30 % en 2030** , impulsando la prevención, la reutilización y el reciclaje; fomentando el retorno de envases; y reforzando la transparencia y la trazabilidad en la gestión de residuos."
+ },
+ {
+  "id": "psoe-0329",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "247",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social",
+   "Compromisos"
+  ],
+  "texto": "**247. Fomentar el ecodiseño, la reparación y la reutilización en procesos productivos** , especialmente en sectores como el textil, la electrónica, la industria química y muy especialmente en las palas eólicas, paneles solares y baterías para recuperar materias primas críticas."
+ },
+ {
+  "id": "psoe-0330",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "248",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social",
+   "Compromisos"
+  ],
+  "texto": "**248. Promover una contratación pública más sostenible** , priorizando empresas circulares e incorporando criterios de huella de carbono en las compras públicas."
+ },
+ {
+  "id": "psoe-0331",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "249",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social",
+   "Compromisos"
+  ],
+  "texto": "**249. Impulsar el compostaje y la valorización de residuos orgánicos** mediante biogás, especialmente en entornos rurales y actividades agrarias y ganaderas."
+ },
+ {
+  "id": "psoe-0332",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "250",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Economía verde",
+   "Economía circular para reducir desechos y proteger la justicia social",
+   "Compromisos"
+  ],
+  "texto": "**250. Reconocer el derecho a la reparación y crear un Fondo de Reparación** financiado por los productores, para prolongar la vida útil de los productos y reducir residuos."
+ },
+ {
+  "id": "psoe-0333",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "Ante incrementos de temperaturas, lluvias más torrenciales y sequías e incendios más intensos, anticiparse a los fenómenos extremos del cambio climático es la mejor forma de proteger a la población. Nuestra propuesta de Pacto de Estado frente a la Emergencia Climática sirve como hoja de ruta para hacernos más resilientes, salvar vidas y reducir daños.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0334",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "251",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**251. Crear un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos** , integrando la información meteorológica, hidrológica y de prevención y extinción de incendios forestales."
+ },
+ {
+  "id": "psoe-0335",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "252",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**252. Crear la Agencia Estatal de Protección Civil y Emergencias** para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas."
+ },
+ {
+  "id": "psoe-0336",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "253",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**253. Aprobar una Ley de Adaptación al Cambio Climático** y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento."
+ },
+ {
+  "id": "psoe-0337",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "254",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**254. Crear un Cuerpo Facultativo de Técnicos de Protección Civil** y profesionalizar los servicios de gestión de emergencias mediante equipos permanentes, formación continua, empleo estable y condiciones laborales dignas."
+ },
+ {
+  "id": "psoe-0338",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "255",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**255. Ampliar la red de refugios climáticos** para reforzar la protección de la población frente a los impactos del cambio climático."
+ },
+ {
+  "id": "psoe-0339",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "256",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**256. Impulsar la adaptación climática de viviendas y equipamientos públicos** , fomentando la rehabilitación energética y el confort térmico en hogares, centros educativos, sanitarios y espacios de trabajo vulnerables."
+ },
+ {
+  "id": "psoe-0340",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "257",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**257. Incrementar los medios aéreos y terrestres estatales para la lucha contra los incendios forestales** , continuando con la mejora de las condiciones laborales de sus efectivos."
+ },
+ {
+  "id": "psoe-0341",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "258",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**258. Impulsar la interoperabilidad de los sistemas de emergencias y alerta temprana** , incorporando tecnologías avanzadas e inteligencia artificial para anticipar riesgos y mejorar la respuesta."
+ },
+ {
+  "id": "psoe-0342",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "259",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Anticiparnos a la emergencia climática para proteger mejor"
+  ],
+  "texto": "**259. Crear un Fondo Nacional de Resiliencia Climática** para proteger a las personas, territorios y comunidades más vulnerables, especialmente en zonas rurales y litorales."
+ },
+ {
+  "id": "psoe-0343",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante"
+  ],
+  "texto": "Sequías e inundaciones cada vez más severas amenazan la seguridad de un recurso básico como es el agua. Incorporando las últimas recomendaciones científicas, mejoraremos la gestión de nuestros recursos hídricos para garantizar que el agua llegue a todos nuestros hogares, campos e industrias, con independencia de su renta, ubicación o tamaño."
+ },
+ {
+  "id": "psoe-0344",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "260",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**260. Impulsar una planificación territorial y urbana compatible con la disponibilidad de recursos hídricos** , que garantice el acceso universal al agua potable, consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables."
+ },
+ {
+  "id": "psoe-0345",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "261",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**261. Garantizar el acceso universal al agua potable** , consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables **con su blindaje en la Constitución.**"
+ },
+ {
+  "id": "psoe-0346",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "262",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**262. Adaptar la Estrategia Nacional de Resiliencia Hídrica** , que refuerce la prevención frente a inundaciones y sequías, actualizando la cartografía de zonas inundables, mejorando los sistemas de alerta temprana e incorporando estos riesgos en la planificación hidrológica. Esta estrategia deberá, además, promover la reducción del consumo de agua, incrementar la desalación y la reutilización con energías renovables e incorporar criterios de resiliencia hídrica en la contratación pública. E incentivar la digitalización del ciclo integral del agua."
+ },
+ {
+  "id": "psoe-0347",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "263",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**263. Crear bancos públicos de agua en las confederaciones hidrográficas** para mejorar la gestión, disponibilidad y reasignación de recursos hídricos, previniendo la sobreexplotación y contaminación de ríos, humedales y acuíferos."
+ },
+ {
+  "id": "psoe-0348",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "264",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**264. Modernizar los regadíos, mejorando la eficiencia hídrica y energética sin aumentar el consumo total de agua.** Para ello, se financiarán programas para la adopción de tecnologías de precisión, energías renovables y sistemas digitales."
+ },
+ {
+  "id": "psoe-0349",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "265",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**265. Impulsar soluciones basadas en la naturaleza** para la gestión del agua, aumentando la resiliencia frente a fenómenos extremos."
+ },
+ {
+  "id": "psoe-0350",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "266",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Resiliencia climática",
+   "Agua garantizada en cantidad y en calidad en un clima cambiante",
+   "Compromisos"
+  ],
+  "texto": "**266. Garantizar que los centros de datos operen con energías renovables** , reutilización del calor y un uso responsable del agua, minimizando su impacto ambiental."
+ },
+ {
+  "id": "psoe-0351",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+  ],
+  "texto": "La soberanía alimentaria empieza en suelos vivos, agua segura, mares sanos y pueblos habitados. Sin agricultores, ganaderas, pescadores, mariscadoras y pueblos vivos no hay alimento, paisaje ni país. Mantendremos la apuesta por un sector agroalimentario competitivo, resiliente y compatible con la conservación de la biodiversidad y el equilibrio de los ecosistemas."
+ },
+ {
+  "id": "psoe-0352",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "267",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**267. Defender una PAC fuerte, suficiente y orientada a quienes viven del campo, priorizando las explotaciones profesionales, familiares y de pequeña y mediana dimensión** . Asimismo, defenderemos en la UE una competencia justa, reforzando controles a las importaciones y exigiendo reciprocidad en los estándares ambientales, sanitarios y laborales."
+ },
+ {
+  "id": "psoe-0353",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "268",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**268. Aprobar un paquete de medidas para garantizar la viabilidad económica, el reconocimiento social y el papel estratégico del sector agrario.** El paquete comenzará por la aprobación de una Ley de Agricultura Familiar y Profesional y permitirá impulsar cinco objetivos:\n - a. **modernizar el sector** mediante la renovación de maquinaria y el impulso de la agricultura de precisión;\n - b. **reducir vulnerabilidades** reforzando los seguros agrarios;\n - c. incentivar la **integración cooperativa** ;\n - d. promover el **relevo generacional** , impulsando el apoyo a jóvenes, mujeres e innovación agroalimentaria\n - e. y **evitar la concentración de los terrenos fértiles** en manos de fondos de inversión."
+ },
+ {
+  "id": "psoe-0354",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "269",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**269. Promover una política nacional de bancos de tierras** , facilitando el acceso de jóvenes y nuevos agricultores a explotaciones viables y sostenibles"
+ },
+ {
+  "id": "psoe-0355",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "270",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**270. Facilitar la gestión administrativa de las explotaciones agrarias** , reduciendo cargas burocráticas y desarrollando nuevas herramientas digitales de asesoramiento que permitan simplificar la relación de agricultores y ganaderos con la administración sin menoscabar las garantías ambientales, sanitarias y laborales."
+ },
+ {
+  "id": "psoe-0356",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "271",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**271. Recompensar las prácticas de agroganadería sostenible y en particular en la ganadería extensiva y la agricultura regenerativa** . Nuestros agricultores y ganaderos prestan un servicio a la conservación y la gestión sostenible del territorio. Reconocerlo, mediante sistemas de certificación, asesoramiento y compensación, permitirá impulsar estas prácticas y favorecerá una mayor autonomía productiva. Con especial atención también a la ganadería extensiva sostenible."
+ },
+ {
+  "id": "psoe-0357",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "272",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**272.** Impulsar **un Plan de Transición Justa para una pesca y una acuicultura sostenibles** , resilientes y competitivas."
+ },
+ {
+  "id": "psoe-0358",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "273",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**273. Reforzar la financiación de la Política Pesquera Común y sus cuotas pesqueras** , garantizando un reparto justo y transparente de las cuotas pesqueras e intensificando la lucha contra la pesca ilegal y la explotación insostenible de los recursos marinos."
+ },
+ {
+  "id": "psoe-0359",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "274",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Agroganadería y pesca: fuente de riqueza y protección ambiental",
+   "Compromisos"
+  ],
+  "texto": "**274. Defender la calidad de los productos y la gastronomía española, dentro y fuera de nuestras fronteras** . Fomentaremos los canales cortos de comercialización, la venta de proximidad y la proyección de nuestra gastronomía como motor de desarrollo económico y turístico. Además, desarrollaremos una Estrategia Nacional de Alimentación Ecológica."
+ },
+ {
+  "id": "psoe-0360",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "Las personas que viven en el mundo rural en España tienen mayores dificultades para acceder a servicios y oportunidades, lo que alimenta la dinámica de despoblación. Trabajaremos para volver a dinamizar estos territorios, garantizando que poder vivir en cualquier ciudad o pueblo vuelva a ser una opción libre, viable y digna.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0361",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "275",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "**275. Garantizar el acceso a servicios básicos y soluciones de movilidad en todo el territorio** , avanzando hacia el “País de los 30 minutos” para reforzar la igualdad de oportunidades con independencia del lugar de residencia."
+ },
+ {
+  "id": "psoe-0362",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "276",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "**276. Incorporar la perspectiva rural en las leyes, presupuestos y políticas públicas** , mediante la aplicación efectiva del mecanismo de garantía rural."
+ },
+ {
+  "id": "psoe-0363",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "277",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "**277. Desarrollar un Plan de Empleo Verde Rural con perspectiva de género** , generando oportunidades laborales y fijando población en los municipios de menor tamaño."
+ },
+ {
+  "id": "psoe-0364",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "278",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "**278. Facilitar el acceso a una vivienda asequible en el medio rural** , promoviendo el alquiler para nuevos residentes, la rehabilitación de viviendas vacías y la ampliación del parque público."
+ },
+ {
+  "id": "psoe-0365",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "279",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Un mundo rural conectado y con futuro"
+  ],
+  "texto": "**279. Reforzar la innovación, el emprendimiento y las oportunidades para la juventud rural** , consolidando los Centros de Innovación Territorial y ampliando programas como Campus Rural.\n\n- **Acercar la Administración General del Estado a la ciudadanía** , descentralizando servicios y facilitando trámites y sedes administrativas fuera de las grandes ciudades."
+ },
+ {
+  "id": "psoe-0366",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "La movilidad sostenible significa aire limpio, más salud, menos ruido, menos atascos y más igualdad, sin depender de renta ni código postal. Seguiremos apostando por la transformación del modelo de transportes en España, para hacerlo más justo, eficiente y sostenible. Compromisos"
+ },
+ {
+  "id": "psoe-0367",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "280",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**280. Consolidar un sistema integrado de transporte público con financiación estable** , tarifas sencillas y asequibles, más frecuencias y mejores conexiones, facilitando su uso cotidiano por parte de toda la ciudadanía."
+ },
+ {
+  "id": "psoe-0368",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "281",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**281. Garantizar los programas de apoyo a la movilidad de los jóvenes** , manteniendo el acceso al transporte durante los periodos vacacionales y de ocio."
+ },
+ {
+  "id": "psoe-0369",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "282",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**282.** Reforzar la red ferroviaria de Cercanías, Media Distancia y corredores estratégicos, mejorando la conectividad territorial y la integración con la red europea."
+ },
+ {
+  "id": "psoe-0370",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "283",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**283. Transformar pueblos y ciudades** para favorecer los desplazamientos a pie y en bicicleta, mediante calles más accesibles, caminos escolares seguros, corredores verdes, redes ciclistas y aparcamientos para bicicletas."
+ },
+ {
+  "id": "psoe-0371",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "284",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**284. Acelerar la descarbonización del transporte de personas y mercancías** , extendiendo la infraestructura de recarga eléctrica y facilitando el acceso a vehículos de cero emisiones mediante incentivos ágiles, financiación accesible y apoyo a hogares, autónomos y empresas."
+ },
+ {
+  "id": "psoe-0372",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "285",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**285. Adaptar las infraestructuras de transporte a los efectos del cambio climático** , reforzando su resiliencia frente a fenómenos meteorológicos extremos y otros riesgos derivados de la emergencia climática."
+ },
+ {
+  "id": "psoe-0373",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "286",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Movilidad sostenible"
+  ],
+  "texto": "**286. Impulsar las Zonas de Bajas Emisiones y la movilidad sostenible en las ciudades** , promoviendo medidas eficaces para reducir las emisiones y mejorar la calidad del aire."
+ },
+ {
+  "id": "psoe-0374",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza"
+  ],
+  "texto": "Proteger la biodiversidad de nuestros entornos naturales ayuda a regular el agua, frenar la erosión, y reducir incendios e inundaciones. Invertir en reforzar la adaptación y la restauración de nuestros ecosistemas no solo es cuidar la naturaleza, es también invertir en seguridad. Proteger nuestro patrimonio natural es cuidarnos a todos."
+ },
+ {
+  "id": "psoe-0375",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "287",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**287. Impulsar la restauración y recuperación de ecosistemas degradados** , tanto marinos como terrestres, desarrollando el Plan Nacional de Restauración de la Naturaleza con mayor ambición, transparencia y financiación público-privada."
+ },
+ {
+  "id": "psoe-0376",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "288",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**288. Proteger y recuperar la biodiversidad terrestre y marina** , avanzando hacia la conservación efectiva de las especies amenazadas y de los espacios de alto valor ecológico, protegiendo al menos el 30 % de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta."
+ },
+ {
+  "id": "psoe-0377",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "289",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**289. Reforzar la protección de cetáceos y otras especies marinas vulnerables** , incorporando las mejores evidencias científicas y medidas obligatorias de reducción de la velocidad del transporte marítimo."
+ },
+ {
+  "id": "psoe-0378",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "290",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**290. Culminar la restauración de los principales espacios naturales estratégicos** , con actuaciones integrales en Doñana, el Mar Menor, la Albufera, el Delta del Ebro y las Tablas de Daimiel."
+ },
+ {
+  "id": "psoe-0379",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "291",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**291. Promover una gestión forestal sostenible y resiliente frente a los incendios** , favoreciendo bosques más diversos, saludables y adaptados al cambio climático, así como paisajes en mosaico que reduzcan el riesgo de grandes fuegos. Impulsar esta gestión requiere una aproximación múltiple: facilitar la gestión activa y sostenible de la propiedad forestal infrautilizada; fortalecer las cadenas de valor ligadas a los recursos forestales locales para incentivar la bioeconomía forestal e integrar la gestión forestal en las políticas agrarias y de desarrollo rural."
+ },
+ {
+  "id": "psoe-0380",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "292",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**292. Adaptar la gestión del litoral al cambio climático** mediante una gobernanza coordinada entre administraciones, actualizando la normativa de costas e incorporando soluciones basadas en la naturaleza compatibles con la actividad humana y la seguridad de las poblaciones costeras."
+ },
+ {
+  "id": "psoe-0381",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "293",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**293. Garantizar una ocupación responsable y sostenible del dominio público marítimo-terrestre** , reforzando la seguridad jurídica y la adaptación de los usos del litoral a los riesgos climáticos."
+ },
+ {
+  "id": "psoe-0382",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "294",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Territorio vivo y sostenible",
+   "Proteger la biodiversidad, cuidar la naturaleza",
+   "Compromisos"
+  ],
+  "texto": "**294. Impulsar un modelo de turismo sostenible y resiliente** , promoviendo la eficiencia hídrica y energética y la adaptación de los destinos a los efectos del cambio climático."
+ },
+ {
+  "id": "psoe-0383",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Protección y bienestar animal"
+  ],
+  "texto": "La protección y el bienestar animal son una cuestión de reconocimiento, avance democrático, conservación y convivencia. En los últimos años, España ha dado pasos decisivos con el reconocimiento de los animales como seres sintientes, la aprobación de la Ley de Protección de los Derechos y el Bienestar de los Animales y el refuerzo de la lucha contra el maltrato. El reto ahora es consolidar estos avances, combatir el abandono, promover la tenencia responsable y reforzar la protección de los animales más vulnerables.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0384",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "295",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Protección y bienestar animal"
+  ],
+  "texto": "**295. Garantizar tolerancia cero al maltrato** , retirando financiación pública a prácticas que lo amparen e impulsando la presencia del bienestar animal y tenencia responsable en la formación docente, los proyectos educativos de los centros."
+ },
+ {
+  "id": "psoe-0385",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "296",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Protección y bienestar animal"
+  ],
+  "texto": "**296. Avanzar en la transformación de nuestros zoológicos y parques marinos al siglo XXI** , impulsando el bienestar de los animales y reorientando sus funciones hacia recuperación, conservación, investigación y educación ambiental."
+ },
+ {
+  "id": "psoe-0386",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "297",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Protección y bienestar animal"
+  ],
+  "texto": "**297. Reforzar la protección y el cuidado a los animales de compañía.** Incorporaremos a los animales a la legislación de violencia vicaria con protocolos en violencia de género, impulsaremos una Estrategia Estatal de abandono cero con adopción responsable y facilitaremos la convivencia con animales de compañía y asistencia."
+ },
+ {
+  "id": "psoe-0387",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "298",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Protección y bienestar animal"
+  ],
+  "texto": "**298.** Incorporar **evacuación y rescate animal en protección civil ante emergencias** ."
+ },
+ {
+  "id": "psoe-0388",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "Frente a los ataques al orden multilateral, España seguirá defendiendo el mantenimiento y la profundización de los espacios de diálogo y los compromisos adoptados en la UE y en el mundo. Además, impulsaremos medidas que aseguren un papel central a la participación ciudadana, la ciencia, la coordinación institucional y la lucha contra la desinformación.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0389",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "299",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**299. Defender y profundizar el Pacto Verde Europeo** , garantizando que la simplificación administrativa no suponga una reducción de la ambición climática y ambiental y manteniendo objetivos ambiciosos de inversión en clima, biodiversidad y sostenibilidad en el presupuesto de la Unión Europea."
+ },
+ {
+  "id": "psoe-0390",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "300",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**300. Desarrollar la aplicación de la Ley de Restauración de la Naturaleza** , del Marco Europeo de Resiliencia Climática y del marco europeo de protección de los recursos hídricos, asegurando recursos adecuados para los programas europeos de adaptación, conservación y recuperación."
+ },
+ {
+  "id": "psoe-0391",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "301",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**301. Impulsar una unidad europea permanente de prevención y respuesta ante catástrofes climáticas** , reforzando la cooperación frente a incendios forestales, inundaciones y fenómenos meteorológicos extremos."
+ },
+ {
+  "id": "psoe-0392",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "302",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**302.** Promover alianzas internacionales para el abandono progresivo de los combustibles fósiles y la aprobación del tratado global contra la contaminación por plásticos."
+ },
+ {
+  "id": "psoe-0393",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "303",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**303. Crear la Agencia de Evaluación Ambiental de Proyectos y Planes** , reforzando el rigor técnico, la independencia y la calidad de las evaluaciones ambientales."
+ },
+ {
+  "id": "psoe-0394",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "304",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**304. Fortalecer la participación y la gobernanza climática.** Se ampliará la representación social y científica en los órganos de gobernanza climática, incorporando de forma estable a la comunidad científica, la juventud, las mujeres y el medio rural."
+ },
+ {
+  "id": "psoe-0395",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "305",
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "**305. Combatir la desinformación climática** , apoyando el periodismo especializado, la divulgación científica y la protección de investigadores y comunicadores."
+ },
+ {
+  "id": "psoe-0396",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Un país que combate el cambio climático y aprovecha la transición verde",
+   "Liderazgo climático"
+  ],
+  "texto": "La fuerza de la gente, la fuerza de las mujeres."
+ },
+ {
+  "id": "psoe-0397",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "España tiene una deuda histórica con las mujeres. Les debemos siglos de voz, oportunidades e igualdad arrebatados. Por eso hoy, frente a una ola reaccionaria que amenaza décadas de conquistas, reafirmamos nuestra ambición de seguir avanzando. Las mujeres vuelven a situarse en la vanguardia de la lucha democrática y su fuerza es también la que mueve al PSOE. Porque cuando las mujeres avanzan, avanza toda la sociedad.\n\nA lo largo de su historia, el PSOE ha convertido las reivindicaciones feministas en derechos y libertades que han transformado España. Desde 2018, hemos impulsado el mayor paquete de reformas en igualdad de las últimas décadas, actuando sobre tres grandes ámbitos: la igualdad en el empleo, los derechos de las mujeres y su libertad sexual y reproductiva y la lucha contra la violencia machista. De este modo, nuestro país se ha convertido en un referente internacional en políticas de igualdad y no discriminación. España ocupa el cuarto puesto de la Unión Europea en el Índice de Igualdad de Género de 2025, solo por detrás de Suecia, Francia y Dinamarca, consolidándose entre los países europeos más avanzados en igualdad."
+ },
+ {
+  "id": "psoe-0398",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "Durante estos años hemos reducido a mínimos históricos las brechas de género en el mercado de trabajo y apostado por la conciliación y la corresponsabilidad. En 2025 alcanzamos el máximo histórico de más de 10,45 millones de mujeres ocupadas, que representan ya el 47 % de la afiliación a la Seguridad Social. Hemos extendido los planes de igualdad a empresas de 50 o más personas trabajadoras y establecido registros retributivos y auditorías salariales. La brecha salarial se redujo del 21,4 % en 2018 al 15,7 % en 2023. Hemos incrementado el SMI un 66 %, lo que beneficia especialmente a las mujeres, mayoría entre quienes perciben los salarios más bajos. Hemos reconocido el derecho a la prestación por desempleo y mejorado las condiciones de las trabajadoras del hogar, poniendo fin a una discriminación histórica. Hemos creado el complemento para reducir la brecha de género en las pensiones, compensando el impacto de los cuidados en las carreras laborales. Hemos aprobado la Ley de Representación Paritaria, para garantizar una presencia equilibrada de mujeres y hombres en los órganos de decisión política, institucional y empresarial. Hemos ampliado e igualado los permisos de paternidad y maternidad, pasando de 5 a 19 semanas. Hemos impulsado el Plan Corresponsables, financiado con más de 1.000 millones de euros. Y hemos reformado e inyectado más recursos al sistema de dependencia para facilitar un reparto equilibrado de los cuidados."
+ },
+ {
+  "id": "psoe-0399",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "Hemos continuado avanzando en los derechos de las mujeres y en su libertad sexual y reproductiva. Hemos reformado la legislación para garantizar el acceso al aborto de las jóvenes de 16 y 17 años sin consentimiento paterno, reconocer nuevos derechos menstruales y reproductivos y castigar el acoso a las mujeres que acuden a clínicas de interrupción voluntaria del embarazo. Hemos reforzado las medidas contra la gestación subrogada, reconocida como una forma de violencia reproductiva, y en 2025 prohibimos la inscripción directa en el Registro Civil de los nacimientos mediante esta práctica en el extranjero. Y hemos ampliado la duración y triplicado el anticipo del Fondo de Garantía del Pago de Alimentos, de 100 a 300 euros mensuales por hijo o hija, para reforzar la protección económica frente al impago de pensiones alimenticias."
+ },
+ {
+  "id": "psoe-0400",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "Y, por último, hemos combatido con determinación la lacra de la violencia machista en todas sus formas de expresión. Con recursos y con reformas legislativas. Impulsamos la aplicación del Pacto de Estado contra la Violencia de Género en 2018 y lo renovamos en 2025, ampliándolo de 290 a 461 medidas. Hemos incorporado nuevas formas de violencia machista y destinado 1.500 millones de euros para los siguientes cinco años. Hemos superado el compromiso adquirido con la Unión Europea de crear 52 centros de atención a víctimas de violencia sexual, alcanzando los 61. Y hemos mejorado la protección económica y las indemnizaciones de los huérfanos y huérfanas de la violencia de género.\n\nSin embargo, son muchos los retos que España tiene por delante en su conquista de la igualdad efectiva entre hombres y mujeres. En primer lugar, pese a los avances en la incorporación de las mujeres al mercado laboral, persisten desigualdades estructurales que afectan a la calidad del empleo, los salarios y las oportunidades profesionales. La igualdad real no se alcanza únicamente con el reconocimiento de derechos, sino garantizando la autonomía económica de las mujeres. Combatir la feminización de la pobreza es otro de los grandes desafíos para alcanzar la igualdad efectiva."
+ },
+ {
+  "id": "psoe-0401",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "Por otro lado, la corresponsabilidad constituye también un reto estructural. Las mujeres siguen asumiendo mayoritariamente los cuidados y las tareas domésticas, con consecuencias directas sobre su autonomía económica y su desarrollo profesional. El cuidado debe reconocerse como un derecho de todas las personas y una responsabilidad colectiva, garantizando también los derechos de quienes cuidan.\n\nFinalmente, crecen nuevas formas de violencia machista: la violencia económica, la violencia sexual alimentada por una pornografía que fetichiza las agresiones contra las mujeres, la trata, la banalización de la prostitución, la violencia digital o la explotación de la capacidad reproductiva de las mujeres a través de los vientres de alquiler. Nuestro reto es que mujeres y niñas víctimas de cualquier forma de violencia de género cuenten con la protección, justicia y acompañamiento necesarios para recuperar su proyecto de vida."
+ },
+ {
+  "id": "psoe-0402",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres"
+  ],
+  "texto": "Nuestro objetivo es, en definitiva, la construcción de una sociedad de mujeres y hombres libres e iguales. Tenemos ante nosotras y nosotros el desafío de garantizar que la sociedad continúe la senda de los avances civilizatorios impulsados por el feminismo frente a la involución negacionista que se pretende instalar por parte de la derecha y la ultraderecha. Mientras ellos, allí donde gobiernan, debilitan los organismos de igualdad, recortan en la lucha contra la violencia machista, censuran los programas de coeducación y niegan el carácter estructural de la violencia contra las mujeres, los y las socialistas respondemos con más feminismo, más igualdad y más derechos.\n\nMismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza\n\nA pesar de su incorporación creciente al mercado de trabajo, las mujeres siguen concentrando la parcialidad no deseada, los salarios más bajos y las carreras laborales interrumpidas. Estas desigualdades se acumulan a lo largo de su vida, repercuten en sus prestaciones y pensiones y apuntalan la feminización de la pobreza. Por ello, nos comprometemos a continuar avanzando hacia la igualdad salarial, el empleo de calidad y la autonomía económica de las mujeres."
+ },
+ {
+  "id": "psoe-0403",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "306",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**306. Reforzar la transparencia retributiva y la igualdad salarial** , revisando categorías profesionales y complementos que infravaloran los trabajos feminizados, fortaleciendo la negociación colectiva, la Inspección de Trabajo y el cumplimiento efectivo de los planes de igualdad."
+ },
+ {
+  "id": "psoe-0404",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "307",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**307. Impulsar el acceso de las mujeres a puestos de responsabilidad y liderazgo** , eliminando barreras profesionales y favoreciendo la presencia femenina en sectores estratégicos y de mayor valor añadido."
+ },
+ {
+  "id": "psoe-0405",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "308",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**308. Combatir la parcialidad involuntaria y la precariedad laboral** , garantizando empleos estables, jornadas previsibles y protección frente a la discriminación por embarazo, maternidad o ejercicio de derechos de conciliación."
+ },
+ {
+  "id": "psoe-0406",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "309",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**309. Incorporar la perspectiva de género en la prevención de riesgos laborales** , reconociendo y previniendo los riesgos y enfermedades que afectan específicamente a las mujeres."
+ },
+ {
+  "id": "psoe-0407",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "310",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**310. Avanzar hacia la plena igualdad en ciencia e innovación** , mediante una Estrategia Nacional de Género que elimine las brechas existentes, promueva la participación de las mujeres en todos los ámbitos científicos y proteja la libertad de investigación en materia de igualdad."
+ },
+ {
+  "id": "psoe-0408",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "311",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**311.** Impulsar el liderazgo de las mujeres en la tecnología y promover una orientación académica y profesional libre de estereotipos de género, fomentando la presencia de niñas y jóvenes en disciplinas STEAM y de hombres en los sectores educativos y de cuidados."
+ },
+ {
+  "id": "psoe-0409",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "312",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**312. Reducir la brecha digital de género** , garantizando conectividad, formación y acompañamiento para mujeres mayores, rurales o en situación de vulnerabilidad."
+ },
+ {
+  "id": "psoe-0410",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "313",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**313. Reforzar la igualdad en la universidad y la investigación** , impulsando los estudios feministas, la perspectiva de género en la ciencia y una mayor presencia y visibilidad de las mujeres investigadoras."
+ },
+ {
+  "id": "psoe-0411",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "314",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**314. Impulsar una Estrategia Estatal contra la feminización de la pobreza** , reforzando la protección social, el acceso al empleo digno y el acceso prioritario a la vivienda de las mujeres en situación de vulnerabilidad, teniendo en cuenta el impacto de los cuidados sobre sus trayectorias laborales y pensiones."
+ },
+ {
+  "id": "psoe-0412",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "315",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**315. Mejorar la medición y la protección frente a la pobreza de las mujeres** , incorporando indicadores multidimensionales, abordando específicamente el sinhogarismo femenino y reforzando el complemento para reducir la brecha de género en las pensiones."
+ },
+ {
+  "id": "psoe-0413",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "316",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**316. Promover el emprendimiento femenino** , facilitando financiación, formación, acompañamiento y redes de apoyo para proyectos liderados por mujeres, especialmente en el medio rural y en la economía digital."
+ },
+ {
+  "id": "psoe-0414",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "317",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**317. Reforzar la autonomía económica de las mujeres rurales** , impulsando su participación en sectores estratégicos, promoviendo la titularidad compartida de las explotaciones agrarias, el cooperativismo femenino, el acceso a servicios y el retorno del talento al medio rural."
+ },
+ {
+  "id": "psoe-0415",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "318",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**318. Facilitar la reincorporación al empleo tras periodos dedicados a los cuidados** , mediante itinerarios de recualificación, reconocimiento de cualificaciones, formación digital, acreditación de competencias y acompañamiento hacia empleos de calidad."
+ },
+ {
+  "id": "psoe-0416",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados\n\nLas tareas domésticas y de cuidados siguen recayendo, fundamentalmente, sobre las espaldas de las mujeres. Superar esta desigualdad exige servicios públicos de cuidados suficientes y accesibles, condiciones laborales compatibles con la vida y un reparto equilibrado de las responsabilidades entre mujeres y hombres. Por ello nos comprometemos a reconocer los cuidados como un derecho social y una responsabilidad colectiva, desarrollando un sistema público de cuidados suficiente, accesible, coordinado y con cobertura en todo el territorio.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0417",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "319",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**319. Aprobar una Ley de Usos del Tiempo de Trabajo** , promoviendo horarios racionales, la reducción del tiempo de trabajo sin pérdida salarial, la desconexión digital y la conciliación sin penalizaciones profesionales."
+ },
+ {
+  "id": "psoe-0418",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "320",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**320. Crear un Indicador Nacional de Brechas de Tiempo** , que permita evaluar periódicamente la distribución de los cuidados y del tiempo entre mujeres y hombres."
+ },
+ {
+  "id": "psoe-0419",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "321",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**321. Promover la corresponsabilidad de los hombres en los cuidados y las tareas domésticas** , impulsando cambios educativos, culturales y laborales que favorezcan una participación equilibrada."
+ },
+ {
+  "id": "psoe-0420",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "322",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**322. Dignificar y reconocer el trabajo de cuidados** , reforzando la financiación de los servicios, la profesionalización del sector y la protección de los derechos de las trabajadoras del hogar y de los cuidados, así como de las cuidadoras principales igualando su remuneración al SMI."
+ },
+ {
+  "id": "psoe-0421",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "323",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**323. Reforzar los servicios de apoyo ante necesidades familiares sobrevenidas** , asegurando recursos de cuidados para situaciones de urgencia y horarios no convencionales."
+ },
+ {
+  "id": "psoe-0422",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "324",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**324. Garantizar la conciliación durante todo el año** , ampliando los recursos educativos, de ocio y de cuidados en periodos no lectivos y prestando especial atención al medio rural, las familias monoparentales y las personas dependientes."
+ },
+ {
+  "id": "psoe-0423",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "325",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**325. Ampliar y fortalecer los derechos de conciliación familiar,** mediante la retribución de los permisos parentales y por cuidados, su extensión a familias monoparentales y personas autónomas, y la mejora de las medidas de adaptación y reducción de jornada para el cuidado de menores hasta los 16 años."
+ },
+ {
+  "id": "psoe-0424",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "326",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**326. Ampliar y fortalecer los derechos de conciliación familiar** , mediante la retribución de los permisos parentales y por cuidados, adaptándolos además a familias monoparentales y personas autónomas; mejorando las medidas de adaptación y reducción de jornada para el cuidado de menores y ampliándolas hasta los 16 años"
+ },
+ {
+  "id": "psoe-0425",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género\n\nLa salud de las mujeres ha sido durante demasiado tiempo una cuestión secundaria. La investigación médica se ha construido tomando el cuerpo masculino como modelo, derivando en diagnósticos tardíos, síntomas ignorados y enfermedades poco estudiadas. Además, los derechos sexuales y reproductivos de las mujeres están en el punto de mira de la internacional reaccionaria. Esta ofensiva amenaza la libertad de las mujeres para decidir sobre sus cuerpos y sus vidas. Por ello, nos comprometemos a defender una sanidad pública que investigue con perspectiva de género y garantice el acceso efectivo a todos los derechos sexuales y reproductivos. Frente a quienes cuestionan las libertades de las mujeres, ni un paso atrás."
+ },
+ {
+  "id": "psoe-0426",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "327",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**327. Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo.** Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio frente a los intentos de retroceso."
+ },
+ {
+  "id": "psoe-0427",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "328",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**328. Garantizar el acceso efectivo a la salud sexual y reproductiva** , reforzando la educación, la prevención y la atención específica a las mujeres con discapacidad."
+ },
+ {
+  "id": "psoe-0428",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "329",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**329. Fortalecer la protección frente a la explotación reproductiva** , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción."
+ },
+ {
+  "id": "psoe-0429",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "330",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**330. Reforzar las garantías y controles en los procesos de donación de óvulos** , asegurando la protección de la salud, la dignidad y los derechos de las mujeres."
+ },
+ {
+  "id": "psoe-0430",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "331",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**331. Desarrollar una Estrategia de Salud de las Mujeres** , incorporando la perspectiva de género en la investigación, el diagnóstico y los tratamientos, con especial atención a la menopausia, la endometriosis, las enfermedades cardiovasculares, el dolor crónico y la salud mental."
+ },
+ {
+  "id": "psoe-0431",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "332",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Compromisos"
+  ],
+  "texto": "**332. Impulsar y desarrollar el trabajo del Observatorio de Salud de las Mujeres** , para detectar, evaluar y corregir los sesgos de género presentes en el sistema sanitario."
+ },
+ {
+  "id": "psoe-0432",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas"
+  ],
+  "texto": "La violencia contra las mujeres es el sostén de la desigualdad y adapta sus formas a cada avance tecnológico y social. Los gobiernos socialistas han impulsado leyes que han transformado la vida de las mujeres. Pero las cifras siguen siendo insoportables. Según una Macroencuesta de Violencia Contra la Mujer del Ministerio de Igualdad de 2024, el 12,7 % de las mujeres ha sufrido violencia física o sexual de su pareja en algún momento de su vida, y el 11 % de las madres ha dejado de cobrar alguna vez la pensión de alimentos de su expareja. La violencia económica (impago de pensiones, rentas o cuotas hipotecarias y ocultación de bienes para eludir las cargas familiares) genera situaciones de vulnerabilidad que requieren una respuesta específica. Por ello, nos comprometemos a garantizar una protección efectiva y evitar la revictimización a través de recursos especializados, respuestas coordinadas y una evaluación permanente de la actuación institucional."
+ },
+ {
+  "id": "psoe-0433",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "333",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**333. Aprobar una nueva Estrategia Estatal para combatir las Violencias Machistas** , profundizando en la prevención, protección y respuesta frente a las nuevas formas de violencia contra las mujeres."
+ },
+ {
+  "id": "psoe-0434",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "334",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**334. Desarrollar un Plan Estatal de Formación en Violencia de Género** , con formación obligatoria, continua y evaluable para operadores jurídicos, personal judicial y Fuerzas y Cuerpos de Seguridad."
+ },
+ {
+  "id": "psoe-0435",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "335",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**335.** Aprobar una **Ley Orgánica contra la Violencia Vicaria** como manifestación de la violencia de género, para garantizar la protección, prevención y atención a las víctimas."
+ },
+ {
+  "id": "psoe-0436",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "336",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**336.** Crear **unidades especializadas de atención y acompañamiento a familiares y víctimas ante los feminicidios** ."
+ },
+ {
+  "id": "psoe-0437",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "337",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**337.** Garantizar la valoración forense del riesgo en todos los juzgados de violencia sobre la mujer, mediante equipos multidisciplinares especializados."
+ },
+ {
+  "id": "psoe-0438",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "338",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**338. Ampliar la protección a los huérfanos y huérfanas de la violencia de género** , extendiendo las ayudas hasta los 26 años y reforzando los sistemas de seguimiento y evaluación."
+ },
+ {
+  "id": "psoe-0439",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "339",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**339. Reforzar la prevención, detección y actuación frente al acoso sexual y por razón de sexo en el trabajo** , garantizando protocolos efectivos, comités especializados, protección frente a represalias y atención integral a las víctimas."
+ },
+ {
+  "id": "psoe-0440",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "340",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**340. Crear una red pública de salud mental especializada en trauma complejo y violencia machista** , dirigida a mujeres, niñas, niños y adolescentes víctimas de cualquier forma de violencia de género."
+ },
+ {
+  "id": "psoe-0441",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "341",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**341. Reforzar la atención especializada a las víctimas con discapacidad y a las mujeres mayores de 65 años** , garantizando el ejercicio efectivo de sus derechos y el reconocimiento de las familias monomarentales formadas por víctimas de violencia de género y sus hijos e hijas."
+ },
+ {
+  "id": "psoe-0442",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "342",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**342. Aprobar una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional,** prohibiendo el proxenetismo en todas sus formas y reconociendo a las personas prostituidas como víctimas con plenos derechos"
+ },
+ {
+  "id": "psoe-0443",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "343",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**343. Impulsar un Programa Estatal de Liberación, Protección y Reparación** para mujeres víctimas de servidumbre por deudas en el sistema prostitucional, garantizando alojamiento seguro, apoyo económico, asistencia jurídica y psicológica, alternativas laborales y protección efectiva de sus derechos."
+ },
+ {
+  "id": "psoe-0444",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "344",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**344. Garantizar la coeducación y la educación afectivo-sexual obligatorias en todas las etapas educativas** , como herramientas fundamentales para prevenir la violencia de género y promover relaciones igualitarias."
+ },
+ {
+  "id": "psoe-0445",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "345",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**345.** Desarrollar un protocolo integral de prevención, detección y actuación frente a la violencia de género y la violencia vicaria en el ámbito educativo, reforzando la formación del profesorado y la coordinación con los servicios especializados."
+ },
+ {
+  "id": "psoe-0446",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "346",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**346. Incorporar la agravante de género en los delitos económicos** , cuando la víctima sea la esposa, exesposa o mujer con la que exista o haya existido una relación de pareja."
+ },
+ {
+  "id": "psoe-0447",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "347",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "El negacionismo mata: por una sociedad libre de violencias machistas",
+   "Compromisos"
+  ],
+  "texto": "**347.** Crear un registro público de deudores por impago de pensiones de alimentos, alquileres o cuotas hipotecarias vinculadas a la vivienda familiar."
+ },
+ {
+  "id": "psoe-0448",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "El espacio social y de convivencia se ha extendido al entorno digital y ocupa un lugar central en nuestras vidas. Las tecnologías ofrecen nuevas oportunidades, pero también reproducen y amplifican las desigualdades que sufren las mujeres. La violencia digital, incluida en el último Pacto de Estado, es el conjunto de agresiones sexuales, psicológicas y sociales que se ejercen a través de las redes sociales, la mensajería, el correo electrónico y la inteligencia artificial. Su objetivo es silenciar, controlar y humillar a las mujeres y expulsarlas del nuevo espacio público. Nos comprometemos a garantizar un entorno digital seguro, democrático y libre de violencia, que proteja los derechos de las mujeres y su participación en igualdad. Compromisos"
+ },
+ {
+  "id": "psoe-0449",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "348",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**348. Combatir la violencia sexual digital y el acoso, vigilancia y control digital contra las mujeres.** Reforzaremos la prevención, persecución y reparación frente a los _deepfakes_ sexuales, la difusión no consentida de imágenes íntimas, la pornovenganza, la difusión de agresiones sexuales y las nuevas formas de explotación sexual a través de plataformas digitales. Y pondremos coto a la geolocalización abusiva, el uso de software espía, la suplantación de identidad, la difusión de datos personales y las campañas organizadas de hostigamiento en redes sociales."
+ },
+ {
+  "id": "psoe-0450",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "349",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**349. Tipificar como delito específico la creación y difusión de _deepfakes_ sexuales** , adaptando el Código Penal a los desafíos planteados por la inteligencia artificial generativa."
+ },
+ {
+  "id": "psoe-0451",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "350",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**350. Incorporar las violencias digitales a la Ley Integral contra la Violencia de Género** , ampliando su alcance más allá de la pareja o expareja y actualizando los protocolos de atención frente al acoso en redes, la difusión de imágenes sin consentimiento, la suplantación de identidad y el control digital."
+ },
+ {
+  "id": "psoe-0452",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "351",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**351. Transponer plenamente la Directiva Europea contra la violencia hacia las mujeres** , reforzando la persecución del ciberacoso, el ciberacecho, la difusión de imágenes íntimas y la incitación al odio y la violencia en línea."
+ },
+ {
+  "id": "psoe-0453",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "352",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**352. Establecer medidas cautelares y penas digitales** , incluyendo la prohibición de acceso a redes sociales y servicios de mensajería utilizados para delinquir, así como órdenes de alejamiento digital."
+ },
+ {
+  "id": "psoe-0454",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "353",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**353.** Extender el modelo abolicionista a la explotación sexual en entornos digitales y combatir el proxenetismo digital y las nuevas formas de explotación sexual en internet, sancionando a las plataformas que obtienen beneficios de estas prácticas y reforzando la protección de las víctimas."
+ },
+ {
+  "id": "psoe-0455",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "354",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**354. Garantizar que la inteligencia artificial y los algoritmos respeten la igualdad entre mujeres y hombres** , previniendo sesgos discriminatorios en ámbitos como el empleo, la contratación, el acceso al crédito y los servicios públicos."
+ },
+ {
+  "id": "psoe-0456",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "355",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**355. Exigir una mayor responsabilidad a las plataformas digitales** , garantizando la retirada inmediata de contenidos íntimos difundidos sin consentimiento y sancionando la difusión o monetización de la violencia digital machista."
+ },
+ {
+  "id": "psoe-0457",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "356",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**356. Combatir la difusión de estereotipos de género y la hipersexualización en los entornos digitales** , protegiendo especialmente a niñas y adolescentes frente a los impactos sobre su salud mental, autoestima y bienestar."
+ },
+ {
+  "id": "psoe-0458",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "357",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**357. Garantizar una publicidad digital responsable** , evitando la financiación de contenidos que promuevan el odio o la discriminación contra las mujeres."
+ },
+ {
+  "id": "psoe-0459",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "358",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**358. Reforzar la protección de niñas y adolescentes en los entornos digitales** , restringiendo los algoritmos adictivos y exigiendo transparencia sobre los contenidos manipulados mediante filtros o inteligencia artificial."
+ },
+ {
+  "id": "psoe-0460",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "359",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**359.** Apoyar los litigios estratégicos contra las violencias digitales, fortaleciendo la protección jurídica de las víctimas."
+ },
+ {
+  "id": "psoe-0461",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "360",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+  ],
+  "texto": "**360. Incorporar la violencia digital a las estadísticas oficiales,** mejorando su medición y seguimiento en los sistemas públicos de información."
+ },
+ {
+  "id": "psoe-0462",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "La violencia política contra las mujeres constituye una amenaza para la igualdad y para la calidad de nuestra democracia. El acoso, las amenazas, los ataques sexistas y las campañas de desinformación buscan silenciar a quienes participan en la vida pública y limitar la presencia de las mujeres en los espacios de representación y debate. La violencia y la ciberviolencia deben abordarse como una cuestión estructural de igualdad y democracia, y no como una suma de episodios aislados. Por ello, nos comprometemos a reforzar los mecanismos de prevención, protección y respuesta, para que ninguna mujer tenga que elegir entre su seguridad y su participación en la vida pública.\n\nCompromisos"
+ },
+ {
+  "id": "psoe-0463",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "361",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "**361. Crear un Cuerpo Superior de Especialistas en Políticas de Igualdad** en la Administración General del Estado, garantizando una aplicación profesional, estable y transversal de las políticas de igualdad."
+ },
+ {
+  "id": "psoe-0464",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "362",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "**362. Crear un Observatorio sobre Violencia Política contra las Mujeres y Desinformación de Género,** para investigar, analizar y prevenir estas formas de violencia."
+ },
+ {
+  "id": "psoe-0465",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "363",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "**363.** Reforzar la protección de las mujeres con presencia pública (periodistas, representantes políticas, activistas y creadoras de contenido) frente al odio y el silenciamiento digital, garantizando asesoramiento jurídico, apoyo psicológico, acompañamiento especializado y mecanismos eficaces frente al acoso y la violencia digital, al tiempo que se facilita la identificación de los autores de conductas delictivas en redes y plataformas digitales."
+ },
+ {
+  "id": "psoe-0466",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "364",
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "**364. Reforzar el seguimiento y cumplimiento de la Ley de Paridad** , mediante la elaboración de informes públicos periódicos sobre la representación equilibrada de mujeres y hombres en los ámbitos político, económico e institucional."
+ },
+ {
+  "id": "psoe-0467",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "La fuerza de la gente, la fuerza de las mujeres",
+   "Igualdad en las instituciones, voz en la vida pública"
+  ],
+  "texto": "Calidad democrática, convivencia y derechos."
+ },
+ {
+  "id": "psoe-0468",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Calidad democrática, convivencia y derechos"
+  ],
+  "texto": "Según los principales índices internacionales, España es hoy una de las democracias más sólidas y consolidadas del mundo. Y ese logro importa ahora más que nunca, porque la democracia tal y como la conocemos se encuentra amenazada. En muchas de las principales potencias ya gobierna una ultraderecha que se alimenta del malestar de nuestro tiempo, siembra el odio entre la gente y multiplica los bulos en las redes sociales, contando para ello con el respaldo de las élites económicas y los tecnooligarcas. Ante desafíos tan complejos como la migración, la emergencia climática, la guerra o la revolución digital, la ultraderecha siempre ha ofrecido las respuestas más cobardes: levantar muros, señalar al diferente y recortar libertades.\n\nEspaña no es ajena a esta ola reaccionaria. También aquí se cuestionan consensos que creíamos asentados, desde la igualdad entre mujeres y hombres, hasta los derechos de las personas LGTBI o la convivencia en la diversidad. Ante esto, la derecha tradicional, en lugar de levantar un dique frente a la ultraderecha, ha decidido copiar sus ideas y sus formas, convencida de que el miedo y la crispación le darán los votos que necesita para gobernar."
+ },
+ {
+  "id": "psoe-0469",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Calidad democrática, convivencia y derechos"
+  ],
+  "texto": "Pero se equivoca. Desde 2018, el Gobierno progresista ha demostrado que la mejor respuesta al odio es más democracia, más derechos y más libertades. También en el mundo, donde hemos situado a España en el lado correcto de la historia: con Ucrania frente a Putin, con el reconocimiento del Estado de Palestina y con la defensa de la paz en Gaza, y sin aceptar el 5 % del PIB en gasto militar, porque la seguridad de Europa no puede construirse a costa de nuestro Estado del bienestar.\n\nHemos conseguido alcanzar una democracia más fuerte y más limpia. Renovamos el Consejo General del Poder Judicial tras más de cinco años de bloqueo del PP, protegimos a quienes denuncian la corrupción y aprobamos la reforma del artículo 49, la primera reforma social de nuestra Constitución.\n\nHemos ampliado derechos y libertades. España es hoy el país europeo más avanzado en derechos LGTBI, según el Rainbow Map 2026 de ILGA-Europe. Hemos aprobado la Ley Zerolo y la Ley de Paridad. Y la cultura cuenta hoy con la mayor inversión de la democracia."
+ },
+ {
+  "id": "psoe-0470",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Calidad democrática, convivencia y derechos"
+  ],
+  "texto": "Hemos reforzado la convivencia y la seguridad. Contamos con las mayores plantillas de Policía Nacional y Guardia Civil de nuestra historia, España sigue entre los países más seguros de su entorno y hemos ampliado las vías para una migración humanitaria, ordenada, legal y segura.\n\nY hemos puesto las instituciones al servicio de la gente. Los Tribunales de Instancia han sustituido a los juzgados del siglo XIX, la reforma laboral ha hecho del contrato indefinido la norma para la juventud y Mi Carpeta Ciudadana acerca la Administración a millones de personas. Pero aún queda mucho por hacer."
+ },
+ {
+  "id": "psoe-0471",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+  ],
+  "texto": "La Constitución de 1978 ha sido el gran pacto de convivencia que ha hecho posible el periodo más largo de libertad, estabilidad y progreso de nuestra historia. Casi cincuenta años después, España necesita actualizarla para proteger mejor los derechos de la ciudadanía y asegurar que lo conquistado no tenga marcha atrás, gobierne quien gobierne. En 2024 ya dimos un paso importante con la reforma del artículo 49, que eliminó el término “disminuidos” y reconoció los derechos de las personas con discapacidad. Los socialistas proponemos avanzar con nuevas reformas acordadas que refuercen el carácter social de la Constitución y amplíen los derechos fundamentales.\n\nPor ello, impulsaremos las reformas necesarias para adaptar nuestra Constitución a las demandas de nuestro tiempo."
+ },
+ {
+  "id": "psoe-0472",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "365",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**365. Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC** , garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada."
+ },
+ {
+  "id": "psoe-0473",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "366",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**366. Reforzar la garantía constitucional de los derechos sociales** , avanzando en la protección efectiva como derechos fundamentales de la salud y la vivienda"
+ },
+ {
+  "id": "psoe-0474",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "367",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**367.** Reconocer constitucionalmente el derecho a la seguridad climática y el acceso al agua potable."
+ },
+ {
+  "id": "psoe-0475",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "368",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**368. Blindar los principales avances en derechos y libertades civiles** , garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia **.**"
+ },
+ {
+  "id": "psoe-0476",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "369",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**369. Profundizar en el reconocimiento pleno de los derechos de las personas con discapacidad** , consolidando la actualización constitucional iniciada con la reforma del artículo 49."
+ },
+ {
+  "id": "psoe-0477",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "370",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**370. Incluir en el código civil la figura de la unión de amistad.** Crearemos una nueva figura jurídica de unión de amistad que dotará de un amparo legal a aquellas situaciones en las que personas unidas por un vínculo de amistad o compañerismo deciden asumir un compromiso mutuo de cuidados. La constitución de esta unión permitirá desplegar beneficios para quienes formen parte de ellos. Reconocemos otras formas de convivencia y de cuidados: porque también es familia la que elegimos."
+ },
+ {
+  "id": "psoe-0478",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "371",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**371. Crear un escaño ciudadano en el Congreso y en el Senado** , sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular."
+ },
+ {
+  "id": "psoe-0479",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "372",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**372. Impulsar la participación juvenil y la profundización democrática** , rebajando la edad de voto a los 16 años, fortaleciendo los consejos de juventud y ampliando los mecanismos de participación ciudadana en las decisiones públicas."
+ },
+ {
+  "id": "psoe-0480",
+  "partido": "psoe",
+  "tipo": "medida",
+  "numero": "373",
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos",
+   "Compromisos"
+  ],
+  "texto": "**373.** Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo."
+ },
+ {
+  "id": "psoe-0481",
+  "partido": "psoe",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Calidad democrática, convivencia y derechos",
+   "Juventud"
+  ],
+  "texto": "El Gobierno progresista ha impulsado avances en derechos y oportunidades para la juventud. La reforma laboral ha reforzado la estabilidad en el empleo, favoreciendo la contratación indefinida y limitando el abuso de la temporalidad. El aumento de las becas y las ayudas de residencia y la ampliación de la Formación Profesional han contribuido a reducir las barreras económicas para estudiar.\n\nPero persisten muchos retos: el encarecimiento de la vivienda, la precariedad laboral y la insuficiencia de los ingresos dificultan la emancipación y obligan a aplazar los proyectos de vida de la juventud. Persisten barreras económicas y territoriales en la educación y dificultades para recibir una atención adecuada en salud mental. A estos obstáculos materiales se añade la expansión de la desinformación, los discursos de odio y la discriminación digital, que debilitan la igualdad de derechos y la convivencia democrática. Compromisos"
+ }
+]

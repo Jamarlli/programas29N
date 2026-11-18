@@ -1,0 +1,2331 @@
+[
+ {
+  "id": "salf-0001",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Diagnóstico: 22 ministerios, 823 altos cargos y 1.255 asesores en el Gobierno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0002",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Datos del Gobierno actual: 35 secretarías de Estado y 452 entes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0003",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Pasar de 22 a 10 ministerios y reducir a la mitad los altos cargos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0004",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Una única vicepresidencia económica: Hacienda, Economía y Empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0005",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Presidencia y Administraciones Públicas que absorbe Función Pública y Política Territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0006",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Hacienda, Economía y Empleo que absorbe Trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0007",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Interior y Justicia que absorbe Migraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0008",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Defensa con Fuerzas Armadas e industria de defensa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0009",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Asuntos Exteriores con UE y cooperación condicionada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0010",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Sanidad y Seguridad Social que absorbe Derechos Sociales y Consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0011",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Educación, Ciencia y Cultura que absorbe Universidades, Deportes y Juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0012",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Infraestructuras, Energía e Industria que absorbe Transportes y Turismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0013",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Vivienda con suelo, licencias, Sareb y vivienda en propiedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0014",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ministerio de Agricultura, Pesca y Alimentación para campo, mar y mundo rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0015",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Recortar altos cargos a 450 y asesores a 400: ahorro mínimo de 300 M€",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0016",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "vivienda-okupacion-desahucios",
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Primera vivienda un 35 % más barata y okupa fuera en 48 horas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0017",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Macrocárcel sin tercer grado para corruptos y criminales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0018",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Nadie pagará IRPF por los primeros 35.000 euros",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0019",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Inmigración solo legal, expulsión en 48 horas y paralización desde países no colaboradores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0020",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reforma urgente del sistema de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0021",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-listas-espera",
+   "san-profesionales"
+  ],
+  "titular": "Central de compras sanitaria, 60 días para operarse y sueldos europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0022",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Corrupción imprescriptible, sin tercer grado, devolución del triple y 15 % al denunciante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0023",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "imp-irpf",
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Cuña fiscal al 29 %, contrato único y cuota cero de autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0024",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Ley educativa de 20 años, castellano garantizado y el dinero sigue al alumno",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "espanol"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0025",
+  "subtema": "ext-ue",
+  "otros": [
+   "ext-conflictos",
+   "seg-terrorismo"
+  ],
+  "titular": "Referéndum de renegociación europea y bloqueo comercial a Marruecos si bloquea un puerto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0026",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Bloquear el sueldo público del candidato hasta verificar en 2030 el cumplimiento del programa",
+  "ejes": [],
+  "nota": "SIN ENCAJE: compromisos de cumplimiento del programa y rendición de cuentas electoral"
+ },
+ {
+  "id": "salf-0027",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Primera casa un 35 % más barata y okupa fuera en 48 horas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0028",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Primera vivienda un 35 % más barata: ITP y AJD al 0 %",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0029",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Ley de neutralidad: la recaudación por vivienda no crecerá más que el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0030",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Desalojo de okupas en 48 horas e inquiokupas en 30 días",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0031",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Suelo de la Sareb y del Estado gratis para vivienda protegida en propiedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0032",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Licencia de obra en un mes o silencio positivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0033",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Tributación al 25 % de las SOCIMI con más de 100 viviendas en alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0034",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Aval público del 20 % de la entrada para menores de 40 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0035",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Seguro público de impago con doce meses de renta garantizados al propietario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0036",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Licencia automática en 15 días para vivienda industrializada y 150.000 viviendas al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0037",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Eliminar por completo el IBI para todos, sin compensaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0038",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Lema: Hacienda, el casero más caro de España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0039",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Diagnóstico: 376 asesinatos y 21.659 agresiones sexuales en 2025",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0040",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Macrocárcel de máxima seguridad para asesinos, violadores, narcos y corruptos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0041",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Cumplimiento íntegro de penas y prisión permanente revisable por violación a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0042",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Registro público de agresores sexuales reincidentes y castración química voluntaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0043",
+  "subtema": "seg-penal",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Extranjeros condenados cumplirán la pena en terceros países, con veto de entrada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0044",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Equiparar el sueldo de Guardia Civil y Policía con los Mossos en dos años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0045",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Plan Estrecho: la Armada contra el narco y 180 M€ en medios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0046",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Mili voluntaria de seis a doce meses pagada con 1.600 euros al mes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0047",
+  "subtema": "seg-defensa",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Mínimo exento de IRPF de 50.000 euros diez años tras la mili",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0048",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "2.000 jueces y 1.500 fiscales más y juicios rápidos en 72 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0049",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Presunción de legítima defensa en casa o negocio, también con armas de fuego",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Ampliar la legítima defensa y el acceso a armas para defender el domicilio? → sí"
+ },
+ {
+  "id": "salf-0050",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Policía judicial dependiente del juez y delito de injerencia política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0051",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Triplicar la UCO, la UDEF y la UDYCO con 3.000 investigadores más",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0052",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Protección penal reforzada y nuevo estatuto para los vigilantes de seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0053",
+  "subtema": "seg-policia",
+  "otros": [
+   "trab-contratos-despido",
+   "trab-pensiones"
+  ],
+  "titular": "Contratos públicos de vigilancia no inferiores al convenio y jubilación a los 60",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0054",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Lema: todo para el honrado, cárcel para el delincuente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0055",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Libertad económica: nadie paga IRPF por los primeros 35.000 euros",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0056",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Mínimo exento de IRPF de 35.000 euros para todos en 2030",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0057",
+  "subtema": "imp-irpf",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Sumar 5.000 euros al mínimo exento por cada hijo y progenitor",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0058",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Actualizar cada año con el IPC la tarifa, mínimos y deducciones del IRPF",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0059",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Eliminar para siempre la cuota de autónomos e implantar el IVA de caja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0060",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Sociedades al 20 %, 15 % si se reinvierte y 10 % para startups",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0061",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto a las grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "suprimir-bajar"
+   },
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "suprimir-bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0062",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA de la luz y el agua al 4 % y sin impuesto eléctrico",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0063",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Regla de oro: cada rebaja con ahorro certificado y déficit cero en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0064",
+  "subtema": "imp-fraude",
+  "otros": [
+   "imp-modelo"
+  ],
+  "titular": "Carga de la prueba para Hacienda y renta en una página",
+  "ejes": [],
+  "nota": "SIN ENCAJE: derechos del contribuyente y relación con Hacienda"
+ },
+ {
+  "id": "salf-0065",
+  "subtema": "imp-modelo",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Exigir tres quintos del Congreso para subir impuestos y factura fiscal anual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0066",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Financiación autonómica con criterios iguales y sin condonaciones de deuda salvo catástrofe",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0067",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-gasto-deuda",
+   "inst-constitucion"
+  ],
+  "titular": "Techo constitucional a la presión fiscal y a la deuda, con delito por superarlo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0068",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Defensa del derecho al dinero en efectivo",
+  "ejes": [],
+  "nota": "SIN ENCAJE: dinero en efectivo, límites de pago y euro digital"
+ },
+ {
+  "id": "salf-0069",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "El efectivo como derecho constitucional, sin límite de importe para pagar",
+  "ejes": [],
+  "nota": "SIN ENCAJE: dinero en efectivo, límites de pago y euro digital"
+ },
+ {
+  "id": "salf-0070",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Ley de Devolución del Rescate: la banca pagará 4.700 M€ al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0071",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Lema contra que el Estado se quede más de la mitad del dinero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0072",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-local",
+   "ext-cooperacion"
+  ],
+  "titular": "Cómo se paga: 88.500 M€ de ahorro frente a 81.700 de rebaja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0073",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Regla de oro: un euro de rebaja, un euro de ahorro certificado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0074",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Inmigración solo legal y expulsión en 48 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0075",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Ejecutar las órdenes de expulsión en 48 horas, con internamiento hasta la salida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0076",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0077",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Sin ayudas ni visados a países que no readmitan en 72 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0078",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Moratoria a la inmigración de países no colaboradores y visados con contrato y cupo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0079",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Cupos preferentes para Hispanoamérica y nacionalidad con diez años de residencia y examen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0080",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Pérdida de la residencia por condena de más de un año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0081",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Prueba de edad obligatoria antes de entrar en un centro de menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0082",
+  "subtema": "seg-terrorismo",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Ilegalizar a los Hermanos Musulmanes y prohibir la financiación extranjera del culto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0083",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Prohibir el burka y el niqab en el espacio público",
+  "ejes": [
+   {
+    "eje": "eje-burka",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0084",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Sin prestaciones ni vivienda pública sin cinco años de residencia legal y cotización",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0085",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Lema: un país sin fronteras es como una casa sin paredes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0086",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensiones actuales blindadas y las futuras en una cuenta a tu nombre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0087",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Blindar en la Constitución la revalorización de las pensiones con el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0088",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Sobre naranja: carta anual con la pensión estimada y el saldo individual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0089",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Sistema mixto: 2 % del salario a una cuenta individual heredable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0090",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Mochila austriaca: 1,53 % del salario a cargo de la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0091",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación activa cobrando toda la pensión y libre con 40 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0092",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensión mínima de 1.000 euros con 35 años cotizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0093",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Suprimir el complemento de pensión parlamentaria y los privilegios vitalicios de expresidentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0094",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Fondo de Reserva como fondo soberano con gestión independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0095",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Libertad de base de cotización para los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0096",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Publicar cotizaciones y transferencias del Estado con cada nómina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0097",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Lema: pedir poder ahorrar para el futuro sin ser estafados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0098",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Sanidad: central de compras, 60 días para operarse y sueldos europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0099",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Una única central de compras sanitarias con ahorro del 15 % para personal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0100",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Cirugía en 60 días o en el centro elegido, también privado, a cargo público",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0101",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Subida del 20 % a los médicos y del 10 % a enfermería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0102",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Tarjeta sanitaria, historia clínica y receta únicas en toda España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0103",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Añadir 10.000 camas y 1.500 UCI en la legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0104",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Cita con el médico en 48 horas o consulta privada pagada por el sistema",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0105",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Tarjeta sanitaria solo para españoles y residentes legales con cotización",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0106",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Subasta nacional de genéricos y copago cero para pensiones mínimas y crónicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0107",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Medicamentos gratis para los menores de 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0108",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Un psicólogo clínico por cada 10.000 habitantes y atención en 15 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0109",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Gerentes de hospital por concurso de méritos y resultados públicos en tiempo real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0110",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Test de paternidad gratuito al nacer, salvo renuncia de ambos progenitores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0111",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Lema: con lo que se pierde comprando se pagan los médicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0112",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Diagnóstico: 234 indultos por corrupción y 17.621 aforados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0113",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Delitos de corrupción de cargos públicos imprescriptibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0114",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Modelo de macrocárcel: sin permisos ni ocio y 100 % trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0115",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-independencia-judicial"
+  ],
+  "titular": "Cumplimiento íntegro y prohibición de indulto para condenados por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0116",
+  "subtema": "seg-independencia-judicial",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Prohibir las amnistías en la Constitución y limitar el uso político del indulto",
+  "ejes": [
+   {
+    "eje": "eje-amnistia",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0117",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Responsabilidad civil del triple y decomiso del patrimonio no justificado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0118",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "El 15 % de lo recuperado para quien denuncie la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0119",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Fiscal General elegido por tres quintos del Congreso entre fiscales veteranos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0120",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Fiscalía Anticorrupción con 100 fiscales y el doble de plantilla en el SEPBLAC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0121",
+  "subtema": "seg-independencia-judicial",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Suprimir el Tribunal Constitucional y pasar su control a una sala del Supremo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0122",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "CGPJ elegido por jueces y delito dar instrucciones a un juez",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0123",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar la acción popular en la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0124",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Fin de los 17.621 aforamientos mediante reforma constitucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0125",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Cinco años de incompatibilidad para las puertas giratorias, también hacia órganos de control",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0126",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Contratación pública electrónica con plataforma única y subasta inversa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0127",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Publicar en 24 horas todo gasto público superior a 1.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0128",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Límite de 15 años en cargos públicos y supresión del Senado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0129",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Lema: la peor corrupción es hoy legal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0130",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Diagnóstico: 2,59 millones de parados y cuña fiscal del 41,4 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0131",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Bajar la cuña fiscal al 29 % y cotización cero en el salario mínimo",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0132",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Contrato único indefinido con indemnización creciente de 12 a 33 días y mochila",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0133",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Cuota cero para autónomos, IVA de caja y licencia de actividad en 24 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0134",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Alta de las mutuas a los 15 días en bajas por contingencias comunes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0135",
+  "subtema": "trab-empleo",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "FP dual pagada y cotización cero para contratar a jóvenes y mayores de 50",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0136",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Por cada nueva regulación para empresas, derogar dos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0137",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "La Seguridad Social pagará las bajas desde el primer día, no la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0138",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Contar como parados a los fijos discontinuos cuando no trabajan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0139",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Oposiciones anónimas y digitales con tribunales sorteados y grabados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0140",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Fin de la prestación tras rechazar dos ofertas y complemento salarial con el IMV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0141",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Lema: trabajar tiene que salir a cuenta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0142",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: caída en matemáticas, lectura y ciencias y 12,8 % de abandono",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0143",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Ley educativa por dos tercios para 20 años y selectividad única en castellano",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "espanol"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0144",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Derecho exigible a la enseñanza en castellano en toda España",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "espanol"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0145",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "MIR docente: dos años de prácticas remuneradas y examen nacional de acceso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0146",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Profesor como autoridad pública y un 10 % más de sueldo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0147",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-fp",
+   "edu-escuela"
+  ],
+  "titular": "FP desde los 15, tutor para alumnos en riesgo y fin del aprobado automático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0148",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Cheque escolar válido en la pública, la concertada y la privada",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0149",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Contenidos fijados por un Consejo Académico independiente y neutralidad ideológica en el aula",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0150",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Temario común de Historia de España y Economía y Constitución obligatorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0151",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Beca-salario de 2.000 euros para FP superior en sectores con déficit",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0152",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "5.000 auxiliares nativos más y certificación B2 de inglés pagada por el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0153",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Lema: el Estado no es dueño de tus hijos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0154",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "España primero: ni Bruselas, ni Rabat, ni los Hermanos Musulmanes deciden",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0155",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Referéndum de renegociación europea y, si Bruselas se niega, otro de salida",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Seguir en la Unión Europea? → referéndum de salida si no se renegocia"
+ },
+ {
+  "id": "salf-0156",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Vetar Mercosur, el recorte de la PAC y el Pacto Verde",
+  "ejes": [
+   {
+    "eje": "eje-mercosur",
+    "posicion": "rechazar"
+   },
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "frenar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "salf-0157",
+  "subtema": "seg-terrorismo",
+  "otros": [],
+  "titular": "Ley antiterrorista con penas máximas por pertenecer a los Hermanos Musulmanes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0158",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "inst-ceuta-melilla"
+  ],
+  "titular": "Bloqueo comercial total a Marruecos si bloquea un puerto español",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0159",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [
+   "imp-irpf",
+   "imp-sociedades"
+  ],
+  "titular": "Ceuta y Melilla plaza franca: 0 % de IRPF, Sociedades y cotizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0160",
+  "subtema": "imp-irpf",
+  "otros": [
+   "rural-despoblacion",
+   "infra-corredores-puertos"
+  ],
+  "titular": "Deducción de 1.000 euros de IRPF para residentes en Canarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0161",
+  "subtema": "seg-defensa",
+  "otros": [
+   "inst-ceuta-melilla"
+  ],
+  "titular": "5.000 militares más en Ceuta y Melilla y defensa antiaérea y antidrón en Canarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0162",
+  "subtema": "seg-defensa",
+  "otros": [
+   "inst-ceuta-melilla"
+  ],
+  "titular": "Duplicar el plus de residencia en Canarias, Ceuta y Melilla, exento de IRPF",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0163",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Negociar con Londres la cosoberanía de Gibraltar y el fin del paraíso fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0164",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Retirar la carta sobre el Sáhara y recuperar la relación con Argelia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sáhara Occidental: plan de autonomía marroquí o referéndum de autodeterminación? → retirar el apoyo al plan marroquí y volver a la posición de la ONU"
+ },
+ {
+  "id": "salf-0165",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Comunidad Hispánica de naciones con libre comercio y cupos preferentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0166",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "El 2 % de defensa, en industria nacional y en sueldos militares equiparados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0167",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-ciberseguridad"
+  ],
+  "titular": "Registro de agentes extranjeros y prohibición de la financiación extranjera de partidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "salf-0168",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cortar la ayuda al desarrollo salvo emergencias o programas con readmisión",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Aumentar la ayuda oficial al desarrollo? → recortarla y condicionarla"
+ },
+ {
+  "id": "salf-0169",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Lema: la capacidad de defensa ante agresiones externas como prioridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0001",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "La vivienda como derecho humano y nunca como activo financiero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0002",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Garantizar el derecho a la vivienda con políticas públicas ambiciosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0003",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Objetivos: vivienda asequible, parque público, menos especulación y fin del sinhogarismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0004",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Que tener un hogar no dependa de la suerte ni del patrimonio familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0005",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Parque social de alquiler del 5 % en 2030: 1,35 millones de viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0006",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Hoja de ruta: 10.000-15.000 M€ estatales al año para el parque social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0007",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Calificación permanente de la vivienda protegida y prohibición de venderla a empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0008",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Movilizar edificios públicos infrautilizados y prohibir la venta de suelo público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0009",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Alquiler de referencia con precio limitado y contratos indefinidos",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0010",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Seguro público de alquiler y compensaciones para pequeñas propietarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0011",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Simplificar trámites y flexibilizar el Código Técnico para facilitar la construcción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0012",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Movilizar la vivienda vacía con incentivos, penalización fiscal y un censo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0013",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Impuesto exponencial según el número de viviendas compradas y recargo a compradores extranjeros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0014",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Agencia Pública de Información y Protección de la persona inquilina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0015",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Unir vivienda y urbanismo y desarrollo público de parcelas fuera de plazo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0016",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Suspender los desahucios de personas vulnerables sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0017",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Meta: parque social del 5 % y 1,35 millones de viviendas en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0018",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Meta: parque social del 10 % en 2035",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0019",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Meta: alquiler social nunca superior al 30 % de la renta familiar en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0020",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Oxfam Intermón y Red FACIAM",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0021",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Diversidad como riqueza: mediación, educación para la paz y justicia restaurativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0022",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Pacto de Estado contra los discursos de odio y reconocer la aporofobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0023",
+  "subtema": "igu-racismo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Plan Nacional contra el Racismo, la islamofobia, el antisemitismo y el antigitanismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0024",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Más recursos para educar en derechos humanos, cultura de paz y mediación escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0025",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Fondo Estatal para la integración y convivencia de menores migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0026",
+  "subtema": "igu-memoria",
+  "otros": [
+   "seg-terrorismo"
+  ],
+  "titular": "Red Pública de Memoria, Reparación y Justicia Restaurativa para víctimas de violencias políticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0027",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Meta: reducir un 25 % los delitos de odio en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0028",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Meta: Plan Nacional contra el Racismo aprobado con presupuesto propio en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0029",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Meta: Red Pública de Memoria en todas las comunidades autónomas en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0030",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Las personas mayores merecen envejecer con derechos y donde elijan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0031",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Ley Marco Estatal de Derechos de las Personas Mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0032",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Plan Estatal de Empleo Sénior para mayores de 50 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0033",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Reformar la Ley de Segunda Oportunidad para exonerar también deudas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0034",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Derecho a elegir cómo vivir en la vejez: cohousing y residencias pequeñas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0035",
+  "subtema": "fam-mayores",
+  "otros": [
+   "san-prestaciones"
+  ],
+  "titular": "Modelo integral de atención sanitaria especializada para las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0036",
+  "subtema": "fam-mayores",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Control público de los servicios a mayores y prioridad a la gestión pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0037",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Meta: lista de espera de la dependencia a cero en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0038",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Meta: resolver la dependencia en 90 días como máximo en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0039",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Meta: Plan Estatal de Empleo Sénior aprobado en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0040",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Plataforma del Tercer Sector",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0041",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "La infancia tiene derechos propios y su pobreza es fruto de decisiones políticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0042",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permisos por nacimiento de 24 semanas por progenitor y 40 en monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0043",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Ley Orgánica de universalización de la Atención Temprana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0044",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Dotar de recursos la plena aplicación de la LOPIVI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0045",
+  "subtema": "fam-infancia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Justicia especializada y modelo Barnahus para la infancia víctima de violencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0046",
+  "subtema": "fam-infancia",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Erradicar la pobreza infantil y comedor escolar gratuito para alumnado vulnerable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0047",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Prestación universal y progresiva para todos los hogares con criaturas a cargo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0048",
+  "subtema": "fam-infancia",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Prioridad de las familias con menores en vivienda pública y evitar sus desalojos",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0049",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Ley Orgánica de Protección de los menores en el Entorno Digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0050",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Priorizar el acogimiento familiar y ningún niño de 0 a 6 años en centros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0051",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir la publicidad infantil de alimentos y bebidas poco saludables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0052",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Meta: pobreza o exclusión infantil por debajo del 25 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0053",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Meta: permisos de 24 semanas, 40 en monoparentales, 100 % retribuidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0054",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Meta: ningún niño de 0 a 6 años en centros residenciales en 2028",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0055",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Fuentes consultadas: Plataforma de Infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0056",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Diagnóstico: una generación que aplaza su vida por la precariedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0057",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-alquiler",
+   "fam-juventud"
+  ],
+  "titular": "Reservar vivienda pública a menores de 35 y regular el alquiler de habitaciones",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0058",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Prácticas siempre remuneradas y ayudas a la contratación juvenil solo con contrato estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0059",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Beca única estatal y complemento para quien estudia y trabaja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0060",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Atención psicológica pública para jóvenes con tiempo máximo de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0061",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Informe de impacto en la juventud y consulta a los consejos de juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0062",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Meta: tasa de emancipación del 20 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0063",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Meta: paro juvenil por debajo del 15 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0064",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Meta: primera consulta psicológica para jóvenes en 15 días como máximo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0065",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Las pensiones como reconocimiento de una vida de trabajo y cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0066",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Pensiones públicas como derecho fundamental en la Constitución y sin privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0067",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Elevar las pensiones mínimas y no contributivas hasta una cuantía digna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0068",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar progresivamente el tope máximo de cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0069",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Contribución a la Seguridad Social de las empresas con mucha automatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0070",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Aportación estable de los Presupuestos para el suelo de suficiencia de las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0071",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Meta: destope completo de la base máxima de cotización en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0072",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Meta: pensión no contributiva hasta el umbral de riesgo de pobreza en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0073",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Un sistema fiscal progresivo en el que contribuya más quien más tiene",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0074",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-modelo"
+  ],
+  "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0075",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Aumentar un 40 % los recursos de la Agencia Tributaria contra el fraude",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0076",
+  "subtema": "imp-fraude",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Pagar la diferencia de Sociedades al repatriar beneficios generados en el extranjero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0077",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "mundo-0078",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ }
+]

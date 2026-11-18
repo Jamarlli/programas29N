@@ -1,0 +1,1181 @@
+[
+ {
+  "eje": "eje-clima-ritmo",
+  "pregunta": "¿Qué ritmo para la transición climática?",
+  "posiciones": [
+   {
+    "id": "acelerar",
+    "nombre": "Mantener o acelerar los objetivos"
+   },
+   {
+    "id": "frenar",
+    "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  ],
+  "n": 28,
+  "palabras": 2155,
+  "candidatos": [
+   {
+    "id": "compromis-0088",
+    "partido": "compromis",
+    "titular": "Desarrollar la Ley 9/2025 de Movilidad Sostenible hacia la neutralidad climática en 2050",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem la Llei 9/2025 de Mobilitat Sostenible, amb l’objectiu d’aconseguir la neutralitat climàtica al 2050."
+   },
+   {
+    "id": "compromis-0090",
+    "partido": "compromis",
+    "titular": "Limitar vuelos nacionales con alternativa en tren de menos de dos horas y media",
+    "marca_actual": [],
+    "texto": "- Limitarem, de manera efectiva, els vols nacionals quan existisca una alternativa ferroviària competitiva amb una duració inferior a les 2 hores i mitja."
+   },
+   {
+    "id": "compromis-0234",
+    "partido": "compromis",
+    "titular": "Marco Verde: filtro climático vinculante que impida iniciativas que aumenten emisiones",
+    "marca_actual": [],
+    "texto": "- Establirem el “Marc Verd” com a principi rector de la nostra política que garantirà que qualsevol política, programa o projecte es sotmeta a un filtre climàtic vinculant que impedixca iniciatives que comporten un augment en les emissions."
+   },
+   {
+    "id": "compromis-0235",
+    "partido": "compromis",
+    "titular": "Transición Ecológica Justa con formación y subsidios para trabajadores de sectores descarbonizados",
+    "marca_actual": [],
+    "texto": "- Garantirem una Transició Ecològica Justa posant en marxa protocols d’actuació preferent i plans de formació, subsidi i reciclatge professional per a col·lectius vulnerables i treballadors dels sectors descarbonitzats."
+   },
+   {
+    "id": "compromis-0238",
+    "partido": "compromis",
+    "titular": "Prohibir la publicidad y patrocinios de empresas de combustibles fósiles",
+    "marca_actual": [],
+    "texto": "- Prohibirem per llei els patrocinis i anuncis d’empreses de combustibles fòssils i crearem l’Observatori de la Publicitat Verda Enganyosa."
+   },
+   {
+    "id": "compromis-0256",
+    "partido": "compromis",
+    "titular": "Electrificación del 100 % en 2030 y abandono de los fósiles en 2040",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- Revisarem la Llei 7/2021 de Canvi Climàtic i Transició Energètica i ampliarem els compromisos d’electrificació del sistema, fins al 100% en 2030, i d’abandonament dels combustibles fòssils amb l’horitzó 2040."
+   },
+   {
+    "id": "compromis-0257",
+    "partido": "compromis",
+    "titular": "Mejorar el Plan Nacional de Adaptación al Cambio Climático",
+    "marca_actual": [],
+    "texto": "- Millorarem el Pla Nacional d’Adaptació al Canvi Climàtic per fer front a les conseqüències del Canvi Climàtic i disminuir la vulnerabilitat del conjunt del territori estatal i aconseguir una societat i una economia més resilent."
+   },
+   {
+    "id": "compromis-0258",
+    "partido": "compromis",
+    "titular": "Evaluar el PNIEC, publicar sus resultados y asumir nuevos objetivos verificables",
+    "marca_actual": [],
+    "texto": "- Avaluarem el Pla Nacional Integrat d’Energia i Clima (PNIEC), com ferramenta principal de les polítiques de prevenció, publicant els resultats de forma comprensible i assumint nous objectius verificables"
+   },
+   {
+    "id": "compromis-0271",
+    "partido": "compromis",
+    "titular": "Ninguna gran obra litoral sin alternativa cero ni evaluación del nivel del mar",
+    "marca_actual": [],
+    "texto": "- Cap gran obra al litoral, siga portuària, urbanística o d’infraestructura, no s’aprovarà sense una alternativa 0 i una avaluació que tinga en compte la pujada del nivell del mar i l’erosió a 2045 i a 2100."
+   },
+   {
+    "id": "compromis-0276",
+    "partido": "compromis",
+    "titular": "Programa de adaptación climática urbana con un 30 % de cobertura arbórea en 2040",
+    "marca_actual": [],
+    "texto": "- Crearem un programa estatal d’adaptació climàtica urbana, cofinançat amb les comunitats autònomes i els ajuntaments, per a renaturalitzar, plantar arbrat i guanyar ombra i zones verdes. L’objectiu serà un 30% de cobertura arbòria a tots els nuclis urbans en 2040, amb prioritat per als barris més vulnerables i més exposats a l’illa de calor."
+   },
+   {
+    "id": "compromis-0277",
+    "partido": "compromis",
+    "titular": "Confort climático como derecho y refugios climáticos a menos de 10 minutos a pie",
+    "marca_actual": [],
+    "texto": "- Reconeixerem per llei el confort climàtic com a dret social bàsic i finançarem una xarxa estatal de refugis climàtics, amb un mapa públic i accessible, perquè ningú tinga un espai fresc, amb aigua i d’accés gratuït a més de 10 minuts a peu de casa."
+   },
+   {
+    "id": "compromis-0278",
+    "partido": "compromis",
+    "titular": "Estándares de confort térmico en escuelas y residencias y bioclimatizar 28.000 centros educativos",
+    "marca_actual": [],
+    "texto": "- Aprovarem uns estàndards estatals mínims de confort tèrmic, ombra, ventilació i accés a l’aigua en escoles i residències de majors. Els acompanyarem d’un pla plurianual d’ajudes per a bioclimatitzar els més de 28.000 centres educatius i renaturalitzar els patis, oberts al barri com a refugis climàtics."
+   },
+   {
+    "id": "compromis-0283",
+    "partido": "compromis",
+    "titular": "Conectar parques, ríos urbanos, huertos y corredores verdes contra el riesgo de inundación",
+    "marca_actual": [],
+    "texto": "- Connectarem parcs, rius urbans, horts i corredors verds en xarxes contínues que refresquen la ciutat, absorbisquen l’aigua de pluja i reduïsquen el risc d’inundació, amb paviments permeables i sistemes de drenatge sostenible en totes les noves actuacions."
+   },
+   {
+    "id": "compromis-0295",
+    "partido": "compromis",
+    "titular": "Impedir por ley construir en zonas inundables y ejecutar el PNACC",
+    "marca_actual": [],
+    "texto": "- Integrarem per llei el risc d’inundació i els escenaris climàtics en l’ordenació del territori, impedint construir en zones inundables i executant amb urgència el Pla Nacional d’Adaptació (PNACC)."
+   },
+   {
+    "id": "compromis-0296",
+    "partido": "compromis",
+    "titular": "Activar refugios climáticos y adaptar las condiciones laborales en olas de calor",
+    "marca_actual": [],
+    "texto": "- Activarem la xarxa de refugis climàtics i les alertes sanitàries davant les onades de calor, i adaptarem les condicions laborals en els avisos taronja i roig d’AEMET."
+   },
+   {
+    "id": "compromis-0544",
+    "partido": "compromis",
+    "titular": "Garantizar por ley el 0,7 % para la cooperación al desarrollo",
+    "marca_actual": [],
+    "texto": "- Recuperarem les polítiques de cooperació al desenvolupament amb una nova planificació coherent amb l'Agenda 2030 i el marc de les Nacions Unides, garantint el 0,7% per a la cooperació, blindat per llei."
+   },
+   {
+    "id": "pacma-0136",
+    "partido": "pacma",
+    "titular": "Diagnóstico: riesgo de un punto de no retorno climático hacia 2035",
+    "marca_actual": [],
+    "texto": "El cambio climático es uno de los problemas medioambientales más graves a los que se enfrenta nuestro planeta y requiere de una acción política a todos los niveles.\n\nA través de los estudios publicados en Proceedings of the National Academy of Sciences y en Earth System Dynamis de la Unión Europea de Geociencias, hemos sabido que, incluso, cumpliendo los compromisos adquiridos en los acuerdos de París de limitar el calentamiento hasta los 2ºC de ascenso, el clima corre el riesgo de llegar a un punto de no retorno, al que se ha llamado estado de “Tierra invernadero”, previsto para 2035.\n\nEl calentamiento causado por los seres humanos puede disparar determinados procesos naturales que aumentan por sí mismos las temperaturas, siguiendo el patrón de los procesos de retroalimentación positiva. Esto puede conducirnos a un aumento de la temperatura global de hasta 4 o 5ºC, lo que iría acompañado de una subida del nivel del mar de entre 10 y 60 metros. En consecuencia, el planeta vería reducida su capacidad de dar cobijo a una población de tan solo 1.000 millones de personas, cuando actualmente somos más de 8.300 millones."
+   },
+   {
+    "id": "pacma-0137",
+    "partido": "pacma",
+    "titular": "Diagnóstico: emergencia climática; prioridad cambiar la energía y la alimentación",
+    "marca_actual": [],
+    "texto": "Aunque todavía hay quién lo niega, sólo hay que echar un vistazo a la siguiente infografía elaborada por el Ministerio para la Transición Ecológica sobre la evolución de la temperatura media anual en España desde 1961:\n\nEl informe Global Tipping Points, sobre los niveles de riesgo a los que nos enfrentamos por el cambio climático, acaba exhortando a una reacción urgente del mundo, pues la fase de emergencia ya ha comenzado. Actualmente, se están produciendo cambios muy rápidos en la naturaleza, apreciables por todos: incremento de las temperaturas con fuertes olas de calor, lluvias torrenciales, calimas y sequías, que agravan las inundaciones y los incendios. Si no reaccionamos ya de manera contundente, a medida que estos cambios se multipliquen, superarán nuestra capacidad de adaptación y de respuesta.\n\nComo ya se advertía en el informe “Assessing the environmental impacts of consumption and production” del Programa de Naciones Unidas para el Medio Ambiente (PNUMA), para reducir los impactos sobre el planeta **es prioritario cambiar dos sectores: el de la energía y el de la alimentación**."
+   },
+   {
+    "id": "pacma-0138",
+    "partido": "pacma",
+    "titular": "Acelerar la transición y hacer del cambio climático un eje transversal",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "Es urgente acelerar la transición hacia una economía libre de emisiones. Es necesario fijar objetivos más ambiciosos de clima y energía, apostando por un modelo energético más eficiente y renovable, de energías limpias, manteniendo como prioridad la protección del medio ambiente y la lucha contra el calentamiento global.\n\nEl clima y otros cambios globales que están ocurriendo nos muestran que los seres humanos, como comunidad, tenemos la capacidad de afectar a la Tierra de manera global. De la misma manera que hasta ahora lo hemos hecho de manera negativa, podemos dar un giro e influir de manera positiva en las condiciones que tendrá el planeta en el futuro.\n\nEs necesario **hacer del cambio climático un eje político transversal de todas las políticas que se desarrollen**."
+   },
+   {
+    "id": "pacma-0143",
+    "partido": "pacma",
+    "titular": "Reducir la demanda de transporte urbano con peatón, bicicleta y transporte público",
+    "marca_actual": [],
+    "texto": "El transporte es un sector altamente contaminante y de gran impacto climático. PACMA apuesta por una **movilidad basada en energías limpias, producidas a nivel regional y local**.\n\nLa descarbonización supone un enorme reto, pero con voluntad política, inversiones en infraestructura y nuevas tecnologías, se pueden reducir emisiones y contaminación a la vez que se genera empleo y se reducen costes para el consumidor.\n\nLas investigaciones más recientes sobre la descarbonización del transporte señalan que el aumento del coche eléctrico como propone la UE sólo reduciría las emisiones en un 15%. El escenario e-bike, definido por un 60% de motos eléctricas, un 20% de bicis eléctricas, un 8% de otros medios no motorizados y un 12% de coches eléctricos, apenas alcanzaría para reducir un 30%.\n\nPACMA apuesta por **medidas que reduzcan la demanda del transporte urbano, facilitando y fomentando el desplazamiento peatonal, el uso de transporte público y el de medios no motorizados, como la bicicleta**, como medio de locomoción sostenible y saludable."
+   },
+   {
+    "id": "pacma-0146",
+    "partido": "pacma",
+    "titular": "Diagnóstico: el consumo de alimentos de origen animal como gran fuente de emisiones",
+    "marca_actual": [],
+    "texto": "El consumo de alimentos de origen animal es, sin duda, uno de los principales contribuyentes al calentamiento global debido, no sólo a las emisiones generadas por los cultivos con los que se alimenta a los animales, sino también a la fermentación que se produce en el sistema digestivo de los mismos. Se trata de la segunda causa de emisiones de CO2 a la atmósfera, sólo por detrás de las industrias energética y manufacturera, y muy por delante del transporte y emisiones de vehículos.\n\nAsí lo evidenció el Informe Sostenibilidad del Consumo en España, elaborado por el Centro Común de Investigación (Joint Research Centre) de la Comisión Europea y el Ministerio de Consumo: el sector de la alimentación genera el 52% del impacto ambiental de la huella de consumo de España, destacando la producción de los productos cárnicos y los lácteos. Además, de entre las 16 categorías de impactos analizados, la alimentación también es el principal vector en una gran mayoría de ellas, sobre todo, en lo que se refiere a la eutrofización terrestre (87%) y marina (80%), al agotamiento de la capa de ozono (80%) y los usos del suelo (77%)."
+   },
+   {
+    "id": "pacma-0147",
+    "partido": "pacma",
+    "titular": "Diagnóstico: la alimentación de origen animal daña ecosistemas y clima",
+    "marca_actual": [],
+    "texto": "Se estima que los cambios en los usos del suelo y el calentamiento global asociados a nuestros modos de consumo son responsables de cerca del 80% del daño a la integridad de los ecosistemas terrestres. La alimentación es el área de consumo que más contribuye a la pérdida de calidad de los ecosistemas y, por ende, a la pérdida de biodiversidad, además de ser también la que más efectos dañinos tiene sobre la salud humana.\n\nEl citado informe concluye que los \"elevados impactos asociados a los alimentos se deben, fundamentalmente, al carácter altamente intensivo e industrial que presenta el sistema agropecuario, fuertemente dependiente del uso de recursos fósiles, de fertilizantes químicos y de grandes cantidades de agua\".\n\nLa Comisión Europea ha confirmado que una sustitución del 25% de productos de origen animal por productos de origen vegetal en la dieta diaria disminuiría un 20% el agotamiento de la capa de ozono y un 15% el cambio climático. Si el escenario de sustitución de productos consumidos fuese del 50%, el grado de disminución se situaría entre el 30% y 40%."
+   },
+   {
+    "id": "pacma-0148",
+    "partido": "pacma",
+    "titular": "Diagnóstico: impactos ambientales y sanitarios del consumo de carne",
+    "marca_actual": [],
+    "texto": "Ya lo llevaban advirtiendo muchos años las personas expertas: no es necesario producir más alimento, hay suficiente para 7.000 y también para 9.000 millones de personas en el mundo, pero no para consumir carne todos los días. En palabras de la ONU \"un cambio global hacia una dieta vegana es vital para salvar al mundo del hambre, la escasez de combustible y los peores impactos del cambio climático”.\n\nAdemás, la carga ganadera y avícola que soportan las comunidades autónomas se traduce en problemas medioambientales de primer orden. Entre otros, toneladas de purines altamente contaminantes, con elevada presencia de nitrógeno, fósforo y potasio, que, para ser eliminadas, suelen ser dispersadas en las áreas de cultivo colindantes. Esto supone una amenaza constante de contaminación para arroyos, ríos y acuíferos.\n\nTambién existen evidencias claras sobre la relación entre el consumo de alimentos de origen animal y la tasa creciente de obesidad y enfermedades asociadas.\n\nLa Agencia Internacional de Investigación sobre el Cáncer, institución especializada en esta enfermedad de la Organización Mundial de la Salud, clasificó el consumo de carne roja como \"probable carcinógeno para humanos\" y de la carne procesada como \"carcinógeno para humanos\"."
+   },
+   {
+    "id": "pacma-0149",
+    "partido": "pacma",
+    "titular": "Minimizar el consumo de alimentos de origen animal y fomentar la dieta vegetal",
+    "marca_actual": [],
+    "texto": "Por otro lado, está la problemática de la resistencia a los antimicrobianos, transmitida principalmente los sistemas alimentarios y, especialmente, por la ganadería, en la que, durante décadas, animales sanos han recibido de manera masiva antibióticos cruciales para la salud humana.\n\nPor todo ello, es imprescindible **minimizar el consumo de alimentos de origen animal y fomentar una dieta basada en plantas**.\n\nEn esta línea, **PACMA ha suscrito el Plant Based Treaty**, una iniciativa ciudadana que trabaja para impulsar la elaboración de un tratado de ámbito global, como complemento del Acuerdo de París, cuya finalidad es la de colocar los sistemas alimentarios a la vanguardia de la lucha contra la crisis climática, para detener la degradación generalizada de los ecosistemas, causada por la ganadería intensiva, y promover un cambio hacia dietas basadas en plantas, más saludables y sostenibles.\n\nDesde PACMA defendemos la puesta en marcha de las siguientes medidas en España:"
+   },
+   {
+    "id": "fo-0033",
+    "partido": "fo",
+    "titular": "Poner fin a la llamada «transición ecológica»",
+    "marca_actual": [
+     "frenar"
+    ],
+    "texto": "1. Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea."
+   },
+   {
+    "id": "fo-0099",
+    "partido": "fo",
+    "titular": "Diagnóstico: el campo sofocado por la Agenda 2030, la PAC y las importaciones",
+    "marca_actual": [],
+    "texto": "La situación actual del medio rural en España es insostenible, totalmente sofocado por la Agenda 2030 y las decisiones de la UE y su Política Agrícola Común (PAC), quienes determinan qué, cuándo y cuánto producir en el campo español.\n\nEspaña, con una superficie agraria de 23 millones de hectáreas, no solo no cultiva su totalidad, sino que no saca el máximo de productividad a estas. El atraso técnico y la falta de maquinaria, los intermediarios mafiosos y especuladores, el abandono de la tierra por parte de terratenientes y latifundistas rentistas, el paro estacional junto al empleo de mano de obra precaria ha sumado al campo en la ruina absoluta.\n\nParadójicamente, se firman continuamente tratados internacionales que permiten que productos extranjeros invadan el mercado europeo, mientras se limita la producción nacional. Además son productos agrícolas de otros países como Marruecos que se producen en condiciones laborales de explotación y sin controles fitosanitarios, que no se permiten producir en nuestro territorio."
+   },
+   {
+    "id": "fe-0052",
+    "partido": "fe",
+    "titular": "Anular la aplicación de los principios de la Agenda 2030",
+    "marca_actual": [],
+    "texto": "- 3.4. Anulación de la aplicación de los principios firmados por nuestros traidores gobernantes en la ya conocida “Agenda 2030”, de sobra conocidos por su nocividad para con los intereses nacionales y populares."
+   },
+   {
+    "id": "fe-0127",
+    "partido": "fe",
+    "titular": "Frenar la «transición energética», anular el cierre nuclear e instalar minirreactores",
+    "marca_actual": [
+     "frenar"
+    ],
+    "texto": "- 11.4. En este sentido, freno de todo proyecto de “transición energética”, anulando el plan de cierre de nucleares, proyectando nuevas e incluyendo el uso e instalación de minirreactores nucleares (SMR), así como reactivando centrales térmicas aún no dinamitadas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-patrimonio",
+  "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlos o bajarlos"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlos o subirlos"
+   }
+  ],
+  "n": 22,
+  "palabras": 1760,
+  "candidatos": [
+   {
+    "id": "compromis-0043",
+    "partido": "compromis",
+    "titular": "Eliminar las ventajas fiscales de los PIAS y los SIALP",
+    "marca_actual": [],
+    "texto": "- Eliminarem els avantatges fiscals de PIAS (pla individual d'estalvi sistemàtic) i SIALP (assegurança individual d'estalvi a llarg termini), productes dissenyats específicament per a premiar a les rendes altes que poden destinar rendes presents a estalvi i consum futur."
+   },
+   {
+    "id": "compromis-0140",
+    "partido": "compromis",
+    "titular": "Mantener y ampliar el Impuesto a las Grandes Fortunas hacia la tasa Zucman",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman."
+   },
+   {
+    "id": "compromis-0141",
+    "partido": "compromis",
+    "titular": "Valorar inmuebles en el Impuesto de Patrimonio con el Índice de Viviendas Estatal",
+    "marca_actual": [],
+    "texto": "- Modificarem l’Impost sobre el Patrimoni en allò referent a la valoració d’immobles per tal de que tributen sobre el valor fixat pel l’Índex d’Habitatges Estatal."
+   },
+   {
+    "id": "compromis-0145",
+    "partido": "compromis",
+    "titular": "Que las rentas financieras tributen con la misma progresividad que las del trabajo",
+    "marca_actual": [],
+    "texto": "- Eliminarem els privilegis de les rendes financeres respecte de les del treball, fent-les idènticament progressives."
+   },
+   {
+    "id": "compromis-0146",
+    "partido": "compromis",
+    "titular": "Eliminar deducciones de las rentas inmobiliarias de las que no gozan las del trabajo",
+    "marca_actual": [],
+    "texto": "- Modificarem la fiscalitat de les rendes immobiliàries per tal de fer-la efectivament progressiva mitjançant l'eliminació de deduccions de les quals no gaudeixen les rendes del treball."
+   },
+   {
+    "id": "compromis-0147",
+    "partido": "compromis",
+    "titular": "Reducir la deducción por amortización de inmuebles del 3 % al 1 %",
+    "marca_actual": [],
+    "texto": "- Reduirem la deducció per amortització d’immobles, des del 3% actual a l’1% incrementant la recaptació de més de 465 milions d’euros."
+   },
+   {
+    "id": "compromis-0150",
+    "partido": "compromis",
+    "titular": "Simplificar tributos para reducir la elusión fiscal",
+    "marca_actual": [],
+    "texto": "- Simplificarem tributs per tal de reduir l’elusió fiscal."
+   },
+   {
+    "id": "pacma-0198",
+    "partido": "pacma",
+    "titular": "Combatir la obsolescencia programada con más garantía y libertad de reparación",
+    "marca_actual": [],
+    "texto": "Teléfonos móviles, tabletas, ordenadores, impresoras… Aparatos de corta vida útil, que apenas duran unos años y dejan de funcionar. Es la obsolescencia programada: la programación del fin de la vida útil de un producto tras un período de tiempo predeterminado por el fabricante, durante la fase de diseño. Su finalidad, evidentemente, es el beneficio económico de fabricantes y empresas, sin tener en cuenta los perjuicios para los consumidores y para el medio ambiente: una industria que genera ingentes cantidades de residuos contaminantes.\n\nEspaña se encuentra entre los cinco países europeos que más residuos electrónicos generan. Por ello, desde el Partido Animalista proponemos **políticas que impulsen la puesta en el mercado de productos duraderos, reparables, reutilizables y reciclables**, con el objetivo de **reducir el uso y consumo de recursos naturales, disminuir la producción de residuos, impulsar el sector de la reparación, relocalizar la creación de empleo y la generación de riqueza**.\n\nPara **combatir la obsolescencia programada**, la legislación debe **exigir a los fabricantes que amplíen las garantías, permitan extraer y sustituir piezas fácilmente para reparar los dispositivos, y que los usuarios puedan acudir a cualquier tienda de reparación** para arreglar sus productos, sin verse obligados a acudir necesariamente a los servicios oficiales de los fabricantes."
+   },
+   {
+    "id": "pacma-0378",
+    "partido": "pacma",
+    "titular": "Defender la I+D+i como motor de la economía con criterios éticos",
+    "marca_actual": [],
+    "texto": "Las actividades del I+D+i son generadoras de avances sociales en forma de calidad de vida y mejora del medio ambiente. Las sociedades con mayor riqueza, igualdad, recursos sanitarios, mejor educación y cultura, son las que han dedicado mayores recursos a la investigación, demostrando que su desarrollo es fundamental para avanzar hacia una sociedad mejor.\n\nEn los últimos años, la inversión en I+D ha aumentado en España, no obstante, sigue estando muy lejos de la media europea y de lo que nos correspondería por potencial económico.\n\nEs necesario **defender la investigación, el desarrollo y la innovación, como motores para la economía y la creación de empleo**, teniendo en cuenta criterios éticos en el desarrollo y aplicación de la política tecnológica e industrial.\n\nPACMA estableció su compromiso con la investigación, el desarrollo y la innovación mediante su adhesión al acuerdo en defensa de la I+D+i en la denominada ‘Carta por la Ciencia’.\n\nPara favorecer la investigación, el desarrollo y la innovación, proponemos las siguientes medidas:"
+   },
+   {
+    "id": "pacma-0394",
+    "partido": "pacma",
+    "titular": "Controles fiscales más rigurosos contra un fraude del 6 % del PIB",
+    "marca_actual": [],
+    "texto": "El Consejo Económico y Social (CES) cifra el fraude fiscal en nuestro país en torno al 6% del Producto Interior Bruto (PIB). Si tenemos en cuenta que el PIB de España ronda el billón de euros, la cantidad defraudada a la Hacienda Pública estaría en torno a los 95.000 millones cada año.\n\nLa mayor parte de la evasión fiscal la cometen las grandes fortunas y empresas. Combatir el fraude es una medida de equidad impositiva, de justicia tributaria y de consolidación fiscal, que permite incrementar los ingresos para financiar el gasto público, sin incrementar la presión fiscal sobre la ciudadanía que está al día en el cumplimiento de sus obligaciones fiscales.\n\nA pesar de las medidas adoptadas, el fraude fiscal sigue siendo un problema persistente en España y se requieren soluciones adicionales para abordarlo de manera efectiva. Para ello proponemos la implementación de **controles fiscales más rigurosos**, el **uso de tecnología avanzada para detectar actividades sospechosas**, así como **mejorar la cooperación entre los países para combatir el fraude fiscal internacional**."
+   },
+   {
+    "id": "fo-0026",
+    "partido": "fo",
+    "titular": "Reindustrialización para garantizar el desarrollo y la soberanía de España",
+    "marca_actual": [],
+    "texto": "Ahora la UE quiere que sigamos la estela de la “transición ecológica”, mermando aún más nuestra independencia productiva. Hoy más que nunca es necesaria una reindustrialización que garantice el desarrollo y la soberanía de España, que sea respetuosa con su riqueza natural, pero priorice las necesidades del país.\n\nSolo este proceso nos permitirá alcanzar una soberanía real, a la par que mejorar el nivel de vida de quienes crean la riqueza del país, los trabajadores. Sin industria no podremos solucionar los problemas que afectan a nuestra patria, estaremos vendidos.\n\nPor estas razones, creemos que en España es necesario luchar por este conjunto medidas:"
+   },
+   {
+    "id": "fo-0039",
+    "partido": "fo",
+    "titular": "Diagnóstico: un sistema fiscal que castiga al que trabaja y favorece a los ricos",
+    "marca_actual": [],
+    "texto": "Los impuestos en España son un verdadero negocio para políticos y empresarios que aprovechan su posición de privilegio respecto al resto de españoles. La financiación de chiringuitos, instituciones sin oficio ni beneficio y negocios personales bebe de un sistema impositivo que castiga al que trabaja y asfixia a los que menos tienen.\n\nLa carga fiscal que sufren los trabajadores, los autónomos y las pequeñas empresas, contrasta con la situación de privilegio que vive una oligarquía parasitaria, que, además, en muchos casos tributan fuera de España. Se trata de un sistema fiscal diseñado para los ricos, y que no tiene en cuenta las necesidades de la gran mayoría de españoles, ni mucho menos los retos que tenemos delante como país.\n\nTanto la izquierda como la derecha mantienen un sistema totalmente insostenible que les reporta grandes beneficios a ellos y sus socios. Y, como si esto fuera poco, los políticos de la “nueva izquierda”, desde sus butacas promueven una criminalización constante hacia los autónomos, tratando de separar su lucha de la del resto de trabajadores. La realidad es que el 80% de los autónomos ni siquiera tienen trabajadores a su cargo, pagan por trabajar y no pueden ponerse enfermos. Ellos también son trabajadores."
+   },
+   {
+    "id": "fo-0040",
+    "partido": "fo",
+    "titular": "Renovar el sistema fiscal con un Estado que priorice a los trabajadores",
+    "marca_actual": [],
+    "texto": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos. El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.\n\nPor estas razones, creemos que es necesario implementar las siguientes medidas:"
+   },
+   {
+    "id": "fo-0045",
+    "partido": "fo",
+    "titular": "Subir Sociedades y Patrimonio a las grandes empresas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "5. Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional."
+   },
+   {
+    "id": "fo-0046",
+    "partido": "fo",
+    "titular": "Centralizar Sucesiones y Patrimonio y suprimir sus bonificaciones a los ricos",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas."
+   },
+   {
+    "id": "fo-0059",
+    "partido": "fo",
+    "titular": "Garantizar estudiar en castellano o en las lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "9. Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado. Se promoverá que los alumnos conozcan la riqueza lingüística en nuestro país y se acabará con el uso político de las lenguas por parte de nacionalistas de un bando u otro."
+   },
+   {
+    "id": "fo-0140",
+    "partido": "fo",
+    "titular": "Diagnóstico: insostenibilidad del sistema de pensiones",
+    "marca_actual": [],
+    "texto": "Los trabajadores que han contribuido a generar la riqueza en nuestro país tienen el derecho a poder terminar su vida con dignidad y que se reconozca su aportación al resto de la sociedad.\n\nEl sistema de pensiones que tenemos hoy en España no asegura que esto sea así; la insostenibilidad del sistema es evidente y los grandes grupos empresariales se aprovechan de esta situación para sacar beneficio con el escaso ahorro de los trabajadores que acceden a un plan de pensiones privado.\n\nMientras que la derecha ha tratado de acelerar este proceso y así contentar a las grandes empresas, la izquierda, pese a presentarse como los mayores defensores de las pensiones, no ha dudado en recortarla cuando la situación económica así lo “exigía”, como pasó en la crisis de 2008. Ambos han jugado con la hucha de las pensiones, hasta el punto que es prácticamente inevitable que acabe transformándose en un modelo mixto, para desgracia de quienes menos tienen.\n\nLos políticos quieren hacernos creer que esto se solucionará aumentando el número de inmigrantes que llegan a España, como una especie de solución mágica. Esto no soluciona nada, sino que traerá aún más problemas mucho más graves, como los que ya se están viviendo en muchas ciudades respecto a esta cuestión."
+   },
+   {
+    "id": "fe-0001",
+    "partido": "fe",
+    "titular": "Un Estado orgánico que recupere la soberanía nacional",
+    "marca_actual": [],
+    "texto": "La nación española debe volver a recuperar sus fines, vida y medios de acción superiores en poder y duración al de los individuos, divididos o agrupados, que la componen. Debe volver a ser una unidad espiritual, política y económica que se realice plenamente en el Estado. Individuos y grupos, empresas y trabajadores unidos para llevar a cabo el interés colectivo, el quehacer diario. La construcción de una base para todos: trabajo estable y bien remunerado, el acceso a una vivienda en propiedad, la posibilidad de tener hijos y mantenerlos. Una base sólida, compuesta también de servicios (sanidad, educación, seguridad social) sobre la que todo español pueda construir su futuro, siguiendo sus capacidades y aspiraciones, contribuyendo así a la riqueza y el poder nacionales.\n\nEl Estado que queremos es un Estado orgánico, guía espiritual y referencia de la comunidad nacional. Su primera tarea es reafirmar y recuperar la soberanía y la autonomía amenazadas por poderes privados, supranacionales y globalistas.\n\nQueremos una España libre, grande, unida, social y nacional, fuerte y absolutamente dueña de su destino."
+   },
+   {
+    "id": "fe-0104",
+    "partido": "fe",
+    "titular": "Crear más tramos impositivos para asegurar la progresividad",
+    "marca_actual": [],
+    "texto": "- 9.7. Revisión impositiva. Creación de más tramos impositivos para asegurar la progresividad del devengo de los impuestos."
+   },
+   {
+    "id": "fe-0105",
+    "partido": "fe",
+    "titular": "Revisar el Impuesto de Sucesiones y Donaciones con criterios de progresividad",
+    "marca_actual": [],
+    "texto": "- 9.8. Revisión del Impuesto de Sucesiones y Donaciones, estableciendo también criterios de progresividad, ajustándose el cobro del impuesto a la situación de cada sujeto pasivo."
+   },
+   {
+    "id": "fe-0235",
+    "partido": "fe",
+    "titular": "Preservar las lenguas regionales con el español como lengua vehicular",
+    "marca_actual": [],
+    "texto": "- 21.2. La riqueza lingüística es uno de los mayores bagajes culturales de los que goza España como patria. Por ello, abogamos por la preservación, cuidado y enseñanza de todas nuestras lenguas regionales, en paralelo con el aseguramiento del uso del español como lengua vehicular."
+   },
+   {
+    "id": "autonomos-0015",
+    "partido": "autonomos",
+    "titular": "Bonificar al 99 % el Impuesto de Sucesiones y Donaciones en toda España",
+    "marca_actual": [],
+    "texto": "13. **Supresión del Impuesto de Sucesiones y Donaciones en toda España** — Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida.\n - **Viabilidad:** _Es viable porque este impuesto apenas representa alrededor del 0,2 % del PIB y su eliminación en varias comunidades autónomas ha demostrado atraer inversión, evitar deslocalizaciones fiscales y facilitar la continuidad de empresas familiares._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 30,
+  "palabras": 1653,
+  "candidatos": [
+   {
+    "id": "compromis-0047",
+    "partido": "compromis",
+    "titular": "Acceso universal a la sanidad pública sin discriminación por origen o situación administrativa",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Garantirem l’accés universal a l’atenció sanitària pública, sense discriminacions per origen o situació administrativa."
+   },
+   {
+    "id": "compromis-0439",
+    "partido": "compromis",
+    "titular": "Ampliar el derecho de sufragio activo de las personas migrantes",
+    "marca_actual": [],
+    "texto": "- Ampliarem el dret al sufragi actiu per a les persones migrants."
+   },
+   {
+    "id": "compromis-0478",
+    "partido": "compromis",
+    "titular": "Proteger a las mujeres migrantes en situación irregular para que accedan a los servicios",
+    "marca_actual": [],
+    "texto": "- Garantirem protecció i alternatives a les dones migrants en situació administrativa irregular, evitant que la por a l’expulsió impedisca accedir als serveis públics."
+   },
+   {
+    "id": "pacma-0342",
+    "partido": "pacma",
+    "titular": "Reformar la matriculación para evitar la concentración de alumnado extranjero",
+    "marca_actual": [],
+    "texto": "- **Medidas contra la segregación escolar residencial**, reformulando los algoritmos y criterios de matriculación y reparto de plazas para evitar la concentración excesiva de alumnado extranjero en determinados centros públicos, dado que la diversidad equilibrada mejora el rendimiento de los entornos vulnerables."
+   },
+   {
+    "id": "pacma-0343",
+    "partido": "pacma",
+    "titular": "Incorporar mediadores interculturales a las plantillas de colegios e institutos",
+    "marca_actual": [],
+    "texto": "- **Incorporación** a las plantillas de los colegios e institutos **de mediadores interculturales** que compartan el idioma y contexto de las comunidades mayoritarias del barrio, claves para generar confianza mutua, resolver conflictos y conectar a las familias con el centro escolar."
+   },
+   {
+    "id": "pacma-0344",
+    "partido": "pacma",
+    "titular": "Agilizar la homologación de títulos de jóvenes escolarizados desde otros países",
+    "marca_actual": [],
+    "texto": "- **Agilización en la homologación de títulos**, flexibilizando y acelerando la burocracia para convalidar los estudios que los/as jóvenes hayan realizado en sus países de origen, puesto que el retraso en estos trámites provoca que sean escolarizados en cursos inferiores, lo que fomenta el desinterés y el abandono por desfase madurativo."
+   },
+   {
+    "id": "pacma-0474",
+    "partido": "pacma",
+    "titular": "Acceso unificado de las personas migrantes a educación, sanidad y alojamiento",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- **Acceso unificado a todos los derechos**, como la educación, la sanidad y el alojamiento **para una inclusión efectiva**."
+   },
+   {
+    "id": "pacma-0478",
+    "partido": "pacma",
+    "titular": "Mejor asesoramiento a personas inmigrantes y refugiadas, incluido sobre sus animales",
+    "marca_actual": [],
+    "texto": "- **Mejora en la atención a personas inmigrantes y refugiadas**, con asesoramiento sobre inmigración, refugio y retorno voluntario, incluyendo información sobre la protección animal y el protocolo que se debe seguir en caso de traer un animal desde otro país."
+   },
+   {
+    "id": "fo-0139",
+    "partido": "fo",
+    "titular": "Destinar la vivienda pública a los españoles autóctonos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "5. Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también deben cambiar, pues se suele priorizar al extranjero."
+   },
+   {
+    "id": "fo-0147",
+    "partido": "fo",
+    "titular": "Revalorizar la nacionalidad y defender las fronteras",
+    "marca_actual": [],
+    "texto": "A todo esto, hay que sumar la cuestión de las nacionalidades, se han dado más de dos millones en las últimas décadas, el número de españoles administrativos que no lo son culturalmente no deja de aumentar. Se concede la nacionalidad a quien nace aquí, aunque sea de padres extranjeros y se críen al margen de nuestra sociedad y de nuestra cultura. Español es quien lo es culturalmente, todo lo demás no es más que una mentira y acrecentar los problemas. Hay que volver a poner la nacionalidad y lo español en valor, si todo el mundo puede ser español su valor se reduce a cero.\n\nEspaña no controla sus fronteras, y un país tercermundista como Marruecos chantajea a nuestro Gobierno haciendo lo que quiere, imponiéndonos actuaciones contrarias a nuestros intereses. Un país que no domina sus fronteras camina hacia ser un estado fallido. No sabemos quién entra por la frontera sur, se han dado casos de delincuentes comunes, violadores y terroristas islámicos. Las fronteras deben ser defendidas, y aquellos que quieran traspasarlas sin permiso deben ser expulsados."
+   },
+   {
+    "id": "fo-0151",
+    "partido": "fo",
+    "titular": "Asimilar a los inmigrantes, eliminar pagas y promover estudios étnicos",
+    "marca_actual": [],
+    "texto": "A las personas inmigrantes que hay en el país hay que asimilarlas, integrarlas o favorecer que retornen a sus países. No queremos que España se convierta en un país guetificado. Además, hay que acabar con la creación de población dependiente, clientelar de ciertos grupos políticos que les compran con ventajas. Las pagas deben ser eliminadas y se debe fomentar el trabajo, personas en edad de trabajar no pueden estar ociosas y haciendo gasto a los españoles. Si no tienen trabajo y no quieren encontrarlo deben retornar a sus países, no tiene sentido que permanezcan eternamente viviendo del estado español.\n\nNosotros creemos en la igualdad y la justicia, pero los procesos de asimilación y de integración requieren acciones firmes y tiempo para favorecerlas. Si la capacidad de un país se ve desbordada, solo se va a conseguir la creación de guetos, opresión y segregación, entre otras cosas. Además, es necesario promover estudios étnicos que aporten datos exactos y permitan conocer la gravedad del problema. En España, aunque no estén prohibidos por ley, no se financian ni se permiten. Los únicos estudios étnicos que existen son sobre delincuencia, y muestran que los inmigrantes delinquen porcentualmente mucho más que los nacionales, sobre todo aquellos que vienen de contextos islámicos."
+   },
+   {
+    "id": "fo-0152",
+    "partido": "fo",
+    "titular": "Medidas drásticas de retorno y revalorización de la nacionalidad",
+    "marca_actual": [],
+    "texto": "Por proponer soluciones a un problema evidente nos llamarán de todo, incluso racistas, pero, ¿Quién es el racista? ¿El que con sus políticas idealistas de fronteras abiertas y de negar la existencia del problema favorece la exclusión, las mafias que juegan con los inmigrantes y la constitución de guetos, marginalidad y violencia? ¿o los que proponemos solucionar el problema? Está muy claro quiénes son los que hacen una labor reaccionaria, y no somos nosotros.\n\nEl que ha querido venir a trabajar y aportar al país respetando nuestra cultura ha sido bienvenido, pero las laxas condiciones para regular y nacionalizar han hecho que se haya creado un grave problema. Ante el cual solo queda llevar a la práctica medidas drásticas para hacer retornar a aquellos que no cumplen las características anteriores. Una persona puede vivir en España con un visado sin ningún problema sin que se le de la nacionalidad, es necesario hacer valer la nacionalidad y nuestra cultura.\n\nPor todo esto, proponemos una serie de medidas que deben ser de inmediato cumplimiento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:"
+   },
+   {
+    "id": "fo-0158",
+    "partido": "fo",
+    "titular": "Suspender la concesión de nacionalidades y primar el ius sanguinis",
+    "marca_actual": [],
+    "texto": "6. Cese de entrega de nacionalidades hasta que se pueda realizar una revisión exhaustiva de las que se han entregado en los últimos veinte años. Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad."
+   },
+   {
+    "id": "fo-0159",
+    "partido": "fo",
+    "titular": "Retirar la nacionalidad a los nacionalizados que cometan un delito grave",
+    "marca_actual": [],
+    "texto": "7. Retirada de la nacionalidad a todos aquellos nacionalizados que cometan un delito grave."
+   },
+   {
+    "id": "fo-0164",
+    "partido": "fo",
+    "titular": "Promover la cultura española para la asimilación de los inmigrantes",
+    "marca_actual": [],
+    "texto": "12. Promoción y apoyo para promover la cultura española y facilitar la asimilación e integración de los inmigrantes que han venido a aportar al país."
+   },
+   {
+    "id": "fe-0002",
+    "partido": "fe",
+    "titular": "Una España sin inmigración masiva y con servicios exclusivos para españoles",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "Queremos una España española, segura y con arraigo, donde no nos sintamos extranjeros en nuestra propia tierra ni sustituidos, y donde nuestras vidas, costumbres y tradiciones no sean pisoteadas en favor del globalismo y algunas de sus herramientas como es la inmigración masiva, invasión, que padecemos hoy.\n\nConsideramos nuestro enemigo y el de la nación a todo aquel que antepone sus intereses privados al bien común, toda concepción individualista y oligárquica del Estado, todo lo que induzca la desfiguración de pueblos, personas y culturas.\n\nPor su historia y su destino, España debe volver a ejercer una función de vanguardia en el mundo, volver a ser un faro de justicia y civilización, un ejemplo. Debemos recuperar nuestra autoestima como pueblo y nación, confiando en el futuro, especialmente para una juventud hoy desnortada y desesperanzada.\n\nTambién y, sobre todo, para restaurar la soberanía de la nación, se requieren opciones que representen una visión de la existencia que vaya más allá de su alcance económico en términos de recursos. Dominar y definir nuestro destino no se hace cuadrando un Excel. Para ello, proponemos normas que permitan a todos los españoles acceder de forma exclusiva a los servicios ofrecidos por el Estado del bienestar en los ámbitos de la educación, la sanidad, las ayudas económicas o las ayudas a la vivienda."
+   },
+   {
+    "id": "fe-0006",
+    "partido": "fe",
+    "titular": "Revisar las nacionalidades concedidas en los últimos 35 años",
+    "marca_actual": [],
+    "texto": "- 1.3. Revisión de todas las nacionalidades concedidas desde hace treinta y cinco años hasta la fecha, revocando tantas cuantas sean necesarias."
+   },
+   {
+    "id": "fe-0007",
+    "partido": "fe",
+    "titular": "Nacionalidad solo por ius sanguinis y prohibición de la doble nacionalidad",
+    "marca_actual": [],
+    "texto": "- 1.4. Para la obtención de la nacionalidad española, abogamos por el criterio jurídico único del ius sanguinis. Sólo los hijos de padre o madre española tendrán la nacionalidad española, eliminando la concesión de la misma por residencia. En los casos en que uno de los progenitores no sea español, solo se concederá la nacionalidad siempre que se renuncie a la otra (prohibición de tenencia de doble nacionalidad) y se demuestre un arraigo absoluto a la comunidad nacional."
+   },
+   {
+    "id": "fe-0017",
+    "partido": "fe",
+    "titular": "Ayudas sociales exclusivamente para españoles",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Retirada del acceso a ayudas sociales para todo extranjero, que serán única y exclusivamente para españoles."
+   },
+   {
+    "id": "fe-0020",
+    "partido": "fe",
+    "titular": "Deshomologar todos los títulos obtenidos fuera de Europa",
+    "marca_actual": [],
+    "texto": "- Deshomologación de todos los títulos adquiridos en centros de estudios, superiores o no, fuera de Europa."
+   },
+   {
+    "id": "fe-0024",
+    "partido": "fe",
+    "titular": "Impuesto de al menos el 50 % al envío de remesas al extranjero",
+    "marca_actual": [],
+    "texto": "- Creación de un impuesto de no menos del 50% al envío de dinero, rentas y remesas monetarias al extranjero."
+   },
+   {
+    "id": "fe-0025",
+    "partido": "fe",
+    "titular": "Aumentar la cotización por contingencias comunes de las nóminas de trabajadores extranjeros",
+    "marca_actual": [],
+    "texto": "- Aumento de la cotización a Contingencias Comunes de toda nómina de trabajador extranjero, tanto por parte de la empresa como por la del trabajador."
+   },
+   {
+    "id": "fe-0026",
+    "partido": "fe",
+    "titular": "Retirar toda pensión no contributiva asignada a extranjeros",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Retirada de toda pensión no contributiva asignada a extranjeros."
+   },
+   {
+    "id": "fe-0027",
+    "partido": "fe",
+    "titular": "Revisar una a una las nacionalidades concedidas en los últimos 50 años",
+    "marca_actual": [],
+    "texto": "- Revisión, una a una, de todas las nacionalidades regaladas durante los últimos 50 años."
+   },
+   {
+    "id": "fe-0028",
+    "partido": "fe",
+    "titular": "Prohibir la adquisición de la nacionalidad según el punto 1.4",
+    "marca_actual": [],
+    "texto": "- Prohibición de la adquisición de esta según lo expuesto en el punto 1.4."
+   },
+   {
+    "id": "fe-0033",
+    "partido": "fe",
+    "titular": "Retirar la nacionalidad «regalada» y pasar a permisos de trabajo de tres años",
+    "marca_actual": [],
+    "texto": "- Retirada de la nacionalidad española regalada a todos los extranjeros que no cumplan el punto 1.4., pasando a ser inmigrantes con permiso de trabajo con una duración máxima de tres años."
+   },
+   {
+    "id": "fe-0034",
+    "partido": "fe",
+    "titular": "Cobrar a inmigrantes legales parte del coste de sanidad, educación e infraestructuras",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Comienzo de cobro de un porcentaje del coste total por cada uso de servicios esenciales (atención sanitaria, educación, infraestructuras) por parte de inmigrantes legales que desempeñen labores profesionales."
+   },
+   {
+    "id": "fe-0092",
+    "partido": "fe",
+    "titular": "Planes nacionales de natalidad con incentivos fiscales y ayudas a familias numerosas",
+    "marca_actual": [],
+    "texto": "- 7.5. Ante las dramáticas cifras de natalidad, los falangistas no creemos en las soluciones progresistas de importación de inmigrantes para “pagarnos las pensiones”. Defendemos que no hay nadie mejor para sostener el sistema público de pensiones que los propios hijos y nietos de los que gozan del descanso de la jubilación. Por ello, pondremos en marcha Planes Nacionales de fomento de la Natalidad, de ayuda a las familias, con preponderancia de las numerosas, a través de incentivos fiscales, ayudas directas y erradicando valores como el individualismo, promocionados hoy por el sistema. El arraigo y el orgullo de la descendencia son pilares de la continuidad de la Nación."
+   },
+   {
+    "id": "pcte-0051",
+    "partido": "pcte",
+    "titular": "Mismos derechos laborales para trabajadores migrantes y nacionales",
+    "marca_actual": [],
+    "texto": "- **Trabajadores migrantes** — **Mismos derechos para trabajadores migrantes y nacionales**. Ninguna situación administrativa puede utilizarse para pagar menos."
+   },
+   {
+    "id": "autonomos-0066",
+    "partido": "autonomos",
+    "titular": "Visados de trabajo en origen y arraigo efectivo para acceder a ayudas",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "64. **Ordenación legal de la inmigración vinculada al empleo y la integración** — Agilización administrativa de los visados de trabajo en origen para cubrir vacantes reales en sectores deficitarios, exigiendo cumplimiento de la legalidad y arraigo efectivo para el acceso a ayudas.\n - **Viabilidad:** _Es viable combinando rigor en el control de fronteras con canales legales ágiles para empresas que no encuentran mano de obra cualificada._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-smi",
+  "pregunta": "¿Seguir subiendo el salario mínimo?",
+  "posiciones": [
+   {
+    "id": "subir",
+    "nombre": "Subirlo o reforzarlo por ley"
+   },
+   {
+    "id": "contener",
+    "nombre": "No, contenerlo o fijarlo por acuerdo"
+   }
+  ],
+  "n": 18,
+  "palabras": 1101,
+  "candidatos": [
+   {
+    "id": "compromis-0022",
+    "partido": "compromis",
+    "titular": "Garantizar por ley un SMI del 60 % del salario medio",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Garantirem per llei que l’SMI arribe al 60% del salari mitjà, sense que l’augment puga absorbir els complements retributius, i impulsarem mesures per a augmentar el salari mitjà."
+   },
+   {
+    "id": "compromis-0023",
+    "partido": "compromis",
+    "titular": "Cláusulas automáticas de actualización salarial durante la ultraactividad de los convenios",
+    "marca_actual": [],
+    "texto": "- Introduirem en la legislació laboral clàusules d’actualització salarial automàtiques durant la ultraactivitat dels convenis."
+   },
+   {
+    "id": "compromis-0071",
+    "partido": "compromis",
+    "titular": "Mejores salarios y estabilidad para las trabajadoras de los cuidados",
+    "marca_actual": [],
+    "texto": "- Avançarem cap a condicions laborals en l’àmbit de les cures amb majors salaris, estabilitat i eliminant desigualtat injustificades per a treballadores que desenvolupen funcions equivalents."
+   },
+   {
+    "id": "fo-0006",
+    "partido": "fo",
+    "titular": "Diagnóstico: salario real estancado, paro y un modelo migratorio de mano de obra barata",
+    "marca_actual": [],
+    "texto": "Llevamos demasiado tiempo viendo cómo empeora nuestra situación: el paro, la inflación, la terciarización de puestos de trabajo y el aumento de la edad de jubilación son la consecuencia directa de un sistema nefasto que explota al que menos tiene, para garantizar los beneficios de grandes empresas y sus socios de gobierno. El salario real sigue estancado desde hace décadas y la patronal promueve un modelo migratorio en detrimento de los trabajadores españoles, que garantice cada vez una mano de obra más barata. Quieren demoler los derechos conquistados por nuestros padres y abuelos. Buscan consumidores dóciles, que trabajemos por un salario de miseria y que no nos organicemos para luchar por lo que es nuestro.\n\nEl Frente Obrero ha nacido para cambiar esto. Debemos recuperar un movimiento obrero que ponga contra las cuerdas al Gobierno y garantice, no solo los derechos, sino los intereses de los trabajadores, que pueda paralizar el país. El capitalismo no se puede reformar, es un sistema basado en la explotación de la gran mayoría de la población al servicio de unos pocos. Es por eso que todos los partidos del sistema siempre acaban defendiendo al gran capital."
+   },
+   {
+    "id": "fo-0008",
+    "partido": "fo",
+    "titular": "Aumento general de los salarios en relación al coste de la vida",
+    "marca_actual": [],
+    "texto": "1. Aumento general de los salarios en relación al coste de la vida."
+   },
+   {
+    "id": "fo-0012",
+    "partido": "fo",
+    "titular": "Eliminar la cuota a los autónomos que no llegan al SMI y reducir cuotas",
+    "marca_actual": [],
+    "texto": "5. Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja. Cuotas más reducidas para los autónomos. Garantizar la jubilación a los autónomos."
+   },
+   {
+    "id": "fe-0077",
+    "partido": "fe",
+    "titular": "Asegurar sueldos dignos bajo convenio",
+    "marca_actual": [],
+    "texto": "- 6.10. Aseguramiento de sueldos dignos bajo convenio que garantice al trabajador español el acceso a una vida digna y a la propiedad fruto de su esfuerzo."
+   },
+   {
+    "id": "fe-0078",
+    "partido": "fe",
+    "titular": "Actualizar y definir el SMI por sectores",
+    "marca_actual": [],
+    "texto": "- 6.11. En este sentido, creemos que el SMI debe ser actualizado y definido sectorialmente, y no la aplicación actual de tabula rasa que ha provocado que este salario sea de los más comunes entre los trabajadores españoles."
+   },
+   {
+    "id": "fe-0103",
+    "partido": "fe",
+    "titular": "Cuota cero para autónomos bajo el SMI e IVA de caja automático",
+    "marca_actual": [],
+    "texto": "- 9.6. Para los trabajadores por cuenta propia, cuota cero real por ingresos debajo del SMI de su sector, devengo del IVA de caja automático y excluyente, dejando de adelantar dinero de facturas aún no cobradas y bonificación fiscal del 50% para aquellos autónomos que incorporen a sus hijos o familiares de primer grado como relevo generacional en el negocio."
+   },
+   {
+    "id": "pcte-0003",
+    "partido": "pcte",
+    "titular": "Diagnóstico: el salario ya no alcanza y la «flexibilidad» precariza",
+    "marca_actual": [],
+    "texto": "Para la mayoría de la clase obrera, el salario es la principal fuente de ingresos. **Y hoy ya no alcanza**: los precios de la cesta de la compra suben, como sube el coste de la vivienda o de la luz. Para cada vez más personas, tener empleo no garantiza ni siquiera unos mínimos vitales.\n\nA su vez, la «flexibilidad» que tanto se promueve no es más que **una trampa para colarnos el trabajo temporal, la subcontratación, la facilidad en el despido**; de la misma manera que los avances tecnológicos no se traducen en una reducción del tiempo de trabajo, sino en mayor control sobre nuestras vidas. Ha llegado el momento de que la clase trabajadora ponga pie en pared y que **nos hagamos de nuevo fuertes desde nuestros comités, secciones sindicales y asambleas**."
+   },
+   {
+    "id": "pcte-0004",
+    "partido": "pcte",
+    "titular": "Salarios con revisión automática por IPC real y subidas lineales",
+    "marca_actual": [],
+    "texto": "- **Salarios** — **Salarios por encima de los precios**. **Cláusula de revisión automática según el IPC real**, sin topes y con efectos desde el 1 de enero. **Recuperación del poder adquisitivo perdido desde 2021**. Subidas lineales, con los mismos euros para todas las categorías, para no ensanchar la distancia entre los que más y los que menos cobran."
+   },
+   {
+    "id": "pcte-0045",
+    "partido": "pcte",
+    "titular": "Paro mientras dure el desempleo y baja médica pagada al 100 %",
+    "marca_actual": [],
+    "texto": "- **Paro y baja médica** — **Prestación por desempleo mientras dure el paro**, nunca inferior al salario mínimo. **Incapacidad temporal pagada al 100 % del salario desde el primer día**."
+   },
+   {
+    "id": "pcte-0047",
+    "partido": "pcte",
+    "titular": "Ninguna pensión por debajo del salario mínimo y revalorización con el IPC real",
+    "marca_actual": [],
+    "texto": "- **Pensiones** — **Ninguna pensión por debajo del salario mínimo**. Revalorización automática con el IPC real y recuperación de lo perdido cuando la inflación supere la revalorización."
+   },
+   {
+    "id": "pcte-0062",
+    "partido": "pcte",
+    "titular": "Solo prácticas curriculares y prohibición de las extracurriculares",
+    "marca_actual": [],
+    "texto": "- **Prácticas** — **Solo prácticas curriculares** que no cubran labores esenciales de producción, con tutor, límite de horas y un máximo de becarios por plantilla, y con compensación no inferior al salario mínimo en proporción a las horas. **Prohibición de las prácticas extracurriculares**."
+   },
+   {
+    "id": "pcte-0063",
+    "partido": "pcte",
+    "titular": "Beca-salario equivalente al salario mínimo para estudiantes de familias trabajadoras",
+    "marca_actual": [],
+    "texto": "- **Becas** — **Beca-salario equivalente al salario mínimo** para estudiantes de familias trabajadoras y plaza en residencia pública para quien estudie fuera de su localidad."
+   },
+   {
+    "id": "pcte-0064",
+    "partido": "pcte",
+    "titular": "Fin de las dobles escalas salariales por edad",
+    "marca_actual": [],
+    "texto": "- **Salarios por edad** — **Fin de las dobles escalas salariales** y de cualquier condición peor justificada por la edad: ningún contrato formativo por debajo del salario de convenio. **Mismo trabajo, mismo salario, tengas la edad que tengas**."
+   },
+   {
+    "id": "autonomos-0002",
+    "partido": "autonomos",
+    "titular": "Tres pilares: autónomos y comercio local, emprendimiento y sector público eficiente",
+    "marca_actual": [],
+    "texto": "Partido Autónomos apuesta por la gestión de profesionales para dirigir España y llevarla al progreso económico y social, garantizando el bienestar de todos los ciudadanos. Nos definimos como una formación transversal y neutral donde empieza la unión y acaba la polarización ideológica, defendiendo la igualdad ante la ley, la libertad individual, la dignidad de la persona y la iniciativa privada como motor de cohesión social.\n\nFrente a la ineficiencia de la política tradicional, proponemos administrar los recursos públicos con el mismo rigor, transparencia y responsabilidad con que un autónomo o una pyme gestiona su negocio cada día. Nuestras propuestas están avaladas por profesionales en activo y expertos sectoriales, sustituyendo el exceso de asesores políticos por gestión técnica y sentido común.\n\nNuestro programa 2026 se articula sobre tres pilares irrenunciables: la Defensa de los Autónomos y el Comercio Local, el Fomento del Emprendimiento y la Inversión Productiva, y la construcción de un Sector Público Profesional, Digital y Eficiente que rinda cuentas de cada euro recaudado.\n\n|**PILAR I**|**PILAR II**|**PILAR III**|\n|---|---|---|\n|**Defensa de los Autónomos**|**Fomento del Emprendimiento**|**Sector Público Profesional**|\n|Fiscalidad justa, cuota cero bajo el SMI y protección social equiparada.|Licencias exprés en 24h, segunda oportunidad real y apoyo a pymes.|Recorte del 50% en asesores, presupuesto base cero y digitalización.|"
+   },
+   {
+    "id": "autonomos-0003",
+    "partido": "autonomos",
+    "titular": "Cuota cero de autónomos cuando los ingresos no alcancen el SMI",
+    "marca_actual": [],
+    "texto": "01. **Cuota Cero automática cuando los ingresos no alcancen el SMI** — Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa.\n - **Viabilidad:** _Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-territorial",
+  "pregunta": "¿Hacia qué modelo territorial?",
+  "posiciones": [
+   {
+    "id": "recentralizar",
+    "nombre": "Frenar la descentralización o blindar competencias del Estado"
+   },
+   {
+    "id": "autonomico",
+    "nombre": "Mantener y mejorar el Estado autonómico"
+   },
+   {
+    "id": "federal",
+    "nombre": "Estado federal o plurinacional"
+   }
+  ],
+  "n": 18,
+  "palabras": 971,
+  "candidatos": [
+   {
+    "id": "compromis-0094",
+    "partido": "compromis",
+    "titular": "Gestión aeroportuaria con participación autonómica y municipal y recomendaciones OMS sobre ruido",
+    "marca_actual": [],
+    "texto": "- Defensarem un model de gestió aeroportuària que prioritze l’interés general, la salut pública i la qualitat de vida de les poblacions afectades, per damunt de criteris exclusivament econòmics. Donarem participació de la Generalitat i els Ajuntaments afectats en les decisions sobre ampliacions aeroportuàries, plans d’inversió i operacions de vol incloent les recomanacions de l’OMS en matèria de soroll, especialment durant el període nocturn."
+   },
+   {
+    "id": "compromis-0506",
+    "partido": "compromis",
+    "titular": "Traspasar a la Generalitat costas, puertos, aeropuertos, Rodalies, IMV e inspección de trabajo",
+    "marca_actual": [],
+    "texto": "- Avançarem en el desplegament de l’autogovern i en el traspàs a la Generalitat Valenciana de les competències que permeten gestionar millor els serveis i les infraestructures que afecten directament al territori. Entre elles, les competències en costes i litoral, ports, aeroports, rodalies, Ingrés Mínim Vital, inspecció de treball i altres àmbits estratègics, amb els recursos econòmics i humans necessaris per exercir-les."
+   },
+   {
+    "id": "compromis-0508",
+    "partido": "compromis",
+    "titular": "Avanzar hacia un Estado plurinacional que reconozca la diversidad nacional",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "- Avançarem cap a un model d’Estat plurinacional que reconega la diversitat nacional, cultural i lingüística."
+   },
+   {
+    "id": "compromis-0509",
+    "partido": "compromis",
+    "titular": "Reformar el Senado como espacio de representación y cooperación territorial",
+    "marca_actual": [],
+    "texto": "- Impulsarem una reforma del sistema de representació territorial que supere el funcionament actual del Senat i el convertisca en un espai efectiu de representació i cooperació entre els governs i els territoris."
+   },
+   {
+    "id": "compromis-0510",
+    "partido": "compromis",
+    "titular": "Reforma constitucional para recuperar el derecho civil valenciano",
+    "marca_actual": [],
+    "texto": "- Impulsarem la reforma constitucional necessària per a recuperar el dret civil valencià i així ampliar la legislació civil per a regular permisos de cures per a unions civils homologables entre amistats, garantir una regulació pròpia del matrimoni i drets de persones amb unions estables en general."
+   },
+   {
+    "id": "compromis-0511",
+    "partido": "compromis",
+    "titular": "Superar la estructura provincial y adaptar la gestión a la realidad comarcal",
+    "marca_actual": [],
+    "texto": "- Impulsarem una nova organització territorial que permeta superar l’actual estructura provincial i adaptarem la gestió supramunicipal a la realitat comarcal, rural i metropolitana."
+   },
+   {
+    "id": "fo-0168",
+    "partido": "fo",
+    "titular": "Comunidades autónomas simétricas y recuperación de competencias por el Estado",
+    "marca_actual": [
+     "recentralizar"
+    ],
+    "texto": "El sistema de las comunidades autónomas ha sido un fracaso que ha contribuido a crear más desigualdad entre españoles y a fomentar el crecimiento de movimientos separatistas en varias regiones de España. Curiosamente es en estas regiones donde más privilegios se tienen. Existe una burocratización excesiva, y en asuntos de gran relevancia, una inoperatividad general significativa.\n\nLa propuesta del Frente Obrero es iniciar un proceso inmediato en el que se consiga que las comunidades autónomas sean simétricas, es decir, que todas tengan los mismos derechos y obligaciones. A su vez, creemos que hay que reforzar el gobierno central, haciendo que recupere algunas competencias que jamás deberían de haber sido suyas, respetando las diferentes culturas de todas las regiones de España.\n\nDefendemos la unidad del país, posicionándonos contra todos los procesos de independencia existentes, los cuales son contrarios a los intereses de los trabajadores. Los microestados no tienen sentido en las condiciones materiales actuales y consideramos que la única forma efectiva de defender el futuro de los trabajadores es estando unidos y haciendo fuerza contra nuestro verdadero enemigo: el sistema capitalista."
+   },
+   {
+    "id": "fo-0169",
+    "partido": "fo",
+    "titular": "República encaminada al socialismo e igualdad de competencias entre autonomías",
+    "marca_actual": [],
+    "texto": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensamos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías. Los vascos o los catalanes no son ni más ni menos que los extremeños o los murcianos, las relaciones entre las diferentes regiones deben ser en igualdad, con las mismas condiciones para todos.\n\nEspaña es un país con una gran burocratización y, por ello, creemos que es necesario rebajar el número de cargos políticos y cargos administrativos acabando con duplicidades y puestos improductivos. También defendemos la unión de municipios para primar la operatividad, la eficacia y el bien de los ciudadanos, ya que en España hay demasiadas administraciones locales.\n\nPor todo ello, proponemos las siguientes medidas para ser aplicadas cuanto antes:"
+   },
+   {
+    "id": "fo-0170",
+    "partido": "fo",
+    "titular": "Mismas competencias y mismo régimen fiscal para todas las comunidades",
+    "marca_actual": [],
+    "texto": "1. Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones."
+   },
+   {
+    "id": "fo-0171",
+    "partido": "fo",
+    "titular": "Centralizar sanidad, educación y servicios de emergencia",
+    "marca_actual": [
+     "recentralizar"
+    ],
+    "texto": "2. Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia."
+   },
+   {
+    "id": "fo-0185",
+    "partido": "fo",
+    "titular": "Suprimir las policías autonómicas e integrarlas en la Policía Nacional",
+    "marca_actual": [
+     "recentralizar"
+    ],
+    "texto": "4. Supresión de las policías autonómicas. Deben ser integradas en la Policía Nacional, ya no tiene ningún sentido práctico que haya un desdoblamiento"
+   },
+   {
+    "id": "fe-0061",
+    "partido": "fe",
+    "titular": "Defensa de la unidad nacional de todos los territorios de España",
+    "marca_actual": [],
+    "texto": "- 5.1. España es una realidad tangible e indivisible. Los falangistas, en obediencia a nuestros propios puntos fundacionales, siendo depositarios de la Patria de nuestros ancestros, abogamos sin reservas por la Unidad Nacional de todos los territorios de la que componen España."
+   },
+   {
+    "id": "fe-0062",
+    "partido": "fe",
+    "titular": "Retirar competencias a las autonomías y disolverlas",
+    "marca_actual": [
+     "recentralizar"
+    ],
+    "texto": "- 5.2. Denunciamos como disolutivo e injusto el régimen de las autonomías consagrado en la Constitución de 1978, defendiendo en contraposición, un modelo de administración descentralizado, en el que la división territorial se funde en el municipio como elemento de base y en la provincia como unión de municipios y comarcas. Defendemos, en primer lugar y en el corto plazo, la retirada de todas las competencias a dichas entidades para, acto seguido, disolverlas y clausurar sus instituciones."
+   },
+   {
+    "id": "fe-0063",
+    "partido": "fe",
+    "titular": "Competencias solo administrativas para municipios y provincias; sanidad y educación, del Estado",
+    "marca_actual": [
+     "recentralizar"
+    ],
+    "texto": "- 5.3. El régimen competencial de los organismos municipales y provinciales debe ser ampliado, pero exclusivamente administrativo, sin potestad para la toma de decisiones en materias de competencia exclusiva del Estado, como pueden ser la Sanidad, la Educación, o las cuestiones relativas a la Seguridad del Estado, entre otras muchas."
+   },
+   {
+    "id": "fe-0064",
+    "partido": "fe",
+    "titular": "Ilegalizar el separatismo y duras penas por delitos contra la unidad de España",
+    "marca_actual": [],
+    "texto": "- 5.4. Apostamos por la contundencia e inflexibilidad contra todo movimiento separatista que amenace nuestra unidad, ilegalizando, persiguiendo e imponiendo duras penas para aquellos que perpetren delitos contra la Unidad de España."
+   },
+   {
+    "id": "fe-0065",
+    "partido": "fe",
+    "titular": "Afirmar la españolidad de Ceuta, Melilla, Canarias, Cataluña y Vascongadas",
+    "marca_actual": [],
+    "texto": "- 5.5. Afirmación de la españolidad de territorios hoy en cuestión como Ceuta, Melilla, las Islas Canarias, Cataluña o Vascongadas, aplicando todas las medidas y la contundencia que sea necesaria para la continuidad de España como Nación Indivisble."
+   },
+   {
+    "id": "fe-0151",
+    "partido": "fe",
+    "titular": "Estado central descentralizado con traslado de ministerios a otras ciudades",
+    "marca_actual": [],
+    "texto": "- 13.4. Defendemos la idea de un Estado central descentralizado. Dicha descentralización puede incluir el traslado de Ministerios y entidades estatales a aquellas ciudades o lugares donde sean más útiles."
+   },
+   {
+    "id": "autonomos-0048",
+    "partido": "autonomos",
+    "titular": "Reformar competencias autonómicas y eliminar duplicidades para garantizar la unidad de mercado",
+    "marca_actual": [],
+    "texto": "46. **Reforma de competencias autonómicas y eliminación de duplicidades** — Auditoría constitucional y transferencia de competencias duplicadas para garantizar la unidad de mercado en España, evitando que una pyme tenga que cumplir 17 normativas distintas de etiquetado, licencias o impuestos para operar en todo el país.\n - **Viabilidad:** _Es viable aplicando estrictamente la Ley de Garantía de la Unidad de Mercado, reduciendo costes de cumplimiento normativo que hoy frenan el crecimiento de las pymes españolas._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla, aplicarla o ampliarla"
+   }
+  ],
+  "n": 5,
+  "palabras": 608,
+  "candidatos": [
+   {
+    "id": "compromis-0009",
+    "partido": "compromis",
+    "titular": "Dar a los ayuntamientos competencia para declarar zonas tensionadas y controlar alquileres",
+    "marca_actual": [
+     "mantener-ampliar"
+    ],
+    "texto": "- Donarem competències als Ajuntaments perquè puguen declarar zones tensionades, d’acord amb la Llei estatal de Vivienda, als seus municipis per impulsar el control efectiu de preus de lloguer."
+   },
+   {
+    "id": "pacma-0366",
+    "partido": "pacma",
+    "titular": "Diagnóstico: alquiler un 94 % más caro y solo 3,4 % de vivienda social",
+    "marca_actual": [],
+    "texto": "Cada vez más personas se ven en serias dificultades para acceder a una vivienda, ya sea como compradoras o como inquilinas, abocadas a compartirla o a vivir en la periferia.\n\nEn la última década, el imparable auge del alquiler turístico ha reducido enormemente la oferta del alquiler de larga duración, provocando un desmedido aumento de los precios para los residentes. El precio medio del alquiler en España ha acumulado un incremento del 94% en los últimos 10 años, lo que provoca que las personas que arriendan tengan que destinar más de la mitad de sus ingresos a pagar el alquiler.\n\nSin embargo, la gravedad de la crisis habitacional es especialmente aguda en nuestro país, no sólo debido a la turistificación, sino también al escaso parque de vivienda social. Para que nos hagamos una idea, en España sólo el 3,4% del parque residencial es vivienda social. Se trata de uno de los porcentajes más bajos de la Unión Europea, cuya media ronda el 9%, destacando Países Bajos, con un 34%, Austria, con un 25% o Dinamarca, con un 20%.\n\nAdemás, este escaso volumen de vivienda pública o protegida reduce la capacidad del Estado para regular los precios del mercado libre frente a tensiones de demanda e inversión extranjera."
+   },
+   {
+    "id": "pacma-0371",
+    "partido": "pacma",
+    "titular": "Registro obligatorio del alquiler por habitaciones y de temporada contra el fraude",
+    "marca_actual": [
+     "mantener-ampliar"
+    ],
+    "texto": "- Persecución efectiva del fraude, blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio, evitando que se utilicen de forma fraudulenta para sortear la Ley de Vivienda."
+   },
+   {
+    "id": "fo-0133",
+    "partido": "fo",
+    "titular": "Diagnóstico: la vivienda convertida en mercancía y falta de vivienda pública",
+    "marca_actual": [],
+    "texto": "El problema de la vivienda en España ha pasado a ser uno de los problemas más presentes en la vida de los trabajadores. La vivienda, una necesidad básica para todos, se ha convertido en una mercancía más que forma parte de un mercado muy lucrativo en el que los grandes especuladores, bancos y fondos buitre obtienen incontables beneficios.\n\nEspaña no posee una cantidad de viviendas construidas suficiente para cubrir la demanda social, en especial en las zonas donde hay más tensión, es decir, en las ciudades. Sin una construcción de vivienda pública numerosa, este problema no se va a solucionar, más teniendo en cuenta los millones de inmigrantes que han venido de forma masiva a nuestro país y que se concentran en dichas zonas. El número de viviendas no ha crecido en la misma proporción que el aumento de población que hemos tenido. Reducir la inmigración es necesario, y no solo por la cuestión de la vivienda.\n\nEn las grandes ciudades, a consecuencia del turismo extranjero masivo y la gentrificación, los precios de la vivienda se han disparado, empujando a los trabajadores a abandonar sus barrios habituales y a vivir en las periferias, en las que sigue siendo difícil pagar una hipoteca o un alquiler."
+   },
+   {
+    "id": "pcte-0021",
+    "partido": "pcte",
+    "titular": "Diagnóstico: la vivienda como fuente de rentas y especulación que absorbe el salario",
+    "marca_actual": [],
+    "texto": "**La vivienda es una necesidad básica**, pero se ha convertido también en una fuente de rentas y especulación. Una parte creciente del salario termina en alquileres y cuotas hipotecarias mientras bancos, fondos y grandes propietarios acumulan viviendas. El problema de la vivienda no es un problema aparte: es **una parte del salario que se nos arrebata fuera del centro de trabajo**.\n\nLa consecuencia es que personas con empleo no pueden independizarse, y que perder ingresos puede significar perder también la casa. Por eso la lucha por la vivienda **se libra en dos frentes que deben ir unidos**: en los barrios, organizándonos vecinos y vecinas, y en los centros de trabajo. Hay que llevar hasta el final la lucha por la vivienda e **impedir el negocio con una necesidad tan básica como tener un techo**."
+   }
+  ]
+ },
+ {
+  "eje": "eje-eutanasia",
+  "pregunta": "¿Eutanasia o cuidados paliativos?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o garantizarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Poner el acento en los cuidados paliativos"
+   }
+  ],
+  "n": 4,
+  "palabras": 463,
+  "candidatos": [
+   {
+    "id": "compromis-0456",
+    "partido": "compromis",
+    "titular": "Garantizar la interrupción voluntaria del embarazo gratuita y accesible en la sanidad pública",
+    "marca_actual": [],
+    "texto": "- Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública, en els termes previstos legalment, sense desplaçaments injustificats ni obstacles administratius."
+   },
+   {
+    "id": "pacma-0013",
+    "partido": "pacma",
+    "titular": "Sacrificio cero de animales, distinto de la eutanasia veterinaria",
+    "marca_actual": [],
+    "texto": "PACMA lleva muchos años trabajando para establecer el sacrificio cero, diferenciándolo de los supuestos de eutanasia del animal, con la finalidad de evitar un sufrimiento grave e irremediable, como consecuencia de padecer una enfermedad o lesión sin posibilidad de curación que no permita tener una calidad de vida compatible con los parámetros mínimos de bienestar animal, y que, en todos los casos, debe ser prescrita y realizada por profesionales veterinarios, mediante métodos no crueles e indoloros, evitando causarles estrés u otros sufrimientos psíquicos, y suministrándoles sedación previamente.\n\nLa Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales, lamentablemente, solo ampara a los animales considerados de compañía y sobre éstos venía a prohibir, supuestamente, su sacrificio. Sin embargo, tras su entrada en vigor, la Dirección General de Derechos de los Animales daba el visto bueno a la propuesta de la Organización Colegial Veterinaria de incluir entre los supuestos contemplados para el certificado de eutanasia _la ausencia de disponibilidad de los medios necesarios, tales como los económicos, la naturaleza no manejable del animal, la incapacidad física para atender las necesidades del animal_ y un indeterminado “etcétera”.\n\nEvidentemente, matar a un animal cuya patología tiene posibilidad de cura, por semejantes motivos, no es una eutanasia; es un sacrificio."
+   },
+   {
+    "id": "pacma-0447",
+    "partido": "pacma",
+    "titular": "Envejecimiento activo y refuerzo de la atención intermedia, paliativos y geriatría",
+    "marca_actual": [],
+    "texto": "España registra un índice de envejecimiento récord del 148%, lo que significa que hay 148 personas mayores de 64 años por cada 100 menores de 16, según los datos publicados por la Fundación Adecco.\n\nConocer más y mejor las necesidades de las personas mayores era ya uno de los retos de nuestro país, llamado a estar entre los países más envejecidos del mundo en las próximas décadas.\n\nSin embargo, el impacto que supuso la crisis sanitaria por la pandemia en los centros geriátricos y residencias de la tercera edad expuso las debilidades del sistema sanitario y el vacío que existe en la responsabilidad social sobre las tareas de cuidado de las personas mayores, cuyas necesidades suelen ser relegadas a un segundo plano.\n\nEs fundamental **promover un envejecimiento activo desde el sistema de salud**, mediante una mayor implicación en el mantenimiento, el **refuerzo y** la **modernización de los servicios de atención intermedia**, incluyendo los cuidados paliativos y la geriatría, especialmente para las personas con patologías crónicas y discapacidades, con el objeto de potenciar su autonomía, compensar las limitaciones y/o paliar su malestar."
+   },
+   {
+    "id": "fe-0093",
+    "partido": "fe",
+    "titular": "Ilegalizar el aborto y la eutanasia",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- 7.6. La vida humana no es negociable. Ilegalizaremos todas las leyes que permiten hoy arrebatarla, tales como las del aborto y la eutanasia. A su vez, se legislará en pro de garantizar que la vida, una vez garantizada, es digna."
+   }
+  ]
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "pregunta": "¿Condonar parte de la deuda autonómica?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, condonarla"
+   },
+   {
+    "id": "no",
+    "nombre": "No, rechazar la condonación"
+   }
+  ],
+  "n": 10,
+  "palabras": 286,
+  "candidatos": [
+   {
+    "id": "compromis-0307",
+    "partido": "compromis",
+    "titular": "Prohibir en el Código Penal condonar deudas a fundaciones de partidos",
+    "marca_actual": [],
+    "texto": "- Reformarem el Codi Penal de manera que es prohibisca la condonació de deutes a les fundacions vinculades als partits polítics."
+   },
+   {
+    "id": "compromis-0494",
+    "partido": "compromis",
+    "titular": "Reformar la financiación autonómica con criterios poblacionales contra la infrafinanciación valenciana",
+    "marca_actual": [],
+    "texto": "- Reformarem el sistema de finançament autonòmic per a que atenga a criteris poblacionals i de prestació dels serveis públics i desenvolupament competencial, per tal d’acabar amb l’infrafinançament valencià."
+   },
+   {
+    "id": "compromis-0495",
+    "partido": "compromis",
+    "titular": "Concierto económico o que la Generalitat recaude la mayor parte de los tributos",
+    "marca_actual": [],
+    "texto": "- Apostarem per un concert econòmic responsable o, en el seu defecte, per un sistema de finançament on la Generalitat Valenciana recapte directament la major part dels tributs."
+   },
+   {
+    "id": "compromis-0496",
+    "partido": "compromis",
+    "titular": "Condonar la deuda histórica de la Generalitat Valenciana por infrafinanciación",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Exigirem la condonació del deute històric de la Generalitat Valenciana fruit de l'infrafinançament cronificat (un 78% del deute públic en total)."
+   },
+   {
+    "id": "compromis-0497",
+    "partido": "compromis",
+    "titular": "Fondo transitorio de nivelación hasta la media mientras no se reforme la financiación",
+    "marca_actual": [],
+    "texto": "- Posarem en marxa un fons transitori d’anivellament que equipare el nostre finançament a la mitjana de comunitats, mentre no s’aprove la reforma del finançament autonòmic, i evite seguir generant deute per l’infrafinançament."
+   },
+   {
+    "id": "compromis-0498",
+    "partido": "compromis",
+    "titular": "Reclamar al Estado la deuda con la Generalitat por atender a personas desplazadas",
+    "marca_actual": [],
+    "texto": "- Reclamarem el pagament del deute de l’Estat amb la Generalitat Valenciana per l’atenció a persones desplaçades d’altres territoris."
+   },
+   {
+    "id": "compromis-0499",
+    "partido": "compromis",
+    "titular": "Desarrollar el FOGA y el Fondo de Cohesión Sanitaria y pagar los importes pendientes",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem adequadament el Fons de Garantia Assistencial (FOGA) i el Fons de Cohesió Sanitària, diferenciant-ne les funcions i garantint la liquidació i el pagament dels imports pendents."
+   },
+   {
+    "id": "compromis-0503",
+    "partido": "compromis",
+    "titular": "Ampliar el Fondo de Compensación Interterritorial hacia la convergencia en renta per cápita",
+    "marca_actual": [],
+    "texto": "- Ampliarem la dotació del Fons de Compensació Interterritorial i modificarem la seua normativa per a que l’objectiu siga la convergència en renda per càpita de les Comunitat Autònomes."
+   },
+   {
+    "id": "fo-0170",
+    "partido": "fo",
+    "titular": "Mismas competencias y mismo régimen fiscal para todas las comunidades",
+    "marca_actual": [],
+    "texto": "1. Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones."
+   },
+   {
+    "id": "fe-0042",
+    "partido": "fe",
+    "titular": "Hipotecas del ICO cercanas al 0 % y condonación parcial por cada hijo",
+    "marca_actual": [],
+    "texto": "- 2.5. Lucha contra la usura: Concesión de créditos hipotecarios a cargo del Instituto de Crédito Oficial a muy bajo interés, cercanas al 0%. Para familias jóvenes españolas, condonación automática de un porcentaje del capital principal de la deuda con el nacimiento de cada hijo, quedando la deuda totalmente saldada al cuarto hijo."
+   }
+  ]
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 2,
+  "palabras": 171,
+  "candidatos": [
+   {
+    "id": "compromis-0327",
+    "partido": "compromis",
+    "titular": "Ampliar el derecho de voto a los 16 años",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Ampliarem el dret de vot als 16 anys."
+   },
+   {
+    "id": "pacma-0445",
+    "partido": "pacma",
+    "titular": "El Gobierno puede prohibir ya la entrada de menores de 16 a festejos taurinos",
+    "marca_actual": [],
+    "texto": "De hecho, no es que sea una de sus competencia. Es que es su deber y podría hacerlo mañana mismo para menores de 16 años. Y es que el RD 2816/1982, de 27 de agosto, por el que se aprueba el Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas prohíbe en la entrada y permanencia de menores de esa edad en los espectáculos y demás actividades clasificadas por el Ministerio de Cultura para mayores de 16. Dos veces que así lo hemos solicitado al ministro Urtasun a lo largo de la legislatura y dos veces que se ha negado.\n\nAun así, tras las alegaciones de PACMA ante el Comité, al Gobierno no le quedó más remedio que reconocer que sí puede prohibir la asistencia y participación de menores en espectáculos y festejos taurinos y, durante la sesión celebrada el pasado mes de enero, la ministra de Infancia se comprometió a ello ante el Comité, modificando la LOPIVI en este sentido."
+   }
+  ]
+ }
+]

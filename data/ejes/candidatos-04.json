@@ -1,0 +1,1678 @@
+[
+ {
+  "eje": "eje-patrimonio",
+  "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlos o bajarlos"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlos o subirlos"
+   }
+  ],
+  "n": 34,
+  "palabras": 3152,
+  "candidatos": [
+   {
+    "id": "pp-0011",
+    "partido": "pp",
+    "titular": "Priorizar servicios públicos y conservación de infraestructuras frente a obras nuevas",
+    "marca_actual": [],
+    "texto": "**2 LOS SERVICIOS PÚBLICOS Y LAS INFRAESTRUCTURAS ESENCIALES IRÁN PRIMERO.** Tenemos grandes proyectos para España, pero no vamos a prometer que todo puede hacerse a la vez. Daremos prioridad a recuperar la calidad de los servicios públicos y a garantizar la seguridad y el mantenimiento de las redes de transporte, agua, energía y comunicaciones. La conservación irá por delante de las obras nuevas, y acometeremos las inversiones que generan empleo y riqueza conforme dispongamos de recursos para financiarlas. Diremos la verdad a los españoles: qué haremos primero, qué tendrá que esperar y cómo se pagará."
+   },
+   {
+    "id": "pp-0195",
+    "partido": "pp",
+    "titular": "Reforzar la economía social con un marco normativo estable",
+    "marca_actual": [],
+    "texto": "**176 UNA ECONOMÍA SOCIAL MÁS FUERTE Y COMPETITIVA.** Reconoceremos el papel estratégico de la Economía Social en la creación de empleo, la generación de riqueza y la cohesión social. Favoreceremos el crecimiento y la competitividad de cooperativas, sociedades laborales, mutualidades, empresas de inserción, centros especiales de empleo y demás entidades que la integran. Garantizaremos un marco normativo estable, seguridad jurídica y respeto a la diversidad de sus modelos empresariales, eliminando las barreras que dificultan su desarrollo."
+   },
+   {
+    "id": "pp-0201",
+    "partido": "pp",
+    "titular": "Aprobar un Estatuto del Contribuyente con derecho al error",
+    "marca_actual": [],
+    "texto": "**182 HACIENDA CONFIARÁ EN EL CONTRIBUYENTE QUE CUMPLE.** Aprobaremos un Estatuto del Contribuyente que cambie la relación con Hacienda. Reconoceremos el derecho al error y garantizaremos que ningún cambio de criterio desfavorable se aplique con efecto retroactivo. Simplificaremos el sistema tributario y reforzaremos el Consejo para la Defensa del Contribuyente y las garantías institucionales para ofrecer mayor seguridad al contribuyente y hacer más previsible la política tributaria. Mediremos y evaluaremos los resultados de estas medidas para comprobar su eficacia."
+   },
+   {
+    "id": "pp-0203",
+    "partido": "pp",
+    "titular": "Trato fiscal equivalente para todas las formas de ahorro",
+    "marca_actual": [],
+    "texto": "**184 HACIENDA NO PENALIZARÁ NINGUNA FORMA DE AHORRO.** Queremos ayudar a que los españoles ahorren. Hay muchas formas de hacerlo y todas son beneficiosas. Por eso Hacienda dará un trato fiscal equivalente a las distintas formas de ahorro mientras el dinero siga invertido, para que los españoles puedan elegir cómo ahorrar y en qué ahorrar."
+   },
+   {
+    "id": "pp-0204",
+    "partido": "pp",
+    "titular": "Las comunidades decidirán sus impuestos y podrán bajarlos cuanto quieran",
+    "marca_actual": [],
+    "texto": "**185 NINGÚN GOBIERNO OBLIGARÁ A UNA COMUNIDAD A SUBIR IMPUESTOS.** Las Comunidades Autónomas seguirán decidiendo con libertad sobre sus impuestos propios y cedidos, dentro de sus competencias, y podrán bajarlos cuanto quieran."
+   },
+   {
+    "id": "psoe-0011",
+    "partido": "psoe",
+    "titular": "Apostar por la prosperidad compartida ante la IA y la digitalización",
+    "marca_actual": [],
+    "texto": "Vivimos una etapa de profundas transformaciones en la forma de generar riqueza, de organizar las empresas, de producir bienes y servicios y de consumirlos. La digitalización de los procesos productivos, la transición energética y, sobre todo, la llegada de la inteligencia artificial abren enormes posibilidades para aumentar la productividad de nuestra economía, garantía última de la mejora de los estándares de vida. Pero estos cambios también plantean grandes retos, muchos de ellos todavía desconocidos: incertidumbre laboral, nuevas desigualdades, y carreras profesionales más variadas y menos predecibles.\n\nEstas transformaciones pueden impulsar el crecimiento y mejorar las condiciones de vida a largo plazo, pero también pueden ensanchar las brechas sociales y multiplicar la incertidumbre. Que prevalezca una cosa depende de las decisiones que tomemos. Por eso, necesitamos gobiernos que apuesten por la denominada «prosperidad compartida»: orientar la innovación y la modernización del tejido productivo para que la tecnología complemente a los trabajadores en lugar de sustituirlos, y construir un marco regulatorio que garantice un reparto justo de las ganancias que generen estos cambios."
+   },
+   {
+    "id": "psoe-0135",
+    "partido": "psoe",
+    "titular": "Balance: impuestos extraordinarios a banca y energéticas y menos IRPF a rentas bajas",
+    "marca_actual": [],
+    "texto": "Además, hemos avanzado hacia una fiscalidad más justa, en la que quienes más tienen contribuyen más y quienes menos tienen pagan menos. Hemos aprobado impuestos extraordinarios a la banca y a las grandes energéticas, aunque las derechas derogaron la prórroga del segundo en 2025. Hemos elevado al 30% la tributación de las rentas del ahorro superiores a 300.000 euros y adoptado medidas para evitar las bonificaciones autonómicas del impuesto sobre el patrimonio. Al mismo tiempo, hemos mejorado la fiscalidad de las rentas bajas: una persona que cobra el SMI ahorra hoy 780 euros anuales en IRPF respecto al último Gobierno del PP, descontando la inflación.\n\nLos resultados de estas políticas son claros. Desde 2018, la renta real de los hogares ha crecido un 11%, más que en Francia, Italia o Alemania. El porcentaje de personas que llega con dificultades a fin de mes ha caído del 16,7% al 12,1%. La desigualdad y el riesgo de pobreza han alcanzado mínimos de la serie histórica, porque los ingresos de quienes menos tienen han crecido mucho más rápido que los ingresos de los más ricos. Y hemos reducido la brecha de género en más de cinco puntos."
+   },
+   {
+    "id": "psoe-0188",
+    "partido": "psoe",
+    "titular": "Financiar la prestación por crianza con impuestos a grandes patrimonios y capital",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "**127. Ingresos nuevos para derechos nuevos** . La recaudación de la tributación complementaria de los grandes patrimonios y de la mayor progresividad de las rentas del capital contribuirá a financiar la prestación por crianza y la lucha contra la pobreza infantil."
+   },
+   {
+    "id": "psoe-0191",
+    "partido": "psoe",
+    "titular": "Una fiscalidad justa con más impuestos a los ultrarricos",
+    "marca_actual": [],
+    "texto": "Una fiscalidad justa es la única forma de garantizar que los beneficios del crecimiento económico se redistribuyan entre el conjunto de la sociedad. Y que todos se beneficien de la prosperidad generada. Ya sea con más impuestos a los ultrarricos, una mejor colaboración entre países en la lucha contra la evasión fiscal, o un sistema fiscal más eficiente. Estas medidas permiten alcanzar dicho objetivo.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0192",
+    "partido": "psoe",
+    "titular": "Tipo máximo del 35 % para rentas del capital superiores a 300.000 euros",
+    "marca_actual": [],
+    "texto": "**130. Introducir progresividad a la imposición del capital.** Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€."
+   },
+   {
+    "id": "psoe-0197",
+    "partido": "psoe",
+    "titular": "Subir la tasa Tobin del 0,2 % al 0,4 %",
+    "marca_actual": [],
+    "texto": "**135. Reforzar el impuesto sobre las transacciones financieras (tasa Tobin).** Reforzar la tasa Tobin aumentando el tipo impositivo del 0,2% al 0,4%. El impuesto sobre las transacciones financieras grava en un 0,2% las operaciones de adquisición de acciones de sociedades españolas, siempre que sean cotizadas y con una capitalización bursátil superior a los 1.000 M de euros."
+   },
+   {
+    "id": "psoe-0261",
+    "partido": "psoe",
+    "titular": "Prestación estatal por crianza para todos los hogares con menores",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "**192. Prestación estatal por crianza** para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente: un nuevo derecho para los 8 millones de niñas, niños y adolescentes de nuestro país. Será una prestación progresiva para apoyar la crianza y proteger de forma más eficaz a los hogares de menor renta. Su implementación contará con financiará procedente de la nueva tributación de los grandes patrimonios y rentas del capital."
+   },
+   {
+    "id": "psoe-0587",
+    "partido": "psoe",
+    "titular": "Impulsar un impuesto mínimo global sobre las grandes fortunas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "**457. Impulsar la creación de un impuesto mínimo global sobre** las grandes fortunas, como pieza central de una fiscalidad internacional más justa y capaz de financiar los bienes públicos mundiales. Para lograrlo, reforzaremos la cooperación tributaria multilateral y la alianza fiscal con el Sur Global."
+   },
+   {
+    "id": "psoe-0588",
+    "partido": "psoe",
+    "titular": "Reforzar la tributación mínima de multinacionales y debatir un gravamen sobre tokens de IA",
+    "marca_actual": [],
+    "texto": "**458. Apoyar de forma activa los trabajos de la OCDE y las Naciones Unidas para reforzar la tributación mínima efectiva de los grandes grupos multinacionales** , **especialmente en la economía digital** . Asimismo, promoveremos el debate internacional sobre la creación de un gravamen específico sobre los tokens utilizados por los modelos de inteligencia artificial, para que una parte de la riqueza generada gracias al conocimiento, la creación y los datos acumulados por la humanidad revierta en el conjunto de la sociedad y contribuya a afrontar sus impactos sociales, laborales y medioambientales."
+   },
+   {
+    "id": "vox-0002",
+    "partido": "vox",
+    "titular": "Rebaja masiva de impuestos: IRPF, IVA, Sociedades y cuota cero de autónomos",
+    "marca_actual": [],
+    "texto": "2. Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.\n - Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.\n - Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.\n - Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.\n - Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.\n - Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas."
+   },
+   {
+    "id": "vox-0007",
+    "partido": "vox",
+    "titular": "Garantizar la sostenibilidad de las pensiones con crecimiento económico y natalidad",
+    "marca_actual": [],
+    "texto": "7. Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza. Una economía más productiva es la garantía de sostenibilidad de las pensiones y de mejores servicios públicos. Además, es necesario impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza, contribuyendo a revertir el envejecimiento demográfico y el descenso de la natalidad en España."
+   },
+   {
+    "id": "vox-0008",
+    "partido": "vox",
+    "titular": "Reindustrialización, bajada de impuestos a la energía y recuperar el plan nuclear",
+    "marca_actual": [],
+    "texto": "8. Reindustrialización radical de la economía española Revolucionar la política energética: segura, cierta y asequible. Un futuro para la España Abandonada.\n - Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas. Fin de la doble imposición. Aprovechamiento de nuestros recursos energéticos, la mejora de las redes y la reducción de cargas fiscales y regulatorias. Plan Nacional de Soberanía Energética.\n\n**•** Fin del tope regulatorio a la inversión en redes eléctricas. Eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda. Además, las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.\n\n- Suspender la aplicación en España de acuerdos internacionales que impiden nuestro desarrollo productivo y la prosperidad de trabajadores, familias, empresas e industrias españolas.\n\n- Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de combustión, impuestos a las emisiones de CO2) inspiradas en el Pacto Verde Europeo, la Agenda 2030 y otros acuerdos no sometidos a votación por los españoles.\n\n- Fin a las restricciones para poder explorar, investigar y explotar nuestros recursos naturales y yacimientos minerales. Protección de España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas. Mayor peso a consideraciones sobre seguridad económica, soberanía industrial y seguridad nacional.\n\n- Recuperar urgentemente el plan nuclear nacional. Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre. Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales. Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.\n\n- Aprobación de un Plan Nacional de Reindustrialización enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y la baja participación de la industria en el PIB. Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.\n\n- Trabajo estable y salarios dignos para los españoles. Poner fin a la situación de desempleo, precariedad laboral y bajos salarios provocada por el Gobierno de Sánchez, que hacen prácticamente imposible que los jóvenes españoles puedan acceder a un empleo estable, desarrollar un proyecto de vida independiente, emanciparse y formar una familia.\n\n- Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible, que ha maquillado las cifras de temporalidad y que beneficia al duopolio sindical que ha traicionado a los trabajadores.\n\n**•** Fomentar la industria turística mediante empleos de calidad y garantizando la convivencia y la preservación de la identidad de nuestros barrios. Adoptar medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España abandonada por los sucesivos gobiernos. Fomento del turismo rural, de montaña o interior, y apoyo a la conservación y difusión de nuestro patrimonio natural, cultural y artístico."
+   },
+   {
+    "id": "vox-0054",
+    "partido": "vox",
+    "titular": "Impedir la instalación descontrolada de macro plantas solares y eólicas",
+    "marca_actual": [],
+    "texto": "54. Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica."
+   },
+   {
+    "id": "fa-0006",
+    "partido": "fa",
+    "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "4. Una reforma fiscal que pague el 1 % para que se beneficie el 99 %. Los derechos se sostienen con justicia tributaria. Nuestra reforma fiscal hará que el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos—, mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía."
+   },
+   {
+    "id": "fa-0251",
+    "partido": "fa",
+    "titular": "Sin emancipación feminista sin justicia social ni redistribución del tiempo",
+    "marca_actual": [],
+    "texto": "Al mismo tiempo, entendemos que no hay emancipación feminista sin justicia social ni redistribución del tiempo y la riqueza. Por ello, situamos la corresponsabilidad y el reconocimiento de los cuidados como un pilar central del Estado del bienestar, impulsando servicios públicos fuertes, el derecho efectivo a la vivienda, la reducción de la jornada laboral y medidas decididas para acabar con la brecha salarial y la precariedad que siguen golpeando de forma desproporcionada a las mujeres.\n\nNuestro compromiso es claro: conquistar tiempo para vivir, garantizar derechos para todas y construir un horizonte común donde nadie quede atrás.\n\nMás recursos para poder garantizar vidas libres de violencias machistas"
+   },
+   {
+    "id": "fa-0305",
+    "partido": "fa",
+    "titular": "Reformar las SICAV con tope de concentración y plazo de 4 años",
+    "marca_actual": [],
+    "texto": "- Regulación de las SICAV: Reformaremos el régimen de las Sociedades de Inversión de Capital Variable (SICAV), fijando un tope a la concentración de capital en manos de un mismo accionista y estableciendo un periodo máximo de 4 años para mantener las plusvalías acumuladas."
+   },
+   {
+    "id": "fa-0309",
+    "partido": "fa",
+    "titular": "Que los patrimonios de más de un millón tributen como mínimo un 2 %",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %. Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %. El tipo impositivo actual del impuesto aumentará 2 puntos sobre la escala actual y 3 puntos a partir de los 50 millones. Para ello, reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para reducir de tres a un millón de euros el patrimonio neto a partir del cual comienza a operar, sin perjuicio del mínimo exento de 700.000 euros. Para calcular el límite conjunto con el IRPF y el Impuesto sobre el Patrimonio se tendrá en cuenta la cuota efectivamente pagada en Patrimonio y no la cuota íntegra. El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio, con deducción de las cuotas efectivamente satisfechas por este último y con el objetivo de impedir que las bonificaciones autonómicas vacíen la tributación de las grandes fortunas."
+   },
+   {
+    "id": "fa-0310",
+    "partido": "fa",
+    "titular": "Tasa Zucman: 3 % anual sobre patrimonios de más de 50 millones",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Implantaremos la Tasa Zucman, consistente en un impuesto estatal, permanente y finalista del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros. No se admitirán exenciones a la empresa familiar ni bonificaciones de comunidades autónomas. Incluirá una cláusula antideslocalización que mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero. Operará como un mínimo efectivo de recaudación del 3 % sobre todos los patrimonios a partir de los 50 millones. La recaudación financiará la Prestación Universal por Crianza."
+   },
+   {
+    "id": "fa-0311",
+    "partido": "fa",
+    "titular": "Impuesto estatal sobre las herencias de más de un millón de euros",
+    "marca_actual": [],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes herencias, de más de un millón de euros. Será estatal y complementario del Impuesto sobre Sucesiones y"
+   },
+   {
+    "id": "fa-0312",
+    "partido": "fa",
+    "titular": "Tarifa progresiva hasta el 34 % en el impuesto estatal a grandes herencias",
+    "marca_actual": [],
+    "texto": "Donaciones y gravará las adquisiciones gratuitas de riqueza de más de un millón de euros netos por beneficiario. Aplicaremos una tarifa progresiva que alcanza un marginal del 34 % y deduciremos el impuesto autonómico efectivamente satisfecho. Gravaremos herencias, donaciones y los seguros de vida en los supuestos previstos en la norma, manteniendo las reducciones por parentesco, discapacidad, transmisión de empresas y vivienda habitual, y otras legalmente contempladas. Los residentes estarán sujetos por sus adquisiciones mundiales y los no residentes por las vinculadas al territorio español según las reglas de la ley. La recaudación será estatal, sin cesión a las comunidades autónomas, para asegurar un suelo común de tributación sin impedir una mayor contribución autonómica."
+   },
+   {
+    "id": "fa-0313",
+    "partido": "fa",
+    "titular": "Limitar las herencias a 10 millones por heredero con un marginal del 100 %",
+    "marca_actual": [],
+    "texto": "- Limitaremos las herencias de los ultrarricos a un máximo de 10 millones de euros por heredero. Esta limitación se implementará estableciendo un tipo impositivo marginal del 100 % sobre el tramo de la base imponible que supere esa cifra en el Impuesto sobre Sucesiones y Donaciones. En el importe total se tendrán en cuenta las donaciones recibidas en vida y no se permitirán las bonificaciones autonómicas. No obstante, quedará exenta una vivienda por heredero hasta un máximo de 5. Es una medida orientada a restringir el poder económico y político de los grandes patrimonios de nuestro país. Pero, al mismo tiempo, la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda, contribuyendo así a frenar la transmisión intergeneracional de la pobreza y a promover una mayor igualdad de oportunidades."
+   },
+   {
+    "id": "fa-0314",
+    "partido": "fa",
+    "titular": "Impuesto estatal progresivo sobre inmuebles de más de un millón de euros",
+    "marca_actual": [],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes propiedades inmobiliarias. Homogeneizará la tributación de los inmuebles de más de un millón de euros y será progresivo según su valor catastral."
+   },
+   {
+    "id": "fa-0315",
+    "partido": "fa",
+    "titular": "Acercar la tributación de las rentas del capital a la del trabajo",
+    "marca_actual": [],
+    "texto": "- Acercaremos la tributación de las rentas del capital a la de las rentas del trabajo. Hoy las rentas del capital tributan entre el 19 % y el 30 %, mientras que las del trabajo lo hacen entre el 19 % y el 47 %. Así, las clases medias y trabajadoras, que viven de su salario, pagan proporcionalmente más que las rentas altas, que obtienen buena parte de sus ingresos del capital."
+   },
+   {
+    "id": "fa-0326",
+    "partido": "fa",
+    "titular": "Ampliar el impuesto sobre transacciones financieras a renta fija, acciones y derivados",
+    "marca_actual": [],
+    "texto": "- Ampliaremos el impuesto sobre las transacciones financieras a la renta fija privada (0,1 %), las acciones (0,2 %) y los derivados financieros (0,3 %) para desincentivar las operaciones financieras especulativas."
+   },
+   {
+    "id": "fa-0338",
+    "partido": "fa",
+    "titular": "Centrar la lucha antifraude en grandes patrimonios y crear la ANIFI",
+    "marca_actual": [],
+    "texto": "- Centraremos la lucha contra el fraude en las grandes empresas y los grandes patrimonios. La Agencia Tributaria y la IGAE darán prioridad a la detección del fraude fiscal y el blanqueo de capitales de quienes más tienen. Crearemos la Autoridad Nacional de Integridad Financiera (ANIFI) integrando el Sepblac y las competencias de inteligencia financiera, supervisión, inspección y sanción actualmente dispersas."
+   },
+   {
+    "id": "fa-0343",
+    "partido": "fa",
+    "titular": "Revisar los beneficios fiscales, suprimir los injustificados y publicar su coste",
+    "marca_actual": [],
+    "texto": "- Revisaremos los beneficios fiscales y haremos visible su coste. Evaluaremos deducciones, bonificaciones y exenciones según sus objetivos y sus beneficiarios, suprimiendo las que carezcan de justificación o refuercen la desigualdad. Publicaremos su coste y su distribución por renta, patrimonio y tamaño empresarial, junto a una explicación accesible del destino de los impuestos."
+   },
+   {
+    "id": "fa-0421",
+    "partido": "fa",
+    "titular": "Destinar por ley el 3,5 % del PIB anual a la transición ecológica justa",
+    "marca_actual": [],
+    "texto": "- La crisis climática es el gran desafío de nuestro tiempo. Las olas de calor, los incendios, las inundaciones y las sequías ya forman parte de nuestras vidas, y quienes más las sufren son los barrios vulnerables y las personas que trabajan en el campo, la construcción o al aire libre. Descarbonizar y electrificar la economía es también una gran oportunidad para crear empleo y riqueza y para vivir mejor. No hay transición posible si las personas no viven mejor gracias a ella. Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transición ecológica justa, descarbonización industrial, adaptación al cambio climático e infraestructuras verdes."
+   },
+   {
+    "id": "fa-0720",
+    "partido": "fa",
+    "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Las rebajas fiscales autonómicas no las pagará el resto del país. El Impuesto sobre el Patrimonio se computará en el sistema por lo que se recaudaría sin las bonificaciones de cada comunidad, y el de Sucesiones y Donaciones por un valor normativo actualizado. Además, fijaremos por ley un mínimo común de tributación en ambos impuestos en todo el territorio. Las deducciones autonómicas del IRPF dejarán de poder aplicarse para beneficiar a los que más tienen. Quien regale impuestos a los más ricos lo hará con sus propios recursos."
+   },
+   {
+    "id": "fa-0868",
+    "partido": "fa",
+    "titular": "Agencia fiscal internacional e impuesto global a las grandes riquezas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Agencia fiscal internacional e impuesto a las grandes riquezas: Defenderemos en foros multilaterales la creación de una agencia fiscal internacional y la implantación de un impuesto global sobre las grandes riquezas para combatir la desigualdad planetaria."
+   }
+  ]
+ },
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 36,
+  "palabras": 2765,
+  "candidatos": [
+   {
+    "id": "pp-0173",
+    "partido": "pp",
+    "titular": "Ampliar el aval público de hasta el 20 % a compradores menores de 40",
+    "marca_actual": [],
+    "texto": "**154 EL ESTADO AVALARÁ LA ENTRADA A QUIEN PUEDA PAGAR LA HIPOTECA.** Ampliaremos el aval público, que cubre hasta el 20% del valor de la vivienda, a los compradores menores de 40 años, con la posibilidad de ampliar el límite de edad hasta los 50, para que tener unos padres con ahorros deje de ser condición para comprar una vivienda. El aval público facilitará que la hipoteca cubra también la entrada que hoy muchos jóvenes no pueden reunir."
+   },
+   {
+    "id": "pp-0174",
+    "partido": "pp",
+    "titular": "Crear la Hucha Hogar Joven con deducción del 20 % de lo aportado",
+    "marca_actual": [],
+    "texto": "**155 CREAREMOS LA HUCHA HOGAR JOVEN.** Los jóvenes menores de 40 años podrán aportar hasta 2.000 euros al año a una cuenta de ahorro para la compra de su primera vivienda, con una deducción fiscal del 20% de lo aportado. El límite de aportaciones acumuladas será de 40.000 euros. Los rendimientos generados estarán exentos de tributación siempre que el ahorro se destine a la compra de la primera vivienda. Además, podrán acceder a un aval por un importe equivalente al ahorro acumulado, hasta un máximo de 40.000 euros, para obtener financiación a un tipo de interés bonificado."
+   },
+   {
+    "id": "pp-0203",
+    "partido": "pp",
+    "titular": "Trato fiscal equivalente para todas las formas de ahorro",
+    "marca_actual": [],
+    "texto": "**184 HACIENDA NO PENALIZARÁ NINGUNA FORMA DE AHORRO.** Queremos ayudar a que los españoles ahorren. Hay muchas formas de hacerlo y todas son beneficiosas. Por eso Hacienda dará un trato fiscal equivalente a las distintas formas de ahorro mientras el dinero siga invertido, para que los españoles puedan elegir cómo ahorrar y en qué ahorrar."
+   },
+   {
+    "id": "psoe-0022",
+    "partido": "psoe",
+    "titular": "Crear la Cuenta de Ahorro e Inversión Financia Europa",
+    "marca_actual": [],
+    "texto": "**4. Poner en marcha la Cuenta de Ahorro e Inversión Financia Europa** , con incentivos para canalizar el ahorro desde el ladrillo hasta inversión productiva más beneficiosa y que contribuya a la reindustrialización de la economía española y europea."
+   },
+   {
+    "id": "psoe-0066",
+    "partido": "psoe",
+    "titular": "Balance: ayudas al alquiler y programa TU CASA de 10.000 millones",
+    "marca_actual": [],
+    "texto": "Nuestro objetivo es que cualquier joven pueda emanciparse y desarrollar su proyecto de vida. Para ello, hemos aprobado ayudas al alquiler y deducciones en la renta para quien pague un alquiler. Y para quien quiera comprar, hemos lanzado el programa TU CASA, dotado con 10.000 millones de euros, con préstamos de hasta 50.000 euros sin intereses para la compra de la primera vivienda, para acompañar a las personas con ingresos estables, pero sin capacidad de ahorro.\n\nEspaña es diversa y por eso hemos prestado una mirada singular al problema de la vivienda en el mundo rural, conscientes de que facilitar vivienda digna y asequible es una de las mejores fórmulas de combatir la despoblación. Hemos multiplicado los recursos para la rehabilitación de viviendas en cascos históricos y habilitando programas de cesión a las administraciones públicas para que sean estas las que gestionen el alquiler. Con una atención especial a la juventud, para la que se han dispuesto ayudas directas para la adquisición de la primera vivienda.\n\nEl reto de la próxima etapa es acelerar y consolidar la transformación iniciada. Para algunos, la crisis de acceso a la vivienda se debe exclusivamente a una insuficiencia de oferta, debido a falta de inversión o trabas administrativas. Es una explicación, en el mejor de los casos, parcial e incompleta."
+   },
+   {
+    "id": "psoe-0135",
+    "partido": "psoe",
+    "titular": "Balance: impuestos extraordinarios a banca y energéticas y menos IRPF a rentas bajas",
+    "marca_actual": [],
+    "texto": "Además, hemos avanzado hacia una fiscalidad más justa, en la que quienes más tienen contribuyen más y quienes menos tienen pagan menos. Hemos aprobado impuestos extraordinarios a la banca y a las grandes energéticas, aunque las derechas derogaron la prórroga del segundo en 2025. Hemos elevado al 30% la tributación de las rentas del ahorro superiores a 300.000 euros y adoptado medidas para evitar las bonificaciones autonómicas del impuesto sobre el patrimonio. Al mismo tiempo, hemos mejorado la fiscalidad de las rentas bajas: una persona que cobra el SMI ahorra hoy 780 euros anuales en IRPF respecto al último Gobierno del PP, descontando la inflación.\n\nLos resultados de estas políticas son claros. Desde 2018, la renta real de los hogares ha crecido un 11%, más que en Francia, Italia o Alemania. El porcentaje de personas que llega con dificultades a fin de mes ha caído del 16,7% al 12,1%. La desigualdad y el riesgo de pobreza han alcanzado mínimos de la serie histórica, porque los ingresos de quienes menos tienen han crecido mucho más rápido que los ingresos de los más ricos. Y hemos reducido la brecha de género en más de cinco puntos."
+   },
+   {
+    "id": "psoe-0188",
+    "partido": "psoe",
+    "titular": "Financiar la prestación por crianza con impuestos a grandes patrimonios y capital",
+    "marca_actual": [],
+    "texto": "**127. Ingresos nuevos para derechos nuevos** . La recaudación de la tributación complementaria de los grandes patrimonios y de la mayor progresividad de las rentas del capital contribuirá a financiar la prestación por crianza y la lucha contra la pobreza infantil."
+   },
+   {
+    "id": "psoe-0192",
+    "partido": "psoe",
+    "titular": "Tipo máximo del 35 % para rentas del capital superiores a 300.000 euros",
+    "marca_actual": [],
+    "texto": "**130. Introducir progresividad a la imposición del capital.** Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€."
+   },
+   {
+    "id": "psoe-0197",
+    "partido": "psoe",
+    "titular": "Subir la tasa Tobin del 0,2 % al 0,4 %",
+    "marca_actual": [],
+    "texto": "**135. Reforzar el impuesto sobre las transacciones financieras (tasa Tobin).** Reforzar la tasa Tobin aumentando el tipo impositivo del 0,2% al 0,4%. El impuesto sobre las transacciones financieras grava en un 0,2% las operaciones de adquisición de acciones de sociedades españolas, siempre que sean cotizadas y con una capitalización bursátil superior a los 1.000 M de euros."
+   },
+   {
+    "id": "psoe-0261",
+    "partido": "psoe",
+    "titular": "Prestación estatal por crianza para todos los hogares con menores",
+    "marca_actual": [],
+    "texto": "**192. Prestación estatal por crianza** para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente: un nuevo derecho para los 8 millones de niñas, niños y adolescentes de nuestro país. Será una prestación progresiva para apoyar la crianza y proteger de forma más eficaz a los hogares de menor renta. Su implementación contará con financiará procedente de la nueva tributación de los grandes patrimonios y rentas del capital."
+   },
+   {
+    "id": "psoe-0587",
+    "partido": "psoe",
+    "titular": "Impulsar un impuesto mínimo global sobre las grandes fortunas",
+    "marca_actual": [],
+    "texto": "**457. Impulsar la creación de un impuesto mínimo global sobre** las grandes fortunas, como pieza central de una fiscalidad internacional más justa y capaz de financiar los bienes públicos mundiales. Para lograrlo, reforzaremos la cooperación tributaria multilateral y la alianza fiscal con el Sur Global."
+   },
+   {
+    "id": "fa-0006",
+    "partido": "fa",
+    "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+    "marca_actual": [],
+    "texto": "4. Una reforma fiscal que pague el 1 % para que se beneficie el 99 %. Los derechos se sostienen con justicia tributaria. Nuestra reforma fiscal hará que el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos—, mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía."
+   },
+   {
+    "id": "fa-0067",
+    "partido": "fa",
+    "titular": "Oficinas de proximidad y ventanilla única de financiación de la rehabilitación",
+    "marca_actual": [],
+    "texto": "- Desplegaremos Oficinas de Proximidad como ventanillas únicas en red, coordinadas por las agencias de rehabilitación y el resto de las administraciones, para garantizar acceso universal, acompañamiento integral y participación ciudadana. Esta ventanilla única de financiación otorgará un marco estable, accesible y suficiente de financiación y una fiscalidad justa asumiendo la vivienda, y en especial la vivienda rehabilitada, como derecho social, herramienta climática y servicio de interés general, y no como un activo especulativo, por el conjunto de las administraciones públicas. Crearemos un instrumento público de financiación que funciona como ventanilla única (Monedero de rehabilitación para una Vivienda Digna) de financiación integral y que centraliza todos los recursos públicos (fondos europeos, estatales y autonómicos y reformas de fiscalidad verde) y privados (atracción de capital privado y ahorro ciudadano) para ofrecer soluciones financieras de rehabilitación permanente, adaptadas de forma socialmente progresiva a cada hogar."
+   },
+   {
+    "id": "fa-0080",
+    "partido": "fa",
+    "titular": "Derogar el régimen fiscal de SOCIMI y EDAV y gravarlas en Sociedades",
+    "marca_actual": [],
+    "texto": "- Derogaremos de forma inmediata y definitiva el régimen fiscal especial regulado para las Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario (SOCIMI) y el de las Entidades Dedicadas al Arrendamiento de Viviendas (EDAV). Pasarán a tributar por el tipo general del Impuesto sobre Sociedades (con el tipo mínimo real del 20 %), eliminando de forma tajante su exención tributaria en el gravamen de beneficios corporativos y el reparto de dividendos y dejarán de tener bonificaciones en el IVA."
+   },
+   {
+    "id": "fa-0297",
+    "partido": "fa",
+    "titular": "Eliminar la exención por dividendos repatriados de fuera de la UE",
+    "marca_actual": [],
+    "texto": "- Eliminación de exenciones por repatriación de dividendos en sociedades: Eliminaremos la exención por doble imposición internacional aplicable a los dividendos repatriados desde fuera de la Unión Europea y revisaremos las exenciones generales sobre dividendos."
+   },
+   {
+    "id": "fa-0305",
+    "partido": "fa",
+    "titular": "Reformar las SICAV con tope de concentración y plazo de 4 años",
+    "marca_actual": [],
+    "texto": "- Regulación de las SICAV: Reformaremos el régimen de las Sociedades de Inversión de Capital Variable (SICAV), fijando un tope a la concentración de capital en manos de un mismo accionista y estableciendo un periodo máximo de 4 años para mantener las plusvalías acumuladas."
+   },
+   {
+    "id": "fa-0309",
+    "partido": "fa",
+    "titular": "Que los patrimonios de más de un millón tributen como mínimo un 2 %",
+    "marca_actual": [],
+    "texto": "- Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %. Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %. El tipo impositivo actual del impuesto aumentará 2 puntos sobre la escala actual y 3 puntos a partir de los 50 millones. Para ello, reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para reducir de tres a un millón de euros el patrimonio neto a partir del cual comienza a operar, sin perjuicio del mínimo exento de 700.000 euros. Para calcular el límite conjunto con el IRPF y el Impuesto sobre el Patrimonio se tendrá en cuenta la cuota efectivamente pagada en Patrimonio y no la cuota íntegra. El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio, con deducción de las cuotas efectivamente satisfechas por este último y con el objetivo de impedir que las bonificaciones autonómicas vacíen la tributación de las grandes fortunas."
+   },
+   {
+    "id": "fa-0310",
+    "partido": "fa",
+    "titular": "Tasa Zucman: 3 % anual sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "- Implantaremos la Tasa Zucman, consistente en un impuesto estatal, permanente y finalista del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros. No se admitirán exenciones a la empresa familiar ni bonificaciones de comunidades autónomas. Incluirá una cláusula antideslocalización que mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero. Operará como un mínimo efectivo de recaudación del 3 % sobre todos los patrimonios a partir de los 50 millones. La recaudación financiará la Prestación Universal por Crianza."
+   },
+   {
+    "id": "fa-0311",
+    "partido": "fa",
+    "titular": "Impuesto estatal sobre las herencias de más de un millón de euros",
+    "marca_actual": [],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes herencias, de más de un millón de euros. Será estatal y complementario del Impuesto sobre Sucesiones y"
+   },
+   {
+    "id": "fa-0312",
+    "partido": "fa",
+    "titular": "Tarifa progresiva hasta el 34 % en el impuesto estatal a grandes herencias",
+    "marca_actual": [],
+    "texto": "Donaciones y gravará las adquisiciones gratuitas de riqueza de más de un millón de euros netos por beneficiario. Aplicaremos una tarifa progresiva que alcanza un marginal del 34 % y deduciremos el impuesto autonómico efectivamente satisfecho. Gravaremos herencias, donaciones y los seguros de vida en los supuestos previstos en la norma, manteniendo las reducciones por parentesco, discapacidad, transmisión de empresas y vivienda habitual, y otras legalmente contempladas. Los residentes estarán sujetos por sus adquisiciones mundiales y los no residentes por las vinculadas al territorio español según las reglas de la ley. La recaudación será estatal, sin cesión a las comunidades autónomas, para asegurar un suelo común de tributación sin impedir una mayor contribución autonómica."
+   },
+   {
+    "id": "fa-0313",
+    "partido": "fa",
+    "titular": "Limitar las herencias a 10 millones por heredero con un marginal del 100 %",
+    "marca_actual": [],
+    "texto": "- Limitaremos las herencias de los ultrarricos a un máximo de 10 millones de euros por heredero. Esta limitación se implementará estableciendo un tipo impositivo marginal del 100 % sobre el tramo de la base imponible que supere esa cifra en el Impuesto sobre Sucesiones y Donaciones. En el importe total se tendrán en cuenta las donaciones recibidas en vida y no se permitirán las bonificaciones autonómicas. No obstante, quedará exenta una vivienda por heredero hasta un máximo de 5. Es una medida orientada a restringir el poder económico y político de los grandes patrimonios de nuestro país. Pero, al mismo tiempo, la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda, contribuyendo así a frenar la transmisión intergeneracional de la pobreza y a promover una mayor igualdad de oportunidades."
+   },
+   {
+    "id": "fa-0314",
+    "partido": "fa",
+    "titular": "Impuesto estatal progresivo sobre inmuebles de más de un millón de euros",
+    "marca_actual": [],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes propiedades inmobiliarias. Homogeneizará la tributación de los inmuebles de más de un millón de euros y será progresivo según su valor catastral."
+   },
+   {
+    "id": "fa-0315",
+    "partido": "fa",
+    "titular": "Acercar la tributación de las rentas del capital a la del trabajo",
+    "marca_actual": [],
+    "texto": "- Acercaremos la tributación de las rentas del capital a la de las rentas del trabajo. Hoy las rentas del capital tributan entre el 19 % y el 30 %, mientras que las del trabajo lo hacen entre el 19 % y el 47 %. Así, las clases medias y trabajadoras, que viven de su salario, pagan proporcionalmente más que las rentas altas, que obtienen buena parte de sus ingresos del capital."
+   },
+   {
+    "id": "fa-0326",
+    "partido": "fa",
+    "titular": "Ampliar el impuesto sobre transacciones financieras a renta fija, acciones y derivados",
+    "marca_actual": [],
+    "texto": "- Ampliaremos el impuesto sobre las transacciones financieras a la renta fija privada (0,1 %), las acciones (0,2 %) y los derivados financieros (0,3 %) para desincentivar las operaciones financieras especulativas."
+   },
+   {
+    "id": "fa-0332",
+    "partido": "fa",
+    "titular": "Gravar la especulación con proyectos y permisos renovables",
+    "marca_actual": [],
+    "texto": "- Gravaremos la especulación con proyectos y permisos renovables. Estableceremos un gravamen sobre las plusvalías por venta de instalaciones de energías renovables antes de un año desde su recepción y sobre las transacciones especulativas de permisos de acceso y autorizaciones administrativas."
+   },
+   {
+    "id": "fa-0531",
+    "partido": "fa",
+    "titular": "Ciclo del agua 100 % de gestión pública directa",
+    "marca_actual": [],
+    "texto": "- Agua como bien público: Ciclo del agua 100 % de gestión pública directa, prohibición legal de cortes de suministro por motivos económicos y planes de ahorro/ eficiencia."
+   },
+   {
+    "id": "fa-0534",
+    "partido": "fa",
+    "titular": "Obligar a recuperar aguas grises en hoteles y grandes infraestructuras",
+    "marca_actual": [],
+    "texto": "- Eficiencia y reutilización de aguas grises disponiendo por ley la instalación de sistemas de recuperación de aguas grises en hoteles y grandes infraestructuras, hasta conseguir ahorros del 35 % y la reutilización de estas aguas regeneradas para usos no potables (riego de parques, baldeo)."
+   },
+   {
+    "id": "fa-0596",
+    "partido": "fa",
+    "titular": "Condicionar las ayudas públicas a empresas a compromisos de empleo e inversión",
+    "marca_actual": [],
+    "texto": "- Condicionamiento estricto de ayudas públicas y retornos: Exigencia a las empresas beneficiarias de compromisos vinculantes de inversión, mantenimiento y calidad del empleo, formación, cumplimiento fiscal y permanencia de la actividad. Incorporaremos participaciones públicas en el capital, derechos sobre patentes o retornos sobre beneficios cuando la aportación pública sea relevante. Estableceremos cláusulas de devolución de ayudas ante incumplimientos y límites al reparto extraordinario de dividendos durante el periodo de apoyo público. Las ayudas se evaluarán por su uso real y se eliminarán si no cumplen los requisitos mínimos."
+   },
+   {
+    "id": "fa-0616",
+    "partido": "fa",
+    "titular": "Reforzar Correos y crear un Banco Postal público",
+    "marca_actual": [],
+    "texto": "- Reforzaremos Correos para que gane protagonismo en toda la cadena logística. Mejoraremos las condiciones de su plantilla y sus recursos y diversificaremos su actividad: crearemos un Banco Postal público de ahorro y depósito que reduzca la concentración y la exclusión financiera, ofrecerá seguros propios, abrirá espacios de coworking e incubadoras en sus oficinas y será el proveedor de la nube soberana de las administraciones públicas."
+   },
+   {
+    "id": "fa-0720",
+    "partido": "fa",
+    "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+    "marca_actual": [],
+    "texto": "- Las rebajas fiscales autonómicas no las pagará el resto del país. El Impuesto sobre el Patrimonio se computará en el sistema por lo que se recaudaría sin las bonificaciones de cada comunidad, y el de Sucesiones y Donaciones por un valor normativo actualizado. Además, fijaremos por ley un mínimo común de tributación en ambos impuestos en todo el territorio. Las deducciones autonómicas del IRPF dejarán de poder aplicarse para beneficiar a los que más tienen. Quien regale impuestos a los más ricos lo hará con sus propios recursos."
+   },
+   {
+    "id": "fa-0784",
+    "partido": "fa",
+    "titular": "Reparto obligatorio del 10 % del beneficio entre la plantilla",
+    "marca_actual": [],
+    "texto": "- Paga de beneficios obligatoria y prioridad sobre el dividendo: Estableceremos por ley el reparto obligatorio del 10 % del beneficio empresarial entre la plantilla en empresas de 50 o más trabajadores. Cada persona trabajadora podrá percibir su parte en metálico o convertirla en acciones de la plantilla. Prohibiremos expresamente que las empresas repartan dividendos a accionistas o realicen recompras de acciones sin haber abonado previamente esta paga de beneficios."
+   },
+   {
+    "id": "fa-0785",
+    "partido": "fa",
+    "titular": "Crear fondos colectivos de inversión gobernados por los trabajadores (Meidner)",
+    "marca_actual": [],
+    "texto": "- Fondos colectivos de propiedad y fondos ciudadanos de inversión (Meidner): Crearemos fondos colectivos alimentados por aportaciones empresariales vinculadas a beneficios para acumular participaciones y derechos de voto bajo control democrático, manteniendo esta propiedad separada del ahorro individual para la jubilación (sin sustituir salarios). Crearemos Fondos Regionales de Inversión (Fondos Meidner) gobernados por los trabajadores para adquirir participaciones en medianas y grandes empresas y facilitar la conversión de pymes en cooperativas tras la jubilación de sus propietarios."
+   },
+   {
+    "id": "fa-0790",
+    "partido": "fa",
+    "titular": "Prohibir concentraciones bancarias que aumenten el poder de mercado",
+    "marca_actual": [],
+    "texto": "- Contención de la concentración bancaria y solvencia: Prohibiremos operaciones de concentración bancaria que incrementen el poder de mercado, promoviendo de forma paralela la entrada y expansión de la banca pública, cooperativa y de proximidad. Establecimiento en España y la UE de mayores colchones de capital y límites al reparto de dividendos y recompras de acciones cuando afecten a la solvencia o al crédito."
+   },
+   {
+    "id": "fa-0792",
+    "partido": "fa",
+    "titular": "Limitar las comisiones bancarias y garantizar la atención presencial",
+    "marca_actual": [],
+    "texto": "- Regulación de servicios bancarios esenciales y remuneración del ahorro: Limitaremos por ley comisiones e inclusiones vinculantes abusivas. Estableceremos mecanismos normativos para que la remuneración del ahorro refleje obligatoriamente la evolución de los tipos de interés y el negocio crediticio. Garantizaremos atención presencial, servicios mínimos territoriales evitando las zonas sin cobertura y responsabilidad legal de la banca en la prevención y reparación de fraudes digitales."
+   },
+   {
+    "id": "fa-0795",
+    "partido": "fa",
+    "titular": "Reforzar la CNMV y obligarla a verificar los folletos de emisión",
+    "marca_actual": [],
+    "texto": "- Refuerzo de capacidades de la CNMV y protección del ahorro: Reformaremos la Ley de los Mercados de Valores para obligar expresamente a la CNMV a verificar la veracidad, integridad y coherencia de los folletos de emisión antes de su aprobación. Dotación de plantillas suficientes y estables especializadas en contabilidad, auditoría, análisis financiero y detección de fraude, junto a recursos tecnológicos avanzados para investigar irregularidades y exigir subsanaciones."
+   },
+   {
+    "id": "fa-0868",
+    "partido": "fa",
+    "titular": "Agencia fiscal internacional e impuesto global a las grandes riquezas",
+    "marca_actual": [],
+    "texto": "- Agencia fiscal internacional e impuesto a las grandes riquezas: Defenderemos en foros multilaterales la creación de una agencia fiscal internacional y la implantación de un impuesto global sobre las grandes riquezas para combatir la desigualdad planetaria."
+   }
+  ]
+ },
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   }
+  ],
+  "n": 31,
+  "palabras": 2336,
+  "candidatos": [
+   {
+    "id": "pp-0123",
+    "partido": "pp",
+    "titular": "Revalorizar las pensiones con el IPC y reconstruir el Pacto de Toledo",
+    "marca_actual": [],
+    "texto": "**108 GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO.** Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista. Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo. Incentivaremos la jubilación activa mediante deducciones en el IRPF. Proteger a quienes han sostenido el sistema durante toda su vida exige también que quienes hoy empiezan a trabajar puedan confiar en que habrá una pensión para ellos."
+   },
+   {
+    "id": "pp-0172",
+    "partido": "pp",
+    "titular": "Reducir al 4 % el IVA de la primera vivienda para menores de 40",
+    "marca_actual": [],
+    "texto": "**153 LOS JÓVENES NO PAGARÁN IMPUESTOS EN EL MOMENTO DE ADQUIRIR SU PRIMERA VIVIENDA.** Reduciremos el IVA de la compra de primera vivienda del 10% al 4% para menores de 40 años y permitiremos que se pague de forma fraccionada al ritmo de la hipoteca. Acordaremos con las Comunidades Autónomas un Impuesto de Transmisiones Patrimoniales reducido para la primera vivienda de los jóvenes cuando esta sea usada y se permitirá igualmente pagar fraccionadamente. Ampliaremos a cuatro años el plazo para reinvertir el importe de la venta de la vivienda habitual y mantener la exención en el IRPF."
+   },
+   {
+    "id": "pp-0175",
+    "partido": "pp",
+    "titular": "Deducciones en el IRPF para inquilinos y propietarios que renueven tres años",
+    "marca_actual": [],
+    "texto": "**156 «TRES AÑOS+». EL INQUILINO QUE CUMPLE PODRÁ QUEDARSE Y EL PROPIETARIO QUE LO HAGA POSIBLE PAGARÁ MENOS.** Daremos a las familias que viven de alquiler la posibilidad de estabilidad que hoy pierden cada vez que vence su contrato. Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos, con más apoyo para quien menos gana. El propietario particular que, al vencer el contrato de una vivienda habitual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF o un crédito fiscal que compense ese esfuerzo. Las familias tendrán la tranquilidad de seguir en su casa y quien se la ofrezca verá reconocido su compromiso."
+   },
+   {
+    "id": "pp-0177",
+    "partido": "pp",
+    "titular": "Actualizar los mínimos familiares con la inflación y deducción familiar mensual reembolsable",
+    "marca_actual": [],
+    "texto": "**158 AMPLIAREMOS LOS ACTUALES MÍNIMOS FAMILIARES Y LAS AYUDAS FISCALES LLEGARÁN CADA MES A TODAS LAS FAMILIAS.** Criar a un hijo cuesta cada año más, y Hacienda lo reconoce cada vez menos. Todos los mínimos familiares se actualizarán con la inflación. Refundiremos las deducciones familiares del IRPF en una sola, reembolsable, con un único trámite y abono mensual. Ampliaremos su acceso para que llegue a todas las familias, también a las que no tengan cuota suficiente en el IRPF. Permitiremos la declaración conjunta de las parejas de hecho y adaptaremos la aplicación de los mínimos familiares a su realidad."
+   },
+   {
+    "id": "pp-0196",
+    "partido": "pp",
+    "titular": "Bajar el IRPF de rentas medias y bajas y que el SMI no tribute",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "**177 LAS RENTAS MEDIAS Y BAJAS, LAS FAMILIAS, LOS AUTÓNOMOS Y LOS JÓVENES PAGARÁN MENOS IRPF.** Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI, para que ningún Gobierno pueda volver a cobrar impuestos a quien menos gana por el simple hecho de no tocar una cifra."
+   },
+   {
+    "id": "pp-0197",
+    "partido": "pp",
+    "titular": "Deflactar la tarifa del IRPF para que la inflación no suba impuestos",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "**178 EL ESTADO NO HARÁ CAJA CON LA INFLACIÓN A COSTA DE LAS FAMILIAS.** La principal subida fiscal de los últimos años no se votó en ningún Parlamento: fue la decisión de no actualizar el IRPF mientras los precios crecían casi un 30%. Deflactaremos la tarifa y actualizaremos los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos."
+   },
+   {
+    "id": "pp-0198",
+    "partido": "pp",
+    "titular": "Reducir el IRPF a jóvenes de 18 a 35 años durante cuatro años",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "**179 UN JOVEN NO PAGARÁ IRPF EN EL PRIMER AÑO Y PAGARÁ MUCHO MENOS EN LOS TRES SIGUIENTES.** Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro primeros años en que paguen IRPF. La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto. Se aplicará desde la primera declaración tras la aprobación de la ley."
+   },
+   {
+    "id": "pp-0201",
+    "partido": "pp",
+    "titular": "Aprobar un Estatuto del Contribuyente con derecho al error",
+    "marca_actual": [],
+    "texto": "**182 HACIENDA CONFIARÁ EN EL CONTRIBUYENTE QUE CUMPLE.** Aprobaremos un Estatuto del Contribuyente que cambie la relación con Hacienda. Reconoceremos el derecho al error y garantizaremos que ningún cambio de criterio desfavorable se aplique con efecto retroactivo. Simplificaremos el sistema tributario y reforzaremos el Consejo para la Defensa del Contribuyente y las garantías institucionales para ofrecer mayor seguridad al contribuyente y hacer más previsible la política tributaria. Mediremos y evaluaremos los resultados de estas medidas para comprobar su eficacia."
+   },
+   {
+    "id": "pp-0204",
+    "partido": "pp",
+    "titular": "Las comunidades decidirán sus impuestos y podrán bajarlos cuanto quieran",
+    "marca_actual": [],
+    "texto": "**185 NINGÚN GOBIERNO OBLIGARÁ A UNA COMUNIDAD A SUBIR IMPUESTOS.** Las Comunidades Autónomas seguirán decidiendo con libertad sobre sus impuestos propios y cedidos, dentro de sus competencias, y podrán bajarlos cuanto quieran."
+   },
+   {
+    "id": "pp-0244",
+    "partido": "pp",
+    "titular": "Deducción en el IRPF por gastos de enfermedades graves y para celíacos",
+    "marca_actual": [],
+    "texto": "**225 ALIVIAREMOS EL COSTE DE LA ENFERMEDAD PARA LOS PACIENTES Y SUS FAMILIAS.** Las familias con un enfermo de cáncer, ELA u otra enfermedad grave se deducirán en el IRPF los gastos acreditados derivados del tratamiento y los cuidados. Mantendremos la prestación CUME para el cuidado de hijos con cáncer u otra enfermedad grave y su continuidad más allá de los 26 años en los supuestos previstos. Extenderemos a los funcionarios las mejoras de protección. Por ley, las personas celíacas tendrán una deducción en el IRPF."
+   },
+   {
+    "id": "psoe-0080",
+    "partido": "psoe",
+    "titular": "Eximir en el IRPF las ganancias por vender vivienda a proveedores sociales",
+    "marca_actual": [],
+    "texto": "**46. Incentivar la incorporación de viviendas asequibles** , quedando exentas en el IRPF las ganancias patrimoniales derivadas de la transmisión de viviendas a estos proveedores, equiparando su tratamiento fiscal al de las transmisiones realizadas a entidades públicas destinadas al alquiler social y asequible."
+   },
+   {
+    "id": "psoe-0135",
+    "partido": "psoe",
+    "titular": "Balance: impuestos extraordinarios a banca y energéticas y menos IRPF a rentas bajas",
+    "marca_actual": [],
+    "texto": "Además, hemos avanzado hacia una fiscalidad más justa, en la que quienes más tienen contribuyen más y quienes menos tienen pagan menos. Hemos aprobado impuestos extraordinarios a la banca y a las grandes energéticas, aunque las derechas derogaron la prórroga del segundo en 2025. Hemos elevado al 30% la tributación de las rentas del ahorro superiores a 300.000 euros y adoptado medidas para evitar las bonificaciones autonómicas del impuesto sobre el patrimonio. Al mismo tiempo, hemos mejorado la fiscalidad de las rentas bajas: una persona que cobra el SMI ahorra hoy 780 euros anuales en IRPF respecto al último Gobierno del PP, descontando la inflación.\n\nLos resultados de estas políticas son claros. Desde 2018, la renta real de los hogares ha crecido un 11%, más que en Francia, Italia o Alemania. El porcentaje de personas que llega con dificultades a fin de mes ha caído del 16,7% al 12,1%. La desigualdad y el riesgo de pobreza han alcanzado mínimos de la serie histórica, porque los ingresos de quienes menos tienen han crecido mucho más rápido que los ingresos de los más ricos. Y hemos reducido la brecha de género en más de cinco puntos."
+   },
+   {
+    "id": "psoe-0140",
+    "partido": "psoe",
+    "titular": "Deducción estatal en el IRPF que se active con las subidas de precios",
+    "marca_actual": [],
+    "texto": "**88. Deducción estatal en el IRPF condicional a la evolución de los precios.** Crearemos un mecanismo para activar una deducción en el IRPF en contextos de subidas de precios. Tendrá un diseño progresivo para beneficiar a rentas medias y bajas, lo que permitirá concentrar el esfuerzo fiscal en quienes más lo necesitan y asegurar su compatibilidad con los objetivos de estabilidad presupuestaria."
+   },
+   {
+    "id": "psoe-0191",
+    "partido": "psoe",
+    "titular": "Una fiscalidad justa con más impuestos a los ultrarricos",
+    "marca_actual": [],
+    "texto": "Una fiscalidad justa es la única forma de garantizar que los beneficios del crecimiento económico se redistribuyan entre el conjunto de la sociedad. Y que todos se beneficien de la prosperidad generada. Ya sea con más impuestos a los ultrarricos, una mejor colaboración entre países en la lucha contra la evasión fiscal, o un sistema fiscal más eficiente. Estas medidas permiten alcanzar dicho objetivo.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0196",
+    "partido": "psoe",
+    "titular": "Convertir el mínimo por descendiente del IRPF en crédito fiscal reembolsable",
+    "marca_actual": [],
+    "texto": "**134. Mejorar la fiscalidad para las rentas medias bajas.** Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual. Y seguiremos exonerando de tributación a las rentas más bajas, asegurando que las subidas del SMI no impliquen incrementos de impuestos."
+   },
+   {
+    "id": "vox-0002",
+    "partido": "vox",
+    "titular": "Rebaja masiva de impuestos: IRPF, IVA, Sociedades y cuota cero de autónomos",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "2. Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.\n - Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.\n - Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.\n - Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.\n - Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.\n - Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas."
+   },
+   {
+    "id": "vox-0076",
+    "partido": "vox",
+    "titular": "Promoción de la cultura nacional, patrimonio y nueva Ley de Mecenazgo",
+    "marca_actual": [],
+    "texto": "76. Promoción de la cultura nacional. Afirmación y difusión de la historia común española. Conservación y rehabilitación del patrimonio nacional, con especial atención al medio rural, sus iglesias y monumentos. Protección de nuestro patrimonio histórico frente al vandalismo. Reducción de impuestos para el arte y los espectáculos en vivo. Nueva Ley de Mecenazgo para elevar las deducciones del IRPF."
+   },
+   {
+    "id": "fa-0006",
+    "partido": "fa",
+    "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+    "marca_actual": [],
+    "texto": "4. Una reforma fiscal que pague el 1 % para que se beneficie el 99 %. Los derechos se sostienen con justicia tributaria. Nuestra reforma fiscal hará que el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos—, mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía."
+   },
+   {
+    "id": "fa-0031",
+    "partido": "fa",
+    "titular": "Gravar los pisos turísticos con IVA del 21 % y recargo de IBI",
+    "marca_actual": [],
+    "texto": "- La actividad económica de los pisos turísticos pasará a tributar al tipo general del IVA del 21 % y perderán toda deducción en el Impuesto sobre Sociedades e IRPF (gastos financieros, reformas y amortización), se elevará al 20 % la imputación de rentas en IRPF por periodos no ocupados y sufrirán un recargo en el IBI de hasta el 150 %."
+   },
+   {
+    "id": "fa-0060",
+    "partido": "fa",
+    "titular": "Impuesto negativo de hasta 300 € al mes para hogares hipotecados",
+    "marca_actual": [],
+    "texto": "- Crearemos un escudo hipotecario de protección que otorgará una deducción en el IRPF en forma de impuesto negativo de hasta 300 € al mes para familias con ingresos inferiores a 3 IPREM (21.600 €/año) cuya cuota hipotecaria absorba más del 40 % de sus ingresos netos."
+   },
+   {
+    "id": "fa-0096",
+    "partido": "fa",
+    "titular": "Prestación Universal por Crianza de 200 € al mes por menor",
+    "marca_actual": [],
+    "texto": "- Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo. La prestación se configurará como un derecho propio del menor, inembargable y desvinculado de los ingresos o situación laboral de los progenitores. La tramitaremos y abonaremos mensualmente de forma automática como deducción reembolsable del IRPF abonada por la Agencia Tributaria desde el momento del nacimiento."
+   },
+   {
+    "id": "fa-0309",
+    "partido": "fa",
+    "titular": "Que los patrimonios de más de un millón tributen como mínimo un 2 %",
+    "marca_actual": [],
+    "texto": "- Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %. Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %. El tipo impositivo actual del impuesto aumentará 2 puntos sobre la escala actual y 3 puntos a partir de los 50 millones. Para ello, reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para reducir de tres a un millón de euros el patrimonio neto a partir del cual comienza a operar, sin perjuicio del mínimo exento de 700.000 euros. Para calcular el límite conjunto con el IRPF y el Impuesto sobre el Patrimonio se tendrá en cuenta la cuota efectivamente pagada en Patrimonio y no la cuota íntegra. El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio, con deducción de las cuotas efectivamente satisfechas por este último y con el objetivo de impedir que las bonificaciones autonómicas vacíen la tributación de las grandes fortunas."
+   },
+   {
+    "id": "fa-0316",
+    "partido": "fa",
+    "titular": "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Bajaremos el IRPF a las rentas del trabajo de hasta 27.000 euros (1,5 veces el SMI). Aumentaremos la reducción por rendimientos del trabajo para que quien cobre el salario mínimo no pague IRPF y extenderemos esa rebaja, de forma decreciente, hasta los 27.000 euros."
+   },
+   {
+    "id": "fa-0317",
+    "partido": "fa",
+    "titular": "Más tramos del IRPF y un marginal del 52 % desde 300.000 euros",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "- Ampliaremos el número de tramos del IRPF a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros."
+   },
+   {
+    "id": "fa-0318",
+    "partido": "fa",
+    "titular": "Eliminar el régimen de desplazados y la deducción por planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "- Eliminaremos el régimen fiscal especial de los trabajadores desplazados y las deducciones por planes de pensiones privados individuales."
+   },
+   {
+    "id": "fa-0319",
+    "partido": "fa",
+    "titular": "Incentivos del IRPF solo para alquiler indefinido y un 5 % bajo el índice",
+    "marca_actual": [],
+    "texto": "- Reservaremos los incentivos del IRPF al alquiler asequible y estable. Limitaremos las reducciones y deducciones del IRPF sobre rendimientos del alquiler de vivienda a los arrendadores que cumplan simultáneamente dos requisitos: que ofrezcan contratos de arrendamiento indefinidos y que los precios del alquiler de la vivienda estén como mínimo un 5 % por debajo del precio del índice estatal."
+   },
+   {
+    "id": "fa-0333",
+    "partido": "fa",
+    "titular": "Prorrogar tres años la deducción del IRPF por rehabilitación energética de vivienda",
+    "marca_actual": [],
+    "texto": "- Prorrogaremos y ampliaremos durante tres años la deducción en el IRPF por obras de rehabilitación energética de la vivienda habitual, como aislamientos o instalaciones de autoconsumo individual o colectivo."
+   },
+   {
+    "id": "fa-0343",
+    "partido": "fa",
+    "titular": "Revisar los beneficios fiscales, suprimir los injustificados y publicar su coste",
+    "marca_actual": [],
+    "texto": "- Revisaremos los beneficios fiscales y haremos visible su coste. Evaluaremos deducciones, bonificaciones y exenciones según sus objetivos y sus beneficiarios, suprimiendo las que carezcan de justificación o refuercen la desigualdad. Publicaremos su coste y su distribución por renta, patrimonio y tamaño empresarial, junto a una explicación accesible del destino de los impuestos."
+   },
+   {
+    "id": "fa-0477",
+    "partido": "fa",
+    "titular": "Ayudas de hasta 8.000 euros para electrificar vehículos de autónomos y agricultores",
+    "marca_actual": [],
+    "texto": "- Plan Estatal MOVES para autónomos y agricultores: Ayudas directas de hasta 8.000 € por vehículo y deducción en IRPF de hasta 25.000 € para sustituir por eléctricos vehículos antiguos de reparto urbano y actividad agraria."
+   },
+   {
+    "id": "fa-0720",
+    "partido": "fa",
+    "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+    "marca_actual": [],
+    "texto": "- Las rebajas fiscales autonómicas no las pagará el resto del país. El Impuesto sobre el Patrimonio se computará en el sistema por lo que se recaudaría sin las bonificaciones de cada comunidad, y el de Sucesiones y Donaciones por un valor normativo actualizado. Además, fijaremos por ley un mínimo común de tributación en ambos impuestos en todo el territorio. Las deducciones autonómicas del IRPF dejarán de poder aplicarse para beneficiar a los que más tienen. Quien regale impuestos a los más ricos lo hará con sus propios recursos."
+   },
+   {
+    "id": "fa-0745",
+    "partido": "fa",
+    "titular": "Extender a todos los municipios la participación en el IRPF",
+    "marca_actual": [],
+    "texto": "- Extenderemos a todos los municipios la participación en el IRPF, hoy limitada a algunos, combinando un tramo territorializado con otro de nivelación que tenga en cuenta la población, la vulnerabilidad, el envejecimiento, la dispersión, la centralidad y la población estacional."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 27,
+  "palabras": 1555,
+  "candidatos": [
+   {
+    "id": "pp-0051",
+    "partido": "pp",
+    "titular": "Prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo",
+    "marca_actual": [],
+    "texto": "**42 PROHIBIREMOS POR LEY LAS REGULARIZACIONES MASIVAS E INDISCRIMINADAS Y EL ARRAIGO SERÁ EXCEPCIONAL.** Reformaremos la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas y para que el arraigo sea un reconocimiento individual excepcional, no una vía generalizada de regularización. El empadronamiento, por sí solo, no bastará para acceder a ayudas económicas no urgentes."
+   },
+   {
+    "id": "pp-0052",
+    "partido": "pp",
+    "titular": "Compromiso de integración para renovar la residencia y prohibir burka y niqab",
+    "marca_actual": [],
+    "texto": "**43 RESIDIR EN ESPAÑA EXIGIRÁ UN COMPROMISO DE INTEGRACIÓN.** Quien quiera renovar su residencia temporal en el régimen general deberá firmar un compromiso de integración. Será obligatorio aprender español, conocer la Constitución y los valores de la Unión Europea y, cuando corresponda, formarse para el empleo. Las administraciones facilitarán ese proceso de integración con formación, orientación y herramientas para hacerlo posible. Su cumplimiento deberá acreditarse para renovar el permiso. La igualdad entre mujeres y hombres y el respeto a la ley se exigirán a todos. Ninguna costumbre ni creencia justificará la subordinación de la mujer ni la discriminación de nadie. Prohibiremos el uso del burka y el niqab en los espacios públicos."
+   },
+   {
+    "id": "pp-0111",
+    "partido": "pp",
+    "titular": "Prioridad en ayudas y prestaciones para quienes tengan arraigo real con España",
+    "marca_actual": [],
+    "texto": "**98 EL VÍNCULO CON ESPAÑA DARÁ PRIORIDAD.** Estableceremos criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos para procurar la asignación prioritaria a quienes mantengan un arraigo real, duradero y verificable con España. Se tendrán en cuenta, entre otros elementos, el empadronamiento, la trayectoria de cotización, permanencia y contribución al sistema. Estos criterios se aplicarán dentro de los límites constitucionales y europeos, por lo que no podrán basarse exclusivamente en la nacionalidad."
+   },
+   {
+    "id": "pp-0156",
+    "partido": "pp",
+    "titular": "Cambiar la concesión de nacionalidad para exigir vínculo efectivo e integración",
+    "marca_actual": [],
+    "texto": "**140 LA NACIONALIDAD NO SE REGALA.** Modificaremos el modelo de concesión para que la nacionalidad deje de funcionar como una consecuencia casi automática del paso del tiempo. Su obtención deberá responder a un vínculo efectivo con España y a una integración acreditada, de forma que las concesiones se concentren en quienes cumplan realmente las condiciones exigidas para incorporarse plenamente a nuestra comunidad política."
+   },
+   {
+    "id": "pp-0157",
+    "partido": "pp",
+    "titular": "Nueva Ley de Nacionalidad con requisitos de acceso más exigentes",
+    "marca_actual": [],
+    "texto": "**141 EXIGIREMOS MÁS PARA SER ESPAÑOL.** Aprobaremos una nueva Ley de Nacionalidad que refuerce las condiciones de acceso: residencia legal y continuada, conocimiento suficiente del español, de nuestra historia, instituciones, cultura y valores constitucionales, buena conducta cívica, ausencia de antecedentes penales y cumplimiento de las obligaciones tributarias y con la Seguridad Social. Mantendremos un tratamiento preferente para los países de la Hispanidad, con los que España comparte vínculos históricos, culturales y lingüísticos excepcionales."
+   },
+   {
+    "id": "pp-0158",
+    "partido": "pp",
+    "titular": "Regular la pérdida de nacionalidad de no españoles de origen por delitos graves",
+    "marca_actual": [],
+    "texto": "**142 LA NACIONALIDAD IMPLICA LEALTAD A ESPAÑA.** Endureceremos las consecuencias legales para quienes hayan adquirido la nacionalidad española mediante fraude, falsedad u ocultación. Además, regularemos la pérdida de la nacionalidad de quienes no sean españoles de origen cuando exista condena firme por determinados delitos graves contra la vida, la libertad sexual, la seguridad nacional, la integridad del Estado o la comunidad internacional, evitando en todo caso situaciones de apatridia."
+   },
+   {
+    "id": "pp-0159",
+    "partido": "pp",
+    "titular": "Reconocer la nacionalidad solo a descendientes acreditados de exiliados españoles",
+    "marca_actual": [],
+    "texto": "**143 DAREMOS SEGURIDAD JURÍDICA A LOS AUTÉNTICOS DESCENDIENTES DE ESPAÑOLES.** Garantizaremos que la nacionalidad se reconozca únicamente a quienes acrediten de forma efectiva su condición de descendientes de exiliados españoles."
+   },
+   {
+    "id": "psoe-0182",
+    "partido": "psoe",
+    "titular": "Balance: universalidad sanitaria, récord en becas y plazas de FP",
+    "marca_actual": [],
+    "texto": "En sanidad, devolvimos la universalidad al Sistema Nacional de Salud y ampliamos su cartera de servicios con nuevos cribados neonatales y de cáncer de mama, salud bucodental y el Plan Veo de atención visual infantil. Al mismo tiempo, formamos más especialistas que nunca con 4.500 plazas más de Formación Sanitaria Especializada (+53%), impulsamos la Agencia Estatal de Salud Pública y situamos la salud mental como prioridad nacional con el primer Plan de Prevención del Suicidio.\n\nEn educación, pusimos los recursos para que estudiar sea un derecho garantizado para quien decida hacerlo, con independencia de su nivel de renta. Ejecutamos la mayor inversión en becas de la historia (hasta alcanzar los 2.560M€ este curso, un 83% más), financiamos 45.000 plazas públicas de 0 a 3 años y más de 400.000 plazas de Formación Profesional, alcanzando la cifra récord de 1,25 millones de estudiantes. Asimismo, impulsamos la mayor inversión histórica en deporte base, escolar y federado como herramienta de bienestar y cohesión."
+   },
+   {
+    "id": "psoe-0497",
+    "partido": "psoe",
+    "titular": "Migración ordenada, legal y segura: más vías legales, refugio e integración",
+    "marca_actual": [],
+    "texto": "España necesita una migración ordenada, legal y segura, que responda a sus necesidades demográficas y económicas. Desde 2018 hemos ampliado las vías legales para residir y trabajar en España, modernizado la normativa de extranjería y reforzado la cooperación con los países de origen y de tránsito para combatir a las mafias y salvar vidas.\n\nQueremos seguir avanzando en esta dirección: simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo, para aprovechar el talento de quienes vienen a vivir y trabajar aquí. Ante el aumento de las crisis humanitarias, España seguirá siendo un puerto seguro para las personas refugiadas, con una política migratoria unida a la cooperación al desarrollo y a la defensa del derecho internacional.\n\nLa integración es un compromiso de doble sentido, con derechos y obligaciones para todos. Desplegaremos el Plan de Integración y Ciudadanía para reforzar la formación, el empleo, la educación y la sanidad, porque la mejor respuesta al racismo y la xenofobia es una convivencia en igualdad de oportunidades."
+   },
+   {
+    "id": "psoe-0498",
+    "partido": "psoe",
+    "titular": "Desplegar el Plan de Integración y Ciudadanía 2026-2030 con 500 millones",
+    "marca_actual": [],
+    "texto": "**388. Desplegar el Plan de Integración y Ciudadanía 2026-2030** , con una dotación inicial de 500 millones de euros y la colaboración de las administraciones públicas y los agentes sociales, para favorecer la integración y la convivencia, promoviendo la igualdad de derechos, el cumplimiento de las obligaciones y la participación de las personas migrantes en la sociedad."
+   },
+   {
+    "id": "psoe-0500",
+    "partido": "psoe",
+    "titular": "Promover la participación social, cívica y política de las personas inmigrantes",
+    "marca_actual": [],
+    "texto": "**390. Promover la integración participación social, cívica y política de las personas inmigrantes** , apoyando el asociacionismo, reforzando los espacios de participación ciudadana e impulsando su implicación en la vida pública."
+   },
+   {
+    "id": "vox-0010",
+    "partido": "vox",
+    "titular": "Endurecer los requisitos de la nacionalidad y ampliar los supuestos de pérdida",
+    "marca_actual": [],
+    "texto": "10. Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones fraudulentas de la nacionalidad. Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados."
+   },
+   {
+    "id": "vox-0011",
+    "partido": "vox",
+    "titular": "Suprimir el arraigo y revocar las pasarelas rápidas a la nacionalidad",
+    "marca_actual": [],
+    "texto": "11. Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española."
+   },
+   {
+    "id": "vox-0018",
+    "partido": "vox",
+    "titular": "Prioridad nacional: acceso preferente de los españoles a vivienda, ayudas y servicios",
+    "marca_actual": [],
+    "texto": "18. En España, los españoles primero. Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones y servicios sociales. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional."
+   },
+   {
+    "id": "vox-0019",
+    "partido": "vox",
+    "titular": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales",
+    "marca_actual": [],
+    "texto": "19. Suprimir toda ayuda y beneficio social a los inmigrantes ilegales."
+   },
+   {
+    "id": "vox-0020",
+    "partido": "vox",
+    "titular": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave",
+    "marca_actual": [],
+    "texto": "20. Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave. Auditoría del coste de la inmigración masiva en la sanidad pública."
+   },
+   {
+    "id": "vox-0021",
+    "partido": "vox",
+    "titular": "Crear un gravamen sobre las remesas al extranjero",
+    "marca_actual": [],
+    "texto": "21. Gravamen sobre las remesas al extranjero. El dinero generado aquí ha de mejorar la economía y los servicios de quienes viven en España."
+   },
+   {
+    "id": "vox-0022",
+    "partido": "vox",
+    "titular": "Reservar el Ingreso Mínimo Vital a los españoles",
+    "marca_actual": [],
+    "texto": "22. El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos. Se promoverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos."
+   },
+   {
+    "id": "vox-0027",
+    "partido": "vox",
+    "titular": "Prioridad nacional en el acceso a vivienda protegida y ayudas al alquiler",
+    "marca_actual": [],
+    "texto": "27. Las casas, en España, para los españoles. Prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional."
+   },
+   {
+    "id": "vox-0032",
+    "partido": "vox",
+    "titular": "Prohibir el arrendamiento a inmigrantes ilegales y exigir residencia legal",
+    "marca_actual": [],
+    "texto": "32. Prohibición del arrendamiento a inmigrantes ilegales. Exigir la verificación previa de la residencia legal como requisito obligatorio para la formalización de contratos de alquiler, control del fraude en el empadronamiento por parte de okupas e inmigrantes ilegales, impidiendo que disfruten de los derechos que ello concede y fin de los pisos patera, domicilios ficticios y alojamientos ilegales."
+   },
+   {
+    "id": "vox-0070",
+    "partido": "vox",
+    "titular": "Máximo por aula de alumnos de otras culturas y aulas de nivelación",
+    "marca_actual": [],
+    "texto": "70. Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español. Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase, sin ralentizar a sus compañeros y con más posibilidades de éxito para ellos mismos."
+   },
+   {
+    "id": "vox-0074",
+    "partido": "vox",
+    "titular": "Prioridad nacional en la elección de centro, becas y plazas de guardería",
+    "marca_actual": [],
+    "texto": "74. Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc. Distrito único y libre elección de centro escolar para los padres. Apuesta decidida por la Formación Profesional."
+   },
+   {
+    "id": "fa-0144",
+    "partido": "fa",
+    "titular": "Blindar la sanidad universal sin importar el estatus administrativo",
+    "marca_actual": [],
+    "texto": "- Blindaremos por ley la universalidad de la atención sanitaria para residentes en España, independientemente de su estatus administrativo. Se volverá a apostar por la Ley de universalidad del SNS que termine de garantizar lo conseguido a través del Real Decreto 180/2026 del actual Ministerio de Sanidad."
+   },
+   {
+    "id": "fa-0593",
+    "partido": "fa",
+    "titular": "Distribuir la innovación hacia territorios desindustrializados o despoblados",
+    "marca_actual": [],
+    "texto": "- Innovación territorial y empleo de calidad: Fomentaremos la inclusión de empresas tecnológicas que contribuyan a distribuir la actividad innovadora entre comunidades autónomas y territorios afectados por la desindustrialización o la despoblación. Los proyectos financiados deberán comprometerse con la creación de empleo estable, la formación, la igualdad y el arraigo territorial de la actividad productiva."
+   },
+   {
+    "id": "fa-0828",
+    "partido": "fa",
+    "titular": "Empadronamiento flexible, cuenta bancaria básica y homologación ágil de títulos",
+    "marca_actual": [],
+    "texto": "- Eliminación de barreras de acceso a derechos básicos: Suprimiremos trabas administrativas para el acceso efectivo a derechos mediante un empadronamiento flexible, la garantía de acceso a una cuenta bancaria de pago básica, la aceleración y agilización del procedimiento de homologación de títulos académicos y el reconocimiento obligatorio de la documentación de las personas migrantes por parte de empresas y administraciones públicas."
+   },
+   {
+    "id": "fa-0847",
+    "partido": "fa",
+    "titular": "Ampliar el sufragio activo y pasivo de las personas migrantes en las municipales",
+    "marca_actual": [],
+    "texto": "- Ampliación del derecho de voto para personas residentes: Ampliaremos el derecho de sufragio activo y pasivo de las personas migrantes en las elecciones municipales."
+   },
+   {
+    "id": "fa-0850",
+    "partido": "fa",
+    "titular": "Devolver la nacionalidad española a las y los saharauis nacidos antes de 1977",
+    "marca_actual": [],
+    "texto": "- Devolveremos la nacionalidad española a las y los saharauis: Devolveremos la nacionalidad española a las y los saharauis nacidos bajo administración española antes de septiembre de 1977, así como a sus descendientes en primer grado de consanguinidad."
+   }
+  ]
+ },
+ {
+  "eje": "eje-memoria",
+  "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   }
+  ],
+  "n": 20,
+  "palabras": 1527,
+  "candidatos": [
+   {
+    "id": "pp-0145",
+    "partido": "pp",
+    "titular": "Derogar la Ley de Memoria Democrática y aprobar una ley de concordia",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "**129 DEROGAREMOS LA LEY DE MEMORIA DEMOCRÁTICA Y APROBAREMOS UNA LEY DE CONCORDIA.** Derogaremos la mal llamada «ley de memoria democrática», corredactada por Bildu, porque no puede haber justicia ni reconciliación cuando se pacta con quienes niegan el sufrimiento de las víctimas y pretenden reescribir la historia —con los victimarios— desde la manipulación y el enfrentamiento. La sustituiremos por una norma de concordia que proteja la investigación histórica, la reconciliación y el legado constitucional de la Transición, y que mantenga, con carácter humanitario, la búsqueda e identificación de desaparecidos."
+   },
+   {
+    "id": "psoe-0230",
+    "partido": "psoe",
+    "titular": "Promover en la escuela la memoria democrática y los valores cívicos",
+    "marca_actual": [],
+    "texto": "**165. Promover el conocimiento de la memoria democrática** , los derechos humanos y los valores cívicos, fortaleciendo el pensamiento crítico, la participación democrática y la lucha contra la desinformación y los discursos de odio."
+   },
+   {
+    "id": "psoe-0528",
+    "partido": "psoe",
+    "titular": "Balance de derechos LGTBI y compromiso contra la LGTBIfobia sin un paso atrás",
+    "marca_actual": [],
+    "texto": "La igualdad de las personas LGTBI forma parte de la identidad del proyecto socialista. En 2026, España ocupa el primer puesto europeo en derechos LGTBI según el Rainbow Map de ILGA-Europe, fruto de décadas de lucha del movimiento LGTBI y del compromiso de los gobiernos socialistas. En esta legislatura hemos desarrollado la Ley 4/2023 con las primeras estrategias estatales para la igualdad LGTBI y la inclusión de las personas trans.\n\nAdemás, hemos reforzado la protección frente a la discriminación laboral, ampliado los derechos de las familias LGTBI, impulsado la prohibición de las terapias de conversión, mejorado la atención a las víctimas con el servicio 028 Arcoíris y avanzado en la memoria democrática LGTBI.\n\nPero la discriminación y la violencia persisten, sobre todo contra las personas trans. Nuestro compromiso es reforzar la protección frente a la LGTBIfobia y garantizar que estos derechos se cumplan en todo el territorio, gobierne quien gobierne en cada comunidad, sin un paso atrás.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0537",
+    "partido": "psoe",
+    "titular": "Balance de la Ley de Memoria Democrática: exhumaciones, Cuelgamuros y reparación",
+    "marca_actual": [],
+    "texto": "La memoria democrática es una cuestión de Estado y un compromiso con la verdad, la justicia y la reparación de las víctimas del franquismo. Con la Ley de Memoria Democrática las hemos situado en el centro de las políticas públicas. Hemos reconocido y reparado a miles de víctimas y a sus familias, y hemos impulsado el mayor esfuerzo de exhumaciones de nuestra democracia para devolverles su nombre y su dignidad. También hemos creado el Banco Estatal de ADN y las Fiscalías de Derechos Humanos y Memoria Democrática, y facilitado la nacionalidad a los descendientes del exilio. A ello se suman la resignificación de Cuelgamuros, la declaración de Lugares de Memoria Democrática en todo el territorio, la retirada de simbología franquista y la conmemoración de los 50 años de España en libertad.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0538",
+    "partido": "psoe",
+    "titular": "Completar el Plan de Exhumaciones y el Censo de Víctimas",
+    "marca_actual": [],
+    "texto": "**420. Completar el Plan de Exhumaciones** , finalizar el Censo de las Víctimas de la Guerra y la Dictadura y ampliar las medidas de reconocimiento y reparación."
+   },
+   {
+    "id": "psoe-0539",
+    "partido": "psoe",
+    "titular": "Culminar la resignificación del Valle de Cuelgamuros con su Centro de Interpretación",
+    "marca_actual": [],
+    "texto": "**421. Culminar la resignificación del Valle de Cuelgamuros** , mediante la puesta en marcha de su Centro de Interpretación."
+   },
+   {
+    "id": "psoe-0540",
+    "partido": "psoe",
+    "titular": "Ampliar los Lugares de Memoria y retirar simbología franquista",
+    "marca_actual": [],
+    "texto": "**422. Ampliar la red de Lugares de Memoria Democrática** , retirar simbología franquista y avanzar en la eliminación de entidades que hagan apología de la dictadura."
+   },
+   {
+    "id": "psoe-0541",
+    "partido": "psoe",
+    "titular": "Impulsar la memoria democrática en la educación y la investigación",
+    "marca_actual": [],
+    "texto": "**423.** Impulsar la Memoria Democrática en la educación, la investigación y la divulgación, culminando el Centro de la Memoria Democrática y ampliando la red de cátedras universitarias."
+   },
+   {
+    "id": "psoe-0542",
+    "partido": "psoe",
+    "titular": "Conmemorar el 50 aniversario de las elecciones de 1977 y la Constitución",
+    "marca_actual": [],
+    "texto": "**424.** Promover el estudio y la conmemoración de las elecciones de 1977 y la Constitución de 1978 con motivo de su 50 aniversario."
+   },
+   {
+    "id": "vox-0046",
+    "partido": "vox",
+    "titular": "Superar las leyes ideológicas como la de Memoria Democrática",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "46. Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática, que dañan la convivencia y dividen y enfrentan a los españoles tratando de imponer una verdad oficial."
+   },
+   {
+    "id": "fa-0197",
+    "partido": "fa",
+    "titular": "Reforzar en el currículo los valores democráticos, igualdad y memoria democrática",
+    "marca_actual": [],
+    "texto": "- Reforzaremos, mediante el currículo educativo de competencia estatal, los aprendizajes basados en valores democráticos, igualdad y memoria democrática."
+   },
+   {
+    "id": "fa-0219",
+    "partido": "fa",
+    "titular": "Ley de Archivos y cumplimiento íntegro de la Ley de Memoria Democrática",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "- Ley de Archivos para proteger el patrimonio, mejorar la gestión documental y seguir trabajando en el cumplimiento íntegro de la Ley de Memoria Democrática de 2022."
+   },
+   {
+    "id": "fa-0242",
+    "partido": "fa",
+    "titular": "Abrir al público el Archivo de Movimientos Sociales en La Galera",
+    "marca_actual": [],
+    "texto": "- Seguiremos impulsando el Archivo Histórico de Movimientos Sociales. Abriremos al público el Archivo de Movimientos Sociales, como un espacio de referencia para la memoria histórica de los movimientos sociales y la lucha antifranquista en España. Esta legislatura se impulsó la dotación de fondos archivísticos y se acordó que su sede será La Galera, la antigua cárcel de mujeres de Alcalá de Henares."
+   },
+   {
+    "id": "fa-0243",
+    "partido": "fa",
+    "titular": "Seguir devolviendo los bienes incautados por la República y no devueltos por el franquismo",
+    "marca_actual": [],
+    "texto": "- Seguiremos con el proceso de devoluciones de los bienes incautados por la República y no devueltos por el franquismo a sus legítimos dueños."
+   },
+   {
+    "id": "fa-0981",
+    "partido": "fa",
+    "titular": "Desarrollar la Ley de Memoria Democrática y cerrar las fundaciones franquistas",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": " - Desarrollo reglamentario de la Ley de Memoria Democrática que recoja el derecho a la reparación de todas las víctimas de la dictadura franquista y contemple esa reparación integral como derecho subjetivo, así como el derecho al resarcimiento de los bienes incautados y las sanciones económicas producidas por razones políticas, ideológicas, de conciencia o creencia religiosa durante la Guerra Civil y la dictadura y dotación de medios personales, económicos, tecnológicos y materiales para implementar la Ley de Memoria Democrática, asegurar el funcionamiento del Banco Estatal de ADN y la reforma de la Ley de Secretos Oficiales para garantizar el acceso a los archivos.\n - Cierre de fundaciones franquistas: Continuaremos con el proceso judicial iniciado para el cierre de la Fundación Francisco Franco, Fundación Primo de Rivera, Fundación Blas Piñar y la Fundación Privada Ramón Serrano Suñer.\n - Memoria y reparación de las víctimas de la Transición: Desarrollaremos las recomendaciones de la comisión técnica prevista en la Ley de Memoria Democrática para reconocer y reparar las vulneraciones de derechos humanos cometidas entre 1978 y 1983, promoviendo las reformas legales necesarias. Impulsaremos también la investigación histórica de la Transición, incluyendo la violencia política e institucional y el papel de los movimientos sociales en la conquista y consolidación de las libertades democráticas.\n - Acceso a los archivos y derecho a la verdad: Garantizaremos el acceso efectivo a la documentación histórica, policial, militar y judicial relacionada con la represión y las vulneraciones de derechos humanos. Impulsaremos la reforma de la legislación sobre secretos oficiales, la desclasificación documental, la digitalización de fondos y la eliminación de restricciones injustificadas, facilitando también el acceso a archivos privados y eclesiásticos de interés para la memoria democrática.\n - Reparación integral y restitución patrimonial: Haremos efectivo el derecho al resarcimiento de los bienes incautados y las sanciones económicas impuestas por motivos políticos, ideológicos o de conciencia durante la Guerra Civil y la dictadura. Impulsaremos los mecanismos legales de restitución o compensación patrimonial, a partir de la investigación de los bienes expoliados, y reforzaremos las medidas de reconocimiento y reparación de las víctimas y sus familias."
+   },
+   {
+    "id": "fa-0982",
+    "partido": "fa",
+    "titular": "Aprobar una Ley sobre Bebés Robados",
+    "marca_actual": [],
+    "texto": "- Aprobaremos una Ley sobre Bebés Robados. Impulsaremos la aprobación de una ley específica que recoja las reivindicaciones de las asociaciones de víctimas y garantice la investigación de las sustracciones de menores, también las posteriores a la dictadura, el acceso a los archivos y expedientes, la identificación genética y la asistencia a las familias, asegurando sus derechos a la verdad, la justicia, la reparación y la recuperación de la identidad."
+   },
+   {
+    "id": "fa-0983",
+    "partido": "fa",
+    "titular": "Desacralizar Cuelgamuros y convertirlo en espacio de memoria democrática",
+    "marca_actual": [],
+    "texto": "- Resignificación democrática de Cuelgamuros: Impulsaremos la desacralización del conjunto monumental y su transformación en un espacio público de memoria democrática. Garantizaremos que el proyecto no se limite a una intervención arquitectónica, sino que incorpore una propuesta histórica, científica, museográfica y educativa rigurosa, con participación efectiva de las víctimas y las asociaciones memorialistas, reconocimiento de los trabajos forzados y contextualización del monumento como instrumento de exaltación de la dictadura franquista."
+   },
+   {
+    "id": "fa-0984",
+    "partido": "fa",
+    "titular": "Proteger los lugares de memoria y crear el Centro de Memoria de Carabanchel",
+    "marca_actual": [],
+    "texto": "- Reconocimiento y protección de los lugares de memoria democrática y antifascista: Impulsaremos la localización, catalogación y protección patrimonial de los lugares de memoria, así como su señalización mediante monumentos, placas y paneles explicativos que permitan conocer los hechos históricos vinculados a ellos. En particular, garantizaremos la creación de un Centro de Memoria de la Cárcel de Carabanchel en los terrenos de la antigua prisión, con protección y conservación de sus restos y vestigios frente a las actuaciones urbanísticas, un espacio público de homenaje a las víctimas de la represión franquista y participación de las asociaciones memorialistas y vecinales. Asimismo, impulsaremos y financiaremos un proyecto de investigación histórica, arqueológica y forense para contrastar las hipótesis sobre la localización de los restos de Federico García Lorca y las demás víctimas asesinadas en Granada en agosto de 1936, incluyendo prospecciones en lugares todavía no investigados, con fines de identificación, verdad histórica y reparación familiar."
+   },
+   {
+    "id": "fa-0985",
+    "partido": "fa",
+    "titular": "Recuperar las memorias de los movimientos ciudadanos que conquistaron la democracia",
+    "marca_actual": [],
+    "texto": "- Recuperación de las memorias ciudadanas: Promoveremos la investigación, conservación y difusión de las memorias de los movimientos vecinales, obreros, estudiantiles, culturales, feministas y de defensa de los derechos civiles que contribuyeron a la conquista de la democracia. Apoyaremos los archivos comunitarios, la recuperación de testimonios orales y los proyectos de memoria local, reconociendo el protagonismo de la ciudadanía en la construcción de las libertades."
+   },
+   {
+    "id": "fa-0986",
+    "partido": "fa",
+    "titular": "Memoria de las mujeres represaliadas y transmisión intergeneracional de la memoria",
+    "marca_actual": [],
+    "texto": "- Memoria democrática de las mujeres: Impulsaremos programas específicos de investigación, documentación y divulgación sobre las mujeres represaliadas y sobre su participación en la resistencia antifranquista, el exilio, los movimientos sociales y la construcción democrática. Recuperaremos sus trayectorias políticas, sindicales, intelectuales y culturales, incorporándolas al patrimonio documental y a los relatos públicos de nuestra historia.\n - Educación y transmisión intergeneracional de la memoria: Desarrollaremos programas educativos y culturales que conecten a las nuevas generaciones con los testimonios de quienes vivieron la Guerra Civil, la dictadura y la Transición. Promoveremos proyectos intergeneracionales, recursos didácticos sobre la historia contemporánea, visitas a lugares de memoria y la colaboración entre centros educativos, universidades, archivos y asociaciones memorialistas para fomentar el conocimiento histórico y los valores democráticos."
+   }
+  ]
+ },
+ {
+  "eje": "eje-regularizacion",
+  "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regularizaciones o vías estables"
+   },
+   {
+    "id": "no",
+    "nombre": "No, prohibirlas y expulsar"
+   }
+  ],
+  "n": 24,
+  "palabras": 1246,
+  "candidatos": [
+   {
+    "id": "pp-0049",
+    "partido": "pp",
+    "titular": "Visados por puntos y contrato en origen como vía legal de acceso",
+    "marca_actual": [],
+    "texto": "**40 SÓLO FUNCIONARÁ LA VÍA LEGAL DE ACCESO A ESPAÑA.** Implantaremos visados por puntos que valoren la formación, la experiencia, el idioma y la integración. Para venir a trabajar en sectores donde falten trabajadores habrá dos vías: llegar con un contrato firmado en origen o con un visado temporal para buscar empleo, sujeto a controles y plazos definidos. Agilizaremos la homologación de títulos en los sectores de alta demanda, pero reforzando notablemente las garantías para comprobar las cualificaciones."
+   },
+   {
+    "id": "pp-0050",
+    "partido": "pp",
+    "titular": "Cupos anuales de trabajadores extranjeros según la capacidad de acogida",
+    "marca_actual": [],
+    "texto": "**41 LA INMIGRACIÓN SE AJUSTARÁ A LA CAPACIDAD REAL DE ACOGIDA DE NUESTRO PAÍS.** Fijaremos cupos anuales que determinen cuántos trabajadores pueden venir y para qué sectores. Además, sólo participarán los países que colaboren en los retornos y en el control de la inmigración irregular. Revisaremos los cupos cada año según el paro y los puestos sin cubrir, y los ajustaremos a la capacidad del país en vivienda, servicios públicos y empleo."
+   },
+   {
+    "id": "pp-0051",
+    "partido": "pp",
+    "titular": "Prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "**42 PROHIBIREMOS POR LEY LAS REGULARIZACIONES MASIVAS E INDISCRIMINADAS Y EL ARRAIGO SERÁ EXCEPCIONAL.** Reformaremos la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas y para que el arraigo sea un reconocimiento individual excepcional, no una vía generalizada de regularización. El empadronamiento, por sí solo, no bastará para acceder a ayudas económicas no urgentes."
+   },
+   {
+    "id": "pp-0111",
+    "partido": "pp",
+    "titular": "Prioridad en ayudas y prestaciones para quienes tengan arraigo real con España",
+    "marca_actual": [],
+    "texto": "**98 EL VÍNCULO CON ESPAÑA DARÁ PRIORIDAD.** Estableceremos criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos para procurar la asignación prioritaria a quienes mantengan un arraigo real, duradero y verificable con España. Se tendrán en cuenta, entre otros elementos, el empadronamiento, la trayectoria de cotización, permanencia y contribución al sistema. Estos criterios se aplicarán dentro de los límites constitucionales y europeos, por lo que no podrán basarse exclusivamente en la nacionalidad."
+   },
+   {
+    "id": "pp-0171",
+    "partido": "pp",
+    "titular": "Plan de formación y empleo para los oficios de la construcción",
+    "marca_actual": [],
+    "texto": "**152 FORMAREMOS E INCORPORAREMOS A LOS PROFESIONALES QUE NECESITA LA CONSTRUCCIÓN.** Impulsaremos un plan de formación y empleo para atender las necesidades del sector y evitar que la falta de trabajadores frene la construcción de viviendas. Potenciaremos los planes formativos y la recualificación hacia los oficios de la construcción. Las necesidades de mano de obra del sector se podrán tener en cuenta al fijar los cupos de inmigración laboral, facilitando la contratación en origen."
+   },
+   {
+    "id": "pp-0222",
+    "partido": "pp",
+    "titular": "Anticipar hasta el 70 % de la ayuda PAC a jóvenes agricultores",
+    "marca_actual": [],
+    "texto": "**203 APOYAREMOS EL EMPLEO, LA INCORPORACIÓN DE JÓVENES Y EL RELEVO GENERACIONAL.**\n\nLos jóvenes que se incorporen cobrarán por anticipado hasta el 70% de la ayuda de la PAC a la incorporación y tendrán ventajas fiscales especiales. Agilizaremos la contratación de mano de obra en origen. Implantaremos un sistema de sustitución por bajas y descansos, y apoyaremos a quien se jubile para que traspase su explotación."
+   },
+   {
+    "id": "psoe-0497",
+    "partido": "psoe",
+    "titular": "Migración ordenada, legal y segura: más vías legales, refugio e integración",
+    "marca_actual": [],
+    "texto": "España necesita una migración ordenada, legal y segura, que responda a sus necesidades demográficas y económicas. Desde 2018 hemos ampliado las vías legales para residir y trabajar en España, modernizado la normativa de extranjería y reforzado la cooperación con los países de origen y de tránsito para combatir a las mafias y salvar vidas.\n\nQueremos seguir avanzando en esta dirección: simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo, para aprovechar el talento de quienes vienen a vivir y trabajar aquí. Ante el aumento de las crisis humanitarias, España seguirá siendo un puerto seguro para las personas refugiadas, con una política migratoria unida a la cooperación al desarrollo y a la defensa del derecho internacional.\n\nLa integración es un compromiso de doble sentido, con derechos y obligaciones para todos. Desplegaremos el Plan de Integración y Ciudadanía para reforzar la formación, el empleo, la educación y la sanidad, porque la mejor respuesta al racismo y la xenofobia es una convivencia en igualdad de oportunidades."
+   },
+   {
+    "id": "psoe-0554",
+    "partido": "psoe",
+    "titular": "Ampliar las plantillas judiciales y fiscales y regularizar a los sustitutos",
+    "marca_actual": [],
+    "texto": "**434. Ampliar las plantillas judiciales y fiscales** y **acabar con el abuso de la temporalidad** mediante un proceso de regularización de jueces y fiscales sustitutos, respetando los principios de mérito y capacidad."
+   },
+   {
+    "id": "vox-0009",
+    "partido": "vox",
+    "titular": "Ni uno más: prohibir las regularizaciones masivas de inmigrantes",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "9. Ni uno más. Después de recibir a 5 millones de personas en 5 años España no puede acoger a más inmigrantes. Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación."
+   },
+   {
+    "id": "vox-0011",
+    "partido": "vox",
+    "titular": "Suprimir el arraigo y revocar las pasarelas rápidas a la nacionalidad",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "11. Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española."
+   },
+   {
+    "id": "fa-0108",
+    "partido": "fa",
+    "titular": "Traspasar la gestión del IMV a las comunidades autónomas",
+    "marca_actual": [],
+    "texto": "- Descentralización y seguridad jurídica: Traspasaremos la gestión a las comunidades autónomas y protegeremos frente a reclamaciones por regularizaciones tardías de buena fe."
+   },
+   {
+    "id": "fa-0263",
+    "partido": "fa",
+    "titular": "Residencia para víctimas de trata sin depender de su colaboración policial",
+    "marca_actual": [],
+    "texto": "- Desvinculación de la denuncia policial (Ley de Extranjería): Reformaremos el artículo 59 bis de la Ley de Extranjería para garantizar que el permiso de residencia, la atención y la protección a las víctimas de trata en situación irregular no dependan de su colaboración con las autoridades policiales."
+   },
+   {
+    "id": "fa-0593",
+    "partido": "fa",
+    "titular": "Distribuir la innovación hacia territorios desindustrializados o despoblados",
+    "marca_actual": [],
+    "texto": "- Innovación territorial y empleo de calidad: Fomentaremos la inclusión de empresas tecnológicas que contribuyan a distribuir la actividad innovadora entre comunidades autónomas y territorios afectados por la desindustrialización o la despoblación. Los proyectos financiados deberán comprometerse con la creación de empleo estable, la formación, la igualdad y el arraigo territorial de la actividad productiva."
+   },
+   {
+    "id": "fa-0701",
+    "partido": "fa",
+    "titular": "Aumentar un 30 % los recursos de las Oficinas de Extranjería",
+    "marca_actual": [],
+    "texto": "- Aumentaremos un 30 % los recursos de las Oficinas de Extranjería. Llevan años con graves carencias: falta de personal, salarios bajos y material informático obsoleto. Tras una auditoría de su funcionamiento, cubriremos todas las plazas y crearemos las necesarias, mejoraremos los salarios de su personal, renovaremos sus equipos y mejoraremos el sistema de cita previa."
+   },
+   {
+    "id": "fa-0825",
+    "partido": "fa",
+    "titular": "Reforma de extranjería, regularización y eliminación de barreras",
+    "marca_actual": [],
+    "texto": "Reforma de extranjería, regularización y eliminación de barreras"
+   },
+   {
+    "id": "fa-0826",
+    "partido": "fa",
+    "titular": "Culminar la regularización extraordinaria de 2026 resolviendo todas las solicitudes",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Culminar la regularización extraordinaria de 2026: Resolveremos todas las solicitudes con medios suficientes, de modo que ninguna persona quede fuera por retrasos de la Administración."
+   },
+   {
+    "id": "fa-0827",
+    "partido": "fa",
+    "titular": "Procedimiento estable y permanente de regularización en la Ley de Extranjería",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Procedimiento estable de regularización: Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa."
+   },
+   {
+    "id": "fa-0829",
+    "partido": "fa",
+    "titular": "Cita en las oficinas de extranjería en un máximo de siete días",
+    "marca_actual": [],
+    "texto": "- Garantía de cita en las oficinas de extranjería en un plazo de una semana: Estableceremos un plazo máximo de siete días naturales para la obtención de citas en las Oficinas de Extranjería. Para ello, reforzaremos los recursos humanos, técnicos y materiales de estas oficinas y estableceremos un sistema público, gratuito, transparente y accesible de asignación de citas, eliminando las prácticas abusivas de intermediación y compraventa de citas."
+   },
+   {
+    "id": "fa-0840",
+    "partido": "fa",
+    "titular": "Registro público estatal de gestión de visados en embajadas y consulados",
+    "marca_actual": [],
+    "texto": "- Creación de un registro público estatal de gestión de visados en el exterior: Impulsaremos la creación de un registro de gestión de visados que garantice la transparencia, la supervisión y la rendición de cuentas en los procedimientos de solicitud y expedición de visados tramitados por las embajadas y consulados españoles."
+   },
+   {
+    "id": "fa-0841",
+    "partido": "fa",
+    "titular": "Permiso de trabajo a solicitantes del estatuto de apátrida a los seis meses",
+    "marca_actual": [],
+    "texto": "- Autorización de trabajo de las personas solicitantes del estatuto de apátrida: Garantizaremos la autorización de trabajo por cuenta propia y ajena de las personas solicitantes del estatuto de apátrida a partir de los seis meses de presentación de la solicitud, sin esperar a la resolución definitiva."
+   },
+   {
+    "id": "fa-0844",
+    "partido": "fa",
+    "titular": "Resolver la reagrupación familiar en tres meses, con silencio positivo",
+    "marca_actual": [],
+    "texto": "- Garantía del derecho a la reagrupación familiar: Aseguramiento del derecho a la reagrupación familiar mediante la obligación de resolver las solicitudes en un plazo máximo de tres meses, aplicando el silencio administrativo positivo en caso de falta de resolución."
+   },
+   {
+    "id": "fa-0845",
+    "partido": "fa",
+    "titular": "Revisar los contratos privados de citas para visados de reagrupación familiar",
+    "marca_actual": [],
+    "texto": "- Reforma de la gestión de visados de reagrupación familiar en embajadas y consulados: Revisaremos los contratos con empresas privadas que gestionan las citas y la recepción de solicitudes de visado, para garantizar un servicio accesible, transparente y sin cobros abusivos."
+   },
+   {
+    "id": "fa-0846",
+    "partido": "fa",
+    "titular": "Recuperar la gestión pública de las solicitudes en embajadas y consulados",
+    "marca_actual": [],
+    "texto": "- Recuperación progresiva de la gestión pública de las solicitudes: Reforzando los recursos de embajadas y consulados y evitando que la falta de citas o la intervención de empresas privadas dificulte el acceso a los procedimientos."
+   },
+   {
+    "id": "fa-0913",
+    "partido": "fa",
+    "titular": "Vías legales europeas para trabajadores y estudiantes y fiscalización de Frontex",
+    "marca_actual": [],
+    "texto": "- Propondremos una regulación comunitaria de vías legales y seguras para personas trabajadoras y estudiantes, rompiendo con el condicionamiento de ayudas exteriores a políticas migratorias represivas y fiscalizando agencias como Frontex."
+   }
+  ]
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 18,
+  "palabras": 834,
+  "candidatos": [
+   {
+    "id": "pp-0131",
+    "partido": "pp",
+    "titular": "Revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "**115 NI TRABAS NI CULPAS. IGUALDAD REAL.** Trabajaremos para que las políticas de igualdad aborden los problemas reales que siguen limitando la libertad y las oportunidades de las personas. Eliminaremos los obstáculos que todavía frenan la trayectoria profesional y personal de las mujeres. Revisaremos las normas que hayan generado inseguridad jurídica en nombre de la igualdad, como la Ley Trans, y eliminaremos la libre autodeterminación registral del sexo, para reforzar la seguridad jurídica y proteger a los menores. Garantizaremos que el sexo biológico sea el criterio para las categorías deportivas femeninas."
+   },
+   {
+    "id": "psoe-0475",
+    "partido": "psoe",
+    "titular": "Blindar el matrimonio igualitario, el aborto y la eutanasia",
+    "marca_actual": [],
+    "texto": "**368. Blindar los principales avances en derechos y libertades civiles** , garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia **.**"
+   },
+   {
+    "id": "psoe-0528",
+    "partido": "psoe",
+    "titular": "Balance de derechos LGTBI y compromiso contra la LGTBIfobia sin un paso atrás",
+    "marca_actual": [],
+    "texto": "La igualdad de las personas LGTBI forma parte de la identidad del proyecto socialista. En 2026, España ocupa el primer puesto europeo en derechos LGTBI según el Rainbow Map de ILGA-Europe, fruto de décadas de lucha del movimiento LGTBI y del compromiso de los gobiernos socialistas. En esta legislatura hemos desarrollado la Ley 4/2023 con las primeras estrategias estatales para la igualdad LGTBI y la inclusión de las personas trans.\n\nAdemás, hemos reforzado la protección frente a la discriminación laboral, ampliado los derechos de las familias LGTBI, impulsado la prohibición de las terapias de conversión, mejorado la atención a las víctimas con el servicio 028 Arcoíris y avanzado en la memoria democrática LGTBI.\n\nPero la discriminación y la violencia persisten, sobre todo contra las personas trans. Nuestro compromiso es reforzar la protección frente a la LGTBIfobia y garantizar que estos derechos se cumplan en todo el territorio, gobierne quien gobierne en cada comunidad, sin un paso atrás.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0529",
+    "partido": "psoe",
+    "titular": "Ley 4/2023 como suelo común de derechos LGTBI y nueva Ley de Familias",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "**412. Garantizar que la Ley 4/2023 sea el suelo común de derechos de las personas LGTBI en toda España** , de modo que ningún retroceso autonómico deje sin protección a nadie por razón de su lugar de residencia y una nueva Ley de Familias que reconozca su diversidad."
+   },
+   {
+    "id": "psoe-0531",
+    "partido": "psoe",
+    "titular": "Reformar el Código Penal para penalizar las «terapias de conversión»",
+    "marca_actual": [],
+    "texto": "**414.** Culminar la reforma del Código Penal para **penalizar las llamadas «terapias de conversión»** , retomando la iniciativa legislativa impulsada durante la anterior legislatura."
+   },
+   {
+    "id": "psoe-0532",
+    "partido": "psoe",
+    "titular": "Inclusión social y laboral de las personas trans y acceso a tratamientos hormonales",
+    "marca_actual": [],
+    "texto": "**415. Impulsar la inclusión social y laboral de las personas trans** , garantizando el acceso y la continuidad de los tratamientos hormonales."
+   },
+   {
+    "id": "psoe-0535",
+    "partido": "psoe",
+    "titular": "Reforzar la acción internacional por los derechos LGTBI y la adopción internacional",
+    "marca_actual": [],
+    "texto": "**418.** Reforzaremos la acción internacional de España en defensa de los derechos LGTBI e impulsando la adopción internacional para familias LGTBI."
+   },
+   {
+    "id": "fa-0248",
+    "partido": "fa",
+    "titular": "Erradicar la violencia machista y LGTBIfóbica con redes de prevención y acogida",
+    "marca_actual": [],
+    "texto": "- Erradicaremos todas las formas de violencia machista y LGTBIfóbica con redes sólidas de prevención y acogida."
+   },
+   {
+    "id": "fa-0813",
+    "partido": "fa",
+    "titular": "Plan de choque contra la precariedad en sectores feminizados",
+    "marca_actual": [],
+    "texto": "- Plan de choque contra la precariedad en sectores feminizados y control de la brecha salarial: Pondremos en marcha un plan de choque contra la precariedad en la limpieza, los cuidados, el comercio y la hostelería, con más inspección de trabajo y control de la brecha salarial. Tendrá atención específica a mujeres rurales, gitanas, racializadas, en situación administrativa irregular y con discapacidad; autodeterminación de las personas trans, intersex y no binarias; protección frente a la violencia intragénero; reconocimiento de las familias diversas."
+   },
+   {
+    "id": "fa-0814",
+    "partido": "fa",
+    "titular": "Desplegar la Ley Trans y reconocer a las personas no binarias",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero."
+   },
+   {
+    "id": "fa-0815",
+    "partido": "fa",
+    "titular": "Plena aplicación de la legislación de protección de personas trans y LGTBIQA+",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Garantizaremos la plena aplicación de la legislación estatal de protección de las personas trans y de las personas LGTBIQA+, con medidas contra la discriminación en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos."
+   },
+   {
+    "id": "fa-0816",
+    "partido": "fa",
+    "titular": "Crear un Observatorio Estatal contra la LGTBQAifobia",
+    "marca_actual": [],
+    "texto": "- Estableceremos un Observatorio Estatal contra la LGTBQAifobia que recoja casos de discriminaciones y violencias en coordinación con diferentes observatorios territoriales y desarrollaremos una estrategia para combatir la LGTBQAifobia e incidir de forma específica en ámbitos clave como el deporte, la cultura, el empleo o la educación."
+   },
+   {
+    "id": "fa-0817",
+    "partido": "fa",
+    "titular": "Combatir agresiones y discursos de odio por orientación o identidad de género",
+    "marca_actual": [],
+    "texto": "- Combatiremos las agresiones y discursos de odio por orientación sexual, identidad o expresión de género, también en las redes, y reforzaremos la prevención del acoso y el ciberacoso."
+   },
+   {
+    "id": "fa-0818",
+    "partido": "fa",
+    "titular": "Atención sanitaria integral y despatologizada para las personas trans",
+    "marca_actual": [],
+    "texto": "- Garantizaremos una atención sanitaria integral, accesible y respetuosa para las personas trans, despatologizada y basada en la autonomía personal y el consentimiento informado."
+   },
+   {
+    "id": "fa-0819",
+    "partido": "fa",
+    "titular": "Evitar intervenciones irreversibles no urgentes a personas intersexuales sin consentimiento",
+    "marca_actual": [],
+    "texto": "- Protegeremos la autonomía corporal de las personas intersexuales y evitaremos intervenciones irreversibles no urgentes sin consentimiento libre e informado de la persona afectada."
+   },
+   {
+    "id": "fa-0820",
+    "partido": "fa",
+    "titular": "Reconocer la diversidad de las familias en normas y servicios públicos",
+    "marca_actual": [],
+    "texto": "- Reconoceremos la diversidad de las familias en la normativa, prestaciones, formularios, servicios públicos y derechos de filiación y reproducción."
+   },
+   {
+    "id": "fa-0856",
+    "partido": "fa",
+    "titular": "Defender la soberanía de los pueblos y rechazar medidas coercitivas unilaterales",
+    "marca_actual": [],
+    "texto": "- Derecho internacional y no injerencia: Defensa irrestricta de la soberanía de los pueblos, el derecho a la autodeterminación y el rechazo a las medidas coercitivas unilaterales y bloqueos económicos en la política internacional. Evolución hacia una política exterior soberana que rompa con la posición de subordinación a las políticas agresivas e imperialistas. Defenderemos el derecho de los pueblos a definir su destino sin ser tratados como colonias, protectorados o «patios traseros» de potencias globales."
+   },
+   {
+    "id": "fa-0865",
+    "partido": "fa",
+    "titular": "Retirar el apoyo al plan de autonomía marroquí y referéndum saharaui",
+    "marca_actual": [],
+    "texto": "- Apoyo explícito a la autodeterminación y referéndum de la ONU: Retiraremos formalmente el apoyo gubernamental al plan de autonomía marroquí para retomar la posición fijada por el derecho internacional. Defenderemos el derecho incondicional a la autodeterminación del pueblo saharaui mediante un referéndum libre supervisado por Naciones Unidas, el cual deberá incluir expresamente la opción de la independencia."
+   }
+  ]
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 10,
+  "palabras": 677,
+  "candidatos": [
+   {
+    "id": "psoe-0423",
+    "partido": "psoe",
+    "titular": "Retribuir los permisos parentales y ampliar la reducción de jornada hasta los 16 años",
+    "marca_actual": [],
+    "texto": "**325. Ampliar y fortalecer los derechos de conciliación familiar,** mediante la retribución de los permisos parentales y por cuidados, su extensión a familias monoparentales y personas autónomas, y la mejora de las medidas de adaptación y reducción de jornada para el cuidado de menores hasta los 16 años."
+   },
+   {
+    "id": "psoe-0424",
+    "partido": "psoe",
+    "titular": "Retribuir los permisos parentales y ampliar la reducción de jornada hasta los 16 años",
+    "marca_actual": [],
+    "texto": "**326. Ampliar y fortalecer los derechos de conciliación familiar** , mediante la retribución de los permisos parentales y por cuidados, adaptándolos además a familias monoparentales y personas autónomas; mejorando las medidas de adaptación y reducción de jornada para el cuidado de menores y ampliándolas hasta los 16 años"
+   },
+   {
+    "id": "psoe-0479",
+    "partido": "psoe",
+    "titular": "Rebajar la edad de voto a los 16 años",
+    "marca_actual": [],
+    "texto": "**372. Impulsar la participación juvenil y la profundización democrática** , rebajando la edad de voto a los 16 años, fortaleciendo los consejos de juventud y ampliando los mecanismos de participación ciudadana en las decisiones públicas."
+   },
+   {
+    "id": "psoe-0482",
+    "partido": "psoe",
+    "titular": "Rebajar la edad de voto a 16 años y fortalecer los consejos de juventud",
+    "marca_actual": [],
+    "texto": "**374.** Impulsar la participación juvenil y la profundización democrática, fortaleciendo los consejos de juventud, apoyando el asociacionismo juvenil y **rebajando la edad de voto a los 16 años.**"
+   },
+   {
+    "id": "psoe-0511",
+    "partido": "psoe",
+    "titular": "Balance: ley de edad mínima de 16 años en redes y contra los deepfakes",
+    "marca_actual": [],
+    "texto": "La revolución tecnológica puede hacernos la vida más fácil, pero hoy buena parte de su poder está en manos de unos pocos tecnooligarcas que anteponen sus beneficios a nuestros derechos. Hacen negocio con nuestros datos y con la atención de nuestros hijos e hijas, se lucran amplificando el odio y los bulos y pretenden situarse por encima de las leyes democráticas. Hemos demostrado que se puede impulsar la innovación y defender los derechos a la vez. Llevamos al Congreso la ley que eleva a 16 años la edad mínima para usar redes sociales, obliga a las plataformas a verificar la edad y hace responsables a sus directivos de los delitos que se cometan en ellas. También llevamos la ley contra los _deepfakes_ sin consentimiento y la que permite exigir que se rectifique un bulo en las redes. Instamos por primera vez a la Fiscalía a investigar la violencia sexual digital contra menores en las grandes plataformas. Y hemos llevado a Europa y a Naciones Unidas la protección de la infancia frente a las plataformas y la inteligencia artificial."
+   },
+   {
+    "id": "psoe-0514",
+    "partido": "psoe",
+    "titular": "Fijar en 16 años la edad mínima para usar redes sociales",
+    "marca_actual": [],
+    "texto": "**399. Establecer a 16 años la edad mínima para usar redes sociales.** Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales. La edad mínima solo podrá rebajarse cuando las plataformas demuestren que son seguras por defecto. La ley incluirá la verificación obligatoria de la edad, la restricción de los diseños y algoritmos adictivos y la responsabilidad de los directivos por los delitos que toleran en sus plataformas."
+   },
+   {
+    "id": "psoe-0517",
+    "partido": "psoe",
+    "titular": "Restringir los chatbots de IA a menores de 16 años sin consentimiento parental",
+    "marca_actual": [],
+    "texto": "**402. Proteger a los menores frente a los chatbots de inteligencia artificial.** Restringir el uso libre de los asistentes conversacionales de IA a menores de 16 años sin consentimiento parental, y obligar a las empresas a detectar conductas de riesgo (autolesiones, dependencia emocional o contenidos sexuales) y a activar alertas."
+   },
+   {
+    "id": "fa-0152",
+    "partido": "fa",
+    "titular": "Gafas y lentillas gratuitas para toda la población (Plan Veo)",
+    "marca_actual": [],
+    "texto": "- Salud visual: Universalizaremos el «Plan Veo» (gafas y lentillas gratuitas) a todos los grupos de edad de la población residente (ampliando la medida inicial para menores de 16 años)."
+   },
+   {
+    "id": "fa-0284",
+    "partido": "fa",
+    "titular": "Ley de protección de menores en entornos digitales con responsabilidad de plataformas",
+    "marca_actual": [],
+    "texto": "- Ley Orgánica para la protección de las personas menores de edad en los entornos digitales que debe establecer mecanismos claros de responsabilidad penal y patrimonial para las grandes plataformas digitales que ignoren de forma sistemática y negligente las notificaciones de contenido ilegal de abuso sexual infantil.\n - Regulación severa de plataformas y redes sociales dirigidas a menores de 16 años sin verificación de edad respetuosa con la privacidad y eliminación de funciones adictivas (scroll infinito, reproducción automática, notificaciones constantes, «me gusta», rachas, recomendaciones algorítmicas, publicidad dirigida, rastreo biométrico/emocional y contacto con adultos desconocidos).\n - Habilitación a la Comisión Nacional de los Mercados y la Competencia (CNMC) para que pueda cumplir las competencias que le encomienda el Reglamento de la UE de Servicios Digitales (DSA) y que son de vital importancia para la protección de los menores, como designar alertadores fiables de contenido ilegal o facilitar a los investigadores acceso a los datos de las plataformas para estudiar el fenómeno."
+   },
+   {
+    "id": "fa-0292",
+    "partido": "fa",
+    "titular": "Reconocer por ley el derecho al voto a partir de los 16 años",
+    "marca_actual": [],
+    "texto": "- Derecho al voto a los 16 años: Reconoceremos por ley el derecho al voto a partir de los 16 años."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mordaza",
+  "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+  "posiciones": [
+   {
+    "id": "derogar-sustituir",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o reforzarla"
+   }
+  ],
+  "n": 5,
+  "palabras": 603,
+  "candidatos": [
+   {
+    "id": "pp-0033",
+    "partido": "pp",
+    "titular": "Elevar a 3.000 euros la multa mínima por vandalismo en disturbios",
+    "marca_actual": [],
+    "texto": "**24 VANDALIZAR EL ESPACIO PÚBLICO NO PUEDE SALIR GRATIS.** Elevaremos la multa mínima a 3.000 euros para quienes participen activamente en actos de vandalismo contra bienes públicos o privados durante desórdenes multitudinarios que alteren gravemente la seguridad ciudadana, cuando su conducta no constituya delito. Agilizaremos la valoración de los daños y el pago de las indemnizaciones que correspondan a los comerciantes afectados, reforzando la coordinación entre el Consorcio de Compensación de Seguros y las entidades aseguradoras."
+   },
+   {
+    "id": "psoe-0543",
+    "partido": "psoe",
+    "titular": "Reforzar plantillas policiales y aprobar una nueva Ley de Seguridad Ciudadana",
+    "marca_actual": [],
+    "texto": "La seguridad es un derecho de ciudadanía y no puede depender del barrio en el que se vive ni de lo que se puede pagar. Desde 2018 hemos alcanzado las mayores plantillas de Policía Nacional y Guardia Civil de nuestra historia, modernizado sus medios y mejorado la coordinación con las policías autonómicas y locales. España se mantiene entre los países más seguros de su entorno.\n\nSeguiremos reforzando las plantillas y los recursos de las Fuerzas y Cuerpos de Seguridad, con más presencia en los barrios y en el medio rural, y más capacidad para prevenir y combatir la ciberdelincuencia y las estafas digitales. Aprobaremos una nueva Ley de Seguridad Ciudadana que garantice la seguridad y proteja los derechos y las libertades.\n\nReforzaremos también la protección de las víctimas de violencia de género y de los delitos de odio.\n\nQueremos que todo el mundo pueda vivir tranquilo y sentirse seguro en su casa, en su barrio, en su pueblo y también en internet. Porque seguridad y libertad son inseparables.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0550",
+    "partido": "psoe",
+    "titular": "Nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015",
+    "marca_actual": [],
+    "texto": "**431. Aprobar una nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015** , garantizando los derechos de reunión y manifestación, un régimen sancionador preciso, identificaciones sin discriminación y cámaras corporales en toda la Policía Nacional y Guardia Civil con garantías de protección de datos."
+   },
+   {
+    "id": "fa-0802",
+    "partido": "fa",
+    "titular": "Ley de uso transparente de la IA en la Administración y auditorías",
+    "marca_actual": [],
+    "texto": " - Uso transparente de la inteligencia artificial en la administración pública: Aprobaremos una ley específica para el buen uso de la IA en el sector público, que incluya un inventario público obligatorio de los sistemas en uso, su finalidad, datos, tasa de error y sesgos, evaluados de forma previa a su despliegue y anualmente. Toda resolución administrativa asistida por IA lo indicará de forma expresa, otorgando la facultad de solicitar una revisión por parte de un empleado público.\n - Auditorías de seguridad e impacto en contratación pública y servicios esenciales: Exigencia a proveedores de superar una auditoría de seguridad independiente antes de desplegar sistemas de IA en contratos públicos, habilitando a la Administración para rescindir contratos en caso de comportamientos de riesgo. Extenderemos las auditorías independientes a decisiones automatizadas en empleo, crédito, seguros y servicios esenciales, garantizando información clara, revisión humana, vías de reclamación y supervisión de la representación laboral contra la discriminación.\n - Rendición de cuentas de directivos de IA y respuesta a emergencias: Comparecencia obligatoria en el Congreso y el Senado de directivos de empresas de IA cuando sus agentes o sistemas autónomos pongan en peligro la seguridad ciudadana, accedan a datos personales administrados por el Estado o manipulen servicios digitales públicos. Revisaremos con urgencia la capacidad de respuesta de Fuerzas de Seguridad, Protección Civil, Seguridad Nacional e INCIBE frente a incidentes o ciberataques contra infraestructuras críticas (red eléctrica, hospitales, transporte).\n - Protección frente a deepfakes e IA generativa: Consideración como intromisión ilegítima de la difusión no consentida de imágenes o voces hiperrealistas falsas de una persona (salvo excepciones de sátira y crítica pública). Exigencia a desarrolladores de IA generativa de acreditar medidas de seguridad eficaces ante los reguladores, y desarrollo de campañas educativas dirigidas a la juventud contra el uso humillante de estas tecnologías, con foco en la violencia de género."
+   },
+   {
+    "id": "fa-0946",
+    "partido": "fa",
+    "titular": "Derogar por completo la Ley Mordaza",
+    "marca_actual": [],
+    "texto": "- Derogaremos por completo la Ley Mordaza."
+   }
+  ]
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 1,
+  "palabras": 68,
+  "candidatos": [
+   {
+    "id": "pp-0071",
+    "partido": "pp",
+    "titular": "Derogar la Ley de Amnistía y aprobar una nueva Ley del Indulto",
+    "marca_actual": [],
+    "texto": "**60 LA IMPUNIDAD NO SERÁ MONEDA DE CAMBIO PARA GOBERNAR.** Derogaremos la Ley de Amnistía y prohibiremos que el derecho de gracia se utilice como contraprestación política para formar o mantener un Gobierno. Aprobaremos una nueva Ley del Indulto con criterios objetivos y transparentes. No podrán ser indultados los condenados por corrupción, terrorismo, delitos contra la integridad territorial o el orden constitucional ni por delitos graves contra menores."
+   }
+  ]
+ }
+]

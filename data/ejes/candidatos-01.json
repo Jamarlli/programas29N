@@ -1,0 +1,1976 @@
+[
+ {
+  "eje": "eje-clima-ritmo",
+  "pregunta": "¿Qué ritmo para la transición climática?",
+  "posiciones": [
+   {
+    "id": "acelerar",
+    "nombre": "Mantener o acelerar los objetivos"
+   },
+   {
+    "id": "frenar",
+    "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  ],
+  "n": 82,
+  "palabras": 5505,
+  "candidatos": [
+   {
+    "id": "pp-0139",
+    "partido": "pp",
+    "titular": "Impulsar el 5G en las vías de alta capacidad y puntos de recarga",
+    "marca_actual": [],
+    "texto": "**123 UNA ESPAÑA MEJOR CONECTADA DIGITALMENTE.** Impulsaremos las inversiones en infraestructuras conectadas, sostenibles y seguras, que favorezcan el desarrollo y despliegue del 5G en las vías de alta capacidad, y la implantación de puntos de recarga a fin de favorecer la descarbonización de los tráficos rodados."
+   },
+   {
+    "id": "pp-0247",
+    "partido": "pp",
+    "titular": "Eliminar el calendario de cierre nuclear y extender la vida de las centrales",
+    "marca_actual": [],
+    "texto": "**228 ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES**\n\n**Y TRILLO.** En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bueno del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones. Reformularemos con realismo el Plan Nacional Integrado de Energía y Clima. Nuclear, renovables, almacenamiento y respaldo suficiente se complementarán, y todas las tecnologías competirán en igualdad en subastas, ayudas y regulación. Aprobaremos una estrategia nacional de energía nuclear y participaremos en las iniciativas europeas de reactores avanzados y de pequeños reactores modulares. Facilitaremos contratos de electricidad a largo plazo, que dan precios estables a la industria y a los hogares. La neutralidad tecnológica y la seguridad de suministro guiarán cada decisión. No será el Gobierno quien decida qué tecnología debe ganar, sino su capacidad para ofrecer energía segura, limpia y competitiva."
+   },
+   {
+    "id": "pp-0251",
+    "partido": "pp",
+    "titular": "Revisar los ritmos de descarbonización y frenar los calendarios imposibles",
+    "marca_actual": [],
+    "texto": "**232 AFRONTAREMOS EL CAMBIO CLIMÁTICO CON RIGOR CIENTÍFICO.** Actuaremos desde la ciencia y sin dogmatismos. La lucha contra el cambio climático y la descarbonización son objetivos irrenunciables para Europa por razones ambientales, geoestratégicas y económicas. Pero ha llegado el momento de revisar los ritmos de cada sector atendiendo a tres factores: lo que está ocurriendo en el resto del mundo, la tecnología realmente disponible y la evolución de la demanda. Pondremos freno a la imposición de calendarios imposibles. Defendemos una transición ordenada, realista y justa, que haga compatible la protección del medioambiente con el crecimiento económico y el bienestar. Los ciudadanos no deben perder oportunidades ni sufrir un encarecimiento desproporcionado de la vida por las políticas climáticas. No impondremos obligaciones innecesarias y retiraremos las que perjudiquen la competitividad, la industria o el empleo."
+   },
+   {
+    "id": "psoe-0017",
+    "partido": "psoe",
+    "titular": "Ampliar redes eléctricas, culminar corredores y 19.000 millones para el ferrocarril",
+    "marca_actual": [],
+    "texto": "Nada de esto será posible sin un nuevo salto en nuestras infraestructuras energéticas y de transporte, porque de ellas depende que la energía limpia y barata se convierta en industria y en empleo. En el ámbito energético, aceleraremos la ampliación y digitalización de las redes eléctricas de transporte y distribución, desplegaremos almacenamiento a gran escala y reforzaremos las interconexiones con el resto de Europa. En el transporte, culminaremos los corredores Mediterráneo y Atlántico, conectando puertos, plataformas logísticas y polos industriales con la red europea; impulsaremos el transporte de mercancías por ferrocarril y la intermodalidad para descarbonizar la logística; y daremos prioridad al mantenimiento y la fiabilidad de toda la red ferroviaria, con unos 19.000 millones de euros comprometidos hasta 2030.\n\nAdemás, seguiremos fortaleciendo los derechos de los consumidores, adaptando su protección a los desafíos de la digitalización y la IA, combatiendo los abusos y garantizando mercados más transparentes y justos.\n\nNuestro objetivo no es solo una economía más grande, sino una economía más productiva, innovadora, industrial, sostenible y justa. Una economía que compita por talento, tecnología e infraestructuras de primer nivel, y que convierta cada avance en prosperidad compartida."
+   },
+   {
+    "id": "psoe-0021",
+    "partido": "psoe",
+    "titular": "Descarbonizar la industria con renovables, hidrógeno renovable y electrificación",
+    "marca_actual": [],
+    "texto": "**3. Impulsar la descarbonización y modernización de la industria mediante las energías renovables** , el hidrógeno renovable, el biogás, los combustibles renovables, la electrificación, la eficiencia energética, la simbiosis industrial y la economía circular."
+   },
+   {
+    "id": "psoe-0052",
+    "partido": "psoe",
+    "titular": "Incentivar vehículos de cero emisiones y extender la recarga eléctrica",
+    "marca_actual": [],
+    "texto": "**30. Acelerar la electrificación y la descarbonización del transporte.** Facilitaremos el acceso a vehículos de cero emisiones mediante incentivos ágiles, financiación accesible y apoyo a hogares, autónomos y empresas. Al mismo tiempo, extenderemos la infraestructura de recarga eléctrica en todo el territorio e impulsaremos la descarbonización del transporte de mercancías, los puertos y el transporte pesado mediante la electrificación, el hidrógeno renovable y otros combustibles sostenibles."
+   },
+   {
+    "id": "psoe-0229",
+    "partido": "psoe",
+    "titular": "Adaptar los centros educativos al cambio climático con patios refugio",
+    "marca_actual": [],
+    "texto": "**164. Fomentar la adaptación de los centros educativos al cambio climático** , en coordinación con las administraciones competentes, mejorando el confort térmico, transformando los patios en refugios climáticos e impulsando sistemas de climatización eficientes, aerotermia y energías renovables."
+   },
+   {
+    "id": "psoe-0307",
+    "partido": "psoe",
+    "titular": "Encabezado: un país que combate el cambio climático",
+    "marca_actual": [],
+    "texto": "Un país que combate el cambio climático."
+   },
+   {
+    "id": "psoe-0308",
+    "partido": "psoe",
+    "titular": "Diagnóstico: el cambio climático como realidad y la transición como oportunidad",
+    "marca_actual": [],
+    "texto": "El cambio climático ya no es una amenaza del futuro: es una realidad que afecta a nuestras vidas, nuestra economía y nuestro territorio. Sus impactos sobre la vida de las personas, la salud, la economía y el territorio son cada vez más visibles. La DANA de 2024 dejó 241 víctimas, los incendios de 2025 arrasaron más de 350.000 hectáreas y los fenómenos climáticos extremos provocan cada año pérdidas multimillonarias. Sus consecuencias golpean especialmente al mundo rural, que lleva décadas sufriendo el envejecimiento y la pérdida de población. Si no actuamos, el cambio climático agravará las desigualdades, aumentará nuestra dependencia de los combustibles fósiles y dejará atrás a quienes viven en los territorios más vulnerables.\n\nPero la transición ecológica nos presenta también una gran oportunidad para generar prosperidad, crear empleo y cohesionar nuestro territorio. Aprovechar nuestros recursos naturales para producir energía limpia y barata, modernizar nuestra economía, fortalecer nuestra autonomía energética y garantizar que vivir en un pueblo no signifique tener menos oportunidades que vivir en una ciudad."
+   },
+   {
+    "id": "psoe-0309",
+    "partido": "psoe",
+    "titular": "Balance: Ley de Cambio Climático y renovables hasta el 72 % de la potencia",
+    "marca_actual": [],
+    "texto": "Durante estos ocho años hemos demostrado que proteger el planeta y mejorar la vida de la gente pueden y deben ir de la mano. Declaramos la emergencia climática y aprobamos la primera Ley de Cambio Climático, convirtiendo el desafío climático en una oportunidad para reforzar nuestra autonomía energética, modernizar nuestra economía y generar prosperidad compartida. Mientras que durante el último Gobierno del PP la potencia renovable apenas creció dos puntos porcentuales, desde 2018 ha aumentado 23 puntos, hasta representar el 72% de nuestra potencia eléctrica instalada, contribuyendo a que los precios mayoristas de la electricidad sean inferiores a la media europea.\n\nY hemos trabajado para que los beneficios de la transición ecológica lleguen a los hogares. Lo hemos hecho ampliando el bono social eléctrico, impulsando las ayudas al autoconsumo y las comunidades energéticas, y poniendo en marcha la excepción ibérica. Y seguiremos haciéndolo con los más de 9.000 millones de euros movilizados para el Plan Social para el Clima. Porque la transición ecológica debe ser también una transición justa que mejore la vida de la gente."
+   },
+   {
+    "id": "psoe-0310",
+    "partido": "psoe",
+    "titular": "Balance: la transición ecológica ha creado 160.000 empleos verdes desde 2017",
+    "marca_actual": [],
+    "texto": "Lo hemos hecho impulsando una transición ecológica que también es una transformación económica y social. Nuestra apuesta por las energías renovables, la electrificación y la adaptación climática está contribuyendo a la reindustrialización, la creación de empleo y la competitividad de nuestras empresas. El impulso de nuevos proyectos como la fábrica de hidrógeno verde en Huelva o las gigafactorías de baterías nos ha permitido generar 160.000 nuevos puestos de empleo verde desde 2017. Pero también hemos duplicado la inversión en protección del agua, impulsado la movilidad sostenible, desplegado el mayor operativo antiincendios de nuestra historia y situado el reto demográfico en el centro de la acción del Gobierno.\n\nHemos demostrado que no hay que elegir entre crecimiento económico y sostenibilidad, entre proteger el medioambiente y crear empleo, entre modernizar nuestra economía y cohesionar nuestro territorio. Son objetivos que pueden avanzar juntos y reforzarse mutuamente."
+   },
+   {
+    "id": "psoe-0311",
+    "partido": "psoe",
+    "titular": "La transición ecológica debe mejorar la vida de la gente",
+    "marca_actual": [],
+    "texto": "Nuestro modelo parte de una convicción: la transición ecológica debe mejorar la vida de la gente y protegerla frente a los efectos del cambio climático. Para que las familias paguen menos por la energía, para que nuestras empresas sean más competitivas, para crear nuevos empleos de calidad y para proteger a la ciudadanía frente a los efectos del cambio climático. Porque la transición ecológica no debe ser un esfuerzo que recaiga sobre quienes menos tienen, sino una oportunidad de prosperidad compartida.\n\nQueremos una España más verde, pero también más segura, más próspera y más justa. Un país que aproveche el sol, el viento y sus recursos naturales para producir energía limpia y barata, reducir su dependencia del exterior y generar nuevas oportunidades industriales. Que esté mejor preparado para afrontar sequías, incendios e inundaciones. Que proteja el agua, los bosques, nuestros mares y nuestra biodiversidad. Y que convierta la lucha contra el cambio climático en una oportunidad para las generaciones presentes y futuras."
+   },
+   {
+    "id": "psoe-0312",
+    "partido": "psoe",
+    "titular": "Ambición 2030: electricidad mayoritariamente limpia y oportunidades en cada rincón",
+    "marca_actual": [],
+    "texto": "Y queremos una España en la que el futuro no dependa del código postal. Donde vivir en un pueblo no signifique renunciar a oportunidades, servicios o derechos. Donde nuestros agricultores, ganaderos y pescadores puedan desarrollar su actividad con dignidad. Donde el mundo rural sea protagonista de la transición ecológica, de la creación de empleo y de las nuevas oportunidades económicas. Porque no puede haber una España próspera si una parte de su territorio se queda atrás.\n\nNuestra ambición para 2030 es clara: una España que produzca la mayor parte de su electricidad con energía limpia y barata, que proteja a su gente frente a los extremos climáticos y que ofrezca oportunidades de futuro en cada rincón del país.\n\nPara conseguirlo, proponemos medidas articuladas en cinco grandes prioridades: impulsar una economía verde basada en las energías renovables y la economía circular; reforzar nuestra resiliencia climática, mejorando la prevención de emergencias y la seguridad hídrica;"
+   },
+   {
+    "id": "psoe-0313",
+    "partido": "psoe",
+    "titular": "Prioridades: territorio vivo, bienestar animal y liderazgo climático",
+    "marca_actual": [],
+    "texto": "garantizar un territorio vivo y sostenible, protegiendo el mundo rural, la agricultura, la ganadería, la pesca, la movilidad sostenible y la biodiversidad; avanzar en la protección y el bienestar animal; y fortalecer el liderazgo climático de España. Porque la transición ecológica no consiste solo en proteger el planeta. Consiste también en proteger la vida de la gente y construir un futuro con más oportunidades para todos, vivan donde vivan."
+   },
+   {
+    "id": "psoe-0316",
+    "partido": "psoe",
+    "titular": "Impulsar la electrificación y una hoja de ruta para abandonar los combustibles fósiles",
+    "marca_actual": [],
+    "texto": "**235. Impulsar la electrificación como elemento crucial para aprovechar el despliegue de renovables** , y aprobar un plan nacional para promover el bombeo hidroeléctrico. Aprobar una **hoja de ruta para el abandono progresivo de los combustibles fósiles**"
+   },
+   {
+    "id": "psoe-0323",
+    "partido": "psoe",
+    "titular": "Desplegar el Plan Social para el Clima para hogares vulnerables",
+    "marca_actual": [],
+    "texto": "**242. Desplegar el Plan Social para el Clima** para proteger a los hogares vulnerables, las microempresas y las personas usuarias del transporte frente a los costes de la transición."
+   },
+   {
+    "id": "psoe-0333",
+    "partido": "psoe",
+    "titular": "Pacto de Estado frente a la Emergencia Climática como hoja de ruta",
+    "marca_actual": [],
+    "texto": "Ante incrementos de temperaturas, lluvias más torrenciales y sequías e incendios más intensos, anticiparse a los fenómenos extremos del cambio climático es la mejor forma de proteger a la población. Nuestra propuesta de Pacto de Estado frente a la Emergencia Climática sirve como hoja de ruta para hacernos más resilientes, salvar vidas y reducir daños.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0334",
+    "partido": "psoe",
+    "titular": "Crear un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos",
+    "marca_actual": [],
+    "texto": "**251. Crear un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos** , integrando la información meteorológica, hidrológica y de prevención y extinción de incendios forestales."
+   },
+   {
+    "id": "psoe-0336",
+    "partido": "psoe",
+    "titular": "Aprobar una Ley de Adaptación al Cambio Climático",
+    "marca_actual": [],
+    "texto": "**253. Aprobar una Ley de Adaptación al Cambio Climático** y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento."
+   },
+   {
+    "id": "psoe-0338",
+    "partido": "psoe",
+    "titular": "Ampliar la red de refugios climáticos",
+    "marca_actual": [],
+    "texto": "**255. Ampliar la red de refugios climáticos** para reforzar la protección de la población frente a los impactos del cambio climático."
+   },
+   {
+    "id": "psoe-0339",
+    "partido": "psoe",
+    "titular": "Adaptación climática y rehabilitación energética de viviendas y equipamientos públicos",
+    "marca_actual": [],
+    "texto": "**256. Impulsar la adaptación climática de viviendas y equipamientos públicos** , fomentando la rehabilitación energética y el confort térmico en hogares, centros educativos, sanitarios y espacios de trabajo vulnerables."
+   },
+   {
+    "id": "psoe-0342",
+    "partido": "psoe",
+    "titular": "Crear un Fondo Nacional de Resiliencia Climática",
+    "marca_actual": [],
+    "texto": "**259. Crear un Fondo Nacional de Resiliencia Climática** para proteger a las personas, territorios y comunidades más vulnerables, especialmente en zonas rurales y litorales."
+   },
+   {
+    "id": "psoe-0371",
+    "partido": "psoe",
+    "titular": "Descarbonizar el transporte con más recarga eléctrica e incentivos a vehículos cero emisiones",
+    "marca_actual": [],
+    "texto": "**284. Acelerar la descarbonización del transporte de personas y mercancías** , extendiendo la infraestructura de recarga eléctrica y facilitando el acceso a vehículos de cero emisiones mediante incentivos ágiles, financiación accesible y apoyo a hogares, autónomos y empresas."
+   },
+   {
+    "id": "psoe-0372",
+    "partido": "psoe",
+    "titular": "Adaptar las infraestructuras de transporte a los efectos del cambio climático",
+    "marca_actual": [],
+    "texto": "**285. Adaptar las infraestructuras de transporte a los efectos del cambio climático** , reforzando su resiliencia frente a fenómenos meteorológicos extremos y otros riesgos derivados de la emergencia climática."
+   },
+   {
+    "id": "psoe-0380",
+    "partido": "psoe",
+    "titular": "Adaptar la gestión del litoral al cambio climático y actualizar la normativa de costas",
+    "marca_actual": [],
+    "texto": "**292. Adaptar la gestión del litoral al cambio climático** mediante una gobernanza coordinada entre administraciones, actualizando la normativa de costas e incorporando soluciones basadas en la naturaleza compatibles con la actividad humana y la seguridad de las poblaciones costeras."
+   },
+   {
+    "id": "psoe-0382",
+    "partido": "psoe",
+    "titular": "Impulsar un modelo de turismo sostenible y adaptado al cambio climático",
+    "marca_actual": [],
+    "texto": "**294. Impulsar un modelo de turismo sostenible y resiliente** , promoviendo la eficiencia hídrica y energética y la adaptación de los destinos a los efectos del cambio climático."
+   },
+   {
+    "id": "psoe-0388",
+    "partido": "psoe",
+    "titular": "Defender el orden multilateral y los compromisos climáticos",
+    "marca_actual": [],
+    "texto": "Frente a los ataques al orden multilateral, España seguirá defendiendo el mantenimiento y la profundización de los espacios de diálogo y los compromisos adoptados en la UE y en el mundo. Además, impulsaremos medidas que aseguren un papel central a la participación ciudadana, la ciencia, la coordinación institucional y la lucha contra la desinformación.\n\nCompromisos"
+   },
+   {
+    "id": "psoe-0389",
+    "partido": "psoe",
+    "titular": "Defender y profundizar el Pacto Verde Europeo",
+    "marca_actual": [],
+    "texto": "**299. Defender y profundizar el Pacto Verde Europeo** , garantizando que la simplificación administrativa no suponga una reducción de la ambición climática y ambiental y manteniendo objetivos ambiciosos de inversión en clima, biodiversidad y sostenibilidad en el presupuesto de la Unión Europea."
+   },
+   {
+    "id": "psoe-0390",
+    "partido": "psoe",
+    "titular": "Aplicar la Ley europea de Restauración de la Naturaleza y el marco de resiliencia",
+    "marca_actual": [],
+    "texto": "**300. Desarrollar la aplicación de la Ley de Restauración de la Naturaleza** , del Marco Europeo de Resiliencia Climática y del marco europeo de protección de los recursos hídricos, asegurando recursos adecuados para los programas europeos de adaptación, conservación y recuperación."
+   },
+   {
+    "id": "psoe-0392",
+    "partido": "psoe",
+    "titular": "Alianzas internacionales contra los combustibles fósiles y tratado global de plásticos",
+    "marca_actual": [],
+    "texto": "**302.** Promover alianzas internacionales para el abandono progresivo de los combustibles fósiles y la aprobación del tratado global contra la contaminación por plásticos."
+   },
+   {
+    "id": "psoe-0394",
+    "partido": "psoe",
+    "titular": "Ampliar la representación social y científica en la gobernanza climática",
+    "marca_actual": [],
+    "texto": "**304. Fortalecer la participación y la gobernanza climática.** Se ampliará la representación social y científica en los órganos de gobernanza climática, incorporando de forma estable a la comunidad científica, la juventud, las mujeres y el medio rural."
+   },
+   {
+    "id": "psoe-0395",
+    "partido": "psoe",
+    "titular": "Combatir la desinformación climática apoyando el periodismo especializado",
+    "marca_actual": [],
+    "texto": "**305. Combatir la desinformación climática** , apoyando el periodismo especializado, la divulgación científica y la protección de investigadores y comunicadores."
+   },
+   {
+    "id": "psoe-0474",
+    "partido": "psoe",
+    "titular": "Reconocer en la Constitución la seguridad climática y el acceso al agua potable",
+    "marca_actual": [],
+    "texto": "**367.** Reconocer constitucionalmente el derecho a la seguridad climática y el acceso al agua potable."
+   },
+   {
+    "id": "psoe-0590",
+    "partido": "psoe",
+    "titular": "Liderar la agenda global de desarrollo sostenible posterior a la Agenda 2030",
+    "marca_actual": [],
+    "texto": "**460. Liderar la construcción de la agenda global de desarrollo sostenible que tome el relevo de la Agenda 2030** : una agenda que sitúe en el centro la democracia, los derechos humanos y la paz; la sostenibilidad ambiental y la seguridad alimentaria; y la inclusión de las personas con discapacidad."
+   },
+   {
+    "id": "psoe-0597",
+    "partido": "psoe",
+    "titular": "Promover un Fondo Global de Resiliencia y Justicia Climática",
+    "marca_actual": [],
+    "texto": "**466. Promover el establecimiento de un Fondo Global de Resiliencia y Justicia Climática** , para proteger a aquellas personas y comunidades más vulnerables, en especial en el medio rural y litoral y promover una transición ecológica justa en todas las actividades económicas más expuestas al impacto del cambio climático."
+   },
+   {
+    "id": "vox-0008",
+    "partido": "vox",
+    "titular": "Reindustrialización, bajada de impuestos a la energía y recuperar el plan nuclear",
+    "marca_actual": [],
+    "texto": "8. Reindustrialización radical de la economía española Revolucionar la política energética: segura, cierta y asequible. Un futuro para la España Abandonada.\n - Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas. Fin de la doble imposición. Aprovechamiento de nuestros recursos energéticos, la mejora de las redes y la reducción de cargas fiscales y regulatorias. Plan Nacional de Soberanía Energética.\n\n**•** Fin del tope regulatorio a la inversión en redes eléctricas. Eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda. Además, las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.\n\n- Suspender la aplicación en España de acuerdos internacionales que impiden nuestro desarrollo productivo y la prosperidad de trabajadores, familias, empresas e industrias españolas.\n\n- Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de combustión, impuestos a las emisiones de CO2) inspiradas en el Pacto Verde Europeo, la Agenda 2030 y otros acuerdos no sometidos a votación por los españoles.\n\n- Fin a las restricciones para poder explorar, investigar y explotar nuestros recursos naturales y yacimientos minerales. Protección de España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas. Mayor peso a consideraciones sobre seguridad económica, soberanía industrial y seguridad nacional.\n\n- Recuperar urgentemente el plan nuclear nacional. Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre. Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales. Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.\n\n- Aprobación de un Plan Nacional de Reindustrialización enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y la baja participación de la industria en el PIB. Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.\n\n- Trabajo estable y salarios dignos para los españoles. Poner fin a la situación de desempleo, precariedad laboral y bajos salarios provocada por el Gobierno de Sánchez, que hacen prácticamente imposible que los jóvenes españoles puedan acceder a un empleo estable, desarrollar un proyecto de vida independiente, emanciparse y formar una familia.\n\n- Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible, que ha maquillado las cifras de temporalidad y que beneficia al duopolio sindical que ha traicionado a los trabajadores.\n\n**•** Fomentar la industria turística mediante empleos de calidad y garantizando la convivencia y la preservación de la identidad de nuestros barrios. Adoptar medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España abandonada por los sucesivos gobiernos. Fomento del turismo rural, de montaña o interior, y apoyo a la conservación y difusión de nuestro patrimonio natural, cultural y artístico."
+   },
+   {
+    "id": "vox-0044",
+    "partido": "vox",
+    "titular": "Acabar con las imposiciones climáticas como el Pacto Verde y las ZBE",
+    "marca_actual": [],
+    "texto": "44. Derogación o modificación de todas las leyes que dificultan la prosperidad y la libertad de trabajadores, familias y empresas españolas. Acabar con todas las imposiciones climáticas como el Pacto Verde que castigan nuestra industria, nuestro campo o que coartan la libertad de circulación de los españoles, como la imposición de ZBE."
+   },
+   {
+    "id": "vox-0048",
+    "partido": "vox",
+    "titular": "Blindar el sector primario frente a la Agenda 2030 y rechazar el acuerdo UE-Mercosur",
+    "marca_actual": [],
+    "texto": "48. Blindaje del sector primario frente a la Agenda 2030 y lucha contra la competencia desleal. VOX en el Gobierno será el representante del sector primario en Bruselas, y no el representante de Bruselas ante los españoles. Oposición a todas las medidas que perjudiquen objetivamente al sector primario y proteger a los nuestros activamente -económica, política y jurídicamente- de las imposiciones de Bruselas y del Pacto Verde. Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones. Inclusión de cláusulas espejo. Recuperación del principio de preferencia comunitaria. Aumento de los controles en frontera y lucha contra el fraude en el etiquetado."
+   },
+   {
+    "id": "fa-0007",
+    "partido": "fa",
+    "titular": "Invertir el 3,5 % del PIB anual en una transición ecológica justa",
+    "marca_actual": [],
+    "texto": "5. Una transición ecológica justa para reindustrializar el país y vivir mejor. Actuaremos contra la emergencia climática con valentía e inversión pública, dedicando el 3,5 % del PIB anual. Aprovecharemos el potencial renovable de España para transformar nuestro modelo productivo gracias a una política industrial verde, una banca pública estatal y un fondo soberano renovable que garanticen soberanía energética, empleo estable y electricidad barata. Democratizaremos la energía con intervención pública, recuperando las redes de distribución, poniendo en marcha una comercializadora pública, aprobando tres horas de luz gratuita al día y con autoconsumo en todos los tejados. Revolucionaremos la movilidad sostenible apostando por la electrificación, un abono único estatal de transporte y un tren público al servicio de los territorios y las clases populares. Garantizaremos un futuro para el mundo rural y la España vaciada con apoyo a la agricultura ecorregenerativa y la ganadería extensiva, pago por servicios ambientales y empleo público."
+   },
+   {
+    "id": "fa-0069",
+    "partido": "fa",
+    "titular": "Edificios nuevos de consumo casi nulo y sin calderas fósiles desde 2027",
+    "marca_actual": [],
+    "texto": "- Construcción de edificios nuevos de consumo casi nulo o descarbonizados: Aplicaremos requisitos de eficiencia a las nuevas licencias y excluiremos calderas fósiles, nuevas redes y acometidas de gas en desarrollos urbanísticos desde 2027."
+   },
+   {
+    "id": "fa-0244",
+    "partido": "fa",
+    "titular": "Plan de refugios climáticos culturales y eficiencia energética de edificios de Cultura",
+    "marca_actual": [],
+    "texto": "- Plan de refugios climáticos culturales: Impulsaremos un plan de eficiencia energética para todos los edificios dependientes del Ministerio de Cultura, así como la convocatoria de ayudas para la reconversión de los espacios culturales para que puedan pasar a formar parte de la Red Estatal de Refugios Climáticos."
+   },
+   {
+    "id": "fa-0299",
+    "partido": "fa",
+    "titular": "Recuperar de forma estructural el gravamen del 1,2 % a las energéticas",
+    "marca_actual": [],
+    "texto": "- Restablecimiento del gravamen especial del 1,2 %: Recuperación con carácter estructural del gravamen especial del 1,2 % sobre la cifra de negocios de los grandes operadores y empresas energéticas que actúan en España. Mediante la introducción de deducciones para los activos renovables este impuesto incentivará la descarbonización del sector energético."
+   },
+   {
+    "id": "fa-0386",
+    "partido": "fa",
+    "titular": "Estándares laborales obligatorios frente a olas de calor y riesgos climáticos",
+    "marca_actual": [],
+    "texto": "- Aumentaremos la protección de las personas trabajadoras frente a los riesgos climáticos desarrollando estándares laborales obligatorios para proteger a las personas trabajadoras frente a olas de calor y otros impactos, incluyendo adecuación de horarios, protocolos de hidratación, descanso y mecanismos de cese de actividad climática para autónomos y asalariados en alertas extremas."
+   },
+   {
+    "id": "fa-0421",
+    "partido": "fa",
+    "titular": "Destinar por ley el 3,5 % del PIB anual a la transición ecológica justa",
+    "marca_actual": [],
+    "texto": "- La crisis climática es el gran desafío de nuestro tiempo. Las olas de calor, los incendios, las inundaciones y las sequías ya forman parte de nuestras vidas, y quienes más las sufren son los barrios vulnerables y las personas que trabajan en el campo, la construcción o al aire libre. Descarbonizar y electrificar la economía es también una gran oportunidad para crear empleo y riqueza y para vivir mejor. No hay transición posible si las personas no viven mejor gracias a ella. Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transición ecológica justa, descarbonización industrial, adaptación al cambio climático e infraestructuras verdes."
+   },
+   {
+    "id": "fa-0422",
+    "partido": "fa",
+    "titular": "Reducir emisiones un 38 % en 2035 y neutralidad climática en 2050",
+    "marca_actual": [],
+    "texto": "- Reduciremos las emisiones respecto a 1990 un 38 % en 2035, un 85 % en 2040 y alcanzaremos la neutralidad climática en 2050, integrando estos objetivos en la legislación climática y en la planificación energética, con sendas sectoriales que permitan evaluar su cumplimiento y ajustar las medidas de ejecución."
+   },
+   {
+    "id": "fa-0423",
+    "partido": "fa",
+    "titular": "Electrificación del 30 % en 2030 y del 50 % en 2040",
+    "marca_actual": [],
+    "texto": "- Alcanzaremos un 30 % de electrificación en 2030, un 40 % en 2035 y un 50 % en 2040, midiendo la electrificación como el porcentaje de electricidad sobre el consumo total de energía, y haciendo hincapié en aquellos sectores con un menor incremento en la última década (transporte, industria…)."
+   },
+   {
+    "id": "fa-0425",
+    "partido": "fa",
+    "titular": "Revisar al alza la Ley de Cambio Climático y el PNIEC",
+    "marca_actual": [],
+    "texto": "- Revisaremos al alza los objetivos y metas de la Ley de Cambio Climático y Transición Energética y el PNIEC, incorporando los objetivos actualizados y una planificación conjunta de generación, electrificación, redes, almacenamiento y retirada de combustibles fósiles. Estableceremos hitos anuales y sectoriales coherentes con las metas generales."
+   },
+   {
+    "id": "fa-0427",
+    "partido": "fa",
+    "titular": "Ley de generaciones futuras con evaluación del impacto de cada norma",
+    "marca_actual": [],
+    "texto": "- Ley de generaciones futuras: Trabajaremos por la solidaridad intergeneracional y con el planeta aplicando los principios de desarrollo sostenible con un desarrollo legislativo que incluya evaluación previa, informes de impacto y evaluación posterior de cada normativa sobre las generaciones presentes y futuras."
+   },
+   {
+    "id": "fa-0428",
+    "partido": "fa",
+    "titular": "Presupuestos de carbono quinquenales vinculantes e indicadores más allá del PIB",
+    "marca_actual": [],
+    "texto": "- Incorporaremos indicadores más allá del PIB para incluir las dimensiones sociales y medioambientales de las políticas públicas en nuestro país. En concreto, incluiremos presupuestos de carbono quinquenales vinculantes, que deberán quedar integrados en los Presupuestos Generales del Estado y acompañados de informes anuales de alineamiento climático de cada ministerio."
+   },
+   {
+    "id": "fa-0431",
+    "partido": "fa",
+    "titular": "Asamblea Ciudadana por el Clima permanente con respuesta gubernamental vinculante",
+    "marca_actual": [],
+    "texto": "- Crearemos una Asamblea Ciudadana por el Clima permanente, que renovará sus integrantes anualmente y determinará una respuesta gubernamental vinculante a sus recomendaciones."
+   },
+   {
+    "id": "fa-0432",
+    "partido": "fa",
+    "titular": "Crear una Vicepresidencia Ejecutiva de Transición Ecológica",
+    "marca_actual": [],
+    "texto": "- Crearemos una Vicepresidencia Ejecutiva de Transición Ecológica, con rango y autoridad sobre el resto de los ministerios, que presida una Comisión Delegada del Gobierno para la Transición Ecológica y con capacidad para que todas las políticas, presupuestos y normas sean coherentes con los objetivos climáticos fijados a nivel nacional."
+   },
+   {
+    "id": "fa-0433",
+    "partido": "fa",
+    "titular": "Prohibir la publicidad fósil y los patrocinios de corporaciones fósiles",
+    "marca_actual": [],
+    "texto": "- Prohibiremos la publicidad fósil, como en su día se hizo con el tabaco. Eliminaremos los logotipos de las corporaciones fósiles de eventos deportivos, de las instituciones educativas y patrocinios culturales. El objetivo no es reducir las emisiones, sino impedir que estas corporaciones compren legitimidad social."
+   },
+   {
+    "id": "fa-0454",
+    "partido": "fa",
+    "titular": "Limitar hidrógeno, biomasa y biogás a sectores de difícil descarbonización",
+    "marca_actual": [],
+    "texto": "- Planificación estratégica de soluciones renovables de alto impacto: Regularemos el empleo de las soluciones energéticas renovables como el hidrógeno renovable, la biomasa, el biogás y los biocombustibles (a base de residuos), que tienen un alto impacto y baja eficiencia, de manera que solo se empleen de manera controlada en sectores estratégicos de difícil descarbonización o donde esté disponible el residuo."
+   },
+   {
+    "id": "fa-0458",
+    "partido": "fa",
+    "titular": "Eliminar subvenciones fósiles y retirar los ciclos combinados hasta 2045",
+    "marca_actual": [],
+    "texto": "- Eliminaremos las subvenciones a los combustibles fósiles y las ayudas en las crisis se darán según la renta. El Estado dejará de invertir en empresas dedicadas a la exploración, extracción, refino o distribución de combustibles fósiles. Planificaremos la retirada de los ciclos combinados hasta 2045 y el desmantelamiento ordenado de la red de gas, sin nuevas infraestructuras ni inversiones retribuidas que acaben pagando los consumidores, con un gestor técnico gasista público. Prohibiremos importar gas obtenido con fracking o procedente de territorios sancionados por vulnerar los derechos humanos."
+   },
+   {
+    "id": "fa-0460",
+    "partido": "fa",
+    "titular": "Ayudas a la compra de aparatos de refrigeración para personas vulnerables",
+    "marca_actual": [],
+    "texto": "- Financiaremos la compra de aparatos de refrigeración para personas vulnerables: Daremos ayudas a la compra e instalación de aparatos de refrigeración (aerotermia, aire acondicionado de pared, aire acondicionado portátil…) para personas vulnerables (mayores de 65, personas con enfermedades crónicas, embarazadas, etc.) en función de la región climática."
+   },
+   {
+    "id": "fa-0471",
+    "partido": "fa",
+    "titular": "Reducir los cánones ferroviarios para el transporte de mercancías",
+    "marca_actual": [],
+    "texto": "- Reduciremos drásticamente los cánones de circulación en líneas ferroviarias convencionales para el transporte de mercancías. Fomentaremos además el uso de las centrales únicas de rotura de carga e impulsaremos la descarbonización de las flotas."
+   },
+   {
+    "id": "fa-0489",
+    "partido": "fa",
+    "titular": "Prohibir vuelos domésticos con alternativa en tren de 2,5 horas",
+    "marca_actual": [],
+    "texto": "- Reducción de vuelos domésticos de corto radio: Prohibiremos vuelos domésticos que dispongan de una alternativa competitiva en tren de 2,5 horas (salvo los dedicados a conexión con vuelos internacionales)."
+   },
+   {
+    "id": "fa-0496",
+    "partido": "fa",
+    "titular": "Plan Estatal de Seguridad Ambiental frente a fenómenos meteorológicos extremos",
+    "marca_actual": [],
+    "texto": "- Plan Estatal de Seguridad Ambiental: La recurrencia actual y futura de fenómenos meteorológicos extremos, ya sean fenómenos de precipitaciones extremas, DANA, incendios, inundaciones, sequías u olas de calor, requiere por parte del Estado de una respuesta suficiente para proteger a la población española de estos efectos derivados del cambio climático. Deben adaptarse los servicios públicos, las condiciones de trabajo y las inversiones a estas previsiones. En este sentido, deben reformularse leyes tan importantes como la de Costas o la de Aguas en clave de emergencia climática, proponiendo las acciones necesarias para la minimización de riesgos. Deben realizarse mapas de vulnerabilidad climática, protocolizar las alertas de protección civil, actualizar los algoritmos de AEMET y de las demás agencias meteorológicas autonómicas, mejorar los sistemas de salud pública para abarcar cuestiones como las olas de calor, y potenciar los servicios de emergencias y protección civil en materia de riesgos climáticos."
+   },
+   {
+    "id": "fa-0497",
+    "partido": "fa",
+    "titular": "Crear una Agencia Estatal de Prevención y Adaptación Climática",
+    "marca_actual": [],
+    "texto": "- Impulsaremos la creación de una Agencia Estatal de Prevención y Adaptación Climática. Pondrá en marcha una Estrategia Nacional de Adaptación Climática de las ciudades y los territorios, cofinanciada por el Estado, las comunidades autónomas y los ayuntamientos."
+   },
+   {
+    "id": "fa-0498",
+    "partido": "fa",
+    "titular": "Adaptación climática urbana: un árbol por cada 3 vecinos y refugios climáticos",
+    "marca_actual": [],
+    "texto": "- Programa de Adaptación Climática Urbana y renaturalización: Pondremos en marcha un gran programa de adaptación cofinanciado por el Estado, comunidades autónomas y ayuntamientos. Incluye renaturalización, arbolado (criterio de 1 árbol por cada 3 vecinos), nuevos espacios verdes, peatonalización, refugios climáticos y rehabilitación urbana, priorizando los barrios más vulnerables y avanzando hacia el modelo de la «ciudad de los 15 minutos». Se coordinará el apoyo a los planes de adaptación urbana y sectoriales con las administraciones competentes."
+   },
+   {
+    "id": "fa-0499",
+    "partido": "fa",
+    "titular": "Consolidar e impulsar la red de refugios climáticos",
+    "marca_actual": [],
+    "texto": "- Red y desarrollo de refugios climáticos: Consolidación e impulso de la red de refugios climáticos mediante un mapa actualizado y accesible. Se dotará a las administraciones autonómicas y municipales de los recursos y herramientas necesarios para el despliegue de nuevos refugios."
+   },
+   {
+    "id": "fa-0500",
+    "partido": "fa",
+    "titular": "Estándares de climatización en centros educativos: aulas entre 17 °C y 27 °C",
+    "marca_actual": [],
+    "texto": "- Plan Estatal de Bioclimatización y climatización educativa / social: Aprobaremos una regulación estatal con estándares mínimos de climatización, sombra, ventilación y acceso al agua en centros educativos, junto a un plan de emergencia contra el calor en escuelas y centros de servicios sociales (centros residenciales y centros de día). Incluye un plan plurianual de ayudas para los más de 28.000 centros educativos (priorizando los más vulnerables) con el objetivo de mantener las aulas en un rango de 17 °C a 27 °C y evitando la suspensión de clases para no perjudicar la conciliación."
+   },
+   {
+    "id": "fa-0501",
+    "partido": "fa",
+    "titular": "Ejecutar con urgencia las medidas del PNACC contra el riesgo de inundaciones",
+    "marca_actual": [],
+    "texto": "- Gestión integral del riesgo de inundaciones (PNACC): Ejecución prioritaria y urgente de las medidas del Plan Nacional de Adaptación al Cambio Climático (PNACC) relativas a agua y recursos hídricos: evaluación de la gestión ante inundaciones, desarrollo de actuaciones de adaptación, e integración formal del riesgo de inundación en la ordenación territorial y urbanística."
+   },
+   {
+    "id": "fa-0504",
+    "partido": "fa",
+    "titular": "Retirar infraestructuras expuestas en la costa ante la subida del mar",
+    "marca_actual": [],
+    "texto": "- Planificaremos la retirada y reubicación estratégica de infraestructuras expuestas en la franja costera para permitir la adaptación del litoral ante la subida del nivel del mar y los temporales, evitando la construcción de obras rígidas de defensa o la regeneración artificial continuada de playas. Actualmente, la excesiva urbanización de la costa y el deterioro de dunas y humedales impiden que los ecosistemas actúen como barreras naturales eficaces para proteger a las poblaciones del litoral."
+   },
+   {
+    "id": "fa-0515",
+    "partido": "fa",
+    "titular": "Descarbonizar los alojamientos turísticos con 100 % de energía renovable",
+    "marca_actual": [],
+    "texto": "- Descarbonizaremos los alojamientos y servicios turísticos. Exigiremos eficiencia energética e hídrica, gestión de residuos, autoconsumo y comunidades energéticas en grandes establecimientos y exigiremos una cobertura de la demanda del 100 % con energías renovables. Aplicaremos la retirada de nuevas calderas fósiles desde 2027 y los calendarios de sustitución. Exigiremos puntos de recarga en hoteles, campings, otros alojamientos y aparcamientos turísticos."
+   },
+   {
+    "id": "fa-0517",
+    "partido": "fa",
+    "titular": "Diversificar y adaptar el turismo al calor, la sequía y la pérdida de playas",
+    "marca_actual": [],
+    "texto": "- Diversificaremos y adaptaremos la actividad turística. Planificaremos frente a calor, sequía, pérdida de playas y cambios del transporte aéreo, impulsando turismo rural y ecoturismo y alternativas de actividad y empleo. Incorporaremos vecinos y trabajadores a la gobernanza del sector. Garantizaremos empleo digno y una gobernanza participativa con vecinos y trabajadores junto con la administración local."
+   },
+   {
+    "id": "fa-0539",
+    "partido": "fa",
+    "titular": "Prohibir construir en zonas inundables y en los primeros 500 metros del litoral",
+    "marca_actual": [],
+    "texto": "- Adaptación y protección frente al cambio climático prohibiendo nuevas construcciones en terrenos con riesgo de inundación y en los primeros 500 metros del litoral y un plan de retirada progresiva de infraestructuras críticas situadas en zonas de flujo preferente. Asimismo, los municipios deben implementar Sistemas de Drenaje Sostenible (SuDS), pavimentos permeables y cubiertas vegetales para aumentar la infiltración del agua de lluvia y reducir el riesgo de riadas urbanas."
+   },
+   {
+    "id": "fa-0571",
+    "partido": "fa",
+    "titular": "No autorizar nuevas macrogranjas ni acuicultura intensiva",
+    "marca_actual": [],
+    "texto": "- No autorizaremos nuevas macrogranjas ni nuevas instalaciones de acuicultura intensiva que contradigan los objetivos del Pacto Verde Europeo. Fijaremos límites de tamaño y densidad, y daremos protección especial a la ganadería extensiva."
+   },
+   {
+    "id": "fa-0594",
+    "partido": "fa",
+    "titular": "Estrategia plurianual de inversión por misiones",
+    "marca_actual": [],
+    "texto": "- Estrategia plurianual de inversión por misiones: Aprobaremos una estrategia plurianual de inversión por misiones que establezca objetivos medibles de descarbonización, autonomía tecnológica, producción de bienes esenciales y cuidados, con calendarios, asignación de responsables y presupuestos específicos. Los proyectos se evaluarán por su impacto productivo, social y ambiental, además de su rentabilidad financiera."
+   },
+   {
+    "id": "fa-0612",
+    "partido": "fa",
+    "titular": "Plan europeo de inversión del 4,5 % del PIB y revisar las reglas fiscales",
+    "marca_actual": [],
+    "texto": "- Marco financiero europeo y gobernanza económica: Defensa en las instituciones europeas de un New Deal o gran plan de inversión equivalente al 4,5 % del PIB de la UE para política industrial, competitividad e industria verde. Prolongaremos los programas de inversión comunitaria, defenderemos una financiación bonificada del Banco Central Europeo (BCE) para la descarbonización y replantearemos las reglas de estabilidad presupuestaria para fiscalizar los superávits comerciales excesivos e infrainversiones verdes de países miembros."
+   },
+   {
+    "id": "fa-0613",
+    "partido": "fa",
+    "titular": "Ley de transición justa con planes cinco años antes de cada cierre",
+    "marca_actual": [],
+    "texto": "- Aprobaremos una ley específica de transición justa. Garantizará planes anticipados para sectores potencialmente afectados por la transición ecológica. Los planes se pondrán en marcha al menos cinco años antes de cada potencial cierre para cada comarca afectada, con calendario, presupuesto, indicadores de empleo y población y evaluación independiente."
+   },
+   {
+    "id": "fa-0642",
+    "partido": "fa",
+    "titular": "Reducir consumos fósiles y emisiones en las actividades agrarias",
+    "marca_actual": [],
+    "texto": "- Reduciremos consumos fósiles y emisiones en las actividades agrarias. Mejoraremos maquinaria y construcciones, introduciremos renovables y eficiencia, optimizaremos fertilización y rotación de cultivos y sustituiremos la quema de residuos por aprovechamientos compatibles con la economía circular."
+   },
+   {
+    "id": "fa-0644",
+    "partido": "fa",
+    "titular": "Descarbonizar el procesamiento y la logística agroalimentaria y reorientar el regadío",
+    "marca_actual": [],
+    "texto": "- Descarbonizaremos el procesamiento, envasado y logística agroalimentarios. Apoyaremos diversificación de producciones de mayor valor con menor consumo unitario de agua, investigación para secano y reorientación del regadío."
+   },
+   {
+    "id": "fa-0661",
+    "partido": "fa",
+    "titular": "Ayudas para descarbonizar las flotas de vehículos de pymes y autónomos",
+    "marca_actual": [],
+    "texto": "- Ayudas a la descarbonización de flotas: Concederemos ayudas y programas específicos para la descarbonización y renovación ecológica de las flotas de vehículos de pymes y trabajadores autónomos."
+   },
+   {
+    "id": "fa-0672",
+    "partido": "fa",
+    "titular": "La contratación pública como palanca para pymes, autónomos y economía social",
+    "marca_actual": [],
+    "texto": "- Eje transversal en políticas públicas: Poder de la contratación pública como palanca de modernización, situando la transformación de pymes, autónomos y economía social como eje central de las políticas públicas industriales, digitales y de descarbonización."
+   },
+   {
+    "id": "fa-0713",
+    "partido": "fa",
+    "titular": "Repartir el fondo climático de 735 millones según el riesgo de cada territorio",
+    "marca_actual": [],
+    "texto": "- Aprobaremos un fondo para afrontar el cambio climático repartido según el riesgo. Mantendremos el Mecanismo para afrontar el Cambio Climático previsto en el Acuerdo 1/2026, dotado con 735 millones de euros en el año base, pero lo repartiremos según indicadores objetivos de exposición a riesgos climáticos —inundaciones, sequía, incendios u olas de calor— y no por zonas geográficas."
+   },
+   {
+    "id": "fa-0738",
+    "partido": "fa",
+    "titular": "Infraestructuras hidráulicas frente a fenómenos extremos y ejecución del PNACC",
+    "marca_actual": [],
+    "texto": "- Infraestructuras hidráulicas de adaptación climática y PNACC: Inversión prioritaria en nuevas infraestructuras hidráulicas diseñadas frente a fenómenos meteorológicos extremos. Ejecutaremos con urgencia el Plan de Trabajo del Plan Nacional de Adaptación al Cambio Climático (PNACC) en materia de Agua y Recursos Hídricos (evaluación de gestión de eventos, actuaciones de adaptación al riesgo de inundaciones e integración en la ordenación territorial)."
+   },
+   {
+    "id": "fa-0857",
+    "partido": "fa",
+    "titular": "Más financiación y acción política por la Agenda 2030 y contra el hambre",
+    "marca_actual": [],
+    "texto": "- Más financiación y acción política por los bienes esenciales de la humanidad: Apostaremos por la implementación de políticas de desarrollo sostenible de la Agenda 2030, sus herramientas de coherencia exterior de políticas y todas las agendas de Naciones Unidas en las instituciones internacionales con más medios económicos, impulso político y actuación solidaria entre países para acelerar la alianza global contra el hambre y la desnutrición, así como avanzar hacia una alimentación nutritiva y saludable para todo el mundo evitando las muertes por hambre; para incrementar la aceleración de salud y bienestar; para mitigar los efectos del cambio climático y realizar una adaptación justa, con iniciativas de consumo responsable, comercio justo y financiación alternativa."
+   },
+   {
+    "id": "fa-0869",
+    "partido": "fa",
+    "titular": "Justicia climática global, Agenda de Bridgetown y Carta Global de Derechos Laborales",
+    "marca_actual": [],
+    "texto": "- Promoveremos la justicia global en sus dimensiones climática y de derechos laborales a través del impulso de la descarbonización de la economía, la provisión de energías renovables, la justicia climática global y el cumplimiento de los compromisos del Acuerdo de París y del Pacto Verde Europeo. Apoyaremos la Agenda de Bridgetown y promoveremos la creación de un fondo mundial para la mitigación del cambio climático. Promoveremos una Carta Global de Derechos Laborales con la inclusión obligatoria de los convenios fundamentales de la OIT en los acuerdos comerciales."
+   },
+   {
+    "id": "fa-0884",
+    "partido": "fa",
+    "titular": "Política estatal de apoyo a personas desplazadas por fenómenos meteorológicos extremos",
+    "marca_actual": [],
+    "texto": "- Definiremos e impulsaremos una política estatal de apoyo a las personas desplazadas por fenómenos meteorológicos extremos."
+   },
+   {
+    "id": "fa-0901",
+    "partido": "fa",
+    "titular": "Plan Europeo contra fenómenos climáticos extremos y 35 % del presupuesto UE",
+    "marca_actual": [],
+    "texto": "- Crearemos un Plan Europeo específico contra fenómenos climáticos extremos (olas de calor, sequías e inundaciones), que combine adaptación, mitigación y el refuerzo de servicios civiles de protección y respuesta ante emergencias. Destinaremos al menos el 35 % del próximo presupuesto de la UE (2028-2034) a inversiones climáticas, garantizando la aplicación estricta del principio de «no causar un perjuicio significativo» (Do No Significant Harm)."
+   },
+   {
+    "id": "fa-0909",
+    "partido": "fa",
+    "titular": "Financiación del BCE para vivienda pública, empleo, pobreza y descarbonización",
+    "marca_actual": [],
+    "texto": "- Financiación garantizada de bienes públicos europeos y prioridades sociales: Financiación directa desde el BCE para bienes públicos genuinamente europeos e inversiones estratégicas blindadas que garanticen: 1) Vivienda pública con alquileres limitados al 25 % de los ingresos de los arrendatarios; 2) Gastos e inversiones orientados al pleno empleo; 3) Recursos para la erradicación de la pobreza y la exclusión social; 4) Inversiones en descarbonización y reducción de emisiones de CO₂ contra el cambio climático; 5) Garantía de suministros estratégicos de salud y material sanitario."
+   }
+  ]
+ },
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 45,
+  "palabras": 2461,
+  "candidatos": [
+   {
+    "id": "pp-0106",
+    "partido": "pp",
+    "titular": "Tarjeta e historial sociosanitario únicos en toda España",
+    "marca_actual": [],
+    "texto": "**93 LOS DATOS SOCIOSANITARIOS SIEMPRE DISPONIBLES: HABRÁ UNA TARJETA Y UN HISTORIAL ÚNICOS.** La cohesión del sistema sanitario y social empieza por que nada falle cuando un español cruza de comunidad. En coordinación con las Comunidades Autónomas, garantizaremos que la historia clínica y la historia social puedan consultarse desde cualquier servicio asistencial, con todas las garantías de privacidad y seguridad. Un paciente que se desplace será atendido con su historia clínica y social completa en toda España."
+   },
+   {
+    "id": "pp-0231",
+    "partido": "pp",
+    "titular": "Libre elección de colegio y conciertos de al menos seis años",
+    "marca_actual": [],
+    "texto": "**212 LOS PADRES ELEGIRÁN COLEGIO, Y NINGÚN CONCIERTO EDUCATIVO SE ELIMINARÁ DONDE HAYA DEMANDA SUFICIENTE.** La demanda de las familias volverá a contar para programar las plazas, y se podrá elegir centro en todo el municipio de residencia, con criterios públicos. Los conciertos durarán al menos seis años en todas las etapas, con módulos que cubran el coste real, para que la plaza concertada sea gratuita de verdad."
+   },
+   {
+    "id": "pp-0238",
+    "partido": "pp",
+    "titular": "Pacto de Estado por la Sanidad y plan urgente contra las listas de espera",
+    "marca_actual": [],
+    "texto": "**219 REDUCIREMOS LAS LISTAS DE ESPERA Y ASEGURAREMOS LA FINANCIACIÓN SANITARIA.**\n\nImpulsaremos un gran Pacto de Estado por la Sanidad Pública con las Comunidades Autónomas. El Estado ejercerá sus competencias de coordinación sanitaria para garantizar la cohesión del sistema y la igualdad de acceso a sus prestaciones. Con ese objetivo, pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgente de reducción de listas de espera para asegurar una atención ágil y de calidad. El nuevo sistema de financiación autonómica tendrá en la sanidad uno de sus pilares y garantizará recursos suficientes para asegurar la sostenibilidad de la sanidad pública y una atención de calidad en condiciones de igualdad."
+   },
+   {
+    "id": "pp-0240",
+    "partido": "pp",
+    "titular": "Participación de los pacientes en las políticas sanitarias y protección laboral de enfermos graves",
+    "marca_actual": [],
+    "texto": "**221 LOS PACIENTES TENDRÁN VOZ.** Garantizaremos la participación de las organizaciones de pacientes en la elaboración y evaluación de las políticas sanitarias. Aseguraremos la igualdad en el acceso a la prevención, al diagnóstico, a la atención y a los tratamientos innovadores en toda España. Coordinaremos los servicios sanitarios y sociales para dar continuidad a los cuidados y respetaremos el derecho de cada paciente a decidir sobre su salud con información clara y suficiente. Aumentaremos la protección laboral de las personas con enfermedades graves, especialmente de los pacientes oncológicos, durante y después del tratamiento. Combatiremos la discriminación por razón de enfermedad, impulsaremos la adaptación de los puestos de trabajo y facilitaremos una reincorporación compatible con la recuperación."
+   },
+   {
+    "id": "pp-0246",
+    "partido": "pp",
+    "titular": "Plan Estratégico de Sanidad para Ceuta y Melilla con financiación plurianual",
+    "marca_actual": [],
+    "texto": "**227 CEUTA Y MELILLA TENDRÁN UN PLAN SANITARIO PROPIO.** Aprobaremos un Plan Estratégico de Sanidad para Ceuta y Melilla, con financiación específica y plurianual, para garantizar una atención sanitaria de calidad y acabar con las desigualdades respecto al resto de España. Aumentaremos las plantillas sanitarias con incentivos económicos y laborales por su condición de zonas de difícil cobertura, ampliaremos los servicios hospitalarios y pondremos en funcionamiento una UCI pediátrica, nuevas unidades de radioterapia y tecnología avanzada. Mejoraremos la Atención Primaria, las urgencias, la salud mental y las condiciones de traslado de los pacientes a la Península, con un plan específico para reducir las listas de espera."
+   },
+   {
+    "id": "psoe-0076",
+    "partido": "psoe",
+    "titular": "Movilizar suelo público, incluidos los dotacionales, para vivienda",
+    "marca_actual": [],
+    "texto": "**43. Movilizar suelo público, incluidos suelos dotacionales** , para desarrollar en promoción directa, en concesión de obra pública o en colaboración público-privada."
+   },
+   {
+    "id": "psoe-0160",
+    "partido": "psoe",
+    "titular": "Integrar las mutuas colaboradoras en la gestión pública de la Seguridad Social",
+    "marca_actual": [],
+    "texto": "**107. Integrar las mutuas colaboradoras en la gestión pública de la Seguridad Social.** Reformar su naturaleza jurídica para que pasen a ser entidades gestoras del sistema, reforzando el control público, la coordinación y la transparencia en la gestión de las prestaciones sociales, en el marco del diálogo social."
+   },
+   {
+    "id": "psoe-0198",
+    "partido": "psoe",
+    "titular": "Un modelo sanitario público frente a la mercantilización",
+    "marca_actual": [],
+    "texto": "La sanidad pública y universal constituye la gran conquista democrática de nuestro país y es la mayor garantía de igualdad que tenemos: nadie debería esperar más ni recibir peor atención por lo que gana o por dónde vive. Frente a cualquier intento de mercantilización, reivindicamos un modelo público, de máxima calidad y accesible sin distinción de código postal, que garantice el derecho efectivo a la salud en todas las etapas de la vida. Compromisos"
+   },
+   {
+    "id": "psoe-0199",
+    "partido": "psoe",
+    "titular": "Acabar con las listas de espera con financiación sanitaria del 7 % del PIB",
+    "marca_actual": [],
+    "texto": "**136. Acabar con las listas de espera** , consolidando una financiación pública de la sanidad en torno al 7% del PIB, reforzando el carácter público del Sistema Nacional de Salud y aumentando progresivamente la inversión en prevención hasta converger con la media europea."
+   },
+   {
+    "id": "psoe-0201",
+    "partido": "psoe",
+    "titular": "Limitar la privatización con la gestión directa como modalidad preferente",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "**138. Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria** . Aprobar una Ley de Buen"
+   },
+   {
+    "id": "psoe-0202",
+    "partido": "psoe",
+    "titular": "Gobierno y buena gestión del SNS basados en transparencia y evaluación",
+    "marca_actual": [],
+    "texto": "Gobierno y Buena Gestión del SNS, basada en la transparencia, la rendición de cuentas, la participación y la evaluación permanente de resultados."
+   },
+   {
+    "id": "psoe-0210",
+    "partido": "psoe",
+    "titular": "Marco jurídico para la participación de las organizaciones de pacientes en el SNS",
+    "marca_actual": [],
+    "texto": "**146.** Reforzar la participación de las organizaciones de pacientes en el SNS mediante un marco jurídico estable y específico."
+   },
+   {
+    "id": "psoe-0212",
+    "partido": "psoe",
+    "titular": "Ley de Salud Digital: interoperabilidad, receta electrónica común y movilidad entre CCAA",
+    "marca_actual": [],
+    "texto": "**148. Impulsar una Ley de Salud Digital** , consolidando la interoperabilidad del sistema sanitario, la receta electrónica común y el despliegue del Espacio Europeo de Datos Sanitarios y garantizar la movilidad sanitaria entre CCAA."
+   },
+   {
+    "id": "psoe-0431",
+    "partido": "psoe",
+    "titular": "Impulsar el Observatorio de Salud de las Mujeres contra los sesgos de género",
+    "marca_actual": [],
+    "texto": "**332. Impulsar y desarrollar el trabajo del Observatorio de Salud de las Mujeres** , para detectar, evaluar y corregir los sesgos de género presentes en el sistema sanitario."
+   },
+   {
+    "id": "vox-0016",
+    "partido": "vox",
+    "titular": "Eliminar las subvenciones a ONG que colaboren con el efecto llamada",
+    "marca_actual": [],
+    "texto": "16. Ni un euro a ONGs que colaboren con el efecto llamada. Eliminación de todas las subvenciones, ayudas, convenios y conciertos con ONG u otras entidades que participen directa o indirectamente en la promoción, facilitación o sostenimiento de la inmigración ilegal, o que actúen como cooperadores necesarios de las mafias de tráfico de personas."
+   },
+   {
+    "id": "vox-0020",
+    "partido": "vox",
+    "titular": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave",
+    "marca_actual": [],
+    "texto": "20. Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave. Auditoría del coste de la inmigración masiva en la sanidad pública."
+   },
+   {
+    "id": "vox-0029",
+    "partido": "vox",
+    "titular": "Ampliar la inversión pública y la colaboración público-privada en vivienda protegida",
+    "marca_actual": [],
+    "texto": "29. Ampliación de la inversión pública en vivienda por habitante. Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada: cesiones de suelo, subvenciones, descuentos, avales a financiación y créditos blandos. Ningún español vulnerable quedará sin hogar."
+   },
+   {
+    "id": "vox-0060",
+    "partido": "vox",
+    "titular": "Tarjeta sanitaria única y que las lenguas regionales no impidan acceder a plazas",
+    "marca_actual": [],
+    "texto": "60. Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional. Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes."
+   },
+   {
+    "id": "vox-0062",
+    "partido": "vox",
+    "titular": "Plan nacional de reducción de listas de espera con colaboración público-privada",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "62. Plan nacional de reducción de listas de espera y mejora de la atención sanitaria. Reorganizar circuitos asistenciales, mejorar la capacidad diagnóstica y la actividad quirúrgica y facilitar derivaciones entre centros y territorios. Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto. Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados."
+   },
+   {
+    "id": "fa-0001",
+    "partido": "fa",
+    "titular": "Diagnóstico: elecciones como encrucijada y ampliar la democracia frente a la ola reaccionaria",
+    "marca_actual": [],
+    "texto": "Las próximas elecciones generales son una encrucijada histórica.\n\nDurante dos legislaturas hemos demostrado que existe otra forma de gestionar lo común: frente a las recetas de la austeridad y el recorte que castigaron a la mayoría social en crisis anteriores, hoy sabemos que subir salarios, proteger el empleo y ensanchar los derechos no solo es más justo, sino que hace avanzar al conjunto del país.\n\nHemos avanzado mucho, pero hay desafíos pendientes. Millones de familias sienten hoy que, pese a trabajar más que nunca, el coste de la vida —y muy especialmente el acceso a una vivienda digna— amenaza su bienestar y el horizonte de las próximas generaciones. La especulación es una fábrica de desigualdad que se come los salarios y quiebra el modelo económico.\n\nFrente a quienes proponen volver atrás, recortar libertades, privatizar lo que es de todas y enfrentar a unos territorios contra otros, el Frente Amplio nace de una convicción profunda: la mejor manera de defender la democracia frente a la ola reaccionaria es ampliarla, blindando los derechos sociales, acabando con la especulación y poniendo la economía al servicio de la vida.\n\nPara el Frente Amplio, el progreso real ocurre cuando tenemos más tiempo para vivir, la vida es más asequible, los servicios públicos son más fuertes y el planeta es más habitable."
+   },
+   {
+    "id": "fa-0005",
+    "partido": "fa",
+    "titular": "Sanidad pública con el 8 % del PIB y educación con el 7 %",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "3. Blindar un Estado del bienestar con los cuidados en el centro. Apostamos por una sanidad 100 % pública, universal y de gestión directa con un suelo del 8 % del PIB —incorporando la salud bucodental, visual, auditiva y mental— y una educación pública blindada con el 7 % del PIB, ratios reducidas y gratuidad desde los 0 años hasta la universidad. Implantaremos una Prestación Universal por Crianza de 200 euros mensuales por menor para erradicar la pobreza infantil y desplegaremos un Pacto de Estado por los Cuidados y un feminismo que garantice vidas libres de violencias."
+   },
+   {
+    "id": "fa-0094",
+    "partido": "fa",
+    "titular": "Consagrar la función social de la propiedad y blindar el parque público",
+    "marca_actual": [],
+    "texto": "- La reforma consagrará de forma explícita la prevalencia absoluta de la función social de la propiedad sobre cualquier interés comercial o especulativo, la prohibición expresa de ejecuciones hipotecarias o desahucios a personas vulnerables sin alternativa habitacional digna a cargo de la administración pública, y el carácter inalienable, imprescriptible e inembargable de todo el parque público de vivienda o que tenga algún tipo de protección pública, impidiendo legalmente su privatización o venta a fondos especulativos."
+   },
+   {
+    "id": "fa-0139",
+    "partido": "fa",
+    "titular": "Financiación, gobernanza y gestión de la sanidad pública",
+    "marca_actual": [],
+    "texto": "Financiación, gobernanza y gestión de la sanidad pública"
+   },
+   {
+    "id": "fa-0140",
+    "partido": "fa",
+    "titular": "Blindar el 8 % del PIB para la sanidad pública",
+    "marca_actual": [],
+    "texto": "- Blindaje del gasto sanitario público: Compromiso desde los Presupuestos Generales del Estado del 8 % del PIB estatal para la sanidad pública."
+   },
+   {
+    "id": "fa-0142",
+    "partido": "fa",
+    "titular": "Ley de Gestión Pública del SNS y derogar la Ley 15/1997",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Apostaremos de nuevo por una Ley de Gestión Pública e Integridad del Sistema Nacional de Salud para consagrar la gestión pública directa como la vía general para los centros y servicios del Sistema Nacional de Salud (SNS). Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS, que había abierto la puerta a la colaboración con entidades privadas, y los modelos de gestión indirecta pasarán a ser estrictamente excepcionales. Requerirán una justificación objetiva de que no es posible la gestión directa y una evaluación previa obligatoria por un comité técnico especializado."
+   },
+   {
+    "id": "fa-0143",
+    "partido": "fa",
+    "titular": "Revisar contratos privatizados e internalizar servicios sanitarios",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Plan de reversión e internalización: Revisaremos los contratos de los servicios privatizados, evaluaremos su impacto y resultados y elaboraremos planes de internalización paulatina de servicios privatizados garantizando la atención y la equidad."
+   },
+   {
+    "id": "fa-0144",
+    "partido": "fa",
+    "titular": "Blindar la sanidad universal sin importar el estatus administrativo",
+    "marca_actual": [],
+    "texto": "- Blindaremos por ley la universalidad de la atención sanitaria para residentes en España, independientemente de su estatus administrativo. Se volverá a apostar por la Ley de universalidad del SNS que termine de garantizar lo conseguido a través del Real Decreto 180/2026 del actual Ministerio de Sanidad."
+   },
+   {
+    "id": "fa-0145",
+    "partido": "fa",
+    "titular": "Reforzar la inversión en nuevas tecnologías sanitarias con fondos finalistas",
+    "marca_actual": [],
+    "texto": "- Seguiremos reforzando los planes de inversión en nuevas tecnologías con fondos finalistas para las comunidades autónomas."
+   },
+   {
+    "id": "fa-0146",
+    "partido": "fa",
+    "titular": "Reforzar la Alta Inspección y publicar costes, plantillas y tiempos de espera",
+    "marca_actual": [],
+    "texto": "- Supervisión, transparencia y Alta Inspección: Desarrollaremos los medios de la Alta Inspección (Ley 16/2003), publicaremos de forma homogénea costes, plantillas, tiempos de espera y calidad (incluidos conciertos), y ejecutaremos auditorías para detectar sobrecostes y desvíos."
+   },
+   {
+    "id": "fa-0147",
+    "partido": "fa",
+    "titular": "Crear un Observatorio y una Agencia de Calidad y Evaluación del SNS",
+    "marca_actual": [],
+    "texto": "- Creación de órganos de control independientes: Crearemos el Observatorio de Evaluación, Control, Transparencia, Calidad y Sostenibilidad del SNS, y la Agencia de Calidad y Evaluación del Sistema para publicar presupuestos y resultados de salud."
+   },
+   {
+    "id": "fa-0148",
+    "partido": "fa",
+    "titular": "Integrar MUFACE, MUGEJU e ISFAS en el Sistema Nacional de Salud",
+    "marca_actual": [],
+    "texto": "- Integración de mutuas de funcionariado (MUFACE/MUGEJU/ISFAS): Aplicaremos el plan propuesto para la integración definitiva de todas las mutuas de funcionarios al Sistema Nacional de Salud."
+   },
+   {
+    "id": "fa-0149",
+    "partido": "fa",
+    "titular": "Actualizar los fondos FOGA y FCS y liquidar la asistencia a turistas",
+    "marca_actual": [],
+    "texto": "- Equidad territorial y liquidación turística: Actualizaremos los criterios del FOGA y del FCS, junto con la creación de un mecanismo ágil para liquidar la asistencia a turistas internacionales."
+   },
+   {
+    "id": "fa-0156",
+    "partido": "fa",
+    "titular": "Ampliar especialidades médicas en hospitales rurales y consultas fuera del hospital",
+    "marca_actual": [],
+    "texto": "- Servicios sanitarios rurales y comunidades vulnerables: Ampliaremos especialidades médicas (Traumatología, ORL, Oncología, Dermatología, Neurología, etc.) en hospitales rurales. Podrá establecerse que algunas especialidades hospitalarias puedan ofrecer consultas fuera del hospital, acercando la atención especializada a la comunidad."
+   },
+   {
+    "id": "fa-0187",
+    "partido": "fa",
+    "titular": "Ley de Organizaciones de Pacientes para participar en el SNS",
+    "marca_actual": [],
+    "texto": "- Ley de Organizaciones de Pacientes: Marco legal que garantiza la participación estructurada de los pacientes en los órganos de toma de decisiones del SNS."
+   },
+   {
+    "id": "fa-0382",
+    "partido": "fa",
+    "titular": "Altas y bajas por contingencias comunes, exclusivas de la sanidad pública",
+    "marca_actual": [],
+    "texto": "- Control exclusivo de bajas por la sanidad pública: Garantizaremos por ley que las altas, bajas y confirmaciones por contingencias comunes correspondan en exclusiva a la sanidad pública, rechazando ampliar competencias a las mutuas."
+   },
+   {
+    "id": "fa-0430",
+    "partido": "fa",
+    "titular": "Energía, agua y aire limpio como bienes comunes, sin privatizar su gestión",
+    "marca_actual": [],
+    "texto": "- Reconoceremos por ley que la energía, el agua y el aire limpio son bienes comunes de primera necesidad. Garantizaremos su acceso universal, prohibiremos la privatización de su gestión esencial e incorporaremos este principio a la regulación sectorial."
+   },
+   {
+    "id": "fa-0531",
+    "partido": "fa",
+    "titular": "Ciclo del agua 100 % de gestión pública directa",
+    "marca_actual": [],
+    "texto": "- Agua como bien público: Ciclo del agua 100 % de gestión pública directa, prohibición legal de cortes de suministro por motivos económicos y planes de ahorro/ eficiencia."
+   },
+   {
+    "id": "fa-0674",
+    "partido": "fa",
+    "titular": "Marco estatal de gestión público-comunitaria y cuidados públicos sin ánimo de lucro",
+    "marca_actual": [],
+    "texto": "- Aprobaremos un marco estatal de gestión público-comunitaria. Habilitará fórmulas de coproducción de servicios entre las administraciones y las entidades de la economía social y solidaria y desarrollará las fórmulas no contractuales de prestación de servicios sociales, como el concierto social, para que los cuidados financiados con fondos públicos se presten sin ánimo de lucro."
+   },
+   {
+    "id": "fa-0685",
+    "partido": "fa",
+    "titular": "Adaptar la sanidad a las zonas de baja densidad de población",
+    "marca_actual": [],
+    "texto": "- Adaptaremos la sanidad a las zonas de baja densidad de población. Todas las estrategias del Ministerio de Sanidad incluirán incentivos y prácticas específicas para estas zonas, y crearemos una bolsa de financiación, a través del Consejo Interterritorial, para proyectos innovadores que garanticen la asistencia sanitaria en el medio rural."
+   },
+   {
+    "id": "fa-0703",
+    "partido": "fa",
+    "titular": "Plan de Empleo Garantizado para personas desempleadas de larga duración",
+    "marca_actual": [],
+    "texto": "- Pondremos en marcha un Plan de Empleo Garantizado. Se dirigirá preferentemente a personas desempleadas de larga duración y se aplicará mediante convenios con las comunidades autónomas, los ayuntamientos, las diputaciones, cabildos insulares, mancomunidades y otras instituciones locales en el cumplimiento de sus competencias y en el ámbito de sus territorios. Los contratos que se firmen no podrán referirse a puestos de trabajo estructurales o estatutarios de las administraciones públicas. Los programas podrán desarrollarse a través de mecanismos de colaboración público-social (es decir, con iniciativas de economía social). Las retribuciones serán las mínimas de ingreso existentes para cada puesto según la titulación exigida en los convenios colectivos del personal laboral de cada institución. En el caso de que no exista convenio colectivo propio, se regulará por el convenio colectivo de sector aplicable."
+   },
+   {
+    "id": "fa-0751",
+    "partido": "fa",
+    "titular": "Condonación extraordinaria de deuda a los ayuntamientos en riesgo financiero",
+    "marca_actual": [],
+    "texto": "- Aprobaremos una condonación extraordinaria de deuda para los ayuntamientos en riesgo financiero. Podrán acogerse los que cumplan criterios objetivos sobre el volumen y el origen de su deuda, su liquidez, su capacidad fiscal, el plazo de pago a proveedores y el nivel de sus servicios. Podrá incluir reestructuración, más plazo, menores costes financieros y, cuando esté justificado, quitas totales o parciales, sin que el saneamiento se traduzca en recortes. A cambio, los ayuntamientos beneficiados deberán: aumentar el gasto y la inversión en servicios públicos esenciales; no aplicar rebajas fiscales regresivas ni competir fiscalmente para atraer bases tributarias; aplicar la legislación estatal de vivienda; mejorar su gestión tributaria y reforzar la lucha contra el fraude; revisar los contratos y formas de gestión con costes injustificados y evaluar la remunicipalización de los servicios privatizados; proteger la inversión social, ambiental y de cohesión territorial."
+   },
+   {
+    "id": "fa-0791",
+    "partido": "fa",
+    "titular": "Prohibir al capital riesgo adquirir hospitales, residencias y centros educativos",
+    "marca_actual": [],
+    "texto": "- Excluiremos al capital riesgo de la gestión de los servicios esenciales y de cuidados. Prohibiremos la adquisición, directa o indirecta, de hospitales, clínicas, residencias, centros de servicios sociales y centros educativos de todos los niveles, incluidas las universidades, por parte de entidades de capital riesgo y otras entidades de inversión colectiva."
+   },
+   {
+    "id": "fa-0846",
+    "partido": "fa",
+    "titular": "Recuperar la gestión pública de las solicitudes en embajadas y consulados",
+    "marca_actual": [],
+    "texto": "- Recuperación progresiva de la gestión pública de las solicitudes: Reforzando los recursos de embajadas y consulados y evitando que la falta de citas o la intervención de empresas privadas dificulte el acceso a los procedimientos."
+   },
+   {
+    "id": "fa-0878",
+    "partido": "fa",
+    "titular": "La cooperación no fortalecerá privatizaciones en los países de destino",
+    "marca_actual": [],
+    "texto": "- No se dedicará a fortalecer las políticas de privatización en los países de destino."
+   },
+   {
+    "id": "fa-0998",
+    "partido": "fa",
+    "titular": "Eliminar conciertos a escuelas que segreguen por sexo o por religión",
+    "marca_actual": [],
+    "texto": "- Eliminaremos cualquier tipo de concierto o subvención pública a escuelas que promuevan la segregación educativa por sexos o por cuestiones religiosas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 26,
+  "palabras": 1943,
+  "candidatos": [
+   {
+    "id": "pp-0104",
+    "partido": "pp",
+    "titular": "Que los derechos valgan lo mismo en toda España",
+    "marca_actual": [],
+    "texto": "Nosotros creemos otra cosa. Que una nación es una comunidad de ciudadanos libres e iguales ante la ley y también una comunidad de afectos, vínculos y lealtades compartidas. Que España es plural y esa pluralidad forma parte de lo que somos. No necesitamos estar de acuerdo en todo, pero sí conservar la capacidad de acordar lo importante. Esa cultura del acuerdo, que tiene en el diálogo social su mejor ejemplo, forma parte de lo mejor de nuestro modelo democrático. Porque convivir no consiste en borrar nuestras diferencias, sino en impedir que nos separen.\n\nPor eso vamos a reunir lo que se ha separado: queremos que los derechos valgan lo mismo en cualquier lugar de España, que territorios, generaciones y personas vuelvan a reconocerse como parte de un mismo proyecto, que las infraestructuras funcionen y vertebren de verdad el país, que nuestra historia, nuestra cultura y nuestras tradiciones puedan seguir transmitiéndose como una herencia compartida y que la nacionalidad española recupere todo su valor como vínculo de pertenencia. Los españoles no tenemos que pensar igual para volver a hacer cosas juntos. Es suficiente con que la ley, los derechos y la libertad valgan lo mismo en toda España."
+   },
+   {
+    "id": "pp-0203",
+    "partido": "pp",
+    "titular": "Trato fiscal equivalente para todas las formas de ahorro",
+    "marca_actual": [],
+    "texto": "**184 HACIENDA NO PENALIZARÁ NINGUNA FORMA DE AHORRO.** Queremos ayudar a que los españoles ahorren. Hay muchas formas de hacerlo y todas son beneficiosas. Por eso Hacienda dará un trato fiscal equivalente a las distintas formas de ahorro mientras el dinero siga invertido, para que los españoles puedan elegir cómo ahorrar y en qué ahorrar."
+   },
+   {
+    "id": "psoe-0188",
+    "partido": "psoe",
+    "titular": "Financiar la prestación por crianza con impuestos a grandes patrimonios y capital",
+    "marca_actual": [],
+    "texto": "**127. Ingresos nuevos para derechos nuevos** . La recaudación de la tributación complementaria de los grandes patrimonios y de la mayor progresividad de las rentas del capital contribuirá a financiar la prestación por crianza y la lucha contra la pobreza infantil."
+   },
+   {
+    "id": "psoe-0192",
+    "partido": "psoe",
+    "titular": "Tipo máximo del 35 % para rentas del capital superiores a 300.000 euros",
+    "marca_actual": [],
+    "texto": "**130. Introducir progresividad a la imposición del capital.** Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€."
+   },
+   {
+    "id": "psoe-0197",
+    "partido": "psoe",
+    "titular": "Subir la tasa Tobin del 0,2 % al 0,4 %",
+    "marca_actual": [],
+    "texto": "**135. Reforzar el impuesto sobre las transacciones financieras (tasa Tobin).** Reforzar la tasa Tobin aumentando el tipo impositivo del 0,2% al 0,4%. El impuesto sobre las transacciones financieras grava en un 0,2% las operaciones de adquisición de acciones de sociedades españolas, siempre que sean cotizadas y con una capitalización bursátil superior a los 1.000 M de euros."
+   },
+   {
+    "id": "psoe-0204",
+    "partido": "psoe",
+    "titular": "Mejorar la adherencia terapéutica y garantizar el acceso universal a cuidados paliativos",
+    "marca_actual": [],
+    "texto": "**140. Mejorar la adherencia terapéutica** y garantizar el acceso universal a cuidados paliativos integrales y de calidad."
+   },
+   {
+    "id": "psoe-0261",
+    "partido": "psoe",
+    "titular": "Prestación estatal por crianza para todos los hogares con menores",
+    "marca_actual": [],
+    "texto": "**192. Prestación estatal por crianza** para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente: un nuevo derecho para los 8 millones de niñas, niños y adolescentes de nuestro país. Será una prestación progresiva para apoyar la crianza y proteger de forma más eficaz a los hogares de menor renta. Su implementación contará con financiará procedente de la nueva tributación de los grandes patrimonios y rentas del capital."
+   },
+   {
+    "id": "psoe-0557",
+    "partido": "psoe",
+    "titular": "Modernizar la Justicia con digitalización e inteligencia artificial",
+    "marca_actual": [],
+    "texto": "**437.** Modernizar la Administración de Justicia con la digitalización y la inteligencia artificial para agilizar los procedimientos y las reclamaciones frecuentes, extender el lenguaje claro en las resoluciones y actualizar el Derecho de familia y sucesiones, incluida la regulación del legado digital."
+   },
+   {
+    "id": "psoe-0583",
+    "partido": "psoe",
+    "titular": "Ser una voz por la paz y por una fiscalidad internacional más justa",
+    "marca_actual": [],
+    "texto": "Queremos seguir siendo el país que no mira hacia otro lado. Seguir siendo líderes globales en la defensa de la paz y de la coherencia. El país que condenó el genocidio en Gaza cuando hacía falta valentía para hacerlo. El que dijo “no a la guerra” cuando otros querían involucrarse en ella. No queremos ser observadores silenciosos ante la barbarie, queremos ser una voz en favor de la paz y la justicia. Justicia para los niños y niñas de Gaza, para quienes resisten en Ucrania y para todos los pueblos que sufren la opresión de quienes pretenden imponer la ley del más fuerte.\n\nQueremos un mundo más justo, en el que contribuya más quien más tiene. Queremos avanzar hacia una fiscalidad internacional más justa y construir una agenda global que dé continuidad a los Objetivos de Desarrollo Sostenible más allá de 2030, para afrontar desafíos como la emergencia climática, el desarrollo de la inteligencia artificial, el impacto de las redes sociales y el debilitamiento de las democracias."
+   },
+   {
+    "id": "psoe-0587",
+    "partido": "psoe",
+    "titular": "Impulsar un impuesto mínimo global sobre las grandes fortunas",
+    "marca_actual": [],
+    "texto": "**457. Impulsar la creación de un impuesto mínimo global sobre** las grandes fortunas, como pieza central de una fiscalidad internacional más justa y capaz de financiar los bienes públicos mundiales. Para lograrlo, reforzaremos la cooperación tributaria multilateral y la alianza fiscal con el Sur Global."
+   },
+   {
+    "id": "fa-0006",
+    "partido": "fa",
+    "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+    "marca_actual": [],
+    "texto": "4. Una reforma fiscal que pague el 1 % para que se beneficie el 99 %. Los derechos se sostienen con justicia tributaria. Nuestra reforma fiscal hará que el nuevo esfuerzo tributario recaiga sobre las grandes corporaciones, el sector financiero y las grandes fortunas — mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos—, mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía."
+   },
+   {
+    "id": "fa-0305",
+    "partido": "fa",
+    "titular": "Reformar las SICAV con tope de concentración y plazo de 4 años",
+    "marca_actual": [],
+    "texto": "- Regulación de las SICAV: Reformaremos el régimen de las Sociedades de Inversión de Capital Variable (SICAV), fijando un tope a la concentración de capital en manos de un mismo accionista y estableciendo un periodo máximo de 4 años para mantener las plusvalías acumuladas."
+   },
+   {
+    "id": "fa-0309",
+    "partido": "fa",
+    "titular": "Que los patrimonios de más de un millón tributen como mínimo un 2 %",
+    "marca_actual": [],
+    "texto": "- Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %. Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %. El tipo impositivo actual del impuesto aumentará 2 puntos sobre la escala actual y 3 puntos a partir de los 50 millones. Para ello, reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para reducir de tres a un millón de euros el patrimonio neto a partir del cual comienza a operar, sin perjuicio del mínimo exento de 700.000 euros. Para calcular el límite conjunto con el IRPF y el Impuesto sobre el Patrimonio se tendrá en cuenta la cuota efectivamente pagada en Patrimonio y no la cuota íntegra. El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio, con deducción de las cuotas efectivamente satisfechas por este último y con el objetivo de impedir que las bonificaciones autonómicas vacíen la tributación de las grandes fortunas."
+   },
+   {
+    "id": "fa-0310",
+    "partido": "fa",
+    "titular": "Tasa Zucman: 3 % anual sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "- Implantaremos la Tasa Zucman, consistente en un impuesto estatal, permanente y finalista del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros. No se admitirán exenciones a la empresa familiar ni bonificaciones de comunidades autónomas. Incluirá una cláusula antideslocalización que mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero. Operará como un mínimo efectivo de recaudación del 3 % sobre todos los patrimonios a partir de los 50 millones. La recaudación financiará la Prestación Universal por Crianza."
+   },
+   {
+    "id": "fa-0311",
+    "partido": "fa",
+    "titular": "Impuesto estatal sobre las herencias de más de un millón de euros",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes herencias, de más de un millón de euros. Será estatal y complementario del Impuesto sobre Sucesiones y"
+   },
+   {
+    "id": "fa-0312",
+    "partido": "fa",
+    "titular": "Tarifa progresiva hasta el 34 % en el impuesto estatal a grandes herencias",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "Donaciones y gravará las adquisiciones gratuitas de riqueza de más de un millón de euros netos por beneficiario. Aplicaremos una tarifa progresiva que alcanza un marginal del 34 % y deduciremos el impuesto autonómico efectivamente satisfecho. Gravaremos herencias, donaciones y los seguros de vida en los supuestos previstos en la norma, manteniendo las reducciones por parentesco, discapacidad, transmisión de empresas y vivienda habitual, y otras legalmente contempladas. Los residentes estarán sujetos por sus adquisiciones mundiales y los no residentes por las vinculadas al territorio español según las reglas de la ley. La recaudación será estatal, sin cesión a las comunidades autónomas, para asegurar un suelo común de tributación sin impedir una mayor contribución autonómica."
+   },
+   {
+    "id": "fa-0313",
+    "partido": "fa",
+    "titular": "Limitar las herencias a 10 millones por heredero con un marginal del 100 %",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Limitaremos las herencias de los ultrarricos a un máximo de 10 millones de euros por heredero. Esta limitación se implementará estableciendo un tipo impositivo marginal del 100 % sobre el tramo de la base imponible que supere esa cifra en el Impuesto sobre Sucesiones y Donaciones. En el importe total se tendrán en cuenta las donaciones recibidas en vida y no se permitirán las bonificaciones autonómicas. No obstante, quedará exenta una vivienda por heredero hasta un máximo de 5. Es una medida orientada a restringir el poder económico y político de los grandes patrimonios de nuestro país. Pero, al mismo tiempo, la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda, contribuyendo así a frenar la transmisión intergeneracional de la pobreza y a promover una mayor igualdad de oportunidades."
+   },
+   {
+    "id": "fa-0314",
+    "partido": "fa",
+    "titular": "Impuesto estatal progresivo sobre inmuebles de más de un millón de euros",
+    "marca_actual": [],
+    "texto": "- Crearemos un impuesto estatal sobre las grandes propiedades inmobiliarias. Homogeneizará la tributación de los inmuebles de más de un millón de euros y será progresivo según su valor catastral."
+   },
+   {
+    "id": "fa-0315",
+    "partido": "fa",
+    "titular": "Acercar la tributación de las rentas del capital a la del trabajo",
+    "marca_actual": [],
+    "texto": "- Acercaremos la tributación de las rentas del capital a la de las rentas del trabajo. Hoy las rentas del capital tributan entre el 19 % y el 30 %, mientras que las del trabajo lo hacen entre el 19 % y el 47 %. Así, las clases medias y trabajadoras, que viven de su salario, pagan proporcionalmente más que las rentas altas, que obtienen buena parte de sus ingresos del capital."
+   },
+   {
+    "id": "fa-0326",
+    "partido": "fa",
+    "titular": "Ampliar el impuesto sobre transacciones financieras a renta fija, acciones y derivados",
+    "marca_actual": [],
+    "texto": "- Ampliaremos el impuesto sobre las transacciones financieras a la renta fija privada (0,1 %), las acciones (0,2 %) y los derivados financieros (0,3 %) para desincentivar las operaciones financieras especulativas."
+   },
+   {
+    "id": "fa-0342",
+    "partido": "fa",
+    "titular": "Estadísticas tributarias más detalladas de Patrimonio y Sucesiones",
+    "marca_actual": [],
+    "texto": "- Publicaremos estadísticas tributarias más detalladas, en especial de los impuestos sobre el Patrimonio y sobre Sucesiones gestionados por las comunidades autónomas."
+   },
+   {
+    "id": "fa-0426",
+    "partido": "fa",
+    "titular": "Impulsar la coherencia de políticas para el desarrollo sostenible",
+    "marca_actual": [],
+    "texto": "- Impulsaremos la coherencia de políticas al desarrollo sostenible para multiplicar el impacto de un bienestar compartido, desde la apropiación local de municipios, comunidades autónomas y gobierno del Estado al ámbito internacional a través de la implementación coordinada de políticas públicas en todas sus dimensiones."
+   },
+   {
+    "id": "fa-0720",
+    "partido": "fa",
+    "titular": "Mínimo común de tributación en Patrimonio y Sucesiones en todo el territorio",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Las rebajas fiscales autonómicas no las pagará el resto del país. El Impuesto sobre el Patrimonio se computará en el sistema por lo que se recaudaría sin las bonificaciones de cada comunidad, y el de Sucesiones y Donaciones por un valor normativo actualizado. Además, fijaremos por ley un mínimo común de tributación en ambos impuestos en todo el territorio. Las deducciones autonómicas del IRPF dejarán de poder aplicarse para beneficiar a los que más tienen. Quien regale impuestos a los más ricos lo hará con sus propios recursos."
+   },
+   {
+    "id": "fa-0795",
+    "partido": "fa",
+    "titular": "Reforzar la CNMV y obligarla a verificar los folletos de emisión",
+    "marca_actual": [],
+    "texto": "- Refuerzo de capacidades de la CNMV y protección del ahorro: Reformaremos la Ley de los Mercados de Valores para obligar expresamente a la CNMV a verificar la veracidad, integridad y coherencia de los folletos de emisión antes de su aprobación. Dotación de plantillas suficientes y estables especializadas en contabilidad, auditoría, análisis financiero y detección de fraude, junto a recursos tecnológicos avanzados para investigar irregularidades y exigir subsanaciones."
+   },
+   {
+    "id": "fa-0857",
+    "partido": "fa",
+    "titular": "Más financiación y acción política por la Agenda 2030 y contra el hambre",
+    "marca_actual": [],
+    "texto": "- Más financiación y acción política por los bienes esenciales de la humanidad: Apostaremos por la implementación de políticas de desarrollo sostenible de la Agenda 2030, sus herramientas de coherencia exterior de políticas y todas las agendas de Naciones Unidas en las instituciones internacionales con más medios económicos, impulso político y actuación solidaria entre países para acelerar la alianza global contra el hambre y la desnutrición, así como avanzar hacia una alimentación nutritiva y saludable para todo el mundo evitando las muertes por hambre; para incrementar la aceleración de salud y bienestar; para mitigar los efectos del cambio climático y realizar una adaptación justa, con iniciativas de consumo responsable, comercio justo y financiación alternativa."
+   },
+   {
+    "id": "fa-0868",
+    "partido": "fa",
+    "titular": "Agencia fiscal internacional e impuesto global a las grandes riquezas",
+    "marca_actual": [],
+    "texto": "- Agencia fiscal internacional e impuesto a las grandes riquezas: Defenderemos en foros multilaterales la creación de una agencia fiscal internacional y la implantación de un impuesto global sobre las grandes riquezas para combatir la desigualdad planetaria."
+   }
+  ]
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 26,
+  "palabras": 1419,
+  "candidatos": [
+   {
+    "id": "pp-0178",
+    "partido": "pp",
+    "titular": "Ayudar a la maternidad y facilitar la congelación de óvulos y reproducción asistida",
+    "marca_actual": [],
+    "texto": "**159 CUALQUIER MUJER QUE QUIERA SER MADRE SERÁ AYUDADA.** Pondremos en marcha medidas que favorezcan que las personas puedan tener el número de hijos que desean y en el momento que quieran, y que faciliten el progreso personal y profesional. El concebido no nacido computará para determinar las ayudas y beneficios que correspondan a la familia. Ofreceremos orientación e información a quien lo necesite, favoreceremos la prevención y el diagnóstico precoz de los problemas de fertilidad entre los jóvenes y facilitaremos la congelación de óvulos para mujeres jóvenes, mejorando las oportunidades de acceso a la reproducción asistida en el Sistema Nacional de Salud, incluida la revisión de los límites de edad conforme a criterios médicos y de seguridad. Adaptaremos los apoyos y el acompañamiento comunitario a las necesidades concretas de cada familia, con especial atención a las numerosas, monoparentales o vulnerables, reivindicando, también, el papel fundamental del padre."
+   },
+   {
+    "id": "pp-0245",
+    "partido": "pp",
+    "titular": "Aprobar una ley nacional de cuidados paliativos",
+    "marca_actual": [],
+    "texto": "**226 GARANTIZAREMOS LOS CUIDADOS PALIATIVOS Y UNA VIDA DIGNA HASTA EL FINAL.** Aseguraremos el acceso a los cuidados paliativos para que ninguna persona se quede sin la atención y el acompañamiento que necesita hasta el último momento. Reforzaremos los equipos especializados y garantizaremos el tratamiento del dolor, los cuidados paliativos pediátricos, la atención domiciliaria y el apoyo psicológico, respetando siempre la voluntad del paciente. También acompañaremos a las familias, tanto durante la enfermedad como en el duelo. Para ello, aprobaremos una ley nacional de cuidados paliativos con el fin de que nadie se vea empujado a la aceleración de la muerte por falta de alternativas ni tenga que afrontarla en soledad. Porque hablar de una muerte digna exige garantizar primero los cuidados y los apoyos necesarios para vivir con dignidad hasta el final."
+   },
+   {
+    "id": "psoe-0204",
+    "partido": "psoe",
+    "titular": "Mejorar la adherencia terapéutica y garantizar el acceso universal a cuidados paliativos",
+    "marca_actual": [],
+    "texto": "**140. Mejorar la adherencia terapéutica** y garantizar el acceso universal a cuidados paliativos integrales y de calidad."
+   },
+   {
+    "id": "psoe-0211",
+    "partido": "psoe",
+    "titular": "Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia",
+    "marca_actual": [],
+    "texto": "**147.** Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia, de acuerdo con la legislación vigente."
+   },
+   {
+    "id": "psoe-0213",
+    "partido": "psoe",
+    "titular": "Regular la crioconservación de ovocitos y actualizar la ley de reproducción asistida",
+    "marca_actual": [],
+    "texto": "**149. Garantizar la libertad y los derechos reproductivos** , adaptando el marco regulatorio de la crioconservación de ovocitos para blindar la capacidad de decisión de las mujeres sobre la conservación, uso o destino de sus óvulos; además de actualizar la normativa de reproducción humana asistida conforme a los avances científicos."
+   },
+   {
+    "id": "psoe-0220",
+    "partido": "psoe",
+    "titular": "Estrategia integral de salud sexual y reproductiva, con acceso a PrEP y PEP",
+    "marca_actual": [],
+    "texto": "**156. Impulsar una estrategia integral de salud sexual y reproductiva** , reforzando la educación afectivo-sexual, la prevención de las ITS y del VIH, el acceso a la PrEP y la PEP, la salud menstrual y la accesibilidad económica a los productos esenciales para la salud sexual y reproductiva."
+   },
+   {
+    "id": "psoe-0399",
+    "partido": "psoe",
+    "titular": "Balance: aborto a los 16 y 17 años sin consentimiento paterno",
+    "marca_actual": [],
+    "texto": "Hemos continuado avanzando en los derechos de las mujeres y en su libertad sexual y reproductiva. Hemos reformado la legislación para garantizar el acceso al aborto de las jóvenes de 16 y 17 años sin consentimiento paterno, reconocer nuevos derechos menstruales y reproductivos y castigar el acoso a las mujeres que acuden a clínicas de interrupción voluntaria del embarazo. Hemos reforzado las medidas contra la gestación subrogada, reconocida como una forma de violencia reproductiva, y en 2025 prohibimos la inscripción directa en el Registro Civil de los nacimientos mediante esta práctica en el extranjero. Y hemos ampliado la duración y triplicado el anticipo del Fondo de Garantía del Pago de Alimentos, de 100 a 300 euros mensuales por hijo o hija, para reforzar la protección económica frente al impago de pensiones alimenticias."
+   },
+   {
+    "id": "psoe-0425",
+    "partido": "psoe",
+    "titular": "Defensa de los derechos sexuales y reproductivos y de una sanidad sin sesgos",
+    "marca_actual": [],
+    "texto": "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género\n\nLa salud de las mujeres ha sido durante demasiado tiempo una cuestión secundaria. La investigación médica se ha construido tomando el cuerpo masculino como modelo, derivando en diagnósticos tardíos, síntomas ignorados y enfermedades poco estudiadas. Además, los derechos sexuales y reproductivos de las mujeres están en el punto de mira de la internacional reaccionaria. Esta ofensiva amenaza la libertad de las mujeres para decidir sobre sus cuerpos y sus vidas. Por ello, nos comprometemos a defender una sanidad pública que investigue con perspectiva de género y garantice el acceso efectivo a todos los derechos sexuales y reproductivos. Frente a quienes cuestionan las libertades de las mujeres, ni un paso atrás."
+   },
+   {
+    "id": "psoe-0426",
+    "partido": "psoe",
+    "titular": "Blindar el derecho al aborto reformando el artículo 43 de la Constitución",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "**327. Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo.** Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio frente a los intentos de retroceso."
+   },
+   {
+    "id": "psoe-0427",
+    "partido": "psoe",
+    "titular": "Garantizar el acceso efectivo a la salud sexual y reproductiva",
+    "marca_actual": [],
+    "texto": "**328. Garantizar el acceso efectivo a la salud sexual y reproductiva** , reforzando la educación, la prevención y la atención específica a las mujeres con discapacidad."
+   },
+   {
+    "id": "psoe-0428",
+    "partido": "psoe",
+    "titular": "Reforzar la prohibición de la gestación por sustitución y perseguir su intermediación",
+    "marca_actual": [],
+    "texto": "**329. Fortalecer la protección frente a la explotación reproductiva** , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción."
+   },
+   {
+    "id": "psoe-0429",
+    "partido": "psoe",
+    "titular": "Reforzar las garantías en los procesos de donación de óvulos",
+    "marca_actual": [],
+    "texto": "**330. Reforzar las garantías y controles en los procesos de donación de óvulos** , asegurando la protección de la salud, la dignidad y los derechos de las mujeres."
+   },
+   {
+    "id": "psoe-0475",
+    "partido": "psoe",
+    "titular": "Blindar el matrimonio igualitario, el aborto y la eutanasia",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "**368. Blindar los principales avances en derechos y libertades civiles** , garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia **.**"
+   },
+   {
+    "id": "vox-0064",
+    "partido": "vox",
+    "titular": "Atención específica a la salud de las mujeres y diagnóstico precoz del cáncer",
+    "marca_actual": [],
+    "texto": "64. Atención específica a la salud de las mujeres. Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos, mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres y garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas."
+   },
+   {
+    "id": "vox-0098",
+    "partido": "vox",
+    "titular": "Defensa de la vida desde la concepción y objeción de conciencia sanitaria",
+    "marca_actual": [
+     "restringir"
+    ],
+    "texto": "98. Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte. Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos y potenciar los cuidados paliativos."
+   },
+   {
+    "id": "fa-0155",
+    "partido": "fa",
+    "titular": "Preservativos gratuitos para jóvenes y copas menstruales gratuitas",
+    "marca_actual": [],
+    "texto": "- Salud sexual y gratuidad de productos: Dispensación gratuita de preservativos en farmacias comunitarias para jóvenes (prevención de ITS) y distribución gratuita de copas menstruales para la salud reproductiva y sostenibilidad."
+   },
+   {
+    "id": "fa-0162",
+    "partido": "fa",
+    "titular": "Incluir el derecho al aborto en el artículo 43 de la Constitución",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto, incluyendo expresamente en la misma que los poderes públicos garantizarán el ejercicio del derecho de las mujeres a la interrupción voluntaria del embarazo en condiciones de igualdad real y efectiva con cuantas prestaciones y servicios sean necesarios para dicho ejercicio."
+   },
+   {
+    "id": "fa-0163",
+    "partido": "fa",
+    "titular": "Garantizar la IVE en centros públicos de todas las comunidades",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantía del aborto (IVE): Estrategia para garantizar la IVE en centros públicos en todas las comunidades autónomas y ciudades autónomas, financiada con el Fondo Social Europeo Plus (FSE+) e incluyendo gastos de desplazamiento. Formación obligatoria en IVE en planes de estudio y especialidades sanitarias."
+   },
+   {
+    "id": "fa-0164",
+    "partido": "fa",
+    "titular": "Ley Integral de Salud Obstétrica y tipificar la violencia obstétrica",
+    "marca_actual": [],
+    "texto": "- Ley Integral de Salud Obstétrica: Reconoceremos el embarazo, parto y posparto como procesos naturales. Tipificaremos la violencia obstétrica, crearemos un canal de denuncia confidencial y garantizaremos derechos por ley (acompañamiento, libre movimiento, alivio del dolor y ratio OMS de 1 matrona por mujer en parto activo en máximo 5 años)."
+   },
+   {
+    "id": "fa-0165",
+    "partido": "fa",
+    "titular": "Ampliar la protección por duelo perinatal e inscribir la pérdida gestacional",
+    "marca_actual": [],
+    "texto": "- Ampliación de protección por duelo perinatal y secuelas: Inscripción en el Registro Civil de la pérdida gestacional desde el sexto mes de gestación, permiso para el otro progenitor tras muerte fetal desde los 180 días y ampliación del permiso maternal por complicaciones físicas tras el parto acreditadas médicamente."
+   },
+   {
+    "id": "fa-0167",
+    "partido": "fa",
+    "titular": "Valoración de la fertilidad en el SNS y más recursos para reproducción asistida",
+    "marca_actual": [],
+    "texto": "- Estudio de fertilidad y reproducción asistida: Incluiremos la valoración de la fertilidad previa a los intentos de concepción en el SNS y aumentaremos los recursos finalistas para servicios de reproducción asistida en edades tempranas."
+   },
+   {
+    "id": "fa-0168",
+    "partido": "fa",
+    "titular": "Bancos públicos de óvulos y debate bioético sobre reproducción asistida",
+    "marca_actual": [],
+    "texto": "- Impulsaremos el refuerzo de la provisión pública mediante el despliegue de infraestructuras y capacidades propias del sistema sanitario público, incluidos bancos públicos de óvulos y otros recursos necesarios, y promoveremos un debate público y bioético sobre el modelo de reproducción asistida."
+   },
+   {
+    "id": "fa-0247",
+    "partido": "fa",
+    "titular": "Blindaje constitucional del aborto libre y universal en la sanidad pública",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantizaremos el derecho al propio cuerpo mediante el blindaje constitucional del aborto libre y universal en la sanidad pública."
+   },
+   {
+    "id": "fa-0883",
+    "partido": "fa",
+    "titular": "Más ayuda de la AECID a igualdad y derechos sexuales y reproductivos",
+    "marca_actual": [],
+    "texto": "- Aumentaremos la parte de la ayuda de la AECID dedicada a la igualdad de género y a los derechos sexuales y reproductivos, crearemos una Oficina de Cooperación Feminista en la AECID, pondremos en marcha un programa de protección para defensoras y para profesionales de la salud sexual y reproductiva, incluida la interrupción voluntaria del embarazo, e incrementaremos las aportaciones al Fondo de Población de Naciones Unidas (UNFPA) y a ONU Mujeres."
+   },
+   {
+    "id": "fa-0922",
+    "partido": "fa",
+    "titular": "Blindar en la Constitución pensiones, vivienda, salud, aborto y derechos medioambientales",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Blindaremos constitucionalmente la revalorización de las pensiones, el derecho a la vivienda, el derecho a la salud, el derecho al aborto, los derechos medioambientales, e incorporaremos nuevos ámbitos como el cambio climático o la digitalización."
+   },
+   {
+    "id": "fa-1000",
+    "partido": "fa",
+    "titular": "Ley de Libertad de Conciencia que derogue la Ley de Libertad Religiosa",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Elaboraremos una Ley de Libertad de Conciencia que contemple las convicciones religiosas y de cualquier otro tipo, derogando la Ley de Libertad Religiosa. Derecho a la interrupción voluntaria del embarazo, a la eutanasia y al suicidio asistido."
+   }
+  ]
+ },
+ {
+  "eje": "eje-agua",
+  "pregunta": "¿Trasvases e interconexión de cuencas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+   },
+   {
+    "id": "no",
+    "nombre": "No: gestión de la demanda, agua como bien público"
+   }
+  ],
+  "n": 27,
+  "palabras": 1283,
+  "candidatos": [
+   {
+    "id": "pp-0142",
+    "partido": "pp",
+    "titular": "Pacto Nacional del Agua con 40.000 millones de inversión hasta 2030",
+    "marca_actual": [],
+    "texto": "**126 PROMOVEREMOS UN PACTO NACIONAL DEL AGUA.** Dentro del Plan Nacional de Infraestructuras, movilizaremos hasta 40.000 millones de euros en inversiones hasta 2030. Modernizaremos los regadíos y generaremos recursos nuevos con infraestructuras, desalación y reutilización. Impulsaremos también soluciones de alta eficiencia a gran escala para el almacenamiento de energía como las centrales hidroeléctricas reversibles. Gestionar riesgos y prevenir inundaciones y sequías será prioritario. Las infraestructuras hidráulicas existentes se regirán por criterios claros y objetivos situando la seguridad y el mantenimiento de presas o la protección frente a avenidas y los sistemas de alerta temprana entre las prioridades."
+   },
+   {
+    "id": "pp-0218",
+    "partido": "pp",
+    "titular": "Modernizar embalses y regadíos y reforzar la desalación y el agua depurada",
+    "marca_actual": [],
+    "texto": "**199 GARANTIZAREMOS EL AGUA QUE NECESITAN EL CAMPO Y LA INDUSTRIA.** En el marco del Pacto Nacional del Agua, modernizaremos embalses y conducciones, renovaremos los regadíos para reducir su consumo de agua y energía, definiremos nuevos regadíos, ampliaremos el uso de agua depurada y reforzaremos la desalación donde sea necesaria."
+   },
+   {
+    "id": "psoe-0343",
+    "partido": "psoe",
+    "titular": "Garantizar el agua a hogares, campos e industrias ante sequías e inundaciones",
+    "marca_actual": [],
+    "texto": "Sequías e inundaciones cada vez más severas amenazan la seguridad de un recurso básico como es el agua. Incorporando las últimas recomendaciones científicas, mejoraremos la gestión de nuestros recursos hídricos para garantizar que el agua llegue a todos nuestros hogares, campos e industrias, con independencia de su renta, ubicación o tamaño."
+   },
+   {
+    "id": "psoe-0344",
+    "partido": "psoe",
+    "titular": "Planificación urbana compatible con los recursos hídricos y mínimo vital de agua",
+    "marca_actual": [],
+    "texto": "**260. Impulsar una planificación territorial y urbana compatible con la disponibilidad de recursos hídricos** , que garantice el acceso universal al agua potable, consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables."
+   },
+   {
+    "id": "psoe-0345",
+    "partido": "psoe",
+    "titular": "Blindar en la Constitución el acceso universal al agua potable",
+    "marca_actual": [],
+    "texto": "**261. Garantizar el acceso universal al agua potable** , consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables **con su blindaje en la Constitución.**"
+   },
+   {
+    "id": "psoe-0346",
+    "partido": "psoe",
+    "titular": "Estrategia de Resiliencia Hídrica: menos consumo, más desalación y reutilización",
+    "marca_actual": [],
+    "texto": "**262. Adaptar la Estrategia Nacional de Resiliencia Hídrica** , que refuerce la prevención frente a inundaciones y sequías, actualizando la cartografía de zonas inundables, mejorando los sistemas de alerta temprana e incorporando estos riesgos en la planificación hidrológica. Esta estrategia deberá, además, promover la reducción del consumo de agua, incrementar la desalación y la reutilización con energías renovables e incorporar criterios de resiliencia hídrica en la contratación pública. E incentivar la digitalización del ciclo integral del agua."
+   },
+   {
+    "id": "psoe-0347",
+    "partido": "psoe",
+    "titular": "Crear bancos públicos de agua en las confederaciones hidrográficas",
+    "marca_actual": [],
+    "texto": "**263. Crear bancos públicos de agua en las confederaciones hidrográficas** para mejorar la gestión, disponibilidad y reasignación de recursos hídricos, previniendo la sobreexplotación y contaminación de ríos, humedales y acuíferos."
+   },
+   {
+    "id": "psoe-0348",
+    "partido": "psoe",
+    "titular": "Modernizar los regadíos sin aumentar el consumo total de agua",
+    "marca_actual": [],
+    "texto": "**264. Modernizar los regadíos, mejorando la eficiencia hídrica y energética sin aumentar el consumo total de agua.** Para ello, se financiarán programas para la adopción de tecnologías de precisión, energías renovables y sistemas digitales."
+   },
+   {
+    "id": "psoe-0349",
+    "partido": "psoe",
+    "titular": "Soluciones basadas en la naturaleza para la gestión del agua",
+    "marca_actual": [],
+    "texto": "**265. Impulsar soluciones basadas en la naturaleza** para la gestión del agua, aumentando la resiliencia frente a fenómenos extremos."
+   },
+   {
+    "id": "psoe-0350",
+    "partido": "psoe",
+    "titular": "Que los centros de datos operen con renovables y uso responsable del agua",
+    "marca_actual": [],
+    "texto": "**266. Garantizar que los centros de datos operen con energías renovables** , reutilización del calor y un uso responsable del agua, minimizando su impacto ambiental."
+   },
+   {
+    "id": "psoe-0474",
+    "partido": "psoe",
+    "titular": "Reconocer en la Constitución la seguridad climática y el acceso al agua potable",
+    "marca_actual": [],
+    "texto": "**367.** Reconocer constitucionalmente el derecho a la seguridad climática y el acceso al agua potable."
+   },
+   {
+    "id": "vox-0115",
+    "partido": "vox",
+    "titular": "Plan Nacional del Agua con interconexión de todas las cuencas",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "115. Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario, así como para impulsar y modernizar los regadíos y la producción de energía. Al mismo tiempo, conclusión de las obras pendientes y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad de los españoles ante las inundaciones."
+   },
+   {
+    "id": "fa-0430",
+    "partido": "fa",
+    "titular": "Energía, agua y aire limpio como bienes comunes, sin privatizar su gestión",
+    "marca_actual": [],
+    "texto": "- Reconoceremos por ley que la energía, el agua y el aire limpio son bienes comunes de primera necesidad. Garantizaremos su acceso universal, prohibiremos la privatización de su gestión esencial e incorporaremos este principio a la regulación sectorial."
+   },
+   {
+    "id": "fa-0501",
+    "partido": "fa",
+    "titular": "Ejecutar con urgencia las medidas del PNACC contra el riesgo de inundaciones",
+    "marca_actual": [],
+    "texto": "- Gestión integral del riesgo de inundaciones (PNACC): Ejecución prioritaria y urgente de las medidas del Plan Nacional de Adaptación al Cambio Climático (PNACC) relativas a agua y recursos hídricos: evaluación de la gestión ante inundaciones, desarrollo de actuaciones de adaptación, e integración formal del riesgo de inundación en la ordenación territorial y urbanística."
+   },
+   {
+    "id": "fa-0530",
+    "partido": "fa",
+    "titular": "Reconocer el derecho humano al agua y prohibir los cortes por motivos económicos",
+    "marca_actual": [],
+    "texto": "- Derecho humano al agua: Reconoceremos expresamente al más alto nivel legislativo el derecho humano al agua y el saneamiento, con el alcance y contenido definido por Naciones Unidas. Garantizaremos un mínimo vital de agua gratuito para las personas y hogares en situación de vulnerabilidad y la prohibición legal de cortes de suministro por motivos económicos. Extenderemos el acceso a fuentes de agua potable y aseos públicos."
+   },
+   {
+    "id": "fa-0531",
+    "partido": "fa",
+    "titular": "Ciclo del agua 100 % de gestión pública directa",
+    "marca_actual": [],
+    "texto": "- Agua como bien público: Ciclo del agua 100 % de gestión pública directa, prohibición legal de cortes de suministro por motivos económicos y planes de ahorro/ eficiencia."
+   },
+   {
+    "id": "fa-0532",
+    "partido": "fa",
+    "titular": "Canon hídrico progresivo al exceso de consumo de agua de grandes corporaciones",
+    "marca_actual": [],
+    "texto": "- Gravaremos el exceso de consumo de agua aplicando el principio de «quien contamina paga» a las grandes corporaciones agroalimentarias y a los usos suntuarios (piscinas, campos de golf, etc.), implementando una tarificación que penalice el exceso de consumo mediante la creación de un canon hídrico progresivo para el regadío industrial en zonas con acuíferos sobreexplotados y/o contaminados y destinando dichos recursos para la transformación agropecuaria sostenible y soberana, y la adaptación y protección frente al cambio climático."
+   },
+   {
+    "id": "fa-0533",
+    "partido": "fa",
+    "titular": "Canon al agua de centros de datos y prohibir refrigerarlos con agua en sequía",
+    "marca_actual": [],
+    "texto": "- Crearemos un canon específico sobre el agua consumida por grandes centros de datos y prohibiremos su refrigeración mediante agua en las cuencas afectadas por sequía."
+   },
+   {
+    "id": "fa-0534",
+    "partido": "fa",
+    "titular": "Obligar a recuperar aguas grises en hoteles y grandes infraestructuras",
+    "marca_actual": [],
+    "texto": "- Eficiencia y reutilización de aguas grises disponiendo por ley la instalación de sistemas de recuperación de aguas grises en hoteles y grandes infraestructuras, hasta conseguir ahorros del 35 % y la reutilización de estas aguas regeneradas para usos no potables (riego de parques, baldeo)."
+   },
+   {
+    "id": "fa-0535",
+    "partido": "fa",
+    "titular": "Clausurar los pozos ilegales y recuperar los acuíferos",
+    "marca_actual": [],
+    "texto": "- Recuperaremos los acuíferos y clausuraremos pozos ilegales ejecutando un plan para el cierre de las extracciones ilegales de agua subterránea (estimadas en más de un millón en España), y los recuperaremos como reservas estratégicas utilizando la digitalización y la inteligencia artificial para vigilar la legalidad y los vertidos de nitratos."
+   },
+   {
+    "id": "fa-0536",
+    "partido": "fa",
+    "titular": "Moratoria a nuevos embalses, trasvases y megabalsas",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Moratoria a la expansión de infraestructuras de alto impacto, tales como las grandes infraestructuras hidráulicas, como nuevos proyectos de embalses, trasvases o megabalsas que agraven la sobreexplotación de los recursos hídricos."
+   },
+   {
+    "id": "fa-0537",
+    "partido": "fa",
+    "titular": "Regular o prohibir el uso de agua de centros de datos con estrés hídrico",
+    "marca_actual": [],
+    "texto": "- Regulación y, en su caso, prohibición del uso de agua por los centros de datos en zonas con estrés hídrico y riesgo de incendios en época estival."
+   },
+   {
+    "id": "fa-0538",
+    "partido": "fa",
+    "titular": "Restaurar ríos y garantizar caudales ecológicos",
+    "marca_actual": [],
+    "texto": "- Restauración fluvial y de caudales ecológicos garantizando el mantenimiento de caudales ecológicos científicos que aseguren la salud de los ríos y humedales, incluyendo la eliminación de barreras transversales obsoletas y la recuperación de meandros para que las llanuras de inundación actúen como amortiguadores naturales."
+   },
+   {
+    "id": "fa-0541",
+    "partido": "fa",
+    "titular": "Plan Nacional de Ahorro de Recursos Hídricos y frenar nuevas demandas de regadío",
+    "marca_actual": [],
+    "texto": "- Ahorro frente al cambio climático: Garantizaremos la prioridad de usos establecida en la Ley de Aguas, caudales ecológicos y abastecimiento frente a los agrícolas e industriales. Detendremos el crecimiento de las demandas de regadío y las promociones urbanísticas y turísticas más despilfarradoras. Estableceremos un Plan Nacional de Ahorro de Recursos Hídricos ante los escenarios climáticos y los riesgos por sequía. Fomentaremos la reutilización de aguas depuradas o de escorrentía."
+   },
+   {
+    "id": "fa-0542",
+    "partido": "fa",
+    "titular": "Revisar la planificación hidrológica para adaptarla al cambio climático",
+    "marca_actual": [],
+    "texto": "- Revisaremos la planificación hidrológica para adaptarla al cambio climático. Actualizaremos los planes de sequía y las concesiones para evitar sobreexplotación, fomentar la eficiencia y reducir prácticas especulativas. Además, limitaremos nuevas demandas en cuencas con estrés hídrico. Evaluaremos posibles moratorias a grandes proyectos, nuevos regadíos y actividades superintensivas en recursos apoyando el cultivo en secano y regadíos tradicionales."
+   },
+   {
+    "id": "fa-0602",
+    "partido": "fa",
+    "titular": "Exigir renovables y prohibir refrigerar con agua en sequía a los centros de datos",
+    "marca_actual": [],
+    "texto": "- Requisitos energéticos, térmicos e hídricos: Condicionaremos nuevas instalaciones a que su consumo eléctrico esté respaldado por generación renovable adicional. Prohibiremos expresamente refrigerar con agua en cuencas en sequía y exigiremos utilizar agua regenerada o desalinizada, garantizando la prioridad absoluta del agua para el abastecimiento de la población. Obligación legal de aprovechar el calor residual (10 % en julio de 2026, aumentando al 20 % en 2028). Tarifa propia para grandes consumos que cubra la red y la nueva generación requerida (con contratos de larga duración y penalizaciones por cancelación anticipada)."
+   },
+   {
+    "id": "fa-0645",
+    "partido": "fa",
+    "titular": "Priorizar la pesca artesanal de bajo impacto ambiental",
+    "marca_actual": [],
+    "texto": "- Fomentaremos la pesca de bajo impacto ambiental y alto valor social priorizando la pesca artesanal como pilar de la biodiversidad, la salud y la cohesión territorial costera. Proponemos un necesario trasvase de inversión para apoyar estos modelos de alto valor social."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 16,
+  "palabras": 834,
+  "candidatos": [
+   {
+    "id": "pp-0109",
+    "partido": "pp",
+    "titular": "Garantizar el derecho a recibir enseñanza en castellano en toda España",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "**96 GARANTIZAREMOS EL DERECHO A RECIBIR ENSEÑANZA EN CASTELLANO EN TODA ESPAÑA.** El castellano es la lengua común de los españoles, que tienen el deber constitucional de conocerla y el derecho a usarla. Las lenguas de cada Comunidad Autónoma son un patrimonio cultural de todos los españoles que debemos amparar y, por eso, se defenderá su uso junto al de la lengua oficial común. Garantizaremos el derecho constitucional de recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda la Nación, desde el respeto a las lenguas cooficiales de cada una de las Comunidades y en cumplimiento de las sentencias judiciales."
+   },
+   {
+    "id": "pp-0110",
+    "partido": "pp",
+    "titular": "Que el ciudadano elija lengua oficial o cooficial ante la Administración",
+    "marca_actual": [],
+    "texto": "**97 DEFENDEREMOS LA CORDIALIDAD ENTRE LA LENGUA COMÚN Y LAS LENGUAS COOFICIALES.** La cordialidad entre las lenguas cooficiales y la lengua oficial común es muestra de la España capaz de convivir alrededor de un proyecto compartido desde la pluralidad. Los requisitos lingüísticos respetarán las libertades y los derechos fundamentales de todos. Aseguraremos que las Administraciones de los territorios con cooficialidad se dirijan a los ciudadanos en la lengua oficial o en la cooficial, a elección del ciudadano."
+   },
+   {
+    "id": "pp-0143",
+    "partido": "pp",
+    "titular": "Reformar el Reglamento para que el castellano sea lengua de trabajo del Congreso",
+    "marca_actual": [],
+    "texto": "**127 EL CASTELLANO VOLVERÁ A SER LA LENGUA COMÚN DE TRABAJO EN EL CONGRESO.** Propondremos la reforma del Reglamento de la Cámara para que los debates parlamentarios se desarrollen en la lengua común de todos los españoles. Del mismo modo, el castellano será la lengua de trabajo en los órganos de máximo nivel de cooperación entre el Gobierno de España y las Comunidades Autónomas, sin perjuicio del reconocimiento y protección de las lenguas cooficiales en sus respectivos ámbitos. Mantendremos la posibilidad de uso de las lenguas cooficiales en el Senado."
+   },
+   {
+    "id": "pp-0154",
+    "partido": "pp",
+    "titular": "Promoción exterior de la cultura con el español como eje diplomático",
+    "marca_actual": [],
+    "texto": "**138 PROYECTAREMOS AL MUNDO LO MEJOR DE ESPAÑA.** Impulsaremos la promoción exterior de nuestra cultura, nuestro patrimonio, el turismo, las universidades, la gastronomía y el deporte para aumentar la presencia y la influencia de España en el mundo. El español será el eje de nuestra diplomacia cultural: reforzaremos su enseñanza y la proyección internacional de nuestras industrias culturales y de entretenimiento. Promoveremos también las lenguas cooficiales como parte del patrimonio cultural común de España."
+   },
+   {
+    "id": "psoe-0494",
+    "partido": "psoe",
+    "titular": "Extender las lenguas cooficiales en las Cortes y la Administración del Estado",
+    "marca_actual": [],
+    "texto": "**385. Reconocer la pluralidad lingüística en las instituciones comunes** . Consolidaremos el uso de las lenguas cooficiales en las Cortes Generales y lo extenderemos a la atención de la Administración General del Estado en los territorios donde son oficiales."
+   },
+   {
+    "id": "psoe-0618",
+    "partido": "psoe",
+    "titular": "Ampliar la red del Instituto Cervantes y colaborar con Llull, Etxepare y las gallegas",
+    "marca_actual": [],
+    "texto": "**484. Ampliar la red del Instituto Cervantes** para situar el español como lengua de la ciencia, la innovación y la inteligencia artificial, en alianza con Iberoamérica y con modelos de lenguaje abiertos en español y en las lenguas cooficiales. Y colaborar con el Institut Ramon Llull, el Etxepare Euskal Institutua y las instituciones culturales gallegas, para promover el conocimiento de nuestra diversidad cultural y lingüística."
+   },
+   {
+    "id": "psoe-0619",
+    "partido": "psoe",
+    "titular": "Reconocer el catalán, el euskera y el gallego como lenguas oficiales de la UE",
+    "marca_actual": [],
+    "texto": "**485.** Seguir impulsando el reconocimiento del catalán, el euskera y el gallego como lenguas oficiales de la Unión Europea, y promover su enseñanza mediante cátedras, lectorados y acuerdos con universidades extranjeras."
+   },
+   {
+    "id": "vox-0060",
+    "partido": "vox",
+    "titular": "Tarjeta sanitaria única y que las lenguas regionales no impidan acceder a plazas",
+    "marca_actual": [],
+    "texto": "60. Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional. Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes."
+   },
+   {
+    "id": "vox-0066",
+    "partido": "vox",
+    "titular": "Currículo y evaluaciones únicas, reválidas, EVAU única y educación en español",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "66. Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional. Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica. Revisión de las homologaciones de títulos extranjeros."
+   },
+   {
+    "id": "vox-0073",
+    "partido": "vox",
+    "titular": "Eliminar el programa de Lengua Árabe y Cultura Marroquí",
+    "marca_actual": [],
+    "texto": "73. Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí."
+   },
+   {
+    "id": "fa-0196",
+    "partido": "fa",
+    "titular": "Garantizar la inmersión en catalán y un plan estatal de lenguas cooficiales",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "- Lenguas cooficiales y modelo lingüístico: Lanzaremos un Plan Estatal para el aprendizaje y divulgación de las lenguas cooficiales en todo el Estado, garantizando la inmersión lingüística en catalán como lengua vehicular en Cataluña."
+   },
+   {
+    "id": "fa-0239",
+    "partido": "fa",
+    "titular": "Nueva línea de ayudas a la creación digital en lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "- Fomento de la creación digital en lenguas del Estado: Nueva línea de ayudas para la creación de contenido digital en lenguas cooficiales."
+   },
+   {
+    "id": "fa-0241",
+    "partido": "fa",
+    "titular": "Plan Nacional de Diversidad Cultural y Lingüística",
+    "marca_actual": [],
+    "texto": "- Plan Nacional de Diversidad Cultural y Lingüística: Blindaremos el reconocimiento de la pluralidad cultural y lingüística como una política estructural del Ministerio de Cultura, que defina el marco de actuaciones de las políticas públicas a nivel nacional y en relación con las comunidades autónomas."
+   },
+   {
+    "id": "fa-0617",
+    "partido": "fa",
+    "titular": "Reforzar la Agencia EFE y someterla a control parlamentario",
+    "marca_actual": [],
+    "texto": "- Reforzaremos la Agencia EFE como gran agencia de noticias en español. Aumentaremos su financiación como Servicio de Interés Económico General para acercarla a la de France Presse o Associated Press, incorporaremos y estabilizaremos perfiles informativos, mejoraremos la conciliación y negociaremos el convenio colectivo pendiente. Además, la someteremos a control parlamentario, como RTVE, e incorporaremos la representación de la plantilla a su consejo de administración."
+   },
+   {
+    "id": "fa-0694",
+    "partido": "fa",
+    "titular": "Apoyar la cultura de las islas y la lengua catalana en Baleares",
+    "marca_actual": [],
+    "texto": "- Apoyaremos la cultura de las islas, teniendo en cuenta la insularidad en todas las políticas culturales estatales y prestando un apoyo singular a la lengua catalana en Illes Balears y a la cultura propia de Canarias frente a la presión de la turistificación."
+   },
+   {
+    "id": "fa-0927",
+    "partido": "fa",
+    "titular": "Ley del plurilingüismo para usar las lenguas cooficiales ante el Estado",
+    "marca_actual": [],
+    "texto": "- Aprobaremos una ley del plurilingüismo, para garantizar plenamente los derechos lingüísticos, para que la ciudadanía pueda relacionarse en las lenguas cooficiales y estatutarias con las instituciones del Estado."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jubilacion",
+  "pregunta": "¿Qué hacer con la edad de jubilación?",
+  "posiciones": [
+   {
+    "id": "adelantar",
+    "nombre": "Adelantarla o flexibilizarla a la baja"
+   },
+   {
+    "id": "mantener-retrasar",
+    "nombre": "Mantenerla o incentivar retrasarla"
+   }
+  ],
+  "n": 12,
+  "palabras": 675,
+  "candidatos": [
+   {
+    "id": "pp-0123",
+    "partido": "pp",
+    "titular": "Revalorizar las pensiones con el IPC y reconstruir el Pacto de Toledo",
+    "marca_actual": [],
+    "texto": "**108 GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO.** Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista. Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo. Incentivaremos la jubilación activa mediante deducciones en el IRPF. Proteger a quienes han sostenido el sistema durante toda su vida exige también que quienes hoy empiezan a trabajar puedan confiar en que habrá una pensión para ellos."
+   },
+   {
+    "id": "pp-0128",
+    "partido": "pp",
+    "titular": "Compatibilizar pensión de discapacidad y empleo, y ampliar la jubilación anticipada",
+    "marca_actual": [],
+    "texto": "**112 LA DISCAPACIDAD NO LIMITARÁ LAS OPORTUNIDADES NI LA LIBERTAD DE ELEGIR CÓMO VIVIR.** Aseguraremos una atención temprana de calidad y la continuidad de los apoyos a lo largo de toda la vida, impulsando la asistencia personal, la vivienda con apoyos, el empleo inclusivo y la accesibilidad universal. Haremos compatibles las pensiones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo y favorecer el empleo con apoyo. Ampliaremos el acceso a la jubilación anticipada de las personas con síndrome de Down y apoyaremos específicamente a las personas con autismo y sus familias."
+   },
+   {
+    "id": "psoe-0046",
+    "partido": "psoe",
+    "titular": "Tramitar como ley el decreto de seguridad operacional ferroviaria",
+    "marca_actual": [],
+    "texto": "**24. Convertir en ley las medidas urgentes de seguridad operacional.** Tramitaremos como proyecto de ley el Real Decreto-ley aprobado el 10 de noviembre de 2026, que refuerza las facultades de supervisión e inspección de la Agencia Estatal de Seguridad Ferroviaria, incorpora a la Ley del Sector Ferroviario la cultura justa y la protección de quien comunica un riesgo, precisa el cómputo de los tiempos de conducción y amplía la aplicación de los coeficientes reductores de la edad de jubilación en el sector. Seguiremos incrementando los medios y las capacidades de la Agencia."
+   },
+   {
+    "id": "psoe-0156",
+    "partido": "psoe",
+    "titular": "Mejorar la jubilación en trabajos penosos y anticipada involuntaria",
+    "marca_actual": [],
+    "texto": "**103. Mejorar la jubilación en trabajos penosos y en las jubilaciones anticipadas involuntarias.** Evaluar la mejora de los coeficientes reductores de edad por penosidad y la reducción de las penalizaciones de las pensiones por jubilación anticipada involuntaria, especialmente para trabajadores con largas carreras de cotización. Todo ello preservando el equilibrio del sistema. El coste de estas mejoras se podría compensar mediante aportaciones de empresas con beneficios que realicen ERE, para cubrir la pérdida de cotizaciones sociales y el mayor gasto en pensiones."
+   },
+   {
+    "id": "psoe-0157",
+    "partido": "psoe",
+    "titular": "Crear una cuenta individual de penosidad para la edad de jubilación",
+    "marca_actual": [],
+    "texto": "**104. Corregir el sesgo de género en la protección de las actividades con mayor penosidad** . Impulsar los cambios necesarios para que los coeficientes reductores de la edad de jubilación por penosidad se apliquen de forma singularizada a través de una cuenta individual de penosidad, para reconocer el desgaste laboral real de cada trabajador."
+   },
+   {
+    "id": "psoe-0441",
+    "partido": "psoe",
+    "titular": "Atención especializada a víctimas con discapacidad y mayores de 65 años",
+    "marca_actual": [],
+    "texto": "**341. Reforzar la atención especializada a las víctimas con discapacidad y a las mujeres mayores de 65 años** , garantizando el ejercicio efectivo de sus derechos y el reconocimiento de las familias monomarentales formadas por víctimas de violencia de género y sus hijos e hijas."
+   },
+   {
+    "id": "fa-0151",
+    "partido": "fa",
+    "titular": "Ampliar la cobertura bucodental al menos al 50 % de la población",
+    "marca_actual": [],
+    "texto": "- Salud bucodental: Continuaremos la ampliación de la cobertura bucodental realizada en esta legislatura (menores hasta 14 años, embarazadas, mayores de 65 años, pacientes oncológicos específicos) hasta alcanzar al menos el 50 % de la población residente al final de la legislatura."
+   },
+   {
+    "id": "fa-0153",
+    "partido": "fa",
+    "titular": "Incluir los audífonos en la cartera común de servicios",
+    "marca_actual": [],
+    "texto": "- Salud auditiva: Financiación pública e inclusión de los audífonos en la cartera común de servicios para toda la población que los necesite, con programas prioritarios de ayudas para mayores de 65 años y personas con discapacidad."
+   },
+   {
+    "id": "fa-0413",
+    "partido": "fa",
+    "titular": "Reducir la edad de jubilación y sin penalización con más de 40 años cotizados",
+    "marca_actual": [],
+    "texto": "Reducir edad de jubilación y eliminar la penalización por jubilación anticipada a quienes han cotizado más de 40 años"
+   },
+   {
+    "id": "fa-0414",
+    "partido": "fa",
+    "titular": "Devolver la edad de jubilación a los 65 años",
+    "marca_actual": [],
+    "texto": "- Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011."
+   },
+   {
+    "id": "fa-0415",
+    "partido": "fa",
+    "titular": "Jubilación a los 60 años en oficios penosos como construcción o limpieza",
+    "marca_actual": [],
+    "texto": "- Reduciremos la edad de jubilación en determinados oficios y profesiones por su especial penosidad. Construcción, limpieza, ayuda a domicilio, camareras de piso y la pesca deben poder acceder a los 60 años por su especial esfuerzo físico y el elevado riesgo de siniestralidad."
+   },
+   {
+    "id": "fa-0977",
+    "partido": "fa",
+    "titular": "Profesión de riesgo para Guardia Civil y Policía Nacional",
+    "marca_actual": [],
+    "texto": "- Reconocimiento legal para la Guardia Civil y la Policía Nacional del carácter de profesión de riesgo, con el mismo modelo que las policías autonómicas y la aplicación de coeficientes reductores relacionados con los años de servicio para acceder a la jubilación anticipada."
+   }
+  ]
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 10,
+  "palabras": 307,
+  "candidatos": [
+   {
+    "id": "pp-0152",
+    "partido": "pp",
+    "titular": "Proteger folclores y tradiciones y restituir el Premio Nacional de Tauromaquia",
+    "marca_actual": [],
+    "texto": "**136 CONSTRUIREMOS EL FUTURO DESDE LAS RAÍCES.** Los diferentes folclores y cada una de nuestras fiestas y tradiciones populares también forman parte del patrimonio y el paisaje cultural común de España. Garantizaremos su protección, apoyaremos a quienes las mantienen vivas y facilitaremos su transmisión a las nuevas generaciones. Recuperaremos el respeto y la promoción de las expresiones que mejor combinan tradición y futuro, empezando por la restitución del Premio Nacional de Tauromaquia, y fortaleceremos la presencia y proyección de estas manifestaciones dentro y fuera de España."
+   },
+   {
+    "id": "pp-0226",
+    "partido": "pp",
+    "titular": "Reducir las trabas a la caza sostenible y defender su papel rural",
+    "marca_actual": [],
+    "texto": "**207 DEFENDEREMOS LA CAZA Y SU PAPEL EN EL MEDIO RURAL** . Reduciremos las trabas a la caza sostenible y respaldaremos su contribución a la economía de los pueblos y al mantenimiento de la biodiversidad."
+   },
+   {
+    "id": "vox-0059",
+    "partido": "vox",
+    "titular": "Defensa de la caza como actividad esencial",
+    "marca_actual": [],
+    "texto": "59. Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.\n\n**ES SENTIDO COMÚN**"
+   },
+   {
+    "id": "vox-0077",
+    "partido": "vox",
+    "titular": "Defensa y promoción de la tauromaquia",
+    "marca_actual": [],
+    "texto": "77. Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición."
+   },
+   {
+    "id": "fa-0221",
+    "partido": "fa",
+    "titular": "Derogar la ley que protege la tauromaquia como patrimonio cultural",
+    "marca_actual": [],
+    "texto": "- Derogaremos la Ley 18/2013 que reconoce y protege la tauromaquia como patrimonio cultural."
+   },
+   {
+    "id": "fa-0549",
+    "partido": "fa",
+    "titular": "Acabar con la financiación pública de la tauromaquia",
+    "marca_actual": [],
+    "texto": "Acabar con la financiación pública de la tauromaquia"
+   },
+   {
+    "id": "fa-0550",
+    "partido": "fa",
+    "titular": "Derogar la Ley 18/2013 de protección de la tauromaquia",
+    "marca_actual": [],
+    "texto": "- Derogaremos la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia, como paso imprescindible para acabar con la financiación pública de la tauromaquia, promoviendo a la vez alternativas culturales a los festejos taurinos."
+   },
+   {
+    "id": "fa-0551",
+    "partido": "fa",
+    "titular": "Suprimir las subvenciones estatales directas e indirectas a la tauromaquia",
+    "marca_actual": [],
+    "texto": "- Suprimiremos las subvenciones estatales a la tauromaquia, tanto directas como indirectas, eliminando los fondos públicos por retransmisiones televisivas, cesiones de locales, subvenciones directas procedentes de la PAC e incentivos fiscales destinados a la tauromaquia, festejos taurinos y cría de ganado de lidia."
+   },
+   {
+    "id": "fa-0586",
+    "partido": "fa",
+    "titular": "Cumplir las recomendaciones de la ONU sobre infancia y tauromaquia",
+    "marca_actual": [],
+    "texto": "- Cumpliremos con las recomendaciones de la ONU sobre infancia y tauromaquia."
+   },
+   {
+    "id": "fa-0629",
+    "partido": "fa",
+    "titular": "Vincular la caza y la pesca a la mejora de los recursos",
+    "marca_actual": [],
+    "texto": "- Garantizaremos que la caza y la pesca estén vinculadas a la mejora de los recursos."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sedicion",
+  "pregunta": "¿Recuperar el delito de sedición?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, recuperarlo o endurecer esos delitos"
+   },
+   {
+    "id": "no",
+    "nombre": "No, o despenalizar delitos de opinión"
+   }
+  ],
+  "n": 4,
+  "palabras": 261,
+  "candidatos": [
+   {
+    "id": "pp-0026",
+    "partido": "pp",
+    "titular": "Recuperar los delitos de sedición y de convocatoria de referéndum ilegal",
+    "marca_actual": [],
+    "texto": "**17 DEFENDEREMOS LA UNIDAD DE ESPAÑA Y EL ORDEN CONSTITUCIONAL.** Recuperaremos en el Código Penal el delito de sedición, adaptado a la legislación contemporánea, y el de convocatoria de referéndum ilegal. Las ideas pueden defenderse democráticamente, pero ningún proyecto político está por encima de la ley."
+   },
+   {
+    "id": "vox-0103",
+    "partido": "vox",
+    "titular": "Recuperar la sedición e ilegalizar partidos que atenten contra la unidad",
+    "marca_actual": [],
+    "texto": "103. Respuesta contundente frente a los ataques contra la Unidad Nacional. Recuperar el delito de sedición, agravar el tipo delictivo de la malversación de caudales públicos y prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial. Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial."
+   },
+   {
+    "id": "vox-0105",
+    "partido": "vox",
+    "titular": "Agravar las penas por ofensas y ultrajes a España y sus símbolos",
+    "marca_actual": [],
+    "texto": "105. Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona. Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune."
+   },
+   {
+    "id": "fa-0948",
+    "partido": "fa",
+    "titular": "Derogar los delitos contra los sentimientos religiosos, la Corona y ultrajes a España",
+    "marca_actual": [],
+    "texto": "- Derogaremos los artículos del Código Penal que castigan los delitos contra los sentimientos religiosos o de escarnio público, los delitos contra la Corona, las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus comunidades autónomas o a sus símbolos o emblemas, las injurias al Gobierno de la Nación, al Consejo General del Poder Judicial, al Tribunal Constitucional, al Tribunal Supremo, o al Consejo de Gobierno o al Tribunal Superior de Justicia de una comunidad autónoma y a los Ejércitos, Clases o Cuerpos y Fuerzas de Seguridad y enaltecimiento del terrorismo."
+   }
+  ]
+ },
+ {
+  "eje": "eje-burka",
+  "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, prohibirlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 2,
+  "palabras": 145,
+  "candidatos": [
+   {
+    "id": "pp-0052",
+    "partido": "pp",
+    "titular": "Compromiso de integración para renovar la residencia y prohibir burka y niqab",
+    "marca_actual": [],
+    "texto": "**43 RESIDIR EN ESPAÑA EXIGIRÁ UN COMPROMISO DE INTEGRACIÓN.** Quien quiera renovar su residencia temporal en el régimen general deberá firmar un compromiso de integración. Será obligatorio aprender español, conocer la Constitución y los valores de la Unión Europea y, cuando corresponda, formarse para el empleo. Las administraciones facilitarán ese proceso de integración con formación, orientación y herramientas para hacerlo posible. Su cumplimiento deberá acreditarse para renovar el permiso. La igualdad entre mujeres y hombres y el respeto a la ley se exigirán a todos. Ninguna costumbre ni creencia justificará la subordinación de la mujer ni la discriminación de nadie. Prohibiremos el uso del burka y el niqab en los espacios públicos."
+   },
+   {
+    "id": "vox-0071",
+    "partido": "vox",
+    "titular": "Prohibir el burka y el niqab en todos los espacios públicos",
+    "marca_actual": [],
+    "texto": "71. Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1948 @@
+[
+ {
+  "id": "pcte-0010",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Readmisión obligatoria, a elección del trabajador, ante el despido injustificado",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0011",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Prohibir los despidos colectivos en empresas con beneficios o que repartan dividendos",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0012",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Derecho de las plantillas a paralizar trabajos ante riesgos graves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0013",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Instaurar mecanismos de control obrero sobre las decisiones de la patronal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0014",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Acceso de los representantes de los trabajadores a las cuentas de la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0015",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Ningún cierre o deslocalización como decisión exclusivamente privada; devolver ayudas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0016",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Derecho de información previa y veto suspensivo de la representación de los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0017",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Paso a propiedad estatal con control obrero de empresas viables que cierren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0018",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Propiedad estatal bajo control obrero de energía, transporte y telecomunicaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0019",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Negociar con los trabajadores la introducción de nuevas tecnologías: menos jornada, no menos empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0020",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Política industrial planificada con empresas estatales y orientada a necesidades sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0021",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: la vivienda como fuente de rentas y especulación que absorbe el salario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0022",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir todo desahucio de hogares trabajadores de su vivienda habitual",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0023",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Alternativa digna en el mismo barrio antes de que el propietario recupere la vivienda",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0024",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Prohibir los cortes de agua, electricidad o calefacción a hogares trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0025",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Bajar los alquileres un 50 % y fijar precios máximos ligados a salarios",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0026",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Alquiler social obligatorio de grandes tenedores de no más del 15 % de ingresos",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0027",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Mismas normas para todo alquiler de vivienda habitual, también de temporada y habitaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0028",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Limitar la vivienda turística al 0,5 % de las viviendas de cada localidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0029",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Parque público permanente de vivienda en alquiler de al menos el 10 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0030",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Expropiar sin indemnización las viviendas vacías de bancos, fondos y grandes tenedores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0031",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Precio de los alquileres públicos según los ingresos de los hogares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0032",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Prohibir vender o descalificar cualquier vivienda pública o protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0033",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ninguna ejecución hipotecaria de vivienda habitual y dación en pago a elección del hogar",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0034",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: la privatización convierte necesidades básicas en negocio",
+  "ejes": [],
+  "nota": "SIN ENCAJE: servicios públicos y privatizaciones en general"
+ },
+ {
+  "id": "pcte-0035",
+  "subtema": "san-modelo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Derogar la Ley 15/1997 y prohibir nuevos conciertos en sanidad, educación y servicios sociales",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   },
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0036",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Reforzar la sanidad pública y destinar el 25 % del gasto a atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0037",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Recuperar los servicios externalizados y privatizados mediante gestión pública directa",
+  "ejes": [],
+  "nota": "SIN ENCAJE: servicios públicos y privatizaciones en general"
+ },
+ {
+  "id": "pcte-0038",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Desarrollar capacidades públicas en medicamentos e investigación farmacéutica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0039",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Plantillas públicas suficientes y estables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0040",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Educación exclusivamente pública, integrando los concertados en una red pública única",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0041",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Gratuidad educativa que incluya materiales, transporte, comedor y residencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0042",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Crear una red pública universal de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0043",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Gestión pública directa de los cuidados fundamentales con empleo estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0044",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Fin de los incentivos fiscales a los planes privados de pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0045",
+  "subtema": "trab-empleo",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Paro mientras dure el desempleo y baja médica pagada al 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0046",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Prohibir las subcontratas en diseño de infraestructuras y mantenimiento del transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0047",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Ninguna pensión por debajo del salario mínimo y revalorización con el IPC real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0048",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: la gran distribución y la agroindustria imponen sus condiciones en el campo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0049",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plenos derechos laborales y sindicales para trabajadores del campo y la alimentación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0050",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Capacidades públicas de almacenamiento, transformación y distribución de alimentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0051",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Mismos derechos laborales para trabajadores migrantes y nacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0052",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Bancos públicos de tierras y recuperación de tierras abandonadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0053",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Hacer cumplir la prohibición de comprar por debajo del coste de producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0054",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Acceso colectivo a maquinaria, tecnología, servicios veterinarios y financiación agraria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0055",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Transparencia sobre costes, contratos y márgenes comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0056",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Garantizar un abastecimiento alimentario suficiente y a precios accesibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0057",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Precios máximos para una cesta básica y márgenes máximos a la gran distribución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0058",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Servicios públicos, transporte y vivienda para vivir en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0059",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Diagnóstico: la precariedad juvenil como anticipo para el conjunto de los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0060",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Toda actividad en la empresa, también las prácticas, cotiza desde el primer día",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0061",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reservar un tercio del parque público de alquiler para jóvenes trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0062",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Solo prácticas curriculares y prohibición de las extracurriculares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0063",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Beca-salario equivalente al salario mínimo para estudiantes de familias trabajadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0064",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Fin de las dobles escalas salariales por edad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0065",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Abrir patios y polideportivos escolares y un centro juvenil público por barrio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0066",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir las casas de apuestas, el juego en línea y su publicidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0067",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: la igualdad legal no ha eliminado las desigualdades reales de las trabajadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0068",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Igual salario por el mismo trabajo y por trabajos de igual valor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0069",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Garantizar vivienda, ingresos y atención a las mujeres que sufren violencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0070",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Derecho a pasar a jornada completa para las trabajadoras a tiempo parcial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0071",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Todas las interrupciones del embarazo en hospitales públicos",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0072",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Nulidad y readmisión en todo despido hasta que el hijo cumpla 3 años",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0073",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prohibir la prostitución y el proxenetismo, con alternativas para las mujeres prostituidas",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0074",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "edu-infantil"
+  ],
+  "titular": "Permiso por nacimiento de 52 semanas, igual, intransferible y retribuido al 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0075",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Rechazar la gestación subrogada y perseguir a las agencias que la intermedian",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir la gestación subrogada? → no, rechazarla y perseguir su intermediación"
+ },
+ {
+  "id": "pcte-0076",
+  "subtema": "edu-infantil",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Plaza pública 0-3 y fin de la lista de espera de la dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0077",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cultura y ciencia para la mayoría, no para la rentabilidad ni la guerra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0078",
+  "subtema": "cultura",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Una biblioteca pública en cada barrio y más centros culturales y deportivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0079",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Convenio y cotización en todo trabajo cultural contratado por las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0080",
+  "subtema": "cultura",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Gratuidad de museos y de instalaciones deportivas para menores y desempleados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0081",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Plazas estables para el personal investigador y fin de los contratos encadenados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0082",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Ningún euro de investigación pública para fines militares",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0083",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Diagnóstico: la militarización de la economía y el riesgo de nuevas guerras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0084",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "No al rearme: reducir el gasto militar y anular los Programas Especiales de Modernización",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0085",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Romper los acuerdos de uso de bases por fuerzas militares extranjeras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0086",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reconvertir la industria militar hacia producciones socialmente necesarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0087",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Solidaridad con los pueblos que luchan contra la ocupación y el colonialismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0088",
+  "subtema": "ext-ue",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Salida de España de la OTAN y de la Unión Europea",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permanecer en la UE y en la OTAN? → salir de ambas"
+ },
+ {
+  "id": "pcte-0089",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Embargo militar total a Israel y ruptura de relaciones diplomáticas y comerciales",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Embargo de armas y ruptura de relaciones con Israel? → sí"
+ },
+ {
+  "id": "pcte-0090",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Regreso de las tropas españolas desplegadas en el exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0091",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Reconocer la República Árabe Saharaui Democrática y un referéndum de autodeterminación",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sáhara Occidental: plan de autonomía marroquí o referéndum de autodeterminación? → referéndum y reconocer la RASD"
+ },
+ {
+  "id": "pcte-0092",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Diagnóstico: leyes represivas y reacción para dividir a la clase trabajadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0093",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar la Ley Mordaza y anular las sanciones por huelgas y protestas",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0094",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-regularizacion",
+   "igu-racismo"
+  ],
+  "titular": "Cerrar los CIE y mecanismo permanente de regularización de trabajadores sin papeles",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0095",
+  "subtema": "edu-universidad",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Derogar la Ley de Convivencia Universitaria y no sancionar huelgas estudiantiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0096",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Ilegalizar las organizaciones fascistas y franquistas y disolver sus fundaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0097",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ilegalizar las empresas de desocupación y perseguir los desalojos ilegales",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0098",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar los delitos de injurias a la Corona y ultrajes a símbolos",
+  "ejes": [
+   {
+    "eje": "eje-sedicion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0099",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Prohibir pelotas de goma y tanquetas en protestas e investigar actuaciones policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0100",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Proteger a las personas LGTB frente al despido, el acoso y la discriminación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0101",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "La organización colectiva frente a los obstáculos a la libertad sindical",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0102",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Derecho a elegir representante también en empresas de menos de seis trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0103",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Combatir el racismo y la xenofobia desde la unidad de los trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0104",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Derecho a asamblea en horario laboral: al menos 10 horas retribuidas al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0105",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Nulidad y readmisión obligatoria en despidos por actividad sindical",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0106",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Consultas vinculantes a las plantillas antes de firmar convenios o ERE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0107",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Rendición periódica de cuentas de los representantes ante la asamblea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0108",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Limitar los servicios mínimos abusivos y la ampliación de servicios esenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0109",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un programa para unificar las luchas de la clase trabajadora organizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0110",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "La oposición obrera se construye en los centros de trabajo y los barrios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0111",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Coordinar las luchas dispersas en una red organizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pcte-0112",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo estratégico: disputar el poder a la burguesía y construir el socialismo-comunismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Portada: 100 propuestas para las elecciones generales del 29 de noviembre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Tres pilares: autónomos y comercio local, emprendimiento y sector público eficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0003",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cuota cero de autónomos cuando los ingresos no alcancen el SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0004",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "IVA franquiciado para facturaciones de hasta 85.000 € e IVA de caja obligatorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0005",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Licencia exprés en 24 horas mediante declaración responsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0006",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Equiparar el cese de actividad al paro y bonificar la cuota durante la baja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0007",
+  "subtema": "imp-fraude",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Derecho al error tributario: 15 días para subsanar sin sanción ni recargo",
+  "ejes": [],
+  "nota": "SIN ENCAJE: derechos del contribuyente y relación con Hacienda"
+ },
+ {
+  "id": "autonomos-0008",
+  "subtema": "inst-administracion",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Recortar un 50 % los asesores y cargos de confianza política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0009",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Presupuesto base cero y auditoría anual de chiringuitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0010",
+  "subtema": "inst-administracion",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Dato único digital: prohibido pedir papeles que ya tiene el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0011",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Bonificar el 100 % de la cotización del primer empleado durante un año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0012",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Deducción plena en IRPF e IVA de los gastos afectos al negocio",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0013",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Informe anual a cada contribuyente sobre el destino de sus impuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0014",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Bajar el IVA eléctrico al 10 % para hogares y pequeños negocios",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0015",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Bonificar al 99 % el Impuesto de Sucesiones y Donaciones en toda España",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "suprimir-bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0016",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Exención fiscal en el traspaso de pequeños negocios por jubilación del titular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0017",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA del 4 % para pañales, compresas, tampones y productos básicos de higiene",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0018",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Eliminar la retención del 19 % en el alquiler de locales a autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0019",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Recuperar la deducción estatal en el IRPF por alquiler de vivienda habitual",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0020",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Que la banca asuma al menos el 50 % de gastos notariales de financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0021",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Tarifa notarial y registral máxima de 100 € para constituir sociedades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0022",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Bonificar un 50 % el ICIO en obras de rehabilitación y eficiencia energética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0023",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Rebajar los tipos del IBI y bonificar locales comerciales afectados por obras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0024",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Reducciones en IRPF por planes de pensiones hasta 5.000 € y cuenta ahorro vivienda",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0025",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA del 10 % para peluquerías, estética y gimnasios",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0026",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Umbral único de 22.000 € para declarar la Renta con varios pagadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0027",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Devolución mensual automática del gasóleo profesional a transportistas, taxistas y maquinaria agrícola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0028",
+  "subtema": "imp-irpf",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Rebajar dos puntos las cotizaciones empresariales en empresas de menos de 50 trabajadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0029",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Bonificar al 100 % las cotizaciones en contratos de sustitución por baja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0030",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Bonificar la cuota de autónomos hasta doce meses por cuidado de familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0031",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Derecho a paro y cotización plena para familiares colaboradores del autónomo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0032",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Calcular la pensión del autónomo con sus 25 mejores años cotizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0033",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación anticipada sin penalización con 40 o más años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0034",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Exención en origen del 75 % de la cuota de autónomos en pluriactividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0035",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Líneas ICO directas con 2 años de carencia para emprendedores y pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0036",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Estatuto TRADE flexible sin imposición forzosa de asalarización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0037",
+  "subtema": "trab-empleo",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Oficinas de asesoramiento empresarial en el SEPE para desempleados que emprendan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0038",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Bonificar la contratación indefinida de jóvenes y desempleados mayores de 45 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0039",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Implantar la mochila austriaca de capitalización individual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0040",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Sanciones automáticas por incumplir la Ley de Morosidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0041",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Modelo Preston: dividir contratos públicos en lotes para pymes locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0042",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Que la adjudicataria asuma sobrecostes de obra pública de hasta el 15 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0043",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Plan industrial «Made in Spain» para el retorno de empresas deslocalizadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0044",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Impulsar centros comerciales abiertos y el comercio de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0045",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Convenio marco diferenciado para la pequeña hostelería y comercio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0046",
+  "subtema": "trab-empleo",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Acceso de los autónomos a la formación continua bonificada de FUNDAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0047",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Modernizar mercados municipales y venta ambulante con concesiones a 25 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0048",
+  "subtema": "inst-territorial",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Reformar competencias autonómicas y eliminar duplicidades para garantizar la unidad de mercado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0049",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Que jueces y magistrados elijan a los vocales del CGPJ",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0050",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ampliar a cinco años la incompatibilidad de altos cargos por puertas giratorias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0051",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Suprimir las pensiones y pagas vitalicias de expresidentes, exministros y exparlamentarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0052",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Obligación legal de cumplir el 50 % del programa electoral en 4 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0053",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Eliminar las subvenciones públicas a sindicatos y patronales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0054",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Fin de las subvenciones y la publicidad institucional discrecional a medios privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0055",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Despolitizar RTVE y los entes autonómicos y fijar un techo de gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0056",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Reformar la ley electoral para corregir la sobrerrepresentación de partidos regionalistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0057",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Consultas ciudadanas telemáticas vinculantes en ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0058",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Proyectos modulares tipo para edificios públicos y evitar sobrecostes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0059",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Equiparación salarial total de Policía Nacional y Guardia Civil con las policías autonómicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0060",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Cubrir el 100 % de las vacantes en plantillas de seguridad y emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0061",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Renovar periódicamente chalecos, vehículos y equipamiento de los agentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0062",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Ley contra la ocupación ilegal con desalojo policial en menos de 24 horas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0063",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Ampliar la presunción de legítima defensa en el domicilio y el negocio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0064",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Reformar la Ley del Menor: reparación del daño y trabajos comunitarios por vandalismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0065",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Tutela para todas las víctimas de violencia intrafamiliar y perseguir las denuncias falsas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0066",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Visados de trabajo en origen y arraigo efectivo para acceder a ayudas",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0067",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Expulsar a los delincuentes extranjeros condenados por delitos graves o multirreincidentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0068",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Tarjeta sanitaria única e historia clínica interoperable en toda España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0069",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Deducción del 20 % en el IRPF por gafas, audífonos, ortodoncia y prótesis",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0070",
+  "subtema": "san-profesionales",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Crear el título de FP de celador sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0071",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Ratios mínimos de enfermería y urgencias en todas las residencias de mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0072",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Resolver las solicitudes de dependencia en un máximo de 60 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0073",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Auditar las fundaciones y entidades que gestionan centros de dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0074",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Pacto nacional por una ley única de educación estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0075",
+  "subtema": "edu-fp",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Impulsar la FP dual subvencionando a las pymes que acojan alumnos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0076",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Garantizar el castellano como lengua vehicular en todo el territorio",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "espanol"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0077",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Escuela pública aconfesional y libertad de elección de centro concertado",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0078",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Asignatura obligatoria de primeros auxilios y educación financiera en Secundaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0079",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Protocolo nacional vinculante contra el acoso escolar y el ciberbullying",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0080",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Supervisión judicial y auditoría externa de los centros de menores tutelados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0081",
+  "subtema": "edu-becas",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Gratuidad de transporte, terapias y material para alumnado con necesidades especiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0082",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Red de escuelas infantiles gratuitas de 0 a 3 años y cheques guardería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0083",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Liberar suelo público para alquiler asequible con colaboración público-privada",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0084",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Moratoria y mediación obligatoria ante ejecuciones hipotecarias de familias vulnerables",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0085",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Obligar a bancos y grandes tenedores a pagar las cuotas de comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0086",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Auditoría social del rescate bancario y retorno en obra comunitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0087",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir la publicidad de casas de apuestas y juego online",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0088",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Plan Hidrológico Nacional con interconexión de cuencas, desaladoras y modernización de regadíos",
+  "ejes": [
+   {
+    "eje": "eje-agua",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0089",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Prohibir construir en cauces y zonas inundables y ejecutar obras de drenaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0090",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Hacer cumplir la Ley de la Cadena Alimentaria y prohibir la venta a pérdidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0091",
+  "subtema": "trab-empleo",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Auditar el PER y transformarlo en incentivos a la contratación agraria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0092",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Convocatoria extraordinaria de examinadores de tráfico de la DGT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0093",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Sustituir el sistema CAPA de exámenes de conducir por una planificación flexible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0094",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Prohibir la carga y descarga pesada a conductores y crear áreas de descanso vigiladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0095",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Instalar protecciones para motoristas en todos los guardarraíles de la red viaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0096",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Endurecer las penas por conducir bajo alcohol o drogas y por fuga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0097",
+  "subtema": "animales",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Ley de protección animal que diferencie mascotas de animales de trabajo, caza y ganadería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0098",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Más becas ADO y paralímpicas y apoyo al deporte base e inclusivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0099",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Franjas de deporte base, femenino y paralímpico en medios públicos y más deporte escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0100",
+  "subtema": "ener-modelo",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Transición energética con neutralidad tecnológica y sin cierres prematuros de centrales de respaldo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0101",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Bonificar el 100 % del transporte de mercancías con Baleares, Canarias, Ceuta y Melilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "autonomos-0102",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Oficina Nacional de Simplificación Normativa: una norma nueva, dos derogadas",
+  "ejes": [],
+  "nota": ""
+ }
+]

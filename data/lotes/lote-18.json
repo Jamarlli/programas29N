@@ -1,0 +1,2525 @@
+[
+ {
+  "id": "salf-0001",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así está el Gobierno hoy"
+  ],
+  "texto": "**22** ministerios\n\n**3** vicepresidencias\n\n823 altos cargos y 1.255 asesores. El Gobierno más grande de Europa occidental: Alemania funciona con 16 ministerios; Italia, con 15; Países Bajos, con 12. España tenía 13 en 2018.\n\n| Presidente del Gobierno |\n|---|\n| Economía, Comercio y Empresa (VP 1.ª) |\n| Trabajo y Economía Social (VP 2.ª) |\n| Transición Ecológica y Reto Demográfico (VP 3.ª) |\n| Asuntos Exteriores, UE y Cooperación |\n| Presidencia, Justicia y Relaciones con las Cortes |\n| Defensa |\n| Hacienda |\n| Interior |\n| Transportes y Movilidad Sostenible |\n| Educación, FP y Deportes |\n| Trabajo y Economía Social |\n| Industria y Turismo |\n| Agricultura, Pesca y Alimentación |\n| Política Territorial y Memoria Democrática |\n| Transición Ecológica y Reto Demográfico |\n| Vivienda y Agenda Urbana |\n| Cultura |\n| Economía, Comercio y Empresa |\n| Sanidad |\n| Derechos Sociales, Consumo y Agenda 2030 |\n| Ciencia, Innovación y Universidades |\n| Igualdad |\n| Transformación Digital y Función Pública |\n| Juventud e Infancia |\n| Inclusión, Seguridad Social y Migraciones |"
+ },
+ {
+  "id": "salf-0002",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así está el Gobierno hoy"
+  ],
+  "texto": "| 22 | ministerios |\n|---|---|\n| 3 | vicepresidencias |\n| 35 | secretarías de Estado |\n| 128 | direcciones generales |\n| 823 | altos cargos (+22,7 % desde 2017) |\n| 1.255 | puestos de confianza: 71,2 M€ al año |\n| 452 | entes del sector público estatal |"
+ },
+ {
+  "id": "salf-0003",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "**22 → 10** ministerios\n\n**3 → 1** vicepresidencia\n\nLa mitad de los altos cargos y 400 asesores. Doce ministerios desaparecen el primer día; sus funciones útiles pasan a los diez que quedan."
+ },
+ {
+  "id": "salf-0004",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Vicepresidencia económica: Hacienda, Economía y Empleo"
+ },
+ {
+  "id": "salf-0005",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Presidencia y Administraciones Públicas — Absorbe: Relaciones con las Cortes, Política Territorial, Función Pública y Transformación Digital"
+ },
+ {
+  "id": "salf-0006",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Hacienda, Economía y Empleo — Absorbe: Hacienda; Economía, Comercio y Empresa; Trabajo"
+ },
+ {
+  "id": "salf-0007",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Interior y Justicia — Absorbe: Interior, Justicia y Migraciones"
+ },
+ {
+  "id": "salf-0008",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Defensa — Absorbe: Fuerzas Armadas e industria de defensa"
+ },
+ {
+  "id": "salf-0009",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Asuntos Exteriores — Absorbe: Exteriores, UE y cooperación condicionada"
+ },
+ {
+  "id": "salf-0010",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Sanidad y Seguridad Social — Absorbe: Sanidad; Seguridad Social; Derechos Sociales y Consumo"
+ },
+ {
+  "id": "salf-0011",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Educación, Ciencia y Cultura — Absorbe: Educación y FP; Universidades y Ciencia; Cultura y Deportes; Juventud"
+ },
+ {
+  "id": "salf-0012",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Infraestructuras, Energía e Industria — Absorbe: Transportes; Energía y Medio Ambiente; Industria y Turismo"
+ },
+ {
+  "id": "salf-0013",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Vivienda — Absorbe: Suelo, licencias, Sareb y vivienda en propiedad"
+ },
+ {
+  "id": "salf-0014",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "- Agricultura, Pesca y Alimentación — Absorbe: Campo, mar y mundo rural"
+ },
+ {
+  "id": "salf-0015",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "El Gobierno",
+   "Así estará con SALF"
+  ],
+  "texto": "| 22 → 10 | ministerios |\n|---|---|\n| 3 → 1 | vicepresidencias |\n| 35 → 15 | secretarías de Estado |\n| 128 → 70 | direcciones generales |\n| 823 → 450 | altos cargos |\n| 1.255 → 400 | asesores |\n| 452 → 300 | entes estatales |\n\n**Ahorro directo mínimo de 300 millones de euros.**\n\n> **«Nuestro Gobierno cabe en una mesa.»**"
+ },
+ {
+  "id": "salf-0016",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "1. **Vivienda** — Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas. Eliminación TOTAL de impuestos a la 1.ª vivienda. Democratización total del suelo. Crédito hipotecario para menores de 45 años."
+ },
+ {
+  "id": "salf-0017",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "2. **Seguridad** — Macrocárcel sin tercer grado para corruptos y criminales."
+ },
+ {
+  "id": "salf-0018",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "3. **Impuestos** — Nadie paga IRPF por los primeros 35.000 euros."
+ },
+ {
+  "id": "salf-0019",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "4. **Inmigración** — Solo legal. Expulsión en 48 horas. Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas."
+ },
+ {
+  "id": "salf-0020",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "5. **Pensiones** — Reforma urgente contra el sistema fraudulento actual."
+ },
+ {
+  "id": "salf-0021",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "6. **Sanidad** — Una central de compras. 60 días para operarte. Profesionales pagados como en Europa."
+ },
+ {
+  "id": "salf-0022",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "7. **Corrupción** — Imprescriptible. Sin tercer grado. Devuelves el triple. El que denuncia cobra el 15 %."
+ },
+ {
+  "id": "salf-0023",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "8. **Empleo** — Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos."
+ },
+ {
+  "id": "salf-0024",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "9. **Educación** — Ley de 20 años. Castellano garantizado. El dinero sigue al alumno."
+ },
+ {
+  "id": "salf-0025",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10 compromisos"
+  ],
+  "texto": "10. **Geopolítica** — Referéndum de renegociación europea. Bloqueo comercial a Marruecos si bloquea un puerto español. Hermanos Musulmanes: ley antiterrorista con penas máximas."
+ },
+ {
+  "id": "salf-0026",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "10 compromisos",
+   "Cláusula de penalización"
+  ],
+  "texto": "> **«El castigo por incumplimiento es urgente si queremos limpiar la política española de parásitos y mentirosos.»**\n\nDesde el 1.º día, el 100 % del sueldo público de Alvise Pérez queda bloqueado en una cuenta del Banco de España. En junio de 2030, se comparan las 119 medidas de este contrato electoral con los votos de Alvise en el Congreso de los Diputados: si no llegan al 100 %, ese dinero acumulado se lo queda España. Si SALF no entra en el Gobierno, la multa se aplica igual en base a la actividad de voto en el Congreso. Invitamos al resto de partidos a firmar esta misma cláusula: el que no la firme ya te ha dicho cuánto vale su programa."
+ },
+ {
+  "id": "salf-0027",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "**Tu primera casa, un 35 % más barata. Y el okupa, fuera en 48 horas.**\n\n**> 50 %** más de la mitad del precio de un piso nuevo son impuestos\n\n**755.000** viviendas que faltan en núcleos urbanos de España\n\n**12 meses → 12 semanas** reducción del tiempo máximo para una licencia"
+ },
+ {
+  "id": "salf-0028",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "1. **Tu primera vivienda, un 35 % más barata. Por ley.** Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy. _Coste: ≈ 5.000 M€/año. Lo paga el sobrecoste autonómico._\n - **−35 %** Piso de 300.000 €: 195.000 €"
+ },
+ {
+  "id": "salf-0029",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "2. **El negocio de la casta con tu casa, al descubierto.** La vivienda deja 52.000 millones al año a las administraciones; cada subida del 10 % del precio son 1.200 millones más para ellos. Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos. Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.\n - **52.000M€** al año, de tu casa a sus presupuestos"
+ },
+ {
+  "id": "salf-0030",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "3. **Okupa fuera en 48 horas. Inquiokupa, en 30 días.** Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.\n - **48 h** 14.875 okupaciones en 2025"
+ },
+ {
+  "id": "salf-0031",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "4. **Suelo público gratis y vivienda en propiedad.** Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.\n - **100.000** viviendas en obra en 2030"
+ },
+ {
+  "id": "salf-0032",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "5. **Licencia en un mes o silencio positivo.** Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso. Las reformas no requerirán declaración responsable.\n - **1 mes** 13.000 € menos por vivienda"
+ },
+ {
+  "id": "salf-0033",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "6. **Los fondos pagan el 0 %. Se acabó.** Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.\n - **0 % → 25 %** mismo impuesto que tu panadero"
+ },
+ {
+  "id": "salf-0034",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "7. **Hipoteca joven: el Estado avala tu entrada.** Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal. _Garantía de 2.000 M€; no es gasto._\n - **20 %** de entrada avalada"
+ },
+ {
+  "id": "salf-0035",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "8. **Aval del Estado para que el casero no tenga miedo.** Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso. A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos. _Coste: ≈ 150 M€/año._\n - **12 meses** garantizados al propietario"
+ },
+ {
+  "id": "salf-0036",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "9. **Construir rápido: licencia automática en 15 días.** Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao. Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.\n - **15 días** 150.000 viviendas al año en 2030"
+ },
+ {
+  "id": "salf-0037",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "10. **Eliminación total del IBI.** El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto. Un tributo aberrante no se parchea, se quita. _Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos._\n - **0 €** de IBI, para todos"
+ },
+ {
+  "id": "salf-0038",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "I. Vivienda"
+  ],
+  "texto": "> **«El casero más caro de España se llama Hacienda.»**"
+ },
+ {
+  "id": "salf-0039",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "**El que viola, mata o trafica cumple entero. El que entra en tu casa asume el riesgo.**\n\n**376** asesinatos y 21.659 agresiones sexuales en 2025\n\n**830** multirreincidentes cometen uno de cada tres delitos en Barcelona\n\n**11** jueces por 100.000 habitantes; en Europa, 23"
+ },
+ {
+  "id": "salf-0040",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "1. **Macrocárcel para asesinos, violadores, narcos y corruptos.** Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono. Donde se ha hecho, los homicidios cayeron de 105 a 1 por 100.000 habitantes. _Coste de obra: ≈ 3.000 M€, pagados con lo decomisado al narco y al crimen organizado._\n - **105 → 1** homicidios por 100.000 habitantes donde ya se ha hecho"
+ },
+ {
+  "id": "salf-0041",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "2. **Cumplimiento íntegro.** Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.\n - **0** permisos"
+ },
+ {
+  "id": "salf-0042",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "3. **Agresores sexuales: registro público y castración química.** Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.\n - **+4 %** agresiones sexuales en 2026"
+ },
+ {
+  "id": "salf-0043",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "4. **Extranjero condenado: cumple la pena fuera.** Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos. Después, veto de por vida del acceso a España. _Ahorro: ≈ 500 M€/año. Una plaza aquí cuesta ≈ 80 € al día._\n - **Pena fuera** y veto de por vida del acceso a España"
+ },
+ {
+  "id": "salf-0044",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "5. **Guardia Civil y Policía: el mismo sueldo que un mosso.** Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo. Hoy cobran 7.500 euros menos al año y trabajan 130 horas más.\n - **+7.500 €** al año por agente"
+ },
+ {
+  "id": "salf-0045",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "6. **Plan Estrecho: la Armada contra el narco.** Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico. Cuatro guardias civiles muertos por narcolanchas desde 2024.\n - **180 M€** en medios; lo paga el decomiso"
+ },
+ {
+  "id": "salf-0046",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "7. **La mili voluntaria: 1.600 euros al mes.** De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar. _Coste: ≈ 1.200 M€/año._\n - **30.000** plazas al año"
+ },
+ {
+  "id": "salf-0047",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "8. **La mili: quien sirve a España paga menos impuestos.** Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. _Coste: ≈ 250 M€/año con 30.000 plazas anuales._\n - **50.000 €** libres de IRPF durante diez años para quien haga la mili"
+ },
+ {
+  "id": "salf-0048",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "9. **Justicia en 72 horas.** 2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España. _Coste: ≈ 400 M€/año._\n - **72 h** hoy un juicio penal tarda 225 días"
+ },
+ {
+  "id": "salf-0049",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "10. **Legítima defensa: el que entra en tu casa asume el riesgo.** Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima. Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.\n - **Tu casa** tu derecho"
+ },
+ {
+  "id": "salf-0050",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "11. **Policía judicial blindada.** El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito. Ningún policía vuelve a fichar periodistas por encargo.\n - **Delito** la injerencia política"
+ },
+ {
+  "id": "salf-0051",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "12. **Triplicar la UCO, la UDEF y la UDYCO: 3.000 investigadores más.** La UCO tiene 580 plazas y 3,5 millones de presupuesto propio; la UDEF ha perdido la mitad de sus agentes desde 2022. Resultado: 600 cuentas bancarias y 300 móviles sin analizar, informes con meses de retraso y causas que prescriben por falta de manos. Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio. Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador. _Coste: ≈ 400 M€/año. Lo paga el decomiso al narco y al corrupto._\n - **+3.000** investigadores: UCO, UDEF y UDYCO, por tres"
+ },
+ {
+  "id": "salf-0052",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "13. **Vigilantes de seguridad: protección penal reforzada, como bomberos y sanitarios.** 94.400 vigilantes cobran 1.161 euros de salario base y 24 euros de plus de peligrosidad, y seis de cada diez han sido agredidos. Reforma de la Ley de Seguridad Privada: estatuto de colaborador de la seguridad pública, con la misma protección penal que bomberos y personal sanitario: agredirlos es atentado, sin ser agentes de la autoridad ni invadir una sola competencia de la Policía y la Guardia Civil. Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título oficial de FP y reglamento nuevo en seis meses: el vigente es de 1994.\n - **Atentado** agredir a un vigilante, como a un bombero o a un sanitario"
+ },
+ {
+  "id": "salf-0053",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "14. **Ningún contrato público por debajo del convenio. Jubilación a los 60.** El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla. Plus de peligrosidad de 150 euros en todo contrato público. Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local. _Coste para el Estado: 0. Lo financia la cotización adicional, como en la policía local._\n - **60 años** jubilación con coeficientes reductores"
+ },
+ {
+  "id": "salf-0054",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "II. Seguridad"
+  ],
+  "texto": "> **«Todo para el honrado; cárcel para el delincuente»**"
+ },
+ {
+  "id": "salf-0055",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "**Libertad económica, sin dejar a nadie atrás. Nadie paga IRPF por los primeros 35.000 euros.**\n\n**20 de agosto** Día de la Liberación Fiscal: hasta entonces trabajas para el Estado\n\n**58 €** solo 58 de cada 100 € que te quitan en impuestos llegan a tu bolsillo\n\n**+10 %** de IRPF recaudado en 2025 sin subir un solo tipo"
+ },
+ {
+  "id": "salf-0056",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "1. **35.000 euros libres de IRPF para todos.** Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030. _Coste: ≈ 43.000 M€/año en 2030. Ver 'Cómo se paga'._\n - **+4.400 €** al año para un sueldo de 28.000 €"
+ },
+ {
+  "id": "salf-0057",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "2. **5.000 euros más por cada hijo, para el padre y para la madre.** Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno. El Estado que cobra por tener hijos no puede hablar de natalidad. _Coste: ≈ 5.500 M€/año._\n - **+5.000 €** por hijo, para cada progenitor"
+ },
+ {
+  "id": "salf-0058",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "3. **Fin de la subida de impuestos por inflación.** Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley. La recaudación subió un 10 % en 2025 sin tocar un tipo: eso es una subida encubierta y se acaba.\n - **3.000M€** al año que hoy te quitan sin votarlo"
+ },
+ {
+  "id": "salf-0059",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "4. **Autónomos: eliminación total de la cuota.** Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas. _Coste: ≈ 12.000 M€/año, lo que hoy recauda el RETA._\n - **206 € → 0 €** de cuota, para siempre"
+ },
+ {
+  "id": "salf-0060",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "5. **Sociedades: 20 %. 15 % si reinviertes. 10 % startups.** Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva. _Coste: ≈ 6.000 M€/año._\n - **25 % → 20 %** tipo general"
+ },
+ {
+  "id": "salf-0061",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "6. **Sucesiones, Donaciones y Patrimonio: suprimidos.** Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. _Coste: ≈ 3.500 M€/año._\n - **0 %** no se paga dos veces por el mismo euro"
+ },
+ {
+  "id": "salf-0062",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "7. **Luz y agua al 4 % de IVA para siempre.** La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura. _Coste: ≈ 2.600 M€/año._\n - **21 % → 4 %** en la luz; el agua, del 10 al 4 %"
+ },
+ {
+  "id": "salf-0063",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "8. **Regla de oro: un euro de rebaja, un euro de ahorro certificado.** Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.\n - **38 %** del PIB en impuestos: récord histórico"
+ },
+ {
+  "id": "salf-0064",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "9. **Hacienda demuestra. Tú no pruebas tu inocencia.** Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.\n - **30 días** para liquidar"
+ },
+ {
+  "id": "salf-0065",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "10. **Tres quintos para subir impuestos. Y tu factura fiscal cada año.** Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.\n - **42 €** de cada 100 que cuestas se queda el Estado"
+ },
+ {
+  "id": "salf-0066",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "11. **Financiación autonómica justa, solidaria y responsable. Ni condonaciones ni moneda de cambio.** Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos. Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.\n - **0 €** de condonaciones de deuda entre administraciones, salvo catástrofe"
+ },
+ {
+  "id": "salf-0067",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "12. **Encadenar a los políticos: techo constitucional a los impuestos y a la deuda.** Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.\n - **Delito** superar el techo de impuestos y deuda"
+ },
+ {
+  "id": "salf-0068",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "**EN SALF SOMOS EL ÚNICO PARTIDO FIRME EN LA DEFENSA DEL DERECHO AL DINERO EN EFECTIVO**"
+ },
+ {
+  "id": "salf-0069",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "13. **El efectivo, derecho constitucional.** Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027. Comercios, bancos y administraciones estarán obligados a aceptarlo. El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar. Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.\n - **Sin límite** para pagar en efectivo; hoy, 1.000 €"
+ },
+ {
+  "id": "salf-0070",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "14. **La banca devuelve el rescate: 70.000 millones en 15 años.** El rescate de las cajas ha costado 66.617 millones según el Tribunal de Cuentas; sumando lo que falta por recuperar, los intereses y el agujero de la Sareb, la factura real del contribuyente ronda los 70.000. La banca ha devuelto el 11 %. Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés. No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad. Ganan 20.000 millones al año: pueden. _Ingreso: ≈ 4.700 M€/año, contado en 'Cómo se paga'._\n - **70.000M€** en 15 años: 4.700 millones al año"
+ },
+ {
+  "id": "salf-0071",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos"
+  ],
+  "texto": "> **«Se acabó que vagos y parásitos te roben más de la mitad de tu dinero»**"
+ },
+ {
+  "id": "salf-0072",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos",
+   "Cómo se paga"
+  ],
+  "texto": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos **81.700 millones** de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: **88.500 millones** , incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.\n\n|Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)|**57.000**|\n|---|---|\n|Entes, empresas y fundaciones públicas sin función|**3.000**|\n|Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes|**3.000**|\n|Contratación pública 100 % electrónica y competitiva|**5.000**|\n|Supresión de las diputaciones provinciales|**1.500**|\n|Inmigración: expulsiones efectivas y fin de regularizaciones|**1.000**|\n|Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores|**500**|\n|Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes|**300**|\n|Efectos dinámicos: más empleo, más consumo, menos economía sumergida|**8.000**|\n|Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)|**4.500**|\n|Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)|**4.700**|\n|**TOTAL (millones de euros al año)**|**88.500**|\n|**AHORRO + INGRESOS**|**88.500 M€**|\n|**REBAJA + GASTO**|**81.700 M€**|\n|**A REDUCIR DEUDA**|**6.800 M€**|"
+ },
+ {
+  "id": "salf-0073",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "III. Impuestos",
+   "Cómo se paga"
+  ],
+  "texto": "**Regla de oro.** Un euro de rebaja, un euro de ahorro certificado. Los demás prometen bajar impuestos y suben la deuda; nosotros bajamos impuestos porque antes hemos cerrado el grifo."
+ },
+ {
+  "id": "salf-0074",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "**Solo legal. Expulsión en 48 horas. Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas.**\n\n**10 %** de las órdenes de expulsión se ejecutan: 5.705 de 53.700\n\n**72.000** entradas desde Marruecos en Ceuta en dos días de julio de 2026\n\n**299.732** nacionalidades concedidas en 2025: récord"
+ },
+ {
+  "id": "salf-0075",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "1. **Orden de expulsión = expulsión. En 48 horas.** Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión. _Coste: ≈ 300 M€/año; se recupera en acogida._\n - **10 % → 100 %** de órdenes ejecutadas"
+ },
+ {
+  "id": "salf-0076",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "2. **Fin de las regularizaciones.** Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.\n - **1.174.978** solicitudes en 2026"
+ },
+ {
+  "id": "salf-0077",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "3. **Readmisión o nada.** Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas. Veto español a cualquier acuerdo europeo que no lo exija.\n - **72 h** para readmitir"
+ },
+ {
+  "id": "salf-0078",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "4. **Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas.** Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso. Primero integramos a los que ya están.\n - **7,2 M** extranjeros: el 14,6 % de la población"
+ },
+ {
+  "id": "salf-0079",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "5. **Prioridad hispanoamericana. Nacionalidad que se gana.** Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.\n - **10 años** para ser español"
+ },
+ {
+  "id": "salf-0080",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "6. **Residencia y nacionalidad revocables.** Condena de más de un año: pérdida de la residencia. Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.\n - **> 1 año** de condena = fuera"
+ },
+ {
+  "id": "salf-0081",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "7. **Menores: prueba de edad antes, no después.** Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.\n - **4.400 €** al mes cuesta cada menor"
+ },
+ {
+  "id": "salf-0082",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "8. **Hermanos Musulmanes: ilegalizados. Mezquitas sin dinero extranjero.** Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está. Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.\n - **1.749** mezquitas: registro obligatorio"
+ },
+ {
+  "id": "salf-0083",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "9. **Velo integral prohibido.** Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.\n - **6** países europeos ya lo prohíben"
+ },
+ {
+  "id": "salf-0084",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "10. **Sin papeles, sin ayudas.** Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten. _Ahorro: ≈ 1.000 M€/año._\n - **5 años** cotizando antes de cobrar"
+ },
+ {
+  "id": "salf-0085",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "IV. Inmigración"
+  ],
+  "texto": "> **«Un país sin fronteras es como una casa sin paredes»**"
+ },
+ {
+  "id": "salf-0086",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "**Las de hoy, blindadas. Las de mañana, a tu nombre.**\n\n**40.186 M€** del Estado a la Seguridad Social en ocho meses de 2026\n\n**136.178 M€** de deuda de la Seguridad Social\n\n**13 % → 17 %** del PIB en pensiones en 2050 si nadie hace nada"
+ },
+ {
+  "id": "salf-0087",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "1. **Las pensiones de hoy, blindadas en la Constitución.** Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.\n - **IPC** garantizado por la Constitución"
+ },
+ {
+  "id": "salf-0088",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "2. **El sobre naranja: la verdad por ley.** Cada año recibes tu pensión estimada y el saldo de tu cuenta individual. Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.\n - **1 carta** al año con tu pensión real"
+ },
+ {
+  "id": "salf-0089",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "3. **Sistema mixto: tu cuenta, a tu nombre, heredable.** Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %. El 0,9 % ya lo pagas y hoy va a una hucha común. _Coste de transición: ≈ 6.000 M€/año hasta 2030._\n - **2 %** de tu salario, tuyo para siempre"
+ },
+ {
+  "id": "salf-0090",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "4. **Mochila austriaca.** El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.\n - **1,53 %** que viaja contigo"
+ },
+ {
+  "id": "salf-0091",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "5. **Jubilación activa total.** Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.\n - **40 años** cotizados = libertad"
+ },
+ {
+  "id": "salf-0092",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "6. **Pensión mínima de 1.000 euros con 35 años cotizados.** Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas. _Coste: ≈ 2.000 M€/año._\n - **1.000 €** mínimo con 35 años cotizados"
+ },
+ {
+  "id": "salf-0093",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "7. **Pensiones de políticos: fuera.** Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.\n - **7 ≠ 40** años de escaño no valen 40 de trabajo"
+ },
+ {
+  "id": "salf-0094",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "8. **Fondo de Reserva fuera del Gobierno.** Fondo soberano con gestión profesional independiente y mandato de rentabilidad. Ningún ministro vuelve a usar la hucha para cuadrar un presupuesto.\n - **15.267M€** fuera del alcance de los políticos"
+ },
+ {
+  "id": "salf-0095",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "9. **Autónomos: cotiza por lo que ganas, elige lo que cobrarás.** Libertad de base de cotización. Quien quiera más pensión, cotiza más, sin tramos impuestos.\n - **1.063 €** pensión media de un autónomo; la de un asalariado, 1.735"
+ },
+ {
+  "id": "salf-0096",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "10. **Cuentas claras cada mes.** Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina. La deuda de la Seguridad Social, reconocida y con calendario de pago.\n - **12** informes al año, uno por nómina"
+ },
+ {
+  "id": "salf-0097",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "V. Pensiones"
+  ],
+  "texto": "> **«Estafaron a nuestros abuelos; ahora sus nietos e hijos les pedimos que nos dejen ahorrar y tener un futuro sin ser estafados»**"
+ },
+ {
+  "id": "salf-0098",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "**Una central de compras. 60 días para operarte. Profesionales pagados como en Europa.**\n\n**853.740** personas esperan una operación: 122 días de media\n\n**41.000 M€** en compras sanitarias por 17 centrales distintas\n\n**12,6 M** de españoles pagan un seguro privado además de impuestos"
+ },
+ {
+  "id": "salf-0099",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "1. **Una sola central de compras, no diecisiete.** El 40 % del gasto sanitario son compras: 41.000 millones. Diecisiete servicios compran lo mismo a precios distintos. Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.\n - **6.000 M€** de ahorro al año, para personal"
+ },
+ {
+  "id": "salf-0100",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "2. **60 días para operarte. Si no, donde tú elijas y paga el Sistema.** 60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública. _Coste: ≈ 1.500 M€/año._\n - **60 días** o te operas donde quieras"
+ },
+ {
+  "id": "salf-0101",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "3. **Médicos y profesionales de la salud pagados como en Europa.** Un médico de familia cobra aquí 79.000 euros; en Países Bajos, 135.000. Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día. _Coste: ≈ 5.500 M€/año; lo paga la central de compras._\n - **+20 % / +10 %** médicos / resto de profesionales"
+ },
+ {
+  "id": "salf-0102",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "4. **Una tarjeta, una historia clínica, una receta.** Válidas en toda España. Tu analítica de Sevilla se ve en Bilbao. _Coste: 300 M€, una sola vez._\n - **17 → 1** sistemas informáticos"
+ },
+ {
+  "id": "salf-0103",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "5. **10.000 camas y 1.500 UCI más.** España tiene 2,8 camas por cada 1.000 habitantes; Europa, 5,1. _Inversión: ≈ 3.000 M€ en la legislatura._\n - **+10.000** camas en cuatro años"
+ },
+ {
+  "id": "salf-0104",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "6. **Cita con tu médico en 48 horas.** Si no la hay, consulta privada pagada por el Sistema. Telemedicina para crónicos, enfermería que prescribe y administrativos para que el médico no rellene papeles. _Coste: ≈ 800 M€/año._\n - **48 h** hoy, 10 días"
+ },
+ {
+  "id": "salf-0105",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "7. **La sanidad española es para los españoles.** Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.\n - **0 €** sin facturar a quien debe pagar"
+ },
+ {
+  "id": "salf-0106",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "8. **Medicamentos: precios netos públicos y copago cero para quien no puede.** Subasta nacional de genéricos y biosimilares. Copago cero para pensiones mínimas y enfermos crónicos. _Coste: ≈ 200 M€/año._\n - **0 €** de copago para quien no puede"
+ },
+ {
+  "id": "salf-0107",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "9. **Medicamentos gratis para los niños menores de 3 años.** Copago cero en farmacia para todos los menores de 3 años, en toda España. Hoy, en muchas comunidades, la gratuidad se acaba al cumplir un año. Un niño enfermo no es un hecho imponible. _Coste: ≈ 30 M€/año._\n - **0 €** de copago en farmacia hasta los 3 años"
+ },
+ {
+  "id": "salf-0108",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "10. **Salud mental sin lista de espera.** Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días. _Coste: ≈ 500 M€/año._\n - **15 días** máximo"
+ },
+ {
+  "id": "salf-0109",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "11. **Gerentes por concurso, no por carné.** Dirección de hospitales por méritos con mandato de cinco años. Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.\n - **100 %** de los datos de tu hospital, públicos"
+ },
+ {
+  "id": "salf-0110",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "12. **Test de paternidad gratuito e inmediato en el hospital.** Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores. _Coste: ≈ 30 M€/año._\n - **0 €** y al nacer, salvo renuncia expresa de los dos progenitores"
+ },
+ {
+  "id": "salf-0111",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VI. Sanidad"
+  ],
+  "texto": "> **«Con lo que se pierde comprando se pagan los médicos.»**"
+ },
+ {
+  "id": "salf-0112",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "**Imprescriptible. Sin tercer grado. Devuelves el triple. El que denuncia cobra el 15 %.**\n\n**234** indultos a condenados por corrupción desde 1996\n\n**17.621** aforados en España; en Alemania, Francia o Italia, cero\n\n**47.500 M€** al año de sobrecoste en contratos públicos sin competencia"
+ },
+ {
+  "id": "salf-0113",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "1. **La corrupción no prescribe.** Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar.\n - no hay reloj para el corrupto"
+ },
+ {
+  "id": "salf-0114",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "**Modelo de macrocárcel SALF.** Régimen cerrado de máxima seguridad para asesinos, violadores, narcos y corruptos: sin permisos, sin tercer grado, sin piscinas ni gimnasios. Cero ocio y 100 % trabajo, compensación del daño causado y reinserción obligatoria."
+ },
+ {
+  "id": "salf-0115",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "2. **Sin tercer grado, sin indulto, sin permisos.** Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto. El poder no puede perdonar a los que robaron para el poder.\n - **0** indultos por corrupción"
+ },
+ {
+  "id": "salf-0116",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "3. **Amnistías prohibidas en la Constitución. Indultos, nunca por política.** Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.\n - **0** amnistías: prohibidas en la Constitución"
+ },
+ {
+  "id": "salf-0117",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "4. **Devuelves el triple o no sales.** Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir. El funcionario condenado pierde la plaza para siempre; la empresa corruptora, quince años sin contratar con el Estado.\n - **×3** de lo robado"
+ },
+ {
+  "id": "salf-0118",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "5. **El que denuncia cobra el 15 %.** El 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.\n - **15 %** para quien la destapa"
+ },
+ {
+  "id": "salf-0119",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "6. **Fiscal General independiente.** Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura. El último nombrado por el Gobierno acabó condenado por el Supremo.\n - **3/5** del Congreso, no un ministro"
+ },
+ {
+  "id": "salf-0120",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "7. **Anticorrupción con 100 fiscales. Vigilancia Aduanera y SEPBLAC al completo.** La Fiscalía Anticorrupción tiene 29 fiscales y 31 funcionarios para toda España; la Antidroga, 15; Vigilancia Aduanera tiene el 54 % de sus plazas sin cubrir y el SEPBLAC recibió un 76 % más de alertas con la misma plantilla. Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40; Vigilancia Aduanera cubre todas sus vacantes en dos años y el SEPBLAC duplica su plantilla. Presupuesto propio por ley, fuera del alcance del ministro. _Coste: ≈ 120 M€/año, dentro del fondo de 400 M€ de la UCO, la UDEF y la UDYCO._\n - **29 → 100** fiscales anticorrupción"
+ },
+ {
+  "id": "salf-0121",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "8. **Fuera el Tribunal Constitucional: el control pasa a una sala del Supremo elegida por los jueces.** Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo. Su composición vendrá determinada por criterios estrictamente excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.\n - **0** políticos eligiendo a quien juzga sus leyes"
+ },
+ {
+  "id": "salf-0122",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "9. **Jueces independientes: CGPJ sin políticos y cárcel para quien dé instrucciones a un juez.** Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo. Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones. Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.\n - **Delito** dar o recibir instrucciones a un juez"
+ },
+ {
+  "id": "salf-0123",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "10. **Acción popular blindada en la Constitución.** La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad. Nadie volverá a cerrar la puerta de los tribunales a quien denuncia a un corrupto.\n - **Art. 125** la acción popular, blindada en la Constitución"
+ },
+ {
+  "id": "salf-0124",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "11. **Fin de los aforamientos.** Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.\n - **17.621 → 0** aforados"
+ },
+ {
+  "id": "salf-0125",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "12. **Puertas giratorias cerradas, también hacia los órganos de control.** Cinco años de incompatibilidad para pasar a empresas reguladas y cinco para que un exministro o dirigente de partido presida el Poder Judicial, la sala constitucional del Supremo, el Banco de España, la CNMC o el Defensor del Pueblo.\n - **5 años** de cuarentena"
+ },
+ {
+  "id": "salf-0126",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "13. **Contratación pública: todo electrónico, todo público.** Plataforma única, subasta inversa y precios de referencia en tiempo real. Toda emergencia auditada en 30 días y publicada íntegra en 24 horas con los beneficiarios reales.\n - **5.000M€** de ahorro al año"
+ },
+ {
+  "id": "salf-0127",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "14. **Todo gasto mayor de 1.000 euros, publicado en 24 horas.** Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos. Hoy: 1.255 puestos de confianza en el Gobierno.\n - **24 h** para publicar cada euro"
+ },
+ {
+  "id": "salf-0128",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "15. **15 años y a casa.** Límite de 15 años en cargos públicos remunerados. Fuera el Senado, el Consejo de Estado, los Consejos Económicos y Sociales, la publicidad institucional y las subvenciones a sindicatos y patronal. Partidos: 50 % menos. Asesores: de 1.255 a 400.\n - **15 años** y a trabajar como todo el mundo"
+ },
+ {
+  "id": "salf-0129",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VII. Corrupción"
+  ],
+  "texto": "> **«La peor y más corrosiva corrupción es, a día de hoy, legal»**"
+ },
+ {
+  "id": "salf-0130",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "**Trabajar tiene que salir a cuenta.**\n\n**2,59 M** parados; uno de cada cinco jóvenes\n\n**41,4 %** de cuña fiscal; media europea, 35 %\n\n**1,6 M** ausencias al trabajo cada día: 59.000 M€ al año"
+ },
+ {
+  "id": "salf-0131",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "1. **Cuña fiscal del 41 al 29 %.** Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. _Coste: ≈ 2.600 M€/año._\n - **+80 €** netos al mes en el salario mínimo"
+ },
+ {
+  "id": "salf-0132",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "2. **Contrato único con mochila.** Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.\n - **1** contrato para todos"
+ },
+ {
+  "id": "salf-0133",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "3. **Autónomos: cuota cero, IVA de caja, una ventanilla.** Cuota cero, total y para siempre. Licencia de actividad en 24 horas por declaración responsable.\n - **24 h** para abrir un negocio"
+ },
+ {
+  "id": "salf-0134",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "4. **Absentismo: se acabó el escaqueo.** Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas. Protección total al enfermo de verdad, que es la primera víctima del que finge. _Ahorro: ≈ 2.000 M€/año._\n - **59.000M€** al año cuesta el absentismo"
+ },
+ {
+  "id": "salf-0135",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "5. **Aprendiz pagado, no becario gratis.** FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50. _Coste: ≈ 1.500 M€/año._\n - **0 €** de cotización por contratar a un joven"
+ },
+ {
+  "id": "salf-0136",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "6. **Una norma entra, dos salen.** Por cada regulación nueva que afecte a empresas, dos derogadas. Unidad de mercado real: lo que vale en una comunidad vale en todas.\n - **1 → −2** normas"
+ },
+ {
+  "id": "salf-0137",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "7. **Protección al trabajador sin encarecer su contratación.** Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros. Indemnización garantizada por la mochila aunque la empresa quiebre, salario asegurado por un fondo público de impago y persecución real de los falsos autónomos. Proteger al trabajador no puede ser un impuesto a contratarlo. _Coste: ≈ 3.000 M€/año; lo compensa la reducción del absentismo._\n - **Día 1** la baja la paga la Seguridad Social, no tu jefe"
+ },
+ {
+  "id": "salf-0138",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "8. **El paro de verdad: el fijo discontinuo cuenta como parado cuando no trabaja.** Los fijos discontinuos se usan para reducir falsamente las cifras del paro: 640.900 personas sin actividad que no aparecen como paradas. Un fijo discontinuo cuenta como trabajador solo cuando trabaja; el resto del tiempo, como lo que es: un parado. Se acabó la trampa estadística.\n - **640.900** fijos discontinuos sin actividad que hoy no cuentan como parados"
+ },
+ {
+  "id": "salf-0139",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "9. **Oposiciones a ciegas.** Todas las oposiciones y concursos 100 % anónimos y digitales, con tribunales sorteados y grabados. Mérito, no carné.\n - **0** enchufes"
+ },
+ {
+  "id": "salf-0140",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "10. **Trabajar siempre deja más que la ayuda.** Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno. Sin dejar a nadie atrás, sin dejar a nadie en el sofá. _Coste neto: ≈ 0._\n - **50 cts** por euro ganado, no 1 €"
+ },
+ {
+  "id": "salf-0141",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "VIII. Empleo"
+  ],
+  "texto": "> **«Trabajar tiene que salir a cuenta.»**"
+ },
+ {
+  "id": "salf-0142",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "**El Estado no es dueño de tus hijos.**\n\n**−16 / −23 / −8** puntos en matemáticas, lectura y ciencias desde 2022\n\n**12,8 %** de abandono escolar: tercero peor de Europa\n\n**3.000** familias en los juzgados para estudiar en español"
+ },
+ {
+  "id": "salf-0143",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "1. **Una ley para 20 años.** Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.\n - **8** leyes educativas en 45 años: se acabó"
+ },
+ {
+  "id": "salf-0144",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "2. **Castellano garantizado, sin ir a juicio.** Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.\n - **0** pleitos para estudiar en tu lengua"
+ },
+ {
+  "id": "salf-0145",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "3. **MIR docente.** Dos años de prácticas remuneradas con tutor y examen nacional de acceso. El mejor profesor de España enseña donde quiera. _Coste: ≈ 400 M€/año._\n - **2 años** de prácticas pagadas"
+ },
+ {
+  "id": "salf-0146",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "4. **El profesor es autoridad pública. Y cobra como tal.** Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar. _Coste: ≈ 2.500 M€/año._\n - **+10 %** de sueldo"
+ },
+ {
+  "id": "salf-0147",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "5. **FP desde los 15 y un tutor para cada alumno en riesgo.** Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.\n - **12,8 → 9 %** de abandono escolar"
+ },
+ {
+  "id": "salf-0148",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "6. **El dinero sigue al alumno.** Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.\n - **8.293 €** por alumno: que lo decida la familia"
+ },
+ {
+  "id": "salf-0149",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "7. **Despolitización de la educación.** Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno. Neutralidad ideológica obligatoria en el aula, prohibición de propaganda de partidos y sindicatos en horario lectivo, libros de texto revisados por académicos, inspección y sanción. El aula es para enseñar, no para reclutar.\n - **0** política en el aula"
+ },
+ {
+  "id": "salf-0150",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "8. **Historia de España común y educación económica.** El mismo temario de Historia en toda España. Economía y Constitución obligatorias en Secundaria: qué es un impuesto, una hipoteca, una pensión.\n - **1** temario de Historia para toda España"
+ },
+ {
+  "id": "salf-0151",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "9. **Beca-salario de 2.000 euros para FP superior con déficit.** Industria, construcción, energía, sanidad, digital. Universidades financiadas en parte por la inserción laboral de sus titulados. _Coste: ≈ 400 M€/año._\n - **2.000 €** al año"
+ },
+ {
+  "id": "salf-0152",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "10. **Inglés real.** 5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil. _Coste: ≈ 250 M€/año._\n - **B2** garantizado al acabar Bachillerato"
+ },
+ {
+  "id": "salf-0153",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "IX. Educación"
+  ],
+  "texto": "> **«El Estado no es dueño de tus hijos.»**"
+ },
+ {
+  "id": "salf-0154",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "**España primero. Ni Bruselas, ni Rabat, ni los Hermanos Musulmanes deciden por los españoles.**\n\n**18.098 M€** aporta España al presupuesto de la UE en 2026\n\n**22.757 M€** de comercio con Marruecos: España es su primer socio europeo\n\n**381** eurodiputados pidieron en octubre de 2026 estudiar la lista terrorista para los Hermanos Musulmanes"
+ },
+ {
+  "id": "salf-0155",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "1. **Referéndum de renegociación europea; y de salida, si Bruselas se niega.** Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.\n - **18.098M€** aporta España a la UE en 2026"
+ },
+ {
+  "id": "salf-0156",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "2. **Veto a Mercosur, al recorte de la PAC y al Pacto Verde.** Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.\n - **−877 M€** al año para el campo español con el recorte de la PAC"
+ },
+ {
+  "id": "salf-0157",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "3. **Guerra a los Hermanos Musulmanes: ley antiterrorista con penas máximas.** Son la organización responsable del terrorismo en Europa. Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica. Egipto, Arabia Saudí, Emiratos y Jordania ya los prohíben; Estados Unidos los designa terroristas y el Parlamento Europeo pidió en octubre estudiar su inclusión en la lista terrorista.\n - **Penas máximas** de la ley antiterrorista por pertenecer"
+ },
+ {
+  "id": "salf-0158",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "4. **Marruecos: bloqueo comercial total si bloquea un solo puerto español.** Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español. Reivindicación de los territorios del Rif si el Parlamento marroquí no rechaza la exigencia de soberanía sobre Ceuta, Melilla, las Islas Canarias y cualquier otro territorio español. Bloqueo comercial total si Marruecos utiliza la inmigración como ataque híbrido en nuestra frontera sur. Denuncia internacional del soporte marroquí a las estructuras del narcotráfico activas en España.\n - **22.757M€** de comercio bilateral: a Rabat le cuesta más que a nosotros"
+ },
+ {
+  "id": "salf-0159",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "5. **Ceuta y Melilla, plaza franca: 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones. Para siempre.** Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. _Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 de cotizaciones): menos de lo que España regala en ayuda exterior en un mes._\n - **0 %** IRPF, Sociedades y cotizaciones en Ceuta y Melilla"
+ },
+ {
+  "id": "salf-0160",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "6. **Canarias: 1.000 euros menos de IRPF por vivir en las islas. Y la ZEC al 0 %.** Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios. Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas. Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas. La distancia a la Península no puede ser también una factura fiscal. _Coste: ≈ 880 M€/año (870 de IRPF, 11 de la ZEC)._\n - **−1.000 €** de IRPF al año por residir en Canarias"
+ },
+ {
+  "id": "salf-0161",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "7. **Escudo del Estrecho y del Atlántico: 5.000 militares más en Ceuta y Melilla; antiaérea y antidrón en cada isla.** El 30 de julio de 2026 había 243 guardias civiles en Ceuta frente a 27.550 entradas en un solo día. Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote. Doctrina pública y escrita: toda agresión a Ceuta, Melilla o Canarias se responde con toda la fuerza del Estado. _Coste: ≈ 500 M€/año, dentro del 2 % del PIB de Defensa._\n - **+5.000** militares en Ceuta y Melilla; +1.000 guardias civiles"
+ },
+ {
+  "id": "salf-0162",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "8. **Quien defiende Canarias, Ceuta y Melilla cobra el doble de plus de residencia, libre de IRPF.** La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. _Coste: ≈ 150 M€/año._\n - **×2** plus de residencia, libre de IRPF"
+ },
+ {
+  "id": "salf-0163",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "9. **Gibraltar: la soberanía, sobre la mesa.** El tratado de 2026 abre la Verja sin tocar la soberanía ni el privilegio fiscal: sociedades al 15 % y contrabando de tabaco a diario. 15.509 trabajadores cruzan cada día, 10.859 españoles. Negociación bilateral con Londres con la cosoberanía como primer paso y fin del paraíso fiscal, como pide la ONU desde 1965.\n - **15.509** trabajadores cruzan cada día; 10.859 son españoles"
+ },
+ {
+  "id": "salf-0164",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "10. **Sáhara: se retira la carta de Sánchez. Argelia: socio recuperado.** El giro unilateral de 2022 a favor de Rabat costó 32 meses de bloqueo argelino: las exportaciones cayeron de 2.900 a 332 millones. Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.\n - **2.900 → 332 M€** exportaciones a Argelia tras el giro de 2022"
+ },
+ {
+  "id": "salf-0165",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "11. **Hispanoamérica, primero: Comunidad Hispánica de naciones.** Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente. 2,4 millones de hispanoamericanos viven aquí: un activo, no un problema.\n - **2,4 M** hispanoamericanos residentes en España"
+ },
+ {
+  "id": "salf-0166",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "12. **Defensa: el 2 % se gasta en España y en sus militares.** 33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos. Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito. _Coste: ≈ 1.200 M€/año en retribuciones, dentro del 2 % del PIB._\n - **1.300 €** netos cobra hoy un soldado; a los 45, a la calle con 600"
+ },
+ {
+  "id": "salf-0167",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "13. **Registro de agentes extranjeros y cero dinero foráneo en política.** Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito. Prohibida la financiación extranjera de partidos, fundaciones políticas, medios y ONG que hagan política. El CNI contabilizó 108 actuaciones de espionaje extranjero en 2025 y España no tiene registro: lo tendrá.\n - **108** operaciones de espionaje extranjero detectadas en 2025"
+ },
+ {
+  "id": "salf-0168",
+  "partido": "salf",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "14. **Ayuda exterior: ni un euro sin readmisión ni respeto a España.** 4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo. La ayuda es una herramienta, no una limosna. _Ahorro: ≈ 4.500 M€/año, ya contado en 'Cómo se paga'._\n - **4.550 M€** al año de ayuda al desarrollo: se condiciona"
+ },
+ {
+  "id": "salf-0169",
+  "partido": "salf",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "X. Geopolítica"
+  ],
+  "texto": "> **«La política más importante en España ante una partitocracia secuestrada por poderes extranjeros debe ser su capacidad de defensa ante tales agresiones externas»**"
+ },
+ {
+  "id": "mundo-0001",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda"
+  ],
+  "texto": "Te interesa si te importa: Inclusión social · Jóvenes · Familias e infancia\n\n_Para M+J la vivienda es un derecho humano y una condición necesaria para desarrollar una vida digna, autónoma y en comunidad, y nunca un activo financiero ni un instrumento de acumulación patrimonial._"
+ },
+ {
+  "id": "mundo-0002",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Objetivos"
+  ],
+  "texto": "Garantizar este derecho requiere una responsabilidad compartida de toda la sociedad y políticas públicas ambiciosas, sostenibles y justas, que sitúen las necesidades de las personas y el bien común en el centro de las decisiones."
+ },
+ {
+  "id": "mundo-0003",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Objetivos"
+  ],
+  "texto": "Para avanzar en este compromiso, nuestro programa de vivienda tiene los siguientes objetivos:\n - Garantizar que todas las personas puedan acceder a una vivienda digna, estable y asequible, sin que su coste les impida cubrir otras necesidades básicas.\n - Crear un parque público y social de vivienda amplio, permanente y sostenible, que proteja a las generaciones presentes y futuras.\n - Reducir los precios abusivos del alquiler y la especulación inmobiliaria, dando prioridad a la función social de la vivienda frente a su utilización como activo exclusivamente financiero.\n - Aumentar la oferta de vivienda disponible, aprovechando los inmuebles vacíos, rehabilitando edificios existentes y promoviendo nuevas viviendas asequibles.\n - Proteger a las personas inquilinas y ofrecer seguridad jurídica y garantías justas a las y los pequeños propietarios, favoreciendo relaciones de alquiler estables y equilibradas.\n - Construir ciudades y pueblos más habitables, inclusivos y sostenibles, donde todas las personas puedan desarrollar su proyecto de vida sin verse expulsadas de sus barrios.\n - Erradicar progresivamente el sinhogarismo, situando el acceso a una vivienda estable como punto de partida para la inclusión y la autonomía personal.\n - Evitar que ninguna persona o familia vulnerable se quede sin hogar como consecuencia de un desahucio, garantizando alternativas habitacionales adecuadas y una intervención pública preventiva."
+ },
+ {
+  "id": "mundo-0004",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Objetivos"
+  ],
+  "texto": "En definitiva, queremos que tener un hogar deje de depender de la suerte, del lugar donde nacemos o del patrimonio de nuestra familia. Que ninguna persona tenga que elegir entre pagar su vivienda, alimentarse o vivir con dignidad."
+ },
+ {
+  "id": "mundo-0005",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "1. **Crear un gran parque público de vivienda asequible en alquiler.**\nIncrementar sustancialmente el parque de vivienda social que permanecerá, bajo algún tipo de control público o social, destinado al alquiler.\nLas personas inquilinas de estas viviendas pagarán un alquiler en función de su renta, que se revisará anualmente adecuándolo a las condiciones económicas en ese momento, ya sea al alza o a la baja, y que nunca superaría el 30% de la renta familiar.\nObjetivo 5% (desde el 1,1% actual): alcanzar al menos 1,35 millones de viviendas sociales y asequibles de carácter permanente en 2030, como primera etapa hacia un parque social del 10% durante la década siguiente."
+ },
+ {
+  "id": "mundo-0006",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "**El esfuerzo en cifras**\n\n**Hoja de ruta del parque público y social de vivienda**\n\n**1,1 %** → **5 %** del parque de vivienda en 2030\n\n**1,35 M** viviendas sociales y asequibles permanentes\n\n≤ **30 %** de la renta familiar como alquiler máximo\n\n**× 12–18** la aportación estatal anual actual\n\n_Porcentaje del parque de vivienda en alquiler social y asequible por horizonte, con el esfuerzo presupuestario estatal recomendado._\n\n|**OBJETIVO**|**HORIZONTE**|**ESFUERZO PRESUPUESTARIO ESTATAL RECOMENDADO**|\n|---|---|---|\n|5 %|2030|10–15.000 M€/año|\n|10 %|2035|8–12.000 M€/año|\n|15 %|2040-45|6–10.000 M€/año|\n|20 %|largo plazo|progresivamente mediante reinversión y financiación|\n\nCuanto mayor sea el parque público, menor necesidad habrá de financiarlo exclusivamente con impuestos: las rentas sociales generan ingresos recurrentes.\n\n(Actualmente el Plan Estatal de Vivienda 2026-2030 moviliza 7.000 M€ en cinco años, de los cuales 4.200 M€ son estatales. Esta propuesta de 10.000–15.000 M€ estatales/año supondría aproximadamente 12–18 veces la aportación estatal media anual del actual Plan Estatal de Vivienda. Eso supondría un cambio de escala en la política española de vivienda).\n\n**Esfuerzo presupuestario estatal anual**\n\n_Aportación estatal media del Plan Estatal 2026-2030 (4.200 M€ en cinco años) frente a la propuesta de M+J._"
+ },
+ {
+  "id": "mundo-0007",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "2. **Garantizar el carácter público y permanente de la vivienda protegida.**\n - Toda vivienda protegida mantendrá esa calificación de forma permanente. Su precio máximo de venta se actualizará según el Índice de Precios de Consumo (IPC), desvinculado de las fluctuaciones del mercado inmobiliario, y lo determinará y supervisará la Administración competente.\n - La Administración tendrá derecho de tanteo y retracto en cada venta de una vivienda protegida, de modo que pueda adquirirla o facilitar su transmisión a otra persona demandante, garantizando que siga destinada a vivienda protegida.\n - Prohibiremos la venta, cesión o transferencia de viviendas públicas en alquiler a empresas privadas, bajo cualquier fórmula jurídica, garantizando su permanencia en el patrimonio público y su destino al alquiler social y asequible."
+ },
+ {
+  "id": "mundo-0008",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "3. **Movilizar el suelo e inmuebles públicos.**\n - Priorizar la construcción de vivienda social y asequible y la rehabilitación de edificios públicos para habilitarlos como viviendas facilitando el cambio de uso.\n - Inventariar los edificios públicos infrautilizados, en especial los de gran tamaño situados en las zonas más céntricas de las ciudades, y destinar a vivienda social y asequible los que no sean imprescindibles para prestar un servicio público, aplicando criterios de austeridad y eficiencia en el uso del patrimonio público.\n - Prohibir la venta de suelo público, y la monetización de los aprovechamientos urbanísticos, acompañándolo de una financiación extraordinaria a los Ayuntamientos.\n - Fijar reservas de suelo real y derecho de Tanteo y Retracto para suelo e inmuebles públicos para el tercer sector.\n - Controlar y auditar valoraciones de edificios públicos, e inversiones en activos inmobiliarios públicos que pueden estar interviniendo en el valor del activo inmobiliario privado."
+ },
+ {
+  "id": "mundo-0009",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "4. **Regular los alquileres privados.**\n - Establecer un alquiler de referencia y limitar el precio en función de las características y localización de la vivienda.\n - Crear un organismo independiente que permita el control y la denuncia por el incumplimiento del cobro de los precios de alquiler de referencia marcados por la Administración.\n - Los contratos de alquiler de vivienda habitual serán indefinidos y sólo podrán terminar por necesidad acreditada de la vivienda para la persona propietaria o sus familiares directos, o por incumplimiento de la persona inquilina. La venta de la vivienda no extinguirá el contrato, y la persona inquilina tendrá derecho preferente de compra."
+ },
+ {
+  "id": "mundo-0010",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "5. **Garantías para las pequeñas propietarias.**\nProteger a las personas inquilinas es compatible con dar seguridad a quienes alquilan una o dos viviendas como personas físicas. Para ellas proponemos:\n - Incentivar, mediante medidas fiscales, el alquiler social, tanto para la persona propietaria como para la persona inquilina, y establecer mecanismos que diferencien estas medidas entre grandes y pequeñas propietarias, evitando el perjuicio desproporcionado de estas últimas.\n - Crear un seguro público de alquiler, garantizado por la Administración, que cubra los impagos y los desperfectos a las personas físicas propietarias que alquilen su vivienda a un precio igual o inferior al de referencia.\n - Ofrecer incentivos y garantías públicas a las personas propietarias que pongan en el mercado de alquiler sus viviendas vacías (medida 7).\n - Evitar que el coste de una política de protección frente a los desahucios recaiga injustamente sobre pequeñas propietarias. Establecer mecanismos públicos de compensación cuando la persona propietaria sea una persona física que dependa significativamente de la renta para su subsistencia."
+ },
+ {
+  "id": "mundo-0011",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "6. **Facilitar la construcción.**\n - Simplificar los trámites, la burocracia y la normativa, flexibilizando las condiciones del CTE (Código Técnico de la Edificación) siempre que quede asegurada la habitabilidad y la calidad.\n - Establecer convenios de colaboración con los colegios profesionales para facilitar la aplicación del punto anterior.\n - Crear un registro de empresas promotoras/constructoras, acreditadas, colaboradoras de la Administración, para el desarrollo de vivienda pública.\n - Bonificar la promoción de vivienda pública, desarrollada por promotoras privadas, asegurando el beneficio por parte de la Administración sin la preocupación de las ventas o los alquileres."
+ },
+ {
+  "id": "mundo-0012",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "7. **Recuperar vivienda existente.**\n - Poner en el mercado la vivienda vacía (incentivando, y con garantías públicas, a las personas propietarias que las movilicen y penalizando con medidas fiscalmente proporcionadas a quien no las ponga en el mercado de alquiler o venta).\n - Propiciar la recuperación y puesta en el mercado de edificios infrautilizados y fomentar la transformación de usos.\n - Crear un censo de viviendas vacías y una relación de demandantes de vivienda.\n - Disponer una línea de financiación favorable para la rehabilitación de viviendas o edificios siempre que se asegure su vinculación final a un uso social de la vivienda.\n - Incentivar la rehabilitación, la colmatación de la edificabilidad en edificios existentes y el desarrollo de solares en los cascos urbanos, frente al desarrollo de nuevos sectores."
+ },
+ {
+  "id": "mundo-0013",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "8. **Frenar la especulación y los usos que expulsan vivienda residencial.**\n - Establecer un régimen impositivo exponencial al número de compras de viviendas, ya sean de particulares o sociedades, y limitar mediante fiscalidades extraordinarias la acumulación de vivienda bajo una misma propiedad, especialmente vivienda turística.\n - Investigar la titularidad de las sociedades para evitar eludir la fiscalidad correspondiente y el uso de sociedades pantalla e interpuestas.\n - Establecer un régimen impositivo especial en la compra o el alquiler de viviendas con precios por encima de un límite establecido, para las personas extranjeras."
+ },
+ {
+  "id": "mundo-0014",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "9. **Agencia Pública de Información y Protección de la persona inquilina.**\nCrear una herramienta nacional, coordinada con Comunidades Autónomas y municipios, que permita a cualquier persona conocer gratuitamente: alquiler medio de su zona, alquiler de referencia, precio máximo legal cuando exista regulación, derechos de la persona inquilina, ayudas disponibles, condiciones de su contrato, vías de reclamación. Y, sobre todo: que denunciar un alquiler ilegal o abusivo no obligue a la ciudadanía a convertirse en personas expertas jurídicas."
+ },
+ {
+  "id": "mundo-0015",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "10. **Vivienda y urbanismo deben formar parte de la misma política.**\n - Las ciudades deben privilegiar tejidos urbanos donde la proximidad y la habitabilidad reduzcan las necesidades de movilidad.\n - Preservar el comercio de proximidad y evitar procesos de sustitución comercial que deterioren la diversidad económica y social, incluso limitando la implantación de comercios gentrificantes en determinadas zonas.\n - Recuperar el espacio público para crear sociedad.\n - En los nuevos desarrollos urbanísticos, garantizar su desarrollo en un plazo determinado, de modo que, si éste no se cumple, sea la Administración quien pueda desarrollar las parcelas que no lo han hecho, destinándolas a la ejecución de vivienda pública, únicamente justificando el incumplimiento del plazo, adquiriéndolas a la propiedad por el valor del suelo según su derecho."
+ },
+ {
+  "id": "mundo-0016",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Medidas"
+  ],
+  "texto": "11. **Protección frente a los desahucios.**\n - Suspender la ejecución de los desahucios cuando la persona o familia se encuentre acreditádamente en situación de vulnerabilidad económica, o de cualquier otro tipo y/o carezca de alternativa habitacional adecuada. El lanzamiento no podrá ejecutarse hasta que exista una solución habitacional efectiva avalada por la Administración o entidad social competente.\n - Crear una Oficina pública de defensa habitacional y un Sistema de Alerta Temprana. La actuación de la Administración pública debe producirse antes del desahucio, no cuando ya existe una fecha de lanzamiento.\n - Crear un Fondo de Emergencia Habitacional destinado a evitar que un desahucio se convierta en sinhogarismo.\n - Aplicar en estos casos los mecanismos de compensación a pequeñas propietarias previstos en la medida 5."
+ },
+ {
+  "id": "mundo-0017",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Parque de vivienda social y asequible** — 1,1 % del parque (Dato del programa) — Meta: 5 % · ≥ 1,35 millones de viviendas — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0018",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Parque social (horizonte)** — 1,1 % del parque (Dato del programa) — Meta: 10 % del parque — Plazo: 2035"
+ },
+ {
+  "id": "mundo-0019",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Esfuerzo del alquiler** — 98,7 % del salario joven para alquilar en solitario (CJE · 2025) — Meta: Alquiler social: nunca más del 30 % de la renta familiar — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0020",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. Vivienda",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "_HOY: último dato oficial disponible, con su fuente. META: compromiso de M+J para la legislatura 2026–2030._\n\nFuentes consultadas: [6] Oxfam Intermón [9] Red FACIAM"
+ },
+ {
+  "id": "mundo-0021",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "Te interesa si te importa: Derechos y democracia\n\n_La diversidad de orígenes, creencias y formas de vida es una riqueza, pero solo cuando nos conocemos y nos tratamos como iguales. Frente a los discursos que siembran miedo y señalan a colectivos enteros, apostamos por la mediación, la educación para la paz y la justicia restaurativa. Queremos barrios y pueblos donde nadie sea sospechoso por su nombre, su color de piel o su religión._"
+ },
+ {
+  "id": "mundo-0022",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "1. **Aprobar un Pacto de Estado contra los discursos de odio** hacia colectivos en situación de vulnerabilidad con medidas efectivas, que recoja las propuestas de las organizaciones de la sociedad civil firmantes del Pacto Social y esté dotado de recursos económicos que permitan su viabilidad y eficiencia. Reconocer la aporofobia (rechazo o miedo a las personas pobres) como un mal a enfrentar y combatir."
+ },
+ {
+  "id": "mundo-0023",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "2. **Combatir el racismo y la xenofobia**, promover la convivencia intercultural y avanzar en los derechos de participación política de las personas migrantes residentes, reconociendo su contribución a nuestra sociedad. Aprobar un Plan Nacional contra el Racismo, la islamofobia, el antisemitismo y el antigitanismo, reforzando las políticas de igualdad de trato y no discriminación y desarrollando mecanismos efectivos de prevención y respuesta frente a los discursos de odio y la discriminación, en colaboración con las entidades del Tercer Sector."
+ },
+ {
+  "id": "mundo-0024",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "3. **Mayor dotación de recursos a educación para fortalecer las competencias** del currículum relacionadas con los derechos humanos, la promoción de una cultura de paz, convivencia democrática y justicia restaurativa; para impulsar programas de educación emocional y resolución pacífica de conflictos en centros escolares y comunitarios, de mediación escolar y círculos restaurativos; para reforzar la perspectiva intercultural, religiosa, espiritual y ética del nosotras y nosotros."
+ },
+ {
+  "id": "mundo-0025",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "4. Creación de un **Fondo Estatal de financiación plurianual para la integración y la convivencia** entre menores migrantes y las comunidades de acogida. Dicho fondo apoyará el desarrollo de programas de mentoría social, redes de familias colaboradoras, actividades compartidas con jóvenes de la comunidad, participación en asociaciones locales y proyectos de convivencia intercultural. En diálogo con comunidades autónomas, ayuntamientos y entidades sociales, se establecerán criterios comunes de calidad, acompañamiento profesional, protección de la infancia y evaluación de resultados, vinculando la financiación a la continuidad de los programas y a su capacidad para generar vínculos comunitarios duraderos."
+ },
+ {
+  "id": "mundo-0026",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia"
+  ],
+  "texto": "5. Creación de una **Red Pública de Memoria, Reparación y Justicia Restaurativa**, mediante la cooperación entre el Estado, las comunidades autónomas, las entidades locales y las organizaciones especializadas, para garantizar una atención integral, gratuita, accesible y continuada a las víctimas de las violencias políticas y sus familiares. Esta red abordará las consecuencias de la Guerra Civil, la dictadura franquista, el terrorismo de ETA y otras vulneraciones graves de los derechos humanos, respetando las particularidades históricas y jurídicas de cada caso, sin equiparar responsabilidades ni diluir los derechos de las víctimas."
+ },
+ {
+  "id": "mundo-0027",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Delitos de odio registrados** — 1.955 hechos (Ministerio del Interior · 2024) — Meta: −25 % — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0028",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Plan Nacional contra el Racismo, la islamofobia, el antisemitismo y el antigitanismo** — Medida nueva — Meta: Aprobado, con presupuesto propio y evaluación anual — Plazo: 2027"
+ },
+ {
+  "id": "mundo-0029",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Convivencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Red Pública de Memoria, Reparación y Justicia Restaurativa** — Medida nueva — Meta: En funcionamiento en todas las CCAA — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0030",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "Te interesa si te importa: Mayores · Servicios públicos\n\n_Las personas mayores sostuvieron este país y siguen cuidando de él. Merecen envejecer con derechos, cerca de sus familias y en el lugar que elijan, sin que la edad sea nunca motivo de exclusión. La pandemia nos mostró con crudeza lo que ocurre cuando el negocio pesa más que la dignidad, y no queremos que se repita._"
+ },
+ {
+  "id": "mundo-0031",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "1. **Aprobar una Ley Marco Estatal de Derechos de las Personas Mayores** que establezca los derechos fundamentales de las personas mayores, los estándares mínimos de atención sanitaria, social y residencial, la protección frente a la discriminación por edad, la garantía de participación social, el derecho a los cuidados y el derecho a elegir el modelo de convivencia y residencia. Esta ley deberá tener carácter básico y vincular a todas las comunidades autónomas, administraciones públicas y desarrollos normativos posteriores. Su cumplimiento deberá ser exigible ante los tribunales y sometido a evaluación periódica por el Parlamento."
+ },
+ {
+  "id": "mundo-0032",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "2. **Impulsar un Plan Estatal de Empleo Sénior** que contemple incentivos a la contratación estable de personas mayores de 50 años, programas específicos de formación y recualificación profesional, medidas contra el edadismo laboral y servicios especializados de orientación laboral. Asimismo, en las contrataciones públicas deberán introducirse criterios sociales que valoren la incorporación de trabajadores mayores de 50 años como elemento de responsabilidad social y cohesión intergeneracional."
+ },
+ {
+  "id": "mundo-0033",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "3. **Reformar la Ley de Segunda Oportunidad** para que la exoneración de deudas sea efectiva y completa, las administraciones públicas participen en el esfuerzo rehabilitador, las deudas con la Agencia Tributaria y otros organismos públicos puedan ser objeto de exoneración en condiciones legalmente reguladas y se evite la exclusión económica permanente de personas jubiladas o próximas a la jubilación."
+ },
+ {
+  "id": "mundo-0034",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "4. **Reconocer el derecho efectivo a elegir cómo y dónde vivir durante la vejez**. Para ello se impulsarán viviendas colaborativas o cohousing, apartamentos con servicios compartidos, viviendas intergeneracionales, viviendas tuteladas, centros de convivencia comunitaria y residencias de pequeño tamaño integradas en los barrios y municipios. La financiación pública deberá orientarse a favorecer la diversidad de modelos y no exclusivamente una única modalidad residencial."
+ },
+ {
+  "id": "mundo-0035",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "5. **Desarrollar un modelo integral de atención sanitaria para las personas mayores** inspirado en la especialización existente en pediatría, incluyendo equipos multidisciplinares especializados en envejecimiento, programas de seguimiento personalizado, revisiones periódicas obligatorias, prevención de fragilidad y dependencia, atención domiciliaria reforzada, coordinación sanitaria y social, historia sociosanitaria integrada. Ninguna persona mayor deberá carecer de seguimiento por razón de su lugar de residencia o situación económica."
+ },
+ {
+  "id": "mundo-0036",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores"
+  ],
+  "texto": "6. **Someter todo servicio público o concertado dirigido a personas mayores a control público permanente**, transparencia económica, priorizar la gestión pública y la de entidades sin ánimo de lucro, ratios mínimos de personal, requisitos de calidad verificables, inspecciones periódicas y publicidad de los resultados. El beneficio económico nunca podrá prevalecer sobre la dignidad, la seguridad o el bienestar de las personas atendidas."
+ },
+ {
+  "id": "mundo-0037",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Personas en lista de espera de la dependencia** — 258.167 personas (Observatorio Dependencia · dic. 2025) — Meta: Lista de espera a cero — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0038",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Tiempo medio de resolución de la dependencia** — 341 días (Observatorio Dependencia · 2025) — Meta: ≤ 90 días — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0039",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. Mayores",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Plan Estatal de Empleo Sénior (+50 años)** — Medida nueva — Meta: Aprobado, con incentivos a la contratación estable — Plazo: 2027"
+ },
+ {
+  "id": "mundo-0040",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "03. Mayores",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "Fuentes consultadas: [8] Plataforma del Tercer Sector"
+ },
+ {
+  "id": "mundo-0041",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "Te interesa si te importa: Familias e infancia · Inclusión social\n\n_Niñas, niños y adolescentes no son propiedad de nadie: son personas con derechos propios, reconocidos en la Convención sobre los Derechos de la Infancia. España tiene una de las tasas de pobreza infantil más altas de la Unión Europea, y eso no es una fatalidad, sino el resultado de decisiones políticas. Proponemos apoyar la crianza como responsabilidad de toda la sociedad y proteger a la infancia frente a la pobreza y la violencia._"
+ },
+ {
+  "id": "mundo-0042",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "1. **Reconocer la crianza y el cuidado de la infancia como una responsabilidad compartida por el conjunto de la sociedad,** impulsando políticas públicas de apoyo a las familias y corresponsabilidad en los cuidados. Ampliar los permisos por nacimiento y cuidado de menores hasta las 24 semanas por progenitor y hasta 40 en familias monoparentales y garantizar la remuneración íntegra de los permisos parentales."
+ },
+ {
+  "id": "mundo-0043",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "2. **Aprobar una Ley Orgánica de universalización de la Atención Temprana,** que permita eliminar listas de espera y desigualdades territoriales, asegurando una atención integral y coordinada entre los sistemas sanitario, educativo y de servicios sociales y garantizando una atención temprana universal, gratuita, intersectorial y especializada."
+ },
+ {
+  "id": "mundo-0044",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "3. **Garantizar la plena aplicación de la Ley Orgánica de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI**), dotándola de los recursos económicos, humanos y técnicos necesarios para desarrollar todas las medidas previstas. Reforzar especialmente la prevención, la detección precoz y la intervención coordinada desde los centros educativos, los servicios sanitarios y los servicios sociales."
+ },
+ {
+  "id": "mundo-0045",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "4. **Garantizar una justicia especializada y una atención integral a los niños, niñas y adolescentes víctimas de violencia** (directa o vicaria), extendiendo las secciones judiciales especializadas en violencia contra la infancia, reforzando la especialización de la Fiscalía y asegurando la formación de los profesionales implicados. Implantar el modelo Barnahus en todas las comunidades autónomas para ofrecer una atención coordinada a las víctimas de violencia sexual, evitando su revictimización y la repetición innecesaria del relato de los hechos."
+ },
+ {
+  "id": "mundo-0046",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "5. **Situar la erradicación de la pobreza infantil como una prioridad de Estado**, estableciendo objetivos anuales de reducción de la pobreza y la exclusión social de la infancia, acompañados de indicadores verificables y mecanismos de seguimiento y evaluación. Garantizar el acceso gratuito al comedor escolar a todo el alumnado en situación de pobreza o vulnerabilidad económica, asegurando también una alimentación adecuada durante los periodos no lectivos."
+ },
+ {
+  "id": "mundo-0047",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "6. **Poner en marcha una única prestación universal y progresiva para la infancia,** uniendo el complemento a la infancia para hogares vulnerables y las ventajas fiscales por menor a cargo de tal modo que tengan derecho a ella todos los hogares con criaturas a cargo, al mismo tiempo que su cuantía varíe en función de la renta de cada unidad familiar."
+ },
+ {
+  "id": "mundo-0048",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "7. **Garantizar el derecho de todas las niñas, los niños y adolescentes a una vivienda digna y adecuada**, priorizando a las familias con menores en situación de vulnerabilidad en el acceso al parque público de vivienda y evitando los desalojos que afecten a menores sin una alternativa habitacional adecuada."
+ },
+ {
+  "id": "mundo-0049",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "8. **Aprobar la Ley Orgánica de Protección de las personas menores de edad en el Entorno Digital** garantizando la protección de los derechos de la infancia, especialmente la intimidad, la protección de datos, la privacidad, el acceso a la información, el ocio seguro y saludable, la libertad de expresión y la protección frente a cualquier forma de violencia o explotación."
+ },
+ {
+  "id": "mundo-0050",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "9. **Reforzar el sistema de protección de la infancia y adolescencia**, priorizando el acogimiento familiar frente al residencial, con apoyos técnicos, económicos y formativos a las familias acogedoras, y garantizando que ningún niño o niña de 0 a 6 años permanezca en centros residenciales de protección. Establecer una figura referente de protección obligatoria en todos los recursos residenciales y asegurar el acompañamiento de las y los jóvenes tras cumplir los 18 años, evitando situaciones de desamparo, sinhogarismo y exclusión social."
+ },
+ {
+  "id": "mundo-0051",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia"
+  ],
+  "texto": "10. **Proteger a la infancia de la publicidad de alimentos y bebidas poco saludables**. Prohibir cualquier forma de publicidad o comunicación comercial de alimentos y bebidas con alto contenido en sodio, azúcares, edulcorantes, grasas y ácidos grasos saturados dirigida específicamente al público infantil, de acuerdo con los criterios nutricionales de la OMS, como parte de una apuesta decidida por la prevención en salud."
+ },
+ {
+  "id": "mundo-0052",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Riesgo de pobreza o exclusión infantil (< 16 años)** — 33,9 % (INE, ECV · 2025) — Meta: < 25 % — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0053",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Permisos por nacimiento y cuidado** — 19 semanas por progenitor · 32 monoparentales (Normativa vigente · 2026) — Meta: 24 semanas · 40 monoparentales · 100 % retribuidas — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0054",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Niños y niñas de 0 a 6 años en centros residenciales** — Medida nueva — Meta: Ninguno: acogimiento familiar para todos — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0055",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "04. Infancia y adolescencia",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "Fuentes consultadas: [7] Plataforma de Infancia"
+ },
+ {
+  "id": "mundo-0056",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "Te interesa si te importa: Jóvenes · Economía y empleo\n\n_Una generación entera está aplazando su vida. Se emancipa tarde, encadena prácticas y contratos temporales y paga por una habitación lo que hace pocos años costaba un piso. Queremos que tener menos de 35 años deje de ser sinónimo de precariedad, y que la juventud tenga voz en las leyes que van a marcar su futuro._"
+ },
+ {
+  "id": "mundo-0057",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "1. **Una casa para empezar la vida.** Reservar para menores de 35 años una parte del nuevo parque público de alquiler, dentro del sistema de acceso en función de la renta y con un alquiler ajustado a sus ingresos en los términos de la medida 1 de Vivienda, dando prioridad a rehabilitar viviendas vacías frente a construir de nuevo. Regular el alquiler de habitaciones, hoy la única salida para miles de jóvenes y prácticamente sin control, con contrato por escrito, derechos claros y precios sujetos a los índices de referencia."
+ },
+ {
+  "id": "mundo-0058",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "2. **Trabajo con derechos desde el primer día.** Que las prácticas sean siempre remuneradas, tengan una tutoría real y no sustituyan puestos de trabajo. Conceder las ayudas a la contratación juvenil solo cuando el contrato sea estable y acabar con el encadenamiento de becas y contratos temporales."
+ },
+ {
+  "id": "mundo-0059",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "3. **Que nadie deje de estudiar por dinero.** Crear una beca única y sencilla para todo el Estado, con los mismos criterios en todas las comunidades autónomas y una oferta equilibrada entre territorios de becas para estudiar o hacer prácticas fuera. Añadir un complemento para quienes estudian y trabajan a la vez sin recibir ninguna otra ayuda.\nAdaptar los requisitos a una realidad muy extendida: quien vive de alquiler en una habitación no siempre puede empadronarse, y eso no debe costarle la beca."
+ },
+ {
+  "id": "mundo-0060",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "4. **Atención psicológica cuando hace falta, no meses después.** Garantizar a las personas jóvenes, también después de los 18 años, atención psicológica en la sanidad pública con un tiempo máximo de espera para la primera consulta, para que nadie tenga que recurrir a la privada. Llevar profesionales de la psicología a la atención primaria, a las universidades y a los centros de Formación Profesional, como continuidad de lo previsto para la infancia y la adolescencia en el apartado de Salud Mental."
+ },
+ {
+  "id": "mundo-0061",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes"
+  ],
+  "texto": "5. **Leyes que miren a quienes las van a vivir.** Que cada ley importante incluya un informe de su impacto en la juventud y que los consejos de juventud tengan que ser consultados antes de aprobar normas que les afecten."
+ },
+ {
+  "id": "mundo-0062",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Tasa de emancipación (16-29 años)** — 14,5 % (CJE · 2025) — Meta: 20 % — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0063",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Paro juvenil (< 25 años)** — 25,4 % (INE, EPA · 3T 2026) — Meta: < 15 % — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0064",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Jóvenes",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Atención psicológica joven** — Medida nueva — Meta: Primera consulta en ≤ 15 días — Plazo: 2028"
+ },
+ {
+  "id": "mundo-0065",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "Te interesa si te importa: Mayores · Economía y empleo\n\n_Las pensiones no son un gasto: son el reconocimiento de toda una vida de trabajo, de cuidados y de aportación a la sociedad. La Constitución ya obliga a los poderes públicos a garantizar pensiones adecuadas y periódicamente actualizadas (art. 50) y un régimen público de Seguridad Social con prestaciones suficientes (art. 41). En cumplimiento del art. 31, proponemos dar un paso más:_"
+ },
+ {
+  "id": "mundo-0066",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "1. Reformar la Constitución para **reconocer las pensiones públicas como derecho fundamental**, prohibir su privatización y garantizar que nunca pierdan poder adquisitivo. M+J, forma parte, desde su creación, de la Mesa Estatal por el Blindaje de las Pensiones (MERP)."
+ },
+ {
+  "id": "mundo-0067",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "2. **Avanzar hacia un sistema de pensiones público que garantice a toda la población lo suficiente para gozar de una vida digna.** Elevar de forma progresiva las pensiones mínimas y no contributivas hasta una cuantía que permita vivir con dignidad, tomando como referencia el coste real de una vida digna y no solo la trayectoria laboral. Esto beneficia sobre todo a quienes tuvieron carreras cortas, precarias o interrumpidas: muchas mujeres que dedicaron años a cuidar, personas que trabajaron sin contrato o en el campo, y quienes enfermaron antes de tiempo."
+ },
+ {
+  "id": "mundo-0068",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "3. Profundizar en el camino abierto por la reforma de 2023 con la cuota de solidaridad y la subida de la base máxima de cotización eliminando progresivamente el tope máximo de cotización, para que quienes más ganan contribuyan en proporción a sus ingresos, manteniendo un límite en la pensión máxima."
+ },
+ {
+  "id": "mundo-0069",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "4. **Crear una contribución a la Seguridad Social para las empresas que generan mucho valor con poco empleo gracias a la automatización y la tecnología**. Así, una parte de esa riqueza volverá a la protección de todas las personas, en lugar de que la sostenibilidad del sistema dependa solo de los salarios."
+ },
+ {
+  "id": "mundo-0070",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones"
+  ],
+  "texto": "5. **Garantizar por ley una aportación estable de los Presupuestos Generales del Estado para financiar el suelo de suficiencia.**"
+ },
+ {
+  "id": "mundo-0071",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Base máxima de cotización** — 5.101,20 €/mes (Orden PJC/297/2026) — Meta: Destope progresivo, completo — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0072",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Pensiones",
+   "Compromisos medibles 2026–2030. Así podrás comprobar si cumplimos"
+  ],
+  "texto": "- **Pensión no contributiva** — 628,80 €/mes (14 pagas) (RD 241/2026) — Meta: Converger con el umbral de riesgo de pobreza — Plazo: 2030"
+ },
+ {
+  "id": "mundo-0073",
+  "partido": "mundo",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "Te interesa si te importa: Economía y empleo\n\n_Los impuestos son el precio de vivir en una sociedad que cuida de todas las personas. Hoy no paga más quien más tiene: las rentas del capital tributan menos que las del trabajo y las grandes fortunas encuentran mil vías para eludir. Proponemos un sistema progresivo de verdad, que persiga el fraude y los paraísos fiscales y garantice que quien más tiene contribuya en proporción._"
+ },
+ {
+  "id": "mundo-0074",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+ },
+ {
+  "id": "mundo-0075",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "2. **Reforzar la lucha contra el fraude fiscal** incrementando al menos un 40% los recursos humanos y materiales de la Agencia Tributaria destinados a la inspección, investigación y control del fraude, con especial atención a las grandes fortunas y empresas."
+ },
+ {
+  "id": "mundo-0076",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "3. **Combatir los paraísos fiscales y la competencia fiscal entre países**, garantizando que los rendimientos del capital generados en el extranjero tributen al mismo nivel que los generados en España. Para ello, establecer que, cuando se repatríen beneficios a España, se abone la diferencia entre el Impuesto sobre Sociedades satisfecho en el extranjero y el aplicable en España."
+ },
+ {
+  "id": "mundo-0077",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+ },
+ {
+  "id": "mundo-0078",
+  "partido": "mundo",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Fiscalidad justa y sostenibilidad de las finanzas públicas"
+  ],
+  "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+ }
+]

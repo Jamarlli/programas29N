@@ -1,0 +1,1464 @@
+[
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 27,
+  "palabras": 1994,
+  "candidatos": [
+   {
+    "id": "compromis-0043",
+    "partido": "compromis",
+    "titular": "Eliminar las ventajas fiscales de los PIAS y los SIALP",
+    "marca_actual": [],
+    "texto": "- Eliminarem els avantatges fiscals de PIAS (pla individual d'estalvi sistemàtic) i SIALP (assegurança individual d'estalvi a llarg termini), productes dissenyats específicament per a premiar a les rendes altes que poden destinar rendes presents a estalvi i consum futur."
+   },
+   {
+    "id": "compromis-0140",
+    "partido": "compromis",
+    "titular": "Mantener y ampliar el Impuesto a las Grandes Fortunas hacia la tasa Zucman",
+    "marca_actual": [],
+    "texto": "- Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman."
+   },
+   {
+    "id": "compromis-0141",
+    "partido": "compromis",
+    "titular": "Valorar inmuebles en el Impuesto de Patrimonio con el Índice de Viviendas Estatal",
+    "marca_actual": [],
+    "texto": "- Modificarem l’Impost sobre el Patrimoni en allò referent a la valoració d’immobles per tal de que tributen sobre el valor fixat pel l’Índex d’Habitatges Estatal."
+   },
+   {
+    "id": "compromis-0145",
+    "partido": "compromis",
+    "titular": "Que las rentas financieras tributen con la misma progresividad que las del trabajo",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "- Eliminarem els privilegis de les rendes financeres respecte de les del treball, fent-les idènticament progressives."
+   },
+   {
+    "id": "compromis-0146",
+    "partido": "compromis",
+    "titular": "Eliminar deducciones de las rentas inmobiliarias de las que no gozan las del trabajo",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "- Modificarem la fiscalitat de les rendes immobiliàries per tal de fer-la efectivament progressiva mitjançant l'eliminació de deduccions de les quals no gaudeixen les rendes del treball."
+   },
+   {
+    "id": "compromis-0147",
+    "partido": "compromis",
+    "titular": "Reducir la deducción por amortización de inmuebles del 3 % al 1 %",
+    "marca_actual": [],
+    "texto": "- Reduirem la deducció per amortització d’immobles, des del 3% actual a l’1% incrementant la recaptació de més de 465 milions d’euros."
+   },
+   {
+    "id": "pacma-0130",
+    "partido": "pacma",
+    "titular": "Deducir en el IRPF el 10 % del gasto veterinario, hasta 500 €",
+    "marca_actual": [],
+    "texto": "Consideramos fundamental **aliviar la carga financiera de las familias interespecie**, para lo que planteamos la introducción de **deducciones en el Impuesto sobre la Renta de las Personas Físicas (IRPF)** estableciendo un límite de renta y permitiendo deducciones en la cuota a pagar, con la colaboración de los centros veterinarios, de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales."
+   },
+   {
+    "id": "pacma-0142",
+    "partido": "pacma",
+    "titular": "Reducir la contaminación del aire actuando sobre tráfico, industria y macrogranjas",
+    "marca_actual": [],
+    "texto": "Las principales vías de actuación para reducir la contaminación del aire por ozono pasan por **disminuir el tráfico motorizado, sustituir los disolventes orgánicos por agua en los procesos industriales**, el **ahorro energético**, la **ordenación del actual despliegue de las energías renovables** y el **freno a las autorizaciones para nuevas macrogranjas o** la **ampliación de las existentes**.\n\nAdemás de los efectos nocivos para la salud humana, la contaminación también es perjudicial para los ecosistemas.\n\nEs necesario **abordar las fuentes más nocivas de contaminación del aire y de cambio climático, incluyendo la combustión de combustibles fósiles, la ganadería y la agricultura intensivas, el transporte y la calefacción residencial**.\n\nLa respuesta debe darse desde diferentes ámbitos, más allá de la capacidad de las propias ciudades y comunidades autónomas. El Gobierno debe involucrarse impulsando **políticas específicas para cada sector, adaptadas a las circunstancias y singularidades de cada entorno**, que aborden las distintas fuentes de contaminación."
+   },
+   {
+    "id": "pacma-0201",
+    "partido": "pacma",
+    "titular": "Gestionar el agua con eficiencia, caudales ambientales y menos ganadería",
+    "marca_actual": [],
+    "texto": "La correcta gestión de los recursos, de las aportaciones por aguas superficiales y subterráneas, es fundamental para cubrir la demanda en el futuro. Esta debe guiarse por parámetros de eficiencia y ahorro. En este sentido, para proteger y recuperar acuíferos, humedales y ríos, como ya hemos advertido en anteriores epígrafes, es imprescindible **reducir el consumo de alimentos de origen animal y desterrar la ganadería intensiva**, pero también **promover tecnologías innovadoras y eficientes en la agricultura, la industria, el transporte, la energía, el turismo o el urbanismo**, como la utilización de la IA para la predicción de consumos, la sectorización y digitalización de las redes de distribución para la detección de las fugas.\n\nEn España, más del 80% del agua utilizada se destina al regadío y los usos agrarios, seguido del abastecimiento del ciclo urbano, que representa alrededor del 15%. Por ello, debemos insistir en la indispensable **reducción de la producción y el consumo de alimentos de origen animal**, recordando que casi el 80% de los cultivos que son regados con ese agua se destina a alimentar a los animales que se encuentran en las explotaciones ganaderas.\n\nPara garantizar el buen estado de las masas de agua son necesarias **políticas sectoriales que minimicen su consumo, garanticen caudales ambientales parecidos al régimen natural y aseguren la calidad** del agua disponible."
+   },
+   {
+    "id": "pacma-0202",
+    "partido": "pacma",
+    "titular": "Promover el ahorro, la depuración y la gestión pública del agua",
+    "marca_actual": [],
+    "texto": "Las administraciones responsables deben **respetar las llanuras de inundación y evitar la contaminación difusa o los usos excesivos**. Es necesario **promover el ahorro y la depuración del agua y garantizar una buena gestión pública**.\n\nAsimismo, consideramos fundamental **implicar a la ciudadanía contra la contaminación del agua**, ya que nuestra huella medioambiental puede ser crítica, incluso sin salir de casa. Son necesarias **campañas informativas destinadas a concienciar sobre los perjuicios medioambientales de utilizar detergentes y químicos tóxicos en el ámbito doméstico**, como en la limpieza del hogar y la ropa, y **fomentar**, en su lugar, **el uso de productos ecológicos o inocuos**. Se deben **evitar los vertidos de sustancias no biodegradables en los desagües**, como pinturas, disolventes o aceites, **y el uso de los inodoros como papeleras**. Arrojar objetos que no se degradan como toallitas húmedas, bastoncillos, compresas o tampones, no solo provoca serios problemas en los sistemas de alcantarillado, sino que, con el tiempo, estos objetos pueden terminar en arroyos, ríos y otras masas de agua."
+   },
+   {
+    "id": "pacma-0241",
+    "partido": "pacma",
+    "titular": "Norma nacional contra la contaminación lumínica con alumbrado racional",
+    "marca_actual": [],
+    "texto": "También la vegetación puede verse afectada negativamente. La alteración de las horas de oscuridad y los ciclos día/noche afectan al patrón de floración de multitud de especies, así como a su relación con las especies que las polinizan.\n\nPara prevenir y minimizar estos efectos adversos, proponemos el desarrollo de una **normativa nacional que controle y regule la contaminación lumínica**, en base a un **diseño de alumbrado nocturno que responda a criterios coherentes y racionales** - que implicaría, además, un importante ahorro energético y, de manera indirecta, una disminución de las emisiones de gases contaminantes de la atmósfera - a través de medidas sencillas como **ajustar la cantidad de luz a la estrictamente necesaria** para desarrollar la actividad concreta; **iluminar de arriba hacia abajo**; **apantallar los haces de luz**; **mantener las luces apagadas cuando no se desarrolle ninguna actividad**; **utilizar lámparas de alta eficacia lumínica adecuadas** a la visión humana y a la actividad que se desarrolle; y **emplear preferentemente luz naranja o blanca cálidas**."
+   },
+   {
+    "id": "fo-0045",
+    "partido": "fo",
+    "titular": "Subir Sociedades y Patrimonio a las grandes empresas",
+    "marca_actual": [],
+    "texto": "5. Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional."
+   },
+   {
+    "id": "fo-0046",
+    "partido": "fo",
+    "titular": "Centralizar Sucesiones y Patrimonio y suprimir sus bonificaciones a los ricos",
+    "marca_actual": [],
+    "texto": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas."
+   },
+   {
+    "id": "fo-0140",
+    "partido": "fo",
+    "titular": "Diagnóstico: insostenibilidad del sistema de pensiones",
+    "marca_actual": [],
+    "texto": "Los trabajadores que han contribuido a generar la riqueza en nuestro país tienen el derecho a poder terminar su vida con dignidad y que se reconozca su aportación al resto de la sociedad.\n\nEl sistema de pensiones que tenemos hoy en España no asegura que esto sea así; la insostenibilidad del sistema es evidente y los grandes grupos empresariales se aprovechan de esta situación para sacar beneficio con el escaso ahorro de los trabajadores que acceden a un plan de pensiones privado.\n\nMientras que la derecha ha tratado de acelerar este proceso y así contentar a las grandes empresas, la izquierda, pese a presentarse como los mayores defensores de las pensiones, no ha dudado en recortarla cuando la situación económica así lo “exigía”, como pasó en la crisis de 2008. Ambos han jugado con la hucha de las pensiones, hasta el punto que es prácticamente inevitable que acabe transformándose en un modelo mixto, para desgracia de quienes menos tienen.\n\nLos políticos quieren hacernos creer que esto se solucionará aumentando el número de inmigrantes que llegan a España, como una especie de solución mágica. Esto no soluciona nada, sino que traerá aún más problemas mucho más graves, como los que ya se están viviendo en muchas ciudades respecto a esta cuestión."
+   },
+   {
+    "id": "fe-0099",
+    "partido": "fe",
+    "titular": "Nacionalizar la banca y crear un Instituto de Crédito público",
+    "marca_actual": [],
+    "texto": "- 9.2. Nacionalizaremos la banca, siguiendo el modelo de las cajas de ahorro (antes de que lo destruyese la corrupta casta política), así como por la creación de un Instituto de Crédito con auténtica vocación pública y que sirva a los intereses de España y los españoles."
+   },
+   {
+    "id": "fe-0105",
+    "partido": "fe",
+    "titular": "Revisar el Impuesto de Sucesiones y Donaciones con criterios de progresividad",
+    "marca_actual": [],
+    "texto": "- 9.8. Revisión del Impuesto de Sucesiones y Donaciones, estableciendo también criterios de progresividad, ajustándose el cobro del impuesto a la situación de cada sujeto pasivo."
+   },
+   {
+    "id": "fe-0190",
+    "partido": "fe",
+    "titular": "Optimizar la administración y controlar el gasto al milímetro",
+    "marca_actual": [],
+    "texto": "- 18.3. Optimización total de la administración pública. Control milimétrico del gasto y ahorro allí donde sea posible."
+   },
+   {
+    "id": "pcte-0011",
+    "partido": "pcte",
+    "titular": "Prohibir los despidos colectivos en empresas con beneficios o que repartan dividendos",
+    "marca_actual": [],
+    "texto": "- **Despidos colectivos** — **Prohibición de los despidos colectivos en empresas con beneficios o que repartan dividendos**. Autorización administrativa previa para cualquier despido colectivo, con informe vinculante de la representación de los trabajadores y apertura completa de las cuentas del grupo. Indemnizaciones que disuadan de despedir."
+   },
+   {
+    "id": "pcte-0014",
+    "partido": "pcte",
+    "titular": "Acceso de los representantes de los trabajadores a las cuentas de la empresa",
+    "marca_actual": [],
+    "texto": "- **Cuentas abiertas** — **Abrir las cuentas**. Los representantes de los trabajadores deben tener acceso efectivo a beneficios, dividendos, inversiones, deuda, ayudas públicas y operaciones dentro de los grupos empresariales."
+   },
+   {
+    "id": "autonomos-0004",
+    "partido": "autonomos",
+    "titular": "IVA franquiciado para facturaciones de hasta 85.000 € e IVA de caja obligatorio",
+    "marca_actual": [],
+    "texto": "02. **IVA Franquiciado hasta 85.000 € y IVA de Caja obligatorio** — Transposición inmediata de la Directiva Europea 2020/285 para que autónomos y microempresas que facturen menos de 85.000 € anuales queden exentos de repercutir y liquidar el IVA trimestral, implantando además el IVA de caja real para que nadie adelante impuestos de facturas no cobradas.\n - **Viabilidad:** _Es viable jurídica y económicamente porque ya funciona en la práctica totalidad de la Unión Europea sin merma estructural de recaudación. El ahorro en gestión administrativa y la mejora de liquidez reducen la morosidad y afloran actividad económica que hoy se frena por miedo a los adelantos fiscales._"
+   },
+   {
+    "id": "autonomos-0008",
+    "partido": "autonomos",
+    "titular": "Recortar un 50 % los asesores y cargos de confianza política",
+    "marca_actual": [],
+    "texto": "06. **Recorte del 50 % en asesores y cargos de confianza política** — Limitación legal estricta del número y retribución de personal eventual y cargos de libre designación en ministerios, autonomías y diputaciones, sustituyendo el asesoramiento partidista por funcionarios de carrera cualificados y colegios profesionales mediante convenios técnicos.\n - **Viabilidad:** _Es viable de forma inmediata mediante ley presupuestaria, generando un ahorro directo superior a 600 millones de euros anuales en el conjunto de las administraciones públicas, recursos que se destinarán íntegramente a bonificar el inicio de actividad y el relevo generacional de pymes._"
+   },
+   {
+    "id": "autonomos-0015",
+    "partido": "autonomos",
+    "titular": "Bonificar al 99 % el Impuesto de Sucesiones y Donaciones en toda España",
+    "marca_actual": [],
+    "texto": "13. **Supresión del Impuesto de Sucesiones y Donaciones en toda España** — Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida.\n - **Viabilidad:** _Es viable porque este impuesto apenas representa alrededor del 0,2 % del PIB y su eliminación en varias comunidades autónomas ha demostrado atraer inversión, evitar deslocalizaciones fiscales y facilitar la continuidad de empresas familiares._"
+   },
+   {
+    "id": "autonomos-0016",
+    "partido": "autonomos",
+    "titular": "Exención fiscal en el traspaso de pequeños negocios por jubilación del titular",
+    "marca_actual": [],
+    "texto": "14. **Exención fiscal en la transmisión y relevo de pequeños negocios** — Bonificación del 100 % en impuestos de transmisión patrimonial y plusvalías cuando se traspase un comercio o microempresa por jubilación del titular, siempre que el adquirente mantenga la actividad y el empleo durante al menos tres años.\n - **Viabilidad:** _Es viable porque cada año se pierden miles de negocios rentables por falta de relevo generacional; facilitar el traspaso evita el cierre de locales y conserva puestos de trabajo y cotizaciones que de otro modo desaparecerían._"
+   },
+   {
+    "id": "autonomos-0024",
+    "partido": "autonomos",
+    "titular": "Reducciones en IRPF por planes de pensiones hasta 5.000 € y cuenta ahorro vivienda",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "22. **Incentivos fiscales al ahorro privado y a la previsión complementaria** — Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos.\n - **Viabilidad:** _Es viable porque fomenta el ahorro nacional a largo plazo, reduce la dependencia futura del sistema público de pensiones y facilita que los jóvenes acumulen la entrada para su primera vivienda._"
+   },
+   {
+    "id": "autonomos-0038",
+    "partido": "autonomos",
+    "titular": "Bonificar la contratación indefinida de jóvenes y desempleados mayores de 45 años",
+    "marca_actual": [],
+    "texto": "36. **Plan dual de contratación para jóvenes y mayores de 45 años** — Bonificación progresiva en cotizaciones sociales durante dos años para pymes que contraten de forma indefinida a jóvenes sin experiencia previa o a desempleados mayores de 45 años de larga duración.\n - **Viabilidad:** _Es viable porque el ahorro inmediato en subsidios por desempleo y rentas mínimas supera el importe de la bonificación de cuotas, integrando dos colectivos clave en la empresa._"
+   },
+   {
+    "id": "autonomos-0051",
+    "partido": "autonomos",
+    "titular": "Suprimir las pensiones y pagas vitalicias de expresidentes, exministros y exparlamentarios",
+    "marca_actual": [],
+    "texto": "49. **Supresión de pensiones y pagas vitalicias de altos cargos políticos** — Eliminación de cualquier pensión indemnizatoria, complemento vitalicio o privilegio retributivo de expresidentes, exministros y exparlamentarios, sometiéndolos exactamente al mismo régimen general de cotización que cualquier ciudadano.\n - **Viabilidad:** _Es viable por decreto legislativo inmediato y constituye una medida elemental de ejemplaridad pública y ahorro presupuestario._"
+   },
+   {
+    "id": "autonomos-0078",
+    "partido": "autonomos",
+    "titular": "Asignatura obligatoria de primeros auxilios y educación financiera en Secundaria",
+    "marca_actual": [],
+    "texto": "76. **Asignatura obligatoria de Primeros Auxilios, Emergencias y Educación Financiera** — Incorporación en Educación Secundaria de formación práctica en reanimación cardiopulmonar (RCP), actuación ante emergencias y educación financiera básica (impuestos, ahorro y emprendimiento).\n - **Viabilidad:** _Es viable reordenando el currículo actual sin aumentar horas lectivas, preparando a los jóvenes tanto para salvar vidas como para gestionar su economía personal._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-profundizar",
+    "nombre": "Ampliar la protección frente al despido y la precariedad"
+   }
+  ],
+  "n": 40,
+  "palabras": 1885,
+  "candidatos": [
+   {
+    "id": "compromis-0025",
+    "partido": "compromis",
+    "titular": "Recuperar los salarios de tramitación y la indemnización de 45 días por año",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Modificarem la normativa laboral sobre acomiadaments recuperant els salaris de tramitació (en el cas d’acomiadament improcedent indemnitzat) i la indemnització de 45 dies per any treballat."
+   },
+   {
+    "id": "compromis-0028",
+    "partido": "compromis",
+    "titular": "Prácticas remuneradas que no sustituyan puestos de plantilla y programas de primera experiencia",
+    "marca_actual": [],
+    "texto": "- Proposarem garanties perquè les pràctiques formatives no substituisquen llocs de plantilla i compten amb remuneració i protecció adequades. Defensarem programes de primera experiència laboral amb contracte, formació i possibilitats de continuïtat."
+   },
+   {
+    "id": "compromis-0029",
+    "partido": "compromis",
+    "titular": "Condicionar ayudas y contratos públicos al cumplimiento de la normativa laboral",
+    "marca_actual": [],
+    "texto": "- Condicionarem la concessió d'ajudes, bonificacions i contractes públics al compliment de la normativa laboral, al manteniment de l'ocupació i a la qualitat dels llocs de treball."
+   },
+   {
+    "id": "compromis-0030",
+    "partido": "compromis",
+    "titular": "Reforzar la Inspección de Trabajo contra el fraude y las horas extraordinarias no declaradas",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Inspecció de Treball per a detectar i sancionar el frau en la contractació, les hores extraordinàries no declarades i els incompliments de la jornada laboral màxima."
+   },
+   {
+    "id": "compromis-0195",
+    "partido": "compromis",
+    "titular": "Reforzar la Ley de la cadena alimentaria para que los precios cubran los costes",
+    "marca_actual": [],
+    "texto": "- Reforçarem la Llei de la cadena alimentària perquè els preus cobrisquen els costos efectius de producció. Impulsarem millores en la capacitat negociadora d'agricultors, ramaders i pescadors i exigirem protecció laboral per als qui treballen en aquestes activitats, incloses les temporeres."
+   },
+   {
+    "id": "compromis-0222",
+    "partido": "compromis",
+    "titular": "Impedir que los hoteles subcontraten la limpieza de habitaciones y limitar camas por jornada",
+    "marca_actual": [],
+    "texto": "- Millorarem les condicions de treball al sector: pujada del salari mínim, reducció de la jornada laboral i fi de la generalització de les hores extra. Modificarem l'article 42 de l'Estatut dels Treballadors per a impedir que els hotels subcontracten el servei de neteja d'habitacions a empreses multiserveis, limitarem del nombre de llits i habitacions assignades per jornada laboral i millores ergonòmiques, com la dotació obligatòria de llits elevables i carros motoritzats, reconeixerem automàticament patologies musculoesquelètiques com a malalties professionals derivades de moviments repetitius, incrementarem salarials i farem complir els convenis col·lectius del sector d'hostaleria i turisme."
+   },
+   {
+    "id": "compromis-0296",
+    "partido": "compromis",
+    "titular": "Activar refugios climáticos y adaptar las condiciones laborales en olas de calor",
+    "marca_actual": [],
+    "texto": "- Activarem la xarxa de refugis climàtics i les alertes sanitàries davant les onades de calor, i adaptarem les condicions laborals en els avisos taronja i roig d’AEMET."
+   },
+   {
+    "id": "compromis-0454",
+    "partido": "compromis",
+    "titular": "Reforzar la inspección laboral y las políticas contra la brecha salarial",
+    "marca_actual": [],
+    "texto": "- Reforçarem la inspecció laboral i les polítiques contra la bretxa salarial, perquè la desigualtat durant la vida activa no es perpetue durant la jubilació."
+   },
+   {
+    "id": "pacma-0260",
+    "partido": "pacma",
+    "titular": "Negociar la salud laboral tras 735 muertes por accidente laboral en 2025",
+    "marca_actual": [],
+    "texto": "En 2025 fallecieron 735 personas por accidentes laborales en España. Destacan determinados sectores, como la construcción, que está empeorando sus cifras, con un 21,5% más que en 2024.\n\nLos accidentes y las enfermedades laborales son evitables si se adopta una adecuada política de prevención.\n\nLa inclusión de la salud laboral en los convenios colectivos es fundamental para la salud de los trabajadores. Si nos fijamos en los países con una mejor salud laboral, tienen, por un lado, un **marco normativo y reglamentario sólido** sobre esta materia, un **amplio y experto cuerpo de inspectores públicos** para examinar su observancia y sancionar su incumplimiento, en su caso, pero también una importante tradición de diálogo y negociación entre empresas y sindicatos.\n\nPor ello, es necesario desde las administraciones públicas **fomentar y favorecer el diálogo y la negociación colectiva en torno a la salud laboral entre empresarios/as y sindicatos**, así como **difundir las buenas prácticas**.\n\nApostamos por la puesta en marcha de una intensa actividad negociadora para la consecución de **acuerdos que desarrollen y complementen el marco normativo nacional**, así como de la ampliación de las competencias de los delegados y delegadas, y miembros de los comités de prevención de riesgos laborales en las empresas, dotándoles de las herramientas necesarias que faciliten su labor."
+   },
+   {
+    "id": "fo-0011",
+    "partido": "fo",
+    "titular": "Restringir contratos temporales y fijos-discontinuos y prohibir las ETT",
+    "marca_actual": [],
+    "texto": "4. Fomentar la lucha contra la temporalidad. Restricción de las condiciones que permiten a las empresas acogerse a contratos temporales o fijos-discontinuos. Prohibición de las empresas de trabajo temporal (ETTS)."
+   },
+   {
+    "id": "fo-0013",
+    "partido": "fo",
+    "titular": "Acabar con los falsos autónomos",
+    "marca_actual": [],
+    "texto": "6. Acabar con los falsos autónomos."
+   },
+   {
+    "id": "fo-0014",
+    "partido": "fo",
+    "titular": "Derogar las reformas laborales del despido barato y la primacía del convenio de empresa",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "7. Derogación de las sucesivas reformas laborales que han fortalecido el despido libre y barato para las empresas y que posibilitan la primacía del convenio de empresa sobre los convenios sectoriales aun cuando perjudica al trabajador."
+   },
+   {
+    "id": "fo-0016",
+    "partido": "fo",
+    "titular": "Reforzar el control de las condiciones de trabajo y la prevención de riesgos",
+    "marca_actual": [],
+    "texto": "9. Reforzar el control sobre el cumplimiento de las condiciones de trabajo, especialmente en trabajos de alta peligrosidad, siendo la prevención de riesgos una prioridad ineludible."
+   },
+   {
+    "id": "fo-0105",
+    "partido": "fo",
+    "titular": "Controlar la normativa laboral y de prevención de riesgos en el sector primario",
+    "marca_actual": [],
+    "texto": "4. Controlar exhaustivamente la normativa laboral y las leyes de prevención de riesgos para minimizar al máximo posible los accidentes frecuentes en el sector. Perseguir sin tregua a los explotadores en el campo y en el resto del sector primario."
+   },
+   {
+    "id": "fo-0165",
+    "partido": "fo",
+    "titular": "Supervisar a las empresas que contratan inmigrantes contra condiciones leoninas",
+    "marca_actual": [],
+    "texto": "13. Supervisión constante de las empresas que contratan a los inmigrantes para acabar con las condiciones laborales leoninas que suelen sufrir."
+   },
+   {
+    "id": "fe-0071",
+    "partido": "fe",
+    "titular": "Derogar todas las reformas laborales de PP, PSOE y Podemos/Sumar",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- 6.4. Derogación inmediata y total de las distintas Reformas Laborales de PP, PSOE y Podemos/Sumar que solo nos han arrebatado derechos y precarizan nuestras vidas."
+   },
+   {
+    "id": "fe-0072",
+    "partido": "fe",
+    "titular": "Limitar los contratos temporales e ilegalizar las ETT",
+    "marca_actual": [],
+    "texto": "- 6.5. Limitación de los contratos temporales e ilegalización de las ETTs."
+   },
+   {
+    "id": "fe-0073",
+    "partido": "fe",
+    "titular": "Prohibir los despidos improcedentes: solo objetivo indemnizado o disciplinario",
+    "marca_actual": [],
+    "texto": "- 6.6. Prohibición de los despidos improcedentes, reconociéndose únicamente en el ordenamiento jurídico el despido objetivo indemnizado, con 20 o 33 días por año, en virtud de las causas que motiven el despido y el despido disciplinario."
+   },
+   {
+    "id": "fe-0074",
+    "partido": "fe",
+    "titular": "Declarar nulo, con readmisión, todo despido no objetivo ni disciplinario",
+    "marca_actual": [],
+    "texto": "- 6.7. Todo despido que no tenga condición de objetivo o disciplinario será declarado despido nulo, con la correspondiente condena a la readmisión en el puesto de trabajo, cobro de los salarios de tramitación y, en caso de vulneración de derechos, la correspondiente indemnización al trabajador."
+   },
+   {
+    "id": "fe-0079",
+    "partido": "fe",
+    "titular": "Reforzar la normativa de seguridad y salud laboral y su vigilancia",
+    "marca_actual": [],
+    "texto": "- 6.12. Profundización en la normativa de seguridad y salud, y exhaustiva vigilancia del cumplimiento de esta."
+   },
+   {
+    "id": "fe-0082",
+    "partido": "fe",
+    "titular": "Cuotas de autónomos justas y flexibles y fin de los falsos autónomos",
+    "marca_actual": [],
+    "texto": "- 6.15. Eliminación de trabas burocráticas y flexibilización en el pago de cuotas para autónomos, siendo estas justas y proporcionales. Acabar de una vez con los falsos autónomos."
+   },
+   {
+    "id": "fe-0083",
+    "partido": "fe",
+    "titular": "Limitar las becas al periodo curricular y cuotas de contratación de primer empleo",
+    "marca_actual": [],
+    "texto": "- 6.16. Prohibición de las becarías más allá del período curricular necesario, siendo remuneradas dignamente. Fomento de la contratación de trabajadores que se incorporan por primera vez al mundo laboral a través de cuotas obligatorias e incentivos fiscales y económicos, tal y como se recoge en el punto 19.19 de este documento."
+   },
+   {
+    "id": "fe-0087",
+    "partido": "fe",
+    "titular": "Periodo de prueba general de dos meses con justificación de la no superación",
+    "marca_actual": [],
+    "texto": "- 6.20. Fijación, por ley, de un período de prueba general de dos meses para todos los contratos de trabajo que se suscriban. Así mismo, se establecerá la obligación de justificar, por parte del empleador, las razones de no superación del período de prueba del trabajador, siendo obligatoria la readmisión en el puesto de trabajo de no ser conformes a Derecho."
+   },
+   {
+    "id": "fe-0143",
+    "partido": "fe",
+    "titular": "Controlar las condiciones laborales de los trabajadores del sector primario",
+    "marca_actual": [],
+    "texto": "- 12.8. Control de las condiciones laborales de los trabajadores del sector para evitar abusos."
+   },
+   {
+    "id": "pcte-0003",
+    "partido": "pcte",
+    "titular": "Diagnóstico: el salario ya no alcanza y la «flexibilidad» precariza",
+    "marca_actual": [],
+    "texto": "Para la mayoría de la clase obrera, el salario es la principal fuente de ingresos. **Y hoy ya no alcanza**: los precios de la cesta de la compra suben, como sube el coste de la vivienda o de la luz. Para cada vez más personas, tener empleo no garantiza ni siquiera unos mínimos vitales.\n\nA su vez, la «flexibilidad» que tanto se promueve no es más que **una trampa para colarnos el trabajo temporal, la subcontratación, la facilidad en el despido**; de la misma manera que los avances tecnológicos no se traducen en una reducción del tiempo de trabajo, sino en mayor control sobre nuestras vidas. Ha llegado el momento de que la clase trabajadora ponga pie en pared y que **nos hagamos de nuevo fuertes desde nuestros comités, secciones sindicales y asambleas**."
+   },
+   {
+    "id": "pcte-0008",
+    "partido": "pcte",
+    "titular": "Contrato fijo tras 6 meses encadenados en 12 y prohibición de las ETT",
+    "marca_actual": [],
+    "texto": "- **Contratación fija** — **Toda necesidad permanente, con empleo permanente**: contrato fijo a partir de 6 meses de contratos encadenados en un periodo de 12, en la misma empresa o grupo, sea cual sea el puesto. Acabar con los falsos autónomos y con las prácticas no laborales que cubren puestos de trabajo. **Prohibición de las ETT**."
+   },
+   {
+    "id": "pcte-0009",
+    "partido": "pcte",
+    "titular": "Subcontratación con mismo salario y mismos derechos que la plantilla principal",
+    "marca_actual": [],
+    "texto": "- **Subcontratación** — **Mismo trabajo, mismo salario y mismos derechos**. La subcontratación no puede utilizarse para rebajar salarios y condiciones. Las actividades estructurales se integran en la plantilla principal; mientras tanto, mismas condiciones que en la principal."
+   },
+   {
+    "id": "pcte-0010",
+    "partido": "pcte",
+    "titular": "Readmisión obligatoria, a elección del trabajador, ante el despido injustificado",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- **Readmisión** — **Readmisión obligatoria**, a elección del trabajador, ante el despido injustificado."
+   },
+   {
+    "id": "pcte-0011",
+    "partido": "pcte",
+    "titular": "Prohibir los despidos colectivos en empresas con beneficios o que repartan dividendos",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- **Despidos colectivos** — **Prohibición de los despidos colectivos en empresas con beneficios o que repartan dividendos**. Autorización administrativa previa para cualquier despido colectivo, con informe vinculante de la representación de los trabajadores y apertura completa de las cuentas del grupo. Indemnizaciones que disuadan de despedir."
+   },
+   {
+    "id": "pcte-0012",
+    "partido": "pcte",
+    "titular": "Derecho de las plantillas a paralizar trabajos ante riesgos graves",
+    "marca_actual": [],
+    "texto": "- **Salud laboral** — **La salud por encima del beneficio**. Las plantillas deben poder paralizar de forma efectiva los trabajos ante riesgos graves y negarse a cumplir órdenes que pongan en riesgo la vida."
+   },
+   {
+    "id": "pcte-0060",
+    "partido": "pcte",
+    "titular": "Toda actividad en la empresa, también las prácticas, cotiza desde el primer día",
+    "marca_actual": [],
+    "texto": "- **Derechos desde el primer día** — Si produces, trabajas; si trabajas, cobras y tienes derechos: **toda actividad en la empresa, también las prácticas, cotiza y genera derechos desde el primer día**."
+   },
+   {
+    "id": "pcte-0062",
+    "partido": "pcte",
+    "titular": "Solo prácticas curriculares y prohibición de las extracurriculares",
+    "marca_actual": [],
+    "texto": "- **Prácticas** — **Solo prácticas curriculares** que no cubran labores esenciales de producción, con tutor, límite de horas y un máximo de becarios por plantilla, y con compensación no inferior al salario mínimo en proporción a las horas. **Prohibición de las prácticas extracurriculares**."
+   },
+   {
+    "id": "pcte-0070",
+    "partido": "pcte",
+    "titular": "Derecho a pasar a jornada completa para las trabajadoras a tiempo parcial",
+    "marca_actual": [],
+    "texto": "- **Jornada completa** — **Derecho a pasar a jornada completa** para toda trabajadora a tiempo parcial que lo pida. Mejora de salarios y plantillas en cuidados, limpieza, comercio, sanidad, educación y servicios sociales."
+   },
+   {
+    "id": "pcte-0072",
+    "partido": "pcte",
+    "titular": "Nulidad y readmisión en todo despido hasta que el hijo cumpla 3 años",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- **Despido y maternidad** — **Nulidad y readmisión automática en todo despido hasta que el hijo o la hija cumpla 3 años**."
+   },
+   {
+    "id": "pcte-0100",
+    "partido": "pcte",
+    "titular": "Proteger a las personas LGTB frente al despido, el acoso y la discriminación",
+    "marca_actual": [],
+    "texto": "- **Personas LGTB** — **Protección de las personas LGTB** frente al despido, el acoso laboral, la discriminación en el acceso a la vivienda y las agresiones en todo tipo de empresas, también las de menos de 50 trabajadores. Respuesta organizada en barrios y centros de trabajo ante cualquier agresión."
+   },
+   {
+    "id": "pcte-0105",
+    "partido": "pcte",
+    "titular": "Nulidad y readmisión obligatoria en despidos por actividad sindical",
+    "marca_actual": [],
+    "texto": "- **Despido sindical** — **Nulidad y readmisión obligatoria en todo despido o sanción por actividad sindical**. Protección frente al despido para quienes promueven asambleas, candidaturas o secciones sindicales desde el primer momento."
+   },
+   {
+    "id": "pcte-0110",
+    "partido": "pcte",
+    "titular": "La oposición obrera se construye en los centros de trabajo y los barrios",
+    "marca_actual": [],
+    "texto": "**Su núcleo está en los centros de trabajo**, donde también está el núcleo de la explotación. En cada empresa, la oposición obrera se construye con **la asamblea como órgano de decisión**, con secciones sindicales combativas y con el protagonismo de las propias plantillas, por encima de las diferencias de sindicato, contrato o categoría. Cada reivindicación puede convertirse ahí en una plataforma concreta: en la negociación de un convenio, frente a un despido colectivo, ante una externalización o un cambio de turnos.\n\nPero la vida de la clase trabajadora no termina a la salida del trabajo. La misma persona que se enfrenta a su empresa paga un alquiler, espera cita en el centro de salud o busca plaza para sus padres en una residencia. Por eso **la oposición obrera se extiende a los barrios y los pueblos**: a la organización de vecinas y vecinos, a la defensa de los centros de salud y las escuelas, a centros obreros y populares que sirvan de punto de encuentro y coordinación. Y llega a los centros de estudio, a las organizaciones de mujeres trabajadoras y a los comités por la paz."
+   },
+   {
+    "id": "autonomos-0036",
+    "partido": "autonomos",
+    "titular": "Estatuto TRADE flexible sin imposición forzosa de asalarización",
+    "marca_actual": [],
+    "texto": "34. **Estatuto del Trabajador Autónomo Económicamente Dependiente (TRADE) flexible** — Reforma de la regulación del autónomo que trabaja mayoritariamente para uno o pocos clientes (repartidores, consultores, transportistas), garantizando libertad real de horarios y tarifas mínimas pactadas sin imposición forzosa de asalarización.\n - **Viabilidad:** _Es viable mediante un marco mercantil equilibrado con seguros obligatorios de accidentes y derecho a desconexión, preservando miles de empleos flexibles que la rigidez normativa ha destruido._"
+   },
+   {
+    "id": "autonomos-0039",
+    "partido": "autonomos",
+    "titular": "Implantar la mochila austriaca de capitalización individual",
+    "marca_actual": [],
+    "texto": "37. **Implantación de la Mochila Austriaca de capitalización individual** — Creación de un fondo individual de capitalización laboral portátil que acompaña al trabajador durante toda su vida profesional, acumulando aportaciones mensuales que puede rescatar en caso de despido, formación o jubilación.\n - **Viabilidad:** _Es viable de forma gradual sin subir los costes laborales totales, aportando movilidad al mercado de trabajo y liquidez a las pymes en momentos de reestructuración._"
+   },
+   {
+    "id": "autonomos-0094",
+    "partido": "autonomos",
+    "titular": "Prohibir la carga y descarga pesada a conductores y crear áreas de descanso vigiladas",
+    "marca_actual": [],
+    "texto": "92. **Modernización del convenio y áreas de descanso del transporte por carretera** — Actualización del marco laboral del transporte profesional de mercancías y viajeros, prohibiendo que los conductores realicen carga y descarga pesada y construyendo áreas de descanso seguras y vigiladas.\n - **Viabilidad:** _Es viable aplicando el Paquete de Movilidad Europeo, atajando la grave escasez de conductores profesionales en España._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-defensa",
+  "pregunta": "¿Más gasto en defensa?",
+  "posiciones": [
+   {
+    "id": "aumentar",
+    "nombre": "Aumentarlo"
+   },
+   {
+    "id": "contener",
+    "nombre": "Contenerlo o priorizar la seguridad humana"
+   }
+  ],
+  "n": 37,
+  "palabras": 1671,
+  "candidatos": [
+   {
+    "id": "compromis-0359",
+    "partido": "compromis",
+    "titular": "Derecho a sindicarse de las fuerzas de seguridad y eliminar la justicia militar",
+    "marca_actual": [],
+    "texto": "- Proposarem mesures per modernitzar les Forces i Cossos de Seguretat de l’Estat. Impulsarem el reconeixement del seu dret a sindicar-se, així com l’eliminació de la justícia militar."
+   },
+   {
+    "id": "compromis-0527",
+    "partido": "compromis",
+    "titular": "Unión Europea de la Defensa que sustituya a la OTAN y reduzca gasto militar",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- Treballarem per la construcció d'una Unió Europea de la Defensa que puga substituir el marc de l'OTAN, reduïsca duplicitats i despeses militars sense comprometre la seguretat amb un mandat clar en favor del manteniment de la pau, la protecció de la democràcia i la defensa de la legalitat internacional."
+   },
+   {
+    "id": "compromis-0528",
+    "partido": "compromis",
+    "titular": "Auditar todo el gasto en Defensa y publicar los resultados",
+    "marca_actual": [],
+    "texto": "- Auditarem tota la despesa en Defensa, incloses les partides pressupostàries repartides entre altres ministeris i els compromisos de pagament plurianuals dels grans programes d'armament, i publicarem els resultats."
+   },
+   {
+    "id": "compromis-0529",
+    "partido": "compromis",
+    "titular": "Priorizar capacidades de defensa necesarias y evitar compras de armamento innecesarias",
+    "marca_actual": [],
+    "texto": "- Prioritzarem les inversions en capacitats de defensa necessàries, seguretat humana i protecció davant d'amenaces híbrides, evitant la compra d'armament que no responga a les necessitats reals del país."
+   },
+   {
+    "id": "compromis-0530",
+    "partido": "compromis",
+    "titular": "Impedir que el aumento del gasto militar reduzca servicios públicos y protección social",
+    "marca_actual": [],
+    "texto": "- Impedirem que els increments de la despesa militar es facen a costa de reduir la inversió en serveis públics, protecció social o infraestructures crítiques."
+   },
+   {
+    "id": "compromis-0531",
+    "partido": "compromis",
+    "titular": "Reformular las estrategias de seguridad con la agenda «Paz, Mujeres y Seguridad»",
+    "marca_actual": [],
+    "texto": "- Reformularem totes les estratègies de seguretat i defensa nacional als nous reptes i amenaces híbrides, incorporant tots els aspectes de l’Agenda “Pau, Dones i Seguretat” o les resolucions sobre seguretat humana de Nacions Unides."
+   },
+   {
+    "id": "compromis-0533",
+    "partido": "compromis",
+    "titular": "Prohibir la venta de armas a países que vulneren los derechos humanos",
+    "marca_actual": [],
+    "texto": "- Revisarem de manera integral la política d’exportació d’armaments per a prohibir de manera estricta la venda d’armes a països que vulneren els drets humans."
+   },
+   {
+    "id": "fo-0019",
+    "partido": "fo",
+    "titular": "Diagnóstico: la OTAN como organización imperialista al servicio de EE.UU.",
+    "marca_actual": [],
+    "texto": "Por otro lado, España forma parte de la OTAN, organización imperialista que sirve a los intereses de EE.UU. y que, además, nos supone un costo anual importante. La OTAN no aporta nada a España, pero sí supone un gasto. Nos arrastra a conflictos que nada tienen que ver con nuestros intereses como país y no nos apoya en el conflicto que mantenemos con Marruecos, por mucho que a nivel oficial puedan parecer nuestros aliados.\n\nPor ello apostamos por tomar las siguientes medidas:"
+   },
+   {
+    "id": "fo-0021",
+    "partido": "fo",
+    "titular": "Salir de inmediato de la OTAN y reforzar el ejército",
+    "marca_actual": [],
+    "texto": "2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército."
+   },
+   {
+    "id": "fo-0022",
+    "partido": "fo",
+    "titular": "Expulsar las bases militares extranjeras y recuperar el control de Gibraltar",
+    "marca_actual": [],
+    "texto": "3. Expulsión de toda base militar extranjera, empezando con la presencia del ejército inglés en Gibraltar, cuyo control debe ser recuperado. No podemos aspirar a ser un país soberano con ejércitos extranjeros en nuestro territorio."
+   },
+   {
+    "id": "fo-0186",
+    "partido": "fo",
+    "titular": "Democratizar el ejército y mejorar las condiciones de los soldados",
+    "marca_actual": [],
+    "texto": "Aun conscientes del papel del ejército en los países capitalistas, es necesario apuntar que señalar a todo militar como enemigo solo lleva a caer en actitudes infantiles que poco tiene que ver con la transformación de la sociedad. Los soldados del ejército español son en su mayoría de extracción obrera y recurren al ejército por necesidades económicas. Tienen unas malas condiciones de trabajo y a los 45 años les obligan a jubilarse de la peor manera posible si no consiguen obtener ciertas características.\n\nEs necesario concienciar a los militares de que en este país se necesitan muchos cambios, comenzando por la democratización del propio ejército, la depuración de los mandos reaccionarios y la mejora de sus propias condiciones de trabajo.\n\nLos militares no pueden sindicarse, no tienen libertad de reunión y no pueden ser miembros de ningún partido. Los revolucionarios siempre hemos hecho trabajo en el ejército. Debemos tener propuestas claras para la resolución de todos estos conflictos, independientemente de que cuando se dé el proceso constituyente, aboguemos por una refundación del ejército actual, en un Ejército al servicio del pueblo.\n\nPor ello, proponemos todas las siguientes medidas:"
+   },
+   {
+    "id": "fo-0187",
+    "partido": "fo",
+    "titular": "Modernizar y democratizar el ejército y depurar mandos reaccionarios",
+    "marca_actual": [],
+    "texto": "1. Modernización y democratización de las estructuras del ejército. Incluyendo la depuración de los mandos al servicio de la reacción."
+   },
+   {
+    "id": "fo-0188",
+    "partido": "fo",
+    "titular": "Libertad de reunión, sindicación y afiliación política para los soldados",
+    "marca_actual": [],
+    "texto": "2. Dignificación de la vida del soldado. Mejorarán las atribuciones y tendrán libertad de reunión, sindicación y afiliación política."
+   },
+   {
+    "id": "fo-0189",
+    "partido": "fo",
+    "titular": "Acabar con el cese de contrato de los soldados a los 45 años",
+    "marca_actual": [],
+    "texto": "3. Se acabará con el cese de contrato a los 45 años sin dar alternativas laborales para su vuelta al mundo civil."
+   },
+   {
+    "id": "fo-0190",
+    "partido": "fo",
+    "titular": "Refundar el ejército como un Ejército al servicio del pueblo",
+    "marca_actual": [],
+    "texto": "4. Todas estas medidas contribuirán en el futuro a refundar al ejército en uno diferente al actual, en un Ejército al servicio del pueblo, dejando lo reaccionario y represivo en el pasado."
+   },
+   {
+    "id": "fo-0191",
+    "partido": "fo",
+    "titular": "Retirar a los soldados de misiones en el extranjero",
+    "marca_actual": [],
+    "texto": "5. Los soldados españoles dejarán de poner en riesgo sus vidas en misiones en el extranjero que solo buscan defender intereses extranjeros ajenos a nuestros intereses."
+   },
+   {
+    "id": "fe-0049",
+    "partido": "fe",
+    "titular": "Abandonar la OTAN, el FMI, la UE y la ONU",
+    "marca_actual": [],
+    "texto": "- 3.1. Como hemos defendido siempre, los falangistas creemos en la total y absoluta soberanía de la Nación española frente a cualquier elemento foráneo. Es por ello que defendemos, sin medias tintas, el abandono inmediato de las organizaciones supranacionales tales como la OTAN, el FMI o las actuales UE u ONU, y retirarnos de todos aquellos tratados internacionales que limiten nuestra autonomía en la toma de decisiones."
+   },
+   {
+    "id": "fe-0050",
+    "partido": "fe",
+    "titular": "Rechazo a pertenecer a órganos belicistas al servicio de Estados Unidos",
+    "marca_actual": [],
+    "texto": "- 3.2. Creemos profundamente, no sólo en la soberanía de España, sino también en la de todas las naciones del mundo, por lo que pertenecer a órganos belicistas, al servicio de los intereses depredadores de los Estados Unidos de América, resulta una grave injerencia en nuestra política internacional y una seria amenaza a nuestra integridad, en caso de conflicto armado entre potencias."
+   },
+   {
+    "id": "fe-0051",
+    "partido": "fe",
+    "titular": "Desmantelar las bases militares extranjeras, incluida Gibraltar",
+    "marca_actual": [],
+    "texto": "- 3.3. Desmantelamiento de toda base militar extranjera situada en nuestro territorio, incluyendo en este sentido Gibraltar, actualmente ocupada por el Reino Unido. En este caso, se invitará al abandono británico que, de no producirse, provocarán las acciones que el Estado español considere necesarias para llevar a cabo la desocupación."
+   },
+   {
+    "id": "fe-0066",
+    "partido": "fe",
+    "titular": "Planes de desarrollo y refuerzo militar en Ceuta, Melilla y Canarias",
+    "marca_actual": [],
+    "texto": "- 5.6. En la casuística concreta de Ceuta, Melilla y Canarias, amenazadas por el enemigo marroquí, puesta en marcha de planes específicos de desarrollo económico e incentivación de la llegada de más familias españolas. Refuerzo militar de estos tres territorios, con presencia de tropas terrestres y constante vigilancia marítima por parte de la Armada."
+   },
+   {
+    "id": "fe-0163",
+    "partido": "fe",
+    "titular": "Militarizar las aguas con Marruecos y aplicar una Ley de Fugas al narcotráfico",
+    "marca_actual": [],
+    "texto": "- 15.4. Persecución implacable del tráfico de drogas. Militarización de las aguas fronterizas con Marruecos, promulgando y aplicando una Ley de Fugas a toda aquella embarcación que no se detenga ante las advertencias de la Guardia Civil o de la Armada."
+   },
+   {
+    "id": "fe-0169",
+    "partido": "fe",
+    "titular": "Abandonar la OTAN y no participar en misiones ajenas",
+    "marca_actual": [],
+    "texto": "- 16.1. Abandono de la OTAN por parte del Ejército español. Este ha de servir a los intereses de la nación española, no los de EEUU, cualquier otro país u otra entidad supranacional. No participación en misiones y guerras ajenas a nuestros intereses."
+   },
+   {
+    "id": "fe-0170",
+    "partido": "fe",
+    "titular": "Aumentar el presupuesto de defensa",
+    "marca_actual": [
+     "aumentar"
+    ],
+    "texto": "- 16.2. Aumento del presupuesto destinado a la defensa de la nación española. Dotación a nuestro Ejército de condiciones y materiales dignos."
+   },
+   {
+    "id": "fe-0171",
+    "partido": "fe",
+    "titular": "Industria nacional de defensa estatalizada con plan de I+D+i",
+    "marca_actual": [],
+    "texto": "- 16.3. Desarrollo de una industria nacional de defensa, sirviendo a los intereses de nuestro Ejército y, por ende, de nuestra nación. Asociado a dicha industria, plan de investigación, desarrollo e innovación de la misma. Estatalización de las empresas e instituciones encargadas de estas actividades, dada la vital importancia estratégica de las mismas."
+   },
+   {
+    "id": "fe-0173",
+    "partido": "fe",
+    "titular": "Red satelital pública nacional para comunicaciones blindadas",
+    "marca_actual": [],
+    "texto": "- 16.5. Creación de una red satelital de titularidad pública nacional para garantizar comunicaciones blindadas e inmunes a ataques internacionales provocados por decisiones e intereses ajenos a la Nación."
+   },
+   {
+    "id": "fe-0174",
+    "partido": "fe",
+    "titular": "Militarizar las fronteras, sobre todo Ceuta, Melilla y Canarias",
+    "marca_actual": [],
+    "texto": "- 16.6. Militarización de las fronteras españolas, especialmente la frontera sur de Ceuta, Melilla y Canarias."
+   },
+   {
+    "id": "fe-0175",
+    "partido": "fe",
+    "titular": "Servicio militar obligatorio de 18 meses para hombres y mujeres",
+    "marca_actual": [],
+    "texto": "- 16.7. Reintroducción del Servicio Militar obligatorio, con duración de 18 meses, tanto para hombres como para mujeres, a realizar entre los 18 y los 22 años, siendo este remunerado y cotizado. A su término, todo aquel que lo haya realizado, pasará a un estado de reserva activa hasta los 45 años. Más allá de dicha edad, la posición de reservista será voluntaria."
+   },
+   {
+    "id": "fe-0176",
+    "partido": "fe",
+    "titular": "Destinar 4 meses del servicio militar a actividades civiles y emergencias",
+    "marca_actual": [],
+    "texto": "- 16.8. De los 18 meses de servicio, al menos 4 de ellos se destinarán a actividades civiles de Logística Nacional, Emergencias, cuidado del medio natural (con capacitación técnica en maquinaria), gestión del riesgo y disciplina civil."
+   },
+   {
+    "id": "fe-0177",
+    "partido": "fe",
+    "titular": "Reincorporar a las Fuerzas Armadas a la vida nacional con uniforme",
+    "marca_actual": [],
+    "texto": "- 16.9. Reincorporación de las Fuerzas Armadas a la vida nacional, pudiendo los militares lucir el uniforme sin trabas, siempre con el decoro y respeto que merece la institución."
+   },
+   {
+    "id": "pcte-0001",
+    "partido": "pcte",
+    "titular": "Diagnóstico: poder adquisitivo un 4,6 % inferior a 2008 bajo el capitalismo",
+    "marca_actual": [],
+    "texto": "**En España, el poder adquisitivo de los trabajadores y trabajadoras es hoy un 4,6 % inferior al de 2008. La vivienda absorbe una parte creciente de los salarios. La carestía de la vida no para de subir. Las jornadas nos dejan devastados física y mentalmente. Se privatizan los servicios públicos. Y mientras faltan medios para necesidades básicas, crece el gasto militar, los ricos cada vez son más ricos y los Estados se preparan para tenernos más controlados si protestamos.**\n\nEste sistema, **el sistema capitalista**, se levanta sobre nuestra miseria en todo el globo. Tanto es así que millones de personas se ven forzadas a abandonar sus hogares, huir de sus países y jugarse la vida para poder sobrevivir. Huyen de la miseria, de las guerras, de la devastación ambiental, de la barbarie del capitalismo.\n\n¿Y qué hacen los partidos políticos y los gobiernos? La gran mayoría de ellos asume este sistema como el único posible. Incluso aquellos partidos reformistas que dicen defender nuestros intereses los amoldan, en realidad, a las posibilidades de la ley y la economía, que no es más que amoldarlos a **las líneas rojas que imponen la gran empresa y la banca**."
+   },
+   {
+    "id": "pcte-0082",
+    "partido": "pcte",
+    "titular": "Ningún euro de investigación pública para fines militares",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- **I+D militar** — **Ningún euro de investigación pública para fines militares**: los fondos de I+D militar, a salud, energía, alimentación y medio ambiente."
+   },
+   {
+    "id": "pcte-0083",
+    "partido": "pcte",
+    "titular": "Diagnóstico: la militarización de la economía y el riesgo de nuevas guerras",
+    "marca_actual": [],
+    "texto": "La competencia entre grandes potencias y bloques económicos empuja al rearme y aumenta el riesgo de nuevas guerras. **La militarización de la economía ya no es una amenaza: es un hecho**, y la pagamos con austeridad, con aumento de la represión y la vigilancia y, en último término, con nuestras propias vidas.\n\n**Nuestra clase no necesita elegir entre potencias capitalistas**. El dinero que hoy se destina al rearme es el que falta en vivienda, sanidad o educación, y las plantillas de la industria militar no tienen por qué elegir entre su empleo y la paz: pueden producir lo que la sociedad necesita. Nuestra clase debe imponer su propia agenda internacional, una que no pasa por la guerra sino por **la solidaridad de los pueblos**."
+   },
+   {
+    "id": "pcte-0084",
+    "partido": "pcte",
+    "titular": "No al rearme: reducir el gasto militar y anular los Programas Especiales de Modernización",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- **Rearme** — **No al rearme**: reducción del gasto militar real y anulación de los Programas Especiales de Modernización. Esos recursos, para vivienda, servicios, empleo e industria civil."
+   },
+   {
+    "id": "pcte-0085",
+    "partido": "pcte",
+    "titular": "Romper los acuerdos de uso de bases por fuerzas militares extranjeras",
+    "marca_actual": [],
+    "texto": "- **Bases militares** — **Ruptura de los acuerdos que permiten el uso de territorio español por fuerzas militares extranjeras** y recuperación de la plena soberanía sobre las bases."
+   },
+   {
+    "id": "pcte-0086",
+    "partido": "pcte",
+    "titular": "Reconvertir la industria militar hacia producciones socialmente necesarias",
+    "marca_actual": [],
+    "texto": "- **Industria militar** — **Reconversión de la industria militar** hacia producciones socialmente necesarias, garantizando el empleo de sus plantillas."
+   },
+   {
+    "id": "pcte-0088",
+    "partido": "pcte",
+    "titular": "Salida de España de la OTAN y de la Unión Europea",
+    "marca_actual": [],
+    "texto": "- **OTAN y UE** — **Salida de España de la OTAN y de la Unión Europea**."
+   },
+   {
+    "id": "pcte-0090",
+    "partido": "pcte",
+    "titular": "Regreso de las tropas españolas desplegadas en el exterior",
+    "marca_actual": [],
+    "texto": "- **Tropas en el exterior** — **Regreso de las tropas españolas** desplegadas en operaciones imperialistas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-agua",
+  "pregunta": "¿Trasvases e interconexión de cuencas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+   },
+   {
+    "id": "no",
+    "nombre": "No: gestión de la demanda, agua como bien público"
+   }
+  ],
+  "n": 19,
+  "palabras": 1270,
+  "candidatos": [
+   {
+    "id": "compromis-0182",
+    "partido": "compromis",
+    "titular": "Planificar los centros de datos con agua regenerada, renovables y tributación efectiva",
+    "marca_actual": [],
+    "texto": "- Planificarem de manera estratègica l’expansió dels centres de dades amb condicionants socials, energètics i hidràulics de forma de utilitzen aigües regenerades, energies renovables i que tributen pels beneficis generats de manera efectiva."
+   },
+   {
+    "id": "compromis-0201",
+    "partido": "compromis",
+    "titular": "Dar al riego agrario prioridad tras el abastecimiento humano en la planificación hidrológica",
+    "marca_actual": [],
+    "texto": "- Exigirem incorporar les necessitats reals de les explotacions a la planificació hidrològica i donar al reg agrari una consideració prioritària després de l’abastiment humà, compatible amb les obligacions ambientals."
+   },
+   {
+    "id": "compromis-0202",
+    "partido": "compromis",
+    "titular": "Que los trasvases sean excepcionales, con acuerdo entre cuencas y caudales ecológicos",
+    "marca_actual": [],
+    "texto": "- Promourem que els transvasaments siguen una mesura excepcional, amb acord entre conques, disponibilitat acreditada i respecte als cabals ecològics i les necessitats de la conca cedent."
+   },
+   {
+    "id": "compromis-0259",
+    "partido": "compromis",
+    "titular": "Gestión pública del agua con tarifas progresivas, reutilización y ahorro",
+    "marca_actual": [],
+    "texto": "- Garantirem el dret a l'aigua a través d'una gestió pública eficient dels recursos hídrics que incorpore una major progressivitat tarifària en el consum, així com les tecnologies més eficients en els sistemes de depuració, recuperació i reutilització d'aigües, i mesures actives d'estalvi."
+   },
+   {
+    "id": "compromis-0260",
+    "partido": "compromis",
+    "titular": "Transición hidrológica justa que adapte el regadío a la disponibilidad de agua",
+    "marca_actual": [],
+    "texto": "- Establirem una transició hidrològica justa i un full de ruta per a adaptar el regadiu i el futur de l'agricultura a la disponibilitat hídrica i garantir un repartiment equitatiu dels recursos en quantitat i qualitat amb el proveïment de les poblacions, els cabals ecològics i altres usos prioritaris."
+   },
+   {
+    "id": "compromis-0261",
+    "partido": "compromis",
+    "titular": "Frenar la contaminación del agua por nitratos con datos de calidad transparentes",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem estratègies i posarem en marxa mesures per a frenar la contaminació de l'aigua per nitrats, i revertir l'actual i greu situació, tot garantint la transparència en les dades de qualitat de l’aigua."
+   },
+   {
+    "id": "compromis-0262",
+    "partido": "compromis",
+    "titular": "Medidas contra la contaminación del agua por fertilizantes sintéticos y purines",
+    "marca_actual": [],
+    "texto": "- Prendrem mesures en la lluita per la contaminació de l'aigua provocada per l'ús excessiu de fertilitzants sintètics i excrements i purins de la ramaderia industrial."
+   },
+   {
+    "id": "compromis-0263",
+    "partido": "compromis",
+    "titular": "Restaurar ríos y bosques de ribera para mejorar la recarga de los acuíferos",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem projectes de protecció i restauració dels rius, dels boscos de ribera i les capçaleres de valls amb l'objectiu de millora de la capacitat de recàrrega dels aqüífers."
+   },
+   {
+    "id": "compromis-0265",
+    "partido": "compromis",
+    "titular": "Garantizar los caudales ambientales de la Albufera y los ríos valencianos en el Júcar",
+    "marca_actual": [],
+    "texto": "- Garantirem en la planificació hidrològica del Xúquer els cabals ambientals de l’Albufera i dels rius valencians, com a condició per a qualsevol nova concessió o transferència d’aigua."
+   },
+   {
+    "id": "compromis-0304",
+    "partido": "compromis",
+    "titular": "Reformar la gobernanza de los organismos de cuenca con participación de Generalitat y ayuntamientos",
+    "marca_actual": [],
+    "texto": "- Reformarem els mecanismes de governança dels organismes de conca, per a garantir una participació efectiva de la Generalitat i dels ajuntaments en la planificació hidrològica i la prevenció d’inundacions"
+   },
+   {
+    "id": "pacma-0195",
+    "partido": "pacma",
+    "titular": "Subvencionar renovables para sistemas de riego inteligentes que ahorran agua",
+    "marca_actual": [],
+    "texto": "- **Apoyar y subvencionar las energías renovables en las que se sustenten los sistemas de riego inteligentes de presión y caudal constante**, que ahorran agua, son más eficientes y ecológicos."
+   },
+   {
+    "id": "pacma-0200",
+    "partido": "pacma",
+    "titular": "Diagnóstico: el cambio climático reducirá hasta un 40 % el agua del sureste",
+    "marca_actual": [],
+    "texto": "A lo largo de este siglo, el cambio climático traerá consigo considerables reducciones de los recursos hídricos. Los distintos escenarios que prevé el Grupo Intergubernamental de Expertos sobre el Cambio Climático van desde una reducción de entre un 20%, en el escenario más favorable, a un 80%, en el peor posible.\n\nPor otro lado, al ritmo actual de uso del agua, para 2050, más de la mitad de la población mundial correrá el riesgo de escasez de agua, según Make Every Drop Count, un informe de las Naciones Unidas y el Banco Mundial sobre la crisis mundial del agua.\n\nEspaña es uno de los países de la Unión Europea con mayor estrés hídrico. El último informe del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) resalta algo cada vez más evidente: el agua y el cambio climático están intrínsecamente vinculados. En los próximos años se prevén disminuciones de hasta el 25% del recurso en todo el país y del 40% en el sureste peninsular para finales de siglo."
+   },
+   {
+    "id": "pacma-0201",
+    "partido": "pacma",
+    "titular": "Gestionar el agua con eficiencia, caudales ambientales y menos ganadería",
+    "marca_actual": [],
+    "texto": "La correcta gestión de los recursos, de las aportaciones por aguas superficiales y subterráneas, es fundamental para cubrir la demanda en el futuro. Esta debe guiarse por parámetros de eficiencia y ahorro. En este sentido, para proteger y recuperar acuíferos, humedales y ríos, como ya hemos advertido en anteriores epígrafes, es imprescindible **reducir el consumo de alimentos de origen animal y desterrar la ganadería intensiva**, pero también **promover tecnologías innovadoras y eficientes en la agricultura, la industria, el transporte, la energía, el turismo o el urbanismo**, como la utilización de la IA para la predicción de consumos, la sectorización y digitalización de las redes de distribución para la detección de las fugas.\n\nEn España, más del 80% del agua utilizada se destina al regadío y los usos agrarios, seguido del abastecimiento del ciclo urbano, que representa alrededor del 15%. Por ello, debemos insistir en la indispensable **reducción de la producción y el consumo de alimentos de origen animal**, recordando que casi el 80% de los cultivos que son regados con ese agua se destina a alimentar a los animales que se encuentran en las explotaciones ganaderas.\n\nPara garantizar el buen estado de las masas de agua son necesarias **políticas sectoriales que minimicen su consumo, garanticen caudales ambientales parecidos al régimen natural y aseguren la calidad** del agua disponible."
+   },
+   {
+    "id": "pacma-0202",
+    "partido": "pacma",
+    "titular": "Promover el ahorro, la depuración y la gestión pública del agua",
+    "marca_actual": [],
+    "texto": "Las administraciones responsables deben **respetar las llanuras de inundación y evitar la contaminación difusa o los usos excesivos**. Es necesario **promover el ahorro y la depuración del agua y garantizar una buena gestión pública**.\n\nAsimismo, consideramos fundamental **implicar a la ciudadanía contra la contaminación del agua**, ya que nuestra huella medioambiental puede ser crítica, incluso sin salir de casa. Son necesarias **campañas informativas destinadas a concienciar sobre los perjuicios medioambientales de utilizar detergentes y químicos tóxicos en el ámbito doméstico**, como en la limpieza del hogar y la ropa, y **fomentar**, en su lugar, **el uso de productos ecológicos o inocuos**. Se deben **evitar los vertidos de sustancias no biodegradables en los desagües**, como pinturas, disolventes o aceites, **y el uso de los inodoros como papeleras**. Arrojar objetos que no se degradan como toallitas húmedas, bastoncillos, compresas o tampones, no solo provoca serios problemas en los sistemas de alcantarillado, sino que, con el tiempo, estos objetos pueden terminar en arroyos, ríos y otras masas de agua."
+   },
+   {
+    "id": "pacma-0244",
+    "partido": "pacma",
+    "titular": "Estrategia de seguridad alimentaria con economatos sociales y mínimo vital de agua",
+    "marca_actual": [],
+    "texto": "Para garantizar una alimentación adecuada para todas las personas, desde PACMA proponemos la **elaboración de una Estrategia Nacional de Seguridad Alimentaria y Nutrición**, que prevea **medidas como** el establecimiento de **economatos sociales** y el desarrollo de **acuerdos con los comercios locales para garantizar el acceso a productos de alimentación con precios bonificados** en función de la renta disponible, lo que, a su vez, dinamizaría el comercio local.\n\nOtra de nuestras propuestas es el impulso de **programas de huertos urbanos ecológicos, destinados a personas desempleadas y/o en riesgo de exclusión social**, como una manera de garantizar, mediante la autogestión de esos huertos, una canasta básica de productos alimenticios y/o como ayuda para disponer de productos frescos de temporada.\n\nEl acceso al agua, junto al saneamiento, es considerado por la Asamblea General de la ONU como derecho humano. Desde PACMA defendemos que se garantice su acceso a todas las personas, especialmente a las que se encuentran en situación de vulnerabilidad, mediante el establecimiento de un **mínimo vital de agua**.\n\nCon relación a la energía, si bien contamos ya con una Estrategia Nacional contra la Pobreza Energética (ENPE) 2026-2030, hemos de señalar que se mantiene un modelo asistencialista y que no contiene grandes reformas estructurales para resolver un problema que, según datos del Eurostat, afecta a cerca del 20% de la población española."
+   },
+   {
+    "id": "fo-0108",
+    "partido": "fo",
+    "titular": "Planes hidrográficos para repartir el agua y poner fin al derribo de presas",
+    "marca_actual": [],
+    "texto": "7. Invertir en estudios y planes hidrográficos para repartir de forma eficiente el agua y terminar con la sequía de algunos territorios del país. Poner fin al derribo de presas."
+   },
+   {
+    "id": "fo-0109",
+    "partido": "fo",
+    "titular": "Priorizar la limpieza y el mantenimiento de ríos, lagos y embalses",
+    "marca_actual": [],
+    "texto": "8. Priorizar la limpieza y mantenimiento de los ríos, lagos y embalses para garantizar fuentes de agua potable y de riego saludables y duraderos."
+   },
+   {
+    "id": "fe-0128",
+    "partido": "fe",
+    "titular": "Plan Hidrológico Nacional con interconexión de cuencas",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- 11.5. Proyección de un Plan Hidrológico Nacional real, interconexionando cuencas y garantizando el agua como recurso estratégico nacional indisoluble."
+   },
+   {
+    "id": "autonomos-0088",
+    "partido": "autonomos",
+    "titular": "Plan Hidrológico Nacional con interconexión de cuencas, desaladoras y modernización de regadíos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "86. **Plan Hidrológico Nacional y modernización de infraestructuras hídricas** — Inversión prioritaria en interconexión de cuencas, balsas de regulación, desaladoras energéticamente eficientes y modernización de regadíos para garantizar agua en todo el territorio y apoyar la extinción aérea de incendios.\n - **Viabilidad:** _Es viable financiando las obras hidráulicas con fondos europeos de resiliencia climática, protegiendo tanto el abastecimiento urbano como la agricultura y ganadería._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-okupacion",
+  "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+  "posiciones": [
+   {
+    "id": "desalojo-rapido",
+    "nombre": "Desalojo rápido y más penas"
+   },
+   {
+    "id": "proteger-vulnerables",
+    "nombre": "Frenar desahucios de personas vulnerables"
+   }
+  ],
+  "n": 15,
+  "palabras": 791,
+  "candidatos": [
+   {
+    "id": "compromis-0020",
+    "partido": "compromis",
+    "titular": "Prohibir por ley los desahucios sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Prohibirem legalment els desnonaments sense alternativa habitacional, especialment als desnonaments promoguts per grans tenidors i fons d’inversió."
+   },
+   {
+    "id": "fo-0134",
+    "partido": "fo",
+    "titular": "Diagnóstico: vivienda vacía, fondos buitre y aumento de la ocupación ilegal",
+    "marca_actual": [],
+    "texto": "Además, un porcentaje elevado de las viviendas está vacío por fines especulativos y los bancos han concentrado una gran cantidad de inmuebles. Fondos buitre extranjeros se han hecho con parte del mercado con la complicidad de ayuntamientos e instituciones, que han dinamitado el parque de vivienda social y las han vendido a precios irrisorios a inversores extranjeros y fondos especulativos.\n\nLa mayoría de los jóvenes, pese a tener empleo, tienen imposible la opción de emanciparse a consecuencia de la temporalidad y precariedad laboral, mientras que el precio de los alquileres en muchas ciudades es superior incluso al de las pensiones de los jubilados.\n\nTodo este contexto ha llevado a un aumento de la ocupación ilegal de viviendas por parte de muchas familias vulnerables, pero, sobre todo, también a un aumento de las mafias y grupos delictivos de la ocupación, que aprovechan las medidas sociales infructuosas del Gobierno para delinquir y especular con la necesidad y desesperación de la gente o convertir pisos abandonados en puntos de venta de estupefacientes.\n\nEl derecho a una vivienda es incompatible con el mercado y la especulación de esta. Solo una verdadera supervisión por parte del Estado sobre este recurso puede garantizar un acceso a una vivienda digna a los trabajadores de España.\n\nPara remediar esta situación, desde el Frente Obrero proponemos las siguientes medidas:"
+   },
+   {
+    "id": "fo-0137",
+    "partido": "fo",
+    "titular": "Paralizar los desahucios de familias vulnerables y garantizar la dación en pago",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "3. Paralizar inmediatamente todos los procesos de desahucio de las familias trabajadoras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional. Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones."
+   },
+   {
+    "id": "fo-0138",
+    "partido": "fo",
+    "titular": "Acabar con las mafias de la ocupación, los narcopisos y los inquiokupas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "4. Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos. Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso. También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida."
+   },
+   {
+    "id": "fe-0043",
+    "partido": "fe",
+    "titular": "Inembargabilidad del hogar familiar salvo autorización judicial",
+    "marca_actual": [],
+    "texto": "- 2.6. Inembargabilidad del hogar familiar, salvo situaciones verificadas y justificables, autorizadas en vía judicial."
+   },
+   {
+    "id": "fe-0048",
+    "partido": "fe",
+    "titular": "Agilizar desahucios contra la ocupación ilegal y ofrecer alternativas habitacionales",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- 2.11. Lucha contra la ocupación ilegal de inmuebles: Agilización de los procedimientos de desahucio y plan solvente y real de alternativas habitacionales para arrendatarios que no puedan hacer frente a las rentas."
+   },
+   {
+    "id": "fe-0160",
+    "partido": "fe",
+    "titular": "Clausurar los «centros okupas» y detener a sus promotores",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- 15.1. Clausura y detención de los promotores de “centros okupas” (sic), que constituyen un potente núcleo de tráfico de drogas y de actividades contrarias a los valores más elementales."
+   },
+   {
+    "id": "fe-0161",
+    "partido": "fe",
+    "titular": "Perseguir la «okupación» de propiedades de trabajadores españoles",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- 15.2. Persecución de la “okupación” de propiedades de trabajadores españoles que han adquirido con su esfuerzo."
+   },
+   {
+    "id": "pcte-0022",
+    "partido": "pcte",
+    "titular": "Prohibir todo desahucio de hogares trabajadores de su vivienda habitual",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Desahucios** — **Prohibición efectiva de todo desahucio de hogares trabajadores de su vivienda habitual**, sea cual sea la causa, el propietario —también la Administración— y la situación de quien la habita: con o sin contrato, en subarriendo o sin papeles."
+   },
+   {
+    "id": "pcte-0023",
+    "partido": "pcte",
+    "titular": "Alternativa digna en el mismo barrio antes de que el propietario recupere la vivienda",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Alternativa de vivienda** — En el caso de que el propietario necesite la vivienda para vivir en ella, **la Administración garantizará siempre, antes de la salida, una alternativa digna y estable en el mismo barrio**."
+   },
+   {
+    "id": "pcte-0026",
+    "partido": "pcte",
+    "titular": "Alquiler social obligatorio de grandes tenedores de no más del 15 % de ingresos",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Alquiler social** — **Quien no pueda pagar su alquiler no se queda sin casa**: si la vivienda es de un banco, fondo o gran tenedor, **alquiler social obligatorio de no más del 15 % de sus ingresos** y con contrato indefinido; en los demás casos, la Administración realoja al hogar en el parque público, en el mismo barrio y en las mismas condiciones."
+   },
+   {
+    "id": "pcte-0033",
+    "partido": "pcte",
+    "titular": "Ninguna ejecución hipotecaria de vivienda habitual y dación en pago a elección del hogar",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Hipotecas** — **Ninguna ejecución hipotecaria de la vivienda habitual de hogares trabajadores**: reestructuración de la deuda a cargo de la banca, **dación en pago** cuando el hogar lo elija y con derecho a seguir en la vivienda en alquiler social, y cancelación de las deudas de quienes ya perdieron su casa."
+   },
+   {
+    "id": "pcte-0097",
+    "partido": "pcte",
+    "titular": "Ilegalizar las empresas de desocupación y perseguir los desalojos ilegales",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- **Desocupación ilegal** — **Ilegalización de las empresas de desocupación**, prohibición de contratarlas y persecución penal de las coacciones y los desalojos ilegales que practican."
+   },
+   {
+    "id": "autonomos-0062",
+    "partido": "autonomos",
+    "titular": "Ley contra la ocupación ilegal con desalojo policial en menos de 24 horas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "60. **Ley integral contra la ocupación ilegal y protección de la propiedad privada** — Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación y suspensión del empadronamiento fraudulento.\n - **Viabilidad:** _Es viable armonizando la legislación penal y procesal española con la de países vecinos como Francia o Alemania, protegiendo tanto a familias como a locales comerciales._"
+   },
+   {
+    "id": "autonomos-0084",
+    "partido": "autonomos",
+    "titular": "Moratoria y mediación obligatoria ante ejecuciones hipotecarias de familias vulnerables",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "82. **Segunda oportunidad habitacional y dación en pago negociada** — Moratoria temporal y mediación obligatoria para familias vulnerables en paro sobrevenido con riesgo de ejecución hipotecaria de su vivienda habitual, facilitando alquileres sociales o reestructuraciones.\n - **Viabilidad:** _Es viable mejorando el Código de Buenas Prácticas Bancarias y agilizando los mecanismos judiciales de segunda oportunidad._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-nuclear",
+  "pregunta": "¿Qué hacer con las centrales nucleares?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlas o alargar su vida"
+   },
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlas según el calendario"
+   }
+  ],
+  "n": 10,
+  "palabras": 741,
+  "candidatos": [
+   {
+    "id": "compromis-0249",
+    "partido": "compromis",
+    "titular": "Mantener el cierre nuclear sin nuevas prórrogas y reindustrializar la comarca",
+    "marca_actual": [
+     "cerrar"
+    ],
+    "texto": "- Mantindrem el calendari de tancament de les centrals nuclears i no acceptarem cap nova pròrroga, alhora que impulsarem un pla de reindustrialització verda per a la comarca que garantisca els llocs de treball."
+   },
+   {
+    "id": "compromis-0522",
+    "partido": "compromis",
+    "titular": "Ratificar la Convención sobre trabajadores migrantes, el tratado nuclear y convenios de la OIT",
+    "marca_actual": [],
+    "texto": "- Demanarem la ratificació de la Convenció sobre Protecció de Drets de Treballadors Migrants i els seus familiars, el Tractat sobre la No-Proliferació d’Armes Nuclears i els Convenis de l’OIT pendents."
+   },
+   {
+    "id": "pacma-0139",
+    "partido": "pacma",
+    "titular": "Apuesta por las renovables frente a los combustibles fósiles y la nuclear",
+    "marca_actual": [],
+    "texto": "Gran parte de la sociedad española percibe la energía como un bien abundante, inocuo e ilimitado, cuando la realidad es que importamos la mayor parte de la energía que consumimos.\n\nEl modelo energético basado en el uso masivo de los combustibles fósiles y la energía nuclear es insostenible, provoca daños irreversibles al medioambiente y conlleva riesgos y catástrofes evitables.\n\nEl Partido Animalista Con el Medio Ambiente apuesta por avanzar hacia un modelo más eficiente y autosuficiente, con una política energética que fomente las renovables, pero manteniendo la seguridad en el abastecimiento y permitiendo la entrega de energía al consumidor a precios asequibles.\n\nLas energías renovables constituyen la única fuente de energía que, por su carácter autóctono e inagotable y su disponibilidad en muchas fuentes a coste cero en la naturaleza, puede garantizar un suministro sostenible para toda la ciudadanía. Además, tienen un impacto socioeconómico positivo, tanto en la renta nacional, por reducir las importaciones de gas y petróleo y por su creciente aportación al PIB, como en la renta disponible de los consumidores, pues generan actividad económica y empleo, y contribuyen al desarrollo de la industria y la tecnología."
+   },
+   {
+    "id": "fo-0031",
+    "partido": "fo",
+    "titular": "Diagnóstico: pérdida de soberanía energética por la UE y los oligopolios",
+    "marca_actual": [],
+    "texto": "Desde hace décadas España ha sido víctima de las políticas de potencias extranjeras que buscan destruir la soberanía energética de nuestro país. Con la excusa del ecologismo, nos han llevado a ser dependientes y a desaprovechar nuestros recursos, mientras empresas y Estados extranjeros obtienen beneficios multimillonarios a nuestra costa.\n\nEspaña sigue siendo un país con altísimo potencial para la producción de energía, pero que tiene que cubrir gran parte de su demanda mediante la importación de la misma. Esto es consecuencia directa de los cupos y vetos la UE, que han limitado gravemente nuestra producción, y permiten que empresas oligopólicas sigan especulando con un bien de primera necesidad, como es la energía.\n\nEstas corporaciones gozan de numerosos privilegios fiscales y de total impunidad, mientras que los españoles tenemos que seguir pagando una de las facturas de la luz más caras de la historia. Los trabajadores siguen desamparados por el gobierno y abandonados a su suerte.\n\nMientras tanto la nueva izquierda, bajo la bandera de la defensa del ecologismo financiado por grandes multinacionales y lobbys, se ha dedicado a promover la mal llamada “transición ecológica” con la que han justificado el desmantelamiento de grandes centrales de producción energética completamente eficaces y la absurda criminalización de la energía nuclear."
+   },
+   {
+    "id": "fo-0032",
+    "partido": "fo",
+    "titular": "Independencia energética basada en la nuclear compaginada con renovables",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "España debe caminar hacia la independencia energética. Necesitamos un modelo energético planificado, que deje de depender del capital extranjero y que esté basado en fuentes que garanticen un abastecimiento estable. La energía nuclear, además de ser una fuente controlable y fiable, puede garantizar, gracias a su estabilidad, la planificación del abastecimiento de la demanda. Asimismo, España posee unas condiciones muy favorables para el desarrollo de las energías renovables, que deben compaginarse con la energía nuclear.\n\nEl sector energético es un sector estratégico para cualquier país que aspire a garantizar una soberanía plena y una economía sólida. Debe dejar de ser un mercado que solo beneficia a unos pocos.\n\nPara conseguir este objetivo, proponemos estas medidas:"
+   },
+   {
+    "id": "fo-0037",
+    "partido": "fo",
+    "titular": "Ampliar el parque nuclear y explotar los recursos nacionales de uranio",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "5. Apuesta por la energía nuclear, como fuente de energía fiable, estable y controlable. Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país. Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio."
+   },
+   {
+    "id": "fo-0038",
+    "partido": "fo",
+    "titular": "Apoyar las renovables como complemento a la nuclear e invertir en I+D",
+    "marca_actual": [],
+    "texto": "6. Apoyar la producción basada en fuentes de energías renovables como complemento a la nuclear. Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables."
+   },
+   {
+    "id": "fe-0125",
+    "partido": "fe",
+    "titular": "Nuevo mix con la nuclear como fuente principal",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "- 11.2. Implantación de un nuevo mix energético, potenciando la energía nuclear como fuente principal y complementándola con energía renovable (principalmente hidráulica) y ciclo combinado."
+   },
+   {
+    "id": "fe-0127",
+    "partido": "fe",
+    "titular": "Frenar la «transición energética», anular el cierre nuclear e instalar minirreactores",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "- 11.4. En este sentido, freno de todo proyecto de “transición energética”, anulando el plan de cierre de nucleares, proyectando nuevas e incluyendo el uso e instalación de minirreactores nucleares (SMR), así como reactivando centrales térmicas aún no dinamitadas."
+   },
+   {
+    "id": "fe-0133",
+    "partido": "fe",
+    "titular": "I+D en nuevas formas de producción y almacenamiento de energía",
+    "marca_actual": [],
+    "texto": "- 11.10. Apuesta decidida por el I+D hacia nuevas maneras de producción (fusión nuclear, ósmosis, gradientes, etc.), así como almacenamiento de esta."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mordaza",
+  "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+  "posiciones": [
+   {
+    "id": "derogar-sustituir",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o reforzarla"
+   }
+  ],
+  "n": 6,
+  "palabras": 370,
+  "candidatos": [
+   {
+    "id": "compromis-0358",
+    "partido": "compromis",
+    "titular": "Derogar la Ley de Protección de la Seguridad Ciudadana o «ley mordaza»",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "- Derogarem la Llei de Protecció de la Seguretat Ciutadana, coneguda com a llei mordassa."
+   },
+   {
+    "id": "pacma-0240",
+    "partido": "pacma",
+    "titular": "Diagnóstico: la contaminación lumínica altera la fauna y la biodiversidad",
+    "marca_actual": [],
+    "texto": "La iluminación artificial durante la noche es imprescindible para la habitabilidad de las zonas urbanas y rurales. Además de mejorar la seguridad ciudadana, reforzar la prevención de los riesgos laborales y garantizar la seguridad industrial de determinadas instalaciones, es también necesaria para llevar a cabo un gran número de actividades lúdicas, comerciales o productivas.\n\nSin embargo, la contaminación lumínica dificulta la visión del cielo nocturno, que es también un bien inmaterial y patrimonio común que hay que proteger.\n\nEn PACMA nos preocupa especialmente sus efectos adversos sobre la fauna silvestre y la biodiversidad, que es necesario prevenir y minimizar. En cada latitud existen unos patrones de luz y oscuridad estacionales, que determinan los ciclos circadianos a los que casi todos los seres vivos se han adaptado, condicionando sus patrones de comportamiento: horas de actividad, reproducción, polinización, hibernación, etc. La ruptura de estos patrones naturales tiene consecuencias adversas sobre la biodiversidad. Las especies nocturnas son, lógicamente, las más afectadas, pero también las crepusculares y las diurnas, que ven distorsionado su patrón de comportamiento al variar las horas de iluminación diarias, a consecuencia de las fuentes artificiales durante la noche."
+   },
+   {
+    "id": "fe-0011",
+    "partido": "fe",
+    "titular": "Plan de seguridad para recuperar los barrios convertidos en guetos",
+    "marca_actual": [],
+    "texto": "- 1.8. Reincorporación a la vida cotidiana de todos aquellos barrios convertidos en guetos, devolviendo la libertad social y económica a aquellos españoles apresados en ellos por bandas y demás organizaciones criminales extranjeras. Plan de seguridad ciudadana eficaz para encontrar, detener y expulsar a todos los integrantes de este tipo de colectivos delictivos extranjeros."
+   },
+   {
+    "id": "fe-0164",
+    "partido": "fe",
+    "titular": "Reformar la Ley de Seguridad Ciudadana al servicio de la Nación",
+    "marca_actual": [],
+    "texto": "- 15.5. Reforma de la Ley de Seguridad Ciudadana, que garantice su servicio real a los intereses de la Nación española."
+   },
+   {
+    "id": "pcte-0093",
+    "partido": "pcte",
+    "titular": "Derogar la Ley Mordaza y anular las sanciones por huelgas y protestas",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "- **Ley Mordaza** — **Derogación de la Ley de Seguridad Ciudadana (la llamada Ley Mordaza)** y anulación de las sanciones impuestas con ella por participar en huelgas y protestas."
+   },
+   {
+    "id": "autonomos-0060",
+    "partido": "autonomos",
+    "titular": "Cubrir el 100 % de las vacantes en plantillas de seguridad y emergencias",
+    "marca_actual": [],
+    "texto": "58. **Cobertura obligatoria del 100 % de plantillas de seguridad y emergencias** — Obligación legal de cubrir de forma automática las vacantes por jubilación o traslado en policía, guardia civil, bomberos y protección civil mediante convocatorias anuales unificadas.\n - **Viabilidad:** _Es viable mediante planificación plurianual de oferta de empleo público, garantizando la seguridad ciudadana tanto en áreas urbanas como en el medio rural._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-memoria",
+  "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   }
+  ],
+  "n": 7,
+  "palabras": 281,
+  "candidatos": [
+   {
+    "id": "compromis-0362",
+    "partido": "compromis",
+    "titular": "Derogar la Ley de Amnistía de 1977",
+    "marca_actual": [],
+    "texto": "- Derogarem la Llei d'Amnistia de 1977."
+   },
+   {
+    "id": "compromis-0363",
+    "partido": "compromis",
+    "titular": "Retirar los símbolos franquistas según el artículo 15 de la ley de Memoria Histórica",
+    "marca_actual": [],
+    "texto": "- Exigirem el compliment efectiu de l'article 15 de la llei de Memòria Històrica que estableix que 'les Administracions públiques prendran les mesures oportunes per a la retirada d'escuts, insígnies i altres objectes commemoratius d'exaltació de la revolta militar, de la Guerra Civil i de la repressió de la Dictadura'. Entre aquestes mesures podrà incloure's la retirada de subvencions o ajudes públiques."
+   },
+   {
+    "id": "compromis-0364",
+    "partido": "compromis",
+    "titular": "Investigar el dinero incautado por el gobierno franquista después de 1936",
+    "marca_actual": [],
+    "texto": "- Promourem la investigació del total de diners incautats pel govern franquista després de 1936, que conformà el \"Fons de paper moneda posat en circulació per l'enemic\" i determinació de les persones afectades per aquest fet."
+   },
+   {
+    "id": "compromis-0365",
+    "partido": "compromis",
+    "titular": "Ampliar la Ley de Memoria Democrática para reparar el dinero confiscado por el franquismo",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "- Modificarem la Llei de Memòra Democràtica per la qual es reconeixen i s'amplien drets i s'estableixen mesures a favor dels qui van patir persecució o violència durant la Guerra del 1936-1939 i la posterior dictadura, per tal que es reconeguen el paper moneda i altres signes confiscats pel règim franquista i es reconega el dret de reparació als particulars afectats per la confiscació dels seus diners. Així com la recuperació dels béns dipositats a les caixes d'estalvis valencianes."
+   },
+   {
+    "id": "fe-0193",
+    "partido": "fe",
+    "titular": "Cesar las subvenciones a «mafias LGTB» y a la «memoria histórica»",
+    "marca_actual": [],
+    "texto": "- 18.6. Cese inmediato de cualquier tipo de subvención a mafias LGTB, a la mal llamada “memoria histórica” y demás sinsentidos que sangran las arcas públicas con fines puramente sectarios y partidistas."
+   },
+   {
+    "id": "fe-0234",
+    "partido": "fe",
+    "titular": "Derogar las Leyes de «Memoria»",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- 21.1. Derogación inmediata de las mal llamadas Leyes de “Memoria”, que falsean nuestra historia e inducen al enfrentamiento y revanchismo del pueblo español."
+   },
+   {
+    "id": "pcte-0096",
+    "partido": "pcte",
+    "titular": "Ilegalizar las organizaciones fascistas y franquistas y disolver sus fundaciones",
+    "marca_actual": [],
+    "texto": "- **Fascismo y franquismo** — **Ilegalización de las organizaciones fascistas y franquistas** y disolución de las fundaciones que enaltecen la dictadura: ni un espacio ni un euro público para ellas. Rechazo de cualquier ley que equipare el fascismo con el comunismo."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sedicion",
+  "pregunta": "¿Recuperar el delito de sedición?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, recuperarlo o endurecer esos delitos"
+   },
+   {
+    "id": "no",
+    "nombre": "No, o despenalizar delitos de opinión"
+   }
+  ],
+  "n": 1,
+  "palabras": 27,
+  "candidatos": [
+   {
+    "id": "pcte-0098",
+    "partido": "pcte",
+    "titular": "Derogar los delitos de injurias a la Corona y ultrajes a símbolos",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- **Delitos de opinión** — **Derogación de los delitos de opinión que protegen al poder**: injurias a la Corona y a las instituciones y ultrajes a símbolos."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mercosur",
+  "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+  "posiciones": [
+   {
+    "id": "rechazar",
+    "nombre": "Rechazarlo o exigir cláusulas espejo"
+   },
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarlo"
+   },
+   {
+    "id": "salvaguardas",
+    "nombre": "Aplicarlo con salvaguardas y control"
+   }
+  ],
+  "n": 1,
+  "palabras": 14,
+  "candidatos": [
+   {
+    "id": "fe-0139",
+    "partido": "fe",
+    "titular": "Abandonar el acuerdo UE-Mercosur",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "- 12.4. Abandono de España del acuerdo UE-Mercosur, que tanto daña nuestra producción nacional."
+   }
+  ]
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 1,
+  "palabras": 7,
+  "candidatos": [
+   {
+    "id": "compromis-0362",
+    "partido": "compromis",
+    "titular": "Derogar la Ley de Amnistía de 1977",
+    "marca_actual": [],
+    "texto": "- Derogarem la Llei d'Amnistia de 1977."
+   }
+  ]
+ },
+ {
+  "eje": "eje-burka",
+  "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, prohibirlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-lomloe",
+  "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o desarrollarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ }
+]

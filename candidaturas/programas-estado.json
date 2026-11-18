@@ -1,0 +1,590 @@
+{
+ "PSOE": {
+  "nombre": "Partido Socialista Obrero Español",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "",
+  "url": ""
+ },
+ "PSC-PSOE": {
+  "nombre": "Partit dels Socialistes de Catalunya",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "Usa el programa estatal del PSOE; añade un manifiesto de 8 páginas sin copia oficial.",
+  "url": ""
+ },
+ "PSE-EE (PSOE)": {
+  "nombre": "Partido Socialista de Euskadi",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "Usa el programa estatal del PSOE.",
+  "url": ""
+ },
+ "PSIB-PSOE": {
+  "nombre": "Partit Socialista de les Illes Balears",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "Usa el programa estatal del PSOE.",
+  "url": ""
+ },
+ "PSdeG-PSOE": {
+  "nombre": "Partido dos Socialistas de Galicia",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "Usa el programa estatal del PSOE.",
+  "url": ""
+ },
+ "PSN-PSOE": {
+  "nombre": "Partido Socialista de Navarra",
+  "estado": "web",
+  "prog": "psoe",
+  "nota": "Usa el programa estatal del PSOE.",
+  "url": ""
+ },
+ "SDP (PSOE-IU-MS)": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "SDP (PSOE-COMPROMIS-EUPV)": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-EZAN IU-MS": {
+  "nombre": "Senado de Progreso / Aurrera Doan Senatua",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "SDP (PSOE-MS)": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "SDP (PSOE-CHA-IU-MS)": {
+  "nombre": "Senado de Progreso de Aragón",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "SDP (PSOE-MM-IU-MS)": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "SDP (PSOE-IUN NEB-MS-BATZARRE)": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-MS": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-IU-MS": {
+  "nombre": "Senado de Progreso",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSIB-PSOE-MÉS PER MALLORCA-SUMAR-EUIB": {
+  "nombre": "Acord de Progrés per Mallorca",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-MÉS PER MENORCA-EM-EU-PODEMOS": {
+  "nombre": "Menorca al Senat",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-SUMAR-EUIB-ARA EIVISSA-PODEM": {
+  "nombre": "Eivissa al Senat",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PSOE-GxF-M.SUMAR": {
+  "nombre": "Formentera al Senat",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Coalición para el Senado del PSOE con otros partidos; no ha publicado programa propio.",
+  "url": ""
+ },
+ "PP": {
+  "nombre": "Partido Popular",
+  "estado": "web",
+  "prog": "pp",
+  "nota": "",
+  "url": ""
+ },
+ "UPN-PP": {
+  "nombre": "Unión del Pueblo Navarro en coalición con el PP",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Anuncia un programa conjunto con una parte navarra; no publicado a 17-11.",
+  "url": ""
+ },
+ "SA UNIÓ": {
+  "nombre": "Sa Unió de Formentera",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "FA": {
+  "nombre": "Frente Amplio",
+  "estado": "web",
+  "prog": "fa",
+  "nota": "",
+  "url": ""
+ },
+ "FRENTE AMPLIO-FRONTE AMPLA": {
+  "nombre": "Frente Amplio-Fronte Ampla",
+  "estado": "web",
+  "prog": "fa",
+  "nota": "Usa el programa estatal del Frente Amplio; anuncia 15 medidas gallegas que no ha publicado.",
+  "url": ""
+ },
+ "CHA-IU-MS-FRENTE AMPLIO": {
+  "nombre": "Chunta Aragonesista-Frente Amplio Aragón",
+  "estado": "web",
+  "prog": "fa",
+  "nota": "Usa el programa estatal del Frente Amplio; anuncia una «Agenda Aragonesa» que no ha publicado.",
+  "url": ""
+ },
+ "FRENTE AMPLIO-FRONTE ZABALA": {
+  "nombre": "Frente Amplio-Fronte Zabala",
+  "estado": "web",
+  "prog": "fa",
+  "nota": "No tiene programa propio; se supone que usa el estatal del Frente Amplio.",
+  "url": ""
+ },
+ "COMUNS-FRONT AMPLI": {
+  "nombre": "Comuns-Front Ampli",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Programa propio de 135 páginas en catalán, distinto del estatal del Frente Amplio.",
+  "url": ""
+ },
+ "C-DEM": {
+  "nombre": "Comuns-Front Ampli per la democràcia",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Lista al Senado; se supone que usa el programa de Comuns-Front Ampli.",
+  "url": ""
+ },
+ "COMPROMIS-EUPV-PODEM-ERPV": {
+  "nombre": "Compromís: Front Valencià",
+  "estado": "web",
+  "prog": "compromis",
+  "nota": "Programa propio en valenciano, distinto del estatal del Frente Amplio.",
+  "url": ""
+ },
+ "ARAMÉS-EU-MS": {
+  "nombre": "Aramés-Front Ampli",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Anuncia programa propio, pero no lo ha publicado.",
+  "url": ""
+ },
+ "NC-BC, PODEMOS, IU, SUMAR": {
+  "nombre": "Unidad del Pueblo Canario",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Solo hay un manifiesto de 6 páginas, sin copia oficial.",
+  "url": ""
+ },
+ "VOX": {
+  "nombre": "Vox",
+  "estado": "web",
+  "prog": "vox",
+  "nota": "",
+  "url": ""
+ },
+ "PODEMOS": {
+  "nombre": "Podemos",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Programa de 141 páginas; no está en la web del partido.",
+  "url": ""
+ },
+ "PAZ,CASA Y TRABAJO": {
+  "nombre": "Podemos (Paz, Casa y Trabajo)",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Usa el programa estatal de Podemos.",
+  "url": ""
+ },
+ "FO": {
+  "nombre": "Frente Obrero",
+  "estado": "web",
+  "prog": "fo",
+  "nota": "",
+  "url": ""
+ },
+ "SALF": {
+  "nombre": "Se Acabó La Fiesta",
+  "estado": "web",
+  "prog": "salf",
+  "nota": "",
+  "url": ""
+ },
+ "MUNDO+JUSTO": {
+  "nombre": "Por un Mundo Más Justo",
+  "estado": "web",
+  "prog": "mundo",
+  "nota": "",
+  "url": ""
+ },
+ "PACMA": {
+  "nombre": "Partido Animalista con el Medio Ambiente",
+  "estado": "web",
+  "prog": "pacma",
+  "nota": "",
+  "url": ""
+ },
+ "PARTIDO AUTÓNOMOS": {
+  "nombre": "Partido Autónomos",
+  "estado": "web",
+  "prog": "autonomos",
+  "nota": "",
+  "url": ""
+ },
+ "PCTE": {
+  "nombre": "Partido Comunista de los Trabajadores de España",
+  "estado": "web",
+  "prog": "pcte",
+  "nota": "",
+  "url": ""
+ },
+ "PCTC": {
+  "nombre": "Partit Comunista dels Treballadors de Catalunya",
+  "estado": "web",
+  "prog": "pcte",
+  "nota": "Usa el «Programa de lucha» del PCTE, traducido al catalán.",
+  "url": ""
+ },
+ "PCTG": {
+  "nombre": "Partido Comunista dos Traballadores da Galiza",
+  "estado": "web",
+  "prog": "pcte",
+  "nota": "Usa el «Programa de lucha» del PCTE.",
+  "url": ""
+ },
+ "PCTE/ELAK": {
+  "nombre": "Partido Comunista de los Trabajadores de Euskadi",
+  "estado": "web",
+  "prog": "pcte",
+  "nota": "Usa el «Programa de lucha» del PCTE.",
+  "url": ""
+ },
+ "FE de las JONS": {
+  "nombre": "Falange Española de las JONS",
+  "estado": "web",
+  "prog": "fe",
+  "nota": "",
+  "url": ""
+ },
+ "ESCAÑOS EN BLANCO": {
+  "nombre": "Escaños en Blanco",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "Su único compromiso es no ocupar el escaño.",
+  "url": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/"
+ },
+ "ADELANTE ANDALUCÍA": {
+  "nombre": "Adelante Andalucía",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "EH BILDU": {
+  "nombre": "EH Bildu",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "EH BILDU-ERC": {
+  "nombre": "EH Bildu-ERC",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Se supone que usa el programa de EH Bildu; no hay programa común.",
+  "url": ""
+ },
+ "ERC": {
+  "nombre": "Esquerra Republicana de Catalunya",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "ERC-EH BILDU": {
+  "nombre": "ERC-EH Bildu",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Lista al Senado; se supone que usa el programa de ERC.",
+  "url": ""
+ },
+ "EAJ-PNV": {
+  "nombre": "EAJ-PNV",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "PFAC": {
+  "nombre": "Feministas al Congreso",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "JxCat": {
+  "nombre": "Junts per Catalunya",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "No ha publicado programa para el 29N.",
+  "url": ""
+ },
+ "D21": {
+  "nombre": "Democracia para el Siglo 21",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "ALHORA": {
+  "nombre": "Alhora",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "Programa genérico en su web, no específico del 29N.",
+  "url": ""
+ },
+ "CNV": {
+  "nombre": "Convergents",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "BNG": {
+  "nombre": "Bloque Nacionalista Galego",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "GBAI": {
+  "nombre": "Geroa Bai",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Solo una nota sobre sus «bases políticas».",
+  "url": ""
+ },
+ "EGUZKILORE": {
+  "nombre": "Eguzkilore",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "Programa genérico en su web.",
+  "url": ""
+ },
+ "PUEDE": {
+  "nombre": "Partido Unionista Estado de España",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "P.D.S.J.E.": {
+  "nombre": "Partido Demócrata Social Jubilados Europeos",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "NEX": {
+  "nombre": "Nuevo Extremeñismo-Adelante Extremadura",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "FV": {
+  "nombre": "Formentera Viva",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "FIA": {
+  "nombre": "Federación de los Independientes de Aragón",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "TERUEL EXISTE": {
+  "nombre": "Teruel Existe",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "P. ALANTRE": {
+  "nombre": "Proyecto Alantre",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "«Doce compromisos» en su web.",
+  "url": "https://ya-toca.com/programa/"
+ },
+ "PREPAL": {
+  "nombre": "Partido Regionalista del País Leonés",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "SY": {
+  "nombre": "Soria ¡Ya!",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "Programa breve: un cartel de una página.",
+  "url": ""
+ },
+ "PANCAL-URCI": {
+  "nombre": "Partido Nacionalista de Castilla y León-URCI",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Solo tiene programa autonómico.",
+  "url": ""
+ },
+ "PH": {
+  "nombre": "Partido Humanista",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "IE": {
+  "nombre": "Iustitia Europa",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "29": {
+  "nombre": "Alternativa Malagueña",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "3e": {
+  "nombre": "Tercera Edad en Acción",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "LIB": {
+  "nombre": "Liberación Canaria",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "Propuestas generales en su web, no específicas del 29N.",
+  "url": "https://liberacioncanaria.org/nuestras-propuestas/"
+ },
+ "D.R.G": {
+  "nombre": "Drago Canarias",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Presentó «70 medidas» en rueda de prensa; no las ha publicado.",
+  "url": ""
+ },
+ "CCa-1.ºCAN": {
+  "nombre": "Coalición Canaria-Primero Canarias",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "PCPC": {
+  "nombre": "Partido Comunista del Pueblo Canario",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "IxLG": {
+  "nombre": "Iniciativa por La Gomera",
+  "estado": "pdf",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "ASG": {
+  "nombre": "Agrupación Socialista Gomera",
+  "estado": "no-publicado",
+  "prog": null,
+  "nota": "Lo ha repartido en papel; no está en internet.",
+  "url": ""
+ },
+ "A.H.I.": {
+  "nombre": "Agrupación Herreña Independiente",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "ASAMBLEA HERREÑA": {
+  "nombre": "Asamblea Herreña",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "VLC": {
+  "nombre": "Valencia Unida",
+  "estado": "sin",
+  "prog": null,
+  "nota": "Solo tiene un programa autonómico para 2027.",
+  "url": ""
+ },
+ "RRB": {
+  "nombre": "Renacer Renaixer",
+  "estado": "sin",
+  "prog": null,
+  "nota": "",
+  "url": ""
+ },
+ "AGENDA VALENCIANA": {
+  "nombre": "Agenda Valenciana",
+  "estado": "solo-web",
+  "prog": null,
+  "nota": "Seis ejes en su web.",
+  "url": "https://www.agendavalenciana.org/#programa"
+ }
+}

@@ -1,0 +1,1208 @@
+[
+ {
+  "eje": "eje-patrimonio",
+  "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlos o bajarlos"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlos o subirlos"
+   }
+  ],
+  "n": 21,
+  "palabras": 1315,
+  "candidatos": [
+   {
+    "id": "salf-0055",
+    "partido": "salf",
+    "titular": "Libertad económica: nadie paga IRPF por los primeros 35.000 euros",
+    "marca_actual": [],
+    "texto": "**Libertad económica, sin dejar a nadie atrás. Nadie paga IRPF por los primeros 35.000 euros.**\n\n**20 de agosto** Día de la Liberación Fiscal: hasta entonces trabajas para el Estado\n\n**58 €** solo 58 de cada 100 € que te quitan en impuestos llegan a tu bolsillo\n\n**+10 %** de IRPF recaudado en 2025 sin subir un solo tipo"
+   },
+   {
+    "id": "salf-0061",
+    "partido": "salf",
+    "titular": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto a las grandes fortunas",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "6. **Sucesiones, Donaciones y Patrimonio: suprimidos.** Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. _Coste: ≈ 3.500 M€/año._\n - **0 %** no se paga dos veces por el mismo euro"
+   },
+   {
+    "id": "salf-0064",
+    "partido": "salf",
+    "titular": "Carga de la prueba para Hacienda y renta en una página",
+    "marca_actual": [],
+    "texto": "9. **Hacienda demuestra. Tú no pruebas tu inocencia.** Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.\n - **30 días** para liquidar"
+   },
+   {
+    "id": "salf-0065",
+    "partido": "salf",
+    "titular": "Exigir tres quintos del Congreso para subir impuestos y factura fiscal anual",
+    "marca_actual": [],
+    "texto": "10. **Tres quintos para subir impuestos. Y tu factura fiscal cada año.** Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.\n - **42 €** de cada 100 que cuestas se queda el Estado"
+   },
+   {
+    "id": "salf-0066",
+    "partido": "salf",
+    "titular": "Financiación autonómica con criterios iguales y sin condonaciones de deuda salvo catástrofe",
+    "marca_actual": [],
+    "texto": "11. **Financiación autonómica justa, solidaria y responsable. Ni condonaciones ni moneda de cambio.** Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos. Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.\n - **0 €** de condonaciones de deuda entre administraciones, salvo catástrofe"
+   },
+   {
+    "id": "salf-0067",
+    "partido": "salf",
+    "titular": "Techo constitucional a la presión fiscal y a la deuda, con delito por superarlo",
+    "marca_actual": [],
+    "texto": "12. **Encadenar a los políticos: techo constitucional a los impuestos y a la deuda.** Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.\n - **Delito** superar el techo de impuestos y deuda"
+   },
+   {
+    "id": "salf-0071",
+    "partido": "salf",
+    "titular": "Lema contra que el Estado se quede más de la mitad del dinero",
+    "marca_actual": [],
+    "texto": "> **«Se acabó que vagos y parásitos te roben más de la mitad de tu dinero»**"
+   },
+   {
+    "id": "mundo-0021",
+    "partido": "mundo",
+    "titular": "Diversidad como riqueza: mediación, educación para la paz y justicia restaurativa",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Derechos y democracia\n\n_La diversidad de orígenes, creencias y formas de vida es una riqueza, pero solo cuando nos conocemos y nos tratamos como iguales. Frente a los discursos que siembran miedo y señalan a colectivos enteros, apostamos por la mediación, la educación para la paz y la justicia restaurativa. Queremos barrios y pueblos donde nadie sea sospechoso por su nombre, su color de piel o su religión._"
+   },
+   {
+    "id": "mundo-0069",
+    "partido": "mundo",
+    "titular": "Contribución a la Seguridad Social de las empresas con mucha automatización",
+    "marca_actual": [],
+    "texto": "4. **Crear una contribución a la Seguridad Social para las empresas que generan mucho valor con poco empleo gracias a la automatización y la tecnología**. Así, una parte de esa riqueza volverá a la protección de todas las personas, en lugar de que la sostenibilidad del sistema dependa solo de los salarios."
+   },
+   {
+    "id": "mundo-0073",
+    "partido": "mundo",
+    "titular": "Un sistema fiscal progresivo en el que contribuya más quien más tiene",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo\n\n_Los impuestos son el precio de vivir en una sociedad que cuida de todas las personas. Hoy no paga más quien más tiene: las rentas del capital tributan menos que las del trabajo y las grandes fortunas encuentran mil vías para eludir. Proponemos un sistema progresivo de verdad, que persiga el fraude y los paraísos fiscales y garantice que quien más tiene contribuya en proporción._"
+   },
+   {
+    "id": "mundo-0074",
+    "partido": "mundo",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+   },
+   {
+    "id": "mundo-0075",
+    "partido": "mundo",
+    "titular": "Aumentar un 40 % los recursos de la Agencia Tributaria contra el fraude",
+    "marca_actual": [],
+    "texto": "2. **Reforzar la lucha contra el fraude fiscal** incrementando al menos un 40% los recursos humanos y materiales de la Agencia Tributaria destinados a la inspección, investigación y control del fraude, con especial atención a las grandes fortunas y empresas."
+   },
+   {
+    "id": "mundo-0077",
+    "partido": "mundo",
+    "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+   },
+   {
+    "id": "mundo-0078",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+   },
+   {
+    "id": "mundo-0079",
+    "partido": "mundo",
+    "titular": "Gravar los beneficios extraordinarios y limitar al 90 % la exención por doble imposición",
+    "marca_actual": [],
+    "texto": "6. **Incrementar la contribución fiscal de las grandes empresas**, generalizando la tributación de los beneficios extraordinarios, tanto los derivados de circunstancias ajenas a su actividad como los obtenidos por posiciones dominantes en mercados con escasa competencia. Revisar los incentivos y deducciones fiscales, limitando al 90 % la exención por doble imposición, y reforzar el control sobre las SICAV y las ETVE para evitar su utilización como instrumentos de inversión especulativa."
+   },
+   {
+    "id": "mundo-0081",
+    "partido": "mundo",
+    "titular": "Converger la presión fiscal (37,1 % del PIB) con la zona euro en 2030",
+    "marca_actual": [],
+    "texto": "- **Presión fiscal** — 37,1 % del PIB (Eurostat · 2024) — Meta: Converger con la media de la zona euro, con más progresividad — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0083",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % para patrimonios de más de 50 M€ (2027)",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- **Grandes patrimonios (> 50 M€ netos)** — Medida nueva — Meta: Tributación efectiva mínima del 3 % — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0086",
+    "partido": "mundo",
+    "titular": "Repartir mejor el trabajo: menos horas, salarios suficientes y renta básica",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo · Inclusión social\n\n_Tener empleo debería bastar para vivir con dignidad, y hoy no siempre basta. La automatización y la tecnología generan una riqueza enorme, y la cuestión es quién se la queda. Proponemos repartir mejor el trabajo y sus frutos: menos horas, salarios suficientes, más tiempo para cuidar y convivir, y avanzar hacia una renta básica de justicia social._"
+   },
+   {
+    "id": "mundo-0109",
+    "partido": "mundo",
+    "titular": "Revisar los acuerdos comerciales que favorecen la explotación de países empobrecidos",
+    "marca_actual": [],
+    "texto": "3. **Promover un comercio internacional justo.** Revisar los acuerdos comerciales y financieros que favorecen la explotación de los recursos y las personas en países empobrecidos. Garantizar precios justos, trabajo digno y que la riqueza generada contribuya al desarrollo de las comunidades de origen. Abordar prioritariamente los acuerdos comerciales con África que tienen como objetivo principal la explotación de recursos naturales (minerales estratégicos, gas, fosfatos y caladeros pesqueros) y el fin de las barreras arancelarias discriminatorias."
+   },
+   {
+    "id": "mundo-0186",
+    "partido": "mundo",
+    "titular": "La energía como derecho social: renovables, autoconsumo y comunidades energéticas",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Planeta · Economía y empleo\n\n_La energía es un derecho social, no un lujo. Dejar atrás el carbón, el petróleo y el gas es urgente, y puede hacerse de forma que abarate la factura de los hogares y genere empleo en los territorios. Queremos energías renovables bien planificadas, que respeten el entorno y dejen parte de su riqueza en los pueblos donde se instalan, y más autoconsumo y comunidades energéticas._"
+   },
+   {
+    "id": "mundo-0205",
+    "partido": "mundo",
+    "titular": "Visado cultural ágil para artistas de países empobrecidos y residencias compartidas",
+    "marca_actual": [],
+    "texto": "4. **Cultura de la ciudadanía global.** La cultura no tiene fronteras, pero muchas personas creadoras sí las sufren. Proponemos un visado cultural ágil para artistas de países empobrecidos invitados a festivales y residencias, porque hoy muchos no llegan a actuar por denegaciones o retrasos; programas de residencias artísticas compartidas con creadores de África, América Latina y Asia, dentro de la Cooperación Española; apoyo a las expresiones culturales de las comunidades migrantes que viven en España, como riqueza común y no como folclore aparte."
+   }
+  ]
+ },
+ {
+  "eje": "eje-okupacion",
+  "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+  "posiciones": [
+   {
+    "id": "desalojo-rapido",
+    "nombre": "Desalojo rápido y más penas"
+   },
+   {
+    "id": "proteger-vulnerables",
+    "nombre": "Frenar desahucios de personas vulnerables"
+   }
+  ],
+  "n": 17,
+  "palabras": 1295,
+  "candidatos": [
+   {
+    "id": "salf-0016",
+    "partido": "salf",
+    "titular": "Primera vivienda un 35 % más barata y okupa fuera en 48 horas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "1. **Vivienda** — Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas. Eliminación TOTAL de impuestos a la 1.ª vivienda. Democratización total del suelo. Crédito hipotecario para menores de 45 años."
+   },
+   {
+    "id": "salf-0027",
+    "partido": "salf",
+    "titular": "Primera casa un 35 % más barata y okupa fuera en 48 horas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "**Tu primera casa, un 35 % más barata. Y el okupa, fuera en 48 horas.**\n\n**> 50 %** más de la mitad del precio de un piso nuevo son impuestos\n\n**755.000** viviendas que faltan en núcleos urbanos de España\n\n**12 meses → 12 semanas** reducción del tiempo máximo para una licencia"
+   },
+   {
+    "id": "salf-0030",
+    "partido": "salf",
+    "titular": "Desalojo de okupas en 48 horas e inquiokupas en 30 días",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "3. **Okupa fuera en 48 horas. Inquiokupa, en 30 días.** Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.\n - **48 h** 14.875 okupaciones en 2025"
+   },
+   {
+    "id": "mundo-0003",
+    "partido": "mundo",
+    "titular": "Objetivos: vivienda asequible, parque público, menos especulación y fin del sinhogarismo",
+    "marca_actual": [],
+    "texto": "Para avanzar en este compromiso, nuestro programa de vivienda tiene los siguientes objetivos:\n - Garantizar que todas las personas puedan acceder a una vivienda digna, estable y asequible, sin que su coste les impida cubrir otras necesidades básicas.\n - Crear un parque público y social de vivienda amplio, permanente y sostenible, que proteja a las generaciones presentes y futuras.\n - Reducir los precios abusivos del alquiler y la especulación inmobiliaria, dando prioridad a la función social de la vivienda frente a su utilización como activo exclusivamente financiero.\n - Aumentar la oferta de vivienda disponible, aprovechando los inmuebles vacíos, rehabilitando edificios existentes y promoviendo nuevas viviendas asequibles.\n - Proteger a las personas inquilinas y ofrecer seguridad jurídica y garantías justas a las y los pequeños propietarios, favoreciendo relaciones de alquiler estables y equilibradas.\n - Construir ciudades y pueblos más habitables, inclusivos y sostenibles, donde todas las personas puedan desarrollar su proyecto de vida sin verse expulsadas de sus barrios.\n - Erradicar progresivamente el sinhogarismo, situando el acceso a una vivienda estable como punto de partida para la inclusión y la autonomía personal.\n - Evitar que ninguna persona o familia vulnerable se quede sin hogar como consecuencia de un desahucio, garantizando alternativas habitacionales adecuadas y una intervención pública preventiva."
+   },
+   {
+    "id": "mundo-0010",
+    "partido": "mundo",
+    "titular": "Seguro público de alquiler y compensaciones para pequeñas propietarias",
+    "marca_actual": [],
+    "texto": "5. **Garantías para las pequeñas propietarias.**\nProteger a las personas inquilinas es compatible con dar seguridad a quienes alquilan una o dos viviendas como personas físicas. Para ellas proponemos:\n - Incentivar, mediante medidas fiscales, el alquiler social, tanto para la persona propietaria como para la persona inquilina, y establecer mecanismos que diferencien estas medidas entre grandes y pequeñas propietarias, evitando el perjuicio desproporcionado de estas últimas.\n - Crear un seguro público de alquiler, garantizado por la Administración, que cubra los impagos y los desperfectos a las personas físicas propietarias que alquilen su vivienda a un precio igual o inferior al de referencia.\n - Ofrecer incentivos y garantías públicas a las personas propietarias que pongan en el mercado de alquiler sus viviendas vacías (medida 7).\n - Evitar que el coste de una política de protección frente a los desahucios recaiga injustamente sobre pequeñas propietarias. Establecer mecanismos públicos de compensación cuando la persona propietaria sea una persona física que dependa significativamente de la renta para su subsistencia."
+   },
+   {
+    "id": "mundo-0016",
+    "partido": "mundo",
+    "titular": "Suspender los desahucios de personas vulnerables sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "11. **Protección frente a los desahucios.**\n - Suspender la ejecución de los desahucios cuando la persona o familia se encuentre acreditádamente en situación de vulnerabilidad económica, o de cualquier otro tipo y/o carezca de alternativa habitacional adecuada. El lanzamiento no podrá ejecutarse hasta que exista una solución habitacional efectiva avalada por la Administración o entidad social competente.\n - Crear una Oficina pública de defensa habitacional y un Sistema de Alerta Temprana. La actuación de la Administración pública debe producirse antes del desahucio, no cuando ya existe una fecha de lanzamiento.\n - Crear un Fondo de Emergencia Habitacional destinado a evitar que un desahucio se convierta en sinhogarismo.\n - Aplicar en estos casos los mecanismos de compensación a pequeñas propietarias previstos en la medida 5."
+   },
+   {
+    "id": "mundo-0048",
+    "partido": "mundo",
+    "titular": "Prioridad de las familias con menores en vivienda pública y evitar sus desalojos",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "7. **Garantizar el derecho de todas las niñas, los niños y adolescentes a una vivienda digna y adecuada**, priorizando a las familias con menores en situación de vulnerabilidad en el acceso al parque público de vivienda y evitando los desalojos que afecten a menores sin una alternativa habitacional adecuada."
+   },
+   {
+    "id": "mundo-0280",
+    "partido": "mundo",
+    "titular": "Prevenir el sinhogarismo y ofrecer una vivienda estable como punto de partida",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Inclusión social\n\n_Dormir en la calle no es una elección: es la forma más extrema de exclusión y una herida para toda la sociedad. Detrás de cada persona sin hogar hay una historia de pérdidas que casi siempre pudo evitarse. Proponemos prevenir, acompañar y, sobre todo, ofrecer una vivienda estable como punto de partida para reconstruir la vida_"
+   },
+   {
+    "id": "mundo-0281",
+    "partido": "mundo",
+    "titular": "Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo",
+    "marca_actual": [],
+    "texto": "1. **Promover un Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo,** con financiación específica, sistemas de alerta temprana y protocolos de coordinación entre administraciones, servicios sociales, equipos de intervención en calle y recursos de emergencia. Garantizar que ninguna persona salga de una institución pública directamente a una situación de calle. Fomentar la sensibilización social y la participación ciudadana en la prevención de la exclusión residencial."
+   },
+   {
+    "id": "mundo-0282",
+    "partido": "mundo",
+    "titular": "Atención integral centrada en la autonomía de las personas sin hogar",
+    "marca_actual": [],
+    "texto": "2. **Garantizar una atención integral, personalizada y centrada en la autonomía de las personas sin hogar**, mediante modelos de apoyos autodirigidos que respeten sus decisiones y proyectos vitales, asegurando el acceso efectivo a la atención sanitaria, la salud mental y los cuidados necesarios."
+   },
+   {
+    "id": "mundo-0283",
+    "partido": "mundo",
+    "titular": "Programas de inserción sociolaboral para personas en situación de sinhogarismo",
+    "marca_actual": [],
+    "texto": "3. **Desarrollar programas de inserción sociolaboral y empleo personalizado,** adaptados a las capacidades, necesidades y aspiraciones de las personas en situación de sinhogarismo, que favorezcan su autonomía económica y les permitan construir o reconstruir sus proyectos de vida."
+   },
+   {
+    "id": "mundo-0284",
+    "partido": "mundo",
+    "titular": "Sustituir los recursos institucionales por vivienda estable con acompañamiento",
+    "marca_actual": [],
+    "texto": "4. **Avanzar hacia un modelo de atención comunitaria y desinstitucionalización**, sustituyendo progresivamente las respuestas basadas en recursos residenciales temporales o institucionales por alternativas estables de vivienda y acompañamiento, que favorezcan la autonomía personal, la inclusión social y el desarrollo de una vida plena en la comunidad, con el objetivo último de que las personas puedan salir del sistema de atención. Promover una comunicación pública respetuosa que combata los prejuicios y la estigmatización de las personas en situación de pobreza."
+   },
+   {
+    "id": "mundo-0285",
+    "partido": "mundo",
+    "titular": "Programa de erradicación del sinhogarismo en el Plan Estatal de Vivienda, con Housing First",
+    "marca_actual": [],
+    "texto": "5. **Crear un programa específico de erradicación del sinhogarismo dentro del Plan Estatal de Vivienda,** con presupuesto propio y reservas de vivienda pública y financiación en colaboración con las comunidades autónomas. Ampliar los programas de titularidad pública basados en la vivienda, como Housing First y Housing Led, y otras soluciones habitacionales adaptadas a las necesidades de cada persona, financiando la adquisición y rehabilitación de inmuebles destinados a vivienda social y garantizando acompañamiento personalizado, reconociendo la vivienda como un derecho fundamental y un punto de partida para la recuperación de la autonomía, la inclusión social y el acceso efectivo al resto de derechos y servicios."
+   },
+   {
+    "id": "mundo-0286",
+    "partido": "mundo",
+    "titular": "Acceso a la vivienda social sin condiciones previas (Housing First y Housing Led)",
+    "marca_actual": [],
+    "texto": "6. **Garantizar el acceso a la vivienda sin condiciones previas.** El acceso a la vivienda social no dependerá de haber superado antes un proceso de inserción laboral u otros requisitos: ambos procesos irán a la par. La vivienda no se condiciona a que la persona resuelva previamente sus problemas de salud, empleo, adicciones o situación social, y se ofrece acompañamiento profesional personalizado, respetando su autonomía y sus decisiones. Housing First (Primero el hogar) facilita una vivienda individual y estable a personas en situación de sinhogarismo, especialmente a quienes presentan situaciones de exclusión prolongada o necesidades complejas. Housing Led ofrece soluciones de vivienda para favorecer la autonomía de personas adultas y jóvenes en situación de sinhogarismo: alojamientos temporales, viviendas compartidas o individuales y acompañamiento para recuperar o desarrollar un proyecto de vida autónomo. La vivienda no es solo un derecho básico: abre la puerta al acceso a otros derechos y servicios."
+   },
+   {
+    "id": "mundo-0287",
+    "partido": "mundo",
+    "titular": "Reducir a la mitad las personas sin hogar (≥ 37.000) para 2030",
+    "marca_actual": [],
+    "texto": "- **Personas sin hogar** — ≥ 37.000 (Hogar Sí · 2024) — Meta: −50 % — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0288",
+    "partido": "mundo",
+    "titular": "Ninguna salida de instituciones públicas a la calle en 2028",
+    "marca_actual": [],
+    "texto": "- **Salidas de instituciones públicas a la calle** — Medida nueva — Meta: Ninguna — Plazo: 2028"
+   },
+   {
+    "id": "mundo-0289",
+    "partido": "mundo",
+    "titular": "Programa Housing First / Led con presupuesto propio en 2027",
+    "marca_actual": [],
+    "texto": "- **Programa de erradicación del sinhogarismo (Housing First / Led)** — Medida nueva — Meta: Dentro del Plan Estatal de Vivienda, con presupuesto propio — Plazo: 2027"
+   }
+  ]
+ },
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 16,
+  "palabras": 824,
+  "candidatos": [
+   {
+    "id": "salf-0021",
+    "partido": "salf",
+    "titular": "Central de compras sanitaria, 60 días para operarse y sueldos europeos",
+    "marca_actual": [],
+    "texto": "6. **Sanidad** — Una central de compras. 60 días para operarte. Profesionales pagados como en Europa."
+   },
+   {
+    "id": "salf-0098",
+    "partido": "salf",
+    "titular": "Sanidad: central de compras, 60 días para operarse y sueldos europeos",
+    "marca_actual": [],
+    "texto": "**Una central de compras. 60 días para operarte. Profesionales pagados como en Europa.**\n\n**853.740** personas esperan una operación: 122 días de media\n\n**41.000 M€** en compras sanitarias por 17 centrales distintas\n\n**12,6 M** de españoles pagan un seguro privado además de impuestos"
+   },
+   {
+    "id": "salf-0099",
+    "partido": "salf",
+    "titular": "Una única central de compras sanitarias con ahorro del 15 % para personal",
+    "marca_actual": [],
+    "texto": "1. **Una sola central de compras, no diecisiete.** El 40 % del gasto sanitario son compras: 41.000 millones. Diecisiete servicios compran lo mismo a precios distintos. Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.\n - **6.000 M€** de ahorro al año, para personal"
+   },
+   {
+    "id": "salf-0100",
+    "partido": "salf",
+    "titular": "Cirugía en 60 días o en el centro elegido, también privado, a cargo público",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "2. **60 días para operarte. Si no, donde tú elijas y paga el Sistema.** 60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública. _Coste: ≈ 1.500 M€/año._\n - **60 días** o te operas donde quieras"
+   },
+   {
+    "id": "salf-0102",
+    "partido": "salf",
+    "titular": "Tarjeta sanitaria, historia clínica y receta únicas en toda España",
+    "marca_actual": [],
+    "texto": "4. **Una tarjeta, una historia clínica, una receta.** Válidas en toda España. Tu analítica de Sevilla se ve en Bilbao. _Coste: 300 M€, una sola vez._\n - **17 → 1** sistemas informáticos"
+   },
+   {
+    "id": "salf-0103",
+    "partido": "salf",
+    "titular": "Añadir 10.000 camas y 1.500 UCI en la legislatura",
+    "marca_actual": [],
+    "texto": "5. **10.000 camas y 1.500 UCI más.** España tiene 2,8 camas por cada 1.000 habitantes; Europa, 5,1. _Inversión: ≈ 3.000 M€ en la legislatura._\n - **+10.000** camas en cuatro años"
+   },
+   {
+    "id": "salf-0104",
+    "partido": "salf",
+    "titular": "Cita con el médico en 48 horas o consulta privada pagada por el sistema",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "6. **Cita con tu médico en 48 horas.** Si no la hay, consulta privada pagada por el Sistema. Telemedicina para crónicos, enfermería que prescribe y administrativos para que el médico no rellene papeles. _Coste: ≈ 800 M€/año._\n - **48 h** hoy, 10 días"
+   },
+   {
+    "id": "salf-0105",
+    "partido": "salf",
+    "titular": "Tarjeta sanitaria solo para españoles y residentes legales con cotización",
+    "marca_actual": [],
+    "texto": "7. **La sanidad española es para los españoles.** Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.\n - **0 €** sin facturar a quien debe pagar"
+   },
+   {
+    "id": "salf-0109",
+    "partido": "salf",
+    "titular": "Gerentes de hospital por concurso de méritos y resultados públicos en tiempo real",
+    "marca_actual": [],
+    "texto": "11. **Gerentes por concurso, no por carné.** Dirección de hospitales por méritos con mandato de cinco años. Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.\n - **100 %** de los datos de tu hospital, públicos"
+   },
+   {
+    "id": "salf-0111",
+    "partido": "salf",
+    "titular": "Lema: con lo que se pierde comprando se pagan los médicos",
+    "marca_actual": [],
+    "texto": "> **«Con lo que se pierde comprando se pagan los médicos.»**"
+   },
+   {
+    "id": "mundo-0036",
+    "partido": "mundo",
+    "titular": "Control público de los servicios a mayores y prioridad a la gestión pública",
+    "marca_actual": [],
+    "texto": "6. **Someter todo servicio público o concertado dirigido a personas mayores a control público permanente**, transparencia económica, priorizar la gestión pública y la de entidades sin ánimo de lucro, ratios mínimos de personal, requisitos de calidad verificables, inspecciones periódicas y publicidad de los resultados. El beneficio económico nunca podrá prevalecer sobre la dignidad, la seguridad o el bienestar de las personas atendidas."
+   },
+   {
+    "id": "mundo-0066",
+    "partido": "mundo",
+    "titular": "Pensiones públicas como derecho fundamental en la Constitución y sin privatización",
+    "marca_actual": [],
+    "texto": "1. Reformar la Constitución para **reconocer las pensiones públicas como derecho fundamental**, prohibir su privatización y garantizar que nunca pierdan poder adquisitivo. M+J, forma parte, desde su creación, de la Mesa Estatal por el Blindaje de las Pensiones (MERP)."
+   },
+   {
+    "id": "mundo-0116",
+    "partido": "mundo",
+    "titular": "Una sanidad pública para todos, empezando por reforzar la atención primaria",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Servicios públicos\n\n_La sanidad pública es una de las mejores cosas que hemos construido entre todas las personas, y una de las más frágiles. Listas de espera, centros de salud sin médicos y profesionales agotados son síntomas de años de falta de inversión. Queremos una sanidad que atienda a todo el mundo por igual, viva donde viva y tenga los papeles que tenga, empezando por reforzar la atención primaria._"
+   },
+   {
+    "id": "mundo-0117",
+    "partido": "mundo",
+    "titular": "Más inversión sanitaria y atención universal, también a personas en situación irregular",
+    "marca_actual": [],
+    "texto": "1. **Fortalecer el sistema sanitario público para garantizar una atención universal, equitativa y de calidad.** Incrementar la inversión sanitaria y reforzar la coordinación entre las comunidades autónomas a través del Consejo Interterritorial del Sistema Nacional de Salud. Consolidar y avanzar en la universalidad de la atención sanitaria reconocida en el Real Decreto-ley 7/2018, de 27 de julio, y desarrollada mediante el Real Decreto 180/2026, de 11 de marzo, garantizando su aplicación efectiva y homogénea en todo el territorio y eliminando las barreras administrativas que dificultan el acceso a la atención sanitaria, especialmente para las personas en situación administrativa irregular. Establecer garantías comunes de acceso a las prestaciones sanitarias esenciales en todo el territorio, reforzando especialmente los centros sanitarios rurales y las zonas con dificultades para cubrir plazas profesionales."
+   },
+   {
+    "id": "mundo-0118",
+    "partido": "mundo",
+    "titular": "Elevar la atención primaria al 25 % del gasto sanitario y frenar la privatización",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "2. **Reforzar la Atención Primaria como pilar fundamental del sistema sanitario público.** Impulsar, en coordinación con las comunidades autónomas y respetando sus competencias sanitarias, el incremento progresivo de su financiación hasta alcanzar al menos el 25% del gasto sanitario público. Ampliar las plantillas de medicina de familia, pediatría, enfermería, fisioterapia, psicología clínica y trabajo social, garantizando una atención cercana, accesible y de calidad y reduciendo los tiempos de espera. Frenar la privatización y recuperar progresivamente los servicios externalizados, priorizando la gestión pública directa. Favorecer la incorporación y permanencia de profesionales, especialmente jóvenes, mediante empleo estable, mejores condiciones laborales e incentivos profesionales, formativos y de investigación."
+   },
+   {
+    "id": "mundo-0295",
+    "partido": "mundo",
+    "titular": "Transferir la sanidad penitenciaria a las comunidades y fijar ratios máximas de pacientes",
+    "marca_actual": [],
+    "texto": "4. **Garantizar una atención sanitaria penitenciaria de calidad y en condiciones de equidad con el resto de la población,** estableciendo ratios máximos de pacientes por profesional sanitario y dotaciones suficientes de personal y recursos. Completar la transferencia de la sanidad penitenciaria a los servicios públicos de salud de las comunidades autónomas, asegurando su plena integración en el sistema sanitario público."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 9,
+  "palabras": 728,
+  "candidatos": [
+   {
+    "id": "salf-0079",
+    "partido": "salf",
+    "titular": "Cupos preferentes para Hispanoamérica y nacionalidad con diez años de residencia y examen",
+    "marca_actual": [],
+    "texto": "5. **Prioridad hispanoamericana. Nacionalidad que se gana.** Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.\n - **10 años** para ser español"
+   },
+   {
+    "id": "salf-0080",
+    "partido": "salf",
+    "titular": "Pérdida de la residencia por condena de más de un año",
+    "marca_actual": [],
+    "texto": "6. **Residencia y nacionalidad revocables.** Condena de más de un año: pérdida de la residencia. Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.\n - **> 1 año** de condena = fuera"
+   },
+   {
+    "id": "salf-0084",
+    "partido": "salf",
+    "titular": "Sin prestaciones ni vivienda pública sin cinco años de residencia legal y cotización",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "10. **Sin papeles, sin ayudas.** Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten. _Ahorro: ≈ 1.000 M€/año._\n - **5 años** cotizando antes de cobrar"
+   },
+   {
+    "id": "salf-0105",
+    "partido": "salf",
+    "titular": "Tarjeta sanitaria solo para españoles y residentes legales con cotización",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "7. **La sanidad española es para los españoles.** Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.\n - **0 €** sin facturar a quien debe pagar"
+   },
+   {
+    "id": "mundo-0023",
+    "partido": "mundo",
+    "titular": "Plan Nacional contra el Racismo, la islamofobia, el antisemitismo y el antigitanismo",
+    "marca_actual": [],
+    "texto": "2. **Combatir el racismo y la xenofobia**, promover la convivencia intercultural y avanzar en los derechos de participación política de las personas migrantes residentes, reconociendo su contribución a nuestra sociedad. Aprobar un Plan Nacional contra el Racismo, la islamofobia, el antisemitismo y el antigitanismo, reforzando las políticas de igualdad de trato y no discriminación y desarrollando mecanismos efectivos de prevención y respuesta frente a los discursos de odio y la discriminación, en colaboración con las entidades del Tercer Sector."
+   },
+   {
+    "id": "mundo-0025",
+    "partido": "mundo",
+    "titular": "Fondo Estatal para la integración y convivencia de menores migrantes",
+    "marca_actual": [],
+    "texto": "4. Creación de un **Fondo Estatal de financiación plurianual para la integración y la convivencia** entre menores migrantes y las comunidades de acogida. Dicho fondo apoyará el desarrollo de programas de mentoría social, redes de familias colaboradoras, actividades compartidas con jóvenes de la comunidad, participación en asociaciones locales y proyectos de convivencia intercultural. En diálogo con comunidades autónomas, ayuntamientos y entidades sociales, se establecerán criterios comunes de calidad, acompañamiento profesional, protección de la infancia y evaluación de resultados, vinculando la financiación a la continuidad de los programas y a su capacidad para generar vínculos comunitarios duraderos."
+   },
+   {
+    "id": "mundo-0117",
+    "partido": "mundo",
+    "titular": "Más inversión sanitaria y atención universal, también a personas en situación irregular",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "1. **Fortalecer el sistema sanitario público para garantizar una atención universal, equitativa y de calidad.** Incrementar la inversión sanitaria y reforzar la coordinación entre las comunidades autónomas a través del Consejo Interterritorial del Sistema Nacional de Salud. Consolidar y avanzar en la universalidad de la atención sanitaria reconocida en el Real Decreto-ley 7/2018, de 27 de julio, y desarrollada mediante el Real Decreto 180/2026, de 11 de marzo, garantizando su aplicación efectiva y homogénea en todo el territorio y eliminando las barreras administrativas que dificultan el acceso a la atención sanitaria, especialmente para las personas en situación administrativa irregular. Establecer garantías comunes de acceso a las prestaciones sanitarias esenciales en todo el territorio, reforzando especialmente los centros sanitarios rurales y las zonas con dificultades para cubrir plazas profesionales."
+   },
+   {
+    "id": "mundo-0159",
+    "partido": "mundo",
+    "titular": "La migración como fenómeno estructural y oportunidad, no como problema",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Derechos y democracia · Inclusión social\n\n_Vivimos en un mundo globalizado e interdependiente, donde los bienes, los recursos y los capitales atraviesan fronteras constantemente. La movilidad humana forma parte de esta realidad y debe reconocerse como un fenómeno estructural de nuestras sociedades, no como un problema que haya que resolver. Una globalización abierta al intercambio económico debe serlo también al reconocimiento de los derechos y la plena inclusión de las personas migrantes. Al mismo tiempo, las desigualdades económicas, las guerras, las persecuciones y la crisis climática obligan a millones de personas a abandonar sus hogares. Por ello, defendemos el derecho a no tener que migrar por necesidad, a migrar de forma segura y a vivir con dignidad e igualdad de derechos._\n\n_Para M+J, el fenómeno migratorio debe gestionarse como una oportunidad y no como un problema. Su abordaje desde la justicia global, la fraternidad y la construcción de una sociedad inclusiva representa_ **un eje transversal de nuestro programa electoral**_, cuyas propuestas se complementan con las de cooperación internacional, educación, vivienda, empleo, sanidad, servicios sociales, comercio exterior e igualdad de derechos._"
+   },
+   {
+    "id": "mundo-0166",
+    "partido": "mundo",
+    "titular": "Acceso sin discriminación de las personas migrantes a sanidad, educación, vivienda y servicios sociales",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "7. **Garantizar la igualdad de derechos y la inclusión de las personas migrantes.**\nAsegurar el acceso efectivo y sin discriminación a la sanidad, la educación, el empadronamiento, la vivienda, los servicios sociales y los derechos laborales, conforme a las garantías legales aplicables. Reforzar la colaboración con las organizaciones sociales especializadas en migraciones, reconociendo su experiencia en el acompañamiento, la participación comunitaria y la construcción de vínculos y sentido de pertenencia de las personas recién llegadas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-regularizacion",
+  "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regularizaciones o vías estables"
+   },
+   {
+    "id": "no",
+    "nombre": "No, prohibirlas y expulsar"
+   }
+  ],
+  "n": 8,
+  "palabras": 603,
+  "candidatos": [
+   {
+    "id": "salf-0072",
+    "partido": "salf",
+    "titular": "Cómo se paga: 88.500 M€ de ahorro frente a 81.700 de rebaja",
+    "marca_actual": [],
+    "texto": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos **81.700 millones** de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: **88.500 millones** , incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.\n\n|Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)|**57.000**|\n|---|---|\n|Entes, empresas y fundaciones públicas sin función|**3.000**|\n|Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes|**3.000**|\n|Contratación pública 100 % electrónica y competitiva|**5.000**|\n|Supresión de las diputaciones provinciales|**1.500**|\n|Inmigración: expulsiones efectivas y fin de regularizaciones|**1.000**|\n|Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores|**500**|\n|Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes|**300**|\n|Efectos dinámicos: más empleo, más consumo, menos economía sumergida|**8.000**|\n|Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)|**4.500**|\n|Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)|**4.700**|\n|**TOTAL (millones de euros al año)**|**88.500**|\n|**AHORRO + INGRESOS**|**88.500 M€**|\n|**REBAJA + GASTO**|**81.700 M€**|\n|**A REDUCIR DEUDA**|**6.800 M€**|"
+   },
+   {
+    "id": "salf-0076",
+    "partido": "salf",
+    "titular": "Derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "2. **Fin de las regularizaciones.** Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.\n - **1.174.978** solicitudes en 2026"
+   },
+   {
+    "id": "salf-0078",
+    "partido": "salf",
+    "titular": "Moratoria a la inmigración de países no colaboradores y visados con contrato y cupo",
+    "marca_actual": [],
+    "texto": "4. **Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas.** Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso. Primero integramos a los que ya están.\n - **7,2 M** extranjeros: el 14,6 % de la población"
+   },
+   {
+    "id": "salf-0079",
+    "partido": "salf",
+    "titular": "Cupos preferentes para Hispanoamérica y nacionalidad con diez años de residencia y examen",
+    "marca_actual": [],
+    "texto": "5. **Prioridad hispanoamericana. Nacionalidad que se gana.** Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.\n - **10 años** para ser español"
+   },
+   {
+    "id": "mundo-0091",
+    "partido": "mundo",
+    "titular": "Garantizar vías accesibles y estables de regularización de las personas migrantes",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "5. **Garantizar vías accesibles y estables de regularización de las personas migrantes que viven y trabajan en España**, simplificando los procedimientos administrativos, reduciendo las demoras y facilitando su incorporación al empleo legal y a la Seguridad Social. Reforzar especialmente la protección de quienes sufren explotación laboral, permitiendo el acceso a autorizaciones de residencia y trabajo sin que la denuncia de abusos suponga un riesgo de expulsión, con garantías contra posibles represalias."
+   },
+   {
+    "id": "mundo-0161",
+    "partido": "mundo",
+    "titular": "Facilitar vías legales y seguras de migración y permisos de trabajo en origen",
+    "marca_actual": [],
+    "texto": "2. **Facilitar vías legales y seguras de migración y permisos de trabajo en origen.**\nAmpliar y agilizar la obtención de autorizaciones de residencia y trabajo desde los países de origen, reforzando los consulados y garantizando una contratación laboral transparente, condiciones dignas e igualdad de derechos. Promover permisos estables que eviten la dependencia abusiva de un único empleador. Impulsar también corredores humanitarios, programas de reasentamiento y mecanismos accesibles de reagrupación familiar. Garantizar la implementación del Pacto Europeo de Migración y Asilo con enfoque de derechos humanos y de protección efectiva de la infancia, garantizando el derecho a ser escuchados, informados de manera adaptada y que su interés superior sea prioritario."
+   },
+   {
+    "id": "mundo-0165",
+    "partido": "mundo",
+    "titular": "Vías accesibles y permanentes de regularización y oficinas de extranjería más ágiles",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "6. **Facilitar la regularización y eliminar las barreras administrativas.** Establecer vías accesibles y permanentes de regularización, prevenir la irregularidad sobrevenida y reforzar las oficinas de extranjería para agilizar los trámites, garantizar una atención presencial accesible y acabar con las prácticas abusivas de intermediación y venta de citas administrativas."
+   },
+   {
+    "id": "mundo-0168",
+    "partido": "mundo",
+    "titular": "Resolver en 3 meses como máximo los permisos de residencia y trabajo en origen",
+    "marca_actual": [],
+    "texto": "- **Autorizaciones de residencia y trabajo en origen** — Medida nueva — Meta: Consulados reforzados y plazos de resolución ≤ 3 meses — Plazo: 2028"
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 9,
+  "palabras": 570,
+  "candidatos": [
+   {
+    "id": "salf-0061",
+    "partido": "salf",
+    "titular": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto a las grandes fortunas",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "6. **Sucesiones, Donaciones y Patrimonio: suprimidos.** Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. _Coste: ≈ 3.500 M€/año._\n - **0 %** no se paga dos veces por el mismo euro"
+   },
+   {
+    "id": "salf-0066",
+    "partido": "salf",
+    "titular": "Financiación autonómica con criterios iguales y sin condonaciones de deuda salvo catástrofe",
+    "marca_actual": [],
+    "texto": "11. **Financiación autonómica justa, solidaria y responsable. Ni condonaciones ni moneda de cambio.** Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos. Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.\n - **0 €** de condonaciones de deuda entre administraciones, salvo catástrofe"
+   },
+   {
+    "id": "salf-0082",
+    "partido": "salf",
+    "titular": "Ilegalizar a los Hermanos Musulmanes y prohibir la financiación extranjera del culto",
+    "marca_actual": [],
+    "texto": "8. **Hermanos Musulmanes: ilegalizados. Mezquitas sin dinero extranjero.** Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está. Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.\n - **1.749** mezquitas: registro obligatorio"
+   },
+   {
+    "id": "mundo-0074",
+    "partido": "mundo",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+   },
+   {
+    "id": "mundo-0077",
+    "partido": "mundo",
+    "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+    "marca_actual": [],
+    "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+   },
+   {
+    "id": "mundo-0078",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+   },
+   {
+    "id": "mundo-0079",
+    "partido": "mundo",
+    "titular": "Gravar los beneficios extraordinarios y limitar al 90 % la exención por doble imposición",
+    "marca_actual": [],
+    "texto": "6. **Incrementar la contribución fiscal de las grandes empresas**, generalizando la tributación de los beneficios extraordinarios, tanto los derivados de circunstancias ajenas a su actividad como los obtenidos por posiciones dominantes en mercados con escasa competencia. Revisar los incentivos y deducciones fiscales, limitando al 90 % la exención por doble imposición, y reforzar el control sobre las SICAV y las ETVE para evitar su utilización como instrumentos de inversión especulativa."
+   },
+   {
+    "id": "mundo-0083",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % para patrimonios de más de 50 M€ (2027)",
+    "marca_actual": [],
+    "texto": "- **Grandes patrimonios (> 50 M€ netos)** — Medida nueva — Meta: Tributación efectiva mínima del 3 % — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0216",
+    "partido": "mundo",
+    "titular": "Informe anual de coherencia de políticas e impacto de cada ley en el Sur",
+    "marca_actual": [],
+    "texto": "7. **Promover la coherencia de políticas para el desarrollo sostenible y la paz** en los diferentes ámbitos competenciales, con medidas como el impulso de un informe anual de coherencia de políticas en el Congreso y evaluación de impacto en el Sur de cada ley."
+   }
+  ]
+ },
+ {
+  "eje": "eje-alquiler",
+  "pregunta": "¿Limitar el precio del alquiler?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regular o bajar precios"
+   },
+   {
+    "id": "no",
+    "nombre": "No, más oferta y seguridad jurídica"
+   }
+  ],
+  "n": 5,
+  "palabras": 497,
+  "candidatos": [
+   {
+    "id": "salf-0035",
+    "partido": "salf",
+    "titular": "Seguro público de impago con doce meses de renta garantizados al propietario",
+    "marca_actual": [],
+    "texto": "8. **Aval del Estado para que el casero no tenga miedo.** Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso. A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos. _Coste: ≈ 150 M€/año._\n - **12 meses** garantizados al propietario"
+   },
+   {
+    "id": "mundo-0009",
+    "partido": "mundo",
+    "titular": "Alquiler de referencia con precio limitado y contratos indefinidos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "4. **Regular los alquileres privados.**\n - Establecer un alquiler de referencia y limitar el precio en función de las características y localización de la vivienda.\n - Crear un organismo independiente que permita el control y la denuncia por el incumplimiento del cobro de los precios de alquiler de referencia marcados por la Administración.\n - Los contratos de alquiler de vivienda habitual serán indefinidos y sólo podrán terminar por necesidad acreditada de la vivienda para la persona propietaria o sus familiares directos, o por incumplimiento de la persona inquilina. La venta de la vivienda no extinguirá el contrato, y la persona inquilina tendrá derecho preferente de compra."
+   },
+   {
+    "id": "mundo-0010",
+    "partido": "mundo",
+    "titular": "Seguro público de alquiler y compensaciones para pequeñas propietarias",
+    "marca_actual": [],
+    "texto": "5. **Garantías para las pequeñas propietarias.**\nProteger a las personas inquilinas es compatible con dar seguridad a quienes alquilan una o dos viviendas como personas físicas. Para ellas proponemos:\n - Incentivar, mediante medidas fiscales, el alquiler social, tanto para la persona propietaria como para la persona inquilina, y establecer mecanismos que diferencien estas medidas entre grandes y pequeñas propietarias, evitando el perjuicio desproporcionado de estas últimas.\n - Crear un seguro público de alquiler, garantizado por la Administración, que cubra los impagos y los desperfectos a las personas físicas propietarias que alquilen su vivienda a un precio igual o inferior al de referencia.\n - Ofrecer incentivos y garantías públicas a las personas propietarias que pongan en el mercado de alquiler sus viviendas vacías (medida 7).\n - Evitar que el coste de una política de protección frente a los desahucios recaiga injustamente sobre pequeñas propietarias. Establecer mecanismos públicos de compensación cuando la persona propietaria sea una persona física que dependa significativamente de la renta para su subsistencia."
+   },
+   {
+    "id": "mundo-0014",
+    "partido": "mundo",
+    "titular": "Agencia Pública de Información y Protección de la persona inquilina",
+    "marca_actual": [],
+    "texto": "9. **Agencia Pública de Información y Protección de la persona inquilina.**\nCrear una herramienta nacional, coordinada con Comunidades Autónomas y municipios, que permita a cualquier persona conocer gratuitamente: alquiler medio de su zona, alquiler de referencia, precio máximo legal cuando exista regulación, derechos de la persona inquilina, ayudas disponibles, condiciones de su contrato, vías de reclamación. Y, sobre todo: que denunciar un alquiler ilegal o abusivo no obligue a la ciudadanía a convertirse en personas expertas jurídicas."
+   },
+   {
+    "id": "mundo-0057",
+    "partido": "mundo",
+    "titular": "Reservar vivienda pública a menores de 35 y regular el alquiler de habitaciones",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "1. **Una casa para empezar la vida.** Reservar para menores de 35 años una parte del nuevo parque público de alquiler, dentro del sistema de acceso en función de la renta y con un alquiler ajustado a sus ingresos en los términos de la medida 1 de Vivienda, dando prioridad a rehabilitar viviendas vacías frente a construir de nuevo. Regular el alquiler de habitaciones, hoy la única salida para miles de jóvenes y prácticamente sin control, con contrato por escrito, derechos claros y precios sujetos a los índices de referencia."
+   }
+  ]
+ },
+ {
+  "eje": "eje-memoria",
+  "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   }
+  ],
+  "n": 4,
+  "palabras": 383,
+  "candidatos": [
+   {
+    "id": "salf-0001",
+    "partido": "salf",
+    "titular": "Diagnóstico: 22 ministerios, 823 altos cargos y 1.255 asesores en el Gobierno",
+    "marca_actual": [],
+    "texto": "**22** ministerios\n\n**3** vicepresidencias\n\n823 altos cargos y 1.255 asesores. El Gobierno más grande de Europa occidental: Alemania funciona con 16 ministerios; Italia, con 15; Países Bajos, con 12. España tenía 13 en 2018.\n\n| Presidente del Gobierno |\n|---|\n| Economía, Comercio y Empresa (VP 1.ª) |\n| Trabajo y Economía Social (VP 2.ª) |\n| Transición Ecológica y Reto Demográfico (VP 3.ª) |\n| Asuntos Exteriores, UE y Cooperación |\n| Presidencia, Justicia y Relaciones con las Cortes |\n| Defensa |\n| Hacienda |\n| Interior |\n| Transportes y Movilidad Sostenible |\n| Educación, FP y Deportes |\n| Trabajo y Economía Social |\n| Industria y Turismo |\n| Agricultura, Pesca y Alimentación |\n| Política Territorial y Memoria Democrática |\n| Transición Ecológica y Reto Demográfico |\n| Vivienda y Agenda Urbana |\n| Cultura |\n| Economía, Comercio y Empresa |\n| Sanidad |\n| Derechos Sociales, Consumo y Agenda 2030 |\n| Ciencia, Innovación y Universidades |\n| Igualdad |\n| Transformación Digital y Función Pública |\n| Juventud e Infancia |\n| Inclusión, Seguridad Social y Migraciones |"
+   },
+   {
+    "id": "mundo-0026",
+    "partido": "mundo",
+    "titular": "Red Pública de Memoria, Reparación y Justicia Restaurativa para víctimas de violencias políticas",
+    "marca_actual": [],
+    "texto": "5. Creación de una **Red Pública de Memoria, Reparación y Justicia Restaurativa**, mediante la cooperación entre el Estado, las comunidades autónomas, las entidades locales y las organizaciones especializadas, para garantizar una atención integral, gratuita, accesible y continuada a las víctimas de las violencias políticas y sus familiares. Esta red abordará las consecuencias de la Guerra Civil, la dictadura franquista, el terrorismo de ETA y otras vulneraciones graves de los derechos humanos, respetando las particularidades históricas y jurídicas de cada caso, sin equiparar responsabilidades ni diluir los derechos de las víctimas."
+   },
+   {
+    "id": "mundo-0029",
+    "partido": "mundo",
+    "titular": "Meta: Red Pública de Memoria en todas las comunidades autónomas en 2028",
+    "marca_actual": [],
+    "texto": "- **Red Pública de Memoria, Reparación y Justicia Restaurativa** — Medida nueva — Meta: En funcionamiento en todas las CCAA — Plazo: 2028"
+   },
+   {
+    "id": "mundo-0204",
+    "partido": "mundo",
+    "titular": "Red estatal de espacios de memoria y reconciliación sobre la violencia política",
+    "marca_actual": [],
+    "texto": "3. **Lugares de memoria y reconciliación.** Crear una red estatal de espacios de memoria y reconciliación, con exposiciones, archivos y programas educativos. En ellos se escucharán juntas las voces de quienes sufrieron la violencia política del último siglo: la Guerra Civil, la dictadura franquista, el terrorismo de ETA y las violaciones de derechos humanos cometidas por el Estado. No se trata de reabrir heridas, sino de construir verdad compartida y aprender a convivir. Estos espacios estarán abiertos a centros educativos y entidades sociales."
+   }
+  ]
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 5,
+  "palabras": 359,
+  "candidatos": [
+   {
+    "id": "salf-0116",
+    "partido": "salf",
+    "titular": "Prohibir las amnistías en la Constitución y limitar el uso político del indulto",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "3. **Amnistías prohibidas en la Constitución. Indultos, nunca por política.** Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.\n - **0** amnistías: prohibidas en la Constitución"
+   },
+   {
+    "id": "mundo-0169",
+    "partido": "mundo",
+    "titular": "Fuentes consultadas: Amnistía Internacional y Fundación Ciudadanía Global",
+    "marca_actual": [],
+    "texto": "Fuentes consultadas: [1] Amnistía Internacional [5] Fundación Ciudadanía Global"
+   },
+   {
+    "id": "mundo-0232",
+    "partido": "mundo",
+    "titular": "Fuentes consultadas: Amnistía Internacional y España Puede Ser la Hostia",
+    "marca_actual": [],
+    "texto": "Fuentes consultadas: [1] Amnistía Internacional [4] España Puede Ser la Hostia"
+   },
+   {
+    "id": "mundo-0274",
+    "partido": "mundo",
+    "titular": "Fuentes consultadas: Amnistía Internacional",
+    "marca_actual": [],
+    "texto": "Fuentes consultadas: [1] Amnistía Internacional"
+   },
+   {
+    "id": "mundo-0319",
+    "partido": "mundo",
+    "titular": "Anexo de fuentes: informes de organizaciones de la sociedad civil",
+    "marca_actual": [],
+    "texto": "Para la elaboración de este programa electoral se han consultado informes, diagnósticos y propuestas de organizaciones de la sociedad civil comprometidas con los derechos humanos, la justicia social, la sostenibilidad y el bien común.\n\nLas referencias que se recogen a continuación reconocen sus aportaciones y permiten consultar los documentos originales. Las propuestas electorales de Por un Mundo Más Justo (M+J) son fruto de su propio proceso de reflexión y elaboración política, sin que su inclusión implique necesariamente la adhesión de las organizaciones citadas al conjunto del programa.\n\n**[1] Amnistía Internacional (2023).** _Elecciones generales 2023: prioridades de Amnistía Internacional para los partidos políticos_. Recuperado de: https://www.es.amnesty.org/fileadmin/user_upload/Prioridades_Amnistia_Internacional_ELECCIONES_GENERALES_2023.pdf\n\n**[2] Coordinadora de Organizaciones para el Desarrollo (2026).** _Cooperar es lo normal. Una política de Estado imprescindible para la urgencia del presente. Propuestas para las elecciones generales de 29 de noviembre de 2026_. Disponible en: https://coordinadoraongd.org/wp-content/uploads/2026/10/Documento_Politico_Elecciones26.pdf\n\n**[3] Enlázate por la Justicia (2026).** Reivindicaciones prioritarias para la incidencia política de Enlázate por la Justicia Disponible en: https://www.enlazateporlajusticia.org/l/enlazate-por-la-justicia-promueve-un-dialogo-plural-sobre-cooperacion-justicia-socioambiental-y-paz/\n\n**[4] España Puede Ser la Hostia (2026).** _El plan completo de la campaña. Diez propuestas para un país que se regenera_. Disponible en: https://puedeserlahostia.es/?utm_source=chatgpt.com\n\n**[5] Fundación para la Ciudadanía Global (2026).** _Causas, situación actual y soluciones para Ceuta._ Disponible en: https://ciudadaniaglobal.es/crisis-ceuta/?utm_source=chatgpt.com"
+   }
+  ]
+ },
+ {
+  "eje": "eje-cgpj",
+  "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+  "posiciones": [
+   {
+    "id": "jueces",
+    "nombre": "Que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "parlamento",
+    "nombre": "Mantener la elección parlamentaria"
+   }
+  ],
+  "n": 3,
+  "palabras": 336,
+  "candidatos": [
+   {
+    "id": "salf-0116",
+    "partido": "salf",
+    "titular": "Prohibir las amnistías en la Constitución y limitar el uso político del indulto",
+    "marca_actual": [],
+    "texto": "3. **Amnistías prohibidas en la Constitución. Indultos, nunca por política.** Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.\n - **0** amnistías: prohibidas en la Constitución"
+   },
+   {
+    "id": "salf-0122",
+    "partido": "salf",
+    "titular": "CGPJ elegido por jueces y delito dar instrucciones a un juez",
+    "marca_actual": [
+     "jueces"
+    ],
+    "texto": "9. **Jueces independientes: CGPJ sin políticos y cárcel para quien dé instrucciones a un juez.** Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo. Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones. Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.\n - **Delito** dar o recibir instrucciones a un juez"
+   },
+   {
+    "id": "mundo-0234",
+    "partido": "mundo",
+    "titular": "Que jueces y magistrados elijan directamente a los 12 vocales judiciales del CGPJ",
+    "marca_actual": [
+     "jueces"
+    ],
+    "texto": "1. **Reforzar la independencia del Poder Judicial respecto al poder político mediante una reforma de la Ley Orgánica del Poder Judicial**, modificando el sistema de elección de los vocales del Consejo General del Poder Judicial (CGPJ). Mantener la elección parlamentaria de los 8 vocales juristas, 4 por el Congreso y 4 por el Senado, conforme al artículo 122.3 de la Constitución, y establecer que los otros 12 vocales, de procedencia judicial, sean elegidos directamente por jueces y magistrados: 6 entre candidaturas presentadas por las asociaciones judiciales y 6 entre candidaturas de jueces y magistrados no asociados, garantizando la pluralidad, la representatividad y la independencia del órgano de gobierno de los jueces."
+   }
+  ]
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 5,
+  "palabras": 248,
+  "candidatos": [
+   {
+    "id": "mundo-0275",
+    "partido": "mundo",
+    "titular": "Entrada del capítulo de derechos de las personas LGTBI, sin propuestas",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Igualdad · Derechos y democracia"
+   },
+   {
+    "id": "mundo-0276",
+    "partido": "mundo",
+    "titular": "Reforzar la protección frente a la discriminación y la violencia contra las personas LGTBI",
+    "marca_actual": [],
+    "texto": "1. **Garantizar la igualdad de derechos y combatir la discriminación de las personas LGTBI.** Reforzar la aplicación efectiva de la legislación de protección de los derechos de las personas LGTBI, garantizando mecanismos accesibles de prevención, denuncia y protección frente a la discriminación y la violencia por orientación sexual, identidad o expresión de género. Impulsar la coordinación entre administraciones para asegurar una protección efectiva en todo el territorio."
+   },
+   {
+    "id": "mundo-0277",
+    "partido": "mundo",
+    "titular": "Financiar y evaluar las estrategias estatales LGTBI y de inclusión de las personas trans",
+    "marca_actual": [],
+    "texto": "2. **Reforzar las estrategias estatales de igualdad e inclusión de las personas LGTBI.**\nGarantizar la financiación, aplicación y evaluación de la Estrategia Estatal para la Igualdad de Trato y No Discriminación de las Personas LGTBI y de la Estrategia para la Inclusión Social de las Personas Trans, en colaboración con las comunidades autónomas y las organizaciones sociales. Reforzar la formación en diversidad sexual y de género de los profesionales de servicios públicos esenciales, especialmente en sanidad, educación, servicios sociales y atención a las víctimas."
+   },
+   {
+    "id": "mundo-0278",
+    "partido": "mundo",
+    "titular": "Educación en diversidad sexual y de género y protocolos contra el acoso por LGTBIfobia",
+    "marca_actual": [],
+    "texto": "3. **Promover una educación inclusiva y respetuosa con la diversidad sexual y de género.**\nIncorporar al currículo educativo común, en coordinación con las comunidades autónomas, contenidos adaptados a cada etapa educativa que fomenten la igualdad, el respeto a la diversidad sexual y de género y la prevención de la discriminación. Reforzar la formación del profesorado y los protocolos de prevención y actuación frente al acoso escolar por LGTBIfobia."
+   },
+   {
+    "id": "mundo-0279",
+    "partido": "mundo",
+    "titular": "Estrategias estatales LGTBI y trans financiadas y con evaluación anual en 2027",
+    "marca_actual": [],
+    "texto": "- **Estrategias estatales LGTBI y trans** — Medida nueva — Meta: Financiadas, con evaluación pública anual — Plazo: 2027"
+   }
+  ]
+ },
+ {
+  "eje": "eje-concertada",
+  "pregunta": "¿Qué hacer con la escuela concertada?",
+  "posiciones": [
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarla o garantizar la libertad de elección de centro"
+   },
+   {
+    "id": "reducir",
+    "nombre": "Reducir su financiación y priorizar la pública"
+   }
+  ],
+  "n": 3,
+  "palabras": 206,
+  "candidatos": [
+   {
+    "id": "salf-0148",
+    "partido": "salf",
+    "titular": "Cheque escolar válido en la pública, la concertada y la privada",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "6. **El dinero sigue al alumno.** Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.\n - **8.293 €** por alumno: que lo decida la familia"
+   },
+   {
+    "id": "mundo-0036",
+    "partido": "mundo",
+    "titular": "Control público de los servicios a mayores y prioridad a la gestión pública",
+    "marca_actual": [],
+    "texto": "6. **Someter todo servicio público o concertado dirigido a personas mayores a control público permanente**, transparencia económica, priorizar la gestión pública y la de entidades sin ánimo de lucro, ratios mínimos de personal, requisitos de calidad verificables, inspecciones periódicas y publicidad de los resultados. El beneficio económico nunca podrá prevalecer sobre la dignidad, la seguridad o el bienestar de las personas atendidas."
+   },
+   {
+    "id": "mundo-0144",
+    "partido": "mundo",
+    "titular": "Invertir el 6 % del PIB en educación, reconociendo la concertada",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "1. **Garantizar una financiación educativa suficiente, estable y equitativa.** Impulsar, en coordinación con las comunidades autónomas y respetando sus competencias, un incremento progresivo de la inversión pública en educación hasta alcanzar al menos el **6 % del PIB**, mediante compromisos presupuestarios plurianuales. Fortalecer especialmente los centros públicos, garantizando una educación gratuita, inclusiva y de calidad, y asegurar que todos los centros sostenidos con fondos públicos cumplan los principios de gratuidad, equidad, transparencia y no discriminación. Apoyar la coexistencia de la educación pública y privada, concertada y no concertada, reconociendo especialmente la aportación social de la concertada en contextos de mayor precariedad."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 5,
+  "palabras": 171,
+  "candidatos": [
+   {
+    "id": "salf-0024",
+    "partido": "salf",
+    "titular": "Ley educativa de 20 años, castellano garantizado y el dinero sigue al alumno",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "9. **Educación** — Ley de 20 años. Castellano garantizado. El dinero sigue al alumno."
+   },
+   {
+    "id": "salf-0142",
+    "partido": "salf",
+    "titular": "Diagnóstico: caída en matemáticas, lectura y ciencias y 12,8 % de abandono",
+    "marca_actual": [],
+    "texto": "**El Estado no es dueño de tus hijos.**\n\n**−16 / −23 / −8** puntos en matemáticas, lectura y ciencias desde 2022\n\n**12,8 %** de abandono escolar: tercero peor de Europa\n\n**3.000** familias en los juzgados para estudiar en español"
+   },
+   {
+    "id": "salf-0143",
+    "partido": "salf",
+    "titular": "Ley educativa por dos tercios para 20 años y selectividad única en castellano",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "1. **Una ley para 20 años.** Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.\n - **8** leyes educativas en 45 años: se acabó"
+   },
+   {
+    "id": "salf-0144",
+    "partido": "salf",
+    "titular": "Derecho exigible a la enseñanza en castellano en toda España",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "2. **Castellano garantizado, sin ir a juicio.** Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.\n - **0** pleitos para estudiar en tu lengua"
+   },
+   {
+    "id": "salf-0152",
+    "partido": "salf",
+    "titular": "5.000 auxiliares nativos más y certificación B2 de inglés pagada por el Estado",
+    "marca_actual": [],
+    "texto": "10. **Inglés real.** 5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil. _Coste: ≈ 250 M€/año._\n - **B2** garantizado al acabar Bachillerato"
+   }
+  ]
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "pregunta": "¿Condonar parte de la deuda autonómica?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, condonarla"
+   },
+   {
+    "id": "no",
+    "nombre": "No, rechazar la condonación"
+   }
+  ],
+  "n": 1,
+  "palabras": 130,
+  "candidatos": [
+   {
+    "id": "salf-0066",
+    "partido": "salf",
+    "titular": "Financiación autonómica con criterios iguales y sin condonaciones de deuda salvo catástrofe",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "11. **Financiación autonómica justa, solidaria y responsable. Ni condonaciones ni moneda de cambio.** Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos. Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.\n - **0 €** de condonaciones de deuda entre administraciones, salvo catástrofe"
+   }
+  ]
+ },
+ {
+  "eje": "eje-mordaza",
+  "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+  "posiciones": [
+   {
+    "id": "derogar-sustituir",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o reforzarla"
+   }
+  ],
+  "n": 2,
+  "palabras": 115,
+  "candidatos": [
+   {
+    "id": "mundo-0244",
+    "partido": "mundo",
+    "titular": "Defender el espacio cívico y reformar la Ley de Seguridad Ciudadana",
+    "marca_actual": [],
+    "texto": "1. **Favorecer y defender el espacio cívico y el fortalecimiento de las diversas organizaciones de la sociedad civil elemento indispensable para constituir sociedades democráticas**. Esto se traduce en promover la participación, protección y financiación de organizaciones sociales, feministas y defensoras de derechos y del planeta; reformar la Ley estatal de Seguridad Ciudadana; implementar la Recomendación del Comité de Ayuda al Desarrollo de la OCDE sobre entornos habilitantes para la sociedad civil y la Estrategia de Sociedad Civil de la Unión Europea. También significa incidir para garantizar una mayor representación de la sociedad civil, especialmente del sur global, en la gobernanza global."
+   },
+   {
+    "id": "mundo-0251",
+    "partido": "mundo",
+    "titular": "Reformar la Ley de Seguridad Ciudadana en 2027",
+    "marca_actual": [],
+    "texto": "- **Ley de Seguridad Ciudadana** — Medida nueva — Meta: Reformada — Plazo: 2027"
+   }
+  ]
+ },
+ {
+  "eje": "eje-mercosur",
+  "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+  "posiciones": [
+   {
+    "id": "rechazar",
+    "nombre": "Rechazarlo o exigir cláusulas espejo"
+   },
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarlo"
+   },
+   {
+    "id": "salvaguardas",
+    "nombre": "Aplicarlo con salvaguardas y control"
+   }
+  ],
+  "n": 1,
+  "palabras": 86,
+  "candidatos": [
+   {
+    "id": "salf-0156",
+    "partido": "salf",
+    "titular": "Vetar Mercosur, el recorte de la PAC y el Pacto Verde",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "2. **Veto a Mercosur, al recorte de la PAC y al Pacto Verde.** Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.\n - **−877 M€** al año para el campo español con el recorte de la PAC"
+   }
+  ]
+ },
+ {
+  "eje": "eje-prostitucion",
+  "pregunta": "¿Qué hacer con la prostitución?",
+  "posiciones": [
+   {
+    "id": "abolir",
+    "nombre": "Abolirla"
+   },
+   {
+    "id": "derechos",
+    "nombre": "Reconocer derechos a quienes la ejercen"
+   }
+  ],
+  "n": 1,
+  "palabras": 59,
+  "candidatos": [
+   {
+    "id": "mundo-0269",
+    "partido": "mundo",
+    "titular": "Combatir la trata y avanzar hacia la abolición de la prostitución",
+    "marca_actual": [
+     "abolir"
+    ],
+    "texto": "6. **Combatir la trata de personas y la explotación sexual, especialmente de mujeres y niñas,** aumentando los recursos destinados a la prevención, persecución de estos delitos y protección y reparación de las víctimas. Avanzar hacia la abolición de la prostitución, garantizando que las personas que la ejercen no queden desprotegidas y facilitando alternativas de empleo digno y acompañamiento social."
+   }
+  ]
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 1,
+  "palabras": 25,
+  "candidatos": [
+   {
+    "id": "mundo-0052",
+    "partido": "mundo",
+    "titular": "Meta: pobreza o exclusión infantil por debajo del 25 % en 2030",
+    "marca_actual": [],
+    "texto": "- **Riesgo de pobreza o exclusión infantil (< 16 años)** — 33,9 % (INE, ECV · 2025) — Meta: < 25 % — Plazo: 2030"
+   }
+  ]
+ }
+]

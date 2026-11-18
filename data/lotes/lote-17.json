@@ -1,0 +1,2139 @@
+[
+ {
+  "id": "pcte-0010",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Luchar por el trabajo, el salario y el tiempo de vida",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Readmisión** — **Readmisión obligatoria**, a elección del trabajador, ante el despido injustificado."
+ },
+ {
+  "id": "pcte-0011",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Luchar por el trabajo, el salario y el tiempo de vida",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Despidos colectivos** — **Prohibición de los despidos colectivos en empresas con beneficios o que repartan dividendos**. Autorización administrativa previa para cualquier despido colectivo, con informe vinculante de la representación de los trabajadores y apertura completa de las cuentas del grupo. Indemnizaciones que disuadan de despedir."
+ },
+ {
+  "id": "pcte-0012",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. Luchar por el trabajo, el salario y el tiempo de vida",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Salud laboral** — **La salud por encima del beneficio**. Las plantillas deben poder paralizar de forma efectiva los trabajos ante riesgos graves y negarse a cumplir órdenes que pongan en riesgo la vida."
+ },
+ {
+  "id": "pcte-0013",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción"
+  ],
+  "texto": "Quienes trabajamos conocemos el funcionamiento real de las empresas, pero **las decisiones fundamentales se toman sin contar con nosotros**. La propiedad decide inversiones, cierres, deslocalizaciones o automatizaciones, aunque sus consecuencias recaigan sobre plantillas y territorios enteros. Defender nuestras conquistas y derechos pasa también por instaurar **mecanismos estables de control de la patronal**.\n\nHoy, además, se habla mucho de reindustrializar, de «autonomía estratégica» y de planificación. Pero la política industrial que se impulsa desde Bruselas y Madrid responde a los intereses de la economía de guerra y el beneficio privado, no a nuestras necesidades. **Que una empresa sea pública no basta**: una empresa estatal puede despedir, externalizar y precarizar como cualquier otra. Lo decisivo es **para qué produce y quién controla lo que se produce**.\n\nPor eso todas las propuestas de este bloque van en la misma dirección: **arrancar información y convertirla en control**, ejercido por la organización unitaria, sindical y de base de la clase obrera y en su propio beneficio. Lo cual pasa también por que sectores esenciales como la energía, el transporte o las telecomunicaciones dejen de estar sometidos a los intereses de grandes grupos privados."
+ },
+ {
+  "id": "pcte-0014",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Cuentas abiertas** — **Abrir las cuentas**. Los representantes de los trabajadores deben tener acceso efectivo a beneficios, dividendos, inversiones, deuda, ayudas públicas y operaciones dentro de los grupos empresariales."
+ },
+ {
+  "id": "pcte-0015",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Cierres y deslocalizaciones** — **Ningún cierre o deslocalización debe ser una decisión exclusivamente privada**. Ante amenazas al empleo, apertura completa de cuentas, estudio obligatorio de alternativas y devolución de las ayudas públicas si se incumplen compromisos."
+ },
+ {
+  "id": "pcte-0016",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Información y veto** — **Derecho de información previa y veto suspensivo** de la representación de los trabajadores ante contrataciones externas, externalizaciones, cambios de horarios, turnos y ritmos, reorganizaciones y sistemas algorítmicos de organización del trabajo."
+ },
+ {
+  "id": "pcte-0017",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Intervención de empresas** — Cuando una empresa viable y necesaria vaya a desaparecer exclusivamente por decisión de sus propietarios, defendemos su intervención y **paso a propiedad estatal bajo mecanismos de control obrero**."
+ },
+ {
+  "id": "pcte-0018",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Sectores estratégicos** — **Propiedad estatal bajo mecanismos de control obrero de los sectores estratégicos**, especialmente energía, transporte, telecomunicaciones y capacidades industriales esenciales."
+ },
+ {
+  "id": "pcte-0019",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Nuevas tecnologías** — **La introducción de nuevas tecnologías debe negociarse con los trabajadores**. Si una máquina permite producir lo mismo en menos tiempo, el resultado debe ser **menos jornada y no menos empleo**."
+ },
+ {
+  "id": "pcte-0020",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. Más mecanismos de control obrero en la producción",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Política industrial** — Desarrollo de una **política industrial planificada orientada a las necesidades sociales**, con empresas estatales, inversión estable, formación profesional, capacidad científica y tecnológica propia y mecanismos democráticos de control y decisión."
+ },
+ {
+  "id": "pcte-0021",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio"
+  ],
+  "texto": "**La vivienda es una necesidad básica**, pero se ha convertido también en una fuente de rentas y especulación. Una parte creciente del salario termina en alquileres y cuotas hipotecarias mientras bancos, fondos y grandes propietarios acumulan viviendas. El problema de la vivienda no es un problema aparte: es **una parte del salario que se nos arrebata fuera del centro de trabajo**.\n\nLa consecuencia es que personas con empleo no pueden independizarse, y que perder ingresos puede significar perder también la casa. Por eso la lucha por la vivienda **se libra en dos frentes que deben ir unidos**: en los barrios, organizándonos vecinos y vecinas, y en los centros de trabajo. Hay que llevar hasta el final la lucha por la vivienda e **impedir el negocio con una necesidad tan básica como tener un techo**."
+ },
+ {
+  "id": "pcte-0022",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Desahucios** — **Prohibición efectiva de todo desahucio de hogares trabajadores de su vivienda habitual**, sea cual sea la causa, el propietario —también la Administración— y la situación de quien la habita: con o sin contrato, en subarriendo o sin papeles."
+ },
+ {
+  "id": "pcte-0023",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Alternativa de vivienda** — En el caso de que el propietario necesite la vivienda para vivir en ella, **la Administración garantizará siempre, antes de la salida, una alternativa digna y estable en el mismo barrio**."
+ },
+ {
+  "id": "pcte-0024",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Suministros básicos** — **Prohibición de cualquier corte de agua, electricidad o calefacción** a hogares trabajadores."
+ },
+ {
+  "id": "pcte-0025",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Bajada de alquileres** — **Bajada inmediata de los alquileres del 50 %**, a costa de la ganancia de los propietarios y no mediante ayudas públicas que acaban en su bolsillo y empujan los precios al alza. A partir de ahí, **precios máximos ligados a los salarios medios de la zona**. Contratos indefinidos por defecto."
+ },
+ {
+  "id": "pcte-0026",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Alquiler social** — **Quien no pueda pagar su alquiler no se queda sin casa**: si la vivienda es de un banco, fondo o gran tenedor, **alquiler social obligatorio de no más del 15 % de sus ingresos** y con contrato indefinido; en los demás casos, la Administración realoja al hogar en el parque público, en el mismo barrio y en las mismas condiciones."
+ },
+ {
+  "id": "pcte-0027",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Alquiler de vivienda habitual** — **Todo alquiler que sea vivienda habitual**, también el de temporada y el de habitaciones, se rige por las mismas normas de protección, duración y precio."
+ },
+ {
+  "id": "pcte-0028",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Vivienda turística** — **Limitar la vivienda turística a un 0,5 %** del conjunto de viviendas de la localidad."
+ },
+ {
+  "id": "pcte-0029",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Parque público** — Construcción de un **gran parque público permanente de vivienda en alquiler** hasta alcanzar, a corto plazo, **al menos el 10 % del total de viviendas**, protegido para siempre, mediante promoción directa, fomento del cooperativismo social y la autoconstrucción, rehabilitación, adquisición de inmuebles y utilización del suelo público."
+ },
+ {
+  "id": "pcte-0030",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Expropiación** — **Expropiación sin indemnización de las viviendas vacías y de uso especulativo** de bancos, fondos y grandes tenedores para incorporarlas al parque público."
+ },
+ {
+  "id": "pcte-0031",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Precio del alquiler público** — **Precio de los alquileres públicos establecido según los ingresos de los hogares**."
+ },
+ {
+  "id": "pcte-0032",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Vivienda protegida** — **Prohibición de vender o descalificar cualquier vivienda pública o protegida**."
+ },
+ {
+  "id": "pcte-0033",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. La vivienda no es un negocio",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Hipotecas** — **Ninguna ejecución hipotecaria de la vivienda habitual de hogares trabajadores**: reestructuración de la deuda a cargo de la banca, **dación en pago** cuando el hogar lo elija y con derecho a seguir en la vivienda en alquiler social, y cancelación de las deudas de quienes ya perdieron su casa."
+ },
+ {
+  "id": "pcte-0034",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social"
+  ],
+  "texto": "El salario no termina en la nómina. Garantizar mínimos vitales dignos depende también de disponer de **sanidad, educación y protección social sin tener que comprarlas en el mercado**.\n\nCuando un servicio público se deteriora, quien tiene dinero busca una alternativa privada y quien no lo tiene soporta esperas, falta de plazas o servicios insuficientes. **La privatización convierte necesidades básicas en oportunidades de negocio** a costa de nuestras vidas.\n\nDefender lo público no puede ser defender la gestión de quienes lo están desmantelando. La defensa de los servicios exige **la unidad organizada de quienes trabajan en ellos y de quienes los usan**."
+ },
+ {
+  "id": "pcte-0035",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Privatizaciones** — **Ni una privatización más**: **derogación de la Ley 15/1997** y prohibición de nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales."
+ },
+ {
+  "id": "pcte-0036",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Sanidad pública** — **Refuerzo de la sanidad pública**, especialmente de atención primaria, atención especializada, salud mental, salud bucodental, prevención e investigación. **25 % del gasto sanitario para atención primaria**."
+ },
+ {
+  "id": "pcte-0037",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Gestión pública** — **Recuperación de servicios externalizados y privatizados mediante gestión pública directa** bajo mecanismos democráticos de control obrero."
+ },
+ {
+  "id": "pcte-0038",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Medicamentos** — **Desarrollo de capacidades públicas en medicamentos**, productos sanitarios e investigación farmacéutica."
+ },
+ {
+  "id": "pcte-0039",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Empleo público** — **Plantillas públicas suficientes y estables**. También en los servicios públicos: necesidad permanente, empleo permanente."
+ },
+ {
+  "id": "pcte-0040",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Educación pública** — **Sistema educativo exclusivamente público, gratuito, laico e inclusivo** en todas sus etapas; con centros y plantillas suficientes. Integración de los centros concertados en una red pública única. **Descenso de las ratios**."
+ },
+ {
+  "id": "pcte-0041",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Gratuidad educativa** — **La gratuidad debe abarcar también los costes que pueden impedir estudiar**: materiales, transporte, comedor o residencia."
+ },
+ {
+  "id": "pcte-0042",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Red de cuidados** — Creación de una **red pública universal de cuidados**: escuelas infantiles, ayuda a domicilio, centros de día, residencias, dependencia, discapacidad y apoyos comunitarios."
+ },
+ {
+  "id": "pcte-0043",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Cuidados públicos** — **Gestión pública directa de los cuidados fundamentales**, con empleo estable, salarios dignos y plantillas suficientes."
+ },
+ {
+  "id": "pcte-0044",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Planes de pensiones** — **Rechazamos su privatización**: fin de los incentivos fiscales a los planes privados y a los fondos de pensiones de empleo."
+ },
+ {
+  "id": "pcte-0045",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Paro y baja médica** — **Prestación por desempleo mientras dure el paro**, nunca inferior al salario mínimo. **Incapacidad temporal pagada al 100 % del salario desde el primer día**."
+ },
+ {
+  "id": "pcte-0046",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Transporte** — **Prohibición completa de las subcontratas** para labores de diseño de infraestructuras y mantenimiento en el transporte."
+ },
+ {
+  "id": "pcte-0047",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Defender los servicios públicos y la protección social",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Pensiones** — **Ninguna pensión por debajo del salario mínimo**. Revalorización automática con el IPC real y recuperación de lo perdido cuando la inflación supere la revalorización."
+ },
+ {
+  "id": "pcte-0048",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo"
+  ],
+  "texto": "**No existe un único interés «del campo»**. No están en la misma situación el jornalero, el pequeño productor que vive de su trabajo y la gran propiedad o la agroindustria multinacional.\n\nLos pequeños productores se ven obligados a vender a precios que no cubren sus costes mientras los trabajadores compran esos mismos productos mucho más caros. Entre ambos, **la gran distribución y la agroindustria imponen sus condiciones**. La reacción aprovecha esa ruina y la convierte en bandera contra los derechos de los jornaleros, contra los migrantes y contra cualquier regulación.\n\nLa alianza que proponemos es la contraria: **la de quienes trabajan la tierra contra quienes la acaparan y especulan con lo que producimos**, con los derechos de los asalariados del campo en el centro."
+ },
+ {
+  "id": "pcte-0049",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Derechos laborales** — **Plenos derechos laborales y sindicales** para los trabajadores agrícolas, ganaderos, pesqueros y de la industria alimentaria."
+ },
+ {
+  "id": "pcte-0050",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Capacidades públicas** — **Desarrollo de capacidades públicas de almacenamiento, transformación, transporte, distribución y compra de alimentos** bajo mecanismos de control democrático."
+ },
+ {
+  "id": "pcte-0051",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Trabajadores migrantes** — **Mismos derechos para trabajadores migrantes y nacionales**. Ninguna situación administrativa puede utilizarse para pagar menos."
+ },
+ {
+  "id": "pcte-0052",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Tierras** — **Bancos públicos de tierras** y recuperación productiva de tierras abandonadas."
+ },
+ {
+  "id": "pcte-0053",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Precios en origen** — Cumplimiento efectivo de la **prohibición de comprar por debajo del coste de producción**, con inspección en la que participen las organizaciones de pequeños productores y jornaleros, y publicación de todas las sanciones."
+ },
+ {
+  "id": "pcte-0054",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Acceso a recursos** — **Acceso colectivo a maquinaria, tecnología, investigación, servicios veterinarios y financiación**."
+ },
+ {
+  "id": "pcte-0055",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Transparencia** — **Transparencia sobre costes, contratos y márgenes comerciales**."
+ },
+ {
+  "id": "pcte-0056",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Abastecimiento** — Mantener las producciones y capacidades necesarias para garantizar un **abastecimiento alimentario suficiente y a precios accesibles para el pueblo**."
+ },
+ {
+  "id": "pcte-0057",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Cesta básica** — **Precios máximos de venta para una cesta de productos básicos** y **márgenes máximos para la gran distribución**. Precio pagado en origen visible junto al de venta."
+ },
+ {
+  "id": "pcte-0058",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Asegurar la cesta de la compra y los derechos en el campo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Medio rural** — Servicios públicos, transporte, vivienda, conectividad y actividad productiva que permitan **vivir en el medio rural con los mismos derechos que en las ciudades**."
+ },
+ {
+  "id": "pcte-0059",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora"
+  ],
+  "texto": "Los y las jóvenes se incorporan al trabajo mediante prácticas, temporalidad y bajos salarios, y con enormes dificultades para acceder a una vivienda. Esa precariedad se presenta como una etapa normal de la vida, pero no es una etapa: **es el anticipo de lo que se quiere generalizar**. **La juventud sufre primero lo que después acaba imponiéndose al conjunto de los trabajadores**.\n\n**No existe una lucha generacional, es una lucha de clases**. La defensa de las condiciones de vida y trabajo de la juventud es responsabilidad de toda la clase trabajadora."
+ },
+ {
+  "id": "pcte-0060",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Derechos desde el primer día** — Si produces, trabajas; si trabajas, cobras y tienes derechos: **toda actividad en la empresa, también las prácticas, cotiza y genera derechos desde el primer día**."
+ },
+ {
+  "id": "pcte-0061",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Vivienda joven** — **Reserva de un tercio del parque público de alquiler para jóvenes trabajadores**, con alquiler según ingresos, en lugar de ayudas que acaban en manos de los caseros."
+ },
+ {
+  "id": "pcte-0062",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Prácticas** — **Solo prácticas curriculares** que no cubran labores esenciales de producción, con tutor, límite de horas y un máximo de becarios por plantilla, y con compensación no inferior al salario mínimo en proporción a las horas. **Prohibición de las prácticas extracurriculares**."
+ },
+ {
+  "id": "pcte-0063",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Becas** — **Beca-salario equivalente al salario mínimo** para estudiantes de familias trabajadoras y plaza en residencia pública para quien estudie fuera de su localidad."
+ },
+ {
+  "id": "pcte-0064",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Salarios por edad** — **Fin de las dobles escalas salariales** y de cualquier condición peor justificada por la edad: ningún contrato formativo por debajo del salario de convenio. **Mismo trabajo, mismo salario, tengas la edad que tengas**."
+ },
+ {
+  "id": "pcte-0065",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Espacios juveniles** — Apertura de patios, polideportivos y bibliotecas escolares por las tardes y los fines de semana, y **un centro juvenil público en cada barrio**."
+ },
+ {
+  "id": "pcte-0066",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. Defender a la juventud trabajadora",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Apuestas y juego** — **Prohibición de las casas de apuestas, el juego en línea y su publicidad**."
+ },
+ {
+  "id": "pcte-0067",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras"
+  ],
+  "texto": "**La igualdad legal no ha eliminado las desigualdades reales**. Las mujeres trabajadoras siguen concentradas en los empleos peor pagados, en las jornadas parciales y en los trabajos de cuidados, dentro y fuera de casa. La maternidad sigue penalizando, y la falta de ingresos o de vivienda puede impedir romper situaciones de dependencia y de violencia machista.\n\nEstas desigualdades no son un residuo del pasado; **sirven, además, para abaratar la fuerza de trabajo del conjunto de la clase**. Por eso la lucha por la igualdad real se libra en los mismos lugares que todas las demás: en los convenios que infravaloran los trabajos feminizados, en los servicios públicos que deberían socializar los cuidados y en la vivienda, sin la cual no hay independencia posible."
+ },
+ {
+  "id": "pcte-0068",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Igualdad salarial** — **Igual salario por el mismo trabajo y por trabajos de igual valor**."
+ },
+ {
+  "id": "pcte-0069",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Violencia machista** — **Garantizar vivienda, ingresos, empleo y atención sanitaria, psicológica y jurídica** suficientes a las mujeres que sufren violencia, para que puedan romper la dependencia económica."
+ },
+ {
+  "id": "pcte-0070",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Jornada completa** — **Derecho a pasar a jornada completa** para toda trabajadora a tiempo parcial que lo pida. Mejora de salarios y plantillas en cuidados, limpieza, comercio, sanidad, educación y servicios sociales."
+ },
+ {
+  "id": "pcte-0071",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Derechos reproductivos** — **Derechos sexuales y reproductivos garantizados dentro de la sanidad pública**: todas las interrupciones del embarazo, en hospitales públicos."
+ },
+ {
+  "id": "pcte-0072",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Despido y maternidad** — **Nulidad y readmisión automática en todo despido hasta que el hijo o la hija cumpla 3 años**."
+ },
+ {
+  "id": "pcte-0073",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Prostitución** — **Prohibición de la prostitución y el proxenetismo**, con alternativas materiales para las mujeres prostituidas."
+ },
+ {
+  "id": "pcte-0074",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Permiso por nacimiento** — **Permiso por nacimiento de 52 semanas**, igual, intransferible y retribuido al 100 %, que enlace con la plaza pública de 0 a 3 años."
+ },
+ {
+  "id": "pcte-0075",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Gestación subrogada** — **Rechazo de la gestación subrogada**. Persecución de las agencias que la intermedian desde España."
+ },
+ {
+  "id": "pcte-0076",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Igualdad real para las mujeres trabajadoras",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Cuidados** — Servicios públicos que socialicen los cuidados: **plaza pública 0-3 y fin de la lista de espera de la dependencia**."
+ },
+ {
+  "id": "pcte-0077",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia"
+  ],
+  "texto": "El progreso no puede medirse solo por cuánto produce una sociedad, sino también por **cuánto tiempo tienen las personas para leer, estudiar, crear, hacer deporte y pasar tiempo en comunidad**. Reducir la jornada no tiene sentido si el tiempo ganado no se puede vivir.\n\nHoy el acceso a la cultura y al deporte depende de la renta y del barrio, y quienes trabajan en la cultura y la ciencia sufren una precariedad crónica. Al mismo tiempo, la investigación pública se orienta cada vez más a las prioridades de la competencia entre empresas y bloques, incluida la industria militar. Defendemos **una cultura y una ciencia al servicio de las necesidades de la mayoría, no de la rentabilidad ni de la guerra**."
+ },
+ {
+  "id": "pcte-0078",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Bibliotecas y centros culturales** — **Una biblioteca pública en cada barrio**, abierta por las tardes y los fines de semana, y extensión de centros culturales, escuelas artísticas e instalaciones deportivas a los barrios obreros, los pueblos y el medio rural."
+ },
+ {
+  "id": "pcte-0079",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Trabajo cultural** — **Convenio y cotización en todo trabajo cultural** contratado por las administraciones, también el subcontratado, sin falsos autónomos."
+ },
+ {
+  "id": "pcte-0080",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Gratuidad cultural** — **Gratuidad de museos y equipamientos públicos**, uso gratuito de las instalaciones deportivas públicas para menores y personas desempleadas, y precio máximo en toda actividad cultural subvencionada."
+ },
+ {
+  "id": "pcte-0081",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Investigación** — **Fin de los contratos por proyecto encadenados**: plazas estables para el personal investigador."
+ },
+ {
+  "id": "pcte-0082",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "08. Por el acceso a la cultura y la ciencia",
+   "Ejes de lucha"
+  ],
+  "texto": "- **I+D militar** — **Ningún euro de investigación pública para fines militares**: los fondos de I+D militar, a salud, energía, alimentación y medio ambiente."
+ },
+ {
+  "id": "pcte-0083",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo"
+  ],
+  "texto": "La competencia entre grandes potencias y bloques económicos empuja al rearme y aumenta el riesgo de nuevas guerras. **La militarización de la economía ya no es una amenaza: es un hecho**, y la pagamos con austeridad, con aumento de la represión y la vigilancia y, en último término, con nuestras propias vidas.\n\n**Nuestra clase no necesita elegir entre potencias capitalistas**. El dinero que hoy se destina al rearme es el que falta en vivienda, sanidad o educación, y las plantillas de la industria militar no tienen por qué elegir entre su empleo y la paz: pueden producir lo que la sociedad necesita. Nuestra clase debe imponer su propia agenda internacional, una que no pasa por la guerra sino por **la solidaridad de los pueblos**."
+ },
+ {
+  "id": "pcte-0084",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Rearme** — **No al rearme**: reducción del gasto militar real y anulación de los Programas Especiales de Modernización. Esos recursos, para vivienda, servicios, empleo e industria civil."
+ },
+ {
+  "id": "pcte-0085",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Bases militares** — **Ruptura de los acuerdos que permiten el uso de territorio español por fuerzas militares extranjeras** y recuperación de la plena soberanía sobre las bases."
+ },
+ {
+  "id": "pcte-0086",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Industria militar** — **Reconversión de la industria militar** hacia producciones socialmente necesarias, garantizando el empleo de sus plantillas."
+ },
+ {
+  "id": "pcte-0087",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Solidaridad internacional** — **Solidaridad con los pueblos que luchan contra la ocupación**, el colonialismo y la agresión imperialista."
+ },
+ {
+  "id": "pcte-0088",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **OTAN y UE** — **Salida de España de la OTAN y de la Unión Europea**."
+ },
+ {
+  "id": "pcte-0089",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Israel** — **Embargo militar total y sin excepciones al Estado de Israel**, y ruptura de sus relaciones diplomáticas, militares y comerciales con España."
+ },
+ {
+  "id": "pcte-0090",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Tropas en el exterior** — **Regreso de las tropas españolas** desplegadas en operaciones imperialistas."
+ },
+ {
+  "id": "pcte-0091",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "09. Por la paz y el internacionalismo",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Sáhara Occidental** — **Reconocimiento de la República Árabe Saharaui Democrática** y referéndum de autodeterminación libre y vinculante para el pueblo saharaui. España, como antigua potencia administradora, debe retirar su apoyo al plan de autonomía marroquí y renunciar a cualquier acuerdo con Marruecos a costa del pueblo saharaui y de sus recursos."
+ },
+ {
+  "id": "pcte-0092",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades"
+  ],
+  "texto": "**Cuanto más se deterioran nuestras condiciones de vida, más necesita el capital mantenernos divididos y callados**. Lo hace por dos vías que se refuerzan entre sí. Desde el Estado, con leyes que castigan la protesta, sanciones que convierten un piquete en una falta grave, policías infiltrados en asambleas y sindicatos y una vigilancia cada vez mayor. Y desde la reacción, que aprovecha el malestar de quienes se empobrecen para señalar a la persona migrante, a la mujer, a la comunidad LGTB o a quien lucha, mientras deja intactos a quienes se enriquecen con nuestra miseria.\n\nNo son fenómenos opuestos. **Las leyes represivas se mantienen gobierne quien gobierne**, y quienes desalojan familias a la fuerza trabajan para los mismos propietarios a los que protege la ley. Por eso **no confiamos la defensa de nuestras libertades a ningún gobierno**. La respuesta a la reacción es **la organización y la unidad de la clase trabajadora** en cada centro de trabajo, cada barrio y cada centro de estudio."
+ },
+ {
+  "id": "pcte-0093",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Ley Mordaza** — **Derogación de la Ley de Seguridad Ciudadana (la llamada Ley Mordaza)** y anulación de las sanciones impuestas con ella por participar en huelgas y protestas."
+ },
+ {
+  "id": "pcte-0094",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **CIE y regularización** — **Cierre de los CIE** y fin de las identificaciones por perfil étnico y de las devoluciones en caliente. **Mecanismo permanente de regularización** para todas las personas trabajadoras sin papeles."
+ },
+ {
+  "id": "pcte-0095",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Ley universitaria** — **Derogación de la Ley de Convivencia Universitaria**. Ninguna sanción académica por organizar huelgas, piquetes o protestas en los centros de estudio."
+ },
+ {
+  "id": "pcte-0096",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Fascismo y franquismo** — **Ilegalización de las organizaciones fascistas y franquistas** y disolución de las fundaciones que enaltecen la dictadura: ni un espacio ni un euro público para ellas. Rechazo de cualquier ley que equipare el fascismo con el comunismo."
+ },
+ {
+  "id": "pcte-0097",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Desocupación ilegal** — **Ilegalización de las empresas de desocupación**, prohibición de contratarlas y persecución penal de las coacciones y los desalojos ilegales que practican."
+ },
+ {
+  "id": "pcte-0098",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Delitos de opinión** — **Derogación de los delitos de opinión que protegen al poder**: injurias a la Corona y a las instituciones y ultrajes a símbolos."
+ },
+ {
+  "id": "pcte-0099",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Impunidad policial** — **Fin de la impunidad policial**: prohibición de las pelotas de goma, prohibición del uso de vehículos blindados («tanquetas») y de material militar en el control de huelgas, piquetes y manifestaciones, e investigación independiente de las actuaciones policiales."
+ },
+ {
+  "id": "pcte-0100",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "10. Contra la reacción y el autoritarismo: defender nuestras libertades",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Personas LGTB** — **Protección de las personas LGTB** frente al despido, el acoso laboral, la discriminación en el acceso a la vivienda y las agresiones en todo tipo de empresas, también las de menos de 50 trabajadores. Respuesta organizada en barrios y centros de trabajo ante cualquier agresión."
+ },
+ {
+  "id": "pcte-0101",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales"
+  ],
+  "texto": "Todas las cuestiones anteriores llevan a una misma conclusión: **hace falta organización, más organización, toda la organización posible**. La libertad para asociarse, sin embargo, sigue encontrando hoy múltiples obstáculos, muy especialmente dentro de los centros de trabajo. Frente al poder organizado del Estado y la patronal, un trabajador aislado es débil, pero la organización colectiva cambia esa relación."
+ },
+ {
+  "id": "pcte-0102",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Representación** — **Derecho a elegir representante**, también en las empresas de menos de seis trabajadores, mediante delegados territoriales o sectoriales elegidos por sus plantillas."
+ },
+ {
+  "id": "pcte-0103",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Unidad obrera** — **Unidad de los trabajadores** frente a cualquier intento de dividirlos por origen, sexo, orientación sexual o identidad, edad, tipo de contrato o empresa. Combate del racismo y la xenofobia desde la igualdad de derechos y la defensa de intereses comunes."
+ },
+ {
+  "id": "pcte-0104",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Derecho de asamblea** — **Derecho a asamblea en horario de trabajo**: **al menos 10 horas retribuidas al año**."
+ },
+ {
+  "id": "pcte-0105",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Despido sindical** — **Nulidad y readmisión obligatoria en todo despido o sanción por actividad sindical**. Protección frente al despido para quienes promueven asambleas, candidaturas o secciones sindicales desde el primer momento."
+ },
+ {
+  "id": "pcte-0106",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Consultas vinculantes** — **Asambleas y consultas vinculantes a las plantillas** antes de firmar convenios, ERE o cualquier acuerdo que afecte a sus condiciones."
+ },
+ {
+  "id": "pcte-0107",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Rendición de cuentas** — **Rendición periódica de cuentas de los representantes** ante la asamblea de trabajadores del centro."
+ },
+ {
+  "id": "pcte-0108",
+  "partido": "pcte",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "11. Aumentar nuestros derechos políticos y sindicales",
+   "Ejes de lucha"
+  ],
+  "texto": "- **Servicios mínimos** — **Limitar de raíz los servicios mínimos abusivos** y la ampliación de lo que se declara servicio esencial."
+ },
+ {
+  "id": "pcte-0109",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Por el socialismo"
+  ],
+  "texto": "**Queremos conquistar mejoras reales aquí y ahora**. Pero ninguna de estas reivindicaciones nos será concedida desde arriba, y ninguna está garantizada para siempre: **lo que se conquista sin organización se pierde** en cuanto cambia la correlación de fuerzas o el Gobierno de turno.\n\nPor eso este programa se dirige a la clase trabajadora y a sus organizaciones. Es un programa que busca **unificar nuestras distintas luchas en un único combate general** contra las distintas formas de violencia del capitalismo. Que busca superar la fragmentación y el aislamiento, el corporativismo y la división.\n\nUn programa que ayude a extender la organización, a construir una oposición obrera frente al capital y sus gobiernos, frente a la austeridad, la guerra y la reacción. Una oposición obrera que **no es una nueva fórmula de oposición parlamentaria ni una alternativa electoral** dentro de los límites del capitalismo. Es **la clase trabajadora organizada de forma independiente**, capaz de defender sus intereses gobierne quien gobierne y sean cuales sean las condiciones."
+ },
+ {
+  "id": "pcte-0110",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Por el socialismo"
+  ],
+  "texto": "**Su núcleo está en los centros de trabajo**, donde también está el núcleo de la explotación. En cada empresa, la oposición obrera se construye con **la asamblea como órgano de decisión**, con secciones sindicales combativas y con el protagonismo de las propias plantillas, por encima de las diferencias de sindicato, contrato o categoría. Cada reivindicación puede convertirse ahí en una plataforma concreta: en la negociación de un convenio, frente a un despido colectivo, ante una externalización o un cambio de turnos.\n\nPero la vida de la clase trabajadora no termina a la salida del trabajo. La misma persona que se enfrenta a su empresa paga un alquiler, espera cita en el centro de salud o busca plaza para sus padres en una residencia. Por eso **la oposición obrera se extiende a los barrios y los pueblos**: a la organización de vecinas y vecinos, a la defensa de los centros de salud y las escuelas, a centros obreros y populares que sirvan de punto de encuentro y coordinación. Y llega a los centros de estudio, a las organizaciones de mujeres trabajadoras y a los comités por la paz."
+ },
+ {
+  "id": "pcte-0111",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Por el socialismo"
+  ],
+  "texto": "Estos espacios no pueden quedar aislados. **Una huelga gana fuerza cuando el barrio la sostiene**; **una lucha por la vivienda gana fuerza cuando llega a los centros de trabajo**. La tarea es coordinar lo que hoy está disperso: que la asamblea de una empresa conozca la lucha de la de al lado, que los comités de un sector se coordinen entre sí y con su territorio, que las reivindicaciones parciales confluyan en plataformas comunes. Así, desde cada espacio de vida y de trabajo, se teje **una red organizada capaz de actuar como una sola fuerza**.\n\n**Más trabajadores organizados. Más secciones sindicales. Más comités. Más asambleas. Más asociaciones en los barrios. Más estructuras de lucha por la vivienda y los servicios públicos. Más centros obreros y populares. Más sindicalismo estudiantil. Más organización de las mujeres trabajadoras y de la clase obrera migrante… Más capacidad para afrontar el siguiente conflicto. Más capacidad para que cada lucha, que cada reivindicación, nos haga más fuertes hasta que estemos en disposición de acabar con este sistema.**"
+ },
+ {
+  "id": "pcte-0112",
+  "partido": "pcte",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Por el socialismo"
+  ],
+  "texto": "Este programa **no es un camino gradual hacia otra sociedad** ni una suma de reformas que acabe transformando el capitalismo desde dentro. Bajo el dominio del capital, nuestras necesidades solo pueden satisfacerse de forma parcial y temporal. Ese es su límite. Pero si cada lucha puede hacernos más fuertes, también puede debilitar cada vez más al enemigo. Si cada lucha puede extender la organización, también puede interrumpir y abrir brechas en el normal funcionamiento de su sociedad.\n\n**Lo que hoy parece inmóvil puede cambiar en cuestión de días. Cuando el poder capitalista se debilite y la conciencia y la organización de la clase crezcan, el desenlace dependerá del grado de preparación acumulada. Esa es la perspectiva estratégica de este programa: que la clase obrera esté en condiciones de disputar el poder a la burguesía, tomarlo y construir el socialismo-comunismo. Una sociedad en la que los medios de producción sean propiedad social, la economía se planifique democráticamente para satisfacer las necesidades de la mayoría y en la que los trabajadores y trabajadoras lo decidamos todo. Una sociedad en la que el libre desarrollo de cada uno sea la condición del libre desarrollo de todos.**"
+ },
+ {
+  "id": "autonomos-0001",
+  "partido": "autonomos",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [],
+  "texto": "100 Propuestas Actualizadas · Elecciones Generales 29 de Noviembre de 2026\n\nPAGAS Y CALLAS, ¡ AHORA DECIDE !"
+ },
+ {
+  "id": "autonomos-0002",
+  "partido": "autonomos",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Manifiesto y principios rectores 2026"
+  ],
+  "texto": "Partido Autónomos apuesta por la gestión de profesionales para dirigir España y llevarla al progreso económico y social, garantizando el bienestar de todos los ciudadanos. Nos definimos como una formación transversal y neutral donde empieza la unión y acaba la polarización ideológica, defendiendo la igualdad ante la ley, la libertad individual, la dignidad de la persona y la iniciativa privada como motor de cohesión social.\n\nFrente a la ineficiencia de la política tradicional, proponemos administrar los recursos públicos con el mismo rigor, transparencia y responsabilidad con que un autónomo o una pyme gestiona su negocio cada día. Nuestras propuestas están avaladas por profesionales en activo y expertos sectoriales, sustituyendo el exceso de asesores políticos por gestión técnica y sentido común.\n\nNuestro programa 2026 se articula sobre tres pilares irrenunciables: la Defensa de los Autónomos y el Comercio Local, el Fomento del Emprendimiento y la Inversión Productiva, y la construcción de un Sector Público Profesional, Digital y Eficiente que rinda cuentas de cada euro recaudado.\n\n|**PILAR I**|**PILAR II**|**PILAR III**|\n|---|---|---|\n|**Defensa de los Autónomos**|**Fomento del Emprendimiento**|**Sector Público Profesional**|\n|Fiscalidad justa, cuota cero bajo el SMI y protección social equiparada.|Licencias exprés en 24h, segunda oportunidad real y apoyo a pymes.|Recorte del 50% en asesores, presupuesto base cero y digitalización.|"
+ },
+ {
+  "id": "autonomos-0003",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "01. **Cuota Cero automática cuando los ingresos no alcancen el SMI** — Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa.\n - **Viabilidad:** _Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo._"
+ },
+ {
+  "id": "autonomos-0004",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "02. **IVA Franquiciado hasta 85.000 € y IVA de Caja obligatorio** — Transposición inmediata de la Directiva Europea 2020/285 para que autónomos y microempresas que facturen menos de 85.000 € anuales queden exentos de repercutir y liquidar el IVA trimestral, implantando además el IVA de caja real para que nadie adelante impuestos de facturas no cobradas.\n - **Viabilidad:** _Es viable jurídica y económicamente porque ya funciona en la práctica totalidad de la Unión Europea sin merma estructural de recaudación. El ahorro en gestión administrativa y la mejora de liquidez reducen la morosidad y afloran actividad económica que hoy se frena por miedo a los adelantos fiscales._"
+ },
+ {
+  "id": "autonomos-0005",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "03. **Licencia Exprés en 24 horas mediante Declaración Responsable** — Sustitución de todas las licencias municipales y autonómicas previas de apertura, reforma inocua o cambio de titularidad de locales comerciales por una declaración responsable telemática única que habilita para abrir el negocio en 24 horas, reservando el control previo solo a actividades peligrosas o contaminantes.\n - **Viabilidad:** _Es viable sin coste presupuestario porque traslada el control administrativo a inspecciones aleatorias posteriores, liberando a los técnicos municipales del atasco de expedientes. Reducir de seis meses a un día el tiempo de apertura acelera el cobro de impuestos locales y el empleo desde la primera semana._"
+ },
+ {
+  "id": "autonomos-0006",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "04. **Paro automático y Baja Laboral digna desde el primer día** — Equiparación objetiva de la prestación por cese de actividad con el desempleo asalariado, eliminando requisitos probatorios abusivos, junto con la bonificación del 100 % de la cuota desde el primer día de baja médica acreditada y el cálculo de pensiones sobre los años más favorables cotizados.\n - **Viabilidad:** _Es viable porque los autónomos ya cotizan obligatoriamente por contingencias profesionales y cese de actividad, acumulando superávit recurrente en las mutuas colaboradoras debido al alto porcentaje de denegaciones actuales. Reasignar esos fondos propios cubre el coste sin elevar el déficit público._"
+ },
+ {
+  "id": "autonomos-0007",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "05. **Derecho al Error Tributario y Segunda Oportunidad Fiscal** — Prohibición legal de imponer sanciones económicas automáticas por errores formales o discrepancias contables de buena fe sin ánimo de defraudación, estableciendo un plazo obligatorio de 15 días hábiles para subsanar sin recargo y agilizando la exoneración de deudas públicas en la Ley de Segunda Oportunidad.\n - **Viabilidad:** _Es viable porque descarga a los tribunales económico-administrativos de miles de recursos por multas menores y permite que emprendedores insolventes de buena fe vuelvan a cotizar y emprender en lugar de quedar atrapados en la economía sumergida durante décadas._"
+ },
+ {
+  "id": "autonomos-0008",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "06. **Recorte del 50 % en asesores y cargos de confianza política** — Limitación legal estricta del número y retribución de personal eventual y cargos de libre designación en ministerios, autonomías y diputaciones, sustituyendo el asesoramiento partidista por funcionarios de carrera cualificados y colegios profesionales mediante convenios técnicos.\n - **Viabilidad:** _Es viable de forma inmediata mediante ley presupuestaria, generando un ahorro directo superior a 600 millones de euros anuales en el conjunto de las administraciones públicas, recursos que se destinarán íntegramente a bonificar el inicio de actividad y el relevo generacional de pymes._"
+ },
+ {
+  "id": "autonomos-0009",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "07. **Presupuesto Base Cero y Auditoría anual de chiringuitos** — Eliminación de la prórroga automática de partidas presupuestarias: cada ministerio y ente público deberá justificar anualmente desde cero la utilidad de cada euro solicitado, suprimiendo observatorios, fundaciones y organismos duplicados entre Estado y Comunidades Autónomas.\n - **Viabilidad:** _Es viable aplicando técnicas estándar de control financiero empresarial a través de la Intervención General y el Tribunal de Cuentas. Detectar solapamientos administrativos permite reducir el gasto improductivo entre un 3 % y un 5 % sin recortar ni un euro en sanidad, educación o pensiones._"
+ },
+ {
+  "id": "autonomos-0010",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "08. **Dato Único Digital: prohibido pedir papeles que ya tiene el Estado** — Interconexión obligatoria de todas las bases de datos de Hacienda, Seguridad Social, SEPE, DGT y registros autonómicos o locales bajo el principio europeo de «solo una vez», prohibiendo sancionar o paralizar trámites por no aportar certificados que obran en poder público.\n - **Viabilidad:** _Es viable apoyándose en la infraestructura digital ya existente (Carpeta Ciudadana y plataformas de intermediación de datos), exigiendo únicamente voluntad normativa para eliminar silos administrativos y ahorrar a cada autónomo más de 120 horas anuales de gestión burocrática._"
+ },
+ {
+  "id": "autonomos-0011",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "09. **Bono Primer Empleado: bonificación del 100 % de cotización el primer año** — Bonificación íntegra de la cuota empresarial a la Seguridad Social durante los primeros doce meses para cualquier autónomo persona física o microempresa que contrate de forma indefinida a su primer trabajador asalariado, manteniendo un 50 % de reducción durante el segundo año.\n - **Viabilidad:** _Es viable y autofinanciable porque en España existen casi 2 millones de autónomos sin asalariados. Si apenas un 5 % da el paso de contratar, se crean 100.000 empleos netos que ahorran prestaciones por desempleo y generan recaudación directa vía IRPF y consumo._"
+ },
+ {
+  "id": "autonomos-0012",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque I · Las 10 propuestas estrella de campaña 2026"
+  ],
+  "texto": "10. **Deducción plena y objetiva de gastos afectos al negocio** — Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora.\n - **Viabilidad:** _Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada._"
+ },
+ {
+  "id": "autonomos-0013",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "11. **Reversión fiscal y transparencia en el retorno de impuestos** — Creación de un informe anual personalizado para cada contribuyente que detalle el destino exacto de sus impuestos pagados y la calidad real de los servicios públicos recibidos frente a la media europea (donde el IVA general medio ronda el 21,6 %).\n - **Viabilidad:** _Es viable aprovechando los sistemas de información de la Agencia Tributaria sin coste adicional, fomentando la cultura de exigencia ciudadana y obligando a los gestores públicos a mejorar la eficiencia del gasto para justificar la presión fiscal._"
+ },
+ {
+  "id": "autonomos-0014",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "12. **Rebaja del IVA eléctrico al 10 % y optimización de potencia para pymes** — Reducción permanente del IVA de la electricidad al 10 % para hogares y pequeños negocios con potencia contratada inferior a 15 kW, permitiendo además cambiar gratuitamente la potencia contratada dos veces al año para adaptarla a la estacionalidad.\n - **Viabilidad:** _Es viable porque el coste energético sigue representando uno de los principales gastos fijos del comercio y la hostelería; ajustar los tramos de potencia evita sobrecostes innecesarios en la red y mantiene la actividad abierta en meses valle._"
+ },
+ {
+  "id": "autonomos-0015",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "13. **Supresión del Impuesto de Sucesiones y Donaciones en toda España** — Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida.\n - **Viabilidad:** _Es viable porque este impuesto apenas representa alrededor del 0,2 % del PIB y su eliminación en varias comunidades autónomas ha demostrado atraer inversión, evitar deslocalizaciones fiscales y facilitar la continuidad de empresas familiares._"
+ },
+ {
+  "id": "autonomos-0016",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "14. **Exención fiscal en la transmisión y relevo de pequeños negocios** — Bonificación del 100 % en impuestos de transmisión patrimonial y plusvalías cuando se traspase un comercio o microempresa por jubilación del titular, siempre que el adquirente mantenga la actividad y el empleo durante al menos tres años.\n - **Viabilidad:** _Es viable porque cada año se pierden miles de negocios rentables por falta de relevo generacional; facilitar el traspaso evita el cierre de locales y conserva puestos de trabajo y cotizaciones que de otro modo desaparecerían._"
+ },
+ {
+  "id": "autonomos-0017",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "15. **IVA superreducido del 4 % para productos de higiene y primera necesidad** — Aplicación permanente del tipo superreducido del 4 % de IVA a pañales infantiles y de adultos, compresas, tampones y productos básicos de higiene femenina, equiparándolos fiscalmente a los alimentos de primera necesidad.\n - **Viabilidad:** _Es viable tras la reforma de la Directiva Europea de tipos de IVA, tiene un impacto recaudatorio muy acotado y alivia de forma directa y regresiva la cesta de la compra de todas las familias._"
+ },
+ {
+  "id": "autonomos-0018",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "16. **Eliminación de retenciones en alquileres de locales comerciales** — Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales.\n - **Viabilidad:** _Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación final del propietario en su IRPF o Impuesto de Sociedades, reduciendo errores formales y sanciones innecesarias._"
+ },
+ {
+  "id": "autonomos-0019",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "17. **Deducción estatal por alquiler de vivienda habitual y local profesional** — Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas, extendiendo un tramo deducible específico cuando parte de la vivienda esté afecta declaradamente al teletrabajo o actividad profesional.\n - **Viabilidad:** _Es viable porque incentiva la declaración oficial de los contratos de arrendamiento frente al mercado sumergido, compensando parte del coste fiscal mediante el afloramiento de rentas inmobiliarias no declaradas._"
+ },
+ {
+  "id": "autonomos-0020",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "18. **Reparto equitativo de gastos notariales y registrales en financiación** — Obligación legal de que las entidades financieras asuman al menos el 50 % de los gastos de notaría, gestoría y tasación en operaciones de financiación empresarial, traspaso de negocios y novaciones hipotecarias.\n - **Viabilidad:** _Es viable siguiendo el precedente de la Ley de Contratos de Crédito Inmobiliario, equilibrando la capacidad negociadora entre la banca y las pymes que necesitan crédito para invertir._"
+ },
+ {
+  "id": "autonomos-0021",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "19. **Arancel notarial y registral reducido para constituir pymes** — Fijación de una tarifa plana notarial y registral máxima de 100 € para la constitución telemática de sociedades limitadas y sociedades profesionales, eliminando tasas intermedias del BORME.\n - **Viabilidad:** _Es viable aprovechando la digitalización de notarías y registros mercantiles prevista en la normativa europea de sociedades, reduciendo el coste inicial de emprender en España._"
+ },
+ {
+  "id": "autonomos-0022",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "20. **Bonificación del 50 % en el ICIO para rehabilitación y eficiencia energética** — Reducción obligatoria del 50 % en el Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) para reformas de mantenimiento, accesibilidad y eficiencia energética tanto en viviendas particulares como en locales comerciales.\n - **Viabilidad:** _Es viable porque dinamiza al sector de autónomos de la construcción y reformas (albañiles, fontaneros, electricistas), aflorando facturas legales con IVA que compensan la bonificación municipal._"
+ },
+ {
+  "id": "autonomos-0023",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "21. **Reducción y revisión nacional de los tipos del Impuesto de Bienes Inmuebles** — Rebaja del tipo mínimo y máximo del IBI urbano y rústico tras la actualización de valores catastrales, estableciendo bonificaciones obligatorias para locales comerciales abiertos al público en zonas afectadas por obras o caída de tráfico.\n - **Viabilidad:** _Es viable compensando la menor recaudación por IBI con la reducción de gasto político municipal y la mayor actividad económica derivada de mantener persianas abiertas en los barrios._"
+ },
+ {
+  "id": "autonomos-0024",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "22. **Incentivos fiscales al ahorro privado y a la previsión complementaria** — Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos.\n - **Viabilidad:** _Es viable porque fomenta el ahorro nacional a largo plazo, reduce la dependencia futura del sistema público de pensiones y facilita que los jóvenes acumulen la entrada para su primera vivienda._"
+ },
+ {
+  "id": "autonomos-0025",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "23. **Restitución del IVA reducido al 10 % para peluquerías, estética y gimnasios** — Rebaja definitiva del tipo de IVA del 21 % al 10 % para los servicios de peluquería, imagen personal, estética y centros deportivos, corrigiendo la subida excepcional aprobada en 2012.\n - **Viabilidad:** _Es viable porque se trata de sectores intensivos en mano de obra femenina y autoempleo con miles de pequeños salones; bajar el IVA frena el cierre de establecimientos y reduce la economía informal._"
+ },
+ {
+  "id": "autonomos-0026",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "24. **Eliminación de penalizaciones fiscales por tener dos o más pagadores** — Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales.\n - **Viabilidad:** _Es viable mediante un simple ajuste técnico en el Reglamento del IRPF y en las tablas de retención, evitando que trabajadores precarios o en pluriempleo sufran liquidaciones inesperadas en la Renta._"
+ },
+ {
+  "id": "autonomos-0027",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque II · Fiscalidad justa, energía y reducción de cargas"
+  ],
+  "texto": "25. **Bonificación profesional del gasóleo y energía para transportistas** — Devolución mensual automática y ampliada del impuesto sobre hidrocarburos (gasóleo profesional) para transportistas autónomos, taxistas, VTC y maquinaria agrícola, vinculada a índices objetivos de costes energéticos.\n - **Viabilidad:** _Es viable utilizando el censo ya operativo de beneficiarios de gasóleo profesional de la Agencia Tributaria, evitando el colapso logístico y el encarecimiento de la cesta de la compra._"
+ },
+ {
+  "id": "autonomos-0028",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "26. **Reducción progresiva de las cotizaciones sociales a cargo de la empresa** — Rebaja escalonada de dos puntos en las cotizaciones empresariales por contingencias comunes para pymes y autónomos con menos de 50 trabajadores, vinculada al mantenimiento del empleo indefinido.\n - **Viabilidad:** _Es viable porque España soporta una de las cuñas fiscales sobre el trabajo más altas de la OCDE; reducir el coste laboral no salarial incentiva nuevas contrataciones que amplían el número total de cotizantes._"
+ },
+ {
+  "id": "autonomos-0029",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "27. **Bonificación del 100 % en contratos de sustitución por baja médica** — Exención total de las cotizaciones empresariales tanto del trabajador sustituido como del sustituto cuando un autónomo o pyme contrate a un desempleado para cubrir una baja por enfermedad común, accidente o maternidad/paternidad.\n - **Viabilidad:** _Es viable porque elimina la doble carga financiera que hoy obliga a muchas microempresas a cerrar temporalmente o sobrecargar a la plantilla cuando un empleado enferma._"
+ },
+ {
+  "id": "autonomos-0030",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "28. **Bonificación de cuota por cuidado de familiares de primer grado** — Bonificación del 100 % de la cuota de autónomos durante un máximo de doce meses para trabajadores por cuenta propia que reduzcan su actividad para cuidar a hijos menores con enfermedad grave o familiares dependientes en primer grado.\n - **Viabilidad:** _Es viable equiparando los derechos de conciliación del autoempleo con los del régimen general, evitando que las mujeres autónomas tengan que darse de baja definitivamente del RETA por cargas familiares._"
+ },
+ {
+  "id": "autonomos-0031",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "29. **Plena equiparación laboral para hijos y familiares colaboradores del autónomo** — Reconocimiento del derecho a cotizar y percibir prestación por desempleo en igualdad de condiciones para los familiares colaboradores del autónomo, eliminando la presunción automática de exclusión del régimen general cuando exista salario y jornada acreditados.\n - **Viabilidad:** _Es viable porque aporta transparencia laboral en los negocios familiares, incentivando contratos formales con cotización completa frente al trabajo familiar no remunerado._"
+ },
+ {
+  "id": "autonomos-0032",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "30. **Cómputo flexible de toda la vida laboral para jubilación y cese** — Permitir que el trabajador autónomo elija para el cálculo de su pensión de jubilación los 25 mejores años cotizados de toda su carrera laboral, evitando que una caída de ingresos en los últimos años previo al retiro penalice su pensión.\n - **Viabilidad:** _Es viable porque refleja con justicia el esfuerzo contributivo real de carreras profesionales de 35 o 40 años caracterizadas por ciclos económicos variables._"
+ },
+ {
+  "id": "autonomos-0033",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "31. **Jubilación anticipada sin penalización con 40 o más años cotizados** — Eliminación de los coeficientes reductores permanentes en la pensión de jubilación para aquellos trabajadores autónomos y asalariados que acrediten 40 o más años de cotización efectiva a la Seguridad Social.\n - **Viabilidad:** _Es viable aplicando criterios actuariales de equidad contributiva: quien ha cotizado durante cuatro décadas ha financiado sobradamente su pensión y libera espacio laboral para nuevas generaciones._"
+ },
+ {
+  "id": "autonomos-0034",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "32. **Tarifa reducida real para asalariados en situación de pluriactividad** — Sustitución de la actual devolución anual tardía por una exención directa en origen del 75 % de la cuota de autónomos para trabajadores por cuenta ajena que emprendan una actividad complementaria, hasta alcanzar el tope máximo de cotización.\n - **Viabilidad:** _Es viable porque ya cotizan por contingencias comunes en su empleo principal; eliminar el sobrecoste inicial fomenta el emprendimiento gradual sin riesgo de perder el sustento familiar._"
+ },
+ {
+  "id": "autonomos-0035",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "33. **Líneas ICO directas con 2 años de carencia para nuevos proyectos** — Creación de una línea permanente de financiación directa del Instituto de Crédito Oficial (ICO) sin intermediación bancaria abusiva, con 2 años de carencia de capital e interés referenciado al Euríbor para emprendedores y pymes.\n - **Viabilidad:** _Es viable canalizando los fondos europeos y reembolsos financieros a través del ICO con aval público parcial sobre proyectos avalados por planes de viabilidad técnica._"
+ },
+ {
+  "id": "autonomos-0036",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "34. **Estatuto del Trabajador Autónomo Económicamente Dependiente (TRADE) flexible** — Reforma de la regulación del autónomo que trabaja mayoritariamente para uno o pocos clientes (repartidores, consultores, transportistas), garantizando libertad real de horarios y tarifas mínimas pactadas sin imposición forzosa de asalarización.\n - **Viabilidad:** _Es viable mediante un marco mercantil equilibrado con seguros obligatorios de accidentes y derecho a desconexión, preservando miles de empleos flexibles que la rigidez normativa ha destruido._"
+ },
+ {
+  "id": "autonomos-0037",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "35. **Oficinas de Asesoramiento Empresarial dentro del SEPE** — Transformación de las oficinas de empleo para integrar unidades de consultoría financiera, fiscal y comercial gratuita impartida por mentores empresariales para desempleados que capitalicen el paro para emprender.\n - **Viabilidad:** _Es viable reorientando los actuales presupuestos de formación para el empleo hacia tutorización práctica, reduciendo la tasa de fracaso empresarial durante los dos primeros años._"
+ },
+ {
+  "id": "autonomos-0038",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "36. **Plan dual de contratación para jóvenes y mayores de 45 años** — Bonificación progresiva en cotizaciones sociales durante dos años para pymes que contraten de forma indefinida a jóvenes sin experiencia previa o a desempleados mayores de 45 años de larga duración.\n - **Viabilidad:** _Es viable porque el ahorro inmediato en subsidios por desempleo y rentas mínimas supera el importe de la bonificación de cuotas, integrando dos colectivos clave en la empresa._"
+ },
+ {
+  "id": "autonomos-0039",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "37. **Implantación de la Mochila Austriaca de capitalización individual** — Creación de un fondo individual de capitalización laboral portátil que acompaña al trabajador durante toda su vida profesional, acumulando aportaciones mensuales que puede rescatar en caso de despido, formación o jubilación.\n - **Viabilidad:** _Es viable de forma gradual sin subir los costes laborales totales, aportando movilidad al mercado de trabajo y liquidez a las pymes en momentos de reestructuración._"
+ },
+ {
+  "id": "autonomos-0040",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "38. **Cumplimiento estricto de la Ley de Morosidad y régimen sancionador** — Sanciones económicas automáticas y exclusión de contratación pública para grandes empresas y administraciones que superen los plazos legales de pago (30 días sector público y 60 días sector privado), con devengo automático de intereses de demora.\n - **Viabilidad:** _Es viable aplicando el Reglamento Europeo contra la Morosidad y utilizando los datos de facturación electrónica B2B para detectar de oficio los retrasos abusivos sobre pymes._"
+ },
+ {
+  "id": "autonomos-0041",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "39. **Modelo Preston y reserva de contratación local para pymes** — Impulso a la contratación pública de proximidad en ayuntamientos, hospitales y universidades mediante la división obligatoria de contratos en lotes accesibles para autónomos y pymes locales.\n - **Viabilidad:** _Es viable dentro de la Ley de Contratos del Sector Público, logrando que el gasto público reinvierta en el tejido productivo local y genere empleo estable en cada comarca._"
+ },
+ {
+  "id": "autonomos-0042",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "40. **Transparencia en licitaciones y límite a sobrecostes de obra pública** — Simplificación de pliegos administrativos eliminando requisitos de solvencia desproporcionados y obligación legal de que la empresa adjudicataria asuma cualquier sobrecoste de obra de hasta el 15 % mediante aval bancario previo.\n - **Viabilidad:** _Es viable porque erradica la práctica de presentar ofertas temerarias a la baja que luego se encarecen mediante modificados presupuestarios a costa del contribuyente._"
+ },
+ {
+  "id": "autonomos-0043",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "41. **Plan Industrial «Made in Spain» y retorno de empresas deslocalizadas** — Incentivos fiscales a la inversión productiva, suelo industrial bonificado y deducciones por I+D+i para atraer de vuelta a España fábricas y centros logísticos deslocalizados por costes regulatorios.\n - **Viabilidad:** _Es viable aprovechando la tendencia europea de reindustrialización estratégica y autonomía de suministros, generando empleo industrial de alto valor añadido._"
+ },
+ {
+  "id": "autonomos-0044",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "42. **Impulso a Centros Comerciales Abiertos y zonas de comercio local** — Planes municipales de dinamización del comercio de proximidad con bonificaciones de tasas, zonas de carga y descarga inteligentes, aparcamiento gratuito la primera hora y digitalización compartida.\n - **Viabilidad:** _Es viable mediante acuerdos entre ayuntamientos y asociaciones de comerciantes, frenando la desertización comercial de los centros urbanos frente a las grandes plataformas._"
+ },
+ {
+  "id": "autonomos-0045",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "43. **Convenio marco diferenciado para pequeña hostelería y comercio** — Adaptación de la negociación colectiva para diferenciar la realidad operativa y salarial de las grandes cadenas multinacionales frente a los pequeños bares, restaurantes y comercios familiares de menos de 10 empleados.\n - **Viabilidad:** _Es viable dentro del Estatuto de los Trabajadores mediante convenios sectoriales con cláusulas específicas para microempresas, evitando cierres por rigidez laboral._"
+ },
+ {
+  "id": "autonomos-0046",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "44. **Formación continua bonificada 100 % adaptada al sector del autónomo** — Acceso directo de los trabajadores por cuenta propia al crédito de formación profesional (FUNDAE) para cursos prácticos de inteligencia artificial, marketing digital, gestión financiera y idiomas vinculados a su actividad.\n - **Viabilidad:** _Es viable porque los autónomos ya contribuyen por formación profesional en su cuota mensual sin poder utilizar de forma ágil los fondos que generan._"
+ },
+ {
+  "id": "autonomos-0047",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque III · Empleo, Seguridad Social y crecimiento empresarial"
+  ],
+  "texto": "45. **Modernización de ferias, mercados municipales y venta ambulante** — Reducción de tasas municipales de ocupación de vía pública, ampliación de concesiones administrativas a 25 años y ayudas para modernización energética en mercados de abastos y mercadillos.\n - **Viabilidad:** _Es viable porque garantiza la seguridad jurídica necesaria para que los comerciantes de mercados tradicionales inviertan en sus puestos y mantengan el abastecimiento fresco en los barrios._"
+ },
+ {
+  "id": "autonomos-0048",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "46. **Reforma de competencias autonómicas y eliminación de duplicidades** — Auditoría constitucional y transferencia de competencias duplicadas para garantizar la unidad de mercado en España, evitando que una pyme tenga que cumplir 17 normativas distintas de etiquetado, licencias o impuestos para operar en todo el país.\n - **Viabilidad:** _Es viable aplicando estrictamente la Ley de Garantía de la Unidad de Mercado, reduciendo costes de cumplimiento normativo que hoy frenan el crecimiento de las pymes españolas._"
+ },
+ {
+  "id": "autonomos-0049",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "47. **Independencia real del Poder Judicial sin cuotas de partidos** — Reforma de la Ley Orgánica del Poder Judicial para que los vocales del Consejo General del Poder Judicial sean elegidos directamente por jueces y magistrados en activo, con participación consultiva de colegios de abogados y fiscales, sin intervención parlamentaria.\n - **Viabilidad:** _Es viable conforme a las recomendaciones reiteradas de la Comisión Europea y el Grupo GRECO, devolviendo la confianza institucional y la seguridad jurídica indispensables para la inversión._"
+ },
+ {
+  "id": "autonomos-0050",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "48. **Endurecimiento real del régimen de puertas giratorias** — Ampliación a cinco años del periodo de incompatibilidad para que exministros, secretarios de Estado y altos cargos puedan fichar por empresas reguladas o contratistas del sector público, bajo sanción de pérdida de retribuciones.\n - **Viabilidad:** _Es viable mediante reforma de la Ley de Altos Cargos, eliminando conflictos de intereses y garantizando igualdad de competencia en sectores estratégicos._"
+ },
+ {
+  "id": "autonomos-0051",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "49. **Supresión de pensiones y pagas vitalicias de altos cargos políticos** — Eliminación de cualquier pensión indemnizatoria, complemento vitalicio o privilegio retributivo de expresidentes, exministros y exparlamentarios, sometiéndolos exactamente al mismo régimen general de cotización que cualquier ciudadano.\n - **Viabilidad:** _Es viable por decreto legislativo inmediato y constituye una medida elemental de ejemplaridad pública y ahorro presupuestario._"
+ },
+ {
+  "id": "autonomos-0052",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "50. **Cumplimiento vinculante del 50 % del programa electoral en 4 años** — Obligación legal de presentar ante el Congreso una auditoría pública semestral del grado de ejecución del programa de gobierno, activando mecanismos de rendición de cuentas si al tercer año no se supera el 50 % de compromisos cumplidos.\n - **Viabilidad:** _Es viable mediante reforma del Reglamento del Congreso y la Ley de Transparencia, profesionalizando la política bajo criterios de cumplimiento por objetivos._"
+ },
+ {
+  "id": "autonomos-0053",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "51. **Eliminación de subvenciones públicas a sindicatos y patronales** — Supresión de las subvenciones nominativas y estructurales con cargo a los Presupuestos Generales del Estado para sindicatos, organizaciones empresariales y asociaciones políticas, que deberán financiarse exclusivamente con las cuotas de sus afiliados.\n - **Viabilidad:** _Es viable y refuerza la independencia real de los agentes sociales, liberando cientos de millones de euros anuales para políticas activas de empleo directo._"
+ },
+ {
+  "id": "autonomos-0054",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "52. **Fin de las subvenciones y publicidad institucional arbitraria en medios** — Prohibición de ayudas directas y reparto discrecional de publicidad institucional a medios de comunicación privados, estableciendo criterios estrictamente objetivos de audiencia auditada y utilidad pública.\n - **Viabilidad:** _Es viable aplicando la Ley Europea de Libertad de los Medios de Comunicación, garantizando la independencia informativa y evitando el uso partidista de fondos públicos._"
+ },
+ {
+  "id": "autonomos-0055",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "53. **Despolitización y control presupuestario de radiotelevisiones públicas** — Incompatibilidad absoluta para que afiliados o exdirigentes de partidos políticos ocupen puestos directivos en RTVE y entes autonómicos, fijando un techo máximo de gasto y programación de servicio público.\n - **Viabilidad:** _Es viable mediante concurso público independiente de méritos profesionales, reduciendo el déficit crónico de las televisiones públicas._"
+ },
+ {
+  "id": "autonomos-0056",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "54. **Reforma de la Ley Electoral con circunscripción más proporcional y segunda vuelta** — Modificación de la LOREG para corregir la sobrerrepresentación de partidos minoritarios regionalistas frente a fuerzas nacionales, valorando la elección a doble vuelta en alcaldías para garantizar gobiernos estables.\n - **Viabilidad:** _Es viable dentro del marco constitucional mediante reforma de ley orgánica, devolviendo el valor igualitario al voto de todos los españoles._"
+ },
+ {
+  "id": "autonomos-0057",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "55. **Consultas ciudadanas telemáticas en ayuntamientos y grandes inversiones** — Creación de plataformas municipales seguras de consulta telemática vinculante para proyectos urbanísticos de gran impacto, tasas locales extraordinarias y prioridades de inversión vecinal.\n - **Viabilidad:** _Es viable utilizando certificados digitales y sistemas de identificación ya implantados en la Administración electrónica municipal._"
+ },
+ {
+  "id": "autonomos-0058",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "56. **Estandarización modular de edificios públicos para evitar sobrecostes** — Aprobación de proyectos arquitectónicos tipo, modulares y energéticamente eficientes para la construcción de colegios, centros de salud, residencias y comisarías según ratios poblacionales.\n - **Viabilidad:** _Es viable y permite ahorrar hasta un 30 % en costes de diseño, licitación y desviaciones presupuestarias en obra pública civil._"
+ },
+ {
+  "id": "autonomos-0059",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "57. **Equiparación salarial total de Policía Nacional y Guardia Civil** — Culminación efectiva de la equiparación salarial real (incluyendo pagas extraordinarias, productividad y jubilación) de las Fuerzas y Cuerpos de Seguridad del Estado con las policías autonómicas.\n - **Viabilidad:** _Es viable dotando la partida específica en los Presupuestos Generales del Estado mediante el recorte de gasto político superfluo._"
+ },
+ {
+  "id": "autonomos-0060",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "58. **Cobertura obligatoria del 100 % de plantillas de seguridad y emergencias** — Obligación legal de cubrir de forma automática las vacantes por jubilación o traslado en policía, guardia civil, bomberos y protección civil mediante convocatorias anuales unificadas.\n - **Viabilidad:** _Es viable mediante planificación plurianual de oferta de empleo público, garantizando la seguridad ciudadana tanto en áreas urbanas como en el medio rural._"
+ },
+ {
+  "id": "autonomos-0061",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "59. **Dotación moderna de medios de defensa y protección para agentes** — Renovación periódica obligatoria de chalecos antibalas individuales, vehículos patrulla, dispositivos no letales y equipamiento técnico para todos los efectivos de seguridad.\n - **Viabilidad:** _Es viable mediante compras centralizadas plurianuales que reducen el coste unitario y protegen la integridad física de quienes garantizan la ley._"
+ },
+ {
+  "id": "autonomos-0062",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "60. **Ley integral contra la ocupación ilegal y protección de la propiedad privada** — Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación y suspensión del empadronamiento fraudulento.\n - **Viabilidad:** _Es viable armonizando la legislación penal y procesal española con la de países vecinos como Francia o Alemania, protegiendo tanto a familias como a locales comerciales._"
+ },
+ {
+  "id": "autonomos-0063",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "61. **Refuerzo de la legítima defensa en el domicilio y en el negocio** — Reforma del Código Penal para ampliar la presunción de legítima defensa proporcionada cuando un ciudadano o comerciante repele una intrusión violenta en su vivienda habitual o establecimiento mercantil.\n - **Viabilidad:** _Es viable jurídicamente y aporta seguridad legal a familias y autónomos que sufren robos con violencia en sus propios locales._"
+ },
+ {
+  "id": "autonomos-0064",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "62. **Responsabilidad civil y trabajos comunitarios por vandalismo de menores** — Reforma de la Ley del Menor para agilizar la reparación económica directa del daño causado por actos vandálicos o agresiones, estableciendo servicios obligatorios a la comunidad bajo tutela judicial.\n - **Viabilidad:** _Es viable porque educa en la responsabilidad individual y evita que los comerciantes y ayuntamientos asuman en solitario los daños por vandalismo urbano._"
+ },
+ {
+  "id": "autonomos-0065",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "63. **Igualdad plena ante la ley y persecución de denuncias falsas** — Garantía absoluta de la presunción de inocencia, tutela judicial efectiva para todas las víctimas de violencia intrafamiliar sin discriminación y persecución de oficio del falso testimonio y la denuncia falsa.\n - **Viabilidad:** _Es viable reforzando los recursos de los juzgados especializados y aplicando con rigor el artículo 14 de la Constitución Española._"
+ },
+ {
+  "id": "autonomos-0066",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "64. **Ordenación legal de la inmigración vinculada al empleo y la integración** — Agilización administrativa de los visados de trabajo en origen para cubrir vacantes reales en sectores deficitarios, exigiendo cumplimiento de la legalidad y arraigo efectivo para el acceso a ayudas.\n - **Viabilidad:** _Es viable combinando rigor en el control de fronteras con canales legales ágiles para empresas que no encuentran mano de obra cualificada._"
+ },
+ {
+  "id": "autonomos-0067",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque IV · Regeneración democrática, justicia y eficiencia del Estado"
+  ],
+  "texto": "65. **Expulsión efectiva de delincuentes extranjeros multirreincidentes** — Ejecución inmediata de la expulsión del territorio nacional y prohibición de reentrada para ciudadanos extranjeros condenados por delitos graves o multirreincidencia en robos y agresiones.\n - **Viabilidad:** _Es viable aplicando los artículos vigentes del Código Penal y la Ley de Extranjería mediante acuerdos bilaterales de repatriación y refuerzo judicial._"
+ },
+ {
+  "id": "autonomos-0068",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "66. **Tarjeta Sanitaria Única interoperable en toda España** — Implantación definitiva de una historia clínica digital y tarjeta sanitaria única válida en las 17 comunidades autónomas, Ceuta y Melilla para atención primaria, especialistas y retirada de recetas sin trámites de desplazado.\n - **Viabilidad:** _Es viable aprovechando la infraestructura del Sistema Nacional de Salud y la receta electrónica interoperable, eliminando barreras burocráticas internas para trabajadores y viajeros._"
+ },
+ {
+  "id": "autonomos-0069",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "67. **Deducción del 20 % en IRPF por gafas, audífonos, ortodoncia y prótesis** — Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica (salud bucodental, óptica, audífonos y prótesis ortopédicas) mediante factura médica.\n - **Viabilidad:** _Es viable y fomenta la facturación transparente en clínicas dentales y ópticas, mejorando la calidad de vida de mayores, niños y trabajadores._"
+ },
+ {
+  "id": "autonomos-0070",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "68. **Reconocimiento profesional del celador sanitario en Formación Profesional** — Creación del título oficial de Técnico de Formación Profesional para el colectivo de celadores sanitarios, reconociendo su cualificación clínica, movilización de pacientes y apoyo hospitalario.\n - **Viabilidad:** _Es viable a través del Instituto Nacional de las Cualificaciones (INCUAL), dignificando una profesión esencial en hospitales y centros de salud._"
+ },
+ {
+  "id": "autonomos-0071",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "69. **Dotación obligatoria de enfermería y urgencias en residencias de mayores** — Exigencia legal de ratios mínimos de personal sanitario y equipamiento de primera intervención en todas las residencias geriátricas públicas y privadas, con inspecciones periódicas sin previo aviso.\n - **Viabilidad:** _Es viable mediante conciertos sociosanitarios auditados que vinculen la financiación pública al cumplimiento estricto de los ratios asistenciales._"
+ },
+ {
+  "id": "autonomos-0072",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "70. **Agilización en 60 días de las valoraciones de la Ley de Dependencia** — Plazo máximo legal de 60 días para resolver las solicitudes de dependencia mediante baremación médica unificada y silencio positivo administrativo en prestaciones vinculadas al servicio.\n - **Viabilidad:** _Es viable reduciendo la duplicidad burocrática entre servicios sociales municipales y autonómicos, evitando que miles de dependientes fallezcan en lista de espera._"
+ },
+ {
+  "id": "autonomos-0073",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "71. **Auditoría de fundaciones y entidades gestoras de servicios de dependencia** — Control financiero estricto sobre fundaciones y asociaciones que gestionan centros de dependencia con subvenciones públicas, prohibiendo el lucro encubierto y garantizando que los fondos lleguen al usuario.\n - **Viabilidad:** _Es viable mediante auditorías obligatorias de cuentas por la Intervención autonómica como requisito previo para renovar cualquier concierto público._"
+ },
+ {
+  "id": "autonomos-0074",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "72. **Pacto Nacional por una Ley Única de Educación estable y sin ideología** — Aprobación de un marco educativo común en toda España que garantice el mismo nivel de contenidos troncales (matemáticas, lengua, ciencias e idiomas) en todas las autonomías y blinde el sistema frente a cambios de gobierno.\n - **Viabilidad:** _Es viable recuperando la Alta Inspección Educativa del Estado y evaluaciones nacionales homogéneas que aseguren la igualdad de oportunidades._"
+ },
+ {
+  "id": "autonomos-0075",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "73. **Revolución de la Formación Profesional Dual con incentivos a pymes** — Equiparación de prestigio de la FP con la universidad, subvencionando a las pymes que acojan alumnos en prácticas reales y permitiendo que autónomos veteranos mayores de 55 años ejerzan como profesores técnicos.\n - **Viabilidad:** _Es viable porque resuelve simultáneamente la falta de relevo en oficios especializados (fontanería, electricidad, mecánica, hostelería) y el desgaste físico de profesionales veteranos._"
+ },
+ {
+  "id": "autonomos-0076",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "74. **Garantía del castellano como lengua vehicular y respeto a lenguas cooficiales** — Ley orgánica que garantice el derecho a estudiar y relacionarse con la Administración en español en todo el territorio nacional, considerando las lenguas cooficiales como mérito cultural pero nunca como barrera excluyente.\n - **Viabilidad:** _Es viable conforme a la doctrina del Tribunal Constitucional, favoreciendo la movilidad laboral de profesionales, médicos y docentes en toda España._"
+ },
+ {
+  "id": "autonomos-0077",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "75. **Aconfesionalidad en la escuela pública y libertad de elección en concertada** — Consolidación de una escuela pública laica centrada en la excelencia académica y científica, respetando plenamente el derecho constitucional de las familias a elegir centros concertados o privados con ideario propio.\n - **Viabilidad:** _Es viable dentro del artículo 27 de la Constitución Española mediante financiación equitativa del puesto escolar._"
+ },
+ {
+  "id": "autonomos-0078",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "76. **Asignatura obligatoria de Primeros Auxilios, Emergencias y Educación Financiera** — Incorporación en Educación Secundaria de formación práctica en reanimación cardiopulmonar (RCP), actuación ante emergencias y educación financiera básica (impuestos, ahorro y emprendimiento).\n - **Viabilidad:** _Es viable reordenando el currículo actual sin aumentar horas lectivas, preparando a los jóvenes tanto para salvar vidas como para gestionar su economía personal._"
+ },
+ {
+  "id": "autonomos-0079",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "77. **Protocolo nacional vinculante contra el acoso escolar y el ciberbullying** — Implantación obligatoria de protocolos rápidos de detección, mediación e intervención psicológica en todos los centros escolares y actividades extraescolares frente al acoso escolar y digital.\n - **Viabilidad:** _Es viable coordinando a equipos de orientación educativa, inspección y fiscalía de menores bajo plazos estrictos de actuación._"
+ },
+ {
+  "id": "autonomos-0080",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "78. **Protección integral del menor tutelado y auditoría de centros de acogida** — Supervisión judicial y fiscalización externa permanente de todos los centros de menores tutelados, garantizando su seguridad física, atención psicológica y transición al empleo al cumplir la mayoría de edad.\n - **Viabilidad:** _Es viable reforzando las plantillas de trabajo social e inspección de la Fiscalía de Menores._"
+ },
+ {
+  "id": "autonomos-0081",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "79. **Reducción de costes educativos para familias con hijos con necesidades especiales** — Gratuidad real en transporte adaptado, terapias complementarias y material específico para alumnado con discapacidad o necesidades educativas especiales en centros ordinarios y de educación especial.\n - **Viabilidad:** _Es viable reasignando subvenciones improductivas hacia becas directas universales para familias con hijos con diversidad funcional._"
+ },
+ {
+  "id": "autonomos-0082",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "80. **Red nacional de escuelas infantiles gratuitas de 0 a 3 años** — Universalización de la educación infantil de primer ciclo (0-3 años) mediante plazas públicas gratuitas y cheques guardería directos para que las familias elijan centro privado o público.\n - **Viabilidad:** _Es viable porque facilita la conciliación laboral de madres y padres trabajadores y aumenta la tasa de actividad económica femenina._"
+ },
+ {
+  "id": "autonomos-0083",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "81. **Plan Nacional de Vivienda Asequible y movilización de suelo público** — Liberación ágil de suelo público en desuso para construcción de vivienda en alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda.\n - **Viabilidad:** _Es viable porque aumenta la oferta real de vivienda —única vía eficaz para moderar los precios— sin intervenir artificialmente el mercado ni ahuyentar a los propietarios._"
+ },
+ {
+  "id": "autonomos-0084",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "82. **Segunda oportunidad habitacional y dación en pago negociada** — Moratoria temporal y mediación obligatoria para familias vulnerables en paro sobrevenido con riesgo de ejecución hipotecaria de su vivienda habitual, facilitando alquileres sociales o reestructuraciones.\n - **Viabilidad:** _Es viable mejorando el Código de Buenas Prácticas Bancarias y agilizando los mecanismos judiciales de segunda oportunidad._"
+ },
+ {
+  "id": "autonomos-0085",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "83. **Obligación de bancos y grandes tenedores de pagar cuotas de comunidad** — Exigencia legal inmediata para que entidades financieras y fondos propietarios de viviendas adjudicadas abonen puntualmente las cuotas ordinarias y derramas de las comunidades de propietarios.\n - **Viabilidad:** _Es viable reforzando la Ley de Propiedad Horizontal con embargos exprés sobre cuentas de grandes tenedores morosos._"
+ },
+ {
+  "id": "autonomos-0086",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "84. **Auditoría social del rescate bancario y retorno en obra comunitaria** — Evaluación transparente de las ayudas públicas pendientes de recuperación del sector financiero, impulsando acuerdos de retorno social destinados a atención domiciliaria de mayores y educación financiera.\n - **Viabilidad:** _Es viable mediante convenios de responsabilidad social vinculados a las participaciones públicas aún vigentes en entidades rescatadas._"
+ },
+ {
+  "id": "autonomos-0087",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque V · Sanidad, educación, vivienda y bienestar social"
+  ],
+  "texto": "85. **Prohibición total de publicidad de casas de apuestas y juego online** — Equiparación legal de la publicidad del juego y apuestas deportivas online con la prohibición vigente para el tabaco, erradicando anuncios en medios audiovisuales, redes sociales y patrocinios deportivos.\n - **Viabilidad:** _Es viable mediante decreto ley de protección de la salud pública y prevención de la ludopatía juvenil._"
+ },
+ {
+  "id": "autonomos-0088",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "86. **Plan Hidrológico Nacional y modernización de infraestructuras hídricas** — Inversión prioritaria en interconexión de cuencas, balsas de regulación, desaladoras energéticamente eficientes y modernización de regadíos para garantizar agua en todo el territorio y apoyar la extinción aérea de incendios.\n - **Viabilidad:** _Es viable financiando las obras hidráulicas con fondos europeos de resiliencia climática, protegiendo tanto el abastecimiento urbano como la agricultura y ganadería._"
+ },
+ {
+  "id": "autonomos-0089",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "87. **Prohibición estricta de construir en cauces y zonas inundables** — Paralización inmediata de cualquier nueva recalificación urbanística en ramblas, cauces fluviales y zonas de riesgo inundable acreditado, ejecutando obras de encauzamiento y drenaje preventivo tras episodios extremos como las DANA.\n - **Viabilidad:** _Es viable actualizando los mapas de peligrosidad hídrica de las Confederaciones Hidrográficas y vinculando las licencias municipales a informes vinculantes de seguridad hídrica._"
+ },
+ {
+  "id": "autonomos-0090",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "88. **Cumplimiento de la Ley de la Cadena Alimentaria y precios justos** — Inspección efectiva de los contratos agrarios para prohibir la venta a pérdidas de agricultores y ganaderos, garantizando que el precio en origen cubra los costes reales de producción y frenando márgenes especulativos.\n - **Viabilidad:** _Es viable dotando de inspectores suficientes a la Agencia de Información y Control Alimentarios (AICA) con capacidad sancionadora ágil._"
+ },
+ {
+  "id": "autonomos-0091",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "89. **Reforma del subsidio agrario (PER) hacia el empleo productivo** — Auditoría integral del Programa de Fomento de Empleo Agrario (PER) para corregir fraudes en peonadas y transformar las ayudas pasivas en incentivos directos a la contratación agraria real, la agroindustria y el emprendimiento rural.\n - **Viabilidad:** _Es viable manteniendo la protección social de los jornaleros que realmente trabajan en el campo mientras se incentiva la fijación de empresas en el medio rural._"
+ },
+ {
+  "id": "autonomos-0092",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "90. **Ampliación urgente de la plantilla de examinadores de tráfico de la DGT** — Convocatoria extraordinaria de plazas de examinadores de tráfico para eliminar los meses de espera en provincias colapsadas, dando salida a la demanda acumulada de aspirantes que ya han abonado la tasa oficial de 94,05 €.\n - **Viabilidad:** _Es viable y autofinanciable porque la recaudación por tasas de examen de la DGT supera ampliamente el coste salarial de ampliar la plantilla de examinadores._"
+ },
+ {
+  "id": "autonomos-0093",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "91. **Reforma y derogación de las rigideces del sistema CAPA en autoescuelas** — Sustitución del actual sistema CAPA de reparto rígido de minutos de examen por una planificación flexible basada en demanda real y refuerzo itinerante de examinadores, desbloqueando la actividad de miles de autoescuelas.\n - **Viabilidad:** _Es viable organizativamente en cuanto se amplíe la plantilla examinadora, reactivando la facturación de las pequeñas autoescuelas y el acceso de jóvenes al empleo._"
+ },
+ {
+  "id": "autonomos-0094",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "92. **Modernización del convenio y áreas de descanso del transporte por carretera** — Actualización del marco laboral del transporte profesional de mercancías y viajeros, prohibiendo que los conductores realicen carga y descarga pesada y construyendo áreas de descanso seguras y vigiladas.\n - **Viabilidad:** _Es viable aplicando el Paquete de Movilidad Europeo, atajando la grave escasez de conductores profesionales en España._"
+ },
+ {
+  "id": "autonomos-0095",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "93. **Sustitución total de guardarraíles peligrosos para motoristas** — Plan plurianual obligatorio para instalar sistemas de protección para motoristas (SPM) en todos los quitamiedos de la red viaria estatal y autonómica, priorizando tramos de alta siniestralidad.\n - **Viabilidad:** _Es viable incluyendo los sistemas homologados de doble bionda en todos los contratos ordinarios de conservación de carreteras._"
+ },
+ {
+  "id": "autonomos-0096",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "94. **Endurecimiento penal por conducción bajo alcohol o drogas y fuga** — Reforma del Código Penal para agravar las penas de prisión y retirada definitiva del permiso de conducir cuando se causen víctimas bajo los efectos del alcohol o drogas, especialmente si existe abandono del lugar del accidente.\n - **Viabilidad:** _Es viable jurídicamente y refuerza la seguridad vial y la justicia material para las víctimas y sus familias._"
+ },
+ {
+  "id": "autonomos-0097",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "95. **Ley de Protección Animal equilibrada con el mundo rural y ganadero** — Protección penal firme contra el maltrato y abandono de animales domésticos, con apoyo a protectoras para esterilización y vacunación, diferenciando claramente las mascotas urbanas de los animales de trabajo, caza y ganadería.\n - **Viabilidad:** _Es viable mediante una normativa consensuada con veterinarios y el sector primario que proteja a los animales sin criminalizar actividades rurales tradicionales._"
+ },
+ {
+  "id": "autonomos-0098",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "96. **Impulso al deporte base, inclusivo y apoyo a deportistas olímpicos** — Incremento de las becas ADO y paralímpicas, bonificaciones fiscales al patrocinio deportivo de pymes y mejora de instalaciones municipales para el deporte base e inclusivo.\n - **Viabilidad:** _Es viable mediante incentivos de mecenazgo deportivo que permiten a pequeñas y medianas empresas desgravar su apoyo a clubes locales._"
+ },
+ {
+  "id": "autonomos-0099",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "97. **Promoción del deporte y hábitos saludables en televisión y colegios** — Franjas obligatorias de difusión del deporte base, femenino y paralímpico en los medios públicos y ampliación de actividades deportivas extraescolares en centros educativos.\n - **Viabilidad:** _Es viable sin coste presupuestario adicional reorientando la programación de servicio público hacia la prevención de la obesidad infantil._"
+ },
+ {
+  "id": "autonomos-0100",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "98. **Transición energética realista y neutralidad tecnológica para pymes** — Apoyo a las energías renovables y al autoconsumo industrial sin cierres ideológicos prematuros de centrales de respaldo que encarezcan la factura eléctrica ni restricciones arbitrarias en zonas de bajas emisiones que arruinen al comercio local.\n - **Viabilidad:** _Es viable garantizando seguridad de suministro eléctrico a precio competitivo y moratorias para los vehículos profesionales de reparto de autónomos._"
+ },
+ {
+  "id": "autonomos-0101",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "99. **Apoyo específico a las economías insulares y compensación de transporte** — Bonificación permanente del 100 % en el transporte marítimo y aéreo de mercancías entre la Península, Baleares, Canarias, Ceuta y Melilla, simplificando los trámites aduaneros para pymes insulares.\n - **Viabilidad:** _Es viable reforzando el Régimen Económico y Fiscal de Canarias y el régimen especial de Baleares para que producir o comerciar en las islas no tenga sobrecostes._"
+ },
+ {
+  "id": "autonomos-0102",
+  "partido": "autonomos",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "Bloque VI · Infraestructuras, sector primario, movilidad y sostenibilidad"
+  ],
+  "texto": "100. **Creación de la Oficina Nacional de Simplificación Normativa** — Regla obligatoria de «una norma nueva, dos derogadas»: creación de un órgano técnico independiente que revise toda nueva ley o reglamento antes de su aprobación para evaluar su impacto real sobre autónomos y microempresas.\n - **Viabilidad:** _Es viable siguiendo el modelo de mejora regulatoria de la OCDE, frenando la hiperregulación y garantizando un entorno estable para invertir y crear empleo._"
+ }
+]

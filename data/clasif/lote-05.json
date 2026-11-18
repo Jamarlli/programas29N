@@ -1,0 +1,2092 @@
+[
+ {
+  "id": "psoe-0482",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Rebajar la edad de voto a 16 años y fortalecer los consejos de juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0483",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Crear el Defensor de las Generaciones Futuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0484",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Regular por ley el Consejo de la Juventud de España y los autonómicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0485",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Aprobar el Estatuto del Becario contra la precariedad laboral juvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0486",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Aumentar la financiación educativa y ampliar becas y ayudas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0487",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Mejorar el acceso de la juventud a la atención psicológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0488",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Promover el acceso juvenil a la cultura, el deporte y el ocio saludable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0489",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Garantizar el acceso a vivienda asequible y facilitar la emancipación juvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0490",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Ni recentralizar ni fragmentar: hacer que el Estado autonómico funcione mejor",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "autonomico"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0491",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reformar el Senado como cámara de representación territorial con circunscripción autonómica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0492",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Institucionalizar la Conferencia de Presidentes con periodicidad fija",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0493",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Aprobar una ley de cooperación interadministrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0494",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Extender las lenguas cooficiales en las Cortes y la Administración del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0495",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Actualizar la Ley de Bases del Régimen Local para reforzar la autonomía local",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0496",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-ceuta-melilla"
+  ],
+  "titular": "Desarrollar el REF de Canarias y un plan integral para Ceuta y Melilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0497",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Migración ordenada, legal y segura: más vías legales, refugio e integración",
+  "ejes": [],
+  "nota": "SIN ENCAJE: falta un subtema general de política migratoria para entradillas del bloque"
+ },
+ {
+  "id": "psoe-0498",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Desplegar el Plan de Integración y Ciudadanía 2026-2030 con 500 millones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0499",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Ampliar las vías legales de protección internacional y reforzar el sistema de acogida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0500",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Promover la participación social, cívica y política de las personas inmigrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0501",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Garantizar una acogida digna y proteger a los menores que llegan solos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0502",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Balance de la Ley Zerolo y lucha contra los bulos sobre personas migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0503",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Desarrollar la Ley Zerolo y activar la Autoridad para la Igualdad de Trato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0504",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Aprobar la Estrategia de Igualdad de Trato y reforzar la lucha contra el odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0505",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Promover un Pacto de Estado contra los discursos y delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0506",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Dotar de presupuesto suficiente a la Autoridad Independiente para la Igualdad de Trato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0507",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Impulsar políticas contra el antigitanismo con un segundo plan operativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0508",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Promover la participación del pueblo gitano en la vida pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0509",
+  "subtema": "igu-racismo",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Crear una Comisión Estatal con el pueblo gitano y un plan del comercio ambulante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0510",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Desarrollar la Estrategia Nacional del Pueblo Gitano 2021-2030 con más financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0511",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Balance: ley de edad mínima de 16 años en redes y contra los deepfakes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0512",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Aprobar en el primer año las leyes de menores digitales y de IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0513",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Proteger a la infancia y la juventud en los entornos digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0514",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Fijar en 16 años la edad mínima para usar redes sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0515",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Obligar a que las cuentas de menores sean invisibles para adultos desconocidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0516",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Herramienta pública y anónima de verificación de la edad en la cartera digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0517",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Restringir los chatbots de IA a menores de 16 años sin consentimiento parental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0518",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Impulsar una edad mínima común de acceso a redes sociales en la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0519",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Derechos en la era de la inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0520",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Dar rango de ley a la Carta de Derechos Digitales de 2021",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0521",
+  "subtema": "dig-datos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Proteger la imagen y la voz frente a la IA con una nueva ley",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0522",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Aprobar la ley de gobernanza de la IA con sanciones de hasta 35 millones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0523",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Aprobar una Ley de Transparencia Algorítmica con auditorías independientes de la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0524",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Responsabilidad penal de directivos de plataformas y poderes a la CNMC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0525",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Pactar con los agentes sociales la gobernanza de la IA en el trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0526",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Medir el odio en las redes con HODIO y endurecer sanciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0527",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Aprobar una Estrategia integral frente a la desinformación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0528",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Balance de derechos LGTBI y compromiso contra la LGTBIfobia sin un paso atrás",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0529",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Ley 4/2023 como suelo común de derechos LGTBI y nueva Ley de Familias",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0530",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Impulsar un Pacto de Estado contra los discursos y delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0531",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reformar el Código Penal para penalizar las «terapias de conversión»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0532",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Inclusión social y laboral de las personas trans y acceso a tratamientos hormonales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0533",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Incluir prevención y atención al chemsex en la Estrategia Nacional sobre Adicciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0534",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Aprobar un Plan Estatal contra el acoso escolar y en el deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0535",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reforzar la acción internacional por los derechos LGTBI y la adopción internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0536",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Campaña estatal contra el estigma del VIH con el principio I=I",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0537",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Balance de la Ley de Memoria Democrática: exhumaciones, Cuelgamuros y reparación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0538",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Completar el Plan de Exhumaciones y el Censo de Víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0539",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Culminar la resignificación del Valle de Cuelgamuros con su Centro de Interpretación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0540",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Ampliar los Lugares de Memoria y retirar simbología franquista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0541",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Impulsar la memoria democrática en la educación y la investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0542",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Conmemorar el 50 aniversario de las elecciones de 1977 y la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0543",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Reforzar plantillas policiales y aprobar una nueva Ley de Seguridad Ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0544",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Incrementar y redistribuir los efectivos de Policía Nacional y Guardia Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0545",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Servicio estatal de atención a víctimas de ciberestafas y más responsabilidad bancaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0546",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Primer Plan Nacional Integral contra el Narcotráfico y refuerzo en Campo de Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0547",
+  "subtema": "igu-violencia",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Ampliar la protección de víctimas de violencia de género y delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0548",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Ampliar los derechos profesionales de Policía Nacional y Guardia Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0549",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Aprobar un Estatuto Básico de los bomberos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0550",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la Ley de Seguridad Ciudadana de 2015 («ley mordaza»)? → sustituirla"
+ },
+ {
+  "id": "psoe-0551",
+  "subtema": "seg-justicia",
+  "otros": [
+   "vivienda-okupacion-desahucios",
+   "seg-independencia-judicial"
+  ],
+  "titular": "Justicia a tiempo: desalojo de viviendas ocupadas en 48 horas y más jueces",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0552",
+  "subtema": "seg-justicia",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Extender el modelo Barnahus para niños víctimas a todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0553",
+  "subtema": "seg-justicia",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Nueva ley de justicia gratuita con más cobertura y mejor turno de oficio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0554",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Ampliar las plantillas judiciales y fiscales y regularizar a los sustitutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0555",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Reformar el acceso a las carreras judicial y fiscal con pruebas anonimizadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0556",
+  "subtema": "seg-independencia-judicial",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Mandato de cinco años para el Fiscal General y nueva Ley de Enjuiciamiento Criminal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0557",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Modernizar la Justicia con digitalización e inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0558",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Seguir combatiendo la ocupación ilegal con juicios rápidos y más recursos judiciales",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0559",
+  "subtema": "inst-administracion",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Atención sin cita previa, prestaciones en 30 días y nueva Ley de Función Pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0560",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Atención por un empleado público sin cita previa y oficinas itinerantes rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0561",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Que ninguna Administración pida un documento que ya tiene",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0562",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Avisar por SMS o correo de todas las notificaciones electrónicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0563",
+  "subtema": "inst-administracion",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Usar la inteligencia artificial para agilizar la gestión administrativa con supervisión humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0564",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Nueva Ley de Función Pública que reduzca la temporalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0565",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ley de Integridad Pública con Agencia Independiente y ley de lobbies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0566",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Crear el Defensor de las Generaciones Futuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0567",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ley Orgánica de Integridad Pública y Estrategia Nacional Anticorrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0568",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ley de grupos de interés con registro obligatorio y huella normativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0569",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Incorporar por ley el programa Cumpliendo de rendición de cuentas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0570",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reforzar el control de la contratación, las subvenciones y la financiación política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0571",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ley General de Cultura, Estatuto del Artista y abono de cine joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0572",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aprobar una Ley General de Cultura y reformar la ley de mecenazgo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0573",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Culminar el Estatuto del Artista y remunerar a los creadores por la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0574",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Estrategia Nacional de Competencia Lectora y bibliotecas más abiertas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0575",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reformar la Ley del Cine para reforzar la producción independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0576",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Abono de cine de 15 euros al mes para menores de 25 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0577",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Culminar la reforma del INAEM con planes para flamenco, danza, circo y música",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0578",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Culminar los grandes proyectos culturales del Estado con financiación plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0579",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Título de capítulo: España en Europa y en el mundo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0580",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Multilateralismo y rechazo a subir el gasto militar al 5 % del PIB",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0581",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Balance: reconocimiento de Palestina, embargo de armas a Israel y apoyo a Ucrania",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0582",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Balance: no a la guerra en Irán y ayuda al desarrollo casi duplicada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0583",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Ser una voz por la paz y por una fiscalidad internacional más justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0584",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Alcanzar el 0,7 % de la renta nacional bruta en ayuda al desarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0585",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "El multilateralismo y el derecho internacional como señas de identidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0586",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reformar la ONU y su Consejo de Seguridad limitando el veto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0587",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Impulsar un impuesto mínimo global sobre las grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0588",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Reforzar la tributación mínima de multinacionales y debatir un gravamen sobre tokens de IA",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0589",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Alcanzar el 0,7 % de la RNB en Ayuda Oficial al Desarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0590",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Liderar la agenda global de desarrollo sostenible posterior a la Agenda 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0591",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reforzar las alianzas de la AECID y las capacidades del personal cooperante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0592",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Comercio internacional abierto y basado en reglas con una OMC renovada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0593",
+  "subtema": "ext-politica",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Modernizar el Banco Mundial y el FMI y aliviar la deuda tras catástrofes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0594",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Respuesta internacional común a los desafíos globales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0595",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Diplomacia activa para la mediación y la resolución pacífica de conflictos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0596",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Participar como observador en el Tratado sobre la Prohibición de las Armas Nucleares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0597",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Promover un Fondo Global de Resiliencia y Justicia Climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0598",
+  "subtema": "ext-politica",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Consolidar una política exterior feminista e impulsar una secretaria general de la ONU",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0599",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Promover la solución de los dos Estados en Israel y Palestina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0600",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diversificar las relaciones comerciales y construir nuevas alianzas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0601",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Diversificar las relaciones comerciales de la UE y profundizar las relaciones con Asia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0602",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reforzar la relación estratégica con América Latina y el Caribe",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0603",
+  "subtema": "ext-politica",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Promover una relación estratégica de cooperación con África",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0604",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Balance: más influencia de España en la Unión Europea desde 2018",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0605",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Convertir la Unión Europea en una unión política y fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0606",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Superar los bloqueos de la unanimidad y reforzar el Parlamento Europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0607",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [],
+  "titular": "Integrar Ceuta y Melilla en la Unión Aduanera con régimen fiscal favorable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0608",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Desplegar plenamente el Acuerdo sobre Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0609",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Defender un presupuesto europeo ambicioso con nuevos recursos propios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0610",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Promover una Europa comprometida con la vivienda pública y el empleo de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0611",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reforzar la autonomía económica, industrial y tecnológica europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0612",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Defender una política migratoria europea ordenada y basada en la solidaridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0613",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Acción exterior europea por la paz, con Ucrania y el pueblo palestino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0614",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Impulsar la entrada de los Balcanes Occidentales en la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0615",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Impulsar la Unión Europea de la defensa y la eficiencia del gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0616",
+  "subtema": "ext-ue",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Crear un Mecanismo Soberano Europeo que centralice parte de la emisión de deuda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0617",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "La cultura y las lenguas como fortaleza de España en el mundo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0618",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Ampliar la red del Instituto Cervantes y colaborar con Llull, Etxepare y las gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0619",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Reconocer el catalán, el euskera y el gallego como lenguas oficiales de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0620",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Apoyar la internacionalización de las industrias culturales y un visado cultural europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0621",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Fortalecer los intercambios educativos y culturales con América Latina, África y Asia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0622",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Ampliar derechos y bienestar de los españoles residentes en el exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0623",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Garantizar el derecho de voto de la ciudadanía española en el exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0624",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Reformar la legislación electoral para facilitar el voto exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0625",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Fortalecer el Consejo General de la Ciudadanía Española en el Exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0626",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Reforzar la red consular y aprobar un nuevo Plan Integral de Retorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0627",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Comisión parlamentaria para estudiar una Circunscripción Exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0628",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Diagnóstico: nuevas amenazas que exigen cooperación internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0629",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Política de Defensa vinculada a la diplomacia y a misiones internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0630",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reforzar la defensa común de la UE y la adquisición conjunta de capacidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0631",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reforzar la vigilancia marítima y la protección de los espacios de soberanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0632",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Modernizar tecnológicamente las Fuerzas Armadas, incluida la ciberdefensa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0633",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reforzar las agencias de inteligencia civil y militar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0634",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Potenciar la Unidad Militar de Emergencias y su coordinación con Protección Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0635",
+  "subtema": "seg-defensa",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Promover la igualdad entre mujeres y hombres en las Fuerzas Armadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0636",
+  "subtema": "seg-defensa",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Mejorar la atención psicológica y social del personal de las Fuerzas Armadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0001",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [],
+  "titular": "Título del programa y del apartado sobre Ceuta y Melilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0002",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [
+   "inm-fronteras",
+   "ext-conflictos"
+  ],
+  "titular": "Recuperar Ceuta: expulsar a los invasores y militarizar la frontera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0003",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-irpf",
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Rebaja masiva de impuestos: IRPF, IVA, Sociedades y cuota cero de autónomos",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   },
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   },
+   {
+    "eje": "eje-sociedades",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0004",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Reducir la deuda pública con control del déficit y eliminación del gasto superfluo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0005",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Rebajar el IGIC, suprimir el AIEM y actualizar el complemento de insularidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0006",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Reforzar la inversión en I+D+i y recuperar el talento emigrado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0007",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fiscalidad mínima y diferenciada en las zonas en riesgo de despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0008",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Garantizar la sostenibilidad de las pensiones con crecimiento económico y natalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0009",
+  "subtema": "eco-industria",
+  "otros": [
+   "ener-modelo",
+   "trab-contratos-despido"
+  ],
+  "titular": "Reindustrialización, bajada de impuestos a la energía y recuperar el plan nuclear",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   },
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": "EJE NUEVO: ¿Mantener las políticas climáticas del Pacto Verde Europeo y la Agenda 2030? → revertirlas"
+ },
+ {
+  "id": "vox-0010",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Ni uno más: prohibir las regularizaciones masivas de inmigrantes",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0011",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Endurecer los requisitos de la nacionalidad y ampliar los supuestos de pérdida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0012",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Suprimir el arraigo y revocar las pasarelas rápidas a la nacionalidad",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0013",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Repatriar a quienes permanezcan en situación ilegal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0014",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Remigración: plan de retorno de extranjeros que vivan de subsidios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0015",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Deportar a extranjeros que cometan delitos graves o reiterados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0016",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Devolver a los MENAS a sus familias o a la tutela de sus países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0017",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Eliminar las subvenciones a ONG que colaboren con el efecto llamada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0018",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Retirar la cooperación a países que no colaboren en los flujos migratorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0019",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Prioridad nacional: acceso preferente de los españoles a vivienda, ayudas y servicios",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prioridad de los españoles en el acceso a ayudas y servicios públicos? → sí, prioridad nacional"
+ },
+ {
+  "id": "vox-0020",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0021",
+  "subtema": "inm-integracion",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0022",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Crear un gravamen sobre las remesas al extranjero",
+  "ejes": [],
+  "nota": "SIN ENCAJE: fiscalidad sobre remesas de inmigrantes (impuestos específicos sobre extranjeros)"
+ },
+ {
+  "id": "vox-0023",
+  "subtema": "inm-integracion",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Reservar el Ingreso Mínimo Vital a los españoles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0024",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Plan de retorno para los españoles que emigraron por falta de oportunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0025",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Plan de inversiones para barrios, municipios y provincias abandonadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0026",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Igualdad de servicios públicos para todos los españoles residan donde residan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0027",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Derecho a una vivienda digna, con el control de fronteras como punto de partida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0028",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Prioridad nacional en el acceso a vivienda protegida y ayudas al alquiler",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prioridad de los españoles en el acceso a ayudas y servicios públicos? → sí, prioridad nacional"
+ },
+ {
+  "id": "vox-0029",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Reformar la Ley del Suelo para ampliar suelo y construir más vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0030",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ampliar la inversión pública y la colaboración público-privada en vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0031",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-derecho",
+   "vivienda-especulacion"
+  ],
+  "titular": "Derogar la Ley de Vivienda, incentivos al alquiler largo y regular las VUT",
+  "ejes": [
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "derogar"
+   },
+   {
+    "eje": "eje-alquiler",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0032",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Desalojo de la vivienda okupada en menos de 24 horas y delito de inquiocupación",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0033",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Prohibir el arrendamiento a inmigrantes ilegales y exigir residencia legal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0034",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Reducir los impuestos del proceso edificatorio y mejorar la financiación a promotores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0035",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "IVA del 0 % e ITP bonificado al 100 % en la primera vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0036",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Fiscalidad agravada para compradores no comunitarios y fondos especulativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0037",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Simplificar al mínimo la burocracia y suprimir lo innecesario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0038",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Impulsar la inteligencia artificial en la economía y en las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0039",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ventanilla y dato único con un expediente digital centralizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0040",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Fin de la cita previa en las oficinas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0041",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Derogar tres normas por cada nueva que se apruebe",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0042",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Silencio administrativo positivo y declaración responsable como regla general",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0043",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Ley de Unidad de Mercado sin trámites adicionales entre comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0044",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Auditoría del gasto y eliminar subvenciones a partidos, sindicatos y ONG",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0045",
+  "subtema": "clima",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Acabar con las imposiciones climáticas como el Pacto Verde y las ZBE",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener las políticas climáticas del Pacto Verde Europeo y la Agenda 2030? → revertirlas"
+ },
+ {
+  "id": "vox-0046",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Limitar el importe de las multas de tráfico y estacionamiento",
+  "ejes": [],
+  "nota": "SIN ENCAJE: tráfico y seguridad vial"
+ },
+ {
+  "id": "vox-0047",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Superar las leyes ideológicas como la de Memoria Democrática",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0048",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Derogar las leyes de género y aprobar otras que protejan a las víctimas",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0049",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Blindar el sector primario frente a la Agenda 2030 y rechazar el acuerdo UE-Mercosur",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Apoyar el acuerdo comercial UE-Mercosur? → rechazarlo"
+ },
+ {
+  "id": "vox-0050",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Derogar normativas que impongan cargas a agricultores, ganaderos y pescadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0051",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Fondo de compensación frente a las imposiciones de Bruselas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0052",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Fin de la financiación pública a proyectos agrarios en países extracomunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0053",
+  "subtema": "rural-agro",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Rechazar el recorte de la PAC y vincular su reparto a la despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0054",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Revisar la Política Pesquera Común y las cuotas de pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0055",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Impedir la instalación descontrolada de macro plantas solares y eólicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0056",
+  "subtema": "naturaleza",
+  "otros": [
+   "seg-emergencias",
+   "seg-penal"
+  ],
+  "titular": "Limpieza de montes, más medios contra incendios y penas a incendiarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0057",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Declaración responsable y silencio positivo en los trámites del medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0058",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Aumentar la inversión ante inundaciones, granizadas y plagas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0059",
+  "subtema": "rural-agro",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Favorecer el relevo generacional en el campo e impulsar la FP agraria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0060",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Defensa de la caza como actividad esencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0061",
+  "subtema": "san-modelo",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Tarjeta sanitaria única y que las lenguas regionales no impidan acceder a plazas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0062",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Reforzar la atención primaria y pediátrica, con atención a las zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0063",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Plan nacional de reducción de listas de espera con colaboración público-privada",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0064",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Mejorar retribuciones y condiciones de los sanitarios y fin del turismo sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0065",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Atención específica a la salud de las mujeres y diagnóstico precoz del cáncer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0066",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-farmacia",
+   "san-mental"
+  ],
+  "titular": "Mapa de infraestructuras sanitarias urgentes y Red de Centros Nacionales de Oncología",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0067",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-lenguas",
+   "edu-universidad"
+  ],
+  "titular": "Currículo y evaluaciones únicas, reválidas, EVAU única y educación en español",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "espanol"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0068",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Garantizar la libre elección de centro educativo en todos los niveles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0069",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Mejorar el sistema de becas universitarias y preuniversitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0070",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Derogar la LOMLOE, fin de los móviles en clase y autoridad del profesor",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la LOMLOE? → derogarla"
+ },
+ {
+  "id": "vox-0071",
+  "subtema": "edu-escuela",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Máximo por aula de alumnos de otras culturas y aulas de nivelación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0072",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Prohibir el burka y el niqab en todos los espacios públicos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir el burka y el niqab en los espacios públicos? → sí"
+ },
+ {
+  "id": "vox-0073",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Fin de los menús halal en los comedores escolares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0074",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Eliminar el programa de Lengua Árabe y Cultura Marroquí",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0075",
+  "subtema": "inm-integracion",
+  "otros": [
+   "edu-escuela",
+   "edu-becas"
+  ],
+  "titular": "Prioridad nacional en la elección de centro, becas y plazas de guardería",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prioridad de los españoles en el acceso a ayudas y servicios públicos? → sí, prioridad nacional"
+ },
+ {
+  "id": "vox-0076",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Garantizar la libertad de cátedra en la universidad frente a la corrección política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0077",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Promoción de la cultura nacional, patrimonio y nueva Ley de Mecenazgo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0078",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Defensa y promoción de la tauromaquia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0079",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Despolitizar el deporte, selecciones nacionales y deporte femenino por criterios biológicos",
+  "ejes": [],
+  "nota": ""
+ }
+]

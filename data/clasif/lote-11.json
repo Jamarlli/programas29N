@@ -1,0 +1,2403 @@
+[
+ {
+  "id": "compromis-0283",
+  "subtema": "clima",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Conectar parques, ríos urbanos, huertos y corredores verdes contra el riesgo de inundación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0284",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Banco estatal de suelo y edificios públicos en desuso para vivienda social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0285",
+  "subtema": "inst-local",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Reformar la Ley de Bases de Régimen Local para un marco de áreas metropolitanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0286",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Financiar puntos de recarga lenta en el alumbrado público con tarifa de residente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0287",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Aprobar una Estrategia Estatal de la Bicicleta para desplazamientos entre municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0288",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Financiar centros de distribución urbana de mercancías para la última milla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0289",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Hacer obligatorios los planes de movilidad sostenible en polígonos y grandes centros de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0290",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Condicionar las ayudas al transporte a zonas de bajas emisiones efectivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0291",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar estrictamente la normativa de contaminación del aire y ruido según la OMS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0292",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Reforzar Protección Civil y la UME con un fondo estatal estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0293",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Multiplicar la inversión en AEMET: más radares, estaciones y personal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0294",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Reformar el sistema de avisos a la población ES-Alert",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0295",
+  "subtema": "clima",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Impedir por ley construir en zonas inundables y ejecutar el PNACC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0296",
+  "subtema": "clima",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Activar refugios climáticos y adaptar las condiciones laborales en olas de calor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0297",
+  "subtema": "naturaleza",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Financiar la gestión forestal todo el año y aprobar un estatuto del bombero forestal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0298",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Crear un fondo estatal de reconstrucción y reformar el Consorcio de Compensación de Seguros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0299",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Simplificar trámites y dar asistencia jurídica para acreditar daños de catástrofes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0300",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Participación de las personas afectadas en el seguimiento de la recuperación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0301",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Financiación extraordinaria para municipios afectados por catástrofes naturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0302",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Ejecutar las obras hidráulicas pendientes en el País Valencià, como el Barranc del Poio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0303",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Calendario público de actuaciones con financiación y plazos verificables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0304",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Reformar la gobernanza de los organismos de cuenca con participación de Generalitat y ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0305",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Rendición de cuentas anual de todos los ministerios ante el Parlamento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0306",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Publicar trimestralmente la ejecución presupuestaria de todas las instituciones, incluida la Casa Real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0307",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Prohibir en el Código Penal condonar deudas a fundaciones de partidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0308",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Apartar a los mandos implicados en seguimientos injustificados de ciudadanos y partidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0309",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Cumplir las recomendaciones de transparencia del GRECO al Congreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0310",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Regular en el Estado la actividad de los lobbies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0311",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reformar la Ley de Transparencia y crear un Consejo de Transparencia independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0312",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Publicar completas las declaraciones de bienes y actividades de los altos cargos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0313",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Auditoría ciudadana de la deuda de la Administración pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0314",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Fomentar la cultura de datos abiertos y publicar la huella administrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0315",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Delimitar los ámbitos de dirección política y de gestión administrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0316",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Preferencia por la gestión pública y rectificar el proceso privatizador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0317",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Contratar con igualdad, mérito y publicidad en empresas concertadas con el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0318",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Limitar a 1 a 3 la diferencia de sueldo entre grupos funcionariales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0319",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Crear instituciones formativas propias para el funcionariado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0320",
+  "subtema": "inst-administracion",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Garantizar atención presencial y revisión humana de decisiones automatizadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0321",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Eliminar las tasas de reposición y convocar oposiciones periódicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0322",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Reformar las oposiciones para priorizar conocimientos prácticos y no memorísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0323",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Incluir más perfiles prácticos, como FP, en las Ofertas Públicas de Empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0324",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Revisar los trámites administrativos para hacerlos comprensibles y accesibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0325",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Gestionar el 0,7 % de los depósitos del Estado mediante banca ética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0326",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Garantizar los derechos de expresión, reunión y manifestación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0327",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Ampliar el derecho de voto a los 16 años",
+  "ejes": [
+   {
+    "eje": "eje-voto16",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0328",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Aprobar una ley de participación ciudadana con fondos para el asociacionismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0329",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reformar la Ley de Iniciativa Legislativa Popular y el Reglamento del Congreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0330",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Impulsar el uso de referéndums en las decisiones políticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0331",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Eliminar el aforamiento parlamentario y judicial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0332",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Reformar el artículo 135 de la Constitución sobre la prioridad del pago de deuda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0333",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Desarrollar el artículo 23 de la Constitución para extender la democracia participativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0334",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Incluir los valores de la democracia y la participación en el currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0335",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Participación accesible y evaluación del impacto de género en los presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0336",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Derogar la ley franquista de secretos oficiales y aprobar una nueva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0337",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Prohibir a la Administración relacionarse con paraísos fiscales y empresas que los usen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0338",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reformar el Tribunal de Cuentas para garantizar su independencia y medios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0339",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Crear una oficina antifraude en la administración pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0340",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Consulta gratuita y fácil de la información del BORME",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0341",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reformar la Oficina de Supervisión de la Contratación con miembros nombrados por el Congreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0342",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Crear una figura de control ciudadano en las mesas de adjudicación de contratos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0343",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Proteger por ley el anonimato de quienes denuncian corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0344",
+  "subtema": "san-farmacia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Transparencia en precios de fármacos y pagos de la industria farmacéutica a sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0345",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Impulsar la justicia gratuita con retribuciones dignas para letrados y procuradores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0346",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Cambiar el acceso a la carrera judicial hacia un modelo práctico como el alemán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0347",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Apoyar la preparación de las pruebas selectivas a personas sin recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0348",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Incrementar el peso del tercer y cuarto turno en la judicatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0349",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Reforzar la lucha contra la violencia de género en la Administración de Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0350",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Formación obligatoria en materia de género para jueces y juezas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0351",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Institucionalizar la mediación y el arbitraje para reducir la carga de los jueces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0352",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Adecuar los medios judiciales priorizando la lucha contra la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0353",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Dotar a juzgados y Fiscalía de unidades de apoyo y peritos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0354",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Crear diez nuevos juzgados y renovar el parque informático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0355",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Un CGPJ independiente, elegido por mérito y capacidad y más colegiado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0356",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Ratificar en el Congreso la elección del Fiscal General del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0357",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Suprimir la Sala de lo Penal de la Audiencia Nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0358",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar la Ley de Protección de la Seguridad Ciudadana o «ley mordaza»",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0359",
+  "subtema": "seg-policia",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Derecho a sindicarse de las fuerzas de seguridad y eliminar la justicia militar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0360",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Abolir el uso de las balas de goma",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0361",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Revisar la respuesta ante ciberataques a infraestructuras críticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0362",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Derogar la Ley de Amnistía de 1977",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Derogar la Ley de Amnistía de 1977? → derogar"
+ },
+ {
+  "id": "compromis-0363",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Retirar los símbolos franquistas según el artículo 15 de la ley de Memoria Histórica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0364",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Investigar el dinero incautado por el gobierno franquista después de 1936",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0365",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Ampliar la Ley de Memoria Democrática para reparar el dinero confiscado por el franquismo",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0366",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Ley de Plurilingüismo y requisito lingüístico en la función pública estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0367",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Garantizar el uso del valenciano en la Justicia y exigirlo a jueces y fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0368",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Oficialidad del valenciano en las instituciones de la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0369",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Etiquetado y servicios bilingües obligatorios en territorios con dos lenguas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0370",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Recuperar la reciprocidad de los medios de comunicación en valenciano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0371",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Eliminar los privilegios de los acuerdos con la Santa Sede y otras confesiones",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener o revisar los Acuerdos con la Santa Sede? → eliminar sus privilegios"
+ },
+ {
+  "id": "compromis-0372",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Acabar con la financiación presupuestaria y los beneficios fiscales de la Iglesia católica",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener la financiación pública de la Iglesia católica? → suprimirla"
+ },
+ {
+  "id": "compromis-0373",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Cobrar el IBI a las confesiones religiosas por inmuebles no destinados al culto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0374",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Escuela pública laica, sin educación confesional en el currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0375",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reformar el artículo 16.3 de la Constitución para quitar la mención a la Iglesia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0376",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Sustituir la aconfesionalidad del Estado por el laicismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0377",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Nueva ley de libertad religiosa que garantice la neutralidad del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0378",
+  "subtema": "igu-libertades",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Derogar el delito de ofensa a los sentimientos religiosos del Código Penal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0379",
+  "subtema": "animales",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Plan de bienestar animal para ayudar a las granjas a suprimir las jaulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0380",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Incluir a los perros de caza en la ley de bienestar animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0381",
+  "subtema": "animales",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Suprimir los espectáculos taurinos con muerte y sufrimiento animal y sus subvenciones",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0382",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Red de servicios veterinarios públicos para familias vulnerables y animales rescatados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0383",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Derogar la Ley 18/2013 que recoge los espectáculos taurinos como patrimonio cultural",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0384",
+  "subtema": "animales",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Endurecer las penas por maltrato animal y hacer campañas sobre derechos animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0385",
+  "subtema": "animales",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Prohibir la caza con perros y los espectáculos con animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0386",
+  "subtema": "rural-agro",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Moratoria inmediata a nuevas macrogranjas, limitar su tamaño e impulsar su cierre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0387",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Garantizar opciones veganas y vegetarianas en escuelas, hospitales y prisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0388",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Eliminar la alimentación forzosa en la industria ganadera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0389",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Inversión en protección de familias e infancia hasta la media de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0390",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Fondo de compensación interterritorial contra las desigualdades en educación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0391",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Prestación universal por crianza de 200 euros mensuales por hijo o hija",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0392",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Reformar la Ley de Responsabilidad Penal del Menor hacia la reeducación y la reinserción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0393",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Ley de protección de la infancia en entornos digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0394",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Impulsar el envejecimiento activo, sobre todo en los sectores más vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0395",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Reforzar la Estrategia Nacional contra la Soledad No Deseada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0396",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Incentivos contra la discriminación por edad en el mercado laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0397",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación progresiva en sectores de alto desgaste físico o psicológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0398",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ley estatal de familias monoparentales con ayudas equiparadas a las numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0399",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar los permisos de las familias monoparentales hasta igualar a las biparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0400",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Remunerar progresivamente las ocho semanas de permiso por cuidado de hijos e hijas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0401",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Políticas de conciliación con flexibilidad horaria e incentivos para la crianza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0402",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Mejorar la transparencia y las garantías de la adopción internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0403",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Fomentar los programas de acogimiento familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0404",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Eliminar los límites a la adopción internacional por parejas del mismo género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0405",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Mejorar el acceso de la juventud al asesoramiento jurídico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0406",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Nuevo decreto de Garantía Juvenil centrado en contratación indefinida a tiempo completo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0407",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Empleo juvenil en empleo verde, sector primario y rural y dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0408",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Bonificaciones fiscales temporales a nuevas empresas y cooperativas juveniles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0409",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Línea estatal de microcréditos para proyectos empresariales de jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0410",
+  "subtema": "trab-empleo",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Plan Estatal de becas de primer trabajo, formación laboral e investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0411",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reservar viviendas de alquiler bajo precio de mercado para jóvenes con una bolsa pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0412",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Residencias y alojamientos protegidos asequibles para estudiantes y jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0413",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Deducción en el IRPF para jóvenes de alquiler con rentas de hasta 33.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0414",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Priorizar ayudas a la rehabilitación para eficiencia energética y climatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0415",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Impulsar cooperativas de vivienda en cesión de uso, sobre todo en suelo público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0416",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Ley de Participación Juvenil que desarrolle el artículo 48 de la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0417",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Marco legal para Consejos de la Juventud independientes y con recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0418",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Reconocer la educación no formal y el voluntariado juvenil y acreditar sus competencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0419",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Campañas con el tejido asociativo juvenil para ampliar la educación no formal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0420",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Homologar entre autonomías las titulaciones de actividades de tiempo libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0421",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Apoyar las escuelas de animación y el reconocimiento de sus titulaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0422",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Promocionar y ampliar la red estatal de albergues juveniles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0423",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Plan de acción contra el acoso escolar LGTBIQ+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0424",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Productos menstruales gratuitos en centros educativos, sanitarios y penitenciarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0425",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-lgtbi",
+   "igu-mujeres"
+  ],
+  "titular": "Sensibilizar a la comunidad educativa contra la discriminación sexista y LGTBIfóbica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0426",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Prácticas de igualdad en los centros escolares desde los 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0427",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Programa estatal de movilidad rural con atención a la juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0428",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Préstamo y alquiler de bicicletas en estaciones de tren para jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0429",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Conexiones nocturnas y de fin de semana en zonas rurales para la juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0430",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Promover el asociacionismo juvenil para un modelo cultural humanista y solidario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0431",
+  "subtema": "cultura",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Programa estatal de becas y residencias artísticas para jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0432",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Coordinación interterritorial de políticas saludables de ocio y tiempo libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0433",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Reformar la Ley del Juego para restringir la publicidad de apuestas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0434",
+  "subtema": "deporte",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Becas deportivas para jóvenes de familias con rentas bajas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0435",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Recuperar el espacio público para el asociacionismo y la cooperación joven",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0436",
+  "subtema": "igu-racismo",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Definir y prohibir por ley las identificaciones policiales por perfil étnico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0437",
+  "subtema": "igu-racismo",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Formularios obligatorios en las identificaciones policiales con motivo y agente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0438",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Publicar periódicamente estadísticas de identificaciones policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0439",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Ampliar el derecho de sufragio activo de las personas migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0440",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Planes de acceso a la administración y la justicia que salven las barreras idiomáticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0441",
+  "subtema": "igu-racismo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Incorporar referentes de diversidad étnica y cultural en el currículo escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0442",
+  "subtema": "igu-racismo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Formación obligatoria en antirracismo y antigitanismo en el sistema educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0443",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Formación obligatoria en antirracismo y antigitanismo para el personal público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0444",
+  "subtema": "san-farmacia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Plan estatal de investigación en salud de las mujeres, como endometriosis y menopausia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0445",
+  "subtema": "san-profesionales",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Perspectiva feminista obligatoria en los estudios de Medicina y Enfermería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0446",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Protocolos de detección precoz para menopausia, salud menstrual y dolor crónico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0447",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Observatorios públicos de los sesgos de género en la atención sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0448",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Derecho a baja laboral por parto natural y cesárea antes del permiso de maternidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0449",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "san-listas-espera"
+  ],
+  "titular": "Reforzar la cobertura pública de fertilidad y reducir sus listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0450",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Derecho a decidir la destrucción o donación de los ovocitos vitrificados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0451",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reconocer en las pensiones los periodos de cuidados con cotizaciones asimiladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0452",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reforzar el complemento para reducir la brecha de género en las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0453",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Mecanismos correctores para mujeres con parcialidad o carreras interrumpidas por cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0454",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Reforzar la inspección laboral y las políticas contra la brecha salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0455",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Evaluación anual del impacto de género de las reformas de la Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0456",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Garantizar la interrupción voluntaria del embarazo gratuita y accesible en la sanidad pública",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0457",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Regular la objeción de conciencia para que todo hospital público preste el servicio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0458",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Reforzar la educación afectivosexual y el acceso gratuito a anticonceptivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0459",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Sistema público de datos para detectar desigualdades territoriales en el servicio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0460",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Coeducación transversal y evaluable en todas las etapas educativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0461",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Educación afectivosexual integral, científica y feminista adaptada a cada edad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0462",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Programas con chicos sobre corresponsabilidad, respeto y prevención de la dominación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0463",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Reforzar la prohibición de la gestación subrogada o «vientres de alquiler»",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permitir la gestación subrogada? → no, reforzar su prohibición"
+ },
+ {
+  "id": "compromis-0464",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Prohibir y sancionar la publicidad de agencias de explotación reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0465",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Medidas contra el negocio transnacional de la explotación reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0466",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Proteger la identidad y filiación de los niños ya nacidos por estas prácticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0467",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Políticas internacionales contra la pobreza que facilita la explotación reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0468",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Revisar los protocolos de riesgo y auditar los casos en que falló la protección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0469",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforzar unidades policiales, juzgados de violencia sobre la mujer y asistencia jurídica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0470",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Respuesta penal efectiva ante la violencia machista, con atención a la reincidencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0471",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Coordinar policía, justicia y servicios para que las víctimas no repitan su relato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0472",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Proteger a hijas e hijos de la violencia vicaria y revisar guarda y visitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0473",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Responsabilidad institucional ante negligencias graves en la protección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0474",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Programas de prevención e intervención con hombres agresores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0475",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Más sanciones a la explotación sexual y la trata, sin sancionar a las prostituidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0476",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforzar la persecución de la explotación sexual y de las organizaciones criminales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0477",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Plan estatal contra la explotación sexual y la trata con vivienda, ingresos e inserción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0478",
+  "subtema": "igu-violencia",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Proteger a las mujeres migrantes en situación irregular para que accedan a los servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0479",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Campañas para hombres y adolescentes que cuestionen la compra de sexo y la prostitución",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0480",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Evaluar cómo inciden las medidas en la demanda y la salida de la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0481",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Desarrollar el Pacto de Estado contra los Delitos de Odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0482",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Reforzar el Servicio Arcoíris y las OAVD para víctimas de delitos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0483",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Tipificar como delito las terapias de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0484",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Formación obligatoria en diversidad y derechos LGTBIQ+ para todo el personal público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0485",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Blindar la ley trans y LGTBI y el matrimonio igualitario",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0486",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Recursos para la diversidad sexual, de género y familiar en el sistema educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0487",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Seguir avanzando en los derechos de las personas trans y no binarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0488",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Servicio psicopedagógico de los centros públicos en colaboración con colectivos LGTBIQ+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0489",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Protocolos laborales contra la discriminación por orientación sexual e identidad de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0490",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Protocolos y formación sanitaria para una atención sin prejuicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0491",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Seguir visibilizando la conmemoración del Orgullo LGTBI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0492",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Promover iniciativas culturales e investigación sobre diversidad sexual y de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0493",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Defender los derechos LGTBI en los foros y organismos internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0494",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Reformar la financiación autonómica con criterios poblacionales contra la infrafinanciación valenciana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0495",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Concierto económico o que la Generalitat recaude la mayor parte de los tributos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Concierto económico o recaudación propia para las comunidades? → a favor"
+ },
+ {
+  "id": "compromis-0496",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Condonar la deuda histórica de la Generalitat Valenciana por infrafinanciación",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0497",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Fondo transitorio de nivelación hasta la media mientras no se reforme la financiación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0498",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Reclamar al Estado la deuda con la Generalitat por atender a personas desplazadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0499",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Desarrollar el FOGA y el Fondo de Cohesión Sanitaria y pagar los importes pendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0500",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Que el Estado financie el 50 % de la Ley de Dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0501",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Inversión estatal en el País Valencià según su peso poblacional, sobre todo en Alicante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0502",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan de Rodalies en el País Valencià: 1.500 millones y 58 trenes nuevos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0503",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Ampliar el Fondo de Compensación Interterritorial hacia la convergencia en renta per cápita",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0504",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Sistema público de seguimiento territorializado de las inversiones estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0505",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Revisar las reglas fiscales para que no impidan prestar servicios ni invertir",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0506",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Traspasar a la Generalitat costas, puertos, aeropuertos, Rodalies, IMV e inspección de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0507",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Ley de Sedes del Estado para descentralizar instituciones y organismos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0508",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Avanzar hacia un Estado plurinacional que reconozca la diversidad nacional",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0509",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reformar el Senado como espacio de representación y cooperación territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0510",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reforma constitucional para recuperar el derecho civil valenciano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0511",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Superar la estructura provincial y adaptar la gestión a la realidad comarcal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0512",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Suprimir las diputaciones provinciales y redistribuir sus competencias",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Suprimir las diputaciones provinciales? → sí"
+ },
+ {
+  "id": "compromis-0513",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Mejorar la financiación local, con criterios para municipios pequeños y rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0514",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Marco legal para la gobernanza compartida de las áreas metropolitanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0515",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reforzar la cooperación y la gestión compartida de servicios entre municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0516",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Financiación específica a los municipios contra el despoblamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0517",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reconocer jurídicamente las comarcas del País Valencià",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0518",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Democratizar las Naciones Unidas con una Asamblea Parlamentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0519",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Acabar con los vetos injustificados en el Consejo de Seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0520",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Rediseñar el FMI y el Banco Mundial con más peso para el sur global",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0521",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Crear en Alicante un Centro Internacional de Resolución de Disputas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0522",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Ratificar la Convención sobre trabajadores migrantes, el tratado nuclear y convenios de la OIT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0523",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Más recursos humanos y económicos para la red consular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0524",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Relación estratégica privilegiada con China, India y América Latina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0525",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Aumentar el apoyo al pueblo palestino y a la pacificación de la región",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0526",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Apoyar al pueblo ucraniano y una salida dialogada a la invasión rusa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0527",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Unión Europea de la Defensa que sustituya a la OTAN y reduzca gasto militar",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": "EJE NUEVO: ¿Permanecer en la OTAN? → sustituirla por una Unión Europea de la Defensa"
+ },
+ {
+  "id": "compromis-0528",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Auditar todo el gasto en Defensa y publicar los resultados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0529",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Priorizar capacidades de defensa necesarias y evitar compras de armamento innecesarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0530",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Impedir que el aumento del gasto militar reduzca servicios públicos y protección social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0531",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Reformular las estrategias de seguridad con la agenda «Paz, Mujeres y Seguridad»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0532",
+  "subtema": "seg-justicia",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Reformar la LOPJ para perseguir crímenes internacionales cometidos en cualquier lugar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0533",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Prohibir la venta de armas a países que vulneren los derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0534",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Romper relaciones con países que practiquen genocidios, como el Estado de Israel",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Embargo de armas y ruptura de relaciones con Israel? → romper relaciones diplomáticas y comerciales"
+ },
+ {
+  "id": "compromis-0535",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Aumentar las contribuciones a la Corte Penal Internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0536",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Apoyar la libre determinación del Sáhara Occidental y exigir un referéndum",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sáhara Occidental: plan de autonomía marroquí o referéndum de autodeterminación? → referéndum"
+ },
+ {
+  "id": "compromis-0537",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Reformar los tratados para reforzar el Parlamento Europeo y el Comité de las Regiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0538",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Superar la unanimidad en el Consejo de la UE en política exterior y fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0539",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Elevar el presupuesto de la UE al menos al 2 % de la RNB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0540",
+  "subtema": "ext-ue",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Pedir la supresión del Pacto de Estabilidad y Crecimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0541",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Condicionar los fondos europeos a derechos humanos, Estado de derecho y Pacto Verde",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0542",
+  "subtema": "ext-ue",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Llevar al TJUE acuerdos comerciales y el Pacto Europeo de Migración y Asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0543",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Reorientar la política comercial europea hacia la equidad y la autonomía estratégica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0544",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Garantizar por ley el 0,7 % para la cooperación al desarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0545",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Facilitar la cooperación descentralizada de comunidades autónomas y entidades locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0546",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Exigir la eliminación de los CIE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0547",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Regularizar y dar derechos a quienes viven aquí, con acogida digna y asilo",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0548",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Prohibir las devoluciones ilegales encubiertas como retornos voluntarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: una sociedad justa sin discriminaciones, tampoco por especie",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Llamada al voto el 29 de noviembre por los animales y el medio ambiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0003",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Diagnóstico: los animales sienten y su situación en España es terrible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pacma-0004",
+  "subtema": "animales",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Esterilización obligatoria y prohibir la compraventa de animales ante 300.000 abandonos al año",
+  "ejes": [],
+  "nota": ""
+ }
+]

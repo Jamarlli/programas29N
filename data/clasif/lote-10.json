@@ -1,0 +1,2628 @@
+[
+ {
+  "id": "compromis-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: siete prioridades de la izquierda valenciana para las Cortes Generales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0002",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir a sociedades especulativas y fondos buitre comprar viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0003",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Promover el alquiler indefinido como régimen ordinario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0004",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Expropiar a fondos de más de 1.000 viviendas, hasta 50, para el parque público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0005",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Destinar el 1 % del PIB anual a adquirir y promover vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0006",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir temporalmente la compraventa de viviendas a no residentes en zonas tensionadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0007",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Limitar las compras de viviendas para la acumulación especulativa de propiedades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0008",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Prohibir algoritmos e IA que fijen alquileres, con multas de hasta el 10 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0009",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Dar a los ayuntamientos competencia para declarar zonas tensionadas y controlar alquileres",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "mantener-ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0010",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ejercer el derecho de tanteo en la venta de viviendas de protección oficial antiguas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0011",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Abolir los privilegios fiscales de las SOCIMI y las EDAV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0012",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Crear un Registro Estatal de Arrendamientos Urbanos obligatorio con precios en tiempo real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0013",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reforzar los requisitos de habitabilidad para poder alquilar una vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0014",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Eximir del ITP la primera vivienda bajo 350.000 € y subirlo desde la tercera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0015",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Subir el IBI de forma progresiva a quien tenga más de dos viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0016",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Fondo de Inversión Estatal de 18.000 M€ de ahorro privado para vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0017",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Encuesta de viviendas vacías para que los ayuntamientos apliquen recargos del IBI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0018",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-alquiler",
+   "vivienda-publica"
+  ],
+  "titular": "Movilizar viviendas vacías con Casa 47 como intermediaria entre propietarios y demandantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0019",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Gravamen del 10 % del valor catastral a partir de la tercera vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0020",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir por ley los desahucios sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0021",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada laboral a cuatro días (32 horas) sin bajar el sueldo",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0022",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Garantizar por ley un SMI del 60 % del salario medio",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0023",
+  "subtema": "trab-salarios",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Cláusulas automáticas de actualización salarial durante la ultraactividad de los convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0024",
+  "subtema": "trab-jornada",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Reducir un 50 % los festivos laborables y restringir Zonas de Gran Afluencia Turística",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0025",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Recuperar los salarios de tramitación y la indemnización de 45 días por año",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0026",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Profundizar en la flexibilidad horaria, el teletrabajo y la desconexión digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0027",
+  "subtema": "trab-jornada",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Plan de cuidados y equilibrio vida-trabajo financiado con el FSE+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0028",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Prácticas remuneradas que no sustituyan puestos de plantilla y programas de primera experiencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0029",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Condicionar ayudas y contratos públicos al cumplimiento de la normativa laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0030",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Reforzar la Inspección de Trabajo contra el fraude y las horas extraordinarias no declaradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0031",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Acceso al cese de actividad de autónomos acreditando solo un año de pérdidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0032",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Aplicar el IVA franquiciado a autónomos que facturen menos de 85.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0033",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Cuota de autónomos bonificada desde el primer día de baja por enfermedad grave",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0034",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Baja flexible por enfermedades graves o crónicas con reincorporación progresiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0035",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Sustituir en tres años los módulos por una Estimación Directa Especial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0036",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Menos trámites para micropymes y autónomos y declaraciones semestrales en vez de trimestrales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0037",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Medidas contra impagos de grandes clientes y atención bancaria presencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0038",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Devolver la edad de jubilación a los 65 años",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0039",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar los coeficientes reductores a la jubilación anticipada con 40 años trabajados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0040",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar el tope de la base máxima de cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0041",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Garantizar en la Constitución revalorizar las pensiones según el coste de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0042",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Suprimir toda desgravación fiscal a los planes de pensiones privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0043",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Eliminar las ventajas fiscales de los PIAS y los SIALP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0044",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Compensar a pensionistas que tributaron doble por mutualidades laborales antes de 1979",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0045",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir las pensiones no contributivas hasta 800 €",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0046",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Blindar la gestión pública de la sanidad derogando la Ley 15/1997",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0047",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Acceso universal a la sanidad pública sin discriminación por origen o situación administrativa",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0048",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-listas-espera"
+  ],
+  "titular": "Reforzar la atención primaria con financiación mínima, ratios y esperas máximas por ley",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0049",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Pacto estatal por la salud mental con más profesionales y prevención del suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0050",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Ampliar la red de centros de día y terapia ambulatoria de salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0051",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Suprimir el copago farmacéutico de los pensionistas y hacerlo más progresivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0052",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incluir oftalmología, podología, nutrición y odontología en el Sistema Nacional de Salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0053",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una industria farmacéutica pública de medicamentos esenciales y genéricos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0054",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Evaluaciones de impacto en salud para grandes infraestructuras, proyectos industriales y normas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0055",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir fumar en terrazas y playas y ampliar la lucha contra el tabaquismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0056",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir la venta de bebidas energéticas a menores de 16 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0057",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Avanzar hacia una inversión educativa del 7 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0058",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Prohibir ceder suelo público para construir centros educativos privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0059",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reformar los conciertos para que la concertada sea subsidiaria de la pública",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0060",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Ampliar la red pública de 0 a 3 años y avanzar hacia su gratuidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0061",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reformar la LOE para un comedor escolar gratuito y universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0062",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ampliar las plazas y la oferta territorial de la FP pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0063",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Más espacio para coeducación, educación afectivo-sexual, ambiental y en valores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0064",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la atención a la diversidad y la orientación educativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0065",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Protocolos contra el acoso escolar, la violencia digital y la difusión de imágenes íntimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0066",
+  "subtema": "edu-modelo",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Actualizar la normativa de educación de personas adultas para el aprendizaje permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0067",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Nueva ley de Formación Profesional adaptada al modelo productivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0068",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ley básica estatal de servicios sociales con ratios mínimas y sin privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0069",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "No exigir la misma documentación repetidas veces para acceder a servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0070",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reconocer la ayuda a domicilio como servicio público esencial de la dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0071",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Mejores salarios y estabilidad para las trabajadoras de los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0072",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Reformar la Ley de Dependencia para priorizar la atención en el propio entorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0073",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Aprobar un Estatuto de las Personas Cuidadoras con derechos sociolaborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0074",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Política pública de cuidados que reparta la responsabilidad y no recaiga en las familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0075",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Obligar a las entidades financieras a facilitar cuentas de pago básicas a todos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0076",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Reformar el Ingreso Mínimo Vital para ampliar su cobertura y agilizarlo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0077",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan de mantenimiento, inversión y plantilla para más frecuencias y trenes renovados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0078",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Dotar la Autoridad Metropolitana de Transporte con 50 millones de euros estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0079",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Tarifas accesibles e integración de títulos entre tren, autobús y redes metropolitanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0080",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Acelerar el Corredor Mediterráneo con calendario, presupuesto y rendición de cuentas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0081",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Revisar las actuaciones del corredor Cantábrico-Mediterráneo según el territorio y la sostenibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0082",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Más inversión estatal en carreteras nuevas y en mantenimiento, con control público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0083",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Paralizar ampliaciones del Puerto de València y aeropuertos de València y Alicante",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0084",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Mejora integral del transporte público en el sur del País Valenciano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0085",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reestructurar Adif revirtiendo su privatización encubierta mediante subcontratas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0086",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Racionalizar la alta velocidad liberalizada y apostar por el transporte de mercancías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0087",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Movilidad de cuidados, transporte asequible para jóvenes y conexiones nocturnas y rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0088",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Desarrollar la Ley 9/2025 de Movilidad Sostenible hacia la neutralidad climática en 2050",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0089",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Impulsar los corredores ferroviarios de mercancías frente a la carretera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0090",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Limitar vuelos nacionales con alternativa en tren de menos de dos horas y media",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0091",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Electrificar progresivamente las terminales portuarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0092",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Proteger el taxi como servicio público esencial y limitar las VTC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0093",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Movilidad sostenible adaptada al medio rural y fomento de la movilidad eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0094",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial",
+   "naturaleza"
+  ],
+  "titular": "Gestión aeroportuaria con participación autonómica y municipal y recomendaciones OMS sobre ruido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0095",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ley de financiación de infraestructuras culturales estatales con reparto equitativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0096",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reforzar la financiación de instituciones, festivales y compañías culturales valencianas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0097",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Financiación para la creación y la producción independiente y empleo digno en cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0098",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Desplegar íntegramente el Estatuto del Artista, atendiendo a la intermitencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0099",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Apoyo estatal a festivales como Sagunt a Escena, Dansa València y Trovam",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0100",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Más aportación estatal al Palau de les Arts, el IVAM y las sociedades musicales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0101",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Rehabilitar el patrimonio valenciano: castillo de Sagunto, Cova del Bolomor y la Murta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0102",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Adquirir espacios patrimoniales como el monasterio de Sant Jeroni de Cotalba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0103",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reclamar la Dama de Elche para Elche y el Llibre dels Repartiments para Orihuela",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0104",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Traspasar a la Generalitat el Convento de Santo Domingo de València",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0105",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Premios estatales a la creación literaria en lenguas cooficiales con igual prestigio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0106",
+  "subtema": "cultura",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Extender el Bono Cultural Joven de los 16 a los 30 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0107",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Mejorar las condiciones laborales del sector cultural y audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0108",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Ley estatal del audiovisual que favorezca la producción territorial y el pluralismo lingüístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0109",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Descentralizar las ayudas estatales a la producción audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0110",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Facilitar la presencia de creadores valencianos en ferias y festivales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0111",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear una mesa estatal de cultura con comunidades autónomas y sectores culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0112",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ampliar las excepciones de propiedad intelectual para usos educativos y culturales sin lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0113",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Recuperar la Ley del Cine y de la Cultura Audiovisual pendiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0114",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Restaurar el Teatro Principal de València como subsede del Instituto Nacional de Artes Escénicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0115",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Reforzar la creación en valenciano en el Instituto Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0116",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Redirigir ingresos de macroeventos a salas independientes y festivales pequeños y rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0117",
+  "subtema": "deporte",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Programa de financiación de la receta deportiva en los centros de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0118",
+  "subtema": "deporte",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Exigir residencia fiscal en España a deportistas que reciban ayudas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0119",
+  "subtema": "deporte",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Programas para compatibilizar la preparación de deportistas de élite con la universidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0120",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Mantener y ampliar el Plan Corresponsables con extraescolares universales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0121",
+  "subtema": "cultura",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Apoyo estatal a espacios culturales, deportivos y de encuentro sin obligación de consumir",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0122",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Reciprocidad entre televisiones públicas autonómicas que comparten sistema lingüístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0123",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Programación completa en valenciano en el Centro Territorial de RTVE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0124",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Emisión multilingüe en todas las radiotelevisiones públicas del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0125",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Estatuto de la Información y código deontológico con sanciones graves a quien desinforme",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0126",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Poner en marcha el Consejo Estatal de Medios Audiovisuales como regulador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0127",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Descentralizar la promoción audiovisual con ayudas para ferias y producción territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0128",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Transparencia de los algoritmos y medidas contra patrones adictivos de las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0129",
+  "subtema": "dig-ia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Regular estrictamente la IA y prohibir asistentes digitales que creen dependencia emocional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0130",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Más ayudas al estudio, la investigación y las infraestructuras científicas con equidad territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0131",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Cooperación entre universidades, investigación y sectores productivos para la transferencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0132",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Resolver y pagar las becas universitarias a principio de curso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0133",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Nuevo sistema de tasas universitarias en que quien menos tiene pague menos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0134",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Recursos para universidades e investigación pública y menos precariedad científica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0135",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Evaluación periódica del rendimiento de los recursos públicos de las universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0136",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Carrera investigadora integral con contratación estable en todas las etapas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0137",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Dignificar la situación del profesorado universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0138",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Limitar la proliferación de universidades privadas y la desviación de recursos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0139",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Deflactar el IRPF a las rentas inferiores a 30.000 €",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0140",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Mantener y ampliar el Impuesto a las Grandes Fortunas hacia la tasa Zucman",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0141",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Valorar inmuebles en el Impuesto de Patrimonio con el Índice de Viviendas Estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0142",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Luchar contra el fraude fiscal aumentando las plantillas de la AEAT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0143",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Eliminar las ventajas de las grandes empresas respecto a las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0144",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Crear un impuesto sobre el beneficio de las empresas oligopolísticas",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0145",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Que las rentas financieras tributen con la misma progresividad que las del trabajo",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0146",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Eliminar deducciones de las rentas inmobiliarias de las que no gozan las del trabajo",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0147",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Reducir la deducción por amortización de inmuebles del 3 % al 1 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0148",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Rebajar del 50 % al 20 % la deducción por arrendamiento de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0149",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Tasa de 2 € por pernoctación en viviendas de uso turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0150",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Simplificar tributos para reducir la elusión fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0151",
+  "subtema": "imp-verdes",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Eliminar privilegios fiscales de la aviación y destinar 6.000 millones al tren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0152",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto sobre las emisiones de óxidos de nitrógeno de la aviación comercial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0153",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Gravar en el IRPF la tenencia injustificada de viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0154",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Gravar a las empresas por usar robots que sustituyan mano de obra humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0155",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Reducir el IVA de higiene femenina, peluquería, productos celíacos, cultura y veterinaria",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0156",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Subir el IVA a productos de lujo, contaminantes y nocivos para la salud",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0157",
+  "subtema": "inst-local",
+  "otros": [
+   "vivienda-fiscalidad",
+   "fam-natalidad"
+  ],
+  "titular": "Reformar las haciendas locales para un IBI progresivo y equiparar familias monoparentales y numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0158",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Reformar la Ley de Arrendamientos Urbanos para regular los alquileres comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0159",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Medidas contra el intrusismo, la competencia desleal y la economía sumergida en el comercio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0160",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Ayudas directas a comercios de consumo energético intensivo para reducir consumos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0161",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Crear el Día del Comercio de Proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0162",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Limitar las rebajas y promociones a determinadas épocas del año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0163",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Escuelas Sectoriales, como una escuela técnica de ventas, con las asociaciones empresariales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0164",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Ayudas a fondo perdido y créditos blandos para digitalizar el comercio minorista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0165",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Participación de los trabajadores en los consejos de administración de grandes empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0166",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Crear una banca pública de inversión y crédito para pymes, cooperativas y familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0167",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Más presencia del Estado en sectores estratégicos con participaciones o empresas estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0168",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Hojas de ruta financiadas para la cerámica, el calzado, el juguete y la automoción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0169",
+  "subtema": "eco-industria",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Convertirse en un polo de producción de tecnologías limpias como baterías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0170",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Nueva Ley de Industria y Autonomía Estratégica que sustituya la de 1992",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0171",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Informes de sostenibilidad social y ambiental obligatorios en las cuentas anuales",
+  "ejes": [],
+  "nota": "SIN ENCAJE: responsabilidad social y transparencia de las empresas"
+ },
+ {
+  "id": "compromis-0172",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Simplificar y agilizar los trámites de las pymes con la administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0173",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Crear ventanillas únicas para los trámites administrativos de las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0174",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Oposición a nuevos procesos de concentración bancaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0175",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Completar la reforma de la ley de cooperativas y actualizar su régimen fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0176",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reconocer sociedades público-comunitarias de economía social y solidaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0177",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Financiación estable de la ciencia que supere el 3 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0178",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Cláusula de no retroceso para que la ciencia no sufra recortes en crisis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0179",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Carrera pública estable para el personal científico sin contratos precarios encadenados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0180",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Reducir la carga burocrática de los proyectos y centros de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0181",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Mejorar salarios y condiciones de los investigadores para retener y recuperar talento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0182",
+  "subtema": "dig-datos",
+  "otros": [
+   "agua",
+   "ener-modelo"
+  ],
+  "titular": "Planificar los centros de datos con agua regenerada, renovables y tributación efectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0183",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Aprobar un Estatuto de las Personas Labradoras y Ganaderas Profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0184",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Mesa estable con los ministerios de Agricultura, Hacienda y Trabajo y organizaciones agrarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0185",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Elecciones para medir la representatividad de las organizaciones profesionales agrarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0186",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Etiquetado que indique qué parte del precio va al productor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0187",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Perseguir el etiquetado confuso del origen de los productos agroalimentarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0188",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Acelerar las infraestructuras que conectan las comarcas con los mercados, como el Corredor Mediterráneo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0189",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Estrategias para conservar y valorizar cultivos tradicionales minoritarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0190",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Incentivar fiscalmente los arrendamientos estables de más de cinco años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0191",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Mejorar la protección del autónomo agrario y las ayudas por catástrofes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0192",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Integrar el pastoreo y la gestión de biomasa en las políticas de prevención",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0193",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Facilitar el acceso de las mujeres a la tierra, la inversión y la formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0194",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "PAC mediterránea con régimen simplificado hasta 5.000 € y prioridad a profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0195",
+  "subtema": "rural-agro",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Reforzar la Ley de la cadena alimentaria para que los precios cubran los costes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0196",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Canales de denuncia que protejan a los productores frente a represalias comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0197",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Perseguir la concertación de precios de compra y el poder de mercado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0198",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reforzar los controles para que las importaciones cumplan las normas europeas de producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0199",
+  "subtema": "rural-agro",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "IVA reducido para los bienes y servicios de la producción agraria, maquinaria incluida",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0200",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "rural-agro",
+   "eco-publico-banca"
+  ],
+  "titular": "Control público de los márgenes y la concentración de las grandes cadenas de distribución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0201",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Dar al riego agrario prioridad tras el abastecimiento humano en la planificación hidrológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0202",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Que los trasvases sean excepcionales, con acuerdo entre cuencas y caudales ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0203",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Calendarios para reducir pesticidas y fertilizantes de síntesis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0204",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Vigilancia y vacunas frente a la lengua azul, la EHE y Newcastle",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0205",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Etiquetas de bienestar animal y denominaciones ganaderas que informen sin confusión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0206",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Compra pública con criterios sociales, ambientales y de temporada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0207",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Acceso a suelo agrario y relevo generacional sin exigir patrimonio heredado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0208",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Medidas compensatorias para el sector pesquero por la subida de los combustibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0209",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Defender ante la UE una reconversión pesquera sostenible y un reparto justo de días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0210",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Transponer la Directiva 2020/1828 de acciones de representación colectivas de consumidores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0211",
+  "subtema": "residuos",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Ley específica contra la obsolescencia programada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0212",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Prohibir contratar con la administración a empresas sancionadas en firme por infracciones graves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0213",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Más transparencia y protección en servicios bancarios, telefonía, internet y facturas energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0214",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Reforzar las compensaciones por retrasos en el transporte público, sobre todo el tren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0215",
+  "subtema": "infra-digital",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Extender el 5G a todo el territorio, incluidas las zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0216",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Garantizar cartas en papel en la restauración y el derecho a pagar en efectivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0217",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Combatir la tarificación dinámica y los precios según perfiles personales en servicios digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0218",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Perseguir abusos de aerolíneas y operadores con equipajes, retrasos y derechos de viajeros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0219",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Implantar el sistema de depósito y retorno de envases antes de media legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0220",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reforzar el control de la Responsabilidad Ampliada del Productor sobre los residuos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0221",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Pacto de Estado por un Turismo Justo, Sostenible e Inclusivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0222",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Impedir que los hoteles subcontraten la limpieza de habitaciones y limitar camas por jornada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0223",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Regular los apartamentos turísticos para corregir la subida de precios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0224",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Priorizar el tren frente a vuelos cortos y jets privados y regular los cruceros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0225",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Planificación turística que priorice la biodiversidad, la neutralidad climática y la adaptación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0226",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Promocionar la singularidad del territorio, la cultura y la lengua evitando la gentrificación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0227",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Dinamizar la economía de municipios dependientes del turismo y financiar sus servicios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0228",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Destinar todos los recursos de promoción turística a reconversión ecológica industrial e I+D+i",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0229",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Modificar la Ley 42/2007 para frenar la pérdida y restaurar ecosistemas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0230",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Recuperar los espacios protegidos deteriorados con mejoras comprobables de biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0231",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reducir amenazas a la fauna como líneas eléctricas peligrosas, capturas accidentales y venenos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0232",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Que la financiación pública mejore la conservación de especies y ecosistemas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0233",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Garantizar la coexistencia entre la vida silvestre y las actividades económicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0234",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Marco Verde: filtro climático vinculante que impida iniciativas que aumenten emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0235",
+  "subtema": "clima",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Transición Ecológica Justa con formación y subsidios para trabajadores de sectores descarbonizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0236",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Plan Estatal de Emergencia por la Biodiversidad en el primer año, con presupuesto plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0237",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Que el causante pague el 100 % de la restauración y descontaminación ambiental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0238",
+  "subtema": "clima",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Prohibir la publicidad y patrocinios de empresas de combustibles fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0239",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reducir el peso del mercado marginalista con contratos a precio fijo para renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0240",
+  "subtema": "ener-modelo",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Pasar el impuesto eléctrico y los cargos de la factura a los Presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0241",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una empresa pública de energía que gestione renovables e hidroeléctricas revertidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0242",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Recuperar progresivamente la titularidad pública de las grandes eléctricas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0243",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Impulsar la generación distribuida y las comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0244",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Derecho de tanteo y retracto público en la compraventa de plantas fotovoltaicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0245",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Inversión anticipada en la red eléctrica y revisión de permisos especulativos de conexión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0246",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Alcanzar el 100 % de titularidad pública de Red Eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0247",
+  "subtema": "ener-modelo",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Plan para electrificar el transporte, la vivienda, la agricultura y la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0248",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Fondo de rehabilitación energética de viviendas con ayudas y préstamos al 0 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0249",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Mantener el cierre nuclear sin nuevas prórrogas y reindustrializar la comarca",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "cerrar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0250",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "ener-modelo",
+   "fam-pobreza"
+  ],
+  "titular": "Prohibir los cortes de suministro y hacer el bono social realmente progresivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0251",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Que el Estado tenga al menos el 51 % de Red Eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0252",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Nueva Comisión Nacional de la Energía separada de la CNMC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0253",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Agilizar permisos renovables en suelos degradados, respetando espacios protegidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0254",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Simplificar las reglas del autoconsumo colectivo, el almacenamiento y las comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0255",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Fondo soberano de renovables financiado con los beneficios del oligopolio energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0256",
+  "subtema": "clima",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Electrificación del 100 % en 2030 y abandono de los fósiles en 2040",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0257",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Mejorar el Plan Nacional de Adaptación al Cambio Climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0258",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Evaluar el PNIEC, publicar sus resultados y asumir nuevos objetivos verificables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0259",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Gestión pública del agua con tarifas progresivas, reutilización y ahorro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0260",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Transición hidrológica justa que adapte el regadío a la disponibilidad de agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0261",
+  "subtema": "agua",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Frenar la contaminación del agua por nitratos con datos de calidad transparentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0262",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Medidas contra la contaminación del agua por fertilizantes sintéticos y purines",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0263",
+  "subtema": "agua",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Restaurar ríos y bosques de ribera para mejorar la recarga de los acuíferos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0264",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Declarar la Albufera, Tabarca y las Columbretes Reserva de la Biosfera de la UNESCO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0265",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Garantizar los caudales ambientales de la Albufera y los ríos valencianos en el Júcar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0266",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Proteger en la Ley del Suelo la Huerta de València y los regadíos históricos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0267",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Recuperar vías pecuarias y cauces fluviales como corredores ecológicos e itinerarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0268",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Fondo estatal que remunere a los municipios rurales por sus servicios ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0269",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aprobar y financiar el Plan Nacional de Restauración exigido por la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0270",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Plan contra la regresión de la costa valenciana con soluciones basadas en la naturaleza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0271",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Ninguna gran obra litoral sin alternativa cero ni evaluación del nivel del mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0272",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Revertir la reforma de la Ley de Costas de 2013 que alargó las concesiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0273",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Proteger las praderas de posidonia y el 30 % del Mediterráneo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0274",
+  "subtema": "naturaleza",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Principio de Ocupación Neta Cero de suelo natural y agrario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0275",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reformar la Ley de Evaluación Ambiental para prohibir trocear proyectos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0276",
+  "subtema": "clima",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Programa de adaptación climática urbana con un 30 % de cobertura arbórea en 2040",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0277",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Confort climático como derecho y refugios climáticos a menos de 10 minutos a pie",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0278",
+  "subtema": "clima",
+  "otros": [
+   "edu-escuela",
+   "fam-mayores"
+  ],
+  "titular": "Estándares de confort térmico en escuelas y residencias y bioclimatizar 28.000 centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0279",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ningún nuevo desarrollo residencial sin servicios básicos a menos de 15 minutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0280",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Fondo estatal de regeneración urbana de barrios degradados con garantías antiespeculativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0281",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "fam-discapacidad",
+   "fam-mayores"
+  ],
+  "titular": "Auditoría de accesibilidad y financiación de ascensores y rampas en edificios residenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "compromis-0282",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "infra-carreteras"
+  ],
+  "titular": "Financiar la peatonalización, entornos escolares seguros y carriles bici urbanos",
+  "ejes": [],
+  "nota": ""
+ }
+]

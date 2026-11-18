@@ -1,0 +1,2391 @@
+[
+ {
+  "id": "vox-0080",
+  "subtema": "seg-defensa",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Fuerzas Armadas profesionales y Cuerpos de Seguridad con todos los recursos necesarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0081",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Reducir la edad de responsabilidad penal del menor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0082",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Ampliar la prisión permanente revisable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0083",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Directores de Guardia Civil y Policía con experiencia, no políticos de partido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0084",
+  "subtema": "seg-defensa",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Dotar de medios a Fuerzas Armadas, CNI, Guardia Civil, Policía y prisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0085",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Equiparación salarial y profesión de riesgo para Guardia Civil y Policía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0086",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Equiparación salarial y profesión de riesgo para funcionarios de prisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0087",
+  "subtema": "seg-penal",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Combate total al narcotráfico y restablecer el OCON Sur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0088",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Protección de las mujeres frente a la violencia y las agresiones sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0089",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Protección permanente de las fronteras con participación de las Fuerzas Armadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0090",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Aumentar la inversión en Defensa y reconocer la profesión militar de riesgo",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "aumentar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0091",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Reforzar el Sistema Nacional de Protección Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0092",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Reforzar la ciberseguridad y la protección de infraestructuras críticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0093",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Defender la soberanía ante injerencias extranjeras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0094",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Presión internacional para recuperar la soberanía sobre Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0095",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "edu-infantil",
+   "trab-pensiones"
+  ],
+  "titular": "Plan nacional de natalidad: beneficios de familia numerosa desde el primer hijo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0096",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-mayores",
+   "fam-discapacidad"
+  ],
+  "titular": "Reforzar el presupuesto en dependencia, residencias y atención a la soledad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0097",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Eliminar trabas para que las ayudas a la dependencia lleguen rápido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0098",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Proteger a los menores de riesgos digitales como el juego o la pornografía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0099",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Defensa de la vida desde la concepción y objeción de conciencia sanitaria",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "restringir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0100",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Combatir la brecha maternal y reforzar los derechos de conciliación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0101",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Que los jueces elijan a los doce vocales judiciales del CGPJ",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "jueces"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "vox-0102",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Liberar el Tribunal Constitucional de las manos de los políticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0103",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Reforma integral de la justicia y más inversión en sedes y profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0104",
+  "subtema": "seg-penal",
+  "otros": [
+   "seg-independencia-judicial",
+   "inst-territorial"
+  ],
+  "titular": "Recuperar la sedición e ilegalizar partidos que atenten contra la unidad",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Ilegalizar partidos que atenten contra la unidad de España? → sí"
+ },
+ {
+  "id": "vox-0105",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger la identidad, tradiciones y costumbres de España",
+  "ejes": [],
+  "nota": "SIN ENCAJE: identidad nacional, tradiciones y símbolos de España"
+ },
+ {
+  "id": "vox-0106",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Agravar las penas por ofensas y ultrajes a España y sus símbolos",
+  "ejes": [],
+  "nota": "SIN ENCAJE: identidad nacional, tradiciones y símbolos de España"
+ },
+ {
+  "id": "vox-0107",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Más medios a juzgados y unidades policiales contra la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0108",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Auditoría integral de las Administraciones y responsabilidad patrimonial de corruptos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0109",
+  "subtema": "inst-administracion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Auditar el patrimonio inmobiliario del Estado y plan nacional de rehabilitación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0110",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Ley contra el enaltecimiento del terrorismo e imprescriptibilidad de sus delitos",
+  "ejes": [],
+  "nota": "SIN ENCAJE: víctimas del terrorismo"
+ },
+ {
+  "id": "vox-0111",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Limpiar RTVE de comisarios políticos y reformarla integralmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0112",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Garantizar la libertad de expresión de todos los españoles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0113",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Plan nacional de infraestructuras con más inversión en carreteras, tren y puertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0114",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Priorizar la seguridad ferroviaria, Cercanías y Media Distancia, y auditar la red",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0115",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Concluir las obras contra las inundaciones y conservar cauces y barrancos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "vox-0116",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Plan Nacional del Agua con interconexión de todas las cuencas",
+  "ejes": [
+   {
+    "eje": "eje-agua",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: elecciones como encrucijada y ampliar la democracia frente a la ola reaccionaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación de seis grandes transformaciones para la mayoría social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0003",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "vivienda-publica",
+   "vivienda-alquiler"
+  ],
+  "titular": "Blindar el artículo 47, 1,5 millones de viviendas públicas y topar rentas",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0004",
+  "subtema": "trab-jornada",
+  "otros": [
+   "trab-salarios",
+   "trab-pensiones"
+  ],
+  "titular": "Jornada de 32 horas y SMI del 60 % del salario medio",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   },
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0005",
+  "subtema": "san-modelo",
+  "otros": [
+   "fam-natalidad",
+   "edu-escuela"
+  ],
+  "titular": "Sanidad pública con el 8 % del PIB y educación con el 7 %",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0006",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-sociedades",
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Reforma fiscal: mínimo del 20 % en Sociedades e impuesto a los ultrarricos",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   },
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   },
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0007",
+  "subtema": "clima",
+  "otros": [
+   "ener-modelo",
+   "eco-industria"
+  ],
+  "titular": "Invertir el 3,5 % del PIB anual en una transición ecológica justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0008",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-constitucion",
+   "ext-cooperacion"
+  ],
+  "titular": "Avanzar hacia una República Federal y Plurinacional y cooperación del 0,7 %",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   },
+   {
+    "eje": "eje-jefatura",
+    "posicion": "republica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0009",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Invitación a leer y hacer propio un programa elaborado colectivamente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0010",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Plan Estatal de parque público y asequible de vivienda en alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0011",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Destinar el 1 % del PIB anual (17.000 M€) al parque público de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0012",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Incorporar 1,5 millones de viviendas públicas en 12 años, alquiler máximo 600 €",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0013",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Impedir que ninguna vivienda protegida pase al mercado libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0014",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Expropiación progresiva del stock inmobiliario de grandes tenedores corporativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0015",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Expropiar viviendas a propietarios corporativos por fases, de 1.000 a 50 inmuebles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0016",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Reserva obligatoria del 90 % del suelo para vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0017",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Reformar la Ley del Suelo: 90 % de edificabilidad residencial para vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0018",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Expropiar o revertir a no urbanizable el suelo residencial inactivo 2 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0019",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Vivienda cooperativa en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0020",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Línea del ICO para promover vivienda cooperativa en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0021",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ceder suelo y edificios públicos a cooperativas sin ánimo de lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0022",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Reconocer por ley a los proveedores sociales de vivienda sin ánimo de lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0023",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ayudas a la vivienda cooperativa en cesión de uso para hogares con menos recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0024",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Reconocer y proteger la covivienda rural en cooperativas en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0025",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir la compra especulativa a personas jurídicas y bancos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0026",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir comprar vivienda salvo para residencia habitual o alquiler asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0027",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Obligación legal de uso habitual y derecho de tanteo y retracto estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0028",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Derecho de tanteo y retracto de Casa 47 sobre grandes operaciones inmobiliarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0029",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Erradicar pisos turísticos y alquileres de temporada fraudulentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0030",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Extinguir las licencias de pisos turísticos en zonas tensionadas en 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0031",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Gravar los pisos turísticos con IVA del 21 % y recargo de IBI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0032",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Obligar a las plataformas a retirar anuncios turísticos no registrados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0033",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Considerar turísticos los alquileres de 30 días o menos y equiparar los de temporada",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0034",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Crear la Agencia Estatal de la Vivienda y el Registro Estatal de Arrendamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0035",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Agencia Estatal de la Vivienda con multas de hasta 1.000.000 €",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0036",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Registro Estatal de Arrendamientos obligatorio y en tiempo real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0037",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Fondos a ayuntamientos y comunidades para inspeccionar pisos turísticos y expropiar suelo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0038",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reconocer los sindicatos de inquilinas y regular la huelga de alquileres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0039",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reconocer a los Sindicatos de Inquilinas para negociar convenios de arrendamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0040",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Regular la huelga de alquileres con consignación judicial de la renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0041",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Carta Estatal de Derechos de las Personas Inquilinas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0042",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Comisión de investigación parlamentaria sobre la gestión de la SAREB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0043",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Comisión de investigación para auditar la SAREB desde 2012",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0044",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Tope del alquiler vinculado al 25 % de la renta del barrio",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0045",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Limitar por ley el alquiler en zonas tensionadas al 25 % de la renta",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0046",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Rebaja adicional del alquiler del 30 % en municipios de más de 200.000 habitantes",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0047",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Nueva figura contractual para alquilar viviendas a servicios de carácter social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0048",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Garantía pública de arrendamiento a propietarios a cambio de alquiler asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0049",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Declaración automática y subsidiaria estatal de zonas tensionadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0050",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Declarar automáticamente zonas tensionadas, con actuación subsidiaria del Ministerio",
+  "ejes": [
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "mantener-ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0051",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Contrato de alquiler indefinido como régimen por defecto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0052",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Alquiler indefinido por defecto y prórrogas automáticas de 5 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0053",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Prohibir algoritmos inmobiliarios y software de fijación de rentas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0054",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Prohibir algoritmos de IA que fijen precios del alquiler, con multas del 10 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0055",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Auditar los algoritmos de los portales inmobiliarios y reforzar la CNMC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0056",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Erradicar los desahucios sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0057",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir por ley desahucios de personas vulnerables sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0058",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Obligar a grandes tenedores a ofrecer alquiler social de 7 años antes de demandar",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0059",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Escudo hipotecario e impuesto negativo para hogares ahogados por la subida de tipos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0060",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Impuesto negativo de hasta 300 € al mes para hogares hipotecados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0061",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Regular la dación en pago ante impagos hipotecarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0062",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Hipoteca pública a tipo fijo de oferta obligatoria en todos los bancos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0063",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Eliminar de oficio cláusulas abusivas como IRPH o cláusulas suelo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0064",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Portabilidad real de hipotecas y refuerzo del código de buenas prácticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0065",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "El Estado asumirá vivienda e hipoteca para evitar desahucios de primera vivienda",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0066",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Rehabilitar energéticamente 2,5 millones de viviendas vulnerables en 10 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0067",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Oficinas de proximidad y ventanilla única de financiación de la rehabilitación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0068",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Recuperar normas mínimas de eficiencia energética en compra y alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0069",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Edificios nuevos de consumo casi nulo y sin calderas fósiles desde 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0070",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Unificar el Registro Digital del Edificio y el Pasaporte de Rehabilitación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0071",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Prohibir edificar en zonas inundables y en los primeros 500 metros del litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0072",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Urbanismo de proximidad y modelo de la ciudad de los 15 minutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0073",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Prohibir promociones sin equipamientos esenciales a menos de 15 minutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0074",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Movilidad y accesibilidad universal en el parque residencial público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0075",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Abono de transporte gratuito para residentes en vivienda pública estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0076",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Auditoría de accesibilidad de edificios para financiar ascensores y rampas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0077",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Contribución empresarial para financiar vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0078",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Contribución del 0,45 % de la masa salarial para financiar vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0079",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Suprimir el régimen fiscal especial de las SOCIMI y las EDAV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0080",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Derogar el régimen fiscal de SOCIMI y EDAV y gravarlas en Sociedades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0081",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Fiscalidad progresiva de la propiedad, IBI penalizador y ventajas a cooperativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0082",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IBI progresivo que penalice a grandes tenedores y viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0083",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto del 10 % sobre pisos de empresas y de particulares desde el cuarto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0084",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IVA del 4 % para construir y rehabilitar vivienda social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0085",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Tipo cero en Sociedades para cooperativas de vivienda en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0086",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Revisar el régimen fiscal de las cooperativas en cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0087",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto penalizador a la compra no residencial y subida progresiva del ITP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0088",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Recargo del 100 % a compras de vivienda no destinadas a uso habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0089",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Exención del ITP en la primera vivienda y recargos desde la segunda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0090",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Estructura y fuentes de financiación del Plan de Vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0091",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Inversión pública del 1 % del PIB anual para el paquete de vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0092",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Reforma constitucional para que la vivienda sea un derecho fundamental exigible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0093",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Convertir la vivienda en derecho fundamental con exigibilidad ante los tribunales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0094",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "vivienda-okupacion-desahucios",
+   "vivienda-publica"
+  ],
+  "titular": "Consagrar la función social de la propiedad y blindar el parque público",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0095",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Diagnóstico: el 33,2 % de los menores en riesgo de pobreza o exclusión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0096",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Prestación Universal por Crianza de 200 € al mes por menor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0097",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Implantar la prestación por crianza en 3 fases durante la legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0098",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Escudo social, comedor escolar gratuito y nutrición sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0099",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Prohibir por ley el corte de luz, agua y gas en hogares vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0100",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Asignar de oficio el bono social eléctrico y térmico según renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0101",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Extender tarifas sociales de agua e internet asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0102",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Elevar el IPREM hasta 700 € y actualizarlo cada año con el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0103",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Desarrollar la Ley de Atención a la Clientela y reforzar la inspección de consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0104",
+  "subtema": "edu-becas",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Comedor escolar gratuito y universal en Infantil y Primaria pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0105",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Extraescolares gratuitas y cuidado profesional a domicilio (Plan Corresponsables)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0106",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Conceder el IMV de oficio y elevarlo al 60 % de la renta mediana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0107",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Extender el IMV a jóvenes de 18 a 30 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0108",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Traspasar la gestión del IMV a las comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0109",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Calcular el IMV con ingresos recientes para atender la pobreza sobrevenida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0110",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Burocracia cero: principio de una sola vez y atención presencial obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0111",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Cuenta de pago básica gratuita para personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0112",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Sistema de atención a la dependencia y modelo de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0113",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Elevar la inversión en dependencia al 1,7 % del PIB en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0114",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Desplegar la Ley 4/2026 hacia un modelo público de cuidados de larga duración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0115",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Vincular los fondos de dependencia a objetivos y eliminar los copagos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0116",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Duplicar la ayuda a domicilio y reconocer por ley el derecho al respiro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0117",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Más plantillas y salarios en cuidados y apoyo a cuidadoras no profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0118",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Prestaciones a cuidadoras principales tras fallecer la persona dependiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0119",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Estudiar incluir a las trabajadoras del hogar en el sistema de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0120",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Marco legislativo de cuidados y sistema de rentas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0121",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Aprobar la Ley de Familias, la Ley de Cuidados y el Pacto de Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0122",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Elevar el IMV y las pensiones mínimas al umbral de la pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0123",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar permisos por cuidado, nacimiento, adopción y fallecimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0124",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Retribuir al 100 % el permiso parental de 10 semanas hasta los 12 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0125",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar el permiso por nacimiento a 20 semanas por progenitor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0126",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permitir a familias monoparentales transferir semanas de permiso a su entorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0127",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Ampliar los permisos retribuidos para cuidar a familiares y dependientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0128",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Ampliar el permiso por fallecimiento de familiares de 2 a 10 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0129",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Permisos para acompañar en cuidados paliativos y en la ayuda para morir",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0130",
+  "subtema": "edu-infantil",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Universalizar la educación de 0 a 3 años con plazas públicas gratuitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0131",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Reducir ratios en 0-3 años a 4, 6 y 8 niños por profesor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0132",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Servicios de conciliación gratuitos y un 20 % más para el Plan Corresponsables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0133",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Plan Estratégico Estatal para los servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0134",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Aumentar la financiación estatal de los servicios sociales comunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0135",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ley de Profesiones de los Servicios Sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0136",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Redes de acompañamiento psicosocial comunitario para prevenir problemas de salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0137",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Más fondos para profesionales de apoyo en la educación inclusiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0138",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Desarrollar la Ley 4/2026 de derechos de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0139",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Financiación, gobernanza y gestión de la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0140",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Blindar el 8 % del PIB para la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0141",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Destinar el 25 % del presupuesto sanitario a Atención Primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0142",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Ley de Gestión Pública del SNS y derogar la Ley 15/1997",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0143",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Revisar contratos privatizados e internalizar servicios sanitarios",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0144",
+  "subtema": "san-modelo",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Blindar la sanidad universal sin importar el estatus administrativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0145",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Reforzar la inversión en nuevas tecnologías sanitarias con fondos finalistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0146",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Reforzar la Alta Inspección y publicar costes, plantillas y tiempos de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0147",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Crear un Observatorio y una Agencia de Calidad y Evaluación del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0148",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Integrar MUFACE, MUGEJU e ISFAS en el Sistema Nacional de Salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0149",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Actualizar los fondos FOGA y FCS y liquidar la asistencia a turistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0150",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ampliación de la cartera de servicios y prestaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0151",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ampliar la cobertura bucodental al menos al 50 % de la población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0152",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Gafas y lentillas gratuitas para toda la población (Plan Veo)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0153",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incluir los audífonos en la cartera común de servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0154",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Crear un banco público de prótesis y órtesis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0155",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Preservativos gratuitos para jóvenes y copas menstruales gratuitas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0156",
+  "subtema": "san-modelo",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ampliar especialidades médicas en hospitales rurales y consultas fuera del hospital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0157",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Más recursos para Atención Primaria según los determinantes sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0158",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Fondo para salud mental comunitaria y 10 profesionales por 100.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0159",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Modelo comunitario y estrategia «Cero Contenciones» en salud mental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0160",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Permiso laboral para acompañar a personas en riesgo de suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0161",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Prescribir actividades culturales desde Atención Primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0162",
+  "subtema": "igu-vida",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Incluir el derecho al aborto en el artículo 43 de la Constitución",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0163",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Garantizar la IVE en centros públicos de todas las comunidades",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0164",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Ley Integral de Salud Obstétrica y tipificar la violencia obstétrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0165",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Ampliar la protección por duelo perinatal e inscribir la pérdida gestacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0166",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-farmacia"
+  ],
+  "titular": "Atención integral a la menopausia como derecho y control de precios de medicamentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0167",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Valoración de la fertilidad en el SNS y más recursos para reproducción asistida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0168",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Bancos públicos de óvulos y debate bioético sobre reproducción asistida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0169",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Real Decreto de listas de espera que prohíba las listas paralelas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0170",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Renovar la tecnología diagnóstica de hospitales públicos para acelerar diagnósticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0171",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una industria farmacéutica 100 % pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0172",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Ley de Medicamentos para acelerar el acceso a fármacos innovadores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0173",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Cláusulas de acceso justo y fondo para medicamentos huérfanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0174",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Independencia de la sanidad respecto a las multinacionales farmacéuticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0175",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reclasificación profesional inmediata de las profesiones sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0176",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Librar la mañana del día de guardia de 24 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0177",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reformar la Ley de Ordenación de las Profesiones Sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0178",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Aumentar las plazas de formación sanitaria especializada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0179",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Crear nuevas especialidades sanitarias como Enfermedades Infecciosas o Genética Médica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0180",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Control exclusivo de altas y bajas médicas por médicos del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0181",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Prohibir fumar en terrazas y playas y empaquetado genérico del tabaco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0182",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Impuestos a refrescos azucarados, bebidas energéticas, tabaco y ultraprocesados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0183",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Regular la publicidad de ultraprocesados y alcohol dirigida a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0184",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Desplegar la Agencia de Salud Pública estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0185",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Reforzar la red de centros de tratamiento de adicciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0186",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Derechos de pacientes y Ley Celíaca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0187",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Ley de Organizaciones de Pacientes para participar en el SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0188",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley Celíaca con ayudas para comprar alimentos sin gluten",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0189",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Financiación y modelo de una educación pública",
+  "ejes": [],
+  "nota": "SIN ENCAJE: financiación y modelo general de la educación"
+ },
+ {
+  "id": "fa-0190",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ley de Financiación Educativa con el 7 % del PIB en 2030",
+  "ejes": [],
+  "nota": "SIN ENCAJE: financiación y modelo general de la educación"
+ },
+ {
+  "id": "fa-0191",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Prohibir cuotas en la concertada y destinar los fondos públicos a la pública",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener la financiación pública de la escuela concertada? → no, todos los fondos a la pública"
+ },
+ {
+  "id": "fa-0192",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-infantil"
+  ],
+  "titular": "Fijar por ley ratios máximas: 15 en Primaria, 20 en Secundaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0193",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Plan estatal de inclusión y contra la segregación escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0194",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Plan estatal para alumnado con trastornos del neurodesarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0195",
+  "subtema": "edu-escuela",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Unidades de salud mental en centros educativos y planes contra el acoso escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0196",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Garantizar la inmersión en catalán y un plan estatal de lenguas cooficiales",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0197",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar en el currículo los valores democráticos, igualdad y memoria democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0198",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Estudio pedagógico para regular la IA y limitar los móviles en los centros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0199",
+  "subtema": "edu-escuela",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Plan estatal de infraestructuras y climatización de aulas y escuela rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0200",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Elevar las becas al 0,44 % del PIB y crear becas-salario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0201",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Duplicar las becas en etapas obligatorias para alumnado de familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0202",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Aumentar un 60 % las becas para alumnado NEAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0203",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Gratuidad de comedor, transporte escolar y material didáctico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0204",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Máximo de 18 horas lectivas en Secundaria y 23 en Infantil y Primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0205",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Plan Estatal de Desburocratización Docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0206",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Aprobar el Estatuto del Docente y reducir la interinidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0207",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Que las comunidades destinen el 1 % de su PIB a universidades públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0208",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Ampliar plazas públicas de grado y máster y reducir sus precios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0209",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Exigir a las universidades privadas los mismos requisitos que a la pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0210",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Abrir centros presenciales y residencias asequibles de la UNED",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0211",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Financiación universitaria plurianual y precios hacia la gratuidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0212",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Más ayudas FPI y FPU y recuperar las ayudas Margarita Salas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0213",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reformar la ANECA como organismo de calidad y no filtro de acceso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0214",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Eliminar la figura de profesor sustituto y estabilizar los contratos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0215",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Financiación y modernización del sector público cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0216",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Garantizar por ley al menos el 0,2 % del PIB para cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0217",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ley del Sistema Público de la Cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0218",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aprobar la Ley del Cine y de la Cultura Audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0219",
+  "subtema": "cultura",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Ley de Archivos y cumplimiento íntegro de la Ley de Memoria Democrática",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0220",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Nueva Ley de Patrimonio Cultural contra el expolio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0221",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Derogar la ley que protege la tauromaquia como patrimonio cultural",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Proteger la tauromaquia como patrimonio cultural? → no, derogar la Ley 18/2013"
+ },
+ {
+  "id": "fa-0222",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ampliar el plan de equipamientos culturales para corregir desequilibrios territoriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0223",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Desplegar el Estatuto del Artista en fiscalidad y Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0224",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Renovar equipamientos culturales del Estado y reforzar plantillas de Cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0225",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Más ayudas a la creación artística y red de residencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0226",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ayudas a asociaciones y sindicatos del sector cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0227",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Impulsar la economía social en la cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0228",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cumplir el Plan de Derechos Culturales en su fase 2027-2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0229",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Apoyo a proyectos culturales con impacto social y en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0230",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Integrar la cultura en las políticas educativas, sanitarias y penitenciarias",
+  "ejes": [],
+  "nota": ""
+ }
+]

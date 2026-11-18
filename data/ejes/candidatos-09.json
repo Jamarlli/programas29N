@@ -1,0 +1,1276 @@
+[
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   }
+  ],
+  "n": 20,
+  "palabras": 1334,
+  "candidatos": [
+   {
+    "id": "salf-0018",
+    "partido": "salf",
+    "titular": "Nadie pagará IRPF por los primeros 35.000 euros",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "3. **Impuestos** — Nadie paga IRPF por los primeros 35.000 euros."
+   },
+   {
+    "id": "salf-0023",
+    "partido": "salf",
+    "titular": "Cuña fiscal al 29 %, contrato único y cuota cero de autónomos",
+    "marca_actual": [],
+    "texto": "8. **Empleo** — Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos."
+   },
+   {
+    "id": "salf-0047",
+    "partido": "salf",
+    "titular": "Mínimo exento de IRPF de 50.000 euros diez años tras la mili",
+    "marca_actual": [],
+    "texto": "8. **La mili: quien sirve a España paga menos impuestos.** Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. _Coste: ≈ 250 M€/año con 30.000 plazas anuales._\n - **50.000 €** libres de IRPF durante diez años para quien haga la mili"
+   },
+   {
+    "id": "salf-0055",
+    "partido": "salf",
+    "titular": "Libertad económica: nadie paga IRPF por los primeros 35.000 euros",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "**Libertad económica, sin dejar a nadie atrás. Nadie paga IRPF por los primeros 35.000 euros.**\n\n**20 de agosto** Día de la Liberación Fiscal: hasta entonces trabajas para el Estado\n\n**58 €** solo 58 de cada 100 € que te quitan en impuestos llegan a tu bolsillo\n\n**+10 %** de IRPF recaudado en 2025 sin subir un solo tipo"
+   },
+   {
+    "id": "salf-0056",
+    "partido": "salf",
+    "titular": "Mínimo exento de IRPF de 35.000 euros para todos en 2030",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "1. **35.000 euros libres de IRPF para todos.** Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030. _Coste: ≈ 43.000 M€/año en 2030. Ver 'Cómo se paga'._\n - **+4.400 €** al año para un sueldo de 28.000 €"
+   },
+   {
+    "id": "salf-0057",
+    "partido": "salf",
+    "titular": "Sumar 5.000 euros al mínimo exento por cada hijo y progenitor",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "2. **5.000 euros más por cada hijo, para el padre y para la madre.** Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno. El Estado que cobra por tener hijos no puede hablar de natalidad. _Coste: ≈ 5.500 M€/año._\n - **+5.000 €** por hijo, para cada progenitor"
+   },
+   {
+    "id": "salf-0058",
+    "partido": "salf",
+    "titular": "Actualizar cada año con el IPC la tarifa, mínimos y deducciones del IRPF",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "3. **Fin de la subida de impuestos por inflación.** Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley. La recaudación subió un 10 % en 2025 sin tocar un tipo: eso es una subida encubierta y se acaba.\n - **3.000M€** al año que hoy te quitan sin votarlo"
+   },
+   {
+    "id": "salf-0064",
+    "partido": "salf",
+    "titular": "Carga de la prueba para Hacienda y renta en una página",
+    "marca_actual": [],
+    "texto": "9. **Hacienda demuestra. Tú no pruebas tu inocencia.** Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.\n - **30 días** para liquidar"
+   },
+   {
+    "id": "salf-0065",
+    "partido": "salf",
+    "titular": "Exigir tres quintos del Congreso para subir impuestos y factura fiscal anual",
+    "marca_actual": [],
+    "texto": "10. **Tres quintos para subir impuestos. Y tu factura fiscal cada año.** Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.\n - **42 €** de cada 100 que cuestas se queda el Estado"
+   },
+   {
+    "id": "salf-0067",
+    "partido": "salf",
+    "titular": "Techo constitucional a la presión fiscal y a la deuda, con delito por superarlo",
+    "marca_actual": [],
+    "texto": "12. **Encadenar a los políticos: techo constitucional a los impuestos y a la deuda.** Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.\n - **Delito** superar el techo de impuestos y deuda"
+   },
+   {
+    "id": "salf-0071",
+    "partido": "salf",
+    "titular": "Lema contra que el Estado se quede más de la mitad del dinero",
+    "marca_actual": [],
+    "texto": "> **«Se acabó que vagos y parásitos te roben más de la mitad de tu dinero»**"
+   },
+   {
+    "id": "salf-0131",
+    "partido": "salf",
+    "titular": "Bajar la cuña fiscal al 29 % y cotización cero en el salario mínimo",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "1. **Cuña fiscal del 41 al 29 %.** Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. _Coste: ≈ 2.600 M€/año._\n - **+80 €** netos al mes en el salario mínimo"
+   },
+   {
+    "id": "salf-0159",
+    "partido": "salf",
+    "titular": "Ceuta y Melilla plaza franca: 0 % de IRPF, Sociedades y cotizaciones",
+    "marca_actual": [],
+    "texto": "5. **Ceuta y Melilla, plaza franca: 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones. Para siempre.** Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. _Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 de cotizaciones): menos de lo que España regala en ayuda exterior en un mes._\n - **0 %** IRPF, Sociedades y cotizaciones en Ceuta y Melilla"
+   },
+   {
+    "id": "salf-0160",
+    "partido": "salf",
+    "titular": "Deducción de 1.000 euros de IRPF para residentes en Canarias",
+    "marca_actual": [],
+    "texto": "6. **Canarias: 1.000 euros menos de IRPF por vivir en las islas. Y la ZEC al 0 %.** Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios. Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas. Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas. La distancia a la Península no puede ser también una factura fiscal. _Coste: ≈ 880 M€/año (870 de IRPF, 11 de la ZEC)._\n - **−1.000 €** de IRPF al año por residir en Canarias"
+   },
+   {
+    "id": "salf-0162",
+    "partido": "salf",
+    "titular": "Duplicar el plus de residencia en Canarias, Ceuta y Melilla, exento de IRPF",
+    "marca_actual": [],
+    "texto": "8. **Quien defiende Canarias, Ceuta y Melilla cobra el doble de plus de residencia, libre de IRPF.** La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. _Coste: ≈ 150 M€/año._\n - **×2** plus de residencia, libre de IRPF"
+   },
+   {
+    "id": "mundo-0073",
+    "partido": "mundo",
+    "titular": "Un sistema fiscal progresivo en el que contribuya más quien más tiene",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo\n\n_Los impuestos son el precio de vivir en una sociedad que cuida de todas las personas. Hoy no paga más quien más tiene: las rentas del capital tributan menos que las del trabajo y las grandes fortunas encuentran mil vías para eludir. Proponemos un sistema progresivo de verdad, que persiga el fraude y los paraísos fiscales y garantice que quien más tiene contribuya en proporción._"
+   },
+   {
+    "id": "mundo-0074",
+    "partido": "mundo",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+   },
+   {
+    "id": "mundo-0077",
+    "partido": "mundo",
+    "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+    "marca_actual": [],
+    "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+   },
+   {
+    "id": "mundo-0078",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+   },
+   {
+    "id": "mundo-0081",
+    "partido": "mundo",
+    "titular": "Converger la presión fiscal (37,1 % del PIB) con la zona euro en 2030",
+    "marca_actual": [],
+    "texto": "- **Presión fiscal** — 37,1 % del PIB (Eurostat · 2024) — Meta: Converger con la media de la zona euro, con más progresividad — Plazo: 2030"
+   }
+  ]
+ },
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 15,
+  "palabras": 964,
+  "candidatos": [
+   {
+    "id": "salf-0034",
+    "partido": "salf",
+    "titular": "Aval público del 20 % de la entrada para menores de 40 años",
+    "marca_actual": [],
+    "texto": "7. **Hipoteca joven: el Estado avala tu entrada.** Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal. _Garantía de 2.000 M€; no es gasto._\n - **20 %** de entrada avalada"
+   },
+   {
+    "id": "salf-0037",
+    "partido": "salf",
+    "titular": "Eliminar por completo el IBI para todos, sin compensaciones",
+    "marca_actual": [],
+    "texto": "10. **Eliminación total del IBI.** El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto. Un tributo aberrante no se parchea, se quita. _Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos._\n - **0 €** de IBI, para todos"
+   },
+   {
+    "id": "salf-0061",
+    "partido": "salf",
+    "titular": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "6. **Sucesiones, Donaciones y Patrimonio: suprimidos.** Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. _Coste: ≈ 3.500 M€/año._\n - **0 %** no se paga dos veces por el mismo euro"
+   },
+   {
+    "id": "salf-0063",
+    "partido": "salf",
+    "titular": "Regla de oro: cada rebaja con ahorro certificado y déficit cero en 2030",
+    "marca_actual": [],
+    "texto": "8. **Regla de oro: un euro de rebaja, un euro de ahorro certificado.** Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.\n - **38 %** del PIB en impuestos: récord histórico"
+   },
+   {
+    "id": "salf-0072",
+    "partido": "salf",
+    "titular": "Cómo se paga: 88.500 M€ de ahorro frente a 81.700 de rebaja",
+    "marca_actual": [],
+    "texto": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos **81.700 millones** de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: **88.500 millones** , incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.\n\n|Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)|**57.000**|\n|---|---|\n|Entes, empresas y fundaciones públicas sin función|**3.000**|\n|Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes|**3.000**|\n|Contratación pública 100 % electrónica y competitiva|**5.000**|\n|Supresión de las diputaciones provinciales|**1.500**|\n|Inmigración: expulsiones efectivas y fin de regularizaciones|**1.000**|\n|Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores|**500**|\n|Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes|**300**|\n|Efectos dinámicos: más empleo, más consumo, menos economía sumergida|**8.000**|\n|Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)|**4.500**|\n|Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)|**4.700**|\n|**TOTAL (millones de euros al año)**|**88.500**|\n|**AHORRO + INGRESOS**|**88.500 M€**|\n|**REBAJA + GASTO**|**81.700 M€**|\n|**A REDUCIR DEUDA**|**6.800 M€**|"
+   },
+   {
+    "id": "salf-0073",
+    "partido": "salf",
+    "titular": "Regla de oro: un euro de rebaja, un euro de ahorro certificado",
+    "marca_actual": [],
+    "texto": "**Regla de oro.** Un euro de rebaja, un euro de ahorro certificado. Los demás prometen bajar impuestos y suben la deuda; nosotros bajamos impuestos porque antes hemos cerrado el grifo."
+   },
+   {
+    "id": "salf-0099",
+    "partido": "salf",
+    "titular": "Una única central de compras sanitarias con ahorro del 15 % para personal",
+    "marca_actual": [],
+    "texto": "1. **Una sola central de compras, no diecisiete.** El 40 % del gasto sanitario son compras: 41.000 millones. Diecisiete servicios compran lo mismo a precios distintos. Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.\n - **6.000 M€** de ahorro al año, para personal"
+   },
+   {
+    "id": "salf-0126",
+    "partido": "salf",
+    "titular": "Contratación pública electrónica con plataforma única y subasta inversa",
+    "marca_actual": [],
+    "texto": "13. **Contratación pública: todo electrónico, todo público.** Plataforma única, subasta inversa y precios de referencia en tiempo real. Toda emergencia auditada en 30 días y publicada íntegra en 24 horas con los beneficiarios reales.\n - **5.000M€** de ahorro al año"
+   },
+   {
+    "id": "mundo-0073",
+    "partido": "mundo",
+    "titular": "Un sistema fiscal progresivo en el que contribuya más quien más tiene",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo\n\n_Los impuestos son el precio de vivir en una sociedad que cuida de todas las personas. Hoy no paga más quien más tiene: las rentas del capital tributan menos que las del trabajo y las grandes fortunas encuentran mil vías para eludir. Proponemos un sistema progresivo de verdad, que persiga el fraude y los paraísos fiscales y garantice que quien más tiene contribuya en proporción._"
+   },
+   {
+    "id": "mundo-0074",
+    "partido": "mundo",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "1. **Impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social**, equiparando la tributación de las rentas del capital y del trabajo y aplicando los mismos criterios de progresividad, independientemente del origen de los ingresos, para garantizar una contribución más justa y equitativa."
+   },
+   {
+    "id": "mundo-0077",
+    "partido": "mundo",
+    "titular": "Reforzar Patrimonio, revisar la exención de la empresa familiar y mantener Grandes Fortunas",
+    "marca_actual": [],
+    "texto": "4. **Reforzar la progresividad del Impuesto sobre el Patrimonio y la tributación efectiva de las grandes fortunas**, mediante la revisión del límite conjunto del IRPF y del Impuesto sobre el Patrimonio y de las exenciones aplicables a la tenencia de acciones y participaciones empresariales, incluida la denominada «exención de la empresa familiar», para evitar mecanismos de elusión fiscal. Mantener el Impuesto de Solidaridad sobre las Grandes Fortunas como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas."
+   },
+   {
+    "id": "mundo-0078",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % sobre patrimonios de más de 50 millones",
+    "marca_actual": [],
+    "texto": "5. **Establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones de euros**, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman. Este gravamen se calculará sobre la totalidad del patrimonio, sin exenciones ni bonificaciones, y se aplicará únicamente cuando la tributación efectiva conjunta del IRPF y del Impuesto sobre el Patrimonio, en relación con el patrimonio neto del contribuyente, sea inferior al 3 %, hasta alcanzar dicho porcentaje."
+   },
+   {
+    "id": "mundo-0079",
+    "partido": "mundo",
+    "titular": "Gravar los beneficios extraordinarios y limitar al 90 % la exención por doble imposición",
+    "marca_actual": [],
+    "texto": "6. **Incrementar la contribución fiscal de las grandes empresas**, generalizando la tributación de los beneficios extraordinarios, tanto los derivados de circunstancias ajenas a su actividad como los obtenidos por posiciones dominantes en mercados con escasa competencia. Revisar los incentivos y deducciones fiscales, limitando al 90 % la exención por doble imposición, y reforzar el control sobre las SICAV y las ETVE para evitar su utilización como instrumentos de inversión especulativa."
+   },
+   {
+    "id": "mundo-0083",
+    "partido": "mundo",
+    "titular": "Tributación mínima del 3 % para patrimonios de más de 50 M€ (2027)",
+    "marca_actual": [],
+    "texto": "- **Grandes patrimonios (> 50 M€ netos)** — Medida nueva — Meta: Tributación efectiva mínima del 3 % — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0211",
+    "partido": "mundo",
+    "titular": "No aumentar el gasto militar y apoyar el «Dividendo para la paz mundial»",
+    "marca_actual": [],
+    "texto": "2. **No avanzar en la escalada armamentística incrementando el gasto militar** a nivel estatal y europeo y reorientar estas partidas a la atención de las necesidades básicas de la ciudadanía. Apoyar activamente la propuesta **“Dividendo para la paz mundial”** que propone reducir el gasto militar en un 2% en todos los países, lo que permitiría generar un ahorro de más de un trillón de dólares americanos (USD) en 5 años (2025-2030) para luchar contra las emergencias planetarias."
+   }
+  ]
+ },
+ {
+  "eje": "eje-defensa",
+  "pregunta": "¿Más gasto en defensa?",
+  "posiciones": [
+   {
+    "id": "aumentar",
+    "nombre": "Aumentarlo"
+   },
+   {
+    "id": "contener",
+    "nombre": "Contenerlo o priorizar la seguridad humana"
+   }
+  ],
+  "n": 11,
+  "palabras": 840,
+  "candidatos": [
+   {
+    "id": "salf-0045",
+    "partido": "salf",
+    "titular": "Plan Estrecho: la Armada contra el narco y 180 M€ en medios",
+    "marca_actual": [],
+    "texto": "6. **Plan Estrecho: la Armada contra el narco.** Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico. Cuatro guardias civiles muertos por narcolanchas desde 2024.\n - **180 M€** en medios; lo paga el decomiso"
+   },
+   {
+    "id": "salf-0046",
+    "partido": "salf",
+    "titular": "Mili voluntaria de seis a doce meses pagada con 1.600 euros al mes",
+    "marca_actual": [],
+    "texto": "7. **La mili voluntaria: 1.600 euros al mes.** De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar. _Coste: ≈ 1.200 M€/año._\n - **30.000** plazas al año"
+   },
+   {
+    "id": "salf-0047",
+    "partido": "salf",
+    "titular": "Mínimo exento de IRPF de 50.000 euros diez años tras la mili",
+    "marca_actual": [],
+    "texto": "8. **La mili: quien sirve a España paga menos impuestos.** Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. _Coste: ≈ 250 M€/año con 30.000 plazas anuales._\n - **50.000 €** libres de IRPF durante diez años para quien haga la mili"
+   },
+   {
+    "id": "salf-0161",
+    "partido": "salf",
+    "titular": "5.000 militares más en Ceuta y Melilla y defensa antiaérea y antidrón en Canarias",
+    "marca_actual": [],
+    "texto": "7. **Escudo del Estrecho y del Atlántico: 5.000 militares más en Ceuta y Melilla; antiaérea y antidrón en cada isla.** El 30 de julio de 2026 había 243 guardias civiles en Ceuta frente a 27.550 entradas en un solo día. Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote. Doctrina pública y escrita: toda agresión a Ceuta, Melilla o Canarias se responde con toda la fuerza del Estado. _Coste: ≈ 500 M€/año, dentro del 2 % del PIB de Defensa._\n - **+5.000** militares en Ceuta y Melilla; +1.000 guardias civiles"
+   },
+   {
+    "id": "salf-0162",
+    "partido": "salf",
+    "titular": "Duplicar el plus de residencia en Canarias, Ceuta y Melilla, exento de IRPF",
+    "marca_actual": [],
+    "texto": "8. **Quien defiende Canarias, Ceuta y Melilla cobra el doble de plus de residencia, libre de IRPF.** La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. _Coste: ≈ 150 M€/año._\n - **×2** plus de residencia, libre de IRPF"
+   },
+   {
+    "id": "salf-0166",
+    "partido": "salf",
+    "titular": "El 2 % de defensa, en industria nacional y en sueldos militares equiparados",
+    "marca_actual": [],
+    "texto": "12. **Defensa: el 2 % se gasta en España y en sus militares.** 33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos. Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito. _Coste: ≈ 1.200 M€/año en retribuciones, dentro del 2 % del PIB._\n - **1.300 €** netos cobra hoy un soldado; a los 45, a la calle con 600"
+   },
+   {
+    "id": "salf-0169",
+    "partido": "salf",
+    "titular": "Lema: la capacidad de defensa ante agresiones externas como prioridad",
+    "marca_actual": [],
+    "texto": "> **«La política más importante en España ante una partitocracia secuestrada por poderes extranjeros debe ser su capacidad de defensa ante tales agresiones externas»**"
+   },
+   {
+    "id": "mundo-0209",
+    "partido": "mundo",
+    "titular": "La diplomacia y el derecho internacional frente al rearme y la guerra",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Mundo y paz\n\n_En tiempos de escalada militar y discursos bélicos, donde el rearme se presenta como inevitable y la guerra vuelve a normalizarse como instrumento político,_\n\n_Elegimos la defensa de la vida y la seguridad integral por encima del negocio de las armas y del horror de la destrucción, porque la historia nos demuestra que la violencia engendra violencia y las armas no solucionan los problemas ni a corto ni a largo plazo._\n\n_En tiempos de imperialismos expansionistas y la ley del más fuerte, donde la imposición militar y económica pretende sustituir al derecho,_\n\n_Elegimos la diplomacia, la cooperación y el derecho internacional como herramientas de seguridad colectiva y desarrollo global, porque sólo desde la unión se puede construir un futuro para toda la humanidad y el planeta._"
+   },
+   {
+    "id": "mundo-0210",
+    "partido": "mundo",
+    "titular": "Transparencia y rendición de cuentas en los presupuestos de defensa",
+    "marca_actual": [],
+    "texto": "1. **Garantizar la transparencia y rendición de cuentas a la ciudadanía en lo relativo a los presupuestos de defensa**"
+   },
+   {
+    "id": "mundo-0211",
+    "partido": "mundo",
+    "titular": "No aumentar el gasto militar y apoyar el «Dividendo para la paz mundial»",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "2. **No avanzar en la escalada armamentística incrementando el gasto militar** a nivel estatal y europeo y reorientar estas partidas a la atención de las necesidades básicas de la ciudadanía. Apoyar activamente la propuesta **“Dividendo para la paz mundial”** que propone reducir el gasto militar en un 2% en todos los países, lo que permitiría generar un ahorro de más de un trillón de dólares americanos (USD) en 5 años (2025-2030) para luchar contra las emergencias planetarias."
+   },
+   {
+    "id": "mundo-0218",
+    "partido": "mundo",
+    "titular": "Reducir el gasto militar un 2 % anual en todos los países",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- **Gasto militar mundial («Dividendo para la paz»)** — España: 2,0 % del PIB (OTAN · 2025) — Meta: −2 % anual en todos los países — Plazo: 2026–2030"
+   }
+  ]
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "pregunta": "¿Qué ritmo para la transición climática?",
+  "posiciones": [
+   {
+    "id": "acelerar",
+    "nombre": "Mantener o acelerar los objetivos"
+   },
+   {
+    "id": "frenar",
+    "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  ],
+  "n": 11,
+  "palabras": 770,
+  "candidatos": [
+   {
+    "id": "salf-0001",
+    "partido": "salf",
+    "titular": "Diagnóstico: 22 ministerios, 823 altos cargos y 1.255 asesores en el Gobierno",
+    "marca_actual": [],
+    "texto": "**22** ministerios\n\n**3** vicepresidencias\n\n823 altos cargos y 1.255 asesores. El Gobierno más grande de Europa occidental: Alemania funciona con 16 ministerios; Italia, con 15; Países Bajos, con 12. España tenía 13 en 2018.\n\n| Presidente del Gobierno |\n|---|\n| Economía, Comercio y Empresa (VP 1.ª) |\n| Trabajo y Economía Social (VP 2.ª) |\n| Transición Ecológica y Reto Demográfico (VP 3.ª) |\n| Asuntos Exteriores, UE y Cooperación |\n| Presidencia, Justicia y Relaciones con las Cortes |\n| Defensa |\n| Hacienda |\n| Interior |\n| Transportes y Movilidad Sostenible |\n| Educación, FP y Deportes |\n| Trabajo y Economía Social |\n| Industria y Turismo |\n| Agricultura, Pesca y Alimentación |\n| Política Territorial y Memoria Democrática |\n| Transición Ecológica y Reto Demográfico |\n| Vivienda y Agenda Urbana |\n| Cultura |\n| Economía, Comercio y Empresa |\n| Sanidad |\n| Derechos Sociales, Consumo y Agenda 2030 |\n| Ciencia, Innovación y Universidades |\n| Igualdad |\n| Transformación Digital y Función Pública |\n| Juventud e Infancia |\n| Inclusión, Seguridad Social y Migraciones |"
+   },
+   {
+    "id": "salf-0156",
+    "partido": "salf",
+    "titular": "Vetar Mercosur, el recorte de la PAC y el Pacto Verde",
+    "marca_actual": [
+     "frenar"
+    ],
+    "texto": "2. **Veto a Mercosur, al recorte de la PAC y al Pacto Verde.** Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.\n - **−877 M€** al año para el campo español con el recorte de la PAC"
+   },
+   {
+    "id": "mundo-0170",
+    "partido": "mundo",
+    "titular": "La crisis climática como crisis de justicia: más esfuerzo para quien más contamina",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Planeta\n\n_Olas de calor, sequías, incendios e inundaciones ya forman parte de nuestra vida cotidiana, y golpean con más fuerza a quien menos tiene. La crisis climática es también una crisis de justicia: la causan sobre todo los países y las personas más ricas, y la sufren las más pobres. Por eso el mayor esfuerzo debe recaer en quien más contamina, y nadie debe quedarse atrás en la adaptación._"
+   },
+   {
+    "id": "mundo-0171",
+    "partido": "mundo",
+    "titular": "Respaldar el −55 % de emisiones en 2030 y la neutralidad en 2050",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "1. **Respaldar el compromiso de la Unión Europea de reducir al menos un 55% las emisiones de gases efecto invernadero para el año 2030 con respecto a 1990, así como el alcanzar la neutralidad de carbono en 2050.** Es necesario avanzar en políticas de mitigación ambiciosas, pero igualmente la creación de mecanismos de control que velen porque se conviertan en una realidad práctica. Aprobar una hoja de ruta sectorial con presupuestos de carbono anuales y un organismo independiente de verificación."
+   },
+   {
+    "id": "mundo-0172",
+    "partido": "mundo",
+    "titular": "Plan Estatal de Adaptación a la Emergencia Climática",
+    "marca_actual": [],
+    "texto": "2. **Impulsar un Plan Estatal de Adaptación a la Emergencia Climática.** Incrementar la inversión pública para reducir la vulnerabilidad frente a sequías, inundaciones, incendios y temperaturas extremas. Reforzar la coordinación entre comunidades autónomas y con los mecanismos europeos de protección civil, impulsando recursos compartidos y brigadas forestales desplegadas preventivamente en las zonas y temporadas de mayor riesgo. Priorizar la protección de las personas más vulnerables, especialmente mayores, infancia, personas con discapacidad, residentes en viviendas mal acondicionadas y trabajadores expuestos a condiciones climáticas extremas."
+   },
+   {
+    "id": "mundo-0173",
+    "partido": "mundo",
+    "titular": "Compromiso con el Fondo internacional de Pérdidas y Daños climáticos",
+    "marca_actual": [],
+    "texto": "3. **Compromiso con el Fondo de Pérdidas y Daños internacional** para compensar los principales efectos adversos causados por el cambio climático. Apoyaremos mecanismos de contribución justos de acuerdo con la responsabilidad histórica en las emisiones y la capacidad económica, incluidos los grandes emisores y las empresas de combustibles fósiles."
+   },
+   {
+    "id": "mundo-0174",
+    "partido": "mundo",
+    "titular": "Ciudades verdes: parque a menos de 15 minutos y 30 % de cubierta arbórea",
+    "marca_actual": [],
+    "texto": "4. **Ciudades verdes en horizontal y en vertical que ayuden a mitigar el efecto “isla de calor urbano”.** Garantizar que todo barrio tenga un parque o zona verde a menos de 15 minutos a pie y que cada municipio alcance una cubierta arbórea urbana del 30%. Promover la instalación de cubiertas y fachadas verdes en edificios nuevos y en rehabilitaciones de gran tamaño, con preferencia por sistemas que combinen vegetación y paneles solares (agrivoltaica urbana)."
+   },
+   {
+    "id": "mundo-0175",
+    "partido": "mundo",
+    "titular": "Reducir las emisiones un 55 % respecto a 1990 en 2030",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- **Emisiones de gases de efecto invernadero** — 270,7 Mt CO₂-eq · −4,8 % vs. 1990 (MITECO · 2025) — Meta: −55 % respecto a 1990 — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0176",
+    "partido": "mundo",
+    "titular": "Emisiones netas cero en 2050",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- **Neutralidad de carbono** — Medida nueva — Meta: Emisiones netas cero — Plazo: 2050"
+   },
+   {
+    "id": "mundo-0177",
+    "partido": "mundo",
+    "titular": "Parque a 15 minutos en cada barrio y 30 % de arbolado urbano",
+    "marca_actual": [],
+    "texto": "- **Verde urbano** — Medida nueva — Meta: Parque a ≤ 15 min a pie en todo barrio · 30 % de cubierta arbórea — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0189",
+    "partido": "mundo",
+    "titular": "Descarbonizar el transporte: más transporte público y tren, menos vuelos con alternativa ferroviaria",
+    "marca_actual": [],
+    "texto": "3. **Descarbonización del sector transporte.** Apuesta por el transporte público limpio y de calidad. Fomento del transporte ferroviario entre los países europeos y reducción de transporte aéreo en rutas con alternativas ferroviarias. Primar la inversión en medios más eficientes como bicicletas y metro. Establecer políticas a medio y largo plazo de movilidad urbana y rural, que favorezcan el transporte compartido (gratuito, a demanda y/o solidario)."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sociedades",
+  "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo"
+   },
+   {
+    "id": "subir",
+    "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  ],
+  "n": 8,
+  "palabras": 606,
+  "candidatos": [
+   {
+    "id": "salf-0060",
+    "partido": "salf",
+    "titular": "Sociedades al 20 %, 15 % si se reinvierte y 10 % para startups",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "5. **Sociedades: 20 %. 15 % si reinviertes. 10 % startups.** Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva. _Coste: ≈ 6.000 M€/año._\n - **25 % → 20 %** tipo general"
+   },
+   {
+    "id": "salf-0070",
+    "partido": "salf",
+    "titular": "Ley de Devolución del Rescate: la banca pagará 4.700 M€ al año",
+    "marca_actual": [],
+    "texto": "14. **La banca devuelve el rescate: 70.000 millones en 15 años.** El rescate de las cajas ha costado 66.617 millones según el Tribunal de Cuentas; sumando lo que falta por recuperar, los intereses y el agujero de la Sareb, la factura real del contribuyente ronda los 70.000. La banca ha devuelto el 11 %. Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés. No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad. Ganan 20.000 millones al año: pueden. _Ingreso: ≈ 4.700 M€/año, contado en 'Cómo se paga'._\n - **70.000M€** en 15 años: 4.700 millones al año"
+   },
+   {
+    "id": "salf-0159",
+    "partido": "salf",
+    "titular": "Ceuta y Melilla plaza franca: 0 % de IRPF, Sociedades y cotizaciones",
+    "marca_actual": [],
+    "texto": "5. **Ceuta y Melilla, plaza franca: 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones. Para siempre.** Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. _Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 de cotizaciones): menos de lo que España regala en ayuda exterior en un mes._\n - **0 %** IRPF, Sociedades y cotizaciones en Ceuta y Melilla"
+   },
+   {
+    "id": "mundo-0076",
+    "partido": "mundo",
+    "titular": "Pagar la diferencia de Sociedades al repatriar beneficios generados en el extranjero",
+    "marca_actual": [],
+    "texto": "3. **Combatir los paraísos fiscales y la competencia fiscal entre países**, garantizando que los rendimientos del capital generados en el extranjero tributen al mismo nivel que los generados en España. Para ello, establecer que, cuando se repatríen beneficios a España, se abone la diferencia entre el Impuesto sobre Sociedades satisfecho en el extranjero y el aplicable en España."
+   },
+   {
+    "id": "mundo-0079",
+    "partido": "mundo",
+    "titular": "Gravar los beneficios extraordinarios y limitar al 90 % la exención por doble imposición",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "6. **Incrementar la contribución fiscal de las grandes empresas**, generalizando la tributación de los beneficios extraordinarios, tanto los derivados de circunstancias ajenas a su actividad como los obtenidos por posiciones dominantes en mercados con escasa competencia. Revisar los incentivos y deducciones fiscales, limitando al 90 % la exención por doble imposición, y reforzar el control sobre las SICAV y las ETVE para evitar su utilización como instrumentos de inversión especulativa."
+   },
+   {
+    "id": "mundo-0080",
+    "partido": "mundo",
+    "titular": "Mantener y ampliar la Tasa Google a más servicios digitales",
+    "marca_actual": [],
+    "texto": "7. **Mantener y ampliar el Impuesto sobre Determinados Servicios Digitales** (Tasa Google), extendiendo su aplicación a un mayor número de servicios digitales en España, mientras no se implemente de manera efectiva el Pilar Uno de la OCDE sobre el reparto de la tributación de las grandes multinacionales."
+   },
+   {
+    "id": "mundo-0084",
+    "partido": "mundo",
+    "titular": "Limitar al 90 % la exención por doble imposición en 2027",
+    "marca_actual": [],
+    "texto": "- **Exención por doble imposición** — Medida nueva — Meta: Limitada al 90 % — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0100",
+    "partido": "mundo",
+    "titular": "Revisar deducciones para que las grandes empresas no tributen menos que un autónomo",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "2. **Que el autónomo nunca pague, en proporción, más que una gran empresa.** Hoy ocurre al revés: muchas grandes compañías rebajan su tipo efectivo gracias a deducciones. Revisaremos esas deducciones para que las grandes empresas tributen conforme a su capacidad real y para cerrar la brecha, de modo que la carga fiscal del autónomo deje de ser superior a la de la gran empresa."
+   }
+  ]
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 9,
+  "palabras": 576,
+  "candidatos": [
+   {
+    "id": "mundo-0122",
+    "partido": "mundo",
+    "titular": "Aprobar una ley estatal que garantice el acceso a cuidados paliativos",
+    "marca_actual": [],
+    "texto": "6. **Garantizar el acceso universal y equitativo a cuidados paliativos integrales y de calidad en todo el territorio.** Aprobar una ley estatal que armonice los derechos y garantías de cuidados paliativos en todo el Estado y garantice la equidad territorial en el acceso a esta atención. (PTS 2026) Proteger a las personas en situación de enfermedad avanzada y/o final de vida, dotando al sistema social y sanitario de equipos interdisciplinares en fluida relación con todos los niveles asistenciales del sistema, incluyendo la atención domiciliaria. Proponer la creación de comunidades compasivas como modelo colaborativo para acompañar a las y los pacientes paliativos y sus familias."
+   },
+   {
+    "id": "mundo-0135",
+    "partido": "mundo",
+    "titular": "Prevenir, acompañar y cuidar al principio y al final de la vida",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Servicios públicos · Familias e infancia · Mayores\n\n_Los momentos más frágiles de la vida piden compañía, no soledad. Queremos que ninguna mujer afronte un embarazo difícil sin apoyo ni información, y que nadie llegue al final de su vida sin cuidados paliativos ni acompañamiento. Sobre estas cuestiones conviven en nuestro partido sensibilidades distintas, y nos une lo esencial: prevenir, acompañar y cuidar con respeto a cada persona en su decisión._"
+   },
+   {
+    "id": "mundo-0136",
+    "partido": "mundo",
+    "titular": "Prevenir los embarazos no deseados con educación afectivo-sexual y anticonceptivos",
+    "marca_actual": [],
+    "texto": "1. **Reforzar la prevención de los embarazos no deseados**, mediante políticas públicas de educación afectivo-sexual integral, adaptadas a las distintas etapas educativas, que fomenten las relaciones saludables, la corresponsabilidad, el respeto mutuo y la prevención de la violencia sexual y de género, garantizando el acceso universal a información rigurosa y a métodos anticonceptivos."
+   },
+   {
+    "id": "mundo-0137",
+    "partido": "mundo",
+    "titular": "Acompañamiento gratuito a mujeres con embarazos en situación de vulnerabilidad",
+    "marca_actual": [],
+    "texto": "2. **Garantizar una atención y un acompañamiento integral, gratuito y personalizado a las mujeres que afrontan un embarazo en situaciones de vulnerabilidad** o incertidumbre sobre su continuidad, mediante servicios públicos accesibles que proporcionen información completa, objetiva y comprensible, asesoramiento jurídico, atención sanitaria y orientación sobre los derechos, prestaciones económicas, recursos sociales y programas públicos de apoyo a la maternidad y a la crianza. Cuando la decisión esté condicionada por la falta de medios — económicos, de vivienda o de red de apoyo—, reforzar esas ayudas y ofrecer alternativas como el acogimiento familiar temporal, de modo que ninguna mujer tenga que renunciar por necesidad a un embarazo que desearía continuar Todo ello desde el respeto a su autonomía, sin juicios de valor, presiones ni discriminación."
+   },
+   {
+    "id": "mundo-0138",
+    "partido": "mundo",
+    "titular": "Atención psicológica gratuita por ley antes y después de interrumpir el embarazo",
+    "marca_actual": [],
+    "texto": "3. **Reconocer y garantizar por ley el derecho a recibir atención psicológica especializada, gratuita y voluntaria**, tanto antes de la decisión como después de una interrupción voluntaria del embarazo, en su caso, asegurando su disponibilidad efectiva en el sistema público de salud, con independencia de la situación socioeconómica o el lugar de residencia. Este acompañamiento deberá prestarse con absoluta confidencialidad y respeto a la libertad de decisión."
+   },
+   {
+    "id": "mundo-0139",
+    "partido": "mundo",
+    "titular": "Valoración urgente de cuidados paliativos para quien solicite la eutanasia, sin condicionar sus derechos",
+    "marca_actual": [],
+    "texto": "4. **Que nadie pida morir por falta de cuidados.** Garantizar que las personas que manifiesten sufrimiento intenso o soliciten la eutanasia puedan acceder voluntariamente y con carácter urgente a una valoración integral de cuidados paliativos, salud mental y apoyos a la dependencia, sin retrasar ni condicionar sus derechos. Establecer mecanismos de seguimiento y evaluación pública anual que permitan conocer el acceso real a estos cuidados y detectar necesidades no cubiertas."
+   },
+   {
+    "id": "mundo-0140",
+    "partido": "mundo",
+    "titular": "Acceso universal a cuidados paliativos especializados en 2030 (hoy, ≈ 40 %)",
+    "marca_actual": [],
+    "texto": "- **Acceso a cuidados paliativos especializados** — ≈ 40 % de quienes los necesitan (SECPAL · 2024) — Meta: Acceso universal (100 %) — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0141",
+    "partido": "mundo",
+    "titular": "Atención psicológica gratuita antes y después de una IVE, reconocida por ley en 2027",
+    "marca_actual": [],
+    "texto": "- **Atención psicológica antes y después de una IVE** — Medida nueva — Meta: Derecho reconocido por ley, gratuito — Plazo: 2027"
+   },
+   {
+    "id": "mundo-0270",
+    "partido": "mundo",
+    "titular": "Mantener la prohibición de la gestación subrogada en España",
+    "marca_actual": [],
+    "texto": "7. **Mantener la prohibición de la gestación subrogada en España,** como medida de protección frente a situaciones de explotación reproductiva, especialmente cuando están vinculadas a la pobreza y la vulnerabilidad económica de las mujeres."
+   }
+  ]
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-profundizar",
+    "nombre": "Ampliar la protección frente al despido y la precariedad"
+   }
+  ],
+  "n": 10,
+  "palabras": 522,
+  "candidatos": [
+   {
+    "id": "salf-0023",
+    "partido": "salf",
+    "titular": "Cuña fiscal al 29 %, contrato único y cuota cero de autónomos",
+    "marca_actual": [],
+    "texto": "8. **Empleo** — Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos."
+   },
+   {
+    "id": "salf-0053",
+    "partido": "salf",
+    "titular": "Contratos públicos de vigilancia no inferiores al convenio y jubilación a los 60",
+    "marca_actual": [],
+    "texto": "14. **Ningún contrato público por debajo del convenio. Jubilación a los 60.** El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla. Plus de peligrosidad de 150 euros en todo contrato público. Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local. _Coste para el Estado: 0. Lo financia la cotización adicional, como en la policía local._\n - **60 años** jubilación con coeficientes reductores"
+   },
+   {
+    "id": "salf-0090",
+    "partido": "salf",
+    "titular": "Mochila austriaca: 1,53 % del salario a cargo de la empresa",
+    "marca_actual": [],
+    "texto": "4. **Mochila austriaca.** El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.\n - **1,53 %** que viaja contigo"
+   },
+   {
+    "id": "salf-0132",
+    "partido": "salf",
+    "titular": "Contrato único indefinido con indemnización creciente de 12 a 33 días y mochila",
+    "marca_actual": [],
+    "texto": "2. **Contrato único con mochila.** Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.\n - **1** contrato para todos"
+   },
+   {
+    "id": "salf-0137",
+    "partido": "salf",
+    "titular": "La Seguridad Social pagará las bajas desde el primer día, no la empresa",
+    "marca_actual": [],
+    "texto": "7. **Protección al trabajador sin encarecer su contratación.** Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros. Indemnización garantizada por la mochila aunque la empresa quiebre, salario asegurado por un fondo público de impago y persecución real de los falsos autónomos. Proteger al trabajador no puede ser un impuesto a contratarlo. _Coste: ≈ 3.000 M€/año; lo compensa la reducción del absentismo._\n - **Día 1** la baja la paga la Seguridad Social, no tu jefe"
+   },
+   {
+    "id": "mundo-0058",
+    "partido": "mundo",
+    "titular": "Prácticas siempre remuneradas y ayudas a la contratación juvenil solo con contrato estable",
+    "marca_actual": [],
+    "texto": "2. **Trabajo con derechos desde el primer día.** Que las prácticas sean siempre remuneradas, tengan una tutoría real y no sustituyan puestos de trabajo. Conceder las ayudas a la contratación juvenil solo cuando el contrato sea estable y acabar con el encadenamiento de becas y contratos temporales."
+   },
+   {
+    "id": "mundo-0090",
+    "partido": "mundo",
+    "titular": "Reforzar la Inspección de Trabajo contra la explotación laboral y la economía sumergida",
+    "marca_actual": [],
+    "texto": "4. **Combatir la explotación laboral y la economía sumergida**, reforzando la Inspección de Trabajo, aumentando las actuaciones en sectores de especial riesgo y estableciendo sanciones efectivas, proporcionadas a la gravedad de los abusos y al beneficio económico obtenido. Garantizar la protección de las personas trabajadoras que denuncien irregularidades, independientemente de su situación administrativa, y facilitar la recuperación de los salarios y derechos laborales vulnerados."
+   },
+   {
+    "id": "mundo-0095",
+    "partido": "mundo",
+    "titular": "Reducir la temporalidad del 14,8 % a menos del 10 % en 2030",
+    "marca_actual": [],
+    "texto": "- **Tasa de temporalidad (asalariados)** — 14,8 % (INE, EPA · 1T 2026) — Meta: < 10 % — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0102",
+    "partido": "mundo",
+    "titular": "Perseguir a los falsos autónomos y presumir la laboralidad en las plataformas",
+    "marca_actual": [],
+    "texto": "4. **Trabajo autónomo con derechos.** Perseguir a los falsos autónomos con más inspección en las plataformas digitales y en los sectores donde más abundan. Aprovechar la transposición de la directiva europea de trabajo en plataformas, que vence en diciembre de 2026, para presumir la relación laboral cuando lo sea. Para quien es autónomo de verdad, hacer más fácil acceder a la prestación por cese de actividad y cobrar la baja por enfermedad desde el primer día."
+   },
+   {
+    "id": "mundo-0105",
+    "partido": "mundo",
+    "titular": "Presunción de laboralidad en plataformas al transponer la directiva (diciembre de 2026)",
+    "marca_actual": [],
+    "texto": "- **Trabajo en plataformas** — Medida nueva — Meta: Presunción de laboralidad al transponer la directiva — Plazo: Dic. 2026"
+   }
+  ]
+ },
+ {
+  "eje": "eje-eutanasia",
+  "pregunta": "¿Eutanasia o cuidados paliativos?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o garantizarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Poner el acento en los cuidados paliativos"
+   }
+  ],
+  "n": 5,
+  "palabras": 400,
+  "candidatos": [
+   {
+    "id": "mundo-0122",
+    "partido": "mundo",
+    "titular": "Aprobar una ley estatal que garantice el acceso a cuidados paliativos",
+    "marca_actual": [],
+    "texto": "6. **Garantizar el acceso universal y equitativo a cuidados paliativos integrales y de calidad en todo el territorio.** Aprobar una ley estatal que armonice los derechos y garantías de cuidados paliativos en todo el Estado y garantice la equidad territorial en el acceso a esta atención. (PTS 2026) Proteger a las personas en situación de enfermedad avanzada y/o final de vida, dotando al sistema social y sanitario de equipos interdisciplinares en fluida relación con todos los niveles asistenciales del sistema, incluyendo la atención domiciliaria. Proponer la creación de comunidades compasivas como modelo colaborativo para acompañar a las y los pacientes paliativos y sus familias."
+   },
+   {
+    "id": "mundo-0135",
+    "partido": "mundo",
+    "titular": "Prevenir, acompañar y cuidar al principio y al final de la vida",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Servicios públicos · Familias e infancia · Mayores\n\n_Los momentos más frágiles de la vida piden compañía, no soledad. Queremos que ninguna mujer afronte un embarazo difícil sin apoyo ni información, y que nadie llegue al final de su vida sin cuidados paliativos ni acompañamiento. Sobre estas cuestiones conviven en nuestro partido sensibilidades distintas, y nos une lo esencial: prevenir, acompañar y cuidar con respeto a cada persona en su decisión._"
+   },
+   {
+    "id": "mundo-0137",
+    "partido": "mundo",
+    "titular": "Acompañamiento gratuito a mujeres con embarazos en situación de vulnerabilidad",
+    "marca_actual": [],
+    "texto": "2. **Garantizar una atención y un acompañamiento integral, gratuito y personalizado a las mujeres que afrontan un embarazo en situaciones de vulnerabilidad** o incertidumbre sobre su continuidad, mediante servicios públicos accesibles que proporcionen información completa, objetiva y comprensible, asesoramiento jurídico, atención sanitaria y orientación sobre los derechos, prestaciones económicas, recursos sociales y programas públicos de apoyo a la maternidad y a la crianza. Cuando la decisión esté condicionada por la falta de medios — económicos, de vivienda o de red de apoyo—, reforzar esas ayudas y ofrecer alternativas como el acogimiento familiar temporal, de modo que ninguna mujer tenga que renunciar por necesidad a un embarazo que desearía continuar Todo ello desde el respeto a su autonomía, sin juicios de valor, presiones ni discriminación."
+   },
+   {
+    "id": "mundo-0139",
+    "partido": "mundo",
+    "titular": "Valoración urgente de cuidados paliativos para quien solicite la eutanasia, sin condicionar sus derechos",
+    "marca_actual": [],
+    "texto": "4. **Que nadie pida morir por falta de cuidados.** Garantizar que las personas que manifiesten sufrimiento intenso o soliciten la eutanasia puedan acceder voluntariamente y con carácter urgente a una valoración integral de cuidados paliativos, salud mental y apoyos a la dependencia, sin retrasar ni condicionar sus derechos. Establecer mecanismos de seguimiento y evaluación pública anual que permitan conocer el acceso real a estos cuidados y detectar necesidades no cubiertas."
+   },
+   {
+    "id": "mundo-0140",
+    "partido": "mundo",
+    "titular": "Acceso universal a cuidados paliativos especializados en 2030 (hoy, ≈ 40 %)",
+    "marca_actual": [],
+    "texto": "- **Acceso a cuidados paliativos especializados** — ≈ 40 % de quienes los necesitan (SECPAL · 2024) — Meta: Acceso universal (100 %) — Plazo: 2030"
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla, aplicarla o ampliarla"
+   }
+  ],
+  "n": 5,
+  "palabras": 376,
+  "candidatos": [
+   {
+    "id": "salf-0027",
+    "partido": "salf",
+    "titular": "Primera casa un 35 % más barata y okupa fuera en 48 horas",
+    "marca_actual": [],
+    "texto": "**Tu primera casa, un 35 % más barata. Y el okupa, fuera en 48 horas.**\n\n**> 50 %** más de la mitad del precio de un piso nuevo son impuestos\n\n**755.000** viviendas que faltan en núcleos urbanos de España\n\n**12 meses → 12 semanas** reducción del tiempo máximo para una licencia"
+   },
+   {
+    "id": "mundo-0001",
+    "partido": "mundo",
+    "titular": "La vivienda como derecho humano y nunca como activo financiero",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Inclusión social · Jóvenes · Familias e infancia\n\n_Para M+J la vivienda es un derecho humano y una condición necesaria para desarrollar una vida digna, autónoma y en comunidad, y nunca un activo financiero ni un instrumento de acumulación patrimonial._"
+   },
+   {
+    "id": "mundo-0002",
+    "partido": "mundo",
+    "titular": "Garantizar el derecho a la vivienda con políticas públicas ambiciosas",
+    "marca_actual": [],
+    "texto": "Garantizar este derecho requiere una responsabilidad compartida de toda la sociedad y políticas públicas ambiciosas, sostenibles y justas, que sitúen las necesidades de las personas y el bien común en el centro de las decisiones."
+   },
+   {
+    "id": "mundo-0003",
+    "partido": "mundo",
+    "titular": "Objetivos: vivienda asequible, parque público, menos especulación y fin del sinhogarismo",
+    "marca_actual": [],
+    "texto": "Para avanzar en este compromiso, nuestro programa de vivienda tiene los siguientes objetivos:\n - Garantizar que todas las personas puedan acceder a una vivienda digna, estable y asequible, sin que su coste les impida cubrir otras necesidades básicas.\n - Crear un parque público y social de vivienda amplio, permanente y sostenible, que proteja a las generaciones presentes y futuras.\n - Reducir los precios abusivos del alquiler y la especulación inmobiliaria, dando prioridad a la función social de la vivienda frente a su utilización como activo exclusivamente financiero.\n - Aumentar la oferta de vivienda disponible, aprovechando los inmuebles vacíos, rehabilitando edificios existentes y promoviendo nuevas viviendas asequibles.\n - Proteger a las personas inquilinas y ofrecer seguridad jurídica y garantías justas a las y los pequeños propietarios, favoreciendo relaciones de alquiler estables y equilibradas.\n - Construir ciudades y pueblos más habitables, inclusivos y sostenibles, donde todas las personas puedan desarrollar su proyecto de vida sin verse expulsadas de sus barrios.\n - Erradicar progresivamente el sinhogarismo, situando el acceso a una vivienda estable como punto de partida para la inclusión y la autonomía personal.\n - Evitar que ninguna persona o familia vulnerable se quede sin hogar como consecuencia de un desahucio, garantizando alternativas habitacionales adecuadas y una intervención pública preventiva."
+   },
+   {
+    "id": "mundo-0004",
+    "partido": "mundo",
+    "titular": "Que tener un hogar no dependa de la suerte ni del patrimonio familiar",
+    "marca_actual": [],
+    "texto": "En definitiva, queremos que tener un hogar deje de depender de la suerte, del lugar donde nacemos o del patrimonio de nuestra familia. Que ninguna persona tenga que elegir entre pagar su vivienda, alimentarse o vivir con dignidad."
+   }
+  ]
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarlas o sustituirlas"
+   },
+   {
+    "id": "mantener-reforzar",
+    "nombre": "Mantenerlas o reforzarlas"
+   }
+  ],
+  "n": 6,
+  "palabras": 346,
+  "candidatos": [
+   {
+    "id": "mundo-0264",
+    "partido": "mundo",
+    "titular": "Aplicar las 461 medidas del Pacto de Estado contra la Violencia de Género",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "1. **Garantizar una protección integral y efectiva frente a todas las formas de violencia de género y violencia sexual,** asegurando la aplicación de las 461 medidas del Pacto de Estado contra la Violencia de Género y de la Directiva Europea sobre violencia contra las mujeres y violencia doméstica. Reforzar la prevención, la atención y la protección de las víctimas, garantizando una respuesta coordinada de las instituciones públicas."
+   },
+   {
+    "id": "mundo-0265",
+    "partido": "mundo",
+    "titular": "Ayudas y recursos para víctimas de violencia de género aunque no exista riesgo vital",
+    "marca_actual": [],
+    "texto": "2. **Garantizar la autonomía económica y la protección social de las mujeres víctimas de violencia de género**, facilitando el acceso a ayudas económicas suficientes y a recursos residenciales, incluso cuando no exista riesgo vital. Equiparar la vigencia y el alcance de las acreditaciones de violencia de género a las de violencia sexual, ampliar la cobertura temporal de los subsidios y garantizar el reconocimiento de las ayudas y derechos de las víctimas en toda la Unión Europea. Establecer, asimismo, una protección económica y social estable y prolongada para los huérfanos y huérfanas de la violencia de género."
+   },
+   {
+    "id": "mundo-0267",
+    "partido": "mundo",
+    "titular": "Coeducación y prevención de la violencia de género en todas las etapas educativas",
+    "marca_actual": [],
+    "texto": "4. **Garantizar la educación en igualdad y la prevención de la violencia de género en todas las etapas educativas,** incorporando al currículo común contenidos de coeducación, corresponsabilidad en los cuidados, relaciones basadas en el respeto y prevención de la violencia, adaptados a la edad y madurez del alumnado. Extender estas enseñanzas a la Formación Profesional y la universidad, reforzar la formación del profesorado y la colaboración con las familias, y promover acuerdos políticos que aseguren su continuidad."
+   },
+   {
+    "id": "mundo-0269",
+    "partido": "mundo",
+    "titular": "Combatir la trata y avanzar hacia la abolición de la prostitución",
+    "marca_actual": [],
+    "texto": "6. **Combatir la trata de personas y la explotación sexual, especialmente de mujeres y niñas,** aumentando los recursos destinados a la prevención, persecución de estos delitos y protección y reparación de las víctimas. Avanzar hacia la abolición de la prostitución, garantizando que las personas que la ejercen no queden desprotegidas y facilitando alternativas de empleo digno y acompañamiento social."
+   },
+   {
+    "id": "mundo-0272",
+    "partido": "mundo",
+    "titular": "Reducir a la mitad los feminicidios por pareja o expareja para 2030",
+    "marca_actual": [],
+    "texto": "- **Feminicidios por pareja o expareja** — 48 (Delegación del Gobierno · 2025) — Meta: −50 % — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0273",
+    "partido": "mundo",
+    "titular": "Pacto de Estado contra la Violencia de Género: 100 % aplicado en 2030",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- **Medidas del Pacto de Estado contra la Violencia de Género** — 461 medidas (Pacto de Estado) — Meta: 100 % aplicadas y evaluadas — Plazo: 2030"
+   }
+  ]
+ },
+ {
+  "eje": "eje-smi",
+  "pregunta": "¿Seguir subiendo el salario mínimo?",
+  "posiciones": [
+   {
+    "id": "subir",
+    "nombre": "Subirlo o reforzarlo por ley"
+   },
+   {
+    "id": "contener",
+    "nombre": "No, contenerlo o fijarlo por acuerdo"
+   }
+  ],
+  "n": 5,
+  "palabras": 305,
+  "candidatos": [
+   {
+    "id": "salf-0131",
+    "partido": "salf",
+    "titular": "Bajar la cuña fiscal al 29 % y cotización cero en el salario mínimo",
+    "marca_actual": [],
+    "texto": "1. **Cuña fiscal del 41 al 29 %.** Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. _Coste: ≈ 2.600 M€/año._\n - **+80 €** netos al mes en el salario mínimo"
+   },
+   {
+    "id": "mundo-0086",
+    "partido": "mundo",
+    "titular": "Repartir mejor el trabajo: menos horas, salarios suficientes y renta básica",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Economía y empleo · Inclusión social\n\n_Tener empleo debería bastar para vivir con dignidad, y hoy no siempre basta. La automatización y la tecnología generan una riqueza enorme, y la cuestión es quién se la queda. Proponemos repartir mejor el trabajo y sus frutos: menos horas, salarios suficientes, más tiempo para cuidar y convivir, y avanzar hacia una renta básica de justicia social._"
+   },
+   {
+    "id": "mundo-0092",
+    "partido": "mundo",
+    "titular": "Trasladar las subidas del SMI a todas las categorías mediante la negociación colectiva",
+    "marca_actual": [],
+    "texto": "6. **Garantizar salarios dignos y una estructura salarial justa**, promoviendo en la negociación colectiva cláusulas de revisión que trasladen los incrementos del Salario Mínimo Interprofesional a las distintas categorías profesionales, evitando la pérdida de diferencias retributivas justificadas por la responsabilidad, la cualificación y las condiciones de trabajo. Reforzar la transparencia salarial y las medidas contra la pobreza laboral."
+   },
+   {
+    "id": "mundo-0096",
+    "partido": "mundo",
+    "titular": "Mantener el SMI en al menos el 60 % del salario medio hasta 2030",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- **Salario Mínimo Interprofesional** — 1.221 €/mes × 14 (RD SMI 2026) — Meta: Mantener ≥ 60 % del salario medio — Plazo: 2026–2030"
+   },
+   {
+    "id": "mundo-0099",
+    "partido": "mundo",
+    "titular": "Cotizar por ingresos reales con tramos bajos más baratos para los autónomos",
+    "marca_actual": [],
+    "texto": "1. **Cotizar por lo que se gana, también cuando se gana poco.** Cerrar la transición al sistema de ingresos reales con tramos bajos más baratos: quien tenga rendimientos por debajo del salario mínimo no debería pagar una cuota que se coma su sustento. Aplicar a los autónomos la integración de lagunas de cotización que ya tiene el Régimen General, para que una mala racha o un periodo cuidando a un familiar no se paguen toda la vida en la pensión. Y en pluriactividad, devolver el exceso de cotización empezando por quien menos ingresa, no solo por quien supera el umbral."
+   }
+  ]
+ },
+ {
+  "eje": "eje-iva",
+  "pregunta": "¿Qué hacer con el IVA?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo, en general o en algunos productos"
+   },
+   {
+    "id": "subir-lujo",
+    "nombre": "Subirlo a bienes de lujo o reordenar tipos al alza"
+   }
+  ],
+  "n": 4,
+  "palabras": 209,
+  "candidatos": [
+   {
+    "id": "salf-0028",
+    "partido": "salf",
+    "titular": "Primera vivienda un 35 % más barata: ITP y AJD al 0 %",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "1. **Tu primera vivienda, un 35 % más barata. Por ley.** Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy. _Coste: ≈ 5.000 M€/año. Lo paga el sobrecoste autonómico._\n - **−35 %** Piso de 300.000 €: 195.000 €"
+   },
+   {
+    "id": "salf-0059",
+    "partido": "salf",
+    "titular": "Eliminar para siempre la cuota de autónomos e implantar el IVA de caja",
+    "marca_actual": [],
+    "texto": "4. **Autónomos: eliminación total de la cuota.** Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas. _Coste: ≈ 12.000 M€/año, lo que hoy recauda el RETA._\n - **206 € → 0 €** de cuota, para siempre"
+   },
+   {
+    "id": "salf-0062",
+    "partido": "salf",
+    "titular": "IVA de la luz y el agua al 4 % y sin impuesto eléctrico",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "7. **Luz y agua al 4 % de IVA para siempre.** La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura. _Coste: ≈ 2.600 M€/año._\n - **21 % → 4 %** en la luz; el agua, del 10 al 4 %"
+   },
+   {
+    "id": "salf-0133",
+    "partido": "salf",
+    "titular": "Cuota cero para autónomos, IVA de caja y licencia de actividad en 24 horas",
+    "marca_actual": [],
+    "texto": "3. **Autónomos: cuota cero, IVA de caja, una ventanilla.** Cuota cero, total y para siempre. Licencia de actividad en 24 horas por declaración responsable.\n - **24 h** para abrir un negocio"
+   }
+  ]
+ },
+ {
+  "eje": "eje-jornada",
+  "pregunta": "¿Reducir la jornada laboral por ley?",
+  "posiciones": [
+   {
+    "id": "reducir",
+    "nombre": "Sí, reducirla sin bajar el sueldo"
+   },
+   {
+    "id": "no",
+    "nombre": "No por ley"
+   }
+  ],
+  "n": 3,
+  "palabras": 185,
+  "candidatos": [
+   {
+    "id": "mundo-0088",
+    "partido": "mundo",
+    "titular": "Reducir la jornada laboral a 35 horas semanales sin reducción salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "2. **Reducir progresivamente la jornada laboral hasta las 35 horas semanales**, sin reducción salarial, adaptando su implantación a las características de los sectores productivos y ofreciendo apoyos a las pequeñas empresas y entidades que lo necesiten. Favorecer así una distribución más justa del tiempo, del empleo y de los beneficios del progreso tecnológico, facilitando la conciliación, los cuidados y el bienestar de las personas trabajadoras."
+   },
+   {
+    "id": "mundo-0094",
+    "partido": "mundo",
+    "titular": "Jornada máxima de 35 horas sin reducción salarial en 2030",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- **Jornada laboral máxima** — 40 h semanales (Estatuto de los Trabajadores) — Meta: 35 h sin reducción salarial — Plazo: 2030"
+   },
+   {
+    "id": "mundo-0145",
+    "partido": "mundo",
+    "titular": "Reforzar la formación docente y fijar por ley una jornada lectiva máxima",
+    "marca_actual": [],
+    "texto": "2. **Mejorar la calidad educativa y reforzar la profesión docente.** Reforzar los conocimientos fundamentales, el pensamiento crítico, las competencias digitales y las habilidades sociales mediante metodologías basadas en la evidencia, evaluaciones formativas y apoyos tempranos. Mejorar la formación inicial y permanente del profesorado, modernizar los procesos de oposición, simplificar las exigencias administrativas de la normativa estatal y garantizar estabilidad y autonomía pedagógica. Establecer por ley una jornada lectiva máxima de 23 horas semanales en Infantil, Primaria y Educación Especial, y de 18 horas en el resto de enseñanzas, asegurando tiempo suficiente para preparar clases, tutorías y coordinación docente."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jubilacion",
+  "pregunta": "¿Qué hacer con la edad de jubilación?",
+  "posiciones": [
+   {
+    "id": "adelantar",
+    "nombre": "Adelantarla o flexibilizarla a la baja"
+   },
+   {
+    "id": "mantener-retrasar",
+    "nombre": "Mantenerla o incentivar retrasarla"
+   }
+  ],
+  "n": 2,
+  "palabras": 166,
+  "candidatos": [
+   {
+    "id": "salf-0091",
+    "partido": "salf",
+    "titular": "Jubilación activa cobrando toda la pensión y libre con 40 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "5. **Jubilación activa total.** Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.\n - **40 años** cotizados = libertad"
+   },
+   {
+    "id": "salf-0166",
+    "partido": "salf",
+    "titular": "El 2 % de defensa, en industria nacional y en sueldos militares equiparados",
+    "marca_actual": [],
+    "texto": "12. **Defensa: el 2 % se gasta en España y en sus militares.** 33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos. Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito. _Coste: ≈ 1.200 M€/año en retribuciones, dentro del 2 % del PIB._\n - **1.300 €** netos cobra hoy un soldado; a los 45, a la calle con 600"
+   }
+  ]
+ },
+ {
+  "eje": "eje-agua",
+  "pregunta": "¿Trasvases e interconexión de cuencas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+   },
+   {
+    "id": "no",
+    "nombre": "No: gestión de la demanda, agua como bien público"
+   }
+  ],
+  "n": 1,
+  "palabras": 128,
+  "candidatos": [
+   {
+    "id": "mundo-0184",
+    "partido": "mundo",
+    "titular": "El agua como bien público, sin cortes a hogares vulnerables",
+    "marca_actual": [],
+    "texto": "5. **Promover el agua como bien público y no solo como un producto comercial.** La naturaleza esencial del agua así como su condición de derecho humano requiere de una regulación singular y herramientas apropiadas de transparencia y la competencia comparativa cuando esta sea proveída por el mercado, garantizando unos precios y calidad adecuados. Prevenir los cortes por incapacidad económica mediante mecanismos de protección social, que garanticen el agua a los hogares vulnerables. Acelerar medidas que garanticen un agua sin plásticos y otros tóxicos. Aprobar un Plan Nacional de Siembra de Agua y Restauración Hidrológica que recupere sistemas tradicionales de infiltración y recarga de acuíferos, como acequias y regueras, e incorpore soluciones basadas en la naturaleza para retener agua, regenerar suelos y reducir los efectos de sequías e inundaciones."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lomloe",
+  "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o desarrollarla"
+   }
+  ],
+  "n": 1,
+  "palabras": 101,
+  "candidatos": [
+   {
+    "id": "mundo-0147",
+    "partido": "mundo",
+    "titular": "Plan Estatal de Inclusión Educativa, gratuidad de 0 a 3 años y más becas",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "4. **Garantizar una educación inclusiva y equitativa, haciendo efectivos los derechos reconocidos en la LOMLOE**. Impulsar un Plan Estatal de Inclusión Educativa con financiación propia para dotar a los centros de profesionales de Pedagogía Terapéutica, Audición y Lenguaje y otros perfiles de apoyo según sus necesidades. Prevenir el abandono escolar y reducir la segregación mediante una escolarización equilibrada y respetuosa con los derechos de las familias. Avanzar hacia la gratuidad universal de la Educación Infantil de 0 a 3 años, reforzar las becas y ayudas de comedor, transporte y material escolar, y simplificar su tramitación para eliminar barreras económicas y administrativas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 1,
+  "palabras": 83,
+  "candidatos": [
+   {
+    "id": "mundo-0194",
+    "partido": "mundo",
+    "titular": "Rechazo al sufrimiento animal innecesario, sin cambios en la regulación de caza y tauromaquia",
+    "marca_actual": [],
+    "texto": "Te interesa si te importa: Planeta\n\n_El respeto por la vida no termina en la especie humana. Rechazamos el sufrimiento animal innecesario, ya sea en granjas hacinadas, en laboratorios de cosmética, y queremos reducir el abandono. Lo hacemos sin perder de vista a los pequeños productores y a la ganadería extensiva, que cuidan del campo y de sus animales. Sobre la caza deportiva y la tauromaquia conviven en nuestro partido posiciones distintas, y por eso este programa no propone cambios en su regulación._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-burka",
+  "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, prohibirlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 1,
+  "palabras": 37,
+  "candidatos": [
+   {
+    "id": "salf-0083",
+    "partido": "salf",
+    "titular": "Prohibir el burka y el niqab en el espacio público",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "9. **Velo integral prohibido.** Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.\n - **6** países europeos ya lo prohíben"
+   }
+  ]
+ },
+ {
+  "eje": "eje-nuclear",
+  "pregunta": "¿Qué hacer con las centrales nucleares?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlas o alargar su vida"
+   },
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlas según el calendario"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-territorial",
+  "pregunta": "¿Hacia qué modelo territorial?",
+  "posiciones": [
+   {
+    "id": "recentralizar",
+    "nombre": "Frenar la descentralización o blindar competencias del Estado"
+   },
+   {
+    "id": "autonomico",
+    "nombre": "Mantener y mejorar el Estado autonómico"
+   },
+   {
+    "id": "federal",
+    "nombre": "Estado federal o plurinacional"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-jefatura",
+  "pregunta": "¿Monarquía o república?",
+  "posiciones": [
+   {
+    "id": "monarquia",
+    "nombre": "Defender la monarquía o la Corona"
+   },
+   {
+    "id": "republica",
+    "nombre": "Avanzar hacia una república"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-sedicion",
+  "pregunta": "¿Recuperar el delito de sedición?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, recuperarlo o endurecer esos delitos"
+   },
+   {
+    "id": "no",
+    "nombre": "No, o despenalizar delitos de opinión"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ }
+]

@@ -1,0 +1,2138 @@
+[
+ {
+  "id": "fa-0764",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion",
+   "inst-local"
+  ],
+  "titular": "Recargo del IBI del 50 % al 150 % para pisos turísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0765",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion",
+   "inst-local"
+  ],
+  "titular": "Coeficientes que aumenten la tributación de los grandes tenedores de viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0766",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion",
+   "inst-local"
+  ],
+  "titular": "Elevar la tributación de las empresas propietarias de viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0767",
+  "subtema": "imp-verdes",
+  "otros": [
+   "vivienda-fiscalidad",
+   "inst-local"
+  ],
+  "titular": "Criterios ambientales en el IBI ligados a la eficiencia de los edificios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0768",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Prohibir que el IBI se repercuta en el inquilino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0769",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "fam-natalidad",
+   "inst-local"
+  ],
+  "titular": "Equiparar las bonificaciones del IBI de familias monoparentales y numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0770",
+  "subtema": "imp-verdes",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Impuesto de circulación según emisiones de CO₂, con coeficiente de hasta 2,5",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0771",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion",
+   "inst-local"
+  ],
+  "titular": "Plusvalía municipal progresiva, hasta el 35 % para grandes tenedores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0772",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Revisar las exenciones fiscales de los inmuebles de las confesiones religiosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0773",
+  "subtema": "inst-local",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Crear una tasa turística municipal para financiar servicios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0774",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Comisionado para la Justicia Social y Climática en municipios grandes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0775",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Distritos voluntarios en ciudades de menos de 50.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0776",
+  "subtema": "inst-local",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Blindar la independencia de secretarías, intervenciones y tesorerías municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0777",
+  "subtema": "inst-local",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Impulsar y financiar el gobierno de las áreas metropolitanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0778",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Democracia en las empresas, gobernanza y derechos de plantilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0779",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Plantillas en los consejos de administración: un tercio o el 50 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0780",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Derechos de consulta y veto ante cierres, deslocalizaciones y reestructuraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0781",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Poder de veto del comité de empresa sobre la IA laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0782",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Separar la auditoría de cuentas de la consultoría a la misma empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0783",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Reservar a las plantillas más del 2 % o 10 % del capital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0784",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Reparto obligatorio del 10 % del beneficio entre la plantilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0785",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Crear fondos colectivos de inversión gobernados por los trabajadores (Meidner)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0786",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Ligar la retribución directiva al largo plazo y publicar la brecha salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0787",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Representación de trabajadores y usuarios en los órganos de las empresas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0788",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Regulación de la competencia y control de la concentración bancaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0789",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Vetar fusiones que eliminen competencia y permitir la separación estructural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0790",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Prohibir concentraciones bancarias que aumenten el poder de mercado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0791",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "san-modelo",
+   "fam-mayores"
+  ],
+  "titular": "Prohibir al capital riesgo adquirir hospitales, residencias y centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0792",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Limitar las comisiones bancarias y garantizar la atención presencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0793",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una Autoridad Independiente de Defensa del Cliente Financiero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0794",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reformar la Ley de Autonomía del Banco de España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0795",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reforzar la CNMV y obligarla a verificar los folletos de emisión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0796",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Ley de gobernanza de servicios digitales con multas de hasta el 6 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0797",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Hasta 4 años de prisión a directivos de plataformas que desobedezcan retiradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0798",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Código de transparencia algorítmica y eliminación de patrones adictivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0799",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Derecho a elegir el sistema de recomendación en grandes plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0800",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Interoperabilidad obligatoria de las grandes plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0801",
+  "subtema": "dig-datos",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Portabilidad de datos, derecho al seudónimo y espacios de datos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0802",
+  "subtema": "dig-ia",
+  "otros": [
+   "seg-ciberseguridad"
+  ],
+  "titular": "Ley de uso transparente de la IA en la Administración y auditorías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0803",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Prohibir chatbots que simulen vínculos sentimentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0804",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Crear un Observatorio Público del Riesgo de la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0805",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "inst-medios",
+   "seg-emergencias"
+  ],
+  "titular": "Priorizar información verificada en las plataformas durante emergencias y alertas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0806",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Prohibir las cajas de recompensa en videojuegos al alcance de menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0807",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Sancionar falsas rebajas y regular mercados de predicción e influencers",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0808",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Fomentar plataformas digitales abiertas, públicas y cooperativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0809",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Limitar la concentración de la propiedad de los medios de comunicación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0810",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Financiación estable de los medios públicos y de la Agencia EFE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0811",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Nuevos derechos feministas, Pacto de Estado por los Cuidados e igualdad salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0812",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Transparencia salarial: evaluación conjunta si la brecha supera el 5 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0813",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Plan de choque contra la precariedad en sectores feminizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0814",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Desplegar la Ley Trans y reconocer a las personas no binarias",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0815",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Plena aplicación de la legislación de protección de personas trans y LGTBIQA+",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0816",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Crear un Observatorio Estatal contra la LGTBQAifobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0817",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Combatir agresiones y discursos de odio por orientación o identidad de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0818",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Atención sanitaria integral y despatologizada para las personas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0819",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Evitar intervenciones irreversibles no urgentes a personas intersexuales sin consentimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0820",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reconocer la diversidad de las familias en normas y servicios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0821",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Acceso a PrEP y PEP contra el VIH en tres meses como máximo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0822",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Ley integral contra el racismo y pacto contra los discursos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0823",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Impulsar el Estatuto del Pueblo Gitano contra el antigitanismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0824",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Reconocer y financiar de forma estable a las asociaciones antirracistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0825",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Reforma de extranjería, regularización y eliminación de barreras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0826",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Culminar la regularización extraordinaria de 2026 resolviendo todas las solicitudes",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0827",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Procedimiento estable y permanente de regularización en la Ley de Extranjería",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0828",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Empadronamiento flexible, cuenta bancaria básica y homologación ágil de títulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0829",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Cita en las oficinas de extranjería en un máximo de siete días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0830",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Frontera Sur, fin de devoluciones e internamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0831",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Derogar el «rechazo en frontera» y control independiente en la Frontera Sur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0832",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Cerrar los CIE y limitar la detención en frontera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0833",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Prohibir devoluciones ilegales encubiertas como retornos «voluntarios»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0834",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Recursos al Defensor del Pueblo para supervisar los procedimientos fronterizos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0835",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Vías legales, seguras y marco de protección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0836",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Asilo en embajadas y sin visado de tránsito para países en conflicto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0837",
+  "subtema": "inm-asilo",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Eliminar la lista de países seguros y rechazar centros de retorno externos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0838",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "No condicionar la ayuda al desarrollo a la colaboración en los retornos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0839",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Aplicación garantista del Pacto Europeo de Migración y primacía del interés del menor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0840",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Registro público estatal de gestión de visados en embajadas y consulados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0841",
+  "subtema": "inm-asilo",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Permiso de trabajo a solicitantes del estatuto de apátrida a los seis meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0842",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Crear una Agencia de Asilo dependiente de la Presidencia del Gobierno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0843",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Registrar la solicitud de asilo en 5 días y formalizarla en 21",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0844",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Resolver la reagrupación familiar en tres meses, con silencio positivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0845",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Revisar los contratos privados de citas para visados de reagrupación familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0846",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Recuperar la gestión pública de las solicitudes en embajadas y consulados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0847",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Ampliar el sufragio activo y pasivo de las personas migrantes en las municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0848",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Circunscripción para la diáspora, voto municipal exterior y estrategia de retorno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0849",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Comisión parlamentaria de estudio sobre el racismo estructural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0850",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Devolver la nacionalidad española a las y los saharauis nacidos antes de 1977",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0851",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Nueva arquitectura de seguridad mundial, desarme y apuesta por la paz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0852",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Seguridad humana, prevención diplomática y control del comercio de armas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0853",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Rechazar el objetivo OTAN del 5 % y reducir el gasto militar",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0854",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Convertir los recintos de uso militar extranjero en polos civiles y tecnológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0855",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Firmar el Tratado sobre la Prohibición de las Armas Nucleares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0856",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Defender la soberanía de los pueblos y rechazar medidas coercitivas unilaterales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0857",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Más financiación y acción política por la Agenda 2030 y contra el hambre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0858",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Derecho internacional, jurisdicción universal y justicia penal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0859",
+  "subtema": "ext-politica",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Restablecer la jurisdicción universal y apoyar a la Corte Penal Internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0860",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Embargo automático de armas a Estados investigados por crímenes internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0861",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Embargo integral de armas y medidas frente a Israel por Palestina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0862",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Ley de embargo integral, total y permanente de armas a Israel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0863",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Ley de No Reconocimiento y ruptura de relaciones por genocidio o apartheid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0864",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Apoyar a la CPI y la CIJ y suspender el Acuerdo UE-Israel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0865",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Retirar el apoyo al plan de autonomía marroquí y referéndum saharaui",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0866",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Cumplir las sentencias del TJUE sobre el Sáhara Occidental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0867",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Democratizar el Consejo de Seguridad y reformar el Banco Mundial y el FMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0868",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Agencia fiscal internacional e impuesto global a las grandes riquezas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0869",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Justicia climática global, Agenda de Bridgetown y Carta Global de Derechos Laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0870",
+  "subtema": "ext-politica",
+  "otros": [
+   "ext-conflictos"
+  ],
+  "titular": "Crear una unidad de mediación en el Ministerio de Asuntos Exteriores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0871",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Solidaridad con Ucrania y paz justa por vías diplomáticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0872",
+  "subtema": "ext-politica",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Relaciones horizontales con América Latina y salvaguardas en el Acuerdo UE-Mercosur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0873",
+  "subtema": "ext-politica",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Vecindad Sur centrada en derechos y Fuerza Mediterránea de intervención climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0874",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Elevar la cooperación al desarrollo del 0,27 % al 0,7 % RNB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0875",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Priorizar la cooperación con componente de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0876",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cooperación transformadora y no asistencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0877",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cooperación sin retornos financieros ni comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0878",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "La cooperación no fortalecerá privatizaciones en los países de destino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0879",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reparto de la AOD: 10 % humanitaria, 3 % educación, 30 % mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0880",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Cooperación financiera vía FEDES alineada con el desarrollo sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0881",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Acción humanitaria basada en principios, con el 10 % de la AOD",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0882",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Política exterior y de cooperación feministas con el 20 % de la AOD",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0883",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Más ayuda de la AECID a igualdad y derechos sexuales y reproductivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0884",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Política estatal de apoyo a personas desplazadas por fenómenos meteorológicos extremos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0885",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Desarrollar la reforma de la cooperación española y el VI Plan Director",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0886",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reforzar la AECID con un nuevo Contrato de Gestión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0887",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Consolidar el papel de las ONGD con dotación presupuestaria adecuada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0888",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "25 % del presupuesto de la AECID para ONGD, al menos 500 millones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0889",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Eliminar las trabas de la LRSAL a la cooperación descentralizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0890",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Multilateralismo activo con compromisos vinculantes en las agendas de desarrollo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0891",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Ley de diligencia debida en derechos humanos para empresas transnacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0892",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Ley de Consumo Sostenible, comercio justo y compra pública ética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0893",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Una Europa autónoma y con voz propia en el mundo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0894",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Una Europa autónoma centrada en la paz, los derechos humanos y el clima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0895",
+  "subtema": "ext-ue",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Espacio europeo de seguridad con control democrático y autonomía estratégica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0896",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Mayoría cualificada en política exterior europea sobre derechos humanos y paz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0897",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Alianza europea progresista frente a la ofensiva de la extrema derecha",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0898",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Reforma del marco de gobernanza económica y lucha contra guaridas fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0899",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Superar el Pacto de Estabilidad y Crecimiento y eliminar la austeridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0900",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Suelo del 1,27 % de la RNB para el presupuesto europeo 2028-2034",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0901",
+  "subtema": "clima",
+  "otros": [
+   "ext-ue",
+   "seg-emergencias"
+  ],
+  "titular": "Plan Europeo contra fenómenos climáticos extremos y 35 % del presupuesto UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0902",
+  "subtema": "imp-fraude",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Medidas europeas para acabar con los paraísos y guaridas fiscales en la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0903",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Democratización y ampliación del mandato del Banco Central Europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0904",
+  "subtema": "ext-ue",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Ampliar el mandato del BCE al pleno empleo y la transición ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0905",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Que el Parlamento Europeo nombre y pueda cesar al Comité Ejecutivo del BCE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0906",
+  "subtema": "ext-ue",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Limitar la remuneración del BCE a las reservas excedentarias de la banca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0907",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Arquitectura fiscal europea y financiación directa de bienes públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0908",
+  "subtema": "ext-ue",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Habilitar al BCE para financiar directamente a los Estados miembros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0909",
+  "subtema": "ext-ue",
+  "otros": [
+   "vivienda-publica",
+   "clima"
+  ],
+  "titular": "Financiación del BCE para vivienda pública, empleo, pobreza y descarbonización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0910",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Financiar el presupuesto europeo con recursos propios, como la fiscalidad digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0911",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Blindar la cohesión, el FSE y la transición ecológica (50 % del gasto)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0912",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Recurso ante el TJUE contra el Reglamento de Retornos de 2026",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0913",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Vías legales europeas para trabajadores y estudiantes y fiscalización de Frontex",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0914",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Condicionar los acuerdos comerciales de la UE a derechos humanos y ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0915",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Denunciar el Acuerdo de Asociación UE-Israel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0916",
+  "subtema": "naturaleza",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Tipificar el ecocidio como crimen en la UE y ante la CPI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0917",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Política tecnológica, Fondo Soberano Europeo e inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0918",
+  "subtema": "dig-ia",
+  "otros": [
+   "ext-ue",
+   "imp-sociedades"
+  ],
+  "titular": "Fondo Soberano Europeo de IA con impuesto del 50 % en acciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0919",
+  "subtema": "dig-ia",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Participación pública en el capital de las empresas financiadas por InvestAI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0920",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Avanzar hacia un Estado republicano, federal y plurinacional con referéndum",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   },
+   {
+    "eje": "eje-jefatura",
+    "posicion": "republica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0921",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Avanzar hacia una República Federal con elección de la Jefatura del Estado",
+  "ejes": [
+   {
+    "eje": "eje-jefatura",
+    "posicion": "republica"
+   },
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0922",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "trab-pensiones",
+   "igu-vida"
+  ],
+  "titular": "Blindar en la Constitución pensiones, vivienda, salud, aborto y derechos medioambientales",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0923",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Cambio de modelo territorial federal y plurinacional con derecho a decidir",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0924",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Pacto territorial de lectura federal y nuevo modelo de financiación autonómica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0925",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Nueva descentralización municipalista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0926",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Hacer del Senado una verdadera cámara de representación territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0927",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Ley del plurilingüismo para usar las lenguas cooficiales ante el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0928",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Reformar el sistema electoral para lograr proporcionalidad directa nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0929",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Abolir definitivamente la pena de muerte del artículo 15",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0930",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Modificar el artículo 135 que prioriza el pago de la deuda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0931",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Rebajar las firmas de la iniciativa legislativa popular de 500.000 a 250.000",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0932",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Crear una plataforma electrónica de participación ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0933",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Órganos estables de participación infantil en todas las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0934",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ley de Integridad Pública con registro de la propiedad real de las sociedades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0935",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Ley de grupos de interés y reforma de los reglamentos parlamentarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0936",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Reformar la Ley de Sociedades de Capital para responsabilizar a los directivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0937",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Impedir la contratación pública a empresas implicadas en tramas de corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0938",
+  "subtema": "seg-penal",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Decomiso preventivo de bienes vinculados a actividades delictivas sin condena previa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0939",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Crear una Oficina Independiente contra la Corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0940",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Poner en marcha la Autoridad de Protección del Informante con medios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0941",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Eliminar la atenuante de dilaciones indebidas en casos de corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0942",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Veinte años sin contratar con el sector público para condenados por corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0943",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Publicar las agendas de cargos electos y altos cargos con lobbies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0944",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Incompatibilidades más estrictas y estatuto especial para expresidentes del Gobierno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0945",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Auditoría de la deuda y de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0946",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar por completo la Ley Mordaza",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la Ley de Seguridad Ciudadana («Ley Mordaza»)? → derogar"
+ },
+ {
+  "id": "fa-0947",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Multas proporcionales a los ingresos y sanciones de índole restaurativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0948",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Derogar los delitos contra los sentimientos religiosos, la Corona y ultrajes a España",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Despenalizar las ofensas religiosas, las injurias a la Corona y los ultrajes a España? → derogar esos delitos"
+ },
+ {
+  "id": "fa-0949",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Modelo de seguridad fundado en la prevención y la justicia social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0950",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Políticas de seguridad preventivas, no securitarias, con justicia restaurativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0951",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Modelo de seguridad basado en los derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0952",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Regular por ley el uso de la fuerza y las armas policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0953",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Garantizar los derechos de las personas penadas o privadas de libertad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0954",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Respetar las recomendaciones internacionales sobre privación de libertad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0955",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Seguridad pública que proteja a las personas más vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0956",
+  "subtema": "seg-policia",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Restringir las paradas de identificación y prohibirlas para aplicar la Ley de Extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0957",
+  "subtema": "seg-policia",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Evaluar la equidad algorítmica de los instrumentos de evaluación de riesgo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0958",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Políticas sociales y preventivas frente a los grupos organizados juveniles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0959",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Eliminar obstáculos a la reinserción de personas extranjeras que cumplen condena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0960",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Evitar la instrumentalización política de las Fuerzas y Cuerpos de Seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0961",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Homologar la disciplina interna policial según el Código Europeo de Ética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0962",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Diversidad e igualdad de oportunidades en los cuerpos de seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0963",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Crear un cuerpo de agentes de penas y medidas en medio abierto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0964",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Desmilitarizar la Guardia Civil",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Desmilitarizar la Guardia Civil? → sí"
+ },
+ {
+  "id": "fa-0965",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Incorporar personal civil a funciones que no requieran agentes de autoridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0966",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Coordinación policial respetando el modelo territorial descentralizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0967",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Encuesta nacional de seguridad y victimización al menos bianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0968",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Recomendaciones a periodistas para informar de delitos sin alarma social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0969",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Potenciar la gestión comunitaria de los conflictos leves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0970",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Priorizar la resolución pacífica de conflictos en la selección policial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0971",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Formación obligatoria de los agentes en derechos humanos y diversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0972",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Órgano externo e independiente que investigue abusos policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0973",
+  "subtema": "seg-policia",
+  "otros": [
+   "igu-libertades",
+   "igu-racismo"
+  ],
+  "titular": "Prohibir las pelotas de goma y los controles de identidad por perfil racial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0974",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Ley que regule por primera vez la objeción de conciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0975",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Misma jornada para las Fuerzas de Seguridad que para la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0976",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Cumplir íntegramente el Acuerdo de Equiparación Salarial de 2018",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0977",
+  "subtema": "seg-policia",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Profesión de riesgo para Guardia Civil y Policía Nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0978",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Derogar el Código Penal Militar en las tareas policiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0979",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Reformar la Ley de Fuerzas y Cuerpos de Seguridad de 1986",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0980",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Registro de medios y reforma del reparto de la publicidad institucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0981",
+  "subtema": "igu-memoria",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Desarrollar la Ley de Memoria Democrática y cerrar las fundaciones franquistas",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0982",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Aprobar una Ley sobre Bebés Robados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0983",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Desacralizar Cuelgamuros y convertirlo en espacio de memoria democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0984",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Proteger los lugares de memoria y crear el Centro de Memoria de Carabanchel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0985",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Recuperar las memorias de los movimientos ciudadanos que conquistaron la democracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0986",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Memoria de las mujeres represaliadas y transmisión intergeneracional de la memoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0987",
+  "subtema": "seg-independencia-judicial",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Desbloquear el CGPJ con mayoría absoluta de las Cámaras en segunda votación",
+  "ejes": [
+   {
+    "eje": "eje-cgpj",
+    "posicion": "parlamento"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "fa-0988",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Plan plurianual para alcanzar la media europea de jueces y fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0989",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Sustituir el sistema memorístico judicial por acceso becado según renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0990",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Ley estatal de justicia digital para acabar con el papel en los juzgados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0991",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Ampliar la justicia gratuita y reforzar el turno de oficio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0992",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Más penas no privativas de libertad para delitos de mediana gravedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0993",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Servicios públicos y universales de justicia restaurativa en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0994",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Derogar las exenciones del IBI a bienes confesionales no destinados al culto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0995",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Revisar los Acuerdos de 1979 con la Santa Sede",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener o revisar los Acuerdos con la Santa Sede? → revisar"
+ },
+ {
+  "id": "fa-0996",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Autofinanciación de las confesiones religiosas y supresión de sus exenciones fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0997",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Eliminar toda financiación pública a las confesiones religiosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0998",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Eliminar conciertos a escuelas que segreguen por sexo o por religión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-0999",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Revertir al Estado los bienes inmatriculados por la Iglesia católica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "fa-1000",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Ley de Libertad de Conciencia que derogue la Ley de Libertad Religiosa",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ }
+]

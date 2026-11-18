@@ -1,0 +1,1272 @@
+{
+ "version": 1,
+ "bloques": [
+  {
+   "id": "vivienda",
+   "nombre": "Vivienda",
+   "subtemas": [
+    {
+     "id": "vivienda-publica",
+     "nombre": "Vivienda pública y social",
+     "incluye": "parque público, vivienda social y asequible, entidades públicas de vivienda (CASA 47, SEPES), tercer sector, cesión de suelo público, cifras de viviendas a construir"
+    },
+    {
+     "id": "vivienda-alquiler",
+     "nombre": "Alquiler",
+     "incluye": "precio y regulación del alquiler, contratos, zonas tensionadas, ayudas al alquiler, bono alquiler joven, seguros de impago, alquiler indefinido"
+    },
+    {
+     "id": "vivienda-compra",
+     "nombre": "Compra y acceso a la primera vivienda",
+     "incluye": "avales, hipotecas, entrada, ahorro para comprar, acceso de jóvenes a la propiedad"
+    },
+    {
+     "id": "vivienda-especulacion",
+     "nombre": "Especulación, fondos y vivienda turística",
+     "incluye": "grandes tenedores, fondos, compra por no residentes, pisos turísticos, vivienda vacía, función social de la vivienda"
+    },
+    {
+     "id": "vivienda-okupacion-desahucios",
+     "nombre": "Okupación y desahucios",
+     "incluye": "desalojo de okupas, inquiokupación, desahucios, vulnerabilidad residencial, sinhogarismo"
+    },
+    {
+     "id": "vivienda-suelo-construccion",
+     "nombre": "Suelo, construcción y rehabilitación",
+     "incluye": "ley del suelo, urbanismo, industrialización de la construcción, rehabilitación y eficiencia energética de edificios, licencias"
+    },
+    {
+     "id": "vivienda-fiscalidad",
+     "nombre": "Impuestos sobre la vivienda",
+     "incluye": "IVA e ITP de la vivienda, deducciones, recargos a vivienda vacía o segundas viviendas, IBI de la vivienda"
+    },
+    {
+     "id": "vivienda-derecho",
+     "nombre": "Derecho a la vivienda y ley de vivienda",
+     "incluye": "artículo 47, Ley de Vivienda de 2023, enfoque general sobre la vivienda"
+    }
+   ]
+  },
+  {
+   "id": "impuestos",
+   "nombre": "Impuestos y cuentas públicas",
+   "subtemas": [
+    {
+     "id": "imp-irpf",
+     "nombre": "IRPF e impuestos al trabajo",
+     "incluye": "tramos y tipos del IRPF, mínimos personales, deflactación, cotizaciones como carga"
+    },
+    {
+     "id": "imp-capital-patrimonio",
+     "nombre": "Capital, patrimonio y herencias",
+     "incluye": "rentas del capital, impuesto de patrimonio, grandes fortunas, sucesiones y donaciones, herencias"
+    },
+    {
+     "id": "imp-sociedades",
+     "nombre": "Impuesto de Sociedades y grandes empresas",
+     "incluye": "tipo de sociedades, tipo mínimo, beneficios extraordinarios, banca y energéticas, impuesto mínimo global"
+    },
+    {
+     "id": "imp-iva-indirectos",
+     "nombre": "IVA e impuestos indirectos",
+     "incluye": "tipos de IVA, impuestos sobre consumo, energía, carburantes, alimentos"
+    },
+    {
+     "id": "imp-verdes",
+     "nombre": "Fiscalidad verde y del lujo",
+     "incluye": "impuestos ambientales, aviación, cruceros, bienes de lujo, queroseno"
+    },
+    {
+     "id": "imp-fraude",
+     "nombre": "Fraude fiscal y paraísos fiscales",
+     "incluye": "lucha contra el fraude, Agencia Tributaria, paraísos fiscales, transparencia fiscal, dumping fiscal entre territorios"
+    },
+    {
+     "id": "imp-gasto-deuda",
+     "nombre": "Gasto público, déficit y deuda",
+     "incluye": "presupuestos, auditoría del gasto, deuda pública, reglas fiscales, subvenciones públicas, eficiencia del gasto"
+    },
+    {
+     "id": "imp-modelo",
+     "nombre": "Modelo fiscal en general",
+     "incluye": "rebaja o reforma fiscal general, presión fiscal, progresividad, simplificación tributaria"
+    }
+   ]
+  },
+  {
+   "id": "trabajo",
+   "nombre": "Trabajo, salarios y pensiones",
+   "subtemas": [
+    {
+     "id": "trab-salarios",
+     "nombre": "Salario mínimo y salarios",
+     "incluye": "SMI, subida de salarios, brecha salarial entre directivos y plantilla, poder adquisitivo de los salarios"
+    },
+    {
+     "id": "trab-jornada",
+     "nombre": "Jornada y tiempo de trabajo",
+     "incluye": "reducción de jornada, registro horario, desconexión digital, horarios, conciliación laboral"
+    },
+    {
+     "id": "trab-contratos-despido",
+     "nombre": "Contratos, despido y reforma laboral",
+     "incluye": "reforma laboral, temporalidad, parcialidad, despido, plataformas y riders, inspección de trabajo, salud laboral"
+    },
+    {
+     "id": "trab-empleo",
+     "nombre": "Desempleo y políticas de empleo",
+     "incluye": "prestaciones por desempleo, políticas activas, formación para el empleo, colectivos con dificultades"
+    },
+    {
+     "id": "trab-pensiones",
+     "nombre": "Pensiones y Seguridad Social",
+     "incluye": "revalorización, sostenibilidad del sistema, edad de jubilación, pensiones mínimas y no contributivas, planes privados, incapacidad temporal, mutuas, otras prestaciones de la Seguridad Social"
+    },
+    {
+     "id": "trab-sindicatos",
+     "nombre": "Negociación colectiva y participación",
+     "incluye": "sindicatos, convenios, participación de trabajadores en las empresas, democracia económica en la empresa"
+    },
+    {
+     "id": "trab-empleo-publico",
+     "nombre": "Empleo público",
+     "incluye": "plantillas públicas, oposiciones, condiciones de los empleados públicos"
+    }
+   ]
+  },
+  {
+   "id": "economia",
+   "nombre": "Economía, empresa e industria",
+   "subtemas": [
+    {
+     "id": "eco-industria",
+     "nombre": "Política industrial",
+     "incluye": "reindustrialización, autonomía estratégica, sectores estratégicos, inversión productiva, fondos europeos"
+    },
+    {
+     "id": "eco-autonomos-pymes",
+     "nombre": "Autónomos y pymes",
+     "incluye": "cuota de autónomos, morosidad, ayudas a pymes, emprendimiento, economía social y cooperativas"
+    },
+    {
+     "id": "eco-burocracia",
+     "nombre": "Burocracia y regulación",
+     "incluye": "desregulación, simplificación administrativa, cargas regulatorias, licencias, unidad de mercado"
+    },
+    {
+     "id": "eco-innovacion",
+     "nombre": "Ciencia, I+D e innovación",
+     "incluye": "inversión en I+D, investigadores, transferencia, startups, deep tech"
+    },
+    {
+     "id": "eco-publico-banca",
+     "nombre": "Empresas públicas, banca y competencia",
+     "incluye": "empresas públicas, banca pública, competencia, grandes grupos empresariales, poder financiero, CNMC, Banco de España"
+    },
+    {
+     "id": "eco-consumo-precios",
+     "nombre": "Consumo y coste de la vida",
+     "incluye": "precios de la cesta de la compra, márgenes, derechos de los consumidores, bono social, inflación"
+    },
+    {
+     "id": "eco-turismo-comercio",
+     "nombre": "Turismo, comercio y sectores",
+     "incluye": "turismo, comercio, hostelería, sectores productivos concretos no agrarios"
+    },
+    {
+     "id": "eco-modelo",
+     "nombre": "Crecimiento y productividad",
+     "incluye": "modelo económico, productividad, crecimiento, competitividad en general"
+    }
+   ]
+  },
+  {
+   "id": "energia-medioambiente",
+   "nombre": "Energía, clima y medio ambiente",
+   "subtemas": [
+    {
+     "id": "ener-modelo",
+     "nombre": "Modelo energético",
+     "incluye": "renovables, nuclear, gas, hidrógeno, precio de la luz, autoconsumo, redes eléctricas, empresas eléctricas"
+    },
+    {
+     "id": "clima",
+     "nombre": "Cambio climático y emisiones",
+     "incluye": "objetivos climáticos, descarbonización, PNIEC, ley de cambio climático, adaptación al clima"
+    },
+    {
+     "id": "agua",
+     "nombre": "Agua",
+     "incluye": "política hidrológica, trasvases, embalses, desaladoras, depuración, Plan Nacional del Agua, gestión pública del agua"
+    },
+    {
+     "id": "naturaleza",
+     "nombre": "Biodiversidad y espacios naturales",
+     "incluye": "espacios protegidos, biodiversidad, montes, incendios forestales como gestión forestal, costas, contaminación"
+    },
+    {
+     "id": "residuos",
+     "nombre": "Residuos y economía circular",
+     "incluye": "reciclaje, reparación, obsolescencia programada, plásticos"
+    },
+    {
+     "id": "animales",
+     "nombre": "Bienestar animal",
+     "incluye": "protección animal, animales de compañía, maltrato, experimentación, caza y tauromaquia cuando se tratan como bienestar animal"
+    }
+   ]
+  },
+  {
+   "id": "rural",
+   "nombre": "Campo y mundo rural",
+   "subtemas": [
+    {
+     "id": "rural-agro",
+     "nombre": "Agricultura, ganadería y pesca",
+     "incluye": "PAC, precios en origen, acuerdos comerciales agrarios, regadío, pesca, sanidad animal y vegetal, relevo generacional"
+    },
+    {
+     "id": "rural-despoblacion",
+     "nombre": "Despoblación y servicios en el medio rural",
+     "incluye": "reto demográfico, servicios en pueblos, conectividad rural, insularidad"
+    },
+    {
+     "id": "rural-tradiciones",
+     "nombre": "Caza, tauromaquia y tradiciones rurales",
+     "incluye": "caza, pesca recreativa, tauromaquia y tradiciones cuando se tratan como patrimonio o actividad rural"
+    }
+   ]
+  },
+  {
+   "id": "infraestructuras",
+   "nombre": "Infraestructuras y transporte",
+   "subtemas": [
+    {
+     "id": "infra-tren",
+     "nombre": "Ferrocarril",
+     "incluye": "alta velocidad, cercanías y rodalies, seguridad ferroviaria, Adif y Renfe, mercancías por tren"
+    },
+    {
+     "id": "infra-carreteras",
+     "nombre": "Carreteras y seguridad vial",
+     "incluye": "conservación de carreteras, autovías, peajes, tráfico, multas, seguridad vial"
+    },
+    {
+     "id": "infra-transporte-publico",
+     "nombre": "Transporte público y movilidad",
+     "incluye": "abonos y tarifas, autobús, movilidad sostenible, vehículo eléctrico, bicicleta, zonas de bajas emisiones"
+    },
+    {
+     "id": "infra-corredores-puertos",
+     "nombre": "Corredores, puertos y aeropuertos",
+     "incluye": "corredor Mediterráneo y Atlántico, puertos, aeropuertos, aviación, logística"
+    },
+    {
+     "id": "infra-inversion-territorial",
+     "nombre": "Inversión del Estado por territorios",
+     "incluye": "reparto territorial de la inversión estatal, ejecución presupuestaria, reconstrucción tras la DANA, obras hidráulicas contra inundaciones"
+    },
+    {
+     "id": "infra-digital",
+     "nombre": "Telecomunicaciones y conectividad",
+     "incluye": "banda ancha, 5G, cobertura digital"
+    }
+   ]
+  },
+  {
+   "id": "sanidad",
+   "nombre": "Sanidad",
+   "subtemas": [
+    {
+     "id": "san-listas-espera",
+     "nombre": "Listas de espera y acceso",
+     "incluye": "tiempos de espera, garantías de atención, diagnóstico"
+    },
+    {
+     "id": "san-modelo",
+     "nombre": "Modelo sanitario y financiación",
+     "incluye": "gestión pública o privada, conciertos, financiación de la sanidad, cohesión del SNS, tarjeta sanitaria única, coordinación entre comunidades"
+    },
+    {
+     "id": "san-primaria",
+     "nombre": "Atención primaria",
+     "incluye": "centros de salud, médico de familia, enfermería comunitaria"
+    },
+    {
+     "id": "san-profesionales",
+     "nombre": "Profesionales sanitarios",
+     "incluye": "plantillas, MIR, condiciones laborales, agresiones a sanitarios"
+    },
+    {
+     "id": "san-mental",
+     "nombre": "Salud mental",
+     "incluye": "psicólogos en la sanidad pública, suicidio, bienestar emocional"
+    },
+    {
+     "id": "san-prestaciones",
+     "nombre": "Nuevas prestaciones",
+     "incluye": "salud bucodental, visual, enfermedades raras, cáncer, celiaquía, cartera de servicios"
+    },
+    {
+     "id": "san-publica-prevencion",
+     "nombre": "Salud pública y prevención",
+     "incluye": "tabaco, alcohol, adicciones, vacunas, alimentación, prevención"
+    },
+    {
+     "id": "san-farmacia",
+     "nombre": "Medicamentos e industria farmacéutica",
+     "incluye": "precio de los medicamentos, industria pública, investigación biomédica"
+    },
+    {
+     "id": "san-sexual-reproductiva",
+     "nombre": "Salud sexual y reproductiva",
+     "incluye": "aborto en la sanidad pública, anticoncepción, reproducción asistida, parto y duelo perinatal"
+    }
+   ]
+  },
+  {
+   "id": "educacion-cultura",
+   "nombre": "Educación, cultura y deporte",
+   "subtemas": [
+    {
+     "id": "edu-modelo",
+     "nombre": "Modelo educativo y financiación",
+     "incluye": "enfoque general de la educación, inversión educativa, enseñanzas artísticas, educación de personas adultas"
+    },
+    {
+     "id": "edu-infantil",
+     "nombre": "Educación de 0 a 3 años",
+     "incluye": "escuelas infantiles, gratuidad 0-3"
+    },
+    {
+     "id": "edu-escuela",
+     "nombre": "Escuela: primaria, ESO y bachillerato",
+     "incluye": "currículo, evaluación, reválidas, ratios, concertada, horarios, convivencia, móviles en el aula, leyes educativas"
+    },
+    {
+     "id": "edu-lenguas",
+     "nombre": "Lenguas",
+     "incluye": "lengua vehicular, español, lenguas cooficiales, diversidad lingüística"
+    },
+    {
+     "id": "edu-profesorado",
+     "nombre": "Profesorado",
+     "incluye": "condiciones, formación y autoridad del profesorado"
+    },
+    {
+     "id": "edu-becas",
+     "nombre": "Becas y equidad",
+     "incluye": "becas, ayudas, comedor, libros, abandono escolar"
+    },
+    {
+     "id": "edu-fp",
+     "nombre": "Formación Profesional",
+     "incluye": "FP, FP dual, plazas"
+    },
+    {
+     "id": "edu-universidad",
+     "nombre": "Universidad",
+     "incluye": "universidades públicas y privadas, tasas, EVAU, investigación universitaria, UNED"
+    },
+    {
+     "id": "cultura",
+     "nombre": "Cultura",
+     "incluye": "industrias culturales, trabajadores de la cultura, patrimonio, IVA cultural, derechos culturales"
+    },
+    {
+     "id": "deporte",
+     "nombre": "Deporte",
+     "incluye": "deporte base, deporte profesional, actividad física"
+    }
+   ]
+  },
+  {
+   "id": "familias-social",
+   "nombre": "Familias, cuidados y protección social",
+   "subtemas": [
+    {
+     "id": "fam-natalidad",
+     "nombre": "Natalidad y familias",
+     "incluye": "prestaciones por hijo o crianza, familias numerosas, permisos de nacimiento, conciliación familiar, apoyo a la maternidad"
+    },
+    {
+     "id": "fam-infancia",
+     "nombre": "Infancia y adolescencia",
+     "incluye": "pobreza infantil, protección de menores, acogimiento, salud mental infantil"
+    },
+    {
+     "id": "fam-juventud",
+     "nombre": "Juventud",
+     "incluye": "emancipación, participación juvenil, voto a los 16, políticas de juventud"
+    },
+    {
+     "id": "fam-mayores",
+     "nombre": "Personas mayores",
+     "incluye": "longevidad, soledad no deseada, residencias, derechos de los mayores"
+    },
+    {
+     "id": "fam-dependencia",
+     "nombre": "Dependencia y cuidados",
+     "incluye": "sistema de dependencia, cuidadores, sistema estatal de cuidados"
+    },
+    {
+     "id": "fam-discapacidad",
+     "nombre": "Discapacidad",
+     "incluye": "derechos, accesibilidad, empleo y apoyos de las personas con discapacidad"
+    },
+    {
+     "id": "fam-pobreza",
+     "nombre": "Pobreza e Ingreso Mínimo Vital",
+     "incluye": "IMV, rentas mínimas, exclusión, inclusión social, servicios sociales"
+    }
+   ]
+  },
+  {
+   "id": "igualdad-derechos",
+   "nombre": "Igualdad y derechos civiles",
+   "subtemas": [
+    {
+     "id": "igu-mujeres",
+     "nombre": "Igualdad entre mujeres y hombres",
+     "incluye": "brecha salarial, corresponsabilidad, paridad, feminismo, mujeres en las instituciones"
+    },
+    {
+     "id": "igu-violencia",
+     "nombre": "Violencia contra las mujeres",
+     "incluye": "violencia machista o de género, violencia vicaria, violencia sexual, trata, prostitución, leyes de violencia de género o intrafamiliar"
+    },
+    {
+     "id": "igu-lgtbi",
+     "nombre": "Derechos LGTBI y personas trans",
+     "incluye": "ley trans, terapias de conversión, identidades no binarias, LGTBIfobia"
+    },
+    {
+     "id": "igu-racismo",
+     "nombre": "Racismo e igualdad de trato",
+     "incluye": "antirracismo, pueblo gitano, discriminación, delitos de odio"
+    },
+    {
+     "id": "igu-vida",
+     "nombre": "Aborto, eutanasia y vida",
+     "incluye": "aborto como derecho o su restricción, eutanasia, cuidados paliativos, protección de la vida"
+    },
+    {
+     "id": "igu-libertades",
+     "nombre": "Libertades públicas y protesta",
+     "incluye": "libertad de expresión, ley mordaza, derecho de manifestación, libertades civiles"
+    },
+    {
+     "id": "igu-laicidad",
+     "nombre": "Religión y laicidad",
+     "incluye": "laicidad del Estado, acuerdos con la Santa Sede, libertad religiosa, menús religiosos"
+    },
+    {
+     "id": "igu-memoria",
+     "nombre": "Memoria democrática",
+     "incluye": "memoria histórica o democrática, víctimas, fosas, Valle de Cuelgamuros"
+    }
+   ]
+  },
+  {
+   "id": "inmigracion",
+   "nombre": "Inmigración",
+   "subtemas": [
+    {
+     "id": "inm-fronteras",
+     "nombre": "Fronteras e inmigración irregular",
+     "incluye": "control de fronteras, llegadas irregulares, expulsiones, deportaciones, remigración, mafias, centros de internamiento"
+    },
+    {
+     "id": "inm-regularizacion",
+     "nombre": "Regularización y vías legales",
+     "incluye": "regularizaciones, arraigo, permisos de trabajo, vías legales y seguras, reagrupación familiar"
+    },
+    {
+     "id": "inm-asilo",
+     "nombre": "Asilo y refugio",
+     "incluye": "protección internacional, menores migrantes no acompañados, acogida"
+    },
+    {
+     "id": "inm-integracion",
+     "nombre": "Integración, nacionalidad y acceso a ayudas",
+     "incluye": "requisitos de nacionalidad, integración, prioridad nacional en ayudas y servicios, derechos políticos de los extranjeros"
+    }
+   ]
+  },
+  {
+   "id": "seguridad-justicia",
+   "nombre": "Seguridad, justicia y defensa",
+   "subtemas": [
+    {
+     "id": "seg-policia",
+     "nombre": "Seguridad ciudadana y policía",
+     "incluye": "Policía Nacional, Guardia Civil, plantillas, equiparación salarial, profesión de riesgo, prisiones, delincuencia"
+    },
+    {
+     "id": "seg-penal",
+     "nombre": "Código Penal y delitos",
+     "incluye": "reincidencia, penas, narcotráfico, delitos sexuales en el Código Penal, sedición, malversación, menores infractores"
+    },
+    {
+     "id": "seg-justicia",
+     "nombre": "Funcionamiento de la justicia",
+     "incluye": "medios de la justicia, juzgados, acceso a la carrera judicial, justicia gratuita, justicia restaurativa"
+    },
+    {
+     "id": "seg-terrorismo",
+     "nombre": "Terrorismo y sus víctimas",
+     "incluye": "víctimas del terrorismo, ETA, enaltecimiento, terrorismo yihadista"
+    },
+    {
+     "id": "seg-independencia-judicial",
+     "nombre": "Independencia judicial y Fiscalía",
+     "incluye": "CGPJ, elección de jueces, Fiscal General, Tribunal Constitucional, indultos, amnistía"
+    },
+    {
+     "id": "seg-defensa",
+     "nombre": "Defensa y Fuerzas Armadas",
+     "incluye": "gasto en defensa, OTAN, Fuerzas Armadas, industria de defensa, servicio militar, ciberdefensa"
+    },
+    {
+     "id": "seg-emergencias",
+     "nombre": "Emergencias y protección civil",
+     "incluye": "protección civil, gestión de catástrofes, DANA, incendios como emergencia"
+    },
+    {
+     "id": "seg-ciberseguridad",
+     "nombre": "Ciberseguridad",
+     "incluye": "ciberdelincuencia, amenazas híbridas, ciberseguridad"
+    }
+   ]
+  },
+  {
+   "id": "instituciones",
+   "nombre": "Instituciones y modelo de Estado",
+   "subtemas": [
+    {
+     "id": "inst-corrupcion",
+     "nombre": "Corrupción, transparencia e integridad",
+     "incluye": "lucha contra la corrupción, transparencia, lobbies, puertas giratorias, financiación de partidos, secretos oficiales"
+    },
+    {
+     "id": "inst-constitucion",
+     "nombre": "Constitución, Corona y sistema electoral",
+     "incluye": "reformas constitucionales, monarquía o república, ley electoral, participación ciudadana, referéndums"
+    },
+    {
+     "id": "inst-gobierno-parlamento",
+     "nombre": "Gobierno y Parlamento",
+     "incluye": "decretos ley, presupuestos prorrogados, control parlamentario, calidad legislativa, organismos reguladores independientes"
+    },
+    {
+     "id": "inst-territorial",
+     "nombre": "Modelo territorial",
+     "incluye": "Estado autonómico, competencias, unidad de España, plurinacionalidad, federalismo, Cataluña, igualdad entre españoles"
+    },
+    {
+     "id": "inst-financiacion-autonomica",
+     "nombre": "Financiación autonómica",
+     "incluye": "modelo de financiación de las comunidades, condonación de deuda autonómica, solidaridad interterritorial"
+    },
+    {
+     "id": "inst-local",
+     "nombre": "Ayuntamientos y financiación local",
+     "incluye": "financiación local, regla de gasto local, deuda municipal, fiscalidad local"
+    },
+    {
+     "id": "inst-administracion",
+     "nombre": "Administración pública",
+     "incluye": "funcionamiento de la Administración, digitalización administrativa, organismos, altos cargos, presencia del Estado en el territorio"
+    },
+    {
+     "id": "inst-medios",
+     "nombre": "Medios de comunicación",
+     "incluye": "pluralismo informativo, RTVE, publicidad institucional, desinformación"
+    },
+    {
+     "id": "inst-ceuta-melilla",
+     "nombre": "Ceuta y Melilla",
+     "incluye": "Ceuta, Melilla y su relación con Marruecos"
+    }
+   ]
+  },
+  {
+   "id": "digital",
+   "nombre": "Tecnología y entorno digital",
+   "subtemas": [
+    {
+     "id": "dig-ia",
+     "nombre": "Inteligencia artificial",
+     "incluye": "regulación y uso de la IA en el sector público y privado, IA en la economía"
+    },
+    {
+     "id": "dig-plataformas",
+     "nombre": "Plataformas, redes sociales y menores",
+     "incluye": "redes sociales, edad mínima, protección de menores en internet, grandes plataformas, responsabilidad de directivos"
+    },
+    {
+     "id": "dig-datos",
+     "nombre": "Datos, privacidad y soberanía digital",
+     "incluye": "privacidad, algoritmos, nube soberana, software libre, centros de datos, interoperabilidad"
+    }
+   ]
+  },
+  {
+   "id": "exterior",
+   "nombre": "España en el mundo",
+   "subtemas": [
+    {
+     "id": "ext-ue",
+     "nombre": "Unión Europea",
+     "incluye": "integración europea, presupuesto europeo, política comercial europea, Europa de los pueblos"
+    },
+    {
+     "id": "ext-politica",
+     "nombre": "Política exterior y multilateralismo",
+     "incluye": "ONU, alianzas, relaciones con otros países, diplomacia, imagen de España"
+    },
+    {
+     "id": "ext-conflictos",
+     "nombre": "Conflictos internacionales",
+     "incluye": "Israel y Palestina, Ucrania, Sáhara Occidental, Marruecos, paz y desarme"
+    },
+    {
+     "id": "ext-cooperacion",
+     "nombre": "Cooperación al desarrollo",
+     "incluye": "ayuda oficial al desarrollo, justicia fiscal global, cooperación"
+    },
+    {
+     "id": "ext-exterior-ciudadania",
+     "nombre": "Españoles en el exterior",
+     "incluye": "consulados, voto exterior, retorno"
+    }
+   ]
+  },
+  {
+   "id": "presentacion",
+   "nombre": "Presentación y visión general",
+   "subtemas": [
+    {
+     "id": "pres-diagnostico",
+     "nombre": "Diagnóstico y propósito del programa",
+     "incluye": "textos introductorios, diagnóstico general del país, balance de gobierno, objetivos generales y llamadas al voto que no proponen una medida concreta"
+    },
+    {
+     "id": "pres-por-anunciar",
+     "nombre": "Medidas por anunciar",
+     "incluye": "huecos del programa que remiten a la campaña sin contenido"
+    }
+   ]
+  }
+ ],
+ "ejes": [
+  {
+   "id": "eje-irpf",
+   "subtema": "imp-irpf",
+   "pregunta": "¿Qué hacer con el IRPF?",
+   "posiciones": [
+    {
+     "id": "bajar",
+     "nombre": "Bajarlo o ampliar deducciones"
+    },
+    {
+     "id": "subir-altas",
+     "nombre": "Subirlo a las rentas altas"
+    }
+   ]
+  },
+  {
+   "id": "eje-patrimonio",
+   "subtema": "imp-capital-patrimonio",
+   "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+   "posiciones": [
+    {
+     "id": "suprimir-bajar",
+     "nombre": "Suprimirlos o bajarlos"
+    },
+    {
+     "id": "reforzar",
+     "nombre": "Reforzarlos o subirlos"
+    }
+   ]
+  },
+  {
+   "id": "eje-herencias",
+   "subtema": "imp-capital-patrimonio",
+   "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+   "posiciones": [
+    {
+     "id": "suprimir-bajar",
+     "nombre": "Suprimirlo o bajarlo"
+    },
+    {
+     "id": "reforzar",
+     "nombre": "Reforzarlo o armonizarlo al alza"
+    }
+   ]
+  },
+  {
+   "id": "eje-sociedades",
+   "subtema": "imp-sociedades",
+   "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+   "posiciones": [
+    {
+     "id": "bajar",
+     "nombre": "Bajarlo"
+    },
+    {
+     "id": "subir",
+     "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+    }
+   ]
+  },
+  {
+   "id": "eje-iva",
+   "subtema": "imp-iva-indirectos",
+   "pregunta": "¿Qué hacer con el IVA?",
+   "posiciones": [
+    {
+     "id": "bajar",
+     "nombre": "Bajarlo, en general o en algunos productos"
+    },
+    {
+     "id": "subir-lujo",
+     "nombre": "Subirlo a bienes de lujo o reordenar tipos al alza"
+    }
+   ]
+  },
+  {
+   "id": "eje-ley-vivienda",
+   "subtema": "vivienda-derecho",
+   "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla"
+    },
+    {
+     "id": "mantener-ampliar",
+     "nombre": "Mantenerla, aplicarla o ampliarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-alquiler",
+   "subtema": "vivienda-alquiler",
+   "pregunta": "¿Limitar el precio del alquiler?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, regular o bajar precios"
+    },
+    {
+     "id": "no",
+     "nombre": "No, más oferta y seguridad jurídica"
+    }
+   ]
+  },
+  {
+   "id": "eje-okupacion",
+   "subtema": "vivienda-okupacion-desahucios",
+   "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+   "posiciones": [
+    {
+     "id": "desalojo-rapido",
+     "nombre": "Desalojo rápido y más penas"
+    },
+    {
+     "id": "proteger-vulnerables",
+     "nombre": "Frenar desahucios de personas vulnerables"
+    }
+   ]
+  },
+  {
+   "id": "eje-smi",
+   "subtema": "trab-salarios",
+   "pregunta": "¿Seguir subiendo el salario mínimo?",
+   "posiciones": [
+    {
+     "id": "subir",
+     "nombre": "Subirlo o reforzarlo por ley"
+    },
+    {
+     "id": "contener",
+     "nombre": "No, contenerlo o fijarlo por acuerdo"
+    }
+   ]
+  },
+  {
+   "id": "eje-jornada",
+   "subtema": "trab-jornada",
+   "pregunta": "¿Reducir la jornada laboral por ley?",
+   "posiciones": [
+    {
+     "id": "reducir",
+     "nombre": "Sí, reducirla sin bajar el sueldo"
+    },
+    {
+     "id": "no",
+     "nombre": "No por ley"
+    }
+   ]
+  },
+  {
+   "id": "eje-reforma-laboral",
+   "subtema": "trab-contratos-despido",
+   "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla"
+    },
+    {
+     "id": "mantener-profundizar",
+     "nombre": "Ampliar la protección frente al despido y la precariedad"
+    }
+   ]
+  },
+  {
+   "id": "eje-nuclear",
+   "subtema": "ener-modelo",
+   "pregunta": "¿Qué hacer con las centrales nucleares?",
+   "posiciones": [
+    {
+     "id": "mantener",
+     "nombre": "Mantenerlas o alargar su vida"
+    },
+    {
+     "id": "cerrar",
+     "nombre": "Cerrarlas según el calendario"
+    }
+   ]
+  },
+  {
+   "id": "eje-agua",
+   "subtema": "agua",
+   "pregunta": "¿Trasvases e interconexión de cuencas?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+    },
+    {
+     "id": "no",
+     "nombre": "No: gestión de la demanda, agua como bien público"
+    }
+   ]
+  },
+  {
+   "id": "eje-gestion-sanitaria",
+   "subtema": "san-modelo",
+   "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+   "posiciones": [
+    {
+     "id": "publica",
+     "nombre": "Priorizar la gestión pública directa"
+    },
+    {
+     "id": "colaboracion",
+     "nombre": "Contar con la gestión o colaboración privada"
+    }
+   ]
+  },
+  {
+   "id": "eje-regularizacion",
+   "subtema": "inm-regularizacion",
+   "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, regularizaciones o vías estables"
+    },
+    {
+     "id": "no",
+     "nombre": "No, prohibirlas y expulsar"
+    }
+   ]
+  },
+  {
+   "id": "eje-violencia-genero",
+   "subtema": "igu-violencia",
+   "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarlas o sustituirlas"
+    },
+    {
+     "id": "mantener-reforzar",
+     "nombre": "Mantenerlas o reforzarlas"
+    }
+   ]
+  },
+  {
+   "id": "eje-aborto",
+   "subtema": "igu-vida",
+   "pregunta": "¿Qué hacer con el derecho al aborto?",
+   "posiciones": [
+    {
+     "id": "blindar",
+     "nombre": "Blindarlo o ampliarlo"
+    },
+    {
+     "id": "restringir",
+     "nombre": "Restringirlo o promover alternativas"
+    }
+   ]
+  },
+  {
+   "id": "eje-trans",
+   "subtema": "igu-lgtbi",
+   "pregunta": "¿Qué hacer con la Ley Trans?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla o reformarla"
+    },
+    {
+     "id": "desplegar",
+     "nombre": "Desplegarla o ampliarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-memoria",
+   "subtema": "igu-memoria",
+   "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla"
+    },
+    {
+     "id": "ampliar",
+     "nombre": "Mantenerla o ampliarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-territorial",
+   "subtema": "inst-territorial",
+   "pregunta": "¿Hacia qué modelo territorial?",
+   "posiciones": [
+    {
+     "id": "recentralizar",
+     "nombre": "Frenar la descentralización o blindar competencias del Estado"
+    },
+    {
+     "id": "autonomico",
+     "nombre": "Mantener y mejorar el Estado autonómico"
+    },
+    {
+     "id": "federal",
+     "nombre": "Estado federal o plurinacional"
+    }
+   ]
+  },
+  {
+   "id": "eje-jefatura",
+   "subtema": "inst-constitucion",
+   "pregunta": "¿Monarquía o república?",
+   "posiciones": [
+    {
+     "id": "monarquia",
+     "nombre": "Defender la monarquía o la Corona"
+    },
+    {
+     "id": "republica",
+     "nombre": "Avanzar hacia una república"
+    }
+   ]
+  },
+  {
+   "id": "eje-defensa",
+   "subtema": "seg-defensa",
+   "pregunta": "¿Más gasto en defensa?",
+   "posiciones": [
+    {
+     "id": "aumentar",
+     "nombre": "Aumentarlo"
+    },
+    {
+     "id": "contener",
+     "nombre": "Contenerlo o priorizar la seguridad humana"
+    }
+   ]
+  },
+  {
+   "id": "eje-cgpj",
+   "subtema": "seg-independencia-judicial",
+   "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+   "posiciones": [
+    {
+     "id": "jueces",
+     "nombre": "Que los jueces elijan a los vocales judiciales"
+    },
+    {
+     "id": "parlamento",
+     "nombre": "Mantener la elección parlamentaria"
+    }
+   ]
+  },
+  {
+   "id": "eje-lengua",
+   "subtema": "edu-lenguas",
+   "pregunta": "¿Qué lengua en la escuela?",
+   "posiciones": [
+    {
+     "id": "espanol",
+     "nombre": "Garantizar el español como lengua vehicular"
+    },
+    {
+     "id": "cooficiales",
+     "nombre": "Proteger las lenguas cooficiales y la inmersión"
+    }
+   ]
+  },
+  {
+   "id": "eje-financiacion-autonomica",
+   "subtema": "inst-financiacion-autonomica",
+   "pregunta": "¿Condonar parte de la deuda autonómica?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, condonarla"
+    },
+    {
+     "id": "no",
+     "nombre": "No, rechazar la condonación"
+    }
+   ]
+  },
+  {
+   "id": "eje-capital",
+   "subtema": "imp-capital-patrimonio",
+   "pregunta": "¿Cómo deben tributar las rentas del capital?",
+   "posiciones": [
+    {
+     "id": "igualar-subir",
+     "nombre": "Subirlas o igualarlas a las del trabajo"
+    },
+    {
+     "id": "bajar",
+     "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+    }
+   ]
+  },
+  {
+   "id": "eje-amnistia",
+   "subtema": "seg-independencia-judicial",
+   "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla o anularla"
+    },
+    {
+     "id": "defender",
+     "nombre": "Defenderla"
+    }
+   ]
+  },
+  {
+   "id": "eje-sedicion",
+   "subtema": "seg-penal",
+   "pregunta": "¿Recuperar el delito de sedición?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, recuperarlo o endurecer esos delitos"
+    },
+    {
+     "id": "no",
+     "nombre": "No, o despenalizar delitos de opinión"
+    }
+   ]
+  },
+  {
+   "id": "eje-mordaza",
+   "subtema": "igu-libertades",
+   "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+   "posiciones": [
+    {
+     "id": "derogar-sustituir",
+     "nombre": "Derogarla o sustituirla"
+    },
+    {
+     "id": "mantener",
+     "nombre": "Mantenerla o reforzarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-prioridad-nacional",
+   "subtema": "inm-integracion",
+   "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+    },
+    {
+     "id": "no",
+     "nombre": "No: igualdad de acceso"
+    }
+   ]
+  },
+  {
+   "id": "eje-burka",
+   "subtema": "igu-laicidad",
+   "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí, prohibirlos"
+    },
+    {
+     "id": "no",
+     "nombre": "No"
+    }
+   ]
+  },
+  {
+   "id": "eje-clima-ritmo",
+   "subtema": "clima",
+   "pregunta": "¿Qué ritmo para la transición climática?",
+   "posiciones": [
+    {
+     "id": "acelerar",
+     "nombre": "Mantener o acelerar los objetivos"
+    },
+    {
+     "id": "frenar",
+     "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+    }
+   ]
+  },
+  {
+   "id": "eje-tauromaquia",
+   "subtema": "rural-tradiciones",
+   "pregunta": "¿Proteger la tauromaquia?",
+   "posiciones": [
+    {
+     "id": "proteger",
+     "nombre": "Sí, protegerla como patrimonio"
+    },
+    {
+     "id": "retirar",
+     "nombre": "No, retirarle la protección o la financiación"
+    }
+   ]
+  },
+  {
+   "id": "eje-prostitucion",
+   "subtema": "igu-violencia",
+   "pregunta": "¿Qué hacer con la prostitución?",
+   "posiciones": [
+    {
+     "id": "abolir",
+     "nombre": "Abolirla"
+    },
+    {
+     "id": "derechos",
+     "nombre": "Reconocer derechos a quienes la ejercen"
+    }
+   ]
+  },
+  {
+   "id": "eje-eutanasia",
+   "subtema": "igu-vida",
+   "pregunta": "¿Eutanasia o cuidados paliativos?",
+   "posiciones": [
+    {
+     "id": "mantener",
+     "nombre": "Mantenerla o garantizarla"
+    },
+    {
+     "id": "derogar",
+     "nombre": "Poner el acento en los cuidados paliativos"
+    }
+   ]
+  },
+  {
+   "id": "eje-concertada",
+   "subtema": "edu-escuela",
+   "pregunta": "¿Qué hacer con la escuela concertada?",
+   "posiciones": [
+    {
+     "id": "apoyar",
+     "nombre": "Apoyarla o garantizar la libertad de elección de centro"
+    },
+    {
+     "id": "reducir",
+     "nombre": "Reducir su financiación y priorizar la pública"
+    }
+   ]
+  },
+  {
+   "id": "eje-lomloe",
+   "subtema": "edu-escuela",
+   "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+   "posiciones": [
+    {
+     "id": "derogar",
+     "nombre": "Derogarla o sustituirla"
+    },
+    {
+     "id": "mantener",
+     "nombre": "Mantenerla o desarrollarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-jubilacion",
+   "subtema": "trab-pensiones",
+   "pregunta": "¿Qué hacer con la edad de jubilación?",
+   "posiciones": [
+    {
+     "id": "adelantar",
+     "nombre": "Adelantarla o flexibilizarla a la baja"
+    },
+    {
+     "id": "mantener-retrasar",
+     "nombre": "Mantenerla o incentivar retrasarla"
+    }
+   ]
+  },
+  {
+   "id": "eje-voto16",
+   "subtema": "fam-juventud",
+   "pregunta": "¿Votar a los 16 años?",
+   "posiciones": [
+    {
+     "id": "si",
+     "nombre": "Sí"
+    },
+    {
+     "id": "no",
+     "nombre": "No"
+    }
+   ]
+  },
+  {
+   "id": "eje-mercosur",
+   "subtema": "rural-agro",
+   "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+   "posiciones": [
+    {
+     "id": "rechazar",
+     "nombre": "Rechazarlo o exigir cláusulas espejo"
+    },
+    {
+     "id": "apoyar",
+     "nombre": "Apoyarlo"
+    },
+    {
+     "id": "salvaguardas",
+     "nombre": "Aplicarlo con salvaguardas y control"
+    }
+   ]
+  }
+ ]
+}

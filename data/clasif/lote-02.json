@@ -1,0 +1,1320 @@
+[
+ {
+  "id": "pp-0139",
+  "subtema": "infra-digital",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Impulsar el 5G en las vías de alta capacidad y puntos de recarga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0140",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Mejorar los accesos ferroviarios y viarios de los 46 puertos de interés general",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0141",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Resolver la saturación y ampliar los aeropuertos según la demanda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0142",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro",
+   "ener-modelo"
+  ],
+  "titular": "Pacto Nacional del Agua con 40.000 millones de inversión hasta 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0143",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-gobierno-parlamento"
+  ],
+  "titular": "Reformar el Reglamento para que el castellano sea lengua de trabajo del Congreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0144",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reforma legal para proteger los símbolos del Estado y de las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0145",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Derogar la Ley de Memoria Democrática y aprobar una ley de concordia",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0146",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Esclarecer y publicar cada año los crímenes de ETA sin resolver",
+  "ejes": [],
+  "nota": "SIN ENCAJE: víctimas del terrorismo"
+ },
+ {
+  "id": "pp-0147",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Prohibir homenajes a etarras y exigir colaboración para beneficios penitenciarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0148",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0149",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Elaborar los currículos de Historia con las Reales Academias y sociedades científicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0150",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Acabar con la censura y la cancelación en el apoyo cultural público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0151",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Actualizar las leyes de patrimonio y aprobar una nueva Ley de Mecenazgo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0152",
+  "subtema": "cultura",
+  "otros": [
+   "rural-tradiciones"
+  ],
+  "titular": "Proteger folclores y tradiciones y restituir el Premio Nacional de Tauromaquia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0153",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reforzar el Instituto Cervantes y crear nuevas Residencias de Artistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0154",
+  "subtema": "ext-politica",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Promoción exterior de la cultura con el español como eje diplomático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0155",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Más financiación al deporte y defender la final del Mundial 2030 en España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0156",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Cambiar la concesión de nacionalidad para exigir vínculo efectivo e integración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0157",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Nueva Ley de Nacionalidad con requisitos de acceso más exigentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0158",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Regular la pérdida de nacionalidad de no españoles de origen por delitos graves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0159",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Reconocer la nacionalidad solo a descendientes acreditados de exiliados españoles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0160",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: el Gobierno pide a los españoles que se conformen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0161",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Visión: un Estado que acompaña el esfuerzo y una clase media fuerte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0162",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diez objetivos medibles para recuperar la ambición y la autoestima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0163",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Construir un millón de viviendas y aprobar una nueva Ley del Suelo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0164",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Derogar la Ley de Vivienda y eliminar zonas tensionadas e índice de precios",
+  "ejes": [
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "derogar"
+   },
+   {
+    "eje": "eje-alquiler",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0165",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Crear proyectos residenciales estratégicos que unifiquen los trámites urbanísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0166",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Suprimir las barreras normativas y financieras a la vivienda industrializada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0167",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Fomentar la rehabilitación con IVA del 4 %, ayudas y avales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0168",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Flexibilizar edificabilidad, alturas y remontas para la regeneración urbana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0169",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Financiación con ICO, BEI y fondos europeos para suelo y vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0170",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Vincular la financiación local a objetivos de suelo y vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0171",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "trab-empleo",
+   "inm-regularizacion"
+  ],
+  "titular": "Plan de formación y empleo para los oficios de la construcción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0172",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-compra"
+  ],
+  "titular": "Reducir al 4 % el IVA de la primera vivienda para menores de 40",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0173",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Ampliar el aval público de hasta el 20 % a compradores menores de 40",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0174",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Crear la Hucha Hogar Joven con deducción del 20 % de lo aportado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0175",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Deducciones en el IRPF para inquilinos y propietarios que renueven tres años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0176",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Desalojar al ocupa en 48 horas por orden judicial",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0177",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Actualizar los mínimos familiares con la inflación y deducción familiar mensual reembolsable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0178",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Ayudar a la maternidad y facilitar la congelación de óvulos y reproducción asistida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0179",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar los permisos por nacimiento y flexibilizar cómo disfrutarlos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0180",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Incentivos a empresas por trabajadores con hijos y cuota bonificada a autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0181",
+  "subtema": "trab-jornada",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Extender los bancos de horas, horarios flexibles y teletrabajo para conciliar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0182",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Escuela infantil gratuita de cero a tres años al final de la legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0183",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0184",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Reconocimiento común en toda España y más apoyo a familias monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0185",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Reducir la pobreza infantil reforzando las ayudas a familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0186",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0187",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Prohibir cuentas en redes sociales a menores de 14 y autorización parental hasta 16",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0188",
+  "subtema": "trab-empleo",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Cheque de formación en inteligencia artificial para cada trabajador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0189",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cuota cero el primer año para nuevos autónomos y proteger su vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0190",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Eximir del IVA a autónomos que facturen menos de 85.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0191",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Bonificar la cuota del autónomo con enfermedad grave y ampliar la segunda oportunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0192",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0193",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Menos cotización por desempleo para empresas con plantillas más estables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0194",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Proteger a los enfermos graves y atajar el absentismo injustificado",
+  "ejes": [],
+  "nota": "SIN ENCAJE: incapacidad temporal y absentismo"
+ },
+ {
+  "id": "pp-0195",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reforzar la economía social con un marco normativo estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0196",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Bajar el IRPF de rentas medias y bajas y que el SMI no tribute",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0197",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Deflactar la tarifa del IRPF para que la inflación no suba impuestos",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0198",
+  "subtema": "imp-irpf",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reducir el IRPF a jóvenes de 18 a 35 años durante cuatro años",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0199",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Aplicar un IVA del 0 % a los alimentos básicos, incluidos carne y pescado",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0200",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Ampliar la libertad de amortización para descontar la inversión el mismo año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0201",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Aprobar un Estatuto del Contribuyente con derecho al error",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0202",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Intensificar la lucha contra el fraude para bajar impuestos a quien cumple",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0203",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Trato fiscal equivalente para todas las formas de ahorro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0204",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Las comunidades decidirán sus impuestos y podrán bajarlos cuanto quieran",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0205",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "eco-modelo"
+  ],
+  "titular": "Test de productividad previo a toda nueva regulación económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0206",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Revisar los umbrales que castigan el crecimiento de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0207",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Agilizar la incorporación de investigadores y tributación al 20 % seis años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0208",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Aumentar la deducción por I+D+i y la compra pública innovadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0209",
+  "subtema": "dig-ia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Apoyar la aplicación de la IA en las empresas con entornos de prueba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0210",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Crear zonas de innovación estratégica con trato fiscal favorable siete años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0211",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Tramitación prioritaria para proyectos industriales de al menos cien empleos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0212",
+  "subtema": "eco-industria",
+  "otros": [
+   "san-farmacia"
+  ],
+  "titular": "Asegurar el suministro de alimentos y medicamentos con reservas estratégicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0213",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Impulsar un turismo de más valor y menos dependiente de la temporada alta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0214",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Pacto Nacional para el campo, el mar y el monte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0215",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Bajar los impuestos a quienes viven, invierten y producen en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0216",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Mantener sin recortes la financiación de la PAC, la pesca y el POSEI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0217",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Seguro de ingresos agrarios y reforma de la Ley de la Cadena Alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0218",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Modernizar embalses y regadíos y reforzar la desalación y el agua depurada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0219",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0220",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Exigir a los alimentos importados las mismas exigencias que a los nuestros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0221",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Impulsar el crecimiento y la venta exterior del campo y el mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0222",
+  "subtema": "rural-agro",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Anticipar hasta el 70 % de la ayuda PAC a jóvenes agricultores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0223",
+  "subtema": "rural-agro",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Programa nacional para la mujer rural y del mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0224",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ingresos extra al sector primario por beneficios ambientales: carbono, agua, biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0225",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Reformar la Ley de Montes y adaptar la fiscalidad al ciclo del monte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0226",
+  "subtema": "rural-tradiciones",
+  "otros": [],
+  "titular": "Reducir las trabas a la caza sostenible y defender su papel rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0227",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Defender la pesca y aprobar una nueva Ley de Costas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0228",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Nuevo marco educativo que sustituya a la LOMLOE y refuerzo en lectura y cálculo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0229",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Medida pendiente de anunciar durante la campaña",
+  "ejes": [],
+  "nota": "SIN ENCAJE: extracto sin contenido (medida por anunciar)"
+ },
+ {
+  "id": "pp-0230",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Nota mínima para Magisterio, carrera docente y defensa jurídica del docente agredido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0231",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Libre elección de colegio y conciertos de al menos seis años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0232",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "No cerrar los centros de educación especial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0233",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Protocolo nacional contra el acoso escolar, también en la red",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0234",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Pasar de curso en la ESO con las asignaturas aprobadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0235",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ampliar plazas de FP en los ciclos con más empleo y FP dual común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0236",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Autonomía universitaria con rendición de cuentas y acreditación más sencilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0237",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "La beca como derecho por ley y FP de alta demanda sin matrícula",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0238",
+  "subtema": "san-listas-espera",
+  "otros": [
+   "san-modelo",
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Pacto de Estado por la Sanidad y plan urgente contra las listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0239",
+  "subtema": "san-profesionales",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Más profesionales sanitarios y al menos 4.500 médicos más en Atención Primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0240",
+  "subtema": "san-modelo",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Participación de los pacientes en las políticas sanitarias y protección laboral de enfermos graves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0241",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Estrategia común de prevención y reforzar la Agencia Estatal de Salud Pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0242",
+  "subtema": "san-mental",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Plan Nacional de Salud Mental 2027-2037 con financiación garantizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0243",
+  "subtema": "san-farmacia",
+  "otros": [
+   "san-prestaciones"
+  ],
+  "titular": "Agilizar el acceso a nuevos medicamentos y fondo para enfermedades raras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0244",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Deducción en el IRPF por gastos de enfermedades graves y para celíacos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0245",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Aprobar una ley nacional de cuidados paliativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0246",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-ceuta-melilla",
+   "san-profesionales"
+  ],
+  "titular": "Plan Estratégico de Sanidad para Ceuta y Melilla con financiación plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0247",
+  "subtema": "ener-modelo",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Eliminar el calendario de cierre nuclear y extender la vida de las centrales",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pp-0248",
+  "subtema": "ener-modelo",
+  "otros": [
+   "imp-iva-indirectos",
+   "eco-consumo-precios"
+  ],
+  "titular": "Suprimir el impuesto eléctrico del 7 % y crear una Tarifa Social Única",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0249",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Plan de choque de 18 meses para desbloquear el acceso a la red eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0250",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Plan nacional de seguridad del sistema eléctrico para evitar otro apagón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0251",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Revisar los ritmos de descarbonización y frenar los calendarios imposibles",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Acelerar o revisar el ritmo de descarbonización? → revisar y frenar calendarios"
+ },
+ {
+  "id": "pp-0252",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Economía circular sin obligaciones adicionales ni acelerar los tiempos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0253",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Política exterior de Estado y autorización de las Cortes en acuerdos de soberanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0254",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Situar a España en el centro de las decisiones de la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0255",
+  "subtema": "ext-ue",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Defender la PAC y la cohesión sin recortes en el presupuesto europeo 2028-2034",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0256",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Defender la españolidad de Ceuta, Melilla y Canarias y equilibrio con Marruecos y Argelia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0257",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inst-ceuta-melilla",
+   "ext-ue"
+  ],
+  "titular": "Exigir a Bruselas para Ceuta y Melilla el trato dado a fronteras con Rusia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0258",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Apoyar los esfuerzos de la ONU para una solución en el Sáhara Occidental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0259",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Mantener el apoyo a Ucrania y las sanciones contra Rusia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0260",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diálogo con el Reino Unido sobre Gibraltar y reivindicar la soberanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0261",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Relación equilibrada con Estados Unidos que evite una guerra comercial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0262",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Iberoamérica como socio prioritario y cooperación contra el narcotráfico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0263",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Exigir la libertad de los presos políticos en Cuba, Nicaragua y Venezuela",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0264",
+  "subtema": "ext-politica",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Identificar dependencias, diversificar suministros y proteger a las empresas de competencia desleal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0265",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Soluciones diplomáticas en Oriente Medio y protección de la población de Gaza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0266",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Auditar y redirigir la cooperación al desarrollo hacia programas eficaces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0267",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Una diplomacia profesionalizada, cultural y económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0268",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Plan inmediato de refuerzo consular con centralita de emergencia 24 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pp-0269",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Cierre: el programa del cambio necesario para España",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Programa para las elecciones generales del 29 de noviembre de 2026",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Propósito: más derechos, oportunidades y protección para clases medias y trabajadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Defensa de un orden democrático basado en derechos y reglas justas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: gobernar desde 2018 entre guerras, crisis energéticas e inflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0005",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: récord de empleo, menos temporalidad y escudos sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0006",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: persisten desigualdades y dificultades de acceso a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0007",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Visión: una España comprometida con Europa, la paz y el multilateralismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0008",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Visión: acelerar la transición ecológica y una transformación digital con control democrático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0009",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Visión: crecimiento con cohesión social y elección entre dos modelos de país",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0010",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Horizonte: una España más justa, verde, feminista y europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0011",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Apostar por la prosperidad compartida ante la IA y la digitalización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0012",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Balance: España como motor económico de Europa con menos desigualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0013",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Balance: los fondos Next Generation y los PERTE recuperaron la política industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0014",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Balance: récord de inversión en I+D y cobertura 5G del 99 %",
+  "ejes": [],
+  "nota": ""
+ }
+]

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Programas 29N</title>
+<meta name="description" content="Los programas electorales de Frente Amplio, PSOE, PP, Vox y otros partidos para las elecciones generales del 29 de noviembre de 2026, ordenados por temas y citados literalmente.">
+<meta name="color-scheme" content="light">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap"></noscript>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="top">
+  <div class="top-in">
+    <a class="marca" href="#/" aria-label="Programas 29N, inicio">
+      <span class="marca-n">Programas 29N</span>
+      <span class="marca-s">Generales · 29 nov 2026</span>
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#/" data-nav="temas"><svg class="nav-i" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="4.5" cy="6" r="1.4" fill="currentColor"/><circle cx="4.5" cy="12" r="1.4" fill="currentColor"/><circle cx="4.5" cy="18" r="1.4" fill="currentColor"/></svg>Temas</a>
+      <a href="#/choques" data-nav="choques"><svg class="nav-i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h14M14 4l4 4-4 4M20 16H6M10 12l-4 4 4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Dónde chocan</a>
+      <a href="#/buscar" data-nav="buscar" class="nav-buscar"><svg class="nav-i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Buscar</a>
+      <a href="#/programas" data-nav="programas"><svg class="nav-i" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6z M14 3v4h4M9 12h6M9 16h6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/></svg>Programas</a>
+    </nav>
+    <form class="busca" role="search" action="#">
+      <label class="sr" for="q">Buscar en los programas</label>
+      <svg class="busca-i" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m13 13 4.25 4.25" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <input id="q" name="q" type="search" placeholder="Buscar en los programas…" autocomplete="off" spellcheck="false">
+      <kbd class="busca-k" aria-hidden="true">/</kbd>
+    </form>
+    <button type="button" class="btn top-partidos" data-elegir aria-haspopup="dialog"><svg class="i" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3v10M3 8h10" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span class="tp-largo">Añadir partidos</span><span class="tp-corto" aria-hidden="true">Partidos</span><span class="c">4</span></button>
+  </div>
+</header>
+<main id="main" tabindex="-1"><p class="cargando">Cargando los programas…</p></main>
+<noscript><p class="fallo" style="max-width:60ch;margin:0 auto;padding:24px">Esta web necesita JavaScript para mostrar los programas.</p></noscript>
+<footer class="pie" id="pie"></footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

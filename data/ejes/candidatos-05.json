@@ -1,0 +1,1297 @@
+[
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 21,
+  "palabras": 2683,
+  "candidatos": [
+   {
+    "id": "compromis-0381",
+    "partido": "compromis",
+    "titular": "Suprimir los espectáculos taurinos con muerte y sufrimiento animal y sus subvenciones",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "- Suprimirem els espectacles taurins amb mort i patiment de l'animal i eliminarem tot tipus de subvencions i ajudes públiques a manifestacions o espectacles que impliquen patiment animal."
+   },
+   {
+    "id": "compromis-0383",
+    "partido": "compromis",
+    "titular": "Derogar la Ley 18/2013 que recoge los espectáculos taurinos como patrimonio cultural",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "- Derogarem la llei 18/2013, de 12 de noviembre que recull els espectacles taurins com a patrimoni cultural."
+   },
+   {
+    "id": "compromis-0385",
+    "partido": "compromis",
+    "titular": "Prohibir la caza con perros y los espectáculos con animales",
+    "marca_actual": [],
+    "texto": "- Prohibirem la cacera amb gossos i els espectacles que facen servir animals."
+   },
+   {
+    "id": "pacma-0004",
+    "partido": "pacma",
+    "titular": "Esterilización obligatoria y prohibir la compraventa de animales ante 300.000 abandonos al año",
+    "marca_actual": [],
+    "texto": "Al carecer aún de un registro de ámbito nacional, no existen estadísticas oficiales sobre el número de animales abandonados. Los estudios de la Fundación Affinity estiman que son cerca de 300.000 cada año, pero se trata solo de los animales recogidos por las protectoras. Ellas mismas advierten de que esta cifra se queda muy corta, pues no incluye a los miles de animales que acaban sus cortas y maltrechas vidas en las perreras municipales, a los que mueren atropellados tras ser abandonados en las carreteras o de inanición en la cuneta de la que nunca fueron rescatados. Tampoco se tiene en cuenta a los que sí son rescatados y recogidos por personas particulares con empatía.\n\nEntre las principales causas del abandono se encuentran las camadas no deseadas y el fin de la temporada de caza.\n\nEs necesario resolver este problema en su origen, estableciendo la esterilización obligatoria, prohibiendo la compraventa de animales como compañía y su uso como instrumentos de caza.\n\nEs hora de que las personas concienciadas sumemos fuerzas en torno a la única opción política que busca el bien común, también para los animales."
+   },
+   {
+    "id": "pacma-0019",
+    "partido": "pacma",
+    "titular": "Las tradiciones basadas en el maltrato animal no deben ser patrimonio cultural",
+    "marca_actual": [],
+    "texto": "España es conocida mundialmente por sus tradiciones y festejos crueles con los animales, particularmente con los toros. No podremos considerarnos un país avanzado mientras esto no cambie.\n\nLa mayor parte de la sociedad española no se identifica con estas prácticas atroces, sino que, por el contrario, se avergüenza de un concepto de cultura y tradiciones basadas en el maltrato hacia los animales.\n\nEl patrimonio cultural, que se transmite de generación en generación, debe infundir un sentimiento de identidad hacia el pueblo al que pertenece, por lo que una tradición que la gran mayoría rechaza no debería formar parte de este de ninguna manera. Más allá, el dolor, el maltrato, la tortura o la muerte no deberían formar parte de ninguna tradición que represente a un pueblo civilizado."
+   },
+   {
+    "id": "pacma-0020",
+    "partido": "pacma",
+    "titular": "Crítica al Gobierno por la ILP «No es mi cultura» y la LOPIVI",
+    "marca_actual": [],
+    "texto": "Sin embargo, los partidos que conforman el actual Gobierno, a pesar de autoproclamarse como “el más progresista de la historia”, no solo no han hecho nada en contra, sino que, por un lado, el Grupo Parlamentario Socialista impidió con su abstención en el Congreso que se debatiera la ILP “No es mi cultura”, ninguneando más de 700.000 firmas ciudadanas que solicitaban la derogación de la protección de la tauromaquia como patrimonio cultural y, por otro, SUMAR, al frente del ministerio de Infancia, dejó fuera de la reforma de la LOPIVI la protección de la infancia y la adolescencia frente a la violencia de la tauromaquia, a pesar de haberse comprometido a ello ante el Comité de Derechos del Niño de la ONU tras la denuncia presentada por PACMA.\n\nY es que, en un primer momento, este Gobierno aseguró ante el Comité que carecía de competencia para prohibir la asistencia y participación de menores en espectáculos y festejos taurinos. Sin embargo, PACMA presentó alegaciones al respecto, demostrando que eso era absolutamente falso y que el Gobierno sí que tiene dicha competencia."
+   },
+   {
+    "id": "pacma-0021",
+    "partido": "pacma",
+    "titular": "Prohibir a menores asistir a tauromaquia y caza; santuarios de cetáceos",
+    "marca_actual": [],
+    "texto": "Desde el Partido Animalista exigimos **proteger a la infancia de la violencia de la tauromaquia y la caza**, prohibiendo su asistencia y participación en estas actividades en las que se ejerce violencia extrema contra los animales, y avanzar hacia la **supresión de las excepciones legales al maltrato** y sufrimiento de los propios animales, permitidos también en otros espectáculos, como circos y delfinarios.\n\nMientras la tendencia mundial es considerar moralmente inaceptable el cautiverio de cetáceos para fines de entretenimiento, prohibiendo su cautividad e importación, estableciendo estándares tan estrictos que hacen imposible la construcción de delfinarios o prohibiendo todos los espectáculos con animales, España se ha convertido en el “delfinario de Europa”, siendo el país europeo con mayor número de delfinarios y de cetáceos en cautiverio, ocupando un deshonroso séptimo puesto en el ranking mundial.\n\nNo solo tenemos el mayor número de delfinarios y de cetáceos en cautividad, sino que, ante la inacción y la pasividad del Gobierno, nos estamos convirtiendo en el país receptor de todos los delfines y orcas procedentes de los delfinarios de los países que están prohibiendo su utilización en espectáculos.\n\nPor todo ello, desde PACMA hemos explicado al Gobierno que **España debe liderar e impulsar la habilitación y puesta en marcha de alguno de los proyectos de santuarios para cetáceos en Europa**."
+   },
+   {
+    "id": "pacma-0023",
+    "partido": "pacma",
+    "titular": "Retirar subvenciones a festejos con animales y derogar la Ley 18/2013 de tauromaquia",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "Mientras conseguimos una prohibición real, exigiremos la **prohibición de su retransmisión televisiva o radiofónica**, la **retirada inmediata de toda subvención pública** que reciban directa o indirectamente **, así como de cualquier reconocimiento que los proteja como patrimonio o bien de interés cultural**, empezando por **derogar la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural**, cuya finalidad fue la de impedir que las comunidades autónomas pudieran prohibir las corridas de toros, como quisieron hacer en Cataluña, o, incluso, regularlas sin herir ni matar a los animales, como intentaron llevar a cabo en Baleares."
+   },
+   {
+    "id": "pacma-0114",
+    "partido": "pacma",
+    "titular": "Eliminar los viajes largos y prohibir las exportaciones de animales vivos",
+    "marca_actual": [],
+    "texto": "Consideramos fundamental **eliminar los viajes largos** y, sobre todo, **prohibir las exportaciones de animales vivos a otros países**. Como reconocen los propios gobiernos, las operaciones de exportación de animales vivos a través de puertos y aeropuertos son muy complejas. En ellas intervienen un gran número de operadores de naturaleza diferente y la falta de responsabilidades claramente definidas afecta de manera negativa al bienestar de los animales.\n\nLos hechos acaecidos en 2021 en torno a los barcos Karim Allah y Elbeik, pusieron en evidencia que en la exportación de animales vivos no se puede garantizar el bienestar de los mismos.\n\nEstos dos buques, asiduos en el transporte de animales desde España a Oriente Medio, salieron en el mes de diciembre de 2020, desde Cartagena y Tarragona, respectivamente, transportando a 2.671 vacas, toros y terneros, con destino a Turquía y, posteriormente, a Libia.\n\n2.671 animales que pasaron meses navegando sin rumbo por el Mediterráneo, después de que esos países rechazaran la entrega de los animales por sospechas de estar afectados por la enfermedad conocida como lengua azul."
+   },
+   {
+    "id": "pacma-0115",
+    "partido": "pacma",
+    "titular": "Caso Karim Allah y Elbeik: los riesgos de exportar animales vivos",
+    "marca_actual": [],
+    "texto": "Hicieron falta varias denuncias de organizaciones internacionales y una misiva enviada al Ministro de Agricultura, Pesca y Alimentación del Gobierno de España desde el Comité de Investigación sobre Transporte Animal del Parlamento Europeo para que, tras más de tres meses abandonados en el Karim Allah y en el Elbeik, estos buques pudieran atracar en el muelle de Escombreras de Cartagena.\n\nTras vivir un infierno, los 2.671 toros, vacas y terneros, fueron sacrificados.\n\nEstos hechos pusieron de manifiesto que por mucha normativa sobre “protección” y “bienestar” animal que se desarrolle, nada puede garantizar el bienestar de esos animales si España y otros países europeos continúan exportando a países fuera de la UE.\n\nOrganizaciones como Animal International y TSV documentaron los métodos de transporte y los estremecedores métodos de sacrificio del ganado procedente de España en países como Arabia Saudí, Egipto, Líbano o Jordania. En algunos de estos países ni siquiera existe normativa sobre bienestar animal."
+   },
+   {
+    "id": "pacma-0222",
+    "partido": "pacma",
+    "titular": "Prohibir la caza para que los herbívoros silvestres prevengan incendios",
+    "marca_actual": [],
+    "texto": "Y es que la ganadería y las prácticas asociadas están detrás de muchos incendios. Según los datos del MITECO, más del 80% de los incendios se producen por acción humana, ya sea de manera negligente o intencionada. Respecto a las negligencias, la mayor parte se debe a quemas agrícolas y uso de motores y maquinaria pesada en los montes, que, como en el caso de Ávila, muchas veces se trata de trabajos relacionados con la ganadería. Respecto a los intencionados, cerca de un 60% se debe a “prácticas tradicionales”, entre las que destacan las quemas realizadas en el desempeño de prácticas ganaderas.\n\n**La falta de animales pastando en los montes tiene una sencilla solución: prohibir la caza**. Y es que mientras cada vez más ayuntamientos están introduciendo animales en sus entornos, como cabras o, incluso, bisontes, para que realicen esa función a modo de prevención de incendios, las CCAA no sólo permiten sino que fomentan que se persiga y se mate por deporte a millones de herbívoros silvestres, pertenecientes a especies que sí son autóctonas, impidiendo así que cumplan con esta función natural, de consumir la hierba, los matorrales y la maleza que luego se seca y provoca la devastación de los incendios."
+   },
+   {
+    "id": "pacma-0223",
+    "partido": "pacma",
+    "titular": "Prohibir la caza deportiva para recuperar la biodiversidad y frenar incendios",
+    "marca_actual": [],
+    "texto": "Tal y como ha confirmado la Asociación Española de Ecología Terrestre, la introducción de animales como el bisonte europeo no recuperaría esta función ecológica pues, como herbívoro, es un consumidor intermedio, que tanto ramonea como pasta. En cambio, herbívoros como el ciervo, el corzo, el gamo, la cabra montesa, el rebeco, el conejo y la liebre, sí cumplirían con esta función, pero todas estas especies están siendo cazadas y sus poblaciones esquilmadas.\n\nAdemás, la caza es uno de los motivos por los que se provocan incendios de manera intencionada, por lo que prohibiéndola no sólo se recuperarían las poblaciones de especies que evitarían la propagación de los incendios, sino que se evitaría la provocación de los muchos incendios relacionados directamente con la actividad cinegética.\n\nUn estudio liderado por el Consejo Superior de Investigaciones Científicas - CSIC concluyó que los espacios donde está prohibida la actividad cinegética, como son los parques nacionales, experimentan menos cambios de uso de suelo y menos incendios forestales que sus zonas periféricas.\n\nPor todo ello, desde PACMA queremos impulsar la **prohibición de la caza deportiva, con la finalidad de recuperar la biodiversidad y restaurar los ecosistemas naturales y el equilibrio medioambiental, para evitar así la devastadora propagación de los incendios forestales**."
+   },
+   {
+    "id": "pacma-0224",
+    "partido": "pacma",
+    "titular": "Prohibir la caza 30 años en terrenos quemados por intereses cinegéticos",
+    "marca_actual": [],
+    "texto": "Como ya hemos mencionado, el origen de la mayoría de los incendios se atribuye a la mano del hombre, ya sea de manera intencionada o negligente. Por ello, además de **intensificar las labores de investigación tras los incendios para determinar su origen**, para combatirlos es fundamental **tener muy en cuenta el alto componente sociológico**. Y es que, en el ámbito rural, el fuego se ha usado de manera inveterada, por un lado, para la quema de rastrojeras y la regeneración de pastos y, por otro, por intereses vinculados a la caza. La explicación es que, al quemar una determinada zona de bosque, se provoca que los animales huyan a un coto colindante, incrementando así las posibilidades de caza en ese terreno.\n\nPara evitar estas situaciones, de la misma manera que la Ley prohíbe el cambio de uso forestal durante 30 años de terrenos forestales incendiados, para evitar su quema por intereses urbanísticos, agrícolas, mineros…, así como toda actividad incompatible con la regeneración de la cubierta vegetal durante el periodo que determine la legislación autonómica, desde PACMA proponemos **prohibir la práctica de la actividad cinegética durante 30 años en terrenos afectados por incendios vinculados a intereses relacionados con esta actividad,** en términos extensivos. Es decir, **en las zonas directamente devastadas y en las colindantes a dónde se hayan desplazado los animales**."
+   },
+   {
+    "id": "pacma-0442",
+    "partido": "pacma",
+    "titular": "La ONU recomienda proteger a la infancia de la violencia de la tauromaquia",
+    "marca_actual": [],
+    "texto": "La Ley Orgánica de protección jurídica del menor incluye la protección de la infancia contra toda forma de violencia entre los principios rectores de la actuación de los poderes públicos y establece que los menores gozarán de los derechos que les reconocen la Constitución y los Tratados Internacionales, especialmente la Convención de los Derechos del Niño.\n\nLa Convención, a su vez, establece que los Estados deben adoptar las medidas necesarias para **abolir las prácticas tradicionales que sean perjudiciales para la salud de los niños**.\n\nEl Comité de Derechos del Niño, como órgano de las ONU encargado de velar por el cumplimiento de la Convención, se ha manifestado en varias ocasiones con relación a la tauromaquia como una **actividad violenta de la que es necesario proteger a la infancia**.\n\nEn 2018, tras examinar los informes de España, incluyó en sus Observaciones finales la tauromaquia en el apartado sobre “Violencia contra los niños” recomendando prohibir su asistencia y participación en estos espectáculos.\n\nSin embargo, tres años más tarde, el actual Gobierno, ignorando deliberadamente esta recomendación, elaboró la Ley Orgánica de protección integral a la infancia y la adolescencia frente a la violencia, sin mencionar, irónicamente, su exposición y participación en las tradiciones más violentas que tienen lugar en nuestro país."
+   },
+   {
+    "id": "pacma-0443",
+    "partido": "pacma",
+    "titular": "Diagnóstico: aumentan las actividades taurinas dirigidas a menores",
+    "marca_actual": [],
+    "texto": "Esta absoluta desprotección ha provocado que, ante la evidente decadencia de la tauromaquia, en los últimos años se esté produciendo un incremento exponencial de actividades organizadas, apoyadas o impulsadas por los gobiernos locales y autonómicos, para iniciar a los menores, cada vez a edades más tempranas, como encierros infantiles o campamentos taurinos infantiles. Algunas plazas han incorporado, incluso, palcos infantiles, para que menores a partir de los 5 años puedan asistir gratis a las corridas y novilladas.\n\nEs demencial, teniendo en cuenta que son numerosos los estudios que evidencian las consecuencias negativas de la participación y exposición de los menores a actividades violentas. Entre otras, que tiendan a hacerse indiferentes a la violencia, a considerarla normal, aceptable y legítima. Las corridas de toros, además, no sólo son una terrible exhibición de violencia extrema y explícita, sino que comportan elementos de celebración y glorificación de ésta.\n\nY no sólo debemos lamentar que se esté lesionando o poniendo en riesgo la integridad mental, moral y social de los menores, sino también la física, puesto que, cada año, son varios los que resultan heridos durante la celebración de estos festejos."
+   },
+   {
+    "id": "pacma-0444",
+    "partido": "pacma",
+    "titular": "Denuncia ante el Comité de Derechos del Niño de la inacción del Gobierno",
+    "marca_actual": [],
+    "texto": "De cara al inicio de un nuevo procedimiento de revisión a España, en 2022, PACMA presentó ante el Comité el informe “Desprotección de la infancia frente a la violencia de la tauromaquia en España”, informando tanto del incremento de actividades dirigidas a fomentar la tauromaquia entre los menores, como sobre la absoluta inacción del Gobierno al respecto.\n\nPosteriormente, el Gobierno presentaba su Séptimo informe periódico ante el Comité, al que tuvo la desfachatez de mentir descaradamente, asegurando que el Tribunal Constitucional había establecido, _de manera expresa e inequívoca_, que la competencia para prohibir la asistencia y/o participación de menores a los festejos taurinos corresponde a las CCAA. Desde PACMA presentamos entonces alegaciones, demostrando que el Gobierno había mentido, puesto que el TC jamás ha establecido tal cosa y el Gobierno sí tiene competencia para ello."
+   },
+   {
+    "id": "pacma-0446",
+    "partido": "pacma",
+    "titular": "Prohibir la asistencia y participación de menores en tauromaquia y caza",
+    "marca_actual": [],
+    "texto": "En esta ocasión, el Comité ha sido mucho más contundente, no sólo reiterando su recomendación de prohibir la asistencia y participación de menores en espectáculos taurinos, sino añadiendo que se debe prohibir en todo tipo de espectáculos, festejos y escuelas taurinas, además de exigir al Gobierno campañas de sensibilización dirigidas tanto a la población, como a los medios de comunicación y, especialmente, a los cargos públicos, sobre los efectos negativos que tiene en los niños y niñas la violencia asociada a la tauromaquia.\n\nCuál fue nuestra sorpresa cuando, meses más tarde, comprobamos que el Anteproyecto de Ley Orgánica por el que se modificaba la LOPIVI, de nuevo, no hacía ninguna mención a su exposición a la violencia de la tauromaquia.\n\nQueda claro que sólo PACMA es capaz de impulsar la **prohibición de la asistencia y participación de menores en espectáculos, festejos y cualquier tipo de actividad en la que se ejerza violencia, como la tauromaquia y la caza**."
+   },
+   {
+    "id": "fo-0111",
+    "partido": "fo",
+    "titular": "La caza y el control de fauna como competencia del Estado con cazadores locales",
+    "marca_actual": [],
+    "texto": "10. Determinar la caza y el control poblacional de la fauna como competencia del Estado. Se reforzarán los cuerpos rurales especializados en la sostenibilidad de los ecosistemas, que se apoyarán en los cazadores locales para el control de poblaciones y la protección de las explotaciones agrícolas y ganaderas."
+   },
+   {
+    "id": "fe-0147",
+    "partido": "fe",
+    "titular": "Desregular la caza y la pesca sobre especies con crecimiento insostenible",
+    "marca_actual": [],
+    "texto": "- 12.12. Plan de desregulación en materia de caza y pesca, permitiendo la actividad cinegética sobre especies con un crecimiento insostenible de población, las cuales desequilibran el medio y las actividades agrícolas y ganaderas."
+   },
+   {
+    "id": "fe-0240",
+    "partido": "fe",
+    "titular": "Protección especial de la tauromaquia con patrocinio público de festejos",
+    "marca_actual": [
+     "proteger"
+    ],
+    "texto": "- 21.7. Protección especial y promoción de la tauromaquia, facilitando la celebración de festejos con el patrocinio de la Administración Pública."
+   },
+   {
+    "id": "autonomos-0097",
+    "partido": "autonomos",
+    "titular": "Ley de protección animal que diferencie mascotas de animales de trabajo, caza y ganadería",
+    "marca_actual": [],
+    "texto": "95. **Ley de Protección Animal equilibrada con el mundo rural y ganadero** — Protección penal firme contra el maltrato y abandono de animales domésticos, con apoyo a protectoras para esterilización y vacunación, diferenciando claramente las mascotas urbanas de los animales de trabajo, caza y ganadería.\n - **Viabilidad:** _Es viable mediante una normativa consensuada con veterinarios y el sector primario que proteja a los animales sin criminalizar actividades rurales tradicionales._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   }
+  ],
+  "n": 26,
+  "palabras": 1696,
+  "candidatos": [
+   {
+    "id": "compromis-0035",
+    "partido": "compromis",
+    "titular": "Sustituir en tres años los módulos por una Estimación Directa Especial",
+    "marca_actual": [],
+    "texto": "- Defensarem l'eliminació progressiva del sistema d'estimació objectiva (sistema de mòduls), implantant un període transitori, durant el qual aquest model s'anirà substituint progressivament per un nou règim fiscal d'Estimació Directa Especial, fins la seua eliminació definitiva en un període de 3 anys."
+   },
+   {
+    "id": "compromis-0042",
+    "partido": "compromis",
+    "titular": "Suprimir toda desgravación fiscal a los planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "- Suprimirem tota desgravació fiscal als plans de pensions privats per evitar la competència amb el sistema públic de pensions ."
+   },
+   {
+    "id": "compromis-0044",
+    "partido": "compromis",
+    "titular": "Compensar a pensionistas que tributaron doble por mutualidades laborales antes de 1979",
+    "marca_actual": [],
+    "texto": "- Promourem una compensació fora de l’actual procediment de l’IRPF per a aquelles persones pensionistes que van tributar doblement per aportacions a mutualitats laborals obligatòries abans de 1979, a les quals l’AEAT no pot compensar-les amb devolucions degut a que, pels seus baixos ingressos no se’ls han practicat retencions."
+   },
+   {
+    "id": "compromis-0139",
+    "partido": "compromis",
+    "titular": "Deflactar el IRPF a las rentas inferiores a 30.000 €",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació."
+   },
+   {
+    "id": "compromis-0150",
+    "partido": "compromis",
+    "titular": "Simplificar tributos para reducir la elusión fiscal",
+    "marca_actual": [],
+    "texto": "- Simplificarem tributs per tal de reduir l’elusió fiscal."
+   },
+   {
+    "id": "compromis-0153",
+    "partido": "compromis",
+    "titular": "Gravar en el IRPF la tenencia injustificada de viviendas vacías",
+    "marca_actual": [],
+    "texto": "- Gravarem a l’IRPF la tinença d’habitatges buits injustificadament."
+   },
+   {
+    "id": "compromis-0413",
+    "partido": "compromis",
+    "titular": "Deducción en el IRPF para jóvenes de alquiler con rentas de hasta 33.000 euros",
+    "marca_actual": [],
+    "texto": "- Establirem una deducció estatal en l'IRPF per a les persones joves que viuen de lloguer, amb rendes anuals de fins a 33.000 euros, per reduir l'esforç econòmic que suposa accedir a un habitatge i facilitar l'emancipació juvenil."
+   },
+   {
+    "id": "pacma-0040",
+    "partido": "pacma",
+    "titular": "Incluir la protección animal en la casilla del 0,7 % del IRPF",
+    "marca_actual": [],
+    "texto": "Otra propuesta de PACMA, que ya presentamos formalmente al Gobierno, es la **inclusión de la protección animal como una de las actividades consideradas de interés social a tener en cuenta en la determinación de las bases reguladoras de las ayudas financiadas con el porcentaje fijado del rendimiento del IRPF**, el conocido 0,7%, que los y las contribuyentes deciden destinar a actividades de interés general consideradas de interés social, marcando la casilla al efecto al realizar su declaración de la Renta."
+   },
+   {
+    "id": "pacma-0130",
+    "partido": "pacma",
+    "titular": "Deducir en el IRPF el 10 % del gasto veterinario, hasta 500 €",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "Consideramos fundamental **aliviar la carga financiera de las familias interespecie**, para lo que planteamos la introducción de **deducciones en el Impuesto sobre la Renta de las Personas Físicas (IRPF)** estableciendo un límite de renta y permitiendo deducciones en la cuota a pagar, con la colaboración de los centros veterinarios, de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales."
+   },
+   {
+    "id": "pacma-0369",
+    "partido": "pacma",
+    "titular": "Bonificar IRPF e IBI al alquiler barato y rebajar ITP e IVA",
+    "marca_actual": [],
+    "texto": "- Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona; reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual."
+   },
+   {
+    "id": "fo-0039",
+    "partido": "fo",
+    "titular": "Diagnóstico: un sistema fiscal que castiga al que trabaja y favorece a los ricos",
+    "marca_actual": [],
+    "texto": "Los impuestos en España son un verdadero negocio para políticos y empresarios que aprovechan su posición de privilegio respecto al resto de españoles. La financiación de chiringuitos, instituciones sin oficio ni beneficio y negocios personales bebe de un sistema impositivo que castiga al que trabaja y asfixia a los que menos tienen.\n\nLa carga fiscal que sufren los trabajadores, los autónomos y las pequeñas empresas, contrasta con la situación de privilegio que vive una oligarquía parasitaria, que, además, en muchos casos tributan fuera de España. Se trata de un sistema fiscal diseñado para los ricos, y que no tiene en cuenta las necesidades de la gran mayoría de españoles, ni mucho menos los retos que tenemos delante como país.\n\nTanto la izquierda como la derecha mantienen un sistema totalmente insostenible que les reporta grandes beneficios a ellos y sus socios. Y, como si esto fuera poco, los políticos de la “nueva izquierda”, desde sus butacas promueven una criminalización constante hacia los autónomos, tratando de separar su lucha de la del resto de trabajadores. La realidad es que el 80% de los autónomos ni siquiera tienen trabajadores a su cargo, pagan por trabajar y no pueden ponerse enfermos. Ellos también son trabajadores."
+   },
+   {
+    "id": "fo-0040",
+    "partido": "fo",
+    "titular": "Renovar el sistema fiscal con un Estado que priorice a los trabajadores",
+    "marca_actual": [],
+    "texto": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos. El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.\n\nPor estas razones, creemos que es necesario implementar las siguientes medidas:"
+   },
+   {
+    "id": "fo-0041",
+    "partido": "fo",
+    "titular": "Bajar el IRPF a las rentas bajas y subirlo a las más altas",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "1. Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos."
+   },
+   {
+    "id": "fe-0097",
+    "partido": "fe",
+    "titular": "Expropiar suelo rústico inactivo y exención de IRPF cinco años a nuevos residentes",
+    "marca_actual": [],
+    "texto": "- 8.4. Así mismo, proponemos una Ley de Retorno e Industrialización del Suelo Comunal y Rústico Inactivo, que audite y expropie el usufructo por inactividad de terrenos para destinarlos al Plan de Reindustrialización Nacional y cree la figura de \"Estatus de Residente de Alta Prioridad Demográfica\", destinada a los nuevos trabajadores españoles de los sectores primario y secundario en estas zonas, con rebajas en las cotizaciones y exenciones en el pago de IRPF los cinco primeros años, así como acceso prioritario a vivienda social rehabilitada en estas zonas a precios testimoniales."
+   },
+   {
+    "id": "fe-0104",
+    "partido": "fe",
+    "titular": "Crear más tramos impositivos para asegurar la progresividad",
+    "marca_actual": [],
+    "texto": "- 9.7. Revisión impositiva. Creación de más tramos impositivos para asegurar la progresividad del devengo de los impuestos."
+   },
+   {
+    "id": "fe-0106",
+    "partido": "fe",
+    "titular": "Deflactar y bajar progresivamente el IRPF",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- 9.9. Deflactación inicial conforme al porcentaje de inflación real y bajada progresiva del Impuesto sobre la Renta de las Personas Físicas. Nada más injusto que gravar a los trabajadores españoles en sus quehaceres diarios."
+   },
+   {
+    "id": "fe-0109",
+    "partido": "fe",
+    "titular": "Introducir el «coeficiente familiar» en la tributación de los ingresos",
+    "marca_actual": [],
+    "texto": "- 9.12. Introducción del llamado \"coeficiente familiar\": el coeficiente es crucial a favor de las madres de familia que optan por renunciar a su carrera profesional para centrarse en el cuidado de sus hijos. Con el coeficiente familiar, los ingresos se gravarían de la misma manera (más favorable) tanto cuando ambos cónyuges trabajan como cuando sólo trabaja un miembro de la familia."
+   },
+   {
+    "id": "autonomos-0003",
+    "partido": "autonomos",
+    "titular": "Cuota cero de autónomos cuando los ingresos no alcancen el SMI",
+    "marca_actual": [],
+    "texto": "01. **Cuota Cero automática cuando los ingresos no alcancen el SMI** — Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa.\n - **Viabilidad:** _Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo._"
+   },
+   {
+    "id": "autonomos-0011",
+    "partido": "autonomos",
+    "titular": "Bonificar el 100 % de la cotización del primer empleado durante un año",
+    "marca_actual": [],
+    "texto": "09. **Bono Primer Empleado: bonificación del 100 % de cotización el primer año** — Bonificación íntegra de la cuota empresarial a la Seguridad Social durante los primeros doce meses para cualquier autónomo persona física o microempresa que contrate de forma indefinida a su primer trabajador asalariado, manteniendo un 50 % de reducción durante el segundo año.\n - **Viabilidad:** _Es viable y autofinanciable porque en España existen casi 2 millones de autónomos sin asalariados. Si apenas un 5 % da el paso de contratar, se crean 100.000 empleos netos que ahorran prestaciones por desempleo y generan recaudación directa vía IRPF y consumo._"
+   },
+   {
+    "id": "autonomos-0012",
+    "partido": "autonomos",
+    "titular": "Deducción plena en IRPF e IVA de los gastos afectos al negocio",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "10. **Deducción plena y objetiva de gastos afectos al negocio** — Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora.\n - **Viabilidad:** _Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada._"
+   },
+   {
+    "id": "autonomos-0018",
+    "partido": "autonomos",
+    "titular": "Eliminar la retención del 19 % en el alquiler de locales a autónomos",
+    "marca_actual": [],
+    "texto": "16. **Eliminación de retenciones en alquileres de locales comerciales** — Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales.\n - **Viabilidad:** _Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación final del propietario en su IRPF o Impuesto de Sociedades, reduciendo errores formales y sanciones innecesarias._"
+   },
+   {
+    "id": "autonomos-0019",
+    "partido": "autonomos",
+    "titular": "Recuperar la deducción estatal en el IRPF por alquiler de vivienda habitual",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "17. **Deducción estatal por alquiler de vivienda habitual y local profesional** — Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas, extendiendo un tramo deducible específico cuando parte de la vivienda esté afecta declaradamente al teletrabajo o actividad profesional.\n - **Viabilidad:** _Es viable porque incentiva la declaración oficial de los contratos de arrendamiento frente al mercado sumergido, compensando parte del coste fiscal mediante el afloramiento de rentas inmobiliarias no declaradas._"
+   },
+   {
+    "id": "autonomos-0024",
+    "partido": "autonomos",
+    "titular": "Reducciones en IRPF por planes de pensiones hasta 5.000 € y cuenta ahorro vivienda",
+    "marca_actual": [],
+    "texto": "22. **Incentivos fiscales al ahorro privado y a la previsión complementaria** — Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos.\n - **Viabilidad:** _Es viable porque fomenta el ahorro nacional a largo plazo, reduce la dependencia futura del sistema público de pensiones y facilita que los jóvenes acumulen la entrada para su primera vivienda._"
+   },
+   {
+    "id": "autonomos-0026",
+    "partido": "autonomos",
+    "titular": "Umbral único de 22.000 € para declarar la Renta con varios pagadores",
+    "marca_actual": [],
+    "texto": "24. **Eliminación de penalizaciones fiscales por tener dos o más pagadores** — Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales.\n - **Viabilidad:** _Es viable mediante un simple ajuste técnico en el Reglamento del IRPF y en las tablas de retención, evitando que trabajadores precarios o en pluriempleo sufran liquidaciones inesperadas en la Renta._"
+   },
+   {
+    "id": "autonomos-0028",
+    "partido": "autonomos",
+    "titular": "Rebajar dos puntos las cotizaciones empresariales en empresas de menos de 50 trabajadores",
+    "marca_actual": [],
+    "texto": "26. **Reducción progresiva de las cotizaciones sociales a cargo de la empresa** — Rebaja escalonada de dos puntos en las cotizaciones empresariales por contingencias comunes para pymes y autónomos con menos de 50 trabajadores, vinculada al mantenimiento del empleo indefinido.\n - **Viabilidad:** _Es viable porque España soporta una de las cuñas fiscales sobre el trabajo más altas de la OCDE; reducir el coste laboral no salarial incentiva nuevas contrataciones que amplían el número total de cotizantes._"
+   },
+   {
+    "id": "autonomos-0069",
+    "partido": "autonomos",
+    "titular": "Deducción del 20 % en el IRPF por gafas, audífonos, ortodoncia y prótesis",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "67. **Deducción del 20 % en IRPF por gafas, audífonos, ortodoncia y prótesis** — Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica (salud bucodental, óptica, audífonos y prótesis ortopédicas) mediante factura médica.\n - **Viabilidad:** _Es viable y fomenta la facturación transparente en clínicas dentales y ópticas, mejorando la calidad de vida de mayores, niños y trabajadores._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 35,
+  "palabras": 1285,
+  "candidatos": [
+   {
+    "id": "compromis-0404",
+    "partido": "compromis",
+    "titular": "Eliminar los límites a la adopción internacional por parejas del mismo género",
+    "marca_actual": [],
+    "texto": "- Treballarem en l'àmbit internacional per a eliminar les limitacions a l'adopció internacional per part de parelles del mateix gènere."
+   },
+   {
+    "id": "compromis-0423",
+    "partido": "compromis",
+    "titular": "Plan de acción contra el acoso escolar LGTBIQ+",
+    "marca_actual": [],
+    "texto": "- Implementarem un pla d'acció contra l'assetjament escolar LGTBIQ+."
+   },
+   {
+    "id": "compromis-0425",
+    "partido": "compromis",
+    "titular": "Sensibilizar a la comunidad educativa contra la discriminación sexista y LGTBIfóbica",
+    "marca_actual": [],
+    "texto": "- Impulsarem programes de sensibilització dirigits al conjunt de la societat educativa, pares, mares, docents i alumnes, que destaque la importància de combatre la discriminació i eduque en valors de convivència no sexistes, no LGTBIfòbics, no masclistes i de respecte a la diversitat i promoga la creació d'una societat lliure de discriminació."
+   },
+   {
+    "id": "compromis-0482",
+    "partido": "compromis",
+    "titular": "Reforzar el Servicio Arcoíris y las OAVD para víctimas de delitos de odio",
+    "marca_actual": [],
+    "texto": "- Reforçarem el Servicio Arcoiris i les OAVD per millorar l’assessorament i assistència a les víctimes de delictes d’odi."
+   },
+   {
+    "id": "compromis-0483",
+    "partido": "compromis",
+    "titular": "Tipificar como delito las terapias de conversión",
+    "marca_actual": [],
+    "texto": "- Tipificarem específicament les teràpies de conversió com a delicte i establirem mecanismes de protecció i reparació especialment per a les víctimes menors d’edat."
+   },
+   {
+    "id": "compromis-0484",
+    "partido": "compromis",
+    "titular": "Formación obligatoria en diversidad y derechos LGTBIQ+ para todo el personal público",
+    "marca_actual": [],
+    "texto": "- Implantarem amb caràcter obligatori la formació en diversitat i drets LGTBIQ+ de totes les persones que treballen en l’administració pública, inclosa la de justícia i els FCSE."
+   },
+   {
+    "id": "compromis-0485",
+    "partido": "compromis",
+    "titular": "Blindar la ley trans y LGTBI y el matrimonio igualitario",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Blindarem els avanços en matèria de drets LGTBIQ+, com ara la Llei per la igualtat real i efectiva de les persones trans i per a la garantia dels drets de les persones LGTBI, i el matrimoni igualitari."
+   },
+   {
+    "id": "compromis-0486",
+    "partido": "compromis",
+    "titular": "Recursos para la diversidad sexual, de género y familiar en el sistema educativo",
+    "marca_actual": [],
+    "texto": "- Reforçarem els recursos perquè s’implemente la diversitat sexual, de gènere i familiar en el sistema educatiu, així com la lluita contra l’assetjament, que incloga la formació i informació sobre la realitat LGTBIQ+, i l'atenció i orientació a les problemàtiques específiques de les persones LGTBIQ+ a tots els i les professionals del sistema educatiu."
+   },
+   {
+    "id": "compromis-0487",
+    "partido": "compromis",
+    "titular": "Seguir avanzando en los derechos de las personas trans y no binarias",
+    "marca_actual": [],
+    "texto": "- Continuarem avançant en els drets de les persones trans i no-binàries."
+   },
+   {
+    "id": "compromis-0488",
+    "partido": "compromis",
+    "titular": "Servicio psicopedagógico de los centros públicos en colaboración con colectivos LGTBIQ+",
+    "marca_actual": [],
+    "texto": "- Garantirem que el servei psicopedagògic mantinga una estreta col·laboració amb els col·lectius LGTBIQ+ en tots els centres públics d'ensenyament, perquè puga tindre coneixements sobre diversitat sexual, familiar i de gènere, així com atendre a persones estudiants, familiars, tutors i tutores, equip docent i directiu de cada centre; o, si és necessari, intervindre en els conflictes que sorgisquen en els centres."
+   },
+   {
+    "id": "compromis-0489",
+    "partido": "compromis",
+    "titular": "Protocolos laborales contra la discriminación por orientación sexual e identidad de género",
+    "marca_actual": [],
+    "texto": "- Impulsarem l’elaboració de protocols sobre la igualtat de tracte en el treball i l'ocupació amb el concurs i la implicació de sindicats i associacions d'empresaris/ àries per a lluitar contra la discriminació per orientació sexual i identitat de gènere en l'àmbit laboral."
+   },
+   {
+    "id": "compromis-0490",
+    "partido": "compromis",
+    "titular": "Protocolos y formación sanitaria para una atención sin prejuicios",
+    "marca_actual": [],
+    "texto": "- Reforçarem els protocols i la formació en l’àmbit sanitari perquè es garantisca l’atenció sense prejudicis, amb perspectiva de gènere i tenint en compte la diversitat sexual i de gènere."
+   },
+   {
+    "id": "compromis-0491",
+    "partido": "compromis",
+    "titular": "Seguir visibilizando la conmemoración del Orgullo LGTBI",
+    "marca_actual": [],
+    "texto": "- Continuarem visibilitzant la commemoració del dia de l'Orgull LGTBI, com a dia de celebració i reivindicació dels drets humans de les persones lesbianes, gais, trans, bisexuals, intersexuals i queer."
+   },
+   {
+    "id": "compromis-0492",
+    "partido": "compromis",
+    "titular": "Promover iniciativas culturales e investigación sobre diversidad sexual y de género",
+    "marca_actual": [],
+    "texto": "- Promocionarem les iniciatives culturals relacionades amb la realitat LGTBI i del debat sobre el gènere i la sexualitat. Promoció en la cerca de la col·laboració de les universitats, la reflexió i la recerca científica sobre la diversitat sexual i de gènere."
+   },
+   {
+    "id": "compromis-0493",
+    "partido": "compromis",
+    "titular": "Defender los derechos LGTBI en los foros y organismos internacionales",
+    "marca_actual": [],
+    "texto": "- Reforçarem el compromís i la cooperació per a la defensa i promoció dels drets de les persones LGTBI en tots els fòrums i organismes internacionals en els quals participa Espanya."
+   },
+   {
+    "id": "pacma-0302",
+    "partido": "pacma",
+    "titular": "Planes de educación sobre la diversidad sexual, de género y familiar",
+    "marca_actual": [],
+    "texto": "- **Desarrollo de planes de educación** en los centros que den acceso a formación e información **sobre la diversidad sexual, de género y familiar**."
+   },
+   {
+    "id": "pacma-0459",
+    "partido": "pacma",
+    "titular": "Compromiso contra la discriminación y con las demandas del colectivo LGTBI+",
+    "marca_actual": [],
+    "texto": "PACMA está comprometido con la lucha contra toda discriminación y, por tanto, con la normalización de los ciudadanos y ciudadanas lesbianas, gais, transexuales, bisexuales, intersexuales y más, tratando de ser un referente positivo de integración y de lucha contra toda discriminación por motivo de orientación sexual o identidad de género. Por ello, suscribimos e incorporamos las demandas del colectivo LGTBI+, como:"
+   },
+   {
+    "id": "pacma-0460",
+    "partido": "pacma",
+    "titular": "Reforzar los contenidos sobre diversidad sexual, de género y familiar en educación",
+    "marca_actual": [],
+    "texto": "- Refuerzo de la **inclusión de contenidos sobre la diversidad sexual, de género y familiar en los sistemas educativos.**"
+   },
+   {
+    "id": "pacma-0461",
+    "partido": "pacma",
+    "titular": "Prevenir el acoso por LGTBIfobia en los centros educativos",
+    "marca_actual": [],
+    "texto": "- Potenciación de la **prevención del acoso y la violencia por homofobia, lesbofobia, bifobia y transfobia en los centros educativos**."
+   },
+   {
+    "id": "pacma-0462",
+    "partido": "pacma",
+    "titular": "Programas de visibilización de la diversidad y campañas contra la LGTBIfobia en la escuela",
+    "marca_actual": [],
+    "texto": "- Fortalecimiento de los **programas de sensibilización y visibilización de la diversidad sexual, de género y familiar en el ámbito escolar**, y desarrollo de **campañas específicas para la prevención de la LGTBIfobia y del acoso por orientación sexual o identidad de género**."
+   },
+   {
+    "id": "pacma-0463",
+    "partido": "pacma",
+    "titular": "Servicios de apoyo y orientación a jóvenes LGTBI+",
+    "marca_actual": [],
+    "texto": "- Promoción para la **creación y/o el desarrollo de servicios de apoyo y orientación a jóvenes LGTBI+**."
+   },
+   {
+    "id": "pacma-0464",
+    "partido": "pacma",
+    "titular": "Programas de información y atención a personas LGTBI+",
+    "marca_actual": [],
+    "texto": "- Fomento de **programas de Información y Atención a personas LGTBI+**, que contemplen también actuaciones de carácter formativo, informativo, de asesoramiento y sensibilización dirigidas tanto a profesionales como al conjunto de la población."
+   },
+   {
+    "id": "pacma-0465",
+    "partido": "pacma",
+    "titular": "Apoyo psicológico y social a personas LGTBI+ y en procesos de transición",
+    "marca_actual": [],
+    "texto": "- Impulso para el desarrollo de **programas, servicios, campañas y/o actividades de apoyo psicológico y social dirigidos a personas LGTBI+** con objeto de ayudarles a enfrentar y superar la LGTBfobia, así como de apoyar a las personas trans a lo largo del proceso de transición."
+   },
+   {
+    "id": "pacma-0466",
+    "partido": "pacma",
+    "titular": "Campañas de respeto a la diversidad sexual y familiar",
+    "marca_actual": [],
+    "texto": "- Realización de **campañas de normalización social y de respeto tanto a la diversidad sexual como familiar**."
+   },
+   {
+    "id": "pacma-0467",
+    "partido": "pacma",
+    "titular": "Incluir a las familias LGTBI+ en las políticas de familia",
+    "marca_actual": [],
+    "texto": "- **Inclusión y reconocimiento de las familias LGTBI+ en las políticas sobre familias**."
+   },
+   {
+    "id": "fo-0023",
+    "partido": "fo",
+    "titular": "Defender el derecho del pueblo saharaui a la autodeterminación",
+    "marca_actual": [],
+    "texto": "4. España asumirá su deuda histórica y defenderá sin reservas el derecho del pueblo saharaui a la autodeterminación."
+   },
+   {
+    "id": "fo-0085",
+    "partido": "fo",
+    "titular": "Crítica al Ministerio de Igualdad y rechazo del feminismo en todas sus formas",
+    "marca_actual": [],
+    "texto": "El Ministerio de Igualdad, ha sido el claro ejemplo de la degeneración de este movimiento, apostando por leyes como la Ley Trans o La Ley Solo Sí Es Sí, leyes que perjudican directamente a las mujeres. Este ministerio que cada año tiene más financiación ha convertido la cuestión de la mujer en un negocio. Muy lejos de promover leyes de natalidad, se han dedicado a sacar campañas publicitarias para enfrentar a hombres y mujeres, como si nuestros intereses fueran contrapuestos. Se inventan problemas que no son reales para las mujeres en España, como el paro, la vivienda o la subida de precios, problemas muy parecidos a la mayoría de hombres trabajadores de este país.\n\nPor ello, el Frente Obrero tiene que apostar por un movimiento amplio, formado por mujeres y hombres dispuestos a sumar a la lucha, sin complejos ni victimizaciones, apoyándose hombro con hombro.\n\nSomos firmes defensores de la igualdad real y la lucha por conseguirla. Precisamente por ello, somos contrarios al feminismo en todas sus formas y variantes.\n\nPor todo lo descrito proponemos las siguientes medidas:"
+   },
+   {
+    "id": "fo-0087",
+    "partido": "fo",
+    "titular": "Derogar la Ley Trans",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "2. Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas."
+   },
+   {
+    "id": "fe-0088",
+    "partido": "fe",
+    "titular": "Matrimonio y familia reservados a un padre y una madre",
+    "marca_actual": [],
+    "texto": "- 7.1. Los falangistas nos posicionamos del lado de la única familia que existe; la natural, compuesta por un padre y una madre. Por ello, creemos que ambos son los únicos depositarios del derecho a contraer matrimonio y alumbrar una familia."
+   },
+   {
+    "id": "fe-0089",
+    "partido": "fe",
+    "titular": "Oposición a las corrientes ideológicas LGTBI y feministas",
+    "marca_actual": [],
+    "texto": "- 7.2. Estamos frontalmente en contra de todas las corrientes ideológicas LGTBI y feministas, que cuestionan abiertamente la naturaleza del ser humano y de la institución de la familia."
+   },
+   {
+    "id": "fe-0090",
+    "partido": "fe",
+    "titular": "Derogar las leyes LGTBI y de género, incluida la Ley de Violencia de Género",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- 7.3. Derogaremos todas las Leyes que reconozcan a estos “colectivos”, así como las llamadas de ‘género’ –incluida la conocida Ley de Violencia de Género-, y suprimiremos todos los privilegios y subvenciones que se les hayan concedido por pertenecer a los mismos, gozando exclusivamente de los derechos y obligaciones inherentes a su condición de ciudadanos españoles."
+   },
+   {
+    "id": "fe-0193",
+    "partido": "fe",
+    "titular": "Cesar las subvenciones a «mafias LGTB» y a la «memoria histórica»",
+    "marca_actual": [],
+    "texto": "- 18.6. Cese inmediato de cualquier tipo de subvención a mafias LGTB, a la mal llamada “memoria histórica” y demás sinsentidos que sangran las arcas públicas con fines puramente sectarios y partidistas."
+   },
+   {
+    "id": "fe-0231",
+    "partido": "fe",
+    "titular": "Atención psicosocial a la disforia de género y prohibir cirugías de cambio de sexo",
+    "marca_actual": [],
+    "texto": "- 20.7. Plan de atención psicosocial a las personas con disforia de género. Prohibición de las terapias y cirugías de cambio de sexo."
+   },
+   {
+    "id": "pcte-0091",
+    "partido": "pcte",
+    "titular": "Reconocer la República Árabe Saharaui Democrática y un referéndum de autodeterminación",
+    "marca_actual": [],
+    "texto": "- **Sáhara Occidental** — **Reconocimiento de la República Árabe Saharaui Democrática** y referéndum de autodeterminación libre y vinculante para el pueblo saharaui. España, como antigua potencia administradora, debe retirar su apoyo al plan de autonomía marroquí y renunciar a cualquier acuerdo con Marruecos a costa del pueblo saharaui y de sus recursos."
+   },
+   {
+    "id": "pcte-0100",
+    "partido": "pcte",
+    "titular": "Proteger a las personas LGTB frente al despido, el acoso y la discriminación",
+    "marca_actual": [],
+    "texto": "- **Personas LGTB** — **Protección de las personas LGTB** frente al despido, el acoso laboral, la discriminación en el acceso a la vivienda y las agresiones en todo tipo de empresas, también las de menos de 50 trabajadores. Respuesta organizada en barrios y centros de trabajo ante cualquier agresión."
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 15,
+  "palabras": 1097,
+  "candidatos": [
+   {
+    "id": "compromis-0043",
+    "partido": "compromis",
+    "titular": "Eliminar las ventajas fiscales de los PIAS y los SIALP",
+    "marca_actual": [],
+    "texto": "- Eliminarem els avantatges fiscals de PIAS (pla individual d'estalvi sistemàtic) i SIALP (assegurança individual d'estalvi a llarg termini), productes dissenyats específicament per a premiar a les rendes altes que poden destinar rendes presents a estalvi i consum futur."
+   },
+   {
+    "id": "compromis-0140",
+    "partido": "compromis",
+    "titular": "Mantener y ampliar el Impuesto a las Grandes Fortunas hacia la tasa Zucman",
+    "marca_actual": [],
+    "texto": "- Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman."
+   },
+   {
+    "id": "compromis-0141",
+    "partido": "compromis",
+    "titular": "Valorar inmuebles en el Impuesto de Patrimonio con el Índice de Viviendas Estatal",
+    "marca_actual": [],
+    "texto": "- Modificarem l’Impost sobre el Patrimoni en allò referent a la valoració d’immobles per tal de que tributen sobre el valor fixat pel l’Índex d’Habitatges Estatal."
+   },
+   {
+    "id": "compromis-0145",
+    "partido": "compromis",
+    "titular": "Que las rentas financieras tributen con la misma progresividad que las del trabajo",
+    "marca_actual": [],
+    "texto": "- Eliminarem els privilegis de les rendes financeres respecte de les del treball, fent-les idènticament progressives."
+   },
+   {
+    "id": "compromis-0146",
+    "partido": "compromis",
+    "titular": "Eliminar deducciones de las rentas inmobiliarias de las que no gozan las del trabajo",
+    "marca_actual": [],
+    "texto": "- Modificarem la fiscalitat de les rendes immobiliàries per tal de fer-la efectivament progressiva mitjançant l'eliminació de deduccions de les quals no gaudeixen les rendes del treball."
+   },
+   {
+    "id": "compromis-0147",
+    "partido": "compromis",
+    "titular": "Reducir la deducción por amortización de inmuebles del 3 % al 1 %",
+    "marca_actual": [],
+    "texto": "- Reduirem la deducció per amortització d’immobles, des del 3% actual a l’1% incrementant la recaptació de més de 465 milions d’euros."
+   },
+   {
+    "id": "pacma-0057",
+    "partido": "pacma",
+    "titular": "Crítica al listado positivo de animales de compañía como medida insuficiente",
+    "marca_actual": [],
+    "texto": "Es intolerable que, tras todo este padecimiento y de realizar un enorme esfuerzo por adaptarse y sobrevivir en un entorno impropio, desconocido y hostil, encima sean considerados especies “invasoras” y tengan que pagar la explotación y la irresponsabilidad humana, literalmente, con sus vidas.\n\nContinuar permitiendo la introducción, comercialización e, incluso, la liberación de especies alóctonas demuestra la hipocresía, la incoherencia y la falta de responsabilidad de los sucesivos gobiernos que, durante décadas, han autorizado la importación de muchas de las especies que hoy se califican de invasoras y para las que se prevé su erradicación.\n\nSegún afirman desde el actual Gobierno, la creación de un listado positivo de animales de compañía sería una herramienta preventiva destinada a evitar los impactos económicos, ecológicos y sanitarios que generan estas especies. Otro parche cuando la verdadera prevención, la medida valiente que sólo PACMA defiende, es la prohibición de la importación e introducción de especies alóctonas, de manera absoluta. Un listado que atañe exclusivamente a la tenencia de animales como compañía, no solucionaría una problemática cuyo mayor impacto proviene de las explotaciones ganadera, piscícola, peletera y cinegética."
+   },
+   {
+    "id": "pacma-0129",
+    "partido": "pacma",
+    "titular": "Reconocer las clínicas veterinarias como sanitarias y bajar su IVA al 4 %",
+    "marca_actual": [],
+    "texto": "A pesar de que los partidos del Gobierno se comprometieron a reducir el IVA por los servicios veterinarios para animales de compañía, este continúa siendo del 21%.\n\nEstamos hablando de la salud, de la vida de los animales que forman parte de nuestras familias. Es inadmisible que se siga considerando un tratamiento o una operación quirúrgica, del que depende su salud, su calidad de vida o su propia vida, como un lujo.\n\nAdemás, este IVA de lujo se traduce en un sobrecoste que desincentiva las vacunaciones, los tratamientos preventivos y los diagnósticos tempranos, con el consiguiente riesgo sanitario para todos.\n\nLa Ley de Ordenación de las Profesiones Sanitarias reconoce expresamente a la Veterinaria como profesión sanitaria. Sin embargo, ese reconocimiento no se ha trasladado con coherencia en el sistema. Desde PACMA reclamamos el **reconocimiento de las clínicas veterinarias como centros sanitarios**, dado que están directamente relacionados, no solo con la salud y bienestar de los animales, sino también con la salud pública, debido a su importancia en la prevención y vigilancia de las zoonosis y la seguridad sanitaria desde el enfoque de Una sola salud (One Health).\n\nEste reconocimiento permitiría una necesaria **reducción del IVA de los servicios veterinarios**, no al tipo reducido del 10%, sino **al tipo superreducido del 4% e, incluso, a su exención**."
+   },
+   {
+    "id": "pacma-0134",
+    "partido": "pacma",
+    "titular": "Crítica: el Gobierno grava la sanidad animal con un 21 % de IVA",
+    "marca_actual": [],
+    "texto": "Por último, queremos destacar una vez más la incoherencia y la hipocresía absolutas de este Gobierno al aprobar normas como el RD 666/2023 para garantizar, según su preámbulo, _el más alto nivel de protección de la sanidad animal,_ cuándo, al mismo tiempo, está gravando esa sanidad con un 21% de IVA como si fuera un lujo, inaccesible para muchas familias."
+   },
+   {
+    "id": "pacma-0258",
+    "partido": "pacma",
+    "titular": "Más dietistas-nutricionistas en la sanidad pública",
+    "marca_actual": [],
+    "texto": "Desde PACMA llevamos años reivindicando una **mayor presencia de la figura del dietistanutricionista**, dado que, en contraposición a la mayoría de los países europeos, España apenas cuenta con estos profesionales en el sistema público de salud.\n\nEsto implica, además, que el sistema universitario español está invirtiendo unos recursos económicos en formación que, posteriormente, son aprovechados por otros países o por el ámbito privado.\n\nAlgunas comunidades ni siquiera han incorporado aún a estos/as profesionales, cuando las intervenciones dietético-nutricionales son coste-efectivas y mejoran la eficiencia de los sistemas sanitarios.\n\nLos/as dietistas-nutricionistas son esenciales para mejorar resultados clínicos y reducir costes sanitarios en patologías como la enfermedad celíaca, el síndrome de intestino irritable, el hígado graso, la prevención del cáncer digestivo o los déficits nutricionales tras cirugía bariátrica y en enfermedades inflamatorias intestinales como Crohn y colitis ulcerosa.\n\nEn los hospitales se encargan de supervisar el manual de dietas del centro y de establecer la atención personalizada que necesitan determinados pacientes. Esta figura no sólo ayuda a evaluar y realizar un diagnóstico nutricional, intervenir y asegurar la adherencia al tratamiento o monitorizar adecuadamente el estado nutricional, sino que también previene la desnutrición hospitalaria y reduce el tiempo de estancia de los/as pacientes."
+   },
+   {
+    "id": "fo-0045",
+    "partido": "fo",
+    "titular": "Subir Sociedades y Patrimonio a las grandes empresas",
+    "marca_actual": [],
+    "texto": "5. Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional."
+   },
+   {
+    "id": "fo-0046",
+    "partido": "fo",
+    "titular": "Centralizar Sucesiones y Patrimonio y suprimir sus bonificaciones a los ricos",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas."
+   },
+   {
+    "id": "fe-0105",
+    "partido": "fe",
+    "titular": "Revisar el Impuesto de Sucesiones y Donaciones con criterios de progresividad",
+    "marca_actual": [],
+    "texto": "- 9.8. Revisión del Impuesto de Sucesiones y Donaciones, estableciendo también criterios de progresividad, ajustándose el cobro del impuesto a la situación de cada sujeto pasivo."
+   },
+   {
+    "id": "fe-0266",
+    "partido": "fe",
+    "titular": "Epílogo: un plan fundacional para las próximas generaciones",
+    "marca_actual": [],
+    "texto": "Este documento no es una promesa electoralista para los próximos cuatro años; es el plan fundacional para las próximas generaciones. Quien prometa milagros inmediatos, miente. La reconstrucción de nuestra patria exigirá de un esfuerzo y una constancia que trascienden la duración de sus liberales legislaturas. No venimos a maquillar la realidad: venimos a transformarla de raíz.\n\nHa llegado la hora de sacudirse los complejos, de mirar al frente y recordar quiénes somos. Recuperemos la confianza en nosotros mismos y el orgullo por nuestra herencia. Somos una gran Nación que decide volver a mandar sobre su propio destino, y la voluntad de un pueblo unido es imbatible. Caminemos con la frente alta, sin pedir perdón ni permiso. El futuro nos pertenece.\n\n¡¡¡ARRIBA ESPAÑA!!!"
+   },
+   {
+    "id": "autonomos-0015",
+    "partido": "autonomos",
+    "titular": "Bonificar al 99 % el Impuesto de Sucesiones y Donaciones en toda España",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "13. **Supresión del Impuesto de Sucesiones y Donaciones en toda España** — Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida.\n - **Viabilidad:** _Es viable porque este impuesto apenas representa alrededor del 0,2 % del PIB y su eliminación en varias comunidades autónomas ha demostrado atraer inversión, evitar deslocalizaciones fiscales y facilitar la continuidad de empresas familiares._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-regularizacion",
+  "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regularizaciones o vías estables"
+   },
+   {
+    "id": "no",
+    "nombre": "No, prohibirlas y expulsar"
+   }
+  ],
+  "n": 12,
+  "palabras": 938,
+  "candidatos": [
+   {
+    "id": "compromis-0547",
+    "partido": "compromis",
+    "titular": "Regularizar y dar derechos a quienes viven aquí, con acogida digna y asilo",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Regularitzarem i donarem drets per als qui viuen ací. Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball, amb procediments clars i garanties. Exigirem un acolliment digne, protecció de menors i compliment del dret d'asil, i defensarem millores en homologació de títols i reconeixement de qualificacions."
+   },
+   {
+    "id": "fo-0010",
+    "partido": "fo",
+    "titular": "Más penas por contratar extranjeros no regulados y derogar la contratación colectiva",
+    "marca_actual": [],
+    "texto": "3. Endurecer las penas por la contratación de extranjeros no regulados, especialmente en el campo. Derogación de las leyes que permiten la contratación colectiva de trabajadores en sectores precarizados, que buscan abaratar los costes salariales."
+   },
+   {
+    "id": "fo-0150",
+    "partido": "fo",
+    "titular": "Preferir inmigrantes de contexto europeo o hispanoamericano a los de contexto islámico",
+    "marca_actual": [],
+    "texto": "Es necesario señalar que el mayor choque cultural se produce con aquellos inmigrantes provenientes de contextos islámicos. Siendo más lógico que los inmigrantes que deban de venir por las necesidades del país hasta que se resuelva la situación sean de contexto europeo o hispanoamericano. Teniendo claro que la capacidad de acoger inmigrantes está rebosada desde hace tiempo y que muchos tendrán que marcharse antes de otros puedan venir.\n\nNi la izquierda ni la derecha van a solucionar la cuestión migratoria. La izquierda defiende las fronteras abiertas, o fórmulas cercanas que ya se han demostrado ineficaces y que solo agravan el problema. La derecha critica la inmigración, por lo general solo la ilegal, mientras la patronal pide regulaciones masivas contribuyendo al efecto llamada. Son dos caras de la misma moneda. El problema no es solo la inmigración ilegal, también la legal. El problema es la masividad de la inmigración."
+   },
+   {
+    "id": "fo-0155",
+    "partido": "fo",
+    "titular": "Expulsar a reincidentes e irregulares e impedir regularizarse a quien entró ilegalmente",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "3. Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país. Imposibilidad de regularse si han intentado entrar de forma ilegal. Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años."
+   },
+   {
+    "id": "fo-0166",
+    "partido": "fo",
+    "titular": "Restringir el asilo político y expulsar a quienes se les deniegue",
+    "marca_actual": [],
+    "texto": "14. Restringir el uso de la figura del “asilo político” únicamente para aquellos que realmente cumplan dicha situación, elevando las condiciones exigidas, acabando con la abusiva utilización actual como manera de prolongar la estancia en suelo nacional para obtener la regularización de inmigración ilegal. Se acabará con la actual concesión de libertad de movimiento desde su solicitud, regulando únicamente para el caso de que finalmente sea concedido dicho asilo político, expulsándose a los inmigrantes que sea denegada su solicitud"
+   },
+   {
+    "id": "fe-0002",
+    "partido": "fe",
+    "titular": "Una España sin inmigración masiva y con servicios exclusivos para españoles",
+    "marca_actual": [],
+    "texto": "Queremos una España española, segura y con arraigo, donde no nos sintamos extranjeros en nuestra propia tierra ni sustituidos, y donde nuestras vidas, costumbres y tradiciones no sean pisoteadas en favor del globalismo y algunas de sus herramientas como es la inmigración masiva, invasión, que padecemos hoy.\n\nConsideramos nuestro enemigo y el de la nación a todo aquel que antepone sus intereses privados al bien común, toda concepción individualista y oligárquica del Estado, todo lo que induzca la desfiguración de pueblos, personas y culturas.\n\nPor su historia y su destino, España debe volver a ejercer una función de vanguardia en el mundo, volver a ser un faro de justicia y civilización, un ejemplo. Debemos recuperar nuestra autoestima como pueblo y nación, confiando en el futuro, especialmente para una juventud hoy desnortada y desesperanzada.\n\nTambién y, sobre todo, para restaurar la soberanía de la nación, se requieren opciones que representen una visión de la existencia que vaya más allá de su alcance económico en términos de recursos. Dominar y definir nuestro destino no se hace cuadrando un Excel. Para ello, proponemos normas que permitan a todos los españoles acceder de forma exclusiva a los servicios ofrecidos por el Estado del bienestar en los ámbitos de la educación, la sanidad, las ayudas económicas o las ayudas a la vivienda."
+   },
+   {
+    "id": "fe-0007",
+    "partido": "fe",
+    "titular": "Nacionalidad solo por ius sanguinis y prohibición de la doble nacionalidad",
+    "marca_actual": [],
+    "texto": "- 1.4. Para la obtención de la nacionalidad española, abogamos por el criterio jurídico único del ius sanguinis. Sólo los hijos de padre o madre española tendrán la nacionalidad española, eliminando la concesión de la misma por residencia. En los casos en que uno de los progenitores no sea español, solo se concederá la nacionalidad siempre que se renuncie a la otra (prohibición de tenencia de doble nacionalidad) y se demuestre un arraigo absoluto a la comunidad nacional."
+   },
+   {
+    "id": "fe-0014",
+    "partido": "fe",
+    "titular": "Cese inmediato de la concesión de permisos de residencia y trabajo",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Control exhaustivo de fronteras según lo expuesto en los puntos 1.2. Cese absoluto e inmediato de la concesión de permisos de residencia y/o trabajo."
+   },
+   {
+    "id": "fe-0037",
+    "partido": "fe",
+    "titular": "Fijar una tasa máxima de inmigración del 1,5 % con permisos de dos años",
+    "marca_actual": [],
+    "texto": "- Establecimiento de una tasa máxima de inmigración del 1,5%, atendiendo siempre a las necesidades nacionales, con permisos de estancia máxima de dos años –revisables según dichas necesidades- y priorizando siempre trabajadores cualificados, con raíces culturales comunes, e integrables en la comunidad nacional."
+   },
+   {
+    "id": "fe-0092",
+    "partido": "fe",
+    "titular": "Planes nacionales de natalidad con incentivos fiscales y ayudas a familias numerosas",
+    "marca_actual": [],
+    "texto": "- 7.5. Ante las dramáticas cifras de natalidad, los falangistas no creemos en las soluciones progresistas de importación de inmigrantes para “pagarnos las pensiones”. Defendemos que no hay nadie mejor para sostener el sistema público de pensiones que los propios hijos y nietos de los que gozan del descanso de la jubilación. Por ello, pondremos en marcha Planes Nacionales de fomento de la Natalidad, de ayuda a las familias, con preponderancia de las numerosas, a través de incentivos fiscales, ayudas directas y erradicando valores como el individualismo, promocionados hoy por el sistema. El arraigo y el orgullo de la descendencia son pilares de la continuidad de la Nación."
+   },
+   {
+    "id": "pcte-0094",
+    "partido": "pcte",
+    "titular": "Cerrar los CIE y mecanismo permanente de regularización de trabajadores sin papeles",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **CIE y regularización** — **Cierre de los CIE** y fin de las identificaciones por perfil étnico y de las devoluciones en caliente. **Mecanismo permanente de regularización** para todas las personas trabajadoras sin papeles."
+   },
+   {
+    "id": "autonomos-0066",
+    "partido": "autonomos",
+    "titular": "Visados de trabajo en origen y arraigo efectivo para acceder a ayudas",
+    "marca_actual": [],
+    "texto": "64. **Ordenación legal de la inmigración vinculada al empleo y la integración** — Agilización administrativa de los visados de trabajo en origen para cubrir vacantes reales en sectores deficitarios, exigiendo cumplimiento de la legalidad y arraigo efectivo para el acceso a ayudas.\n - **Viabilidad:** _Es viable combinando rigor en el control de fronteras con canales legales ágiles para empresas que no encuentran mano de obra cualificada._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 16,
+  "palabras": 557,
+  "candidatos": [
+   {
+    "id": "compromis-0105",
+    "partido": "compromis",
+    "titular": "Premios estatales a la creación literaria en lenguas cooficiales con igual prestigio",
+    "marca_actual": [],
+    "texto": "- Promourem premis i reconeixements estatals per a la creació literària en les llengües cooficials, en condicions d’equivalència i prestigi."
+   },
+   {
+    "id": "compromis-0108",
+    "partido": "compromis",
+    "titular": "Ley estatal del audiovisual que favorezca la producción territorial y el pluralismo lingüístico",
+    "marca_actual": [],
+    "texto": "- Impulsarem una llei estatal de l’audiovisual que afavorisca la producció territorial, el pluralisme lingüístic i la diversitat cultural."
+   },
+   {
+    "id": "compromis-0115",
+    "partido": "compromis",
+    "titular": "Reforzar la creación en valenciano en el Instituto Cervantes",
+    "marca_actual": [],
+    "texto": "- Reforçarem la presència de la creació en valencià a l’Instituto Cervantes."
+   },
+   {
+    "id": "compromis-0122",
+    "partido": "compromis",
+    "titular": "Reciprocidad entre televisiones públicas autonómicas que comparten sistema lingüístico",
+    "marca_actual": [],
+    "texto": "- Procurarem emissions en totes les televisions públiques que emeten en les diferents CCAA en la totalitat de l’Estat, especialment de la reciprocitat entre les televisions públiques autonòmiques que comparteixen un mateix sistema lingüístic."
+   },
+   {
+    "id": "compromis-0123",
+    "partido": "compromis",
+    "titular": "Programación completa en valenciano en el Centro Territorial de RTVE",
+    "marca_actual": [],
+    "texto": "- Avançarem cap a una programació completa en valencià al Centre Territorial de RTVE al País Valencià, compartida i intercanviada amb les altres comunitats autònomes del mateix domini lingüístic."
+   },
+   {
+    "id": "compromis-0124",
+    "partido": "compromis",
+    "titular": "Emisión multilingüe en todas las radiotelevisiones públicas del Estado",
+    "marca_actual": [],
+    "texto": "- Avançarem en l’emissió multilingüe de totes les radiotelevisions públiques de l’Estat."
+   },
+   {
+    "id": "compromis-0366",
+    "partido": "compromis",
+    "titular": "Ley de Plurilingüismo y requisito lingüístico en la función pública estatal",
+    "marca_actual": [],
+    "texto": "- Aprovarem la Llei de Plurilingüisme de l’Administració i implementarem el requisit lingüístic per a aquelles persones que treballen en la funció pública estatal en territoris bilingües."
+   },
+   {
+    "id": "compromis-0367",
+    "partido": "compromis",
+    "titular": "Garantizar el uso del valenciano en la Justicia y exigirlo a jueces y fiscales",
+    "marca_actual": [],
+    "texto": "- Garantirem els drets lingüístics de les persones valencianoparlants en l'Administració de Justícia, i la promoció de l'ús i el coneixement del valencià. Reforma de l'article 2.3 de LOPJ per garantir a la ciutadania l'exercici del dret a utilitzar qualsevol de les llengües oficials de l'estat espanyol en l'àmbit de l'Administració de Justícia. Cal que els magistrats, membres del Ministeri Fiscal i funcionaris de l'Administració de Justícia acrediten un coneixement de la llengua oficial pròpia del lloc on estiguen servint, per tal de donar compliment a allò establert a l'article 120.2 de la Constitució Espanyola, que prescriu que les actuacions judicials seran predominantment orals."
+   },
+   {
+    "id": "compromis-0368",
+    "partido": "compromis",
+    "titular": "Oficialidad del valenciano en las instituciones de la Unión Europea",
+    "marca_actual": [],
+    "texto": "- Treballarem per garantir l’oficialitat del valencià a les institucions de la Unió Europea."
+   },
+   {
+    "id": "compromis-0369",
+    "partido": "compromis",
+    "titular": "Etiquetado y servicios bilingües obligatorios en territorios con dos lenguas",
+    "marca_actual": [],
+    "texto": "- Reformarem la legislació en matèria de consum perquè l’etiquetatge i serveis oferits hagen de ser bilingües en els territoris amb dues llengües."
+   },
+   {
+    "id": "compromis-0370",
+    "partido": "compromis",
+    "titular": "Recuperar la reciprocidad de los medios de comunicación en valenciano",
+    "marca_actual": [],
+    "texto": "- Treballarem per retornar la reciprocitat dels mitjans de comunicació en valencià."
+   },
+   {
+    "id": "fo-0059",
+    "partido": "fo",
+    "titular": "Garantizar estudiar en castellano o en las lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "9. Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado. Se promoverá que los alumnos conozcan la riqueza lingüística en nuestro país y se acabará con el uso político de las lenguas por parte de nacionalistas de un bando u otro."
+   },
+   {
+    "id": "fe-0206",
+    "partido": "fe",
+    "titular": "Asignaturas básicas en español; lenguas regionales solo en sus propias horas",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "- 19.11. Las asignaturas básicas en todas las etapas educativas deberán ser impartidas en español, asegurando la enseñanza de lenguas regionales en aquellas provincias donde se requiera y una lengua extranjera, circunscribiendo estas a las horas lectivas dedicadas a las asignaturas de esa lengua en concreto."
+   },
+   {
+    "id": "fe-0211",
+    "partido": "fe",
+    "titular": "Lenguas extranjeras solo en sus asignaturas; el resto, en castellano",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "- 19.16. Aprendizaje de lenguas extranjeras circunscrito a las horas lectivas dedicadas a las asignaturas de esa lengua en concreto. El resto de las asignaturas deben ser impartidas en castellano para facilitar y asegurar su comprensión por parte de alumnos y profesores."
+   },
+   {
+    "id": "fe-0235",
+    "partido": "fe",
+    "titular": "Preservar las lenguas regionales con el español como lengua vehicular",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "- 21.2. La riqueza lingüística es uno de los mayores bagajes culturales de los que goza España como patria. Por ello, abogamos por la preservación, cuidado y enseñanza de todas nuestras lenguas regionales, en paralelo con el aseguramiento del uso del español como lengua vehicular."
+   },
+   {
+    "id": "autonomos-0076",
+    "partido": "autonomos",
+    "titular": "Garantizar el castellano como lengua vehicular en todo el territorio",
+    "marca_actual": [
+     "espanol"
+    ],
+    "texto": "74. **Garantía del castellano como lengua vehicular y respeto a lenguas cooficiales** — Ley orgánica que garantice el derecho a estudiar y relacionarse con la Administración en español en todo el territorio nacional, considerando las lenguas cooficiales como mérito cultural pero nunca como barrera excluyente.\n - **Viabilidad:** _Es viable conforme a la doctrina del Tribunal Constitucional, favoreciendo la movilidad laboral de profesionales, médicos y docentes en toda España._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-jubilacion",
+  "pregunta": "¿Qué hacer con la edad de jubilación?",
+  "posiciones": [
+   {
+    "id": "adelantar",
+    "nombre": "Adelantarla o flexibilizarla a la baja"
+   },
+   {
+    "id": "mantener-retrasar",
+    "nombre": "Mantenerla o incentivar retrasarla"
+   }
+  ],
+  "n": 7,
+  "palabras": 427,
+  "candidatos": [
+   {
+    "id": "compromis-0038",
+    "partido": "compromis",
+    "titular": "Devolver la edad de jubilación a los 65 años",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Retornarem l'edat de jubilació als 65 anys."
+   },
+   {
+    "id": "compromis-0039",
+    "partido": "compromis",
+    "titular": "Eliminar los coeficientes reductores a la jubilación anticipada con 40 años trabajados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Eliminarem el coeficients reductors que penalitzen aquells treballadors i treballadores que malgrat haver treballat 40 anys veuen penalitzada la seua pensió quan es jubilen anticipadament de forma voluntària."
+   },
+   {
+    "id": "fo-0006",
+    "partido": "fo",
+    "titular": "Diagnóstico: salario real estancado, paro y un modelo migratorio de mano de obra barata",
+    "marca_actual": [],
+    "texto": "Llevamos demasiado tiempo viendo cómo empeora nuestra situación: el paro, la inflación, la terciarización de puestos de trabajo y el aumento de la edad de jubilación son la consecuencia directa de un sistema nefasto que explota al que menos tiene, para garantizar los beneficios de grandes empresas y sus socios de gobierno. El salario real sigue estancado desde hace décadas y la patronal promueve un modelo migratorio en detrimento de los trabajadores españoles, que garantice cada vez una mano de obra más barata. Quieren demoler los derechos conquistados por nuestros padres y abuelos. Buscan consumidores dóciles, que trabajemos por un salario de miseria y que no nos organicemos para luchar por lo que es nuestro.\n\nEl Frente Obrero ha nacido para cambiar esto. Debemos recuperar un movimiento obrero que ponga contra las cuerdas al Gobierno y garantice, no solo los derechos, sino los intereses de los trabajadores, que pueda paralizar el país. El capitalismo no se puede reformar, es un sistema basado en la explotación de la gran mayoría de la población al servicio de unos pocos. Es por eso que todos los partidos del sistema siempre acaban defendiendo al gran capital."
+   },
+   {
+    "id": "fo-0142",
+    "partido": "fo",
+    "titular": "Revertir el aumento de la edad de jubilación y adaptarla al puesto",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "1. Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto laboral desempeñado."
+   },
+   {
+    "id": "fe-0085",
+    "partido": "fe",
+    "titular": "Volver a la jubilación a los 65 años y anticipada en trabajos duros",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- 6.18. Con el cambio de modelo productivo descrito e implantado según el punto 6.1 de este documento, vuelta a la edad de jubilación a los 65 años y estudio de posibilidad de rebaja. En aquellos sectores donde el trabajo tenga un gran impacto físico sobre sus trabajadores, jubilación anticipada obligatoria según sector. Quien ha entregado su salud y esfuerzo físico a la construcción de la patria, tiene el derecho inalienable a ser protegido en un retiro temprano y seguro."
+   },
+   {
+    "id": "pcte-0007",
+    "partido": "pcte",
+    "titular": "Jubilación a los 60 años y a los 55 en trabajos penosos",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- **Jubilación** — **Jubilación ordinaria a los 60 años**, con pensión suficiente y sin penalización. En trabajos especialmente penosos, peligrosos, tóxicos o insalubres, **jubilación a los 55 años**."
+   },
+   {
+    "id": "autonomos-0033",
+    "partido": "autonomos",
+    "titular": "Jubilación anticipada sin penalización con 40 o más años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "31. **Jubilación anticipada sin penalización con 40 o más años cotizados** — Eliminación de los coeficientes reductores permanentes en la pensión de jubilación para aquellos trabajadores autónomos y asalariados que acrediten 40 o más años de cotización efectiva a la Seguridad Social.\n - **Viabilidad:** _Es viable aplicando criterios actuariales de equidad contributiva: quien ha cotizado durante cuatro décadas ha financiado sobradamente su pensión y libera espacio laboral para nuevas generaciones._"
+   }
+  ]
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 13,
+  "palabras": 312,
+  "candidatos": [
+   {
+    "id": "compromis-0449",
+    "partido": "compromis",
+    "titular": "Reforzar la cobertura pública de fertilidad y reducir sus listas de espera",
+    "marca_actual": [],
+    "texto": "- Reforçarem la cobertura per als processos de fertilitat en la sanitat pública per disminuir les llistes d’espera i garantir el servei en la sanitat pública."
+   },
+   {
+    "id": "compromis-0450",
+    "partido": "compromis",
+    "titular": "Derecho a decidir la destrucción o donación de los ovocitos vitrificados",
+    "marca_actual": [],
+    "texto": "- Garantirem el dret de les dones que hagen fet un procés de vitrificació ovocitària de decidir sobre la possible destrucció o donació."
+   },
+   {
+    "id": "compromis-0456",
+    "partido": "compromis",
+    "titular": "Garantizar la interrupción voluntaria del embarazo gratuita y accesible en la sanidad pública",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública, en els termes previstos legalment, sense desplaçaments injustificats ni obstacles administratius."
+   },
+   {
+    "id": "compromis-0457",
+    "partido": "compromis",
+    "titular": "Regular la objeción de conciencia para que todo hospital público preste el servicio",
+    "marca_actual": [],
+    "texto": "- Regularem i supervisarem l’objecció de consciència individual per a impedir que es convertisca en una objecció institucional encoberta. Cap hospital públic ha de deixar de prestar el servei per falta de planificació."
+   },
+   {
+    "id": "compromis-0458",
+    "partido": "compromis",
+    "titular": "Reforzar la educación afectivosexual y el acceso gratuito a anticonceptivos",
+    "marca_actual": [],
+    "texto": "- Reforçarem l’educació afectivosexual i l’accés gratuït als anticonceptius, especialment per a joves i dones en situació de vulnerabilitat."
+   },
+   {
+    "id": "compromis-0459",
+    "partido": "compromis",
+    "titular": "Sistema público de datos para detectar desigualdades territoriales en el servicio",
+    "marca_actual": [],
+    "texto": "- Establirem un sistema públic de dades que permeta detectar desigualtats territorials i exigir responsabilitats a les administracions que no garantisquen el servei."
+   },
+   {
+    "id": "compromis-0463",
+    "partido": "compromis",
+    "titular": "Reforzar la prohibición de la gestación subrogada o «vientres de alquiler»",
+    "marca_actual": [],
+    "texto": "- Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents."
+   },
+   {
+    "id": "compromis-0464",
+    "partido": "compromis",
+    "titular": "Prohibir y sancionar la publicidad de agencias de explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Prohibirem i sancionarem la publicitat, la intermediació lucrativa i la promoció comercial d’agències que ofereixen serveis d’explotació reproductiva."
+   },
+   {
+    "id": "compromis-0465",
+    "partido": "compromis",
+    "titular": "Medidas contra el negocio transnacional de la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Impulsarem mesures contra el negoci transnacional de l’explotació reproductiva, incloent-hi la cooperació internacional i el control de les empreses intermediàries."
+   },
+   {
+    "id": "compromis-0467",
+    "partido": "compromis",
+    "titular": "Políticas internacionales contra la pobreza que facilita la explotación reproductiva",
+    "marca_actual": [],
+    "texto": "- Promourem polítiques internacionals contra la pobresa i la vulnerabilitat econòmica que faciliten l’explotació reproductiva."
+   },
+   {
+    "id": "fe-0093",
+    "partido": "fe",
+    "titular": "Ilegalizar el aborto y la eutanasia",
+    "marca_actual": [
+     "restringir"
+    ],
+    "texto": "- 7.6. La vida humana no es negociable. Ilegalizaremos todas las leyes que permiten hoy arrebatarla, tales como las del aborto y la eutanasia. A su vez, se legislará en pro de garantizar que la vida, una vez garantizada, es digna."
+   },
+   {
+    "id": "pcte-0071",
+    "partido": "pcte",
+    "titular": "Todas las interrupciones del embarazo en hospitales públicos",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- **Derechos reproductivos** — **Derechos sexuales y reproductivos garantizados dentro de la sanidad pública**: todas las interrupciones del embarazo, en hospitales públicos."
+   },
+   {
+    "id": "pcte-0075",
+    "partido": "pcte",
+    "titular": "Rechazar la gestación subrogada y perseguir a las agencias que la intermedian",
+    "marca_actual": [],
+    "texto": "- **Gestación subrogada** — **Rechazo de la gestación subrogada**. Persecución de las agencias que la intermedian desde España."
+   }
+  ]
+ },
+ {
+  "eje": "eje-concertada",
+  "pregunta": "¿Qué hacer con la escuela concertada?",
+  "posiciones": [
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarla o garantizar la libertad de elección de centro"
+   },
+   {
+    "id": "reducir",
+    "nombre": "Reducir su financiación y priorizar la pública"
+   }
+  ],
+  "n": 6,
+  "palabras": 204,
+  "candidatos": [
+   {
+    "id": "compromis-0059",
+    "partido": "compromis",
+    "titular": "Reformar los conciertos para que la concertada sea subsidiaria de la pública",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Modificarem la normativa bàsica de concerts educatius perquè la xarxa concertada siga realment subsidiària de la pública."
+   },
+   {
+    "id": "compromis-0317",
+    "partido": "compromis",
+    "titular": "Contratar con igualdad, mérito y publicidad en empresas concertadas con el Estado",
+    "marca_actual": [],
+    "texto": "- Modificarem la Llei de transparència en la contractació del personal que accedeix a llocs de treball en empreses concertades amb l'estat, perquè la contractació es faça seguint els criteris generals d'igualtat, mèrit, capacitat i publicitat. Hi haurà borses auditades pels representants de les persones treballadores."
+   },
+   {
+    "id": "fo-0054",
+    "partido": "fo",
+    "titular": "Eliminar las subvenciones a la escuela privada para reforzar la pública",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "4. Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación."
+   },
+   {
+    "id": "pcte-0035",
+    "partido": "pcte",
+    "titular": "Derogar la Ley 15/1997 y prohibir nuevos conciertos en sanidad, educación y servicios sociales",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- **Privatizaciones** — **Ni una privatización más**: **derogación de la Ley 15/1997** y prohibición de nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales."
+   },
+   {
+    "id": "pcte-0040",
+    "partido": "pcte",
+    "titular": "Educación exclusivamente pública, integrando los concertados en una red pública única",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- **Educación pública** — **Sistema educativo exclusivamente público, gratuito, laico e inclusivo** en todas sus etapas; con centros y plantillas suficientes. Integración de los centros concertados en una red pública única. **Descenso de las ratios**."
+   },
+   {
+    "id": "autonomos-0077",
+    "partido": "autonomos",
+    "titular": "Escuela pública aconfesional y libertad de elección de centro concertado",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "75. **Aconfesionalidad en la escuela pública y libertad de elección en concertada** — Consolidación de una escuela pública laica centrada en la excelencia académica y científica, respetando plenamente el derecho constitucional de las familias a elegir centros concertados o privados con ideario propio.\n - **Viabilidad:** _Es viable dentro del artículo 27 de la Constitución Española mediante financiación equitativa del puesto escolar._"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2482 @@
+[
+ {
+  "id": "psoe-0202",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Gobierno y buena gestión del SNS basados en transparencia y evaluación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0203",
+  "subtema": "san-primaria",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Garantizar la atención pediátrica y sanitaria de proximidad en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0204",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Mejorar la adherencia terapéutica y garantizar el acceso universal a cuidados paliativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0205",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Reforzar la atención primaria con el Plan de Acción más allá de 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0206",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Nuevo contrato social con los profesionales sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0207",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Atención psicológica gratuita en la sanidad pública con primera consulta en 30 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0208",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Consolidar el Plan VEO y ampliar su cobertura a colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0209",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Garantizar el acceso equitativo a medicamentos y terapias innovadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0210",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Marco jurídico para la participación de las organizaciones de pacientes en el SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0211",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la ley de eutanasia? → mantenerla y garantizar su ejercicio"
+ },
+ {
+  "id": "psoe-0212",
+  "subtema": "san-modelo",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Ley de Salud Digital: interoperabilidad, receta electrónica común y movilidad entre CCAA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0213",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Regular la crioconservación de ovocitos y actualizar la ley de reproducción asistida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0214",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Estrategia integral contra el cáncer con cribados y derecho al olvido oncológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0215",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Actualizar de forma continua el programa de cribado neonatal del SNS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0216",
+  "subtema": "san-primaria",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Reforzar la atención a la cronicidad, la atención domiciliaria y la coordinación sociosanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0217",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Diagnóstico temprano y acceso equitativo al tratamiento de enfermedades raras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0218",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Regular vapeadores y bolsas de nicotina y prohibir sabores agradables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0219",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ayudas para compensar el sobrecoste de los productos sin gluten",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0220",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Estrategia integral de salud sexual y reproductiva, con acceso a PrEP y PEP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0221",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "La educación como garantía de igualdad de oportunidades e inversión estratégica",
+  "ejes": [],
+  "nota": "SIN ENCAJE: subtema general de educación (modelo educativo)"
+ },
+ {
+  "id": "psoe-0222",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Universalizar la educación de 0 a 3 años con más escuelas infantiles públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0223",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Ampliar las becas y limitar la capacidad máxima por aula",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0224",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Aprobar el Estatuto del Docente y un plan nacional de bienestar docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0225",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reducir el abandono escolar temprano por debajo del 10 % antes de 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0226",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Un profesional de orientación por cada 250 estudiantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0227",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Desplegar el Plan Estratégico de Educación Inclusiva para alumnado con TEA y NEE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0228",
+  "subtema": "edu-escuela",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Proteger y fortalecer la escuela rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0229",
+  "subtema": "edu-escuela",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Adaptar los centros educativos al cambio climático con patios refugio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0230",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Promover en la escuela la memoria democrática y los valores cívicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0231",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Estrategia para el uso educativo de la inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0232",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar las enseñanzas artísticas con más recursos y becas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: enseñanzas artísticas"
+ },
+ {
+  "id": "psoe-0233",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Comedor escolar gratuito para el alumnado en pobreza o exclusión social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0234",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Fortalecer la educación de personas adultas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: educación de personas adultas"
+ },
+ {
+  "id": "psoe-0235",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Balance: la Ley de FP ha modernizado el sistema de Formación Profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0236",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ampliar las plazas públicas de FP Media y Superior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0237",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ampliar la FP Básica para reducir el abandono escolar temprano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0238",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Ampliar becas y ayudas de movilidad y alojamiento para el alumnado de FP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0239",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Adaptar la FP a sectores estratégicos como IA, ciberseguridad y microelectrónica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0240",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Reforzar la red de centros de excelencia y de referencia nacional de FP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0241",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Potenciar el sistema de microcredenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0242",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Defensa de una universidad pública fuerte frente a la expansión de las privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0243",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Crear un nuevo modelo de becas universitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0244",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Complementos de beca para estudiantes de primera generación universitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0245",
+  "subtema": "edu-becas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Becas Erasmus de hasta 1.000 y 1.500 € mensuales según ingresos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0246",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Gratuidad de la matrícula del primer curso de grado en universidades públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0247",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Ampliar las plazas públicas de alojamiento universitario más allá de 2.000",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0248",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Ley de Equidad en el Acceso a la Universidad Pública con financiación plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0249",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Consolidar la UNED y ampliarla a titulaciones presenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0250",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Transformar la UIMP en una universidad pública singular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0251",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reforzar los requisitos de calidad para universidades públicas y privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0252",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Renovar y estabilizar las plantillas universitarias con el Programa María Goyri",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0253",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "El deporte como derecho de ciudadanía y herramienta de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0254",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Desplegar el Estatuto del Deportista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0255",
+  "subtema": "deporte",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Estrategia contra el sedentarismo con receta deportiva desde atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0256",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Reformar la Ley de Mecenazgo con incentivos fiscales al deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0257",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Igualdad en el deporte y profesionalización del fútbol femenino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0258",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Plan Estratégico del Deporte Español con financiación del deporte olímpico y paralímpico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0259",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Que el Mundial 2030 deje un legado social en instalaciones y deporte base",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0260",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un Estado de bienestar que acompañe en todas las etapas de la vida",
+  "ejes": [],
+  "nota": "SIN ENCAJE: subtema general de Estado de bienestar y protección social"
+ },
+ {
+  "id": "psoe-0261",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia",
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Prestación estatal por crianza para todos los hogares con menores",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0262",
+  "subtema": "fam-juventud",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Cuenta de Futuro: 1.000 euros al nacer disponibles a partir de los 18 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0263",
+  "subtema": "fam-infancia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Juzgados especializados en violencia contra la infancia y extensión del modelo Barnahus",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0264",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Programa de apoyo al acogimiento familiar frente al residencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0265",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ayudas a productos de primera necesidad en los 1000 primeros días de crianza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0266",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Combatir la obesidad infantil mediante el Plan Estratégico Nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0267",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Garantizar la participación de la infancia y la adolescencia en las decisiones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0268",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Protección de todas las familias mediante la Ley de Familias, incluidas las monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0269",
+  "subtema": "inm-asilo",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Crear una Unidad de Apoyo a la Infancia Migrante para emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0270",
+  "subtema": "fam-infancia",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Itinerario común de acompañamiento a jóvenes extutelados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0271",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Encabezado: sistema de dependencia, cuidados y políticas sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0272",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Aprobar la primera Ley de Servicios Sociales con una cartera común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0273",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Equidad territorial en el acceso a los servicios sociales, con atención al medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0274",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Desplegar el Sistema de Información Estatal de Servicios Sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0275",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Aplicar la Ley 4/2026 de discapacidad y dependencia para reducir listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0276",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Consolidar la ayuda a domicilio como servicio público esencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0277",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Mejorar la protección social de las personas cuidadoras principales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0278",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Ampliar la asistencia personal, los centros de día y el respiro familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0279",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Atención integral sin copagos a personas con ELA en dependencia extrema",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0280",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Registro estatal y compensación energética para pacientes con electrodependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0281",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar la accesibilidad universal con inspección y financiación estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0282",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Desplegar el Marco Estratégico Estatal de las Soledades 2026-2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0283",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prevenir y erradicar el sinhogarismo con el modelo Housing First",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0284",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Encabezado: nueva longevidad, vivir más y vivir mejor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0285",
+  "subtema": "fam-mayores",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Plan «A tu lado»: ayudas para ascensores y visitas domiciliarias desde los 80",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0286",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "PERTE para una nueva industria de los cuidados financiado con el Fondo España Crece",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0287",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Ceder suelo público para cooperativas sénior de viviendas colaborativas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0288",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Pacto de Estado por los derechos de las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0289",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Estrategia Nacional para la Nueva Longevidad y contra el edadismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0290",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Favorecer la adaptación de las viviendas de las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0291",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Balance: reforma del artículo 49, Ley ELA y Ley 4/2026",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0292",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Desplegar la reforma de la Ley General de Derechos de las Personas con Discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0293",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Marco de apoyos a la vida independiente de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0294",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Poner en marcha el Programa Estatal de Promoción de la Accesibilidad Universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0295",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Desarrollar la figura de la persona facilitadora procesal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0296",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Desplegar el Plan Estratégico de Educación Inclusiva 2026-2031",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0297",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Fortalecer al tercer sector de la discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0298",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Revisar el Real Decreto 888/2022 para las personas mayores con VIH",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0299",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Impulsar el cumplimiento de la cuota de reserva de empleo en las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0300",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Evitar el mal uso de las plazas de aparcamiento reservadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0301",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Prioridad: reforzar el Estado del bienestar para las clases medias y trabajadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0302",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Nuevo sistema de financiación autonómica con 21.000 millones adicionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0303",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Potenciar el Fondo de Compensación Interterritorial y los incentivos regionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0304",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Asumir por el Estado 83.000 millones de euros de deuda autonómica",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0305",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Financiación local suficiente con apoyo a los municipios con dificultades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0306",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Garantizar servicios públicos en la España rural para fijar población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0307",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Encabezado: un país que combate el cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0308",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: el cambio climático como realidad y la transición como oportunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0309",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Balance: Ley de Cambio Climático y renovables hasta el 72 % de la potencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0310",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Balance: la transición ecológica ha creado 160.000 empleos verdes desde 2017",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0311",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "La transición ecológica debe mejorar la vida de la gente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0312",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Ambición 2030: electricidad mayoritariamente limpia y oportunidades en cada rincón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0313",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Prioridades: territorio vivo, bienestar animal y liderazgo climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0314",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Las renovables como autonomía estratégica y precios estables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0315",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Renovables hasta el 81 % de la generación eléctrica en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0316",
+  "subtema": "ener-modelo",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Impulsar la electrificación y una hoja de ruta para abandonar los combustibles fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0317",
+  "subtema": "ener-modelo",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Extender el autoconsumo y la eficiencia energética en viviendas y empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0318",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Acelerar el almacenamiento energético, el hidrógeno renovable y las interconexiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0319",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Extender la red de gasoductos preparados para hidrógeno verde",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0320",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Defender la reforma del mercado eléctrico europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0321",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Mantener el calendario de cierre de las centrales nucleares hasta 2035",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "cerrar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0322",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Reorientar la fiscalidad para la transición ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0323",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Desplegar el Plan Social para el Clima para hogares vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0324",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reforzar la industria nacional en cadenas de valor verdes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0325",
+  "subtema": "trab-empleo",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Formar y recualificar a las personas trabajadoras para los empleos verdes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0326",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Aprobar una nueva Ley de Minas alineada con la transición ecológica",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "psoe-0327",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Diagnóstico: la mitad de los residuos acaba en vertedero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0328",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reducir el vertido de residuos por debajo del 30 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0329",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Fomentar el ecodiseño, la reparación y la reutilización en la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0330",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Contratación pública sostenible con criterios de huella de carbono",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0331",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Impulsar el compostaje y la valorización de residuos orgánicos mediante biogás",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0332",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reconocer el derecho a la reparación y crear un Fondo de Reparación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0333",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Pacto de Estado frente a la Emergencia Climática como hoja de ruta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0334",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Crear un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0335",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Crear la Agencia Estatal de Protección Civil y Emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0336",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Aprobar una Ley de Adaptación al Cambio Climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0337",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Crear un Cuerpo Facultativo de Técnicos de Protección Civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0338",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Ampliar la red de refugios climáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0339",
+  "subtema": "clima",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Adaptación climática y rehabilitación energética de viviendas y equipamientos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0340",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Más medios aéreos y terrestres estatales contra los incendios forestales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0341",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Interoperabilidad de los sistemas de emergencias y alerta temprana con IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0342",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Crear un Fondo Nacional de Resiliencia Climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0343",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Garantizar el agua a hogares, campos e industrias ante sequías e inundaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0344",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Planificación urbana compatible con los recursos hídricos y mínimo vital de agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0345",
+  "subtema": "agua",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar en la Constitución el acceso universal al agua potable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0346",
+  "subtema": "agua",
+  "otros": [
+   "infra-inversion-territorial"
+  ],
+  "titular": "Estrategia de Resiliencia Hídrica: menos consumo, más desalación y reutilización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0347",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Crear bancos públicos de agua en las confederaciones hidrográficas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0348",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Modernizar los regadíos sin aumentar el consumo total de agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0349",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Soluciones basadas en la naturaleza para la gestión del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0350",
+  "subtema": "dig-datos",
+  "otros": [
+   "ener-modelo",
+   "agua"
+  ],
+  "titular": "Que los centros de datos operen con renovables y uso responsable del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0351",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Un sector agroalimentario competitivo y compatible con la biodiversidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0352",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "PAC fuerte para explotaciones familiares y reciprocidad en las importaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0353",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ley de Agricultura Familiar y Profesional y freno a la concentración de tierras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0354",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Política nacional de bancos de tierras para jóvenes agricultores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0355",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Reducir las cargas burocráticas de las explotaciones agrarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0356",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Recompensar la ganadería extensiva y la agricultura regenerativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0357",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Plan de Transición Justa para una pesca y acuicultura sostenibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0358",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reforzar la financiación de la Política Pesquera Común y el reparto de cuotas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0359",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Defender la gastronomía española y crear una Estrategia de Alimentación Ecológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0360",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Diagnóstico: el peor acceso a servicios alimenta la despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0361",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Avanzar hacia el «País de los 30 minutos» en servicios básicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0362",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Aplicar el mecanismo de garantía rural en leyes y presupuestos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0363",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Plan de Empleo Verde Rural con perspectiva de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0364",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Facilitar vivienda asequible en el medio rural y ampliar el parque público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0365",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Oportunidades para la juventud rural y descentralizar servicios de la Administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0366",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "La movilidad sostenible como aire limpio, salud e igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0367",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Transporte público integrado con financiación estable y tarifas asequibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0368",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Mantener los programas de apoyo a la movilidad de los jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0369",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reforzar Cercanías, Media Distancia y corredores ferroviarios estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0370",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Favorecer los desplazamientos a pie y en bicicleta en pueblos y ciudades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0371",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Descarbonizar el transporte con más recarga eléctrica e incentivos a vehículos cero emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0372",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Adaptar las infraestructuras de transporte a los efectos del cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0373",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Impulsar las Zonas de Bajas Emisiones y la movilidad sostenible urbana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0374",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Proteger la biodiversidad como inversión en seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0375",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Restaurar ecosistemas degradados con el Plan Nacional de Restauración de la Naturaleza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0376",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Proteger el 30 % de los ecosistemas y el 10 % marino estrictamente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0377",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Proteger a los cetáceos con reducción obligatoria de la velocidad marítima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0378",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Culminar la restauración de Doñana, el Mar Menor, la Albufera y otros espacios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0379",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Gestión forestal sostenible y resiliente frente a los incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0380",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Adaptar la gestión del litoral al cambio climático y actualizar la normativa de costas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0381",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ocupación sostenible del dominio público marítimo-terrestre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0382",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Impulsar un modelo de turismo sostenible y adaptado al cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0383",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Balance de la Ley de Bienestar Animal y reto de combatir el abandono",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0384",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Tolerancia cero al maltrato y retirada de financiación pública a prácticas que lo amparen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0385",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Transformar zoológicos y parques marinos hacia la conservación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0386",
+  "subtema": "animales",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Incluir a los animales en la ley de violencia vicaria y lograr abandono cero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0387",
+  "subtema": "animales",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Incorporar la evacuación y el rescate animal en protección civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0388",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Defender el orden multilateral y los compromisos climáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0389",
+  "subtema": "clima",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Defender y profundizar el Pacto Verde Europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0390",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Aplicar la Ley europea de Restauración de la Naturaleza y el marco de resiliencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0391",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Unidad europea permanente de respuesta ante catástrofes climáticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0392",
+  "subtema": "clima",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Alianzas internacionales contra los combustibles fósiles y tratado global de plásticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0393",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Crear la Agencia de Evaluación Ambiental de Proyectos y Planes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0394",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Ampliar la representación social y científica en la gobernanza climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0395",
+  "subtema": "clima",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Combatir la desinformación climática apoyando el periodismo especializado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0396",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Encabezado: la fuerza de la gente, la fuerza de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0397",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Balance: España, cuarta de la UE en el Índice de Igualdad de Género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0398",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Balance: brecha salarial del 21,4 % al 15,7 % y permisos de 19 semanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0399",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Balance: aborto a los 16 y 17 años sin consentimiento paterno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0400",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Balance: Pacto de Estado contra la Violencia de Género ampliado a 461 medidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0401",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Retos: corresponsabilidad en los cuidados y nuevas formas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0402",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Objetivo: igualdad salarial y autonomía económica frente a la feminización de la pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0403",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Reforzar la transparencia retributiva y la igualdad salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0404",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Impulsar el acceso de las mujeres a puestos de responsabilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0405",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Combatir la parcialidad involuntaria y la discriminación por embarazo o maternidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0406",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Perspectiva de género en la prevención de riesgos laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0407",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Estrategia Nacional de Género para la igualdad en ciencia e innovación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0408",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Fomentar la presencia de niñas y jóvenes en disciplinas STEAM",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0409",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Reducir la brecha digital de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0410",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Igualdad en la universidad e impulso de los estudios feministas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0411",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Estrategia Estatal contra la feminización de la pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0412",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "igu-mujeres",
+   "trab-pensiones"
+  ],
+  "titular": "Medir la pobreza de las mujeres y reforzar el complemento de brecha en pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0413",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Promover el emprendimiento femenino con financiación y formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0414",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Autonomía económica de las mujeres rurales y titularidad compartida de explotaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0415",
+  "subtema": "trab-empleo",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Facilitar la reincorporación al empleo tras periodos de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0416",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reconocer los cuidados como derecho social con un sistema público de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0417",
+  "subtema": "trab-jornada",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Ley de Usos del Tiempo de Trabajo con reducción de jornada sin pérdida salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0418",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Crear un Indicador Nacional de Brechas de Tiempo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0419",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Promover la corresponsabilidad de los hombres en los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0420",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Dignificar el trabajo de cuidados e igualar al SMI a las cuidadoras principales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0421",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Recursos de cuidados para urgencias familiares y horarios no convencionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0422",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Garantizar la conciliación en periodos no lectivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0423",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Retribuir los permisos parentales y ampliar la reducción de jornada hasta los 16 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0424",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Retribuir los permisos parentales y ampliar la reducción de jornada hasta los 16 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0425",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Defensa de los derechos sexuales y reproductivos y de una sanidad sin sesgos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0426",
+  "subtema": "igu-vida",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar el derecho al aborto reformando el artículo 43 de la Constitución",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0427",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Garantizar el acceso efectivo a la salud sexual y reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0428",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Reforzar la prohibición de la gestación por sustitución y perseguir su intermediación",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la gestación subrogada? → prohibirla y perseguir su intermediación"
+ },
+ {
+  "id": "psoe-0429",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Reforzar las garantías en los procesos de donación de óvulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0430",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Estrategia de Salud de las Mujeres: menopausia, endometriosis y dolor crónico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0431",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Impulsar el Observatorio de Salud de las Mujeres contra los sesgos de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0432",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Diagnóstico: el 12,7 % de las mujeres ha sufrido violencia de su pareja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0433",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aprobar una nueva Estrategia Estatal para combatir las Violencias Machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0434",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Formación obligatoria en violencia de género para jueces y policías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0435",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aprobar una Ley Orgánica contra la Violencia Vicaria",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0436",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Unidades de acompañamiento a familiares y víctimas de feminicidios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0437",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Valoración forense del riesgo en todos los juzgados de violencia sobre la mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0438",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Extender hasta los 26 años las ayudas a huérfanos de la violencia de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0439",
+  "subtema": "igu-violencia",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Reforzar la prevención y actuación frente al acoso sexual en el trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0440",
+  "subtema": "igu-violencia",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Red pública de salud mental especializada en trauma y violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0441",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Atención especializada a víctimas con discapacidad y mayores de 65 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0442",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ley Orgánica contra la Trata y Ley Abolicionista del Sistema Prostitucional",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Abolir la prostitución? → abolirla y prohibir el proxenetismo en todas sus formas"
+ },
+ {
+  "id": "psoe-0443",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Programa Estatal de Liberación y Reparación para víctimas del sistema prostitucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0444",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Coeducación y educación afectivo-sexual obligatorias en todas las etapas",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Educación afectivo-sexual obligatoria en la escuela? → sí, en todas las etapas"
+ },
+ {
+  "id": "psoe-0445",
+  "subtema": "igu-violencia",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Protocolo contra la violencia de género y vicaria en el ámbito educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0446",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Agravante de género en los delitos económicos contra la pareja o expareja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0447",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Registro público de deudores por impago de pensiones de alimentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0448",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Garantizar un entorno digital libre de violencia contra las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0449",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Combatir los deepfakes sexuales, la pornovenganza y el control digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0450",
+  "subtema": "seg-penal",
+  "otros": [
+   "igu-violencia",
+   "dig-ia"
+  ],
+  "titular": "Tipificar como delito la creación y difusión de deepfakes sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0451",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ampliar la Ley Integral contra la Violencia de Género a las violencias digitales",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0452",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Transponer la Directiva Europea contra la violencia hacia las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0453",
+  "subtema": "seg-penal",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Penas digitales y órdenes de alejamiento digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0454",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Extender el modelo abolicionista a la explotación sexual digital",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Abolir la prostitución? → abolirla y prohibir el proxenetismo en todas sus formas"
+ },
+ {
+  "id": "psoe-0455",
+  "subtema": "dig-ia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Prevenir los sesgos de género en la inteligencia artificial y los algoritmos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0456",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Retirada inmediata de contenidos íntimos sin consentimiento por las plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0457",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Combatir los estereotipos de género y la hipersexualización en entornos digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0458",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "No financiar con publicidad digital contenidos de odio contra las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0459",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Restringir los algoritmos adictivos para proteger a niñas y adolescentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0460",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Apoyar los litigios estratégicos contra las violencias digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0461",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Incorporar la violencia digital a las estadísticas oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0462",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "La violencia política contra las mujeres como amenaza a la democracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0463",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Crear un Cuerpo Superior de Especialistas en Políticas de Igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0464",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Observatorio sobre Violencia Política contra las Mujeres y Desinformación de Género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0465",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Proteger a las mujeres con presencia pública frente al acoso digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0466",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Informes periódicos sobre el cumplimiento de la Ley de Paridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0467",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Encabezado: calidad democrática, convivencia y derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0468",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: la democracia amenazada por la ultraderecha y la ola reaccionaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0469",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: apoyo a Ucrania, reconocimiento de Palestina y rechazo al 5 % militar",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0470",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: mayores plantillas policiales, Tribunales de Instancia y Mi Carpeta Ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0471",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Actualizar la Constitución para reforzar su carácter social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0472",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar en la Constitución las pensiones públicas y su revalorización con el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0473",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "vivienda-derecho"
+  ],
+  "titular": "Proteger la salud y la vivienda como derechos fundamentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0474",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "clima",
+   "agua"
+  ],
+  "titular": "Reconocer en la Constitución la seguridad climática y el acceso al agua potable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0475",
+  "subtema": "igu-vida",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Blindar el matrimonio igualitario, el aborto y la eutanasia",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": "EJE NUEVO: ¿Qué hacer con la ley de eutanasia? → mantenerla y garantizar su ejercicio"
+ },
+ {
+  "id": "psoe-0476",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Consolidar la reforma constitucional del artículo 49 sobre discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0477",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Incluir en el Código Civil la figura de la unión de amistad",
+  "ejes": [],
+  "nota": "SIN ENCAJE: derecho de familia y nuevas formas de convivencia"
+ },
+ {
+  "id": "psoe-0478",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-gobierno-parlamento"
+  ],
+  "titular": "Crear un escaño ciudadano sin voto y reducir las firmas de la ILP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "psoe-0479",
+  "subtema": "fam-juventud",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Rebajar la edad de voto a los 16 años",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Rebajar la edad de voto a los 16 años? → sí"
+ },
+ {
+  "id": "psoe-0480",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Suprimir los aforamientos para delitos ajenos al ejercicio del cargo",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Suprimir los aforamientos? → sí, para delitos ajenos al cargo"
+ },
+ {
+  "id": "psoe-0481",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Balance y retos: vivienda, precariedad e ingresos dificultan la emancipación",
+  "ejes": [],
+  "nota": ""
+ }
+]
