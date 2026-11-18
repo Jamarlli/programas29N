@@ -5,7 +5,36 @@ Uso: python -I pipeline/build_web.py <raiz_proyecto>
 La clasificación se casa con los extractos por la huella de (partido, texto), no por id,
 para que sobreviva a un nuevo troceado que desplace los ids.
 """
-import json, re, sys, html, pathlib, hashlib, datetime, shutil
+import json, re, sys, html, pathlib, hashlib, datetime, zipfile
+
+# Los dos ZIP de «Programas»: el de Markdown va en la web; el de PDF pasa de los 25 MB que admite Cloudflare
+# y se sube aparte a la release «programas» de GitHub:
+#   gh release upload programas dist/programas-29n-pdf.zip --clobber -R Jamarlli/programas29N
+ZIP_MD = 'descargas/programas-29n-markdown.zip'
+ZIP_PDF = 'https://github.com/Jamarlli/programas29N/releases/download/programas/programas-29n-pdf.zip'
+
+
+def zips(raiz, pts):
+    """Escribe web/descargas/programas-29n-markdown.zip y dist/programas-29n-pdf.zip (fechas fijas, para que no
+    cambien si no cambia el contenido) y devuelve sus enlaces y tamaños para la web."""
+    fecha = (2026, 11, 29, 0, 0, 0)
+    def escribe(destino, ficheros):
+        destino.parent.mkdir(parents=True, exist_ok=True)
+        with zipfile.ZipFile(destino, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as z:
+            for nombre, datos in ficheros:
+                z.writestr(zipfile.ZipInfo(nombre, fecha), datos, zipfile.ZIP_DEFLATED)
+        return round(destino.stat().st_size / 1e6, 1)
+    fuentes = ['Programas electorales de las elecciones generales del 29 de noviembre de 2026', 'https://programas29n.jamarlli.workers.dev', '']
+    md, pdf = [], []
+    for pt in pts:
+        f_md = raiz / 'markdown' / f"{pt['clave']}_2026_programa.md"
+        fm = front_matter(f_md)
+        md.append((f"programa-29n-{pt['id']}.md", f_md.read_bytes()))
+        pdf.append((f"programa-29n-{pt['id']}.pdf", (raiz / pt['pdf']).read_bytes()))
+        fuentes.append(f"programa-29n-{pt['id']}: {fm['partido']} · {fm['titulo']}\n  {fm['fuente_pdf']} ({fm['tipo_fuente']}; descargado el {fm['fecha_descarga']})")
+    leeme = ('\n'.join(fuentes) + '\n').encode('utf-8')
+    return {'md': {'url': ZIP_MD, 'mb': escribe(raiz / 'web' / ZIP_MD, md + [('fuentes.txt', leeme)])},
+            'pdf': {'url': ZIP_PDF, 'mb': escribe(raiz / 'dist' / 'programas-29n-pdf.zip', pdf + [('fuentes.txt', leeme)])}}
 
 raiz = pathlib.Path(sys.argv[1])
 data = raiz / 'data'
@@ -192,21 +221,14 @@ def main():
         partidos.append({'id': pt['id'], 'corto': pt['corto'], **({'sigla': pt['sigla']} if 'sigla' in pt else {}), 'nombre': fm['partido'], 'titulo': fm['titulo'],
                          'fuente': fm['fuente_pdf'], 'tipoFuente': fm['tipo_fuente'],
                          'paginas': int(fm['paginas_pdf']), 'descarga': fm['fecha_descarga'],
-                         'color': pt['color'], 'base': pt['base'], 'md': f"md/programa-29n-{pt['id']}.md"})
+                         'color': pt['color'], 'base': pt['base']})
     ids = {p['id'] for p in partidos}
-    # el Markdown de cada programa, para descargarlo desde la web (web/md/ se genera aquí; no se versiona)
-    dir_md = raiz / 'web' / 'md'
-    dir_md.mkdir(parents=True, exist_ok=True)
-    for viejo in dir_md.glob('*.md'):
-        viejo.unlink()
-    for pt in PARTIDOS:
-        if pt['id'] in ids:
-            shutil.copyfile(raiz / 'markdown' / f"{pt['clave']}_2026_programa.md", dir_md / f"programa-29n-{pt['id']}.md")
+    descargas = zips(raiz, [pt for pt in PARTIDOS if pt['id'] in ids])
     salida = [x for x in salida if x['p'] in ids]
     marcas = [m for m in marcas if m[1].split('-')[0] in ids]
 
     out = {'generado': datetime.date.today().isoformat(), 'eleccion': 'Elecciones generales, 29 de noviembre de 2026',
-           'partidos': partidos, 'candidaturas': candidaturas(ids),
+           'partidos': partidos, 'descargas': descargas, 'candidaturas': candidaturas(ids),
            'territorios': [{'ccaa': c, 'provincias': ps} for c, ps in TERRITORIOS], 'bloques': tax['bloques'], 'ejes': tax['ejes'], 'marcas': marcas, 'rutas': rutas, 'extractos': salida}
     # mapa de circunscripciones para «Añadir partidos»; lo genera pipeline/mapa_ccaa.cjs
     mapa_f = data / 'mapa-ccaa.json'

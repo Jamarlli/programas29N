@@ -3,6 +3,7 @@ __pycache__/
 node_modules/
 .impeccable/
 .wrangler/
-web/md/
+web/descargas/
+dist/programas-29n-pdf.zip
 .DS_Store
 Thumbs.db

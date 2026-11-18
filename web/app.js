@@ -86,7 +86,7 @@
     abajo: '<svg class="i" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3v10M4 9l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>',
     desc: '<svg class="i" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 2.5v8M4.5 7 8 10.5 11.5 7M3 13.5h10" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>',
   };
-  const enlaceMD = (p, cls = '') => `<a${cls ? ` class="${cls}"` : ''} href="${esc(p.md)}" download="${esc(p.md.split('/').pop())}" title="El texto entero del programa en Markdown">Markdown (.md)${ICO.desc}</a>`;
+  const fmtMB = (mb) => `${String(mb).replace('.', ',')} MB`;
   const enlacePDF = (e) => `${P[e.p].fuente}#page=${e.g}`;
   const hrefSub = (s) => `#/tema/${bloqueDe[s].id}/${s}`;
   // «Frente Amplio» → «FA»; los nombres cortos se quedan igual
@@ -381,7 +381,8 @@
   function vProgramas() {
     return `
       <div class="cab"><h1>Programas completos</h1>
-        <p class="lead">Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.</p></div>
+        <p class="lead">Cada programa entero, en su orden original y con sus títulos. Aquí se puede comprobar que no falta nada. Los que no estás comparando se añaden desde «Añadir partidos», arriba.</p>
+        ${D.descargas ? `<p class="descargas"><a class="btn" href="${esc(D.descargas.pdf.url)}">${ICO.desc}Todos los PDF <span>(.zip, ${fmtMB(D.descargas.pdf.mb)})</span></a><a class="btn" href="${esc(D.descargas.md.url)}" download>${ICO.desc}Todos en Markdown <span>(.zip, ${fmtMB(D.descargas.md.mb)})</span></a></p>` : ''}</div>
       <ul class="programas">${todos.map((p) => `<li>
           <a class="pg" href="#/programa/${p.id}" data-p="${p.id}">
             <span class="pg-n">${punto(p)}${esc(p.corto)}</span>
@@ -391,7 +392,6 @@
             <span class="pg-a">Leer el programa${ICO.der}</span>
           </a>
           <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF original${ICO.ext}</a>
-          ${enlaceMD(p, 'pg-md')}
         </li>`).join('')}</ul>`;
   }
 
@@ -427,7 +427,6 @@
               <div><dt>Candidatura</dt><dd>${esc(p.nombre)}</dd></div>
               <div><dt>Fuente</dt><dd><a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} páginas${ICO.ext}</a> · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
               <div><dt>Contenido</dt><dd>${plural(l.length, 'extracto', 'extractos')}, ${fmt(palabras[pid])} palabras. Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.</dd></div>
-              <div><dt>Descargar</dt><dd>${enlaceMD(p)}</dd></div>
             </dl>
             ${toc.length > 1 ? `<details class="toc-m"><summary>${ICO.chev}Índice del programa</summary><ol>${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}">${esc(c.t)}</a></li>`).join('')}</ol></details>` : ''}
           </div>

@@ -1,6 +1,6 @@
 """Une web/index.html, styles.css, data.js, app.js y las fuentes en un único HTML: dist/programas29N.html.
 Uso, desde la raíz del proyecto: python -I pipeline/bundle.py"""
-import base64, json, pathlib, re
+import base64, pathlib, re
 
 raiz = pathlib.Path(__file__).resolve().parent.parent
 web = raiz / 'web'
@@ -14,10 +14,8 @@ html = re.sub(r'<!-- Cloudflare Web Analytics.*?</script>\n', '', html, flags=re
 for png in ('favicon-32.png', 'icono.png'):
     html = html.replace(f'href="{png}"', 'href="data:image/png;base64,' + base64.b64encode((web / png).read_bytes()).decode() + '"')
 js = lambda n: (web / n).read_text(encoding='utf-8').replace('</script', '<\\/script')
-# el Markdown de cada programa no va dentro: se enlaza el del repositorio
-clave_de = {p['id']: p['clave'] for p in json.loads((raiz / 'data' / 'partidos.json').read_text(encoding='utf-8'))}
-GITHUB = 'https://raw.githubusercontent.com/Jamarlli/programas29N/main/markdown/'
-datos = re.sub(r'"md":"md/programa-29n-([a-z]+)\.md"', lambda m: f'"md":"{GITHUB}{clave_de[m[1]]}_2026_programa.md"', js('data.js'))
+# el ZIP de Markdown no va dentro: se enlaza el de la web
+datos = js('data.js').replace('"url":"descargas/', '"url":"https://programas29n.jamarlli.workers.dev/descargas/')
 
 piezas = {
     '<link rel="stylesheet" href="styles.css">': f'<style>\n{css}\n</style>',
