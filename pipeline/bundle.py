@@ -10,6 +10,7 @@ fuente = lambda m: 'url("data:font/woff2;base64,' + base64.b64encode((web / m[1]
 css = re.sub(r'url\("(fonts/[^"]+\.woff2)"\)', fuente, css)
 html = re.sub(r'<link rel="preload" href="fonts/[^"]+"[^>]*>\n', '', html)
 html = html.replace('<link rel="icon" href="favicon.ico" sizes="any">\n', '')
+html = re.sub(r'<!-- Cloudflare Web Analytics.*?</script>\n', '', html, flags=re.S)  # se abre en local: sin analítica
 for png in ('favicon-32.png', 'icono.png'):
     html = html.replace(f'href="{png}"', 'href="data:image/png;base64,' + base64.b64encode((web / png).read_bytes()).decode() + '"')
 js = lambda n: (web / n).read_text(encoding='utf-8').replace('</script', '<\\/script')

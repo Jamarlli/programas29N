@@ -33,6 +33,8 @@ La web es estática y se sirve con Cloudflare Workers (`wrangler.jsonc` publica 
 npx wrangler deploy
 ```
 
+Las visitas se cuentan con Cloudflare Web Analytics, que no usa cookies ni guarda datos personales; el HTML de un solo fichero (`dist/`) va sin él. `robots.txt` y `sitemap.xml` están en `web/` para Google Search Console.
+
 ## Estructura
 
 | Carpeta | Qué hay |
