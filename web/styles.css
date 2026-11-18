@@ -431,15 +431,38 @@ mark.subr { background: var(--mark); color: var(--mark-ink); padding: .05em 0; -
 
 /* ---- Pie ---- */
 .pie { border-top: 1px solid var(--line); background: var(--surface); }
-.pie-in { max-width: var(--w); margin: 0 auto; padding: 32px var(--gut) 48px; display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 24px 48px; font-size: .875rem; color: var(--ink-2); }
-.pie h2 { margin-bottom: 8px; font-size: .875rem; font-weight: 700; color: var(--ink); }
-.pie ul { list-style: none; margin: 0; padding: 0; }
-.pie li + li { margin-top: 6px; }
-.pie p + p { margin-top: 8px; }
+.pie-in { max-width: var(--w); margin: 0 auto; padding: 32px var(--gut) 48px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 32px 64px; align-items: start; font-size: .875rem; color: var(--ink-2); }
+.pie h2 { margin-bottom: 12px; font-size: .9375rem; font-weight: 700; color: var(--ink); }
 .pie a { color: var(--ink-2); }
+.pie-fuentes summary { display: inline-flex; align-items: center; gap: 6px; list-style: none; font-weight: 600; color: var(--ink); }
+.pie-fuentes summary::-webkit-details-marker { display: none; }
+.pie-fuentes summary .i-chev { transform: rotate(-90deg); transition: transform .15s ease-out; }
+.pie-fuentes[open] summary .i-chev { transform: none; }
+.pie-fuentes ul { list-style: none; margin: 12px 0 0; padding: 0 0 0 22px; }
+.pie-fuentes li + li { margin-top: 6px; }
+.pie-fuentes p { margin-top: 12px; padding-left: 22px; color: var(--ink-3); }
+.opina-campos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.opina-msg { grid-column: 1 / -1; }
+.campo-t { font-size: .8125rem; font-weight: 600; color: var(--ink-2); }
+.campo-t .opc { font-weight: 400; color: var(--ink-3); }
+.opina input, .opina textarea {
+  width: 100%; padding: 10px 12px; border: 1px solid var(--line-2); border-radius: var(--r-m);
+  background: var(--surface); color: var(--ink); font: inherit; font-size: 1rem;
+}
+.opina input { height: 44px; }
+.opina textarea { min-height: 7rem; resize: vertical; line-height: 1.45; }
+.opina input:hover, .opina textarea:hover { border-color: var(--ink-3); }
+.opina input:focus, .opina textarea:focus { outline: none; border-color: var(--ink); box-shadow: 0 0 0 1px var(--ink); }
+.opina-pie { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin-top: 12px; }
+.opina-estado { color: var(--ink-2); }
+@media (max-width: 760px) {
+  .pie-in { grid-template-columns: minmax(0, 1fr); }
+  .opina-campos { grid-template-columns: minmax(0, 1fr); }
+}
 
 /* ---- Añadir partidos: botón de la cabecera y panel con las candidaturas ---- */
 .btn--peq { height: 36px; padding: 0 14px; font-size: .875rem; }
+.btn:disabled { opacity: .6; cursor: default; }
 .enlace { padding: 0; border: 0; background: none; color: var(--ink); font: inherit; font-weight: 600; text-decoration: underline; text-decoration-color: var(--line-2); text-underline-offset: .2em; cursor: pointer; }
 .enlace:hover { text-decoration-color: currentColor; }
 .top-partidos { flex: none; height: 40px; padding: 0 12px 0 14px; }
@@ -714,5 +737,5 @@ html:has(.dlg[open]) { overflow: hidden; }
   .subindice a, .ir, .hero-p a, .ex-src a, .qc-q a, .ejemplos a, .migas a { display: inline-flex; align-items: center; min-height: 44px; }
   .eje-a { padding: 12px 0; }
   .eje-ver { min-height: 44px; }
-  .lado summary, .tambien summary, .toc-m summary { min-height: 44px; }
+  .lado summary, .tambien summary, .toc-m summary, .pie-fuentes summary { min-height: 44px; }
 }

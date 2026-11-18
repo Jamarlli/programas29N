@@ -440,15 +440,38 @@ mark.subr { background: var(--mark); color: var(--mark-ink); padding: .05em 0; -
 
 /* ---- Pie ---- */
 .pie { border-top: 1px solid var(--line); background: var(--surface); }
-.pie-in { max-width: var(--w); margin: 0 auto; padding: 32px var(--gut) 48px; display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 24px 48px; font-size: .875rem; color: var(--ink-2); }
-.pie h2 { margin-bottom: 8px; font-size: .875rem; font-weight: 700; color: var(--ink); }
-.pie ul { list-style: none; margin: 0; padding: 0; }
-.pie li + li { margin-top: 6px; }
-.pie p + p { margin-top: 8px; }
+.pie-in { max-width: var(--w); margin: 0 auto; padding: 32px var(--gut) 48px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 32px 64px; align-items: start; font-size: .875rem; color: var(--ink-2); }
+.pie h2 { margin-bottom: 12px; font-size: .9375rem; font-weight: 700; color: var(--ink); }
 .pie a { color: var(--ink-2); }
+.pie-fuentes summary { display: inline-flex; align-items: center; gap: 6px; list-style: none; font-weight: 600; color: var(--ink); }
+.pie-fuentes summary::-webkit-details-marker { display: none; }
+.pie-fuentes summary .i-chev { transform: rotate(-90deg); transition: transform .15s ease-out; }
+.pie-fuentes[open] summary .i-chev { transform: none; }
+.pie-fuentes ul { list-style: none; margin: 12px 0 0; padding: 0 0 0 22px; }
+.pie-fuentes li + li { margin-top: 6px; }
+.pie-fuentes p { margin-top: 12px; padding-left: 22px; color: var(--ink-3); }
+.opina-campos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.opina-msg { grid-column: 1 / -1; }
+.campo-t { font-size: .8125rem; font-weight: 600; color: var(--ink-2); }
+.campo-t .opc { font-weight: 400; color: var(--ink-3); }
+.opina input, .opina textarea {
+  width: 100%; padding: 10px 12px; border: 1px solid var(--line-2); border-radius: var(--r-m);
+  background: var(--surface); color: var(--ink); font: inherit; font-size: 1rem;
+}
+.opina input { height: 44px; }
+.opina textarea { min-height: 7rem; resize: vertical; line-height: 1.45; }
+.opina input:hover, .opina textarea:hover { border-color: var(--ink-3); }
+.opina input:focus, .opina textarea:focus { outline: none; border-color: var(--ink); box-shadow: 0 0 0 1px var(--ink); }
+.opina-pie { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin-top: 12px; }
+.opina-estado { color: var(--ink-2); }
+@media (max-width: 760px) {
+  .pie-in { grid-template-columns: minmax(0, 1fr); }
+  .opina-campos { grid-template-columns: minmax(0, 1fr); }
+}
 
 /* ---- Añadir partidos: botón de la cabecera y panel con las candidaturas ---- */
 .btn--peq { height: 36px; padding: 0 14px; font-size: .875rem; }
+.btn:disabled { opacity: .6; cursor: default; }
 .enlace { padding: 0; border: 0; background: none; color: var(--ink); font: inherit; font-weight: 600; text-decoration: underline; text-decoration-color: var(--line-2); text-underline-offset: .2em; cursor: pointer; }
 .enlace:hover { text-decoration-color: currentColor; }
 .top-partidos { flex: none; height: 40px; padding: 0 12px 0 14px; }
@@ -723,7 +746,7 @@ html:has(.dlg[open]) { overflow: hidden; }
   .subindice a, .ir, .hero-p a, .ex-src a, .qc-q a, .ejemplos a, .migas a { display: inline-flex; align-items: center; min-height: 44px; }
   .eje-a { padding: 12px 0; }
   .eje-ver { min-height: 44px; }
-  .lado summary, .tambien summary, .toc-m summary { min-height: 44px; }
+  .lado summary, .tambien summary, .toc-m summary, .pie-fuentes summary { min-height: 44px; }
 }
 
 </style>
@@ -1468,14 +1491,56 @@ window.PROGRAMAS={"generado":"2026-11-18","eleccion":"Elecciones generales, 29 d
   }
 
   /* ---------- Pie ---------- */
+  // Los mensajes se envían con Web3Forms: la clave es pública y solo sirve para mandar correos a su dueño.
+  const WEB3FORMS = '';
+  const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
-    <div><h2>Fuentes</h2><ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul></div>
-    <div><h2>Cómo está hecho</h2>
-      <p>Los PDF se han pasado a texto y se han comprobado línea a línea, para que no falte ningún párrafo. Cada medida numerada es un extracto; los textos de exposición van en grupos de hasta 220 palabras.</p>
-      <p>Los titulares, la asignación de temas y las posturas de «Dónde chocan» los ha preparado un modelo de lenguaje y pueden contener errores. El texto citado de los partidos no se ha modificado.</p></div>
-    <div><h2>Aviso</h2><p>El Frente Amplio no se presenta en las circunscripciones de la Comunitat Valenciana; allí la candidatura de izquierdas es Compromís-Front Valencià.</p><p>Frente Amplio, PSOE, PP y Vox van ordenados de izquierda a derecha; los partidos que se añaden van detrás. Datos de ${esc(D.generado)}.</p></div>
+    <details class="pie-fuentes">
+      <summary>${ICO.chev}Fuentes: los ${todos.length} programas oficiales</summary>
+      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul>
+      <p>Datos del ${esc(fecha(D.generado))}.</p>
+    </details>
+    ${WEB3FORMS ? `<form class="opina" novalidate>
+      <h2>¿Has visto un error o quieres comentar algo?</h2>
+      <div class="opina-campos">
+        <label class="campo"><span class="campo-t">Asunto</span><input name="asunto" required maxlength="120" autocomplete="off"></label>
+        <label class="campo"><span class="campo-t">Tu correo <span class="opc">(opcional, para poder responderte)</span></span><input name="correo" type="email" maxlength="200" autocomplete="email"></label>
+        <label class="campo opina-msg"><span class="campo-t">Mensaje</span><textarea name="mensaje" required rows="4" maxlength="5000"></textarea></label>
+        <input name="botcheck" type="checkbox" hidden tabindex="-1" autocomplete="off">
+      </div>
+      <div class="opina-pie"><button type="submit" class="btn btn--fuerte btn--peq">Enviar</button><p class="opina-estado" role="status" aria-live="polite"></p></div>
+    </form>` : ''}
   </div>`; };
   pintarPie();
+  document.getElementById('pie').addEventListener('submit', async (ev) => {
+    const form = ev.target.closest('.opina');
+    if (!form) return;
+    ev.preventDefault();
+    const estado = $('.opina-estado', form);
+    const boton = $('button', form);
+    const v = (n) => form.elements[n].value.trim();
+    if (!v('asunto') || !v('mensaje')) { estado.textContent = 'Escribe un asunto y un mensaje.'; return; }
+    if (v('correo') && !form.elements.correo.checkValidity()) { estado.textContent = 'Revisa el correo: no parece válido.'; return; }
+    boton.disabled = true;
+    estado.textContent = 'Enviando…';
+    try {
+      const r = await fetch('https://api.web3forms.com/submit', {
+        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({
+          access_key: WEB3FORMS, subject: `[Programas 29N] ${v('asunto')}`, from_name: 'Programas 29N',
+          ...(v('correo') ? { email: v('correo'), replyto: v('correo') } : {}),
+          message: `${v('mensaje')}\n\n— Enviado desde ${location.href}`, botcheck: form.elements.botcheck.checked,
+        }),
+      });
+      if (!(await r.json()).success) throw new Error();
+      form.reset();
+      estado.textContent = 'Enviado. Gracias.';
+    } catch (_) {
+      estado.textContent = 'No se ha podido enviar. Inténtalo de nuevo en un rato.';
+    } finally {
+      boton.disabled = false;
+    }
+  });
 
   /* ---------- Elegir partidos ---------- */
   // Una fila por programa: las candidaturas que comparten programa vienen fundidas desde build_web.py.

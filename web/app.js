@@ -707,14 +707,56 @@
   }
 
   /* ---------- Pie ---------- */
+  // Los mensajes se envían con Web3Forms: la clave es pública y solo sirve para mandar correos a su dueño.
+  const WEB3FORMS = '';
+  const fecha = (iso) => new Date(`${iso}T12:00:00`).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
   const pintarPie = () => { document.getElementById('pie').innerHTML = `<div class="pie-in">
-    <div><h2>Fuentes</h2><ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul></div>
-    <div><h2>Cómo está hecho</h2>
-      <p>Los PDF se han pasado a texto y se han comprobado línea a línea, para que no falte ningún párrafo. Cada medida numerada es un extracto; los textos de exposición van en grupos de hasta 220 palabras.</p>
-      <p>Los titulares, la asignación de temas y las posturas de «Dónde chocan» los ha preparado un modelo de lenguaje y pueden contener errores. El texto citado de los partidos no se ha modificado.</p></div>
-    <div><h2>Aviso</h2><p>El Frente Amplio no se presenta en las circunscripciones de la Comunitat Valenciana; allí la candidatura de izquierdas es Compromís-Front Valencià.</p><p>Frente Amplio, PSOE, PP y Vox van ordenados de izquierda a derecha; los partidos que se añaden van detrás. Datos de ${esc(D.generado)}.</p></div>
+    <details class="pie-fuentes">
+      <summary>${ICO.chev}Fuentes: los ${todos.length} programas oficiales</summary>
+      <ul>${todos.map((p) => `<li><a href="${esc(p.fuente)}" target="_blank" rel="noopener">${esc(p.corto)}: ${esc(p.titulo)}</a> · ${p.paginas} págs.</li>`).join('')}</ul>
+      <p>Datos del ${esc(fecha(D.generado))}.</p>
+    </details>
+    ${WEB3FORMS ? `<form class="opina" novalidate>
+      <h2>¿Has visto un error o quieres comentar algo?</h2>
+      <div class="opina-campos">
+        <label class="campo"><span class="campo-t">Asunto</span><input name="asunto" required maxlength="120" autocomplete="off"></label>
+        <label class="campo"><span class="campo-t">Tu correo <span class="opc">(opcional, para poder responderte)</span></span><input name="correo" type="email" maxlength="200" autocomplete="email"></label>
+        <label class="campo opina-msg"><span class="campo-t">Mensaje</span><textarea name="mensaje" required rows="4" maxlength="5000"></textarea></label>
+        <input name="botcheck" type="checkbox" hidden tabindex="-1" autocomplete="off">
+      </div>
+      <div class="opina-pie"><button type="submit" class="btn btn--fuerte btn--peq">Enviar</button><p class="opina-estado" role="status" aria-live="polite"></p></div>
+    </form>` : ''}
   </div>`; };
   pintarPie();
+  document.getElementById('pie').addEventListener('submit', async (ev) => {
+    const form = ev.target.closest('.opina');
+    if (!form) return;
+    ev.preventDefault();
+    const estado = $('.opina-estado', form);
+    const boton = $('button', form);
+    const v = (n) => form.elements[n].value.trim();
+    if (!v('asunto') || !v('mensaje')) { estado.textContent = 'Escribe un asunto y un mensaje.'; return; }
+    if (v('correo') && !form.elements.correo.checkValidity()) { estado.textContent = 'Revisa el correo: no parece válido.'; return; }
+    boton.disabled = true;
+    estado.textContent = 'Enviando…';
+    try {
+      const r = await fetch('https://api.web3forms.com/submit', {
+        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({
+          access_key: WEB3FORMS, subject: `[Programas 29N] ${v('asunto')}`, from_name: 'Programas 29N',
+          ...(v('correo') ? { email: v('correo'), replyto: v('correo') } : {}),
+          message: `${v('mensaje')}\n\n— Enviado desde ${location.href}`, botcheck: form.elements.botcheck.checked,
+        }),
+      });
+      if (!(await r.json()).success) throw new Error();
+      form.reset();
+      estado.textContent = 'Enviado. Gracias.';
+    } catch (_) {
+      estado.textContent = 'No se ha podido enviar. Inténtalo de nuevo en un rato.';
+    } finally {
+      boton.disabled = false;
+    }
+  });
 
   /* ---------- Elegir partidos ---------- */
   // Una fila por programa: las candidaturas que comparten programa vienen fundidas desde build_web.py.
