@@ -365,9 +365,9 @@
  },
  "JxCat": {
   "nombre": "Junts per Catalunya",
-  "estado": "no-publicado",
-  "prog": null,
-  "nota": "No ha publicado programa para el 29N.",
+  "estado": "web",
+  "prog": "junts",
+  "nota": "Programa publicado solo como página web; el PDF se ha generado a partir de ella.",
   "url": ""
  },
  "D21": {

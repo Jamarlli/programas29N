@@ -101930,5 +101930,608 @@
   "titular": "Modificar por ley orgánica los límites provinciales para ajustarlos a las veguerías",
   "ejes": [],
   "nota": ""
+ },
+ {
+  "id": "junts-0001",
+  "huella": "ee8b033f4b6fcc1befa281ab8d167b51ff4b627c",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Llamada al voto: la revolución del centro frente a los extremos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0002",
+  "huella": "f96ba70ba9ee0731ae4b1f76567a7fa879006c04",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "El dinero de los catalanes debe quedarse en Cataluña para su bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0003",
+  "huella": "ac2a8ce76509d3913d3ea7a4283ffba180988d8e",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Concierto económico: la Agencia Tributaria de Cataluña recauda y gestiona todos los impuestos",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Concierto económico para Cataluña? → sí"
+ },
+ {
+  "id": "junts-0004",
+  "huella": "7a7f71e486ed6a6856307d869d8e64996a213c64",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Compensar y suprimir el déficit fiscal estructural e histórico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0005",
+  "huella": "30acec202595aa2b678aa12b4d12b5321a968ca2",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Territorializar los fondos europeos para que los gestione directamente Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0006",
+  "huella": "c707c9d814278e7b86c389f269080d839944d7d5",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar la Seguridad Social para ajustar las pensiones al coste de vida catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0007",
+  "huella": "32fa26015299766d589f8d35e4293baeb303f231",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Modelo propio de financiación local y uso permanente de remanentes y superávits",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0008",
+  "huella": "788e768396b21f316f00f8ffe8807ac0c8d7d0b9",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Bajar impuestos a familias, pymes y autónomos y deflactar el IRPF",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0009",
+  "huella": "534100f3a3109950d157e78ea628394cd8138136",
+  "subtema": "imp-irpf",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Deflactar el IRPF según el IPC y suprimir sucesiones y donaciones",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   },
+   {
+    "eje": "eje-herencias",
+    "posicion": "suprimir-bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0010",
+  "huella": "ff41b5a32e8a585bd42bcdeffb60f6055961f2c8",
+  "subtema": "imp-modelo",
+  "otros": [
+   "imp-iva-indirectos",
+   "rural-agro"
+  ],
+  "titular": "Rebajas fiscales directas y gasóleo profesional reducido para el sector primario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0011",
+  "huella": "34266e906d5c51242a986fc28bc5cd44e12d4930",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Ventanilla única, silencio administrativo positivo y menos trámites para emprendedores y pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0012",
+  "huella": "63826b6d0e95380f1a9fbf2feb2ee8b7ce6fa55e",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Energía competitiva: neutralidad tecnológica, más autoconsumo y medidas contra la pobreza energética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0013",
+  "huella": "2033d2e0922ab4337d1ad5802c674db6996357f9",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Bonificar fiscalmente el vehículo eléctrico, las renovables y los materiales sostenibles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0014",
+  "huella": "772c283d6ab225fa82bd8cf9ab634b5be882b815",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Llegar a tiempo no debe ser excepcional: el modelo ferroviario de FGC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0015",
+  "huella": "c51d6d8b23c6434f3a05b139d86b9fd2cd278b43",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Traspaso íntegro e inmediato de Rodalies y Media Distancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0016",
+  "huella": "5285676e1e53688c6424728c3adef2fc5b35f858",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Crear un modelo propio de transporte ferroviario gestionado por FGC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0017",
+  "huella": "8008e99abf3d9a05d0ec464825ec98c132bf6c6a",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Gestión propia del Aeropuerto del Prat, fuera del modelo centralizado de AENA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0018",
+  "huella": "0fb2621ba655e964d9c1e032deefdc9b22636384",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Gestión propia de los puertos de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0019",
+  "huella": "8f190dd9d79b0c87d394125f117d3d55a03a0da6",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Acelerar y culminar el Corredor Mediterráneo con ancho europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0020",
+  "huella": "9dbb329f81d0f7231dc4cef1f85f93917b892943",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Viñeta digital en autopistas para vehículos extranjeros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0021",
+  "huella": "7f61ab858842f426bcc2ea896e68dd138aab25df",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Cataluña debe gestionar su propia política migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0022",
+  "huella": "ec3f8b0ef7a381520f5cd6f5e883c54f8eac6f9f",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Delegar a la Generalitat todas las competencias de inmigración y extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0023",
+  "huella": "1e25556c78f092480cbbc1935612914345d7d746",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Controlar los flujos migratorios según la capacidad de integración y acogida lingüística obligatoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0024",
+  "huella": "b9c269ae4504cde83d36427bb35350dff22119b3",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Exigir el catalán en el arraigo, la renovación de permisos y las regularizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0025",
+  "huella": "e0bd618ed29ac797264ce600b3310d7017e09fb3",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "igu-laicidad",
+   "igu-violencia"
+  ],
+  "titular": "Cumplir las resoluciones de retorno, combatir la trata y prohibir cubrir el rostro",
+  "ejes": [
+   {
+    "eje": "eje-burka",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0026",
+  "huella": "013c4fbc07b0a2df4f24878de90bbd10a2e1b7d7",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Compensación económica a Cataluña por la acogida de menores no acompañados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0027",
+  "huella": "0d8106bfb6a0ff4b9677c5ee04e05311813a34e7",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Acabar con la impunidad en las calles: ni vandalismo ni ocupaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0028",
+  "huella": "aa96c89fb5191343ba4090d090393489707e6a79",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Modelo Nacional de Seguridad de Cataluña con los Mossos como policía integral plena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0029",
+  "huella": "b8defd8cb533b9e40b30e9b5d1e7cfc954990622",
+  "subtema": "seg-penal",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Reforzar la ley contra la multirreincidencia y medidas cautelares ágiles contra ocupaciones",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0030",
+  "huella": "e1b4b1451751167958e1d70a11e89cfe36f50ec3",
+  "subtema": "seg-ciberseguridad",
+  "otros": [],
+  "titular": "Ampliar competencias en ciberseguridad con la Agencia de Ciberseguridad de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0031",
+  "huella": "72c700108b684d5884a1c0a366785d250b1fa052",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Blindar el modelo catalán de bomberos profesionales y voluntarios y la protección civil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0032",
+  "huella": "3d78defbbe315db1161b981bf5d0ecd230884c97",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Participar en la cooperación policial internacional y en la seguridad nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0033",
+  "huella": "6eda5fa432b83f25990b68044af88cd827181a77",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Soberanía judicial: Consejo de Justicia de Cataluña y TSJC como última instancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0034",
+  "huella": "bf3c44dbdf2ed7a58b39c5633fd0c682d1f4631e",
+  "subtema": "dig-datos",
+  "otros": [
+   "ener-modelo",
+   "infra-digital"
+  ],
+  "titular": "Generación distribuida, traspaso de telecomunicaciones y catalán nativo en IA y plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0035",
+  "huella": "2a3950ada37aa738d4d11d9dd0c3af6024d8ea28",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Proteger a inquilinos y propietarios; el Estado debe asumir el escudo social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0036",
+  "huella": "2f19ef4900291fbb29ad37149c920019a246ef56",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Elevar los fondos estatales de vivienda al 0,6 % del PIB, media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0037",
+  "huella": "43d8041613413e17446108978459602798e3525f",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ceder a Generalitat y ayuntamientos el 30 % de pisos vacíos de la SAREB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0038",
+  "huella": "64fc71ce100d75eeef97ca6ab2d8a881206e38f2",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reformar la LAU o crear una ley catalana para fomentar alquileres indefinidos voluntarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0039",
+  "huella": "4c9d1280a2bd74517997397b7bb2c10ded93cf0c",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Plan masivo de rehabilitación y eficiencia energética de las viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0040",
+  "huella": "d34e827090999331d2b63f178ae30bcfb933c6b5",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Desahucio cautelar exprés en 48 horas en ocupaciones ilegales que perturben la convivencia",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0041",
+  "huella": "a7fe5a28d88b8fb2168104118876dde1c541d0a7",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir temporalmente la compra de viviendas por fondos de inversión y entidades financieras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0042",
+  "huella": "6a57265a3e20e8ba4a4caed202c6276d1fac0e22",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Deducir el 15 % del alquiler habitual con base imponible de hasta 33.007,20 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0043",
+  "huella": "0ae301ea63e9fca134a44c3562e9ab8e6f171369",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Exenciones fiscales al vender pisos vacíos a administraciones y rebajas en rendimientos del alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0044",
+  "huella": "d42e9a88ac1a647ede911c2a306a24636a167ba3",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IVA reducido del 5 % para vivienda nueva habitual y vivienda social",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0045",
+  "huella": "47451bf04e04d6657d0ff9ab0d58d05df5241ba8",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Uso permanente de remanentes y superávits municipales para vivienda e inversiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0046",
+  "huella": "1c77b2187c1b32f45ee79b6750243cca79e225e5",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Presentación: la tierra, la lengua y la gente como modelo de país",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0047",
+  "huella": "cb94d3e3e263ce744365ce5b00484da019dc458b",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Escuela en catalán como lengua vehicular y protección de la inmersión",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0048",
+  "huella": "607fc209d29cf832af6c69fc078c8e21e526d49a",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Catalán como requisito estricto para el personal del Estado en Cataluña, incluidos jueces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0049",
+  "huella": "6a40155aaa8da47de03898a2c9c552e8f18a05d4",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue",
+   "cultura"
+  ],
+  "titular": "Oficialidad plena del catalán en la UE y presencia en el audiovisual y RTVE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0050",
+  "huella": "f987e4ebcbf13851449c23477a48d1f5dd6e6b15",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Traspasar a Cataluña archivos y museos estatales y devolver los papeles de Salamanca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0051",
+  "huella": "8bcb759636e2da2645990b606e4e1847be428aeb",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reducir el IVA cultural, Estatuto del Artista y diplomacia cultural propia",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "junts-0052",
+  "huella": "1837dd8dec7b356a21d3aab51702110a42f67fcf",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: una nación soberana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0053",
+  "huella": "920afd16389f1813bde9488fe398d866e2fd28ab",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0054",
+  "huella": "8c0a0a60ea661a3ecc6baeb3fcf858235315e9cb",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país seguro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0055",
+  "huella": "6ece5529c2737f73dd897f164bd091aafcce13fb",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país próspero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0056",
+  "huella": "d55919beaf1fd1259076b11c3b75feaed1f473bc",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país puntual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0057",
+  "huella": "74935898ea2ce3a73552f68723bc1467dc5a17e3",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país habitable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0058",
+  "huella": "70c2b58e445ebadab0db809216187acb3681fcd8",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país integrado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "junts-0059",
+  "huella": "7ae087f2f44750e83f0711b7f6a20859d136178e",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivo: un país europeo",
+  "ejes": [],
+  "nota": ""
  }
 ]

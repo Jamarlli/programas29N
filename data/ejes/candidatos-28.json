@@ -1,0 +1,1149 @@
+[
+ {
+  "eje": "eje-territorial",
+  "pregunta": "¿Hacia qué modelo territorial?",
+  "posiciones": [
+   {
+    "id": "recentralizar",
+    "nombre": "Frenar la descentralización o blindar competencias del Estado"
+   },
+   {
+    "id": "autonomico",
+    "nombre": "Mantener y mejorar el Estado autonómico"
+   },
+   {
+    "id": "federal",
+    "nombre": "Estado federal, confederal o plurinacional"
+   },
+   {
+    "id": "autodeterminacion",
+    "nombre": "Derecho a decidir, autodeterminación o independencia"
+   }
+  ],
+  "n": 5,
+  "palabras": 122,
+  "candidatos": [
+   {
+    "id": "junts-0005",
+    "partido": "junts",
+    "titular": "Territorializar los fondos europeos para que los gestione directamente Cataluña",
+    "marca_actual": [],
+    "texto": "- **Gestió i territorialització efectiva dels fons europeus** que gestioni directament Catalunya."
+   },
+   {
+    "id": "junts-0006",
+    "partido": "junts",
+    "titular": "Traspasar la Seguridad Social para ajustar las pensiones al coste de vida catalán",
+    "marca_actual": [],
+    "texto": "- **Transferència de competències de Seguretat Social per ajustar pensions** al cost de la vida català i recuperar el deute històric que els catalans paguem de més."
+   },
+   {
+    "id": "junts-0022",
+    "partido": "junts",
+    "titular": "Delegar a la Generalitat todas las competencias de inmigración y extranjería",
+    "marca_actual": [],
+    "texto": "- **Immigració:** Delegació plena a la Generalitat de Catalunya de les competències d’immigració i estrangeria (tramitació, sancions, centres d’internament, control fronterer a ports/aeroports, documentació) amb recursos i Mossos com a policia integral."
+   },
+   {
+    "id": "junts-0033",
+    "partido": "junts",
+    "titular": "Soberanía judicial: Consejo de Justicia de Cataluña y TSJC como última instancia",
+    "marca_actual": [],
+    "texto": "- **Plena sobirania judicial:** Desplegament del Consell de Justícia de Catalunya, TSJC com a darrera instància i traspàs integral de personal i mitjans (LAJ, forenses, etc.) i català com a requisit a la justícia."
+   },
+   {
+    "id": "junts-0046",
+    "partido": "junts",
+    "titular": "Presentación: la tierra, la lengua y la gente como modelo de país",
+    "marca_actual": [],
+    "texto": "La nostra terra, la nostra llengua, la nostra gent: el model de país que volem, al centre"
+   }
+  ]
+ },
+ {
+  "eje": "eje-iva",
+  "pregunta": "¿Qué hacer con el IVA?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo, en general o en algunos productos"
+   },
+   {
+    "id": "subir-lujo",
+    "nombre": "Subirlo a bienes de lujo o reordenar tipos al alza"
+   }
+  ],
+  "n": 4,
+  "palabras": 98,
+  "candidatos": [
+   {
+    "id": "junts-0007",
+    "partido": "junts",
+    "titular": "Modelo propio de financiación local y uso permanente de remanentes y superávits",
+    "marca_actual": [],
+    "texto": "- **Model propi de finançament local** reforma de la participació en tributs de l’Estat, compensació de plusvàlua/IVA i ús permanent de romanents/superàvits per inversions i habitatge."
+   },
+   {
+    "id": "junts-0010",
+    "partido": "junts",
+    "titular": "Rebajas fiscales directas y gasóleo profesional reducido para el sector primario",
+    "marca_actual": [],
+    "texto": "- **Rebaixes fiscals directes,** gasoil professional reduït per al sector primari, i tractament fiscal favorable d’ajuts i amortitzacions."
+   },
+   {
+    "id": "junts-0044",
+    "partido": "junts",
+    "titular": "IVA reducido del 5 % para vivienda nueva habitual y vivienda social",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **IVA reduït del 5% per a habitatges nous destinats a residència habitual** i per a operacions d’habitatge social, com també l’ampliació del tipus del 10% a determinades obres de renovació i reparació d’habitatges destinats al lloguer habitual."
+   },
+   {
+    "id": "junts-0051",
+    "partido": "junts",
+    "titular": "Reducir el IVA cultural, Estatuto del Artista y diplomacia cultural propia",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Reducció de l’IVA cultural,** Estatut de l’Artista (CoNCA) i diplomàcia cultural pròpia amb finançament estatal."
+   }
+  ]
+ },
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlo como está"
+   }
+  ],
+  "n": 3,
+  "palabras": 79,
+  "candidatos": [
+   {
+    "id": "junts-0008",
+    "partido": "junts",
+    "titular": "Bajar impuestos a familias, pymes y autónomos y deflactar el IRPF",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "S’han d’abaixar impostos a les famílies, PIMES i autònoms. S’ha de deflactar l’IRPF i facilitar l’estalvi familiar. El teu esforç ha de servir per tenir sous per viure i progressar, no per sobreviure."
+   },
+   {
+    "id": "junts-0009",
+    "partido": "junts",
+    "titular": "Deflactar el IRPF según el IPC y suprimir sucesiones y donaciones",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Deflactació automàtica de l’IRPF ajustada a l’IPC** (amb actualització inicial dels darrers 10 anys) i millora de la competitivitat fiscal amb la supressió de successions i donacions."
+   },
+   {
+    "id": "junts-0010",
+    "partido": "junts",
+    "titular": "Rebajas fiscales directas y gasóleo profesional reducido para el sector primario",
+    "marca_actual": [],
+    "texto": "- **Rebaixes fiscals directes,** gasoil professional reduït per al sector primari, i tractament fiscal favorable d’ajuts i amortitzacions."
+   }
+  ]
+ },
+ {
+  "eje": "eje-patrimonio",
+  "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlos o bajarlos"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlos o subirlos"
+   }
+  ],
+  "n": 3,
+  "palabras": 79,
+  "candidatos": [
+   {
+    "id": "junts-0008",
+    "partido": "junts",
+    "titular": "Bajar impuestos a familias, pymes y autónomos y deflactar el IRPF",
+    "marca_actual": [],
+    "texto": "S’han d’abaixar impostos a les famílies, PIMES i autònoms. S’ha de deflactar l’IRPF i facilitar l’estalvi familiar. El teu esforç ha de servir per tenir sous per viure i progressar, no per sobreviure."
+   },
+   {
+    "id": "junts-0009",
+    "partido": "junts",
+    "titular": "Deflactar el IRPF según el IPC y suprimir sucesiones y donaciones",
+    "marca_actual": [],
+    "texto": "- **Deflactació automàtica de l’IRPF ajustada a l’IPC** (amb actualització inicial dels darrers 10 anys) i millora de la competitivitat fiscal amb la supressió de successions i donacions."
+   },
+   {
+    "id": "junts-0010",
+    "partido": "junts",
+    "titular": "Rebajas fiscales directas y gasóleo profesional reducido para el sector primario",
+    "marca_actual": [],
+    "texto": "- **Rebaixes fiscals directes,** gasoil professional reduït per al sector primari, i tractament fiscal favorable d’ajuts i amortitzacions."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 3,
+  "palabras": 78,
+  "candidatos": [
+   {
+    "id": "junts-0047",
+    "partido": "junts",
+    "titular": "Escuela en catalán como lengua vehicular y protección de la inmersión",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "- **Escola en català com a llengua vehicular:** protecció de la Llei d’Educació, immersió, plans d’acceleració lingüística i finançament estatal de les prioritats lingüístiques."
+   },
+   {
+    "id": "junts-0048",
+    "partido": "junts",
+    "titular": "Catalán como requisito estricto para el personal del Estado en Cataluña, incluidos jueces",
+    "marca_actual": [],
+    "texto": "- **Català com a requisit estricte** per a tot el personal de l’Administració de l’Estat a Catalunya (inclosos jutges, fiscals i cossos de seguretat) i nova Llei de Funció Pública."
+   },
+   {
+    "id": "junts-0049",
+    "partido": "junts",
+    "titular": "Oficialidad plena del catalán en la UE y presencia en el audiovisual y RTVE",
+    "marca_actual": [],
+    "texto": "- **Oficialitat plena del català a la UE** i presència efectiva a tota la cadena cultural/audiovisual (creació, doblatge, plataformes, RTVE en català amb qualitat)."
+   }
+  ]
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "pregunta": "¿Condonar parte de la deuda autonómica?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, condonarla"
+   },
+   {
+    "id": "no",
+    "nombre": "No, rechazar la condonación"
+   }
+  ],
+  "n": 3,
+  "palabras": 67,
+  "candidatos": [
+   {
+    "id": "junts-0002",
+    "partido": "junts",
+    "titular": "El dinero de los catalanes debe quedarse en Cataluña para su bienestar",
+    "marca_actual": [],
+    "texto": "Els diners dels catalans s’han de quedar a Catalunya per poder-los destinar al benestar dels catalans, com hospitals i escoles."
+   },
+   {
+    "id": "junts-0003",
+    "partido": "junts",
+    "titular": "Concierto económico: la Agencia Tributaria de Cataluña recauda y gestiona todos los impuestos",
+    "marca_actual": [],
+    "texto": "- **Concert econòmic** Recaptació i gestió via Agència Tributària de Catalunya de tots els impostos de Catalunya, amb decisió sobre quantia i ús des del Parlament de Catalunya."
+   },
+   {
+    "id": "junts-0004",
+    "partido": "junts",
+    "titular": "Compensar y suprimir el déficit fiscal estructural e histórico",
+    "marca_actual": [],
+    "texto": "- **Compensació i supressió del dèficit fiscal** estructural i històric i transferència efectiva de recursos per inversions i serveis."
+   }
+  ]
+ },
+ {
+  "eje": "eje-okupacion",
+  "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+  "posiciones": [
+   {
+    "id": "desalojo-rapido",
+    "nombre": "Desalojo rápido y más penas"
+   },
+   {
+    "id": "proteger-vulnerables",
+    "nombre": "Frenar desahucios de personas vulnerables"
+   }
+  ],
+  "n": 2,
+  "palabras": 52,
+  "candidatos": [
+   {
+    "id": "junts-0029",
+    "partido": "junts",
+    "titular": "Reforzar la ley contra la multirreincidencia y medidas cautelares ágiles contra ocupaciones",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- **Multireincidència:** aplicació efectiva i reforç de la reforma contra la multireincidència (LO 1/2026) i mesures cautelars àgils contra ocupacions delictives i crim organitzat."
+   },
+   {
+    "id": "junts-0040",
+    "partido": "junts",
+    "titular": "Desahucio cautelar exprés en 48 horas en ocupaciones ilegales que perturben la convivencia",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- **Desnonament cautelar exprés en 48 hores en ocupacions il·legals** que pertorbin la convivència o tinguin caràcter delinqüencial, quan els ocupants no acreditin cap títol de possessió legítim."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 2,
+  "palabras": 49,
+  "candidatos": [
+   {
+    "id": "junts-0021",
+    "partido": "junts",
+    "titular": "Cataluña debe gestionar su propia política migratoria",
+    "marca_actual": [],
+    "texto": "Catalunya ha de gestionar la seva propia política migratòria. Disposar de les competències en immigració és imprescindible per garantir l'ordre i una bona integració."
+   },
+   {
+    "id": "junts-0023",
+    "partido": "junts",
+    "titular": "Controlar los flujos migratorios según la capacidad de integración y acogida lingüística obligatoria",
+    "marca_actual": [],
+    "texto": "- **Control i integració:** Model de control de fluxos migratoris segons capacitat d’integració, acollida lingüística obligatòria i català com a llengua d’integració i ascensor social."
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-electoral",
+  "pregunta": "¿Cambiar la ley electoral?",
+  "posiciones": [
+   {
+    "id": "proporcional",
+    "nombre": "Hacerla más proporcional"
+   },
+   {
+    "id": "lista-mas-votada",
+    "nombre": "Que gobierne la lista más votada"
+   }
+  ],
+  "n": 1,
+  "palabras": 36,
+  "candidatos": [
+   {
+    "id": "junts-0036",
+    "partido": "junts",
+    "titular": "Elevar los fondos estatales de vivienda al 0,6 % del PIB, media europea",
+    "marca_actual": [],
+    "texto": "- **Estàndard Europeu:** Augment progressiu dels fons estatals d’habitatge fins a situar-los en la mitjana europea del 0,6 % del PIB, transferint a la Generalitat la part proporcional corresponent al pes de la població de Catalunya."
+   }
+  ]
+ },
+ {
+  "eje": "eje-cie",
+  "pregunta": "¿Qué hacer con los CIE (centros de internamiento de extranjeros)?",
+  "posiciones": [
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlos"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerlos o ampliarlos"
+   }
+  ],
+  "n": 1,
+  "palabras": 32,
+  "candidatos": [
+   {
+    "id": "junts-0022",
+    "partido": "junts",
+    "titular": "Delegar a la Generalitat todas las competencias de inmigración y extranjería",
+    "marca_actual": [],
+    "texto": "- **Immigració:** Delegació plena a la Generalitat de Catalunya de les competències d’immigració i estrangeria (tramitació, sancions, centres d’internament, control fronterer a ports/aeroports, documentació) amb recursos i Mossos com a policia integral."
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 1,
+  "palabras": 28,
+  "candidatos": [
+   {
+    "id": "junts-0009",
+    "partido": "junts",
+    "titular": "Deflactar el IRPF según el IPC y suprimir sucesiones y donaciones",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "- **Deflactació automàtica de l’IRPF ajustada a l’IPC** (amb actualització inicial dels darrers 10 anys) i millora de la competitivitat fiscal amb la supressió de successions i donacions."
+   }
+  ]
+ },
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 1,
+  "palabras": 28,
+  "candidatos": [
+   {
+    "id": "junts-0009",
+    "partido": "junts",
+    "titular": "Deflactar el IRPF según el IPC y suprimir sucesiones y donaciones",
+    "marca_actual": [],
+    "texto": "- **Deflactació automàtica de l’IRPF ajustada a l’IPC** (amb actualització inicial dels darrers 10 anys) i millora de la competitivitat fiscal amb la supressió de successions i donacions."
+   }
+  ]
+ },
+ {
+  "eje": "eje-violencia-genero",
+  "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarlas o sustituirlas"
+   },
+   {
+    "id": "mantener-reforzar",
+    "nombre": "Mantenerlas o reforzarlas"
+   }
+  ],
+  "n": 1,
+  "palabras": 27,
+  "candidatos": [
+   {
+    "id": "junts-0025",
+    "partido": "junts",
+    "titular": "Cumplir las resoluciones de retorno, combatir la trata y prohibir cubrir el rostro",
+    "marca_actual": [],
+    "texto": "- **Compliment efectiu de resolucions de retorn,** lluita contra tracta i matrimonis forçats, i prohibició de peces de roba que cobreixen totalment el rostre a l’espai públic."
+   }
+  ]
+ },
+ {
+  "eje": "eje-burka",
+  "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, prohibirlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 1,
+  "palabras": 27,
+  "candidatos": [
+   {
+    "id": "junts-0025",
+    "partido": "junts",
+    "titular": "Cumplir las resoluciones de retorno, combatir la trata y prohibir cubrir el rostro",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- **Compliment efectiu de resolucions de retorn,** lluita contra tracta i matrimonis forçats, i prohibició de peces de roba que cobreixen totalment el rostre a l’espai públic."
+   }
+  ]
+ },
+ {
+  "eje": "eje-alquiler",
+  "pregunta": "¿Limitar el precio del alquiler?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regular o bajar precios"
+   },
+   {
+    "id": "no",
+    "nombre": "No, más oferta y seguridad jurídica"
+   }
+  ],
+  "n": 1,
+  "palabras": 20,
+  "candidatos": [
+   {
+    "id": "junts-0038",
+    "partido": "junts",
+    "titular": "Reformar la LAU o crear una ley catalana para fomentar alquileres indefinidos voluntarios",
+    "marca_actual": [],
+    "texto": "- **Reforma integral de la LAU** (o Llei catalana d’Arrendaments pròpia) per fomentar contractes de lloguer estables i indefinits voluntaris."
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla, aplicarla o ampliarla"
+   }
+  ],
+  "n": 1,
+  "palabras": 18,
+  "candidatos": [
+   {
+    "id": "junts-0035",
+    "partido": "junts",
+    "titular": "Proteger a inquilinos y propietarios; el Estado debe asumir el escudo social",
+    "marca_actual": [],
+    "texto": "No s’ha d’escollir entre llogater o propietari: s’ha de protegir a tothom, i l’Estat ha d’assumir l’escut social."
+   }
+  ]
+ },
+ {
+  "eje": "eje-regularizacion",
+  "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regularizaciones o vías estables"
+   },
+   {
+    "id": "no",
+    "nombre": "No, prohibirlas y expulsar"
+   }
+  ],
+  "n": 1,
+  "palabras": 14,
+  "candidatos": [
+   {
+    "id": "junts-0024",
+    "partido": "junts",
+    "titular": "Exigir el catalán en el arraigo, la renovación de permisos y las regularizaciones",
+    "marca_actual": [],
+    "texto": "- **Coneixement del català com a requisit** en arrelament, renovació de permisos i regularitzacions."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sociedades",
+  "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo"
+   },
+   {
+    "id": "subir",
+    "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-smi",
+  "pregunta": "¿Seguir subiendo el salario mínimo?",
+  "posiciones": [
+   {
+    "id": "subir",
+    "nombre": "Subirlo o reforzarlo por ley"
+   },
+   {
+    "id": "contener",
+    "nombre": "No, contenerlo o fijarlo por acuerdo"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-jornada",
+  "pregunta": "¿Reducir la jornada laboral por ley?",
+  "posiciones": [
+   {
+    "id": "reducir",
+    "nombre": "Sí, reducirla sin bajar el sueldo"
+   },
+   {
+    "id": "no",
+    "nombre": "No por ley"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-reforma-laboral",
+  "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-profundizar",
+    "nombre": "Ampliar la protección frente al despido y la precariedad"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-nuclear",
+  "pregunta": "¿Qué hacer con las centrales nucleares?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlas o alargar su vida"
+   },
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlas según el calendario"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-agua",
+  "pregunta": "¿Trasvases e interconexión de cuencas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+   },
+   {
+    "id": "no",
+    "nombre": "No: gestión de la demanda, agua como bien público"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-memoria",
+  "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-jefatura",
+  "pregunta": "¿Monarquía o república?",
+  "posiciones": [
+   {
+    "id": "monarquia",
+    "nombre": "Defender la monarquía o la Corona"
+   },
+   {
+    "id": "republica",
+    "nombre": "Avanzar hacia una república"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-defensa",
+  "pregunta": "¿Más gasto en defensa?",
+  "posiciones": [
+   {
+    "id": "aumentar",
+    "nombre": "Aumentarlo"
+   },
+   {
+    "id": "contener",
+    "nombre": "Contenerlo o priorizar la seguridad humana"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-cgpj",
+  "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+  "posiciones": [
+   {
+    "id": "jueces",
+    "nombre": "Que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "parlamento",
+    "nombre": "Mantener la elección parlamentaria"
+   },
+   {
+    "id": "ciudadania",
+    "nombre": "Que los elija la ciudadanía por votación"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-sedicion",
+  "pregunta": "¿Recuperar el delito de sedición?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, recuperarlo o endurecer esos delitos"
+   },
+   {
+    "id": "no",
+    "nombre": "No, o despenalizar delitos de opinión"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-mordaza",
+  "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+  "posiciones": [
+   {
+    "id": "derogar-sustituir",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o reforzarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-clima-ritmo",
+  "pregunta": "¿Qué ritmo para la transición climática?",
+  "posiciones": [
+   {
+    "id": "acelerar",
+    "nombre": "Mantener o acelerar los objetivos"
+   },
+   {
+    "id": "frenar",
+    "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-prostitucion",
+  "pregunta": "¿Qué hacer con la prostitución?",
+  "posiciones": [
+   {
+    "id": "abolir",
+    "nombre": "Abolirla"
+   },
+   {
+    "id": "derechos",
+    "nombre": "Reconocer derechos a quienes la ejercen"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-eutanasia",
+  "pregunta": "¿Eutanasia o cuidados paliativos?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o garantizarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Poner el acento en los cuidados paliativos"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-concertada",
+  "pregunta": "¿Qué hacer con la escuela concertada?",
+  "posiciones": [
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarla o garantizar la libertad de elección de centro"
+   },
+   {
+    "id": "reducir",
+    "nombre": "Reducir su financiación y priorizar la pública"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-lomloe",
+  "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o desarrollarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-jubilacion",
+  "pregunta": "¿Qué hacer con la edad de jubilación?",
+  "posiciones": [
+   {
+    "id": "adelantar",
+    "nombre": "Adelantarla o flexibilizarla a la baja"
+   },
+   {
+    "id": "mantener-retrasar",
+    "nombre": "Mantenerla o incentivar retrasarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-mercosur",
+  "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+  "posiciones": [
+   {
+    "id": "rechazar",
+    "nombre": "Rechazarlo o exigir cláusulas espejo"
+   },
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarlo"
+   },
+   {
+    "id": "salvaguardas",
+    "nombre": "Aplicarlo con salvaguardas y control"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-otan",
+  "pregunta": "¿Seguir en la OTAN?",
+  "posiciones": [
+   {
+    "id": "seguir",
+    "nombre": "Seguir en la OTAN"
+   },
+   {
+    "id": "salir",
+    "nombre": "Salir de la OTAN o cerrar las bases"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-ppr",
+  "pregunta": "¿Qué hacer con la prisión permanente revisable?",
+  "posiciones": [
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-gestacion",
+  "pregunta": "¿Qué hacer con la gestación subrogada?",
+  "posiciones": [
+   {
+    "id": "prohibir",
+    "nombre": "Prohibirla y perseguirla"
+   },
+   {
+    "id": "regular",
+    "nombre": "Regularla"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-cannabis",
+  "pregunta": "¿Regular el cannabis?",
+  "posiciones": [
+   {
+    "id": "uso-adulto",
+    "nombre": "Legalizar o regular el uso adulto"
+   },
+   {
+    "id": "medicinal",
+    "nombre": "Regular el uso medicinal"
+   },
+   {
+    "id": "prohibir",
+    "nombre": "Mantener la prohibición"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-renta-basica",
+  "pregunta": "¿Implantar una renta básica universal?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, una renta básica universal"
+   },
+   {
+    "id": "no",
+    "nombre": "No, solo ayudas condicionadas"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-listas",
+  "pregunta": "¿Listas electorales abiertas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, listas abiertas o desbloqueadas"
+   },
+   {
+    "id": "no",
+    "nombre": "Mantener las listas cerradas"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-mandatos",
+  "pregunta": "¿Limitar los mandatos de los cargos públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, limitarlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No limitarlos"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ },
+ {
+  "eje": "eje-santa-sede",
+  "pregunta": "¿Qué hacer con los acuerdos con la Santa Sede?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Denunciarlos o derogarlos"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlos"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ }
+]

@@ -1,0 +1,15 @@
+[
+ {"eje": "eje-territorial", "id": "junts-0005", "posicion": "autonomico", "cita": "Gestió i territorialització efectiva dels fons europeus que gestioni directament Catalunya."},
+ {"eje": "eje-territorial", "id": "junts-0006", "posicion": "autonomico", "cita": "Transferència de competències de Seguretat Social per ajustar pensions al cost de la vida català"},
+ {"eje": "eje-territorial", "id": "junts-0022", "posicion": "autonomico", "cita": "Delegació plena a la Generalitat de Catalunya de les competències d’immigració i estrangeria"},
+ {"eje": "eje-territorial", "id": "junts-0033", "posicion": "autonomico", "cita": "Desplegament del Consell de Justícia de Catalunya, TSJC com a darrera instància i traspàs integral de personal i mitjans"},
+ {"eje": "eje-iva", "id": "junts-0044", "posicion": "bajar", "cita": "IVA reduït del 5% per a habitatges nous destinats a residència habitual i per a operacions d’habitatge social"},
+ {"eje": "eje-iva", "id": "junts-0051", "posicion": "bajar", "cita": "Reducció de l’IVA cultural, Estatut de l’Artista (CoNCA)"},
+ {"eje": "eje-irpf", "id": "junts-0008", "posicion": "bajar", "cita": "S’han d’abaixar impostos a les famílies, PIMES i autònoms. S’ha de deflactar l’IRPF i facilitar l’estalvi familiar."},
+ {"eje": "eje-irpf", "id": "junts-0009", "posicion": "bajar", "cita": "Deflactació automàtica de l’IRPF ajustada a l’IPC (amb actualització inicial dels darrers 10 anys)"},
+ {"eje": "eje-lengua", "id": "junts-0047", "posicion": "cooficiales", "cita": "Escola en català com a llengua vehicular: protecció de la Llei d’Educació, immersió, plans d’acceleració lingüística"},
+ {"eje": "eje-okupacion", "id": "junts-0029", "posicion": "desalojo-rapido", "cita": "mesures cautelars àgils contra ocupacions delictives i crim organitzat."},
+ {"eje": "eje-okupacion", "id": "junts-0040", "posicion": "desalojo-rapido", "cita": "Desnonament cautelar exprés en 48 hores en ocupacions il·legals que pertorbin la convivència o tinguin caràcter delinqüencial"},
+ {"eje": "eje-herencias", "id": "junts-0009", "posicion": "suprimir-bajar", "cita": "millora de la competitivitat fiscal amb la supressió de successions i donacions."},
+ {"eje": "eje-burka", "id": "junts-0025", "posicion": "si", "cita": "prohibició de peces de roba que cobreixen totalment el rostre a l’espai públic."}
+]

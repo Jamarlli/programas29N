@@ -52,7 +52,7 @@ Leyenda: **propio** = documento suyo para el 29N · **compartido** = usa el de o
 | Falange Española de las JONS | Propio, 60 p. | `fedelasjons/` |
 | Democracia para el Siglo 21 (D21) | Propio, 108 p. | `d21/` |
 | Partido Autónomos | Propio, 15 p. (más resumen de 12 p.) | `partidoautonomos/` |
-| Junts | Nada para el 29N (los agregadores enlazan el de 2023) | — |
+| Junts | Solo web: «Catalunya al centre» en tualcentre.cat (encontrado el 18-11); PDF generado a partir de la página | `junts/` (HTML de la página y PDF generado) |
 | Alhora | Solo web: programa genérico «treball en procés», no del 29N | `alhora/` (HTML) |
 | Convergents (CNV) | Propio, 48 p. en catalán (PDF de noviembre de 2025) | `cnv/` |
 | EAJ-PNV | Propio, 43 p., castellano y euskera | `eaj-pnv/` |

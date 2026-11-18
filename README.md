@@ -9,7 +9,7 @@ Los programas electorales de las elecciones generales del 29 de noviembre de 202
 - **Programas:** cada programa entero, en su orden original.
 - **Buscar** en todos los programas a la vez.
 
-Hay 27 programas, con 10.206 extractos. Por defecto se comparan Frente Amplio, PSOE, PP y Vox; el resto se añade desde «Añadir partidos», que también lista las candidaturas del BOE cuyo programa aún no está.
+Hay 28 programas, con 10.265 extractos. Por defecto se comparan Frente Amplio, PSOE, PP y Vox; el resto se añade desde «Añadir partidos», que también lista las candidaturas del BOE cuyo programa aún no está.
 
 ## Criterios
 

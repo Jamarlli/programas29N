@@ -41,7 +41,7 @@ fuente_pdf: "{P['fuente']}"
 tipo_fuente: "{q(P['tipo_fuente'])}"
 paginas_pdf: {pags}
 sha256_pdf: "{sha}"
-fecha_descarga: "2026-11-17"
+fecha_descarga: "{P.get('descarga', '2026-11-17')}"
 conversion: "pymupdf4llm (sin OCR, sin imagenes) + limpieza: union de palabras y parrafos partidos, indice y cabeceras eliminados, jerarquia de titulos normalizada"
 ---
 

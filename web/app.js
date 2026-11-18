@@ -87,7 +87,7 @@
     desc: '<svg class="i" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 2.5v8M4.5 7 8 10.5 11.5 7M3 13.5h10" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>',
   };
   const fmtMB = (mb) => `${String(mb).replace('.', ',')} MB`;
-  const enlacePDF = (e) => `${P[e.p].fuente}#page=${e.g}`;
+  const enlacePDF = (e) => `${P[e.p].pdfCopia || P[e.p].fuente}#page=${e.g}`;
   const hrefSub = (s) => `#/tema/${bloqueDe[s].id}/${s}`;
   // «Frente Amplio» → «FA»; los nombres cortos se quedan igual
   const abrev = (p) => p.sigla || (p.corto.includes(' ') ? p.corto.split(/\s+/).map((w) => w[0]).join('').toUpperCase() : p.corto);
@@ -391,7 +391,7 @@
             <span class="pg-s"><span><b>${p.paginas}</b> ${p.paginas === 1 ? 'página' : 'páginas'}</span><span><b>${fmt(nExt[p.id])}</b> extractos</span><span><b>${fmt(palabras[p.id])}</b> palabras</span></span>
             <span class="pg-a">Leer el programa${ICO.der}</span>
           </a>
-          <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF original${ICO.ext}</a>
+          <a class="pg-pdf" href="${esc(p.fuente)}" target="_blank" rel="noopener">${p.pdfCopia ? 'Web original' : 'PDF original'}${ICO.ext}</a>
         </li>`).join('')}</ul>`;
   }
 
@@ -425,8 +425,8 @@
             <h1>${esc(p.corto)}: <span class="prog-titulo">${esc(p.titulo)}</span></h1>
             <dl class="ficha">
               <div><dt>Candidatura</dt><dd>${esc(p.nombre)}</dd></div>
-              <div><dt>Fuente</dt><dd><a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a> · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
-              <div><dt>Contenido</dt><dd>${plural(l.length, 'extracto', 'extractos')}, ${fmt(palabras[pid])} palabras. Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.</dd></div>
+              <div><dt>Fuente</dt><dd>${p.pdfCopia ? `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">Página web${ICO.ext}</a> · <a href="${esc(p.pdfCopia)}" target="_blank" rel="noopener">PDF generado de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a>` : `<a href="${esc(p.fuente)}" target="_blank" rel="noopener">PDF de ${p.paginas} ${p.paginas === 1 ? 'página' : 'páginas'}${ICO.ext}</a>`} · ${esc(p.tipoFuente)} · descargado el ${esc(p.descarga)}</dd></div>
+              <div><dt>Contenido</dt><dd>${plural(l.length, 'extracto', 'extractos')}, ${fmt(palabras[pid])} palabras. ${p.pdfCopia ? 'Es todo el texto del programa de la web; solo se ha quitado el aviso inicial del PDF generado.' : 'Es todo el texto del PDF; solo se han quitado el índice y las cabeceras de página.'}</dd></div>
             </dl>
             ${toc.length > 1 ? `<details class="toc-m"><summary>${ICO.chev}Índice del programa</summary><ol>${toc.map((c) => `<li><a href="#/programa/${pid}#${c.id}" data-salto="${c.id}">${esc(c.t)}</a></li>`).join('')}</ol></details>` : ''}
           </div>

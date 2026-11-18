@@ -63,7 +63,7 @@ E = {
     'ERC-EH BILDU': ('ERC-EH Bildu', W, 'erc', 'Lista al Senado; se supone que usa el programa de ERC.'),
     'EAJ-PNV': ('EAJ-PNV', W, 'pnv', ''),
     'PFAC': ('Feministas al Congreso', W, 'pfac', ''),
-    'JxCat': ('Junts per Catalunya', NP, None, 'No ha publicado programa para el 29N.'),
+    'JxCat': ('Junts per Catalunya', W, 'junts', 'Programa publicado solo como página web; el PDF se ha generado a partir de ella.'),
     'D21': ('Democracia para el Siglo 21', W, 'd21', ''),
     'ALHORA': ('Alhora', SW, None, 'Programa genérico en su web, no específico del 29N.'),
     'CNV': ('Convergents', W, 'cnv', ''),

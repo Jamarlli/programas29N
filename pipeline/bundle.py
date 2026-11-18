@@ -14,8 +14,8 @@ html = re.sub(r'<!-- Cloudflare Web Analytics.*?</script>\n', '', html, flags=re
 for png in ('favicon-32.png', 'icono.png'):
     html = html.replace(f'href="{png}"', 'href="data:image/png;base64,' + base64.b64encode((web / png).read_bytes()).decode() + '"')
 js = lambda n: (web / n).read_text(encoding='utf-8').replace('</script', '<\\/script')
-# el ZIP de Markdown no va dentro: se enlaza el de la web
-datos = js('data.js').replace('"url":"descargas/', '"url":"https://programas29n.jamarlli.workers.dev/descargas/')
+# el ZIP de Markdown y los PDF generados de programas que solo son web no van dentro: se enlazan los de la web
+datos = re.sub(r'"(url|pdfCopia)":"descargas/', r'"\1":"https://programas29n.jamarlli.workers.dev/descargas/', js('data.js'))
 
 piezas = {
     '<link rel="stylesheet" href="styles.css">': f'<style>\n{css}\n</style>',

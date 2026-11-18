@@ -39,6 +39,7 @@ colors:
   partido-soria: "#ea002a"
   partido-d21: "#d9b800"
   partido-comuns: "#e74116"
+  partido-junts: "#00838f"
 typography:
   display:
     fontFamily: "Schibsted Grotesk, system-ui, -apple-system, Segoe UI, sans-serif"

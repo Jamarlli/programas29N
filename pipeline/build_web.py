@@ -218,10 +218,18 @@ def main():
             print(f"{pt['id']}: sin extractos todavía, no entra en la web")
             continue
         fm = front_matter(md)
+        # programa publicado solo como página web: la web sirve el PDF que se generó a partir de ella,
+        # para que las citas puedan enlazar a una página concreta
+        copia = {}
+        if pt.get('solo_web'):
+            destino = raiz / 'web' / 'descargas' / f"programa-29n-{pt['id']}.pdf"
+            destino.parent.mkdir(parents=True, exist_ok=True)
+            destino.write_bytes((raiz / pt['pdf']).read_bytes())
+            copia = {'pdfCopia': f"descargas/{destino.name}"}
         partidos.append({'id': pt['id'], 'corto': pt['corto'], **({'sigla': pt['sigla']} if 'sigla' in pt else {}), 'nombre': fm['partido'], 'titulo': fm['titulo'],
                          'fuente': fm['fuente_pdf'], 'tipoFuente': fm['tipo_fuente'],
                          'paginas': int(fm['paginas_pdf']), 'descarga': fm['fecha_descarga'],
-                         'color': pt['color'], 'base': pt['base']})
+                         'color': pt['color'], 'base': pt['base'], **copia})
     ids = {p['id'] for p in partidos}
     descargas = zips(raiz, [pt for pt in PARTIDOS if pt['id'] in ids])
     salida = [x for x in salida if x['p'] in ids]

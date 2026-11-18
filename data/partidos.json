@@ -126,5 +126,10 @@
   "pdf": "descargas/candidaturas/comuns-frontampli/Comuns-FA-Programa29N-1.pdf",
   "partido": "Comuns-Front Ampli",
   "fuente": "https://comuns.cat/wp-content/uploads/2026/11/Comuns-FA-Programa29N-1.pdf",
-  "tipo_fuente": "oficial (comuns.cat); el programa del Frente Amplio en Cataluña, propio y en catalán"}
+  "tipo_fuente": "oficial (comuns.cat); el programa del Frente Amplio en Cataluña, propio y en catalán"},
+ {"id": "junts", "corto": "Junts", "clave": "JUNTS", "base": false, "color": "#00838f",
+  "pdf": "descargas/candidaturas/junts/Junts-Catalunya-al-centre-29N.pdf",
+  "partido": "Junts per Catalunya",
+  "fuente": "https://www.tualcentre.cat/catalunya-al-centre/", "descarga": "2026-11-18", "solo_web": true,
+  "tipo_fuente": "oficial (tualcentre.cat), publicado solo como página web; el PDF lo ha generado Programas 29N a partir de ella"}
 ]

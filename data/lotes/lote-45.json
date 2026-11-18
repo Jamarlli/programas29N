@@ -1,0 +1,590 @@
+[
+ {
+  "id": "junts-0001",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [],
+  "texto": "Si estàs cansats dels extrems, benvingut a la revolució del centre."
+ },
+ {
+  "id": "junts-0002",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "Els diners dels catalans s’han de quedar a Catalunya per poder-los destinar al benestar dels catalans, com hospitals i escoles."
+ },
+ {
+  "id": "junts-0003",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "- **Concert econòmic** Recaptació i gestió via Agència Tributària de Catalunya de tots els impostos de Catalunya, amb decisió sobre quantia i ús des del Parlament de Catalunya."
+ },
+ {
+  "id": "junts-0004",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "- **Compensació i supressió del dèficit fiscal** estructural i històric i transferència efectiva de recursos per inversions i serveis."
+ },
+ {
+  "id": "junts-0005",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "- **Gestió i territorialització efectiva dels fons europeus** que gestioni directament Catalunya."
+ },
+ {
+  "id": "junts-0006",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "- **Transferència de competències de Seguretat Social per ajustar pensions** al cost de la vida català i recuperar el deute històric que els catalans paguem de més."
+ },
+ {
+  "id": "junts-0007",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "01. El benestar que mereixes, al centre"
+  ],
+  "texto": "- **Model propi de finançament local** reforma de la participació en tributs de l’Estat, compensació de plusvàlua/IVA i ús permanent de romanents/superàvits per inversions i habitatge."
+ },
+ {
+  "id": "junts-0008",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "S’han d’abaixar impostos a les famílies, PIMES i autònoms. S’ha de deflactar l’IRPF i facilitar l’estalvi familiar. El teu esforç ha de servir per tenir sous per viure i progressar, no per sobreviure."
+ },
+ {
+  "id": "junts-0009",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "- **Deflactació automàtica de l’IRPF ajustada a l’IPC** (amb actualització inicial dels darrers 10 anys) i millora de la competitivitat fiscal amb la supressió de successions i donacions."
+ },
+ {
+  "id": "junts-0010",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "- **Rebaixes fiscals directes,** gasoil professional reduït per al sector primari, i tractament fiscal favorable d’ajuts i amortitzacions."
+ },
+ {
+  "id": "junts-0011",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "- **Finestreta única per desburocratitzar** el sistema, silenci administratiu positiu i reducció radical de tràmits per emprenedors, pimes i comerç."
+ },
+ {
+  "id": "junts-0012",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "- **Energia competitiva:** neutralitat tecnològica, ampliació d’autoconsum, igualació de peatges i mesures contra pobresa energètica."
+ },
+ {
+  "id": "junts-0013",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "02. El teu esforç, al centre"
+  ],
+  "texto": "- **Impuls a la sostenibilitat:** Bonificar fiscalment vehicle elèctric, renovables i materials sostenibles."
+ },
+ {
+  "id": "junts-0014",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "Arribar a temps a la feina, a casa o a la universitat no ha de ser excepcional. Defensem una Catalunya amb el model ferroviari de FGC."
+ },
+ {
+  "id": "junts-0015",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Traspàs íntegre i immediat de Rodalies i Mitjana Distància** (vies, trens, estacions, recursos…)"
+ },
+ {
+  "id": "junts-0016",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Creació d’un model propi de transport ferroviari** amb gestió de FGC."
+ },
+ {
+  "id": "junts-0017",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Gestió pròpia de l’Aeroport del Prat** (fora del model centralitzat AENA)"
+ },
+ {
+  "id": "junts-0018",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Gestió pròpia dels ports de Catalunya.**"
+ },
+ {
+  "id": "junts-0019",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Corredor Mediterrani:** acceleració i culminació de les obres amb amplada europea i connexions directes a polígons i ports."
+ },
+ {
+  "id": "junts-0020",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "03. El teu temps, al centre"
+  ],
+  "texto": "- **Autopista:** Vinyeta digital per a vehicles estrangers."
+ },
+ {
+  "id": "junts-0021",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "Catalunya ha de gestionar la seva propia política migratòria. Disposar de les competències en immigració és imprescindible per garantir l'ordre i una bona integració."
+ },
+ {
+  "id": "junts-0022",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "- **Immigració:** Delegació plena a la Generalitat de Catalunya de les competències d’immigració i estrangeria (tramitació, sancions, centres d’internament, control fronterer a ports/aeroports, documentació) amb recursos i Mossos com a policia integral."
+ },
+ {
+  "id": "junts-0023",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "- **Control i integració:** Model de control de fluxos migratoris segons capacitat d’integració, acollida lingüística obligatòria i català com a llengua d’integració i ascensor social."
+ },
+ {
+  "id": "junts-0024",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "- **Coneixement del català com a requisit** en arrelament, renovació de permisos i regularitzacions."
+ },
+ {
+  "id": "junts-0025",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "- **Compliment efectiu de resolucions de retorn,** lluita contra tracta i matrimonis forçats, i prohibició de peces de roba que cobreixen totalment el rostre a l’espai públic."
+ },
+ {
+  "id": "junts-0026",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "04. Drets i deures, al centre"
+  ],
+  "texto": "- **Menors no acompanyats:** Compensació econòmica i reconeixement de l’esforç d’acollida de Catalunya. l’Estat assumeix el cost de les seves decisions frontereres."
+ },
+ {
+  "id": "junts-0027",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "La impunitat als carrers s’ha d’acabar: ni vandalisme ni ocupacions poden tenir cabuda a Catalunya."
+ },
+ {
+  "id": "junts-0028",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Model Nacional de Seguretat de Catalunya** (Subsistema de Policia i Subsistema d’Emergències) amb Mossos com a policia integral plena (judicial, investigació, ports/aeroports, armes/explosius, seguretat privada)."
+ },
+ {
+  "id": "junts-0029",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Multireincidència:** aplicació efectiva i reforç de la reforma contra la multireincidència (LO 1/2026) i mesures cautelars àgils contra ocupacions delictives i crim organitzat."
+ },
+ {
+  "id": "junts-0030",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Ciberseguretat:** ampliació de competències en ciberseguretat, protecció de dades i infraestructures crítiques (Agència de Ciberseguretat de Catalunya com a centre d’operacions tipus SEM)."
+ },
+ {
+  "id": "junts-0031",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Emergències:** blindatge del model català de bombers (professionals i voluntaris) i protecció civil, amb capacitat de gestió de crisis i resiliència."
+ },
+ {
+  "id": "junts-0032",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Cooperació internacional:** Participació efectiva en mecanismes europeus/internacionals de cooperació policial i en polítiques de seguretat nacional que afectin Catalunya."
+ },
+ {
+  "id": "junts-0033",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Plena sobirania judicial:** Desplegament del Consell de Justícia de Catalunya, TSJC com a darrera instància i traspàs integral de personal i mitjans (LAJ, forenses, etc.) i català com a requisit a la justícia."
+ },
+ {
+  "id": "junts-0034",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "05. Seguretat i ordre, al centre"
+  ],
+  "texto": "- **Transició energètica i digital sobirana:** Generació distribuïda, traspàs de telecomunicacions/ciberseguretat i català natiu a IA i plataformes."
+ },
+ {
+  "id": "junts-0035",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "No s’ha d’escollir entre llogater o propietari: s’ha de protegir a tothom, i l’Estat ha d’assumir l’escut social."
+ },
+ {
+  "id": "junts-0036",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Estàndard Europeu:** Augment progressiu dels fons estatals d’habitatge fins a situar-los en la mitjana europea del 0,6 % del PIB, transferint a la Generalitat la part proporcional corresponent al pes de la població de Catalunya."
+ },
+ {
+  "id": "junts-0037",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Transmissió dels pisos de la SAREB:** Cessió a la Generalitat i als ajuntaments del 30% dels habitatges buits que la SAREB posseeix a Catalunya, acompanyats d’un fons de finançament específic per condicionar-los i fer-los habitables."
+ },
+ {
+  "id": "junts-0038",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Reforma integral de la LAU** (o Llei catalana d’Arrendaments pròpia) per fomentar contractes de lloguer estables i indefinits voluntaris."
+ },
+ {
+  "id": "junts-0039",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Pla massiu de rehabilitació i eficiència energètica** amb transferència de recursos estatals i europeus per obrir línies massives de finançament adreçades a la transició energètica de les llars."
+ },
+ {
+  "id": "junts-0040",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Desnonament cautelar exprés en 48 hores en ocupacions il·legals** que pertorbin la convivència o tinguin caràcter delinqüencial, quan els ocupants no acreditin cap títol de possessió legítim."
+ },
+ {
+  "id": "junts-0041",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Fons Voltor:** prohibició temporal de de compra d’habitatges per fons d’inversió i entitats financeres."
+ },
+ {
+  "id": "junts-0042",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Deducció del 15% del lloguer de l’habitatge habitual,** amb una base màxima d’11.630 euros anuals, per als contribuents amb una base imposable de fins a 33.007,20 euros."
+ },
+ {
+  "id": "junts-0043",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Exempcions fiscals per la venda d’habitatges buits** durant com a mínim 2 anys a les administracions públiques i reduccions del 70% o del 90% dels rendiments del lloguer durant la pròrroga pactada."
+ },
+ {
+  "id": "junts-0044",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **IVA reduït del 5% per a habitatges nous destinats a residència habitual** i per a operacions d’habitatge social, com també l’ampliació del tipus del 10% a determinades obres de renovació i reparació d’habitatges destinats al lloguer habitual."
+ },
+ {
+  "id": "junts-0045",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "06. L'habitatge al centre"
+  ],
+  "texto": "- **Ús permanent de romanents i superàvits municipals** per a habitatge i inversions financerament sostenibles."
+ },
+ {
+  "id": "junts-0046",
+  "partido": "junts",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "La nostra terra, la nostra llengua, la nostra gent: el model de país que volem, al centre"
+ },
+ {
+  "id": "junts-0047",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "- **Escola en català com a llengua vehicular:** protecció de la Llei d’Educació, immersió, plans d’acceleració lingüística i finançament estatal de les prioritats lingüístiques."
+ },
+ {
+  "id": "junts-0048",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "- **Català com a requisit estricte** per a tot el personal de l’Administració de l’Estat a Catalunya (inclosos jutges, fiscals i cossos de seguretat) i nova Llei de Funció Pública."
+ },
+ {
+  "id": "junts-0049",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "- **Oficialitat plena del català a la UE** i presència efectiva a tota la cadena cultural/audiovisual (creació, doblatge, plataformes, RTVE en català amb qualitat)."
+ },
+ {
+  "id": "junts-0050",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "- **Traspàs de titularitat i gestió** d’arxius, museus i equipaments culturals estatals a Catalunya i retorn dels papers de Salamanca."
+ },
+ {
+  "id": "junts-0051",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "07. Nació, cultura i llengua, al centre"
+  ],
+  "texto": "- **Reducció de l’IVA cultural,** Estatut de l’Artista (CoNCA) i diplomàcia cultural pròpia amb finançament estatal."
+ },
+ {
+  "id": "junts-0052",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Una Nació sobirana.**"
+ },
+ {
+  "id": "junts-0053",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país català.**"
+ },
+ {
+  "id": "junts-0054",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país segur.**"
+ },
+ {
+  "id": "junts-0055",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país pròsper.**"
+ },
+ {
+  "id": "junts-0056",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país puntual.**"
+ },
+ {
+  "id": "junts-0057",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país habitable.**"
+ },
+ {
+  "id": "junts-0058",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país integrat.**"
+ },
+ {
+  "id": "junts-0059",
+  "partido": "junts",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "TU. Catalunya al centre. Tu, al centre"
+  ],
+  "texto": "- **Un país Europeu.**"
+ }
+]
