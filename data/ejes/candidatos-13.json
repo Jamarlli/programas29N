@@ -1,0 +1,2051 @@
+[
+ {
+  "eje": "eje-violencia-genero",
+  "pregunta": "¿Qué hacer con las leyes de violencia de género?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarlas o sustituirlas"
+   },
+   {
+    "id": "mantener-reforzar",
+    "nombre": "Mantenerlas o reforzarlas"
+   }
+  ],
+  "n": 90,
+  "palabras": 6560,
+  "candidatos": [
+   {
+    "id": "podemos-0154",
+    "partido": "podemos",
+    "titular": "Protocolos obligatorios en las empresas contra el acoso y las violencias machistas",
+    "marca_actual": [],
+    "texto": "139. **Garantizar espacios de trabajo libres de violencias machistas.** Garantizaremos entornos laborales seguros y libres de acoso y violencias machistas mediante la implantación obligatoria de protocolos en las empresas, que incluyan canales de denuncia confidenciales, protección efectiva frente a represalias y formación para las plantillas y los equipos directivos. Asimismo, reforzaremos la protección laboral de las víctimas de violencia de género, garantizando su protección frente al despido, el derecho a la movilidad laboral y el acceso prioritario a programas de empleo y formación que favorezcan su autonomía económica."
+   },
+   {
+    "id": "podemos-0163",
+    "partido": "podemos",
+    "titular": "Fondo de contingencia de mil millones contra todas las violencias machistas",
+    "marca_actual": [],
+    "texto": "145. **Creación de un fondo de contingencia de mil millones de euros para las políticas contra todas las formas de violencia machista** que garantice la financiación estable y a largo plazo de las mismas mediante la reforma de la Ley General Presupuestaria. Este fondo garantizará la financiación pública de todas las medidas, servicios y políticas públicas contra las violencias machistas, así como la consolidación de **una estructura profesional altamente especializada que actúe en todas las fases del itinerario** de reparación de las víctimas. Se garantizará una respuesta integral: sensibilización y prevención, identificación y detección, atención y acompañamiento, protección y acceso a la justicia, reparación y autonomía económica de todas las víctimas."
+   },
+   {
+    "id": "podemos-0165",
+    "partido": "podemos",
+    "titular": "Plan de choque contra las violencias digitales machistas y LGTBIfóbicas",
+    "marca_actual": [],
+    "texto": "147. **Plan de choque contra las violencias digitales machistas y LGTBIfóbicas.** Diseño e implementación de un plan de choque contra la violencia digital para:\n - **Reconocer la violencia machista digital y LGTBIfóbica incluida aquella que se hace a través de la inteligencia artificial (_deepfakes_)** como una forma de violencia machista, equiparando los derechos de estas víctimas con los del resto de víctimas de violencias machistas, como la de género o la sexual.\n - **Combatir los discursos de odio en internet** responsabilizando a los propietarios de las redes sociales o plataformas digitales en las que tengan lugar los mismos para que la moderación se haga en consonancia con la legislación vigente en materia de delitos de odio, así como en lo recogido en la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBIQA+."
+   },
+   {
+    "id": "podemos-0166",
+    "partido": "podemos",
+    "titular": "Garantizar presupuesto para la atención 24/7 a víctimas de violencias sexuales",
+    "marca_actual": [],
+    "texto": "148. **Sostenibilidad, atención y recuperación especializada a las mujeres que han sufrido violencias sexuales.** Garantizar presupuesto necesario para sostener el modelo de atención 24/7 habilitado desde los centros de crisis, recogido en la Ley Orgánica 10/2022 de 6 de septiembre de Garantía Integral de la Libertad Sexual."
+   },
+   {
+    "id": "podemos-0167",
+    "partido": "podemos",
+    "titular": "Implantar el modelo Barnahus para la infancia víctima de violencias sexuales",
+    "marca_actual": [],
+    "texto": "149. **Modelo Barnahus.** Implantar en todo el territorio del Estado espacios para asegurar la adaptación de las intervenciones de los y las profesionales a las necesidades de las niños y los niños víctimas de violencias sexuales, desde el enfoque de infancia y género, y reducir drásticamente los márgenes de impunidad de estas violencias."
+   },
+   {
+    "id": "podemos-0169",
+    "partido": "podemos",
+    "titular": "Prestación equivalente al SMI durante 6 meses para víctimas de violencias machistas",
+    "marca_actual": [],
+    "texto": "151. **Plan Integral de Compensación, Reparación y Recuperación de la Autonomía para mujeres que enfrentan violencias machistas.** Frente a las violencias machistas, la autonomía económica y habitacional, son derechos que salvan vidas. Por ello, su desarrollo efectivo debe ser acometido a través de una política pública concreta y urgente, que sitúe a la vivienda y la autonomía económica como piedra angular de un sistema amplio de reparación a las víctimas. Este plan incluirá:\n - Una **prestación para mujeres víctimas de violencias machistas** destinada a asegurar que la autonomía económica no sea un factor que perjudique la salida de una relación de violencia machista de cualquier tipo. La prestación supondrá un salario mínimo equivalente al Salario Mínimo Interprofesional durante 6 meses prorrogables, que se incrementará según el número de personas que cada mujer tenga a su cargo.\n - **Alternativa habitacional digna e inmediata.** Para las mujeres que sufren la violencia machista, incluidas la violencia sexual y la trata con fines de explotación sexual, y para los niños, niñas y adolescentes a su cargo.\n - **Equiparar las ayudas específicas de las víctimas**, directas e indirectas, de violencias machistas reguladas por la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual al sistema de ayudas a las víctimas del terrorismo, en cuantías y requisitos para su percepción. Atribuir su gestión al Ministerio con competencias en Igualdad."
+   },
+   {
+    "id": "podemos-0170",
+    "partido": "podemos",
+    "titular": "Consolidar servicios públicos especializados de atención a víctimas",
+    "marca_actual": [],
+    "texto": "152. **Servicios de atención a víctimas esenciales y altamente especializados.** Se consolidará una estructura de servicios esenciales públicos de alta especialización que garanticen el derecho a la recuperación y a la atención integral especializada. Para garantizar esta atención, se mejorarán las condiciones laborales de las trabajadoras de estos servicios."
+   },
+   {
+    "id": "podemos-0171",
+    "partido": "podemos",
+    "titular": "Evaluar los servicios estatales 016, ATENPRO y Cometa",
+    "marca_actual": [],
+    "texto": "153. **Plan de evaluación para la rendición de cuentas y mejora de los servicios estatales** de atención y recuperación a las violencias machistas: 016, ATENPRO y Cometa."
+   },
+   {
+    "id": "podemos-0172",
+    "partido": "podemos",
+    "titular": "Acompañamiento personalizado a víctimas con oficinas en las 17 comunidades",
+    "marca_actual": [],
+    "texto": "154. **Programa de acompañamiento personalizado para víctimas de violencia de género.** Con el objetivo de mitigar la revictimización secundaria y reforzar el proceso de recuperación integral a las víctimas, se creará, en coordinación con las CCAA, un programa de acompañamiento personalizado con un despliegue tanto virtual como territorial que facilite de manera diligente los itinerarios de salida de la violencia. Para su materialización se desplegarán dos servicios: uno virtual personalizado (online y telefónico) y otro presencial, a través de la apertura de oficinas territoriales en las 17 CCAA. Las oficinas territoriales se integrarán orgánicamente en las Delegaciones y Subdelegaciones del Gobierno y en las Direcciones Insulares, dependiendo funcionalmente de la Delegación del Gobierno contra la Violencia de Género. El Programa será adaptado a las necesidades específicas de las mujeres bajo un enfoque interseccional: mujeres migradas, mujeres racializadas, mujeres que trabajan en el servicio doméstico, mujeres mayores que enfrentan situaciones de especial riesgo y vulnerabilidad, mujeres con problemas de adicciones, mujeres con enfermedades mentales, mujeres con discapacidad y mujeres sin hogar."
+   },
+   {
+    "id": "podemos-0173",
+    "partido": "podemos",
+    "titular": "Especializar juzgados, fiscalía y forenses en violencias sexuales",
+    "marca_actual": [],
+    "texto": "155. **Especialización de la Justicia.** Garantizar la adecuada composición y la necesaria especialización de todos los operadores jurídicos, y personal forense que sirven en este ámbito, así como la asistencia jurídica a todas las víctimas. Para ello, además de reforzar la formación en perspectiva de género y en violencias contra las mujeres y derechos humanos del conjunto de operadores, se propone agilizar la implantación de la especialización orgánica y funcional de todos los juzgados y tribunales, fiscalía y equipos forenses competentes en casos de violencias sexuales, prevista en la DF 20ª de la LO 10/2022. Ello implica revisar tanto las pruebas selectivas de especialización de jueces y magistrados, como las competencias de los juzgados de violencia sobre la mujer y de la fiscalía contra la violencia sobre la mujer. Para llevar esto a cabo se elaborará un acuerdo del Consejo de Ministros que prevea elaborar un proyecto de Ley para la modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, con el fin de atribuir especialización y competencias en materia de violencias sexuales a las fiscalías de violencia sobre la mujer, lo que comprende la atribución competencial de la Fiscalía de Sala de Violencia sobre la Mujer; a los Juzgados de Violencia Sobre la Mujer, así como a los Juzgados de lo penal y Secciones de las Audiencias Provinciales con competencias en violencia de género, para la instrucción y el enjuiciamiento respectivamente."
+   },
+   {
+    "id": "podemos-0174",
+    "partido": "podemos",
+    "titular": "Asistencia letrada gratuita a víctimas de violencias sexuales sin importar la renta",
+    "marca_actual": [],
+    "texto": "156. **Regular la composición y funcionamiento de los equipos técnicos adscritos a los juzgados de violencia sobre la mujer** y la forma de acceso a los mismos de acuerdo con los criterios de especialización y formación. Para reforzar la asistencia letrada accesible y especializada, medida fundamental para la protección de los derechos de las víctimas, además de promover la formación de este sector profesional, resulta esencial, en cumplimiento de la Disposición final vigesimoprimera de la LO 10/2022, modificar la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita. El sentido de esta modificación es garantizar la asistencia letrada gratuita de las víctimas de violencias sexuales con independencia de su nivel de renta, como ya sucede con las víctimas de trata, terrorismo y violencia de género en pareja o expareja."
+   },
+   {
+    "id": "podemos-0175",
+    "partido": "podemos",
+    "titular": "Desarrollar toda la LO 10/2022 y fomentar la cultura del consentimiento",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "157. **Contra los discursos y las políticas de terror sexual.** Desarrollaremos la totalidad de la LO 10/2022 y todas las políticas públicas y cambios normativos necesarios para garantizar el derecho a la libertad sexual de todas las mujeres y fomentar la cultura del consentimiento, haciendo frente a los discursos y políticas de terror sexual y de la cultura de la violación que interpretan la libertad sexual de las mujeres como un peligro, que responsabilizan a las mujeres de las violencias que sufren y que contribuyen a mantener la impunidad de los agresores."
+   },
+   {
+    "id": "podemos-0176",
+    "partido": "podemos",
+    "titular": "Aprobar una Ley Integral contra todas las formas de Trata y Explotación",
+    "marca_actual": [],
+    "texto": "158. **Aprobación de la Ley Integral contra todas las formas de Trata de personas y Explotación.** Con enfoque de género que asegure especial énfasis y medidas concretas para la lucha contra explotación sexual y el apoyo a las mujeres en contextos de Prostitución. La ley contendrá medidas tales como un sistema de detección e identificación multiagencia capaz de detectar a mujeres y niñas en situaciones de mayor vulnerabilidad; Medidas específicas para la garantía de derechos de las víctimas que, con independencia de su situación administrativa de residencia, les permitan dejar atrás la explotación; Un programa de protección y acceso a la justicia que incentive a las mujeres a denunciar a sus tratantes y explotadores con la seguridad necesaria para ellas y familias. En el marco de este programa, se impulsará la figura de las mediadoras para realizar el acompañamiento de las víctimas."
+   },
+   {
+    "id": "podemos-0177",
+    "partido": "podemos",
+    "titular": "Regularizar a víctimas de trata y a mujeres en contextos de prostitución",
+    "marca_actual": [],
+    "texto": "159. **Regularización para las mujeres víctimas de trata o explotación sexual y para las mujeres en contextos de prostitución.** La regularización será accesible, flexible y adaptada a las distintas circunstancias de las mujeres. Hay que garantizar también la regularización administrativa de mujeres en contextos de prostitución que sin ser identificadas como víctimas de trata o explotación, presentan indicadores de vulnerabilidad extrema, como vía fundamental para iniciar y consolidar el proceso de salida y emancipación de la situación de explotación."
+   },
+   {
+    "id": "podemos-0178",
+    "partido": "podemos",
+    "titular": "Presupuesto estable y plurianual para el Plan Camino",
+    "marca_actual": [],
+    "texto": "160. **Presupuesto estable para el Plan Camino.** Asegurar la continuidad y dotación presupuestaria suficiente del Plan Camino para garantizar alternativas reales a las mujeres y niñas víctimas de trata y explotación sexual, así como a las mujeres en contextos de prostitución. Se reforzarán los recursos destinados a su atención integral, acceso a vivienda, formación, inserción sociolaboral y autonomía económica, garantizando la financiación plurianual de las entidades especializadas que las acompañan."
+   },
+   {
+    "id": "podemos-0179",
+    "partido": "podemos",
+    "titular": "Ley contra la violencia política machista con protocolos en partidos y cámaras",
+    "marca_actual": [],
+    "texto": "161. **Ley para garantizar el derecho de las mujeres a la participación política.** Incorporar medidas de prevención y respuesta, incluidos los protocolos obligatorios en los partidos, así como en los reglamentos de las cámaras, que visibilicen el rechazo la violencia política, la sancionen y aseguren protección y reparación a las víctimas de la violencia política machista."
+   },
+   {
+    "id": "podemos-0180",
+    "partido": "podemos",
+    "titular": "Proteger a las madres protectoras frente a la violencia vicaria",
+    "marca_actual": [],
+    "texto": "162. **Protección para las madres protectoras.** Garantizar la protección efectiva de las madres protectoras y de sus hijas e hijos frente a la violencia vicaria, evitando la revictimización judicial y asegurando el cumplimiento de las medidas legales de protección de la infancia. Evitar la criminalización de las mujeres que protegen a sus hijas e hijos. Llevaremos a toda la legislación y a los protocolos el principio de que ningún maltratador puede ser un buen padre, con la máxima protección institucional para las madres y sus hijos. Desterrararemos de los juzgados el falso «síndrome de alienación parental» y repararemos a las madres protectoras juzgadas injustamente."
+   },
+   {
+    "id": "podemos-0181",
+    "partido": "podemos",
+    "titular": "Ampliar la definición de violencia machista más allá de la pareja",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "163. **Actualizar la definición de violencia machista para que recoja todas las formas de violencia contra las mujeres.** La definición actual se encuentra limitada a la violencia ejercida por parejas y exparejas, lo que priva de una protección equiparable al resto de mujeres que sufren violencia, por ejemplo, por parte de desconocidos o de jefes y compañeros de trabajo. Por eso se actualizará esta definición conforme a lo que exige el Convenio de Estambul, se ampliará para abordar también nuevas formas de violencias machistas como la política y la digital y se diseñarán medidas para que estas protecciones puedan extenderse a las mujeres que se enfrentan a la discriminación interseccional."
+   },
+   {
+    "id": "podemos-0182",
+    "partido": "podemos",
+    "titular": "Reconocer la violencia obstétrica en la ley de salud sexual y reproductiva",
+    "marca_actual": [],
+    "texto": "164. **Reconocer la violencia obstétrica.** Incluir esta violencia en la Ley 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo, para que las mujeres que enfrenten este tipo de violencia puedan acceder a todos los derechos que establece dicha ley."
+   },
+   {
+    "id": "podemos-0193",
+    "partido": "podemos",
+    "titular": "Garantizar los derechos de las mujeres y niñas con discapacidad",
+    "marca_actual": [],
+    "texto": "175. **Garantía de los derechos de las mujeres y niñas con discapacidad.** Cuando se habla de interseccionalidad, se habla de acumulación de discriminaciones. Algo que tiene lugar de forma muy grave en el caso de las mujeres y niñas con discapacidad. Por todo ello, es urgente tomar una serie de medidas que atiendan a su especial situación:\n - Llevar a cabo todas las modificaciones legales para **suprimir por completo prácticas contrarias a los derechos humanos de las mujeres y niñas con discapacidad, como el aborto coercitivo o la ablación**. Asimismo, una vez lograda la prohibición de la esterilización forzosa, se deberán habilitar todos los mecanismos de reparación, incluida la reparación económica, de todas las mujeres que fueron sometidas a esta práctica aberrante.\n - **Elaborar una macroencuesta sobre la violencia contra las mujeres y niñas con discapacidad.** Aunque se sabe que la discapacidad aumenta de forma notable los índices de violencia, todavía es una realidad social mayormente silenciada y de la que faltan datos científicos suficientes. Disponer de esos datos es un primer paso indispensable para poder articular una respuesta adecuada por parte de los poderes públicos.\n - **Garantizar la salud sexual y reproductiva y de las mujeres con discapacidad** habilitando recursos y programas de apoyo específicos para ellas.\n - Llevar a cabo todas las modificaciones legislativas pertinentes y destinar los fondos necesarios para **garantizar la atención temprana a los niños y niñas con discapacidad** hasta los 6 años y los apoyos para un desarrollo infantil integral hasta los 12."
+   },
+   {
+    "id": "podemos-0223",
+    "partido": "podemos",
+    "titular": "Derogar la Ley de Extranjería y aprobar una Ley Integral basada en derechos",
+    "marca_actual": [],
+    "texto": "205. **Derogación de la Ley de Extranjería y reforma integral del modelo migratorio.** Acabar con la Ley Orgánica 4/2000 y **aprobar una nueva Ley Integral que sitúe los derechos humanos, la igualdad de trato y la inclusión en el centro de la política pública**. Con ello se pondrá fin a las disposiciones adicionales que permiten las devoluciones en caliente de migrantes en nuestras fronteras. La nueva norma incorporará garantías efectivas en diversas materias como la residencia, el trabajo o el acceso a los servicios públicos, entre otros. El objetivo es dejar atrás un modelo que vincula la situación administrativa con la exclusión y avanzar hacia una política que reconozca a las personas migrantes como sujetos de derechos y miembros de pleno derecho de la sociedad. Asimismo, se garantizará la atención integral y regularización de los menores extranjeros no acompañados, así como la atención integral a personas jóvenes extuteladas con programas personalizados de acompañamiento a la vida adulta para garantizar su inclusión laboral y social en España."
+   },
+   {
+    "id": "podemos-0227",
+    "partido": "podemos",
+    "titular": "Aprobar una Ley Integral Antirracista",
+    "marca_actual": [],
+    "texto": "209. **Ley Integral Antirracista.** Impulsaremos una Ley Integral Antirracista que prevenga, investigue, sancione y repare la discriminación racial y étnica, tanto en el ámbito privado como en el institucional.\n - La norma abordará el **racismo estructural** en el empleo, la vivienda, la educación, la sanidad, la justicia y las actuaciones policiales.\n - Su elaboración contará con la **participación efectiva de organizaciones migrantes, colectivos antirracistas**, asociaciones vecinales, comunidades racializadas y especialistas en derechos humanos y anticolonialidad. Además, la ley garantizará una evaluación pública y una participación ciudadana continuada en las distintas políticas antirracistas.\n - La ley complementará y reforzará la Ley 15/2022 y la normativa europea contra la discriminación, incorporando **mecanismos de denuncia accesibles, asistencia a las víctimas y evaluación de las políticas públicas.**\n - La Ley garantizará **formación obligatoria en antirracismo para el personal de la Administración** que incluya al personal de extranjería, oficinas consulares, servicios sociales, sanidad, educación y cuerpos policiales. La formación abordará el racismo institucional, la discriminación indirecta, la atención intercultural, los derechos de las personas solicitantes de asilo y las obligaciones legales de los empleados públicos"
+   },
+   {
+    "id": "podemos-0243",
+    "partido": "podemos",
+    "titular": "Lucha contra el antigitanismo e inclusión social del Pueblo Gitano",
+    "marca_actual": [],
+    "texto": "225. **Lucha contra el antigitanismo y por la inclusión social del Pueblo Gitano.**\n - Llevar a la práctica las propuestas de la **Comisión de Memoria del Pueblo Gitano**, que se creó en 2024 por la disposición adicional duodécima de la Ley de Memoria Democrática: un Archivo de la Memoria Gitana, un Estatuto Cultural y una ley integral. El reconocimiento a las víctimas gitanas de la barbarie del franquismo sigue siendo una de las grandes deudas históricas que la democracia española tiene con el Pueblo Gitano.\n - **Establecer una Comisión Parlamentaria de Seguimiento del Pacto de Estado contra el Antigitanismo** para evaluar el grado de avance las 158 medidas aprobadas por el pleno del Congreso.\n - **Desarrollar en coordinación con las CCAA la enseñanza de la Historia del Pueblo Gitano en la Enseñanza Obligatoria** tal y como quedó aprobado en la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación; y en el Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.\n - **Establecer todas las medidas que sean necesarias en el sistema educativo para garantizar la inclusión del alumnado gitano,** superar la brecha digital, incrementar la escolarización, la continuidad en los estudios postobligatorios y erradicar la segregación escolar.\n - **Promover el feminismo romaní.** Tener en cuenta en todas las políticas de igualdad, de lucha contra las violencias machistas y sexuales y contra la brecha económica entre hombres y mujeres la especificidad de la situación de las mujeres gitanas, dando el máximo protagonismo a las mismas en el diseño de las políticas públicas."
+   },
+   {
+    "id": "podemos-0282",
+    "partido": "podemos",
+    "titular": "Ley integral de desarrollo y promoción de las artes escénicas",
+    "marca_actual": [],
+    "texto": "264. **Ley integral de desarrollo y promoción de las artes escénicas.** Definirá las categorías profesionales, incorporará las medidas del estatuto del artista y del trabajador de la cultura concernientes al sector y establecerá las líneas básicas de actuación de las instituciones públicas en el mundo del teatro, teniendo como objetivo fundamental el fomento y la formación de nuevos públicos y el marco de una amplia descentralización de la actividad cultural. Su ámbito legislativo y de actuación abarcará teatro, danza, circo, lírica y música en vivo."
+   },
+   {
+    "id": "podemos-0308",
+    "partido": "podemos",
+    "titular": "Plan Estatal contra el acoso escolar y ley de infancia en el entorno digital",
+    "marca_actual": [],
+    "texto": "290. **Garantizar la convivencia, el bienestar y la protección de la infancia dentro y fuera de los centros educativos.** Pondremos en marcha un Plan Estatal de Convivencia y Prevención del Acoso y las Violencias en los Centros Educativos, en colaboración con las comunidades autónomas, que garantice protocolos eficaces de prevención, detección y actuación frente al acoso escolar y cualquier forma de violencia. Dotaremos a los centros de personal especializado para coordinar el bienestar del alumnado y garantizaremos atención psicológica y asesoramiento a las víctimas. Aprobaremos una ley integral de protección de la infancia en el entorno digital que obligue a las plataformas a prevenir el ciberacoso, la explotación sexual y los diseños adictivos, garantice la privacidad y establezca mecanismos de denuncia y sanciones eficaces. Impulsaremos una educación digital crítica y responsable, con criterios de uso saludable de las pantallas adaptados a cada edad, especialmente durante las primeras etapas educativas. Promoveremos herramientas digitales públicas, libres de publicidad y de explotación comercial de los datos del alumnado, y garantizaremos la participación de niños, niñas y adolescentes en el diseño y evaluación de las políticas que les afectan."
+   },
+   {
+    "id": "podemos-0316",
+    "partido": "podemos",
+    "titular": "Elevar la inversión pública en ciencia al 2 % del PIB",
+    "marca_actual": [],
+    "texto": "298. **Aumentar la inversión pública en ciencia y democratizar el sistema de investigación.** Incrementaremos la inversión pública en ciencia e innovación hasta alcanzar el 2 % del PIB. Garantizaremos la ejecución íntegra de las ayudas directas a la investigación, priorizándolas frente a los créditos financieros, y estableceremos mecanismos de control para asegurar que las subvenciones a empresas se destinan realmente a actividades de I+D+i. Reformaremos el funcionamiento del sistema público de investigación para hacerlo más eficaz, transparente y democrático. Realizaremos una auditoría integral para reducir la burocracia que soportan los equipos investigadores, crearemos una plataforma única de convocatorias y estableceremos un modelo único de currículum evaluable. Reformaremos los procesos de selección para combatir la endogamia académica y garantizar procedimientos transparentes y abiertos, y avanzaremos hacia la elección democrática de los equipos directivos de los centros de investigación mediante sufragio directo de sus trabajadores y trabajadoras. Garantizaremos la aplicación efectiva de los protocolos contra el acoso laboral y la violencia de género en las instituciones científicas públicas y privadas."
+   },
+   {
+    "id": "podemos-0323",
+    "partido": "podemos",
+    "titular": "Ley de Atención Primaria: 25 % del presupuesto y cita en 48 horas",
+    "marca_actual": [],
+    "texto": "305. **Ley integral de Atención Primaria.** Aprobaremos una Ley que sitúe la Atención Primaria en el centro del sistema sanitario público y ponga fin a sus recortes. La ley establecerá que al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria, con el objetivo de alcanzar una inversión de 700 euros por habitante y año; fijará un máximo de 1.300 pacientes por profesional de medicina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades demográficas, sociales y territoriales de cada zona; garantizará una cita en un máximo de 48 horas hábiles y la continuidad asistencial con los mismos profesionales; facilitará el acceso a pruebas diagnósticas a las y los médico de familia para aumentar la capacidad resolutiva del primer nivel asistencial; y mejorará las condiciones laborales y salariales, reduciendo la temporalidad y garantizando una distribución territorial suficiente de profesionales, especialmente en las zonas de difícil cobertura. Asimismo, definirá las funciones de los distintos perfiles profesionales y reforzará la promoción de la salud, la prevención y la educación sanitaria, ampliando la presencia del trabajo social en los centros de salud e impulsando la atención comunitaria y la coordinación con los servicios sociales y sociosanitarios. Garantizaremos también la cartera de servicios de salud bucodental, ampliaremos la participación de fisioterapia, incluida la atención domiciliaria, y desarrollaremos un sistema público de atención temprana que permita detectar y atender precozmente las necesidades de la infancia y acompañar a sus familias. Incorporaremos el enfoque One Health, con la participación de profesionales de veterinaria, e impulsaremos la investigación, la innovación y la evaluación de resultados para trasladar la evidencia científica a la práctica clínica."
+   },
+   {
+    "id": "podemos-0399",
+    "partido": "podemos",
+    "titular": "Alimentación sana y sostenible y ley contra el desperdicio alimentario",
+    "marca_actual": [],
+    "texto": "381. **Avanzar hacia una alimentación más sana y más respetuosa con el medioambiente.** Ir cambiando paulatinamente nuestros hábitos de consumo alimentarios hacia una alimentación más basada en productos vegetales de producción cercana y con métodos agroecológico es algo que solamente trae beneficios, en términos de sostenibilidad ambiental, de creación de empleo en la España vaciada, de soberanía alimentaria y también de salud pública. Por todo ello, para caminar hacia ese horizonte, se llevarán a cabo las siguientes medidas.\n - **Compra de proximidad por parte de todos los centros de titularidad pública** que proporcionen alimentación a sus usuarios. Inclusión de los criterios de alimentación saludable, mayoritariamente de origen vegetal y de producción ecológica en dichos centros.\n - **Puesta en marcha de campañas institucionales** para explicar a la población los beneficios en términos de salud, pero también económicos para el conjunto del país y medioambientales, que tiene el consumo de alimentación saludable.\n - **Entrega directa de una cesta mensual de productos de producción ecológica y local a familias de bajos ingresos**, para fomentar la igualdad de oportunidades también desde la alimentación.\n - **Prohibición de toda la publicidad de alimentos dirigida a niños y niñas que tenga efectos negativos comprobados para su salud;** en los medios de comunicación y en Internet, pero también en carteles publicitarios en la calle o en el interior de los establecimientos.\n - **Aprobar una Ley integral contra el Desperdicio Alimentario.** No puede ser que una buena parte de la producción y la importación de alimentos se vaya directamente a la basura, ya sea en origen o en los establecimientos comerciales como pueden ser los hoteles o los restaurantes. Por ello, es necesario aprobar un texto legislativo con carácter integral que establezca mecanismos de control, sancionatorios y de optimización de los procesos de recogida y distribución de los alimentos desechados que reduzca el desperdicio en un 50% en una legislatura."
+   },
+   {
+    "id": "podemos-0415",
+    "partido": "podemos",
+    "titular": "Garantizar el acceso con animales a la vivienda, albergues y recursos sociales",
+    "marca_actual": [],
+    "texto": "397. **Ninguna persona debe verse obligada a separarse de su animal para acceder a una vivienda o a una protección social.** Además de reformar la Ley de Arrendamientos Urbanos para impedir que la mera convivencia con animales pueda ser motivo de prohibición genérica en los contratos de alquiler, garantizaremos que las personas puedan acceder con sus animales a albergues, alojamientos temporales, servicios sociales y otros recursos asistenciales, especialmente cuando se encuentren en situación de vulnerabilidad o sin hogar. Promoveremos soluciones que permitan mantener el vínculo con los animales en residencias de mayores, centros de discapacidad y otros recursos asistenciales, siempre que las condiciones sanitarias y de convivencia lo permitan. Reconoceremos los animales como posibles instrumentos de control y violencia vicaria en situaciones de violencia machista y crearemos redes públicas de acogida temporal para los animales de las víctimas, incorporando su protección a los protocolos de atención y garantizando que ninguna mujer tenga que permanecer en una situación de violencia por no poder proteger a su animal."
+   },
+   {
+    "id": "adelante-0026",
+    "partido": "adelante",
+    "titular": "Pacto contra la violencia machista, permisos iguales y aborto en la Constitución",
+    "marca_actual": [],
+    "texto": "24. **Igualdad real y lucha contra el machismo** — Pacto de Estado contra la violencia machista con presupuesto; permisos iguales y pagados al 100 %; el aborto en la sanidad pública y en la Constitución, y ni un euro público para las organizaciones que acosan a las mujeres que abortan.\nSe desarrolla en el programa: Propuestas 47, 48, 508 y 523 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0563",
+    "partido": "adelante",
+    "titular": "Diagnóstico: las mujeres siguen cargando con los cuidados y la violencia machista",
+    "marca_actual": [],
+    "texto": "Ni un paso atrás. Las mujeres andaluzas siguen cargando con la mayor parte de los cuidados, con la parcialidad que no han elegido y con una brecha salarial que acaba en pensiones más bajas, y la violencia machista sigue matando mientras la extrema derecha niega que exista y pide derogar las leyes que protegen a las mujeres. Allí donde ha tocado poder, lo primero que ha recortado han sido los recursos contra la violencia de género. Proteger a las mujeres antes, durante y después de denunciar, con un Pacto de Estado con presupuesto que llegue a los ayuntamientos; repartir los cuidados con permisos iguales y una red pública; y blindar en la Constitución el derecho al aborto en la sanidad pública de todas las provincias."
+   },
+   {
+    "id": "adelante-0564",
+    "partido": "adelante",
+    "titular": "Pacto de Estado contra la violencia machista con financiación para ayuntamientos",
+    "marca_actual": [],
+    "texto": "508. **Pacto de Estado con presupuesto** — Más financiación, finalista y plurianual, que llegue a los ayuntamientos. _Porque la violencia machista no se combate sin dinero._"
+   },
+   {
+    "id": "adelante-0565",
+    "partido": "adelante",
+    "titular": "Ampliar la Ley Integral contra la Violencia de Género y la de libertad sexual",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "509. **Leyes integrales desarrolladas** — Ampliar la Ley Integral contra la Violencia de Género y la de libertad sexual, con el acento en la prevención. _Porque la prevención es la forma más eficaz de evitar víctimas._"
+   },
+   {
+    "id": "adelante-0566",
+    "partido": "adelante",
+    "titular": "Reforzar VioGén con más personal y control telemático desde riesgo medio",
+    "marca_actual": [],
+    "texto": "510. **VioGén reforzado** — Más personal especializado, con Trabajo Social en todos los equipos, revisión periódica de los criterios de riesgo con expertas y control telemático del agresor desde el riesgo medio. _Porque muchas mujeres asesinadas tenían un riesgo valorado como bajo._"
+   },
+   {
+    "id": "adelante-0567",
+    "partido": "adelante",
+    "titular": "Ley contra la violencia vicaria que proteja a hijas e hijos",
+    "marca_actual": [],
+    "texto": "511. **Ley contra la violencia vicaria** — Que la reconozca en todas sus formas y proteja a hijas e hijos desde el primer indicio. _Porque los maltratadores usan a hijas e hijos para hacer daño a las madres._"
+   },
+   {
+    "id": "adelante-0568",
+    "partido": "adelante",
+    "titular": "Suspender las visitas del maltratador con orden de alejamiento",
+    "marca_actual": [],
+    "texto": "512. **Sin visitas del maltratador** — Suspensión cautelar del régimen de visitas con orden de alejamiento o en recurso de acogida. _Porque un maltratador no puede ser un buen padre._"
+   },
+   {
+    "id": "adelante-0569",
+    "partido": "adelante",
+    "titular": "Prestación estatal para víctimas de violencia machista con menores",
+    "marca_actual": [],
+    "texto": "513. **Ayuda estatal a víctimas con menores** — Prestación específica, compatible con el alquiler protegido, y orfandad completa para hijas e hijos de víctimas. _Porque salir de la violencia es más difícil si no hay ingresos._"
+   },
+   {
+    "id": "adelante-0570",
+    "partido": "adelante",
+    "titular": "Ayudas de hasta el 100 % del alquiler y viviendas transitorias para víctimas",
+    "marca_actual": [],
+    "texto": "514. **Vivienda para salir de la violencia** — Ayudas de hasta el 100 % del alquiler y viviendas transitorias. _Porque muchas mujeres no dejan al maltratador por no tener a dónde ir._"
+   },
+   {
+    "id": "adelante-0571",
+    "partido": "adelante",
+    "titular": "Asistencia jurídica a víctimas antes, durante y después del juicio",
+    "marca_actual": [],
+    "texto": "515. **Justicia que acompaña** — Asistencia jurídica antes, durante y después del juicio y formación permanente de la judicatura y las fuerzas de seguridad. _Porque las víctimas necesitan acompañamiento durante todo el proceso._"
+   },
+   {
+    "id": "adelante-0572",
+    "partido": "adelante",
+    "titular": "Descentralizar por comarcas los juzgados de violencia y la valoración forense",
+    "marca_actual": [],
+    "texto": "516. **Juzgados cerca de casa** — Juzgados de violencia y unidades de valoración forense descentralizados por comarcas. _Porque denunciar no puede obligar a recorrer la provincia._"
+   },
+   {
+    "id": "adelante-0573",
+    "partido": "adelante",
+    "titular": "Tipificar el feminicidio como delito propio en el Código Penal",
+    "marca_actual": [],
+    "texto": "517. **El feminicidio, en el Código Penal** — Tipificarlo como delito propio. _Porque nombrar el feminicidio es reconocer que se mata a las mujeres por ser mujeres._"
+   },
+   {
+    "id": "adelante-0574",
+    "partido": "adelante",
+    "titular": "Equiparar las indemnizaciones a víctimas de violencia machista con las del terrorismo",
+    "marca_actual": [],
+    "texto": "518. **Indemnizaciones como las del terrorismo** — Equiparar las ayudas e indemnizaciones a las víctimas de violencia machista y a sus huérfanos con las de las víctimas del terrorismo. _Porque las víctimas de la violencia machista merecen la misma reparación que otras víctimas._"
+   },
+   {
+    "id": "adelante-0575",
+    "partido": "adelante",
+    "titular": "Protocolos para mujeres mayores, con discapacidad, migrantes, gitanas y rurales",
+    "marca_actual": [],
+    "texto": "519. **Ninguna mujer fuera** — Protocolos para mujeres mayores, con discapacidad, migrantes, gitanas y del medio rural. _Porque las mujeres más vulnerables son las que menos acceden a la protección._"
+   },
+   {
+    "id": "adelante-0576",
+    "partido": "adelante",
+    "titular": "Permitir a las víctimas entrar con sus animales en las casas de acogida",
+    "marca_actual": [],
+    "texto": "520. **Con sus animales** — Las víctimas podrán entrar con sus animales de compañía en las casas de acogida. _Porque muchas mujeres no dejan su casa por no abandonar a sus animales._"
+   },
+   {
+    "id": "adelante-0578",
+    "partido": "adelante",
+    "titular": "Ley integral contra la trata y la explotación sexual y laboral",
+    "marca_actual": [],
+    "texto": "522. **Ley integral contra la trata y la explotación** — Todas sus formas, sexual y laboral, con protección y reparación integral de las víctimas, alternativas de vida e ingresos y asistencia sin condicionarla a la denuncia. _Porque la trata es una forma de esclavitud que hay que combatir en todas sus formas._"
+   },
+   {
+    "id": "adelante-0587",
+    "partido": "adelante",
+    "titular": "Plan contra la explotación laboral y sexual de las temporeras",
+    "marca_actual": [],
+    "texto": "531. **Temporeras con derechos** — Plan contra la explotación laboral y sexual en el campo, con inspección reforzada en las campañas. _Porque las temporeras sufren abusos laborales y sexuales que hay que perseguir._"
+   },
+   {
+    "id": "adelante-0616",
+    "partido": "adelante",
+    "titular": "Ley integral contra el racismo con Autoridad de Igualdad de Trato",
+    "marca_actual": [],
+    "texto": "557. **Ley integral contra el racismo** — Con prevención, reparación y una Autoridad de Igualdad de Trato con recursos y presencia en todo el territorio. _Porque el racismo existe y hace falta una ley que lo combata._"
+   },
+   {
+    "id": "adelante-0624",
+    "partido": "adelante",
+    "titular": "Residencia para víctimas de violencia machista y explotación sin esperar sentencia",
+    "marca_actual": [],
+    "texto": "565. **Residencia para las víctimas** — Autorización de residencia para las víctimas de violencia machista sin esperar a sentencia firme, y para las de explotación sin depender del explotador ni de colaborar con la investigación. _Porque las víctimas no pueden quedar atrapadas por su situación administrativa._"
+   },
+   {
+    "id": "bng-0112",
+    "partido": "bng",
+    "titular": "Reforma legal integral contra todas las violencias machistas, incluida la vicaria",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- Cumprir as obrigas internacionais en materia de prevención e loita contra todas as formas de violencia machista, nomeadamente do Convenio de Istambul corrixindo os problemas sinalados nos Informes Grevio e, singularmente, realizar unha reforma lexislativa integral que garanta a cobertura de todos os tipos de violencias contra as mulleres na lei orgánica correspondente e que outorgue rango de lei efectivo á violencia vicaria."
+   },
+   {
+    "id": "bng-0113",
+    "partido": "bng",
+    "titular": "Ejecutar las medidas pendientes del Pacto de Estado contra la violencia machista",
+    "marca_actual": [],
+    "texto": "- Impulsar e executar as medidas do Pacto de Estado contra a violencia machista que dependen do goberno do Estado e seguen sen se desenvolver."
+   },
+   {
+    "id": "bng-0114",
+    "partido": "bng",
+    "titular": "Más fondos del Pacto de Estado para Galicia con criterios de reparto propios",
+    "marca_actual": [],
+    "texto": "- Incrementar a transferencia dos fondos económicos a Galiza destinados ao cumprimento do Pacto de Estado no ámbito das súas competencias. Para tal fin, exixiremos a revisión dos criterios de repartición dos recursos económicos dirixidos á Administración Local e galega para que teñan en conta a realidade específica do noso país (dispersión poboacional, alto número de núcleos de poboación e o avellentamento, entre outros) así como os recursos existentes."
+   },
+   {
+    "id": "bng-0115",
+    "partido": "bng",
+    "titular": "Recursos contra la violencia sexual públicos y de gestión directa",
+    "marca_actual": [],
+    "texto": "- Garantir por lei que os novos recursos impulsados ao abeiro do Pacto do Estado ou da Lei Orgánica 10/2022 de garantía integral da libertade sexual, sexan públicos e de xestión directa e reclamar en Galiza a integración dos centros de crise privatizados no sistema público e a adaptación á nosa estrutura territorial e poboacional."
+   },
+   {
+    "id": "bng-0118",
+    "partido": "bng",
+    "titular": "Introducir el término feminicidio en la ley y un Estatuto de Víctima de Feminicidio",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- Introducir o termo feminicidio na lexislación española e impulsar un Estatuto de Vítima de Feminicidio para unha abordaxe integral da violencia machista."
+   },
+   {
+    "id": "bng-0119",
+    "partido": "bng",
+    "titular": "Mejorar el sistema de protección de las mujeres en situación de violencia machista",
+    "marca_actual": [],
+    "texto": "- Mellorar o sistema de protección das mulleres en situación de violencia machista a través, entre outras, das seguintes medidas:"
+   },
+   {
+    "id": "bng-0120",
+    "partido": "bng",
+    "titular": "Gestión pública y directa de los dispositivos telemáticos de protección a víctimas",
+    "marca_actual": [],
+    "texto": "- Garantir a xestión pública e directa dos mecanismos de control telemático para a protección de vítimas de violencia machista e realizar as melloras oportunas para rematar cos problemas de cobertura e revitimización existentes no noso país."
+   },
+   {
+    "id": "bng-0121",
+    "partido": "bng",
+    "titular": "Informes forenses de riesgo, revisión de VioGén y más geolocalización del agresor",
+    "marca_actual": [],
+    "texto": "- Xeneralizar a elaboración de informes forenses de valoración de risco complementarios aos policiais, así como revisar periodicamente o sistema VioGén para mellorar o seu grao de eficiencia e eficacia así como estender os mecanismos de xeolocalización do agresor a partir daqueles casos con valoración de risco medio."
+   },
+   {
+    "id": "bng-0122",
+    "partido": "bng",
+    "titular": "Fondos estatales para reforzar los servicios del Imelga",
+    "marca_actual": [],
+    "texto": "- Destinar fondos estatais para incrementar e reforzar os servizos do Imelga."
+   },
+   {
+    "id": "bng-0123",
+    "partido": "bng",
+    "titular": "Reconocer la violencia vicaria y evitar visitas de maltratadores a menores",
+    "marca_actual": [],
+    "texto": "- Avanzar no recoñecemento da violencia vicaria e na protección ás e aos menores desenvolvendo de forma efectiva medidas que eviten os subterfuxios que acaban permitindo visitas dos maltratadores. Así mesmo, avanzar na toma de medidas cautelares ante posíbeis situacións de risco das e dos menores ante a sospeita de exercicio de violencia por parte de adultos referentes, singularmente no ámbito educativo e do tempo libre. En todos estes ámbitos deberá garantirse a escoita, privacidade, seguridade e apoio psicolóxico ás e aos menores."
+   },
+   {
+    "id": "bng-0124",
+    "partido": "bng",
+    "titular": "Formación obligatoria en violencia machista para policías, Justicia y demás agentes",
+    "marca_actual": [],
+    "texto": "- Impulsar medidas concretas e específicas dirixidas á formación obrigatoria de todos os axentes, organismos e institucións implicados, directa ou indirectamente, coa prevención e intervención fronte á violencia machista, comezando polas forzas e corpos de seguridade e a Xustiza."
+   },
+   {
+    "id": "bng-0125",
+    "partido": "bng",
+    "titular": "Más plazas judiciales en violencia sobre la mujer y reorganizar su comarcalización",
+    "marca_actual": [],
+    "texto": "- Dotación suficiente de prazas xudiciais e de financiamento para medios materiais e humanos nas seccións de violencia sobre a muller dos tribunais de instancia, e reorganización da comarcalización das seccións de Ourense e Santiago de Compostela, sen estendela a Lugo e Pontevedra, para corrixir os desequilibrios territoriais e as dificultades que supón para as vítimas os desprazamentos."
+   },
+   {
+    "id": "bng-0126",
+    "partido": "bng",
+    "titular": "Cambios legales contra la violencia machista digital, incluida la IA",
+    "marca_actual": [],
+    "texto": "- Impulso das mudanzas legais oportunas para combater calquera forma de violencia machista no ámbito dixital e garantir a debida persecución destes delitos cando se cometan a través da rede e/ou a través do uso de tecnoloxías e plataformas dixitais (incluída a Intelixencia Artificial)."
+   },
+   {
+    "id": "bng-0127",
+    "partido": "bng",
+    "titular": "Oposición a legalizar los vientres de alquiler e impedirlos a través de terceros países",
+    "marca_actual": [],
+    "texto": "- Oposición firme e contundente ante calquera intento de legalización, regulamentación e banalización dos ventres de alugueiro por se trataren dunha forma de explotación dos corpos das mulleres, así como de mercantilización de seres humanos (mulleres e crianzas). Impulsar as mudanzas legais necesarias para impedir esta práctica a través de terceiros países."
+   },
+   {
+    "id": "bng-0128",
+    "partido": "bng",
+    "titular": "Desbloquear la ley contra la trata y proteger a las víctimas",
+    "marca_actual": [],
+    "texto": "- Desbloquear a lexislación específica contra a trata, a explotación de seres humanos e impulsar medidas integrais para a protección das vítimas cun enfoque de dereitos, sen ningún tipo de discriminación con base á súa nacionalidade."
+   },
+   {
+    "id": "bng-0129",
+    "partido": "bng",
+    "titular": "Abolición de la prostitución persiguiendo al proxeneta y al prostituidor",
+    "marca_actual": [],
+    "texto": "- Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista. Desde o respecto ao dereito de autodeterminación das mulleres e á súa libre elección e mais desde o dereito á vida sen ningunha forma de violencia nin discriminación, impulsaranse medidas conducentes a:"
+   },
+   {
+    "id": "bng-0130",
+    "partido": "bng",
+    "titular": "Red de cobertura para las mujeres que quieran dejar la prostitución",
+    "marca_actual": [],
+    "texto": "- Ofrecemento dunha rede de cobertura que garanta a liberdade para deixar a prostitución a todas as mulleres que así o queiran cubrindo as súas necesidades persoais básicas (ingresos, aloxamento, emprego, regularización administrativa…)."
+   },
+   {
+    "id": "bng-0131",
+    "partido": "bng",
+    "titular": "Persecución efectiva de la prostitución forzada con coordinación entre organismos",
+    "marca_actual": [],
+    "texto": "- Persecución intensa e efectiva da prostitución forzada, con coordinación eficaz dos distintos organismos, corpos e entidades (Policía, Garda Civil, xulgados, avogacía, inspección de traballo, etc.)."
+   },
+   {
+    "id": "bng-0132",
+    "partido": "bng",
+    "titular": "Red pública de centros de media estancia para mujeres que dejen la prostitución",
+    "marca_actual": [],
+    "texto": "- Inclusión no Pacto de Estado do impulso dunha rede pública de centros de media estadía para o desenvolvemento persoal integral das mulleres en situación de prostitución que decidan deixar de exercela."
+   },
+   {
+    "id": "bng-0133",
+    "partido": "bng",
+    "titular": "Víctimas de violencia machista como colectivo prioritario en el acceso a la vivienda",
+    "marca_actual": [],
+    "texto": "- Inclusión das vítimas de violencia machista como colectivo prioritario no deseño das políticas públicas de garantía de acceso á vivenda."
+   },
+   {
+    "id": "bng-0134",
+    "partido": "bng",
+    "titular": "Apoyo a las denunciantes de violencia machista perseguidas judicialmente",
+    "marca_actual": [],
+    "texto": "- Incorporación de políticas de apoio ás denunciantes, de forma pública ou xudicial, de violencia machista nas situacións de persecución xudicial por parte dos seus denunciados."
+   },
+   {
+    "id": "bng-0520",
+    "partido": "bng",
+    "titular": "Plan de prevención y erradicación de las violencias machistas y LGBTIfóbicas",
+    "marca_actual": [],
+    "texto": "- Promover e elaboración dun plan de prevención e erradicación das violencias machistas e LGBTIfóbicas."
+   },
+   {
+    "id": "erc-0119",
+    "partido": "erc",
+    "titular": "Blindar las políticas de igualdad y combatir los discursos de odio",
+    "marca_actual": [],
+    "texto": "87. Blindar les polítiques d’igualtat i combatre els discursos d’odi i discriminatoris. Establir garanties normatives, pressupostàries i institucionals que assegurin la continuïtat de les polítiques feministes, els serveis d’atenció i els recursos de prevenció de les violències masclistes. Reforçar la prevenció, la investigació i la persecució dels discursos racistes, xenòfobs, misògins i negacionistes de les violències masclistes, especialment a les xarxes socials, els entorns digitals i les institucions. Millorar la formació especialitzada i els protocols d’actuació, amb especial atenció a les campanyes d’assetjament contra dones i persones i col·lectius racialitzats."
+   },
+   {
+    "id": "erc-0120",
+    "partido": "erc",
+    "titular": "Reformar la Ley Orgánica 1/2004 y regular la violencia vicaria",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "88. Reforçar i actualitzar la legislació contra totes les formes de violència masclista. Reformar la Llei orgànica 1/2004 i la resta de legislació estatal per garantir la prevenció, detecció, protecció i reparació davant totes les violències masclistes, incloses l’econòmica, la vicària i la digital. Aprovar una regulació específica de la violència vicària i reforçar la lluita contra l’assetjament digital i la difusió no consentida d’imatges íntimes, garantint peritatges digitals gratuïts, la retirada ràpida de continguts il·legals, més responsabilitat de les plataformes i una protecció especial dels infants i adolescents."
+   },
+   {
+    "id": "erc-0121",
+    "partido": "erc",
+    "titular": "Aprobar una ley integral contra la trata y explotación de seres humanos",
+    "marca_actual": [],
+    "texto": "89. Aprovar una llei integral contra el tràfic i l’explotació d’éssers humans. Reforçar la prevenció, la persecució dels delictes i la protecció i reparació de les víctimes, especialment dones i nenes explotades sexualment. Garantir-ne els drets independentment de la situació administrativa, reformant la legislació d’estrangeria, i crear un fons estatal que asseguri les indemnitzacions judicials quan els responsables no les paguin."
+   },
+   {
+    "id": "erc-0220",
+    "partido": "erc",
+    "titular": "Reconocer la violencia contra animales de compañía como violencia vicaria",
+    "marca_actual": [],
+    "texto": "176. Reconèixer la violència contra els animals com a forma de violència vicària. Promoure el reconeixement legal de la violència exercida contra els animals de companyia com a instrument de control, intimidació, coacció i patiment envers les dones víctimes de violència masclista, incorporant-la expressament al marc normatiu de prevenció i protecció davant la violència de gènere i la violència vicària."
+   },
+   {
+    "id": "cnv-0197",
+    "partido": "cnv",
+    "titular": "Formación en perspectiva de género y violencias machistas para operadores jurídicos",
+    "marca_actual": [],
+    "texto": "- Demanarem formació en perspectiva de gènere i violències masclistes per a tots els operadors jurídics."
+   },
+   {
+    "id": "cnv-0198",
+    "partido": "cnv",
+    "titular": "Evaluar el Pacto de Estado contra la Violencia de Género y redefinir sus acciones",
+    "marca_actual": [],
+    "texto": "- Exigirem l’avaluació de l’impacte del Pacte d’Estat Contra la Violència de Gènere i redefinirem les seves accions."
+   },
+   {
+    "id": "cnv-0199",
+    "partido": "cnv",
+    "titular": "Recursos presupuestarios para erradicar las violencias machistas",
+    "marca_actual": [],
+    "texto": "- Exigirem els recursos pressupostaris necessaris per aconseguir l’erradicació de les violències masclistes, millorant la prevenció i també la reparació de danys en les dones maltractades i els seus fills i filles."
+   },
+   {
+    "id": "cnv-0200",
+    "partido": "cnv",
+    "titular": "Cumplir el Convenio de Varsovia contra la trata de seres humanos",
+    "marca_actual": [],
+    "texto": "- Exigirem el compliment de les obligacions adquirides per l’Estat espanyol al 2009 amb la ratificació de la Convenció de Varsòvia sobre la lluita contra el tràfic d'éssers humans. Les principals víctimes del tràfic són dones i nenes forçades a l’explotació sexual."
+   },
+   {
+    "id": "pnv-0162",
+    "partido": "pnv",
+    "titular": "Cumplir íntegramente el Pacto de Estado contra la Violencia de Género de 2025",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "6. Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025, especialmente en materia de violencia digital, económica y protección de las víctimas."
+   },
+   {
+    "id": "pnv-0163",
+    "partido": "pnv",
+    "titular": "Regular y definir la violencia vicaria",
+    "marca_actual": [],
+    "texto": "7. Favorecer una regulación que reconozca y defina adecuadamente la violencia vicaria, garantizando su prevención y tratamiento en los sistemas de protección y atención."
+   },
+   {
+    "id": "pnv-0164",
+    "partido": "pnv",
+    "titular": "Formación obligatoria en perspectiva de género para judicatura y Fiscalía",
+    "marca_actual": [],
+    "texto": "8. **Reforzar la formación obligatoria en perspectiva de género de la judicatura y la Fiscalía**, mediante calendarios de aplicación y evaluaciones periódicas para prevenir estereotipos y evitar la revictimización."
+   },
+   {
+    "id": "pnv-0165",
+    "partido": "pnv",
+    "titular": "Nuevos órganos judiciales de Violencia sobre la Mujer en Euskadi",
+    "marca_actual": [],
+    "texto": "9. Promover nuevos órganos judiciales especializados y reforzar las secciones de Violencia sobre la Mujer en Euskadi, especialmente en Vitoria-Gasteiz y Barakaldo, con medios humanos y materiales suficientes."
+   },
+   {
+    "id": "pnv-0166",
+    "partido": "pnv",
+    "titular": "Equiparar las ayudas a víctimas de violencia de género y de violencias sexuales",
+    "marca_actual": [],
+    "texto": "10. **Equiparar los requisitos y condiciones de acceso a las ayudas económicas estatales para víctimas de violencia de género y de violencias sexuales**, eliminando diferencias injustificadas."
+   },
+   {
+    "id": "pnv-0167",
+    "partido": "pnv",
+    "titular": "Compatibilizar indemnizaciones por violencia machista con pensiones no contributivas",
+    "marca_actual": [],
+    "texto": "11. Asegurar la compatibilidad de las indemnizaciones judiciales por violencia machista con las pensiones no contributivas, evitando que la reparación económica perjudique el acceso a prestaciones sociales."
+   },
+   {
+    "id": "bildu-0138",
+    "partido": "bildu",
+    "titular": "Campañas sobre el contenido sexual que normaliza la violencia contra las mujeres",
+    "marca_actual": [],
+    "texto": "- Impulsar campañas de sensibilización para la ciudadanía en general, advirtiendo de los riesgos de contenido sexual que normalice la violencia contra las mujeres."
+   },
+   {
+    "id": "bildu-0139",
+    "partido": "bildu",
+    "titular": "Prevenir las violencias sexuales en el ámbito digital",
+    "marca_actual": [],
+    "texto": "- Prevenir las violencias sexuales en el ámbito digital, que comprenden la difusión de actos de violencia sexual a través de medios tecnológicos. Se pondrá especial atención en que las Administraciones públicas y entidades del sector privado utilicen un lenguaje accesible, inclusivo, no sexista, con enfoque de género y adaptado en las comunicaciones dirigidas a personas menores de edad."
+   },
+   {
+    "id": "bildu-0140",
+    "partido": "bildu",
+    "titular": "Reconocer y penalizar la violencia vicaria",
+    "marca_actual": [],
+    "texto": "- Avanzar en el reconocimiento y penalización de la violencia vicaria. Identificar así tanto sus causas como consecuencias. Desarrollaremos medidas de prevención y reparación para combatirla."
+   },
+   {
+    "id": "bildu-0141",
+    "partido": "bildu",
+    "titular": "Combatir los discursos antifeministas y los que niegan la violencia machista",
+    "marca_actual": [],
+    "texto": "- Combatir los discursos antifeministas y los discursos que niegan y normalizan la violencia machista."
+   },
+   {
+    "id": "bildu-0142",
+    "partido": "bildu",
+    "titular": "Revisar los recursos de protección a las víctimas de violencia machista",
+    "marca_actual": [],
+    "texto": "- Analizar y revisar los recursos y sistemas existentes en la actualidad para la protección y reparación de mujeres víctimas de violencia machista."
+   },
+   {
+    "id": "teruel-0158",
+    "partido": "teruel",
+    "titular": "Cumplir y actualizar el Pacto de Estado contra la Violencia de Género",
+    "marca_actual": [
+     "mantener-reforzar"
+    ],
+    "texto": "- **Violencia de género**. Garantizar el cumplimiento íntegro, la actualización y el seguimiento del Pacto de Estado contra la Violencia de Género, reforzando la educación, la prevención, la atención y la protección de las víctimas. Asegurar que las medidas y recursos lleguen a todos los territorios, adaptándose a las necesidades y particularidades del medio rural, para que ninguna mujer quede desprotegida por vivir en un municipio pequeño o alejado."
+   }
+  ]
+ },
+ {
+  "eje": "eje-trans",
+  "pregunta": "¿Qué hacer con la Ley Trans?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o reformarla"
+   },
+   {
+    "id": "desplegar",
+    "nombre": "Desplegarla o ampliarla"
+   }
+  ],
+  "n": 64,
+  "palabras": 3884,
+  "candidatos": [
+   {
+    "id": "podemos-0090",
+    "partido": "podemos",
+    "titular": "Política exterior feminista basada en la paz y la seguridad colectiva",
+    "marca_actual": [],
+    "texto": "77. **Construcción de una política exterior feminista basada en la paz, la seguridad colectiva y la resolución pacifica de los conflictos.** Reorientaremos recursos destinados al rearme y al gasto militar hacia la cooperación internacional, la reconstrucción de las zonas devastadas por las guerras y la construcción de un sistema de seguridad colectiva basado en la distensión, el diálogo, la igualdad soberana de los pueblos y el respeto a su autodeterminación, frente a las políticas intervencionistas y cualquier forma de dominación militar, económica o política. España desempeñará un papel activo en la prevención y resolución pacífica de los conflictos internacionales, impulsando los procesos de paz, la mediación democrática y la justicia transicional, así como la defensa de los derechos a la verdad, la justicia y la reparación de las víctimas. Asimismo, defenderemos que las misiones internacionales se orienten exclusivamente al mantenimiento de la paz, la protección de la población civil y la asistencia humanitaria, reforzando la participación de las mujeres en los procesos de paz y la aplicación de la agenda Mujeres, Paz y Seguridad de Naciones Unidas."
+   },
+   {
+    "id": "podemos-0109",
+    "partido": "podemos",
+    "titular": "Reconocer el derecho a la descolonización y al retorno del pueblo palestino",
+    "marca_actual": [],
+    "texto": "96. **Reconocimiento del derecho a la descolonización y al retorno del pueblo palestino.** Defenderemos el derecho del pueblo palestino a la autodeterminación y a la descolonización total de su territorio. Asimismo, apoyaremos el derecho al retorno de las personas refugiadas palestinas y de sus descendientes, de conformidad con el derecho internacional y las resoluciones pertinentes de Naciones Unidas, así como las opciones de restitución y reparación que correspondan. Impulsaremos iniciativas diplomáticas para poner fin a la ocupación, frenar la expansión de los asentamientos y garantizar el acceso a la tierra, la vivienda y los recursos esenciales, promoviendo una solución política justa y duradera que respete los derechos fundamentales de la población palestina."
+   },
+   {
+    "id": "podemos-0113",
+    "partido": "podemos",
+    "titular": "Referéndum de autodeterminación saharaui y ruptura con el plan de autonomía marroquí",
+    "marca_actual": [],
+    "texto": "100. **Defensa del derecho a la libre autodeterminación del pueblo saharaui mediante referéndum y ruptura con la defensa del plan de autonomía promovido por Marruecos y Estados Unidos.** Defensa del derecho a la libre autodeterminación del pueblo saharaui mediante referéndum, ruptura con la defensa del plan de autonomía promovido por Marruecos y Estados Unidos y defensa del cumplimiento de las sentencias. Defenderemos el derecho del pueblo saharaui a la libre determinación, y promoveremos la celebración de un referéndum que permita decidir libremente su futuro político, de conformidad con el derecho internacional. Asimismo, exigiremos garantías internacionales para que la población saharaui pueda ejercer sus derechos políticos sin coacciones, y más allá del plan de autonomía marroquí, y promoveremos la ampliación del mandato de la Misión de Naciones Unidas para el Referéndum del Sáhara Occidental (MINURSO), de modo que incluya mecanismos de seguimiento y protección de los derechos humanos. Exigiremos que tanto España como la UE respeten las decisiones del TJUE sobre la aplicación de los acuerdos comerciales y pesqueros y sus recursos naturales."
+   },
+   {
+    "id": "podemos-0165",
+    "partido": "podemos",
+    "titular": "Plan de choque contra las violencias digitales machistas y LGTBIfóbicas",
+    "marca_actual": [],
+    "texto": "147. **Plan de choque contra las violencias digitales machistas y LGTBIfóbicas.** Diseño e implementación de un plan de choque contra la violencia digital para:\n - **Reconocer la violencia machista digital y LGTBIfóbica incluida aquella que se hace a través de la inteligencia artificial (_deepfakes_)** como una forma de violencia machista, equiparando los derechos de estas víctimas con los del resto de víctimas de violencias machistas, como la de género o la sexual.\n - **Combatir los discursos de odio en internet** responsabilizando a los propietarios de las redes sociales o plataformas digitales en las que tengan lugar los mismos para que la moderación se haga en consonancia con la legislación vigente en materia de delitos de odio, así como en lo recogido en la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBIQA+."
+   },
+   {
+    "id": "podemos-0168",
+    "partido": "podemos",
+    "titular": "Paquete de derechos LGTBIQA+: género no binario y cupo laboral trans",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "150. **Paquete integral de avances en derechos LGTBIQA+ y protección contra la LGTBIfobia.**\n - **Reconocimiento de la diversidad familiar y protección social de las familias LGTBIQA+** con medidas de apoyo a la adopción a familias LGTBIQA+ y protección jurídica de las nuevas formas de convivencia estables sin ser pareja.\n - Introducción en todos los formularios y documentos oficiales de identidad **la opción de género no binario**. El Estado debe reconocer todos sus derechos a las personas no binarias y el más primordial de todos es reconocerles su identidad.\n - **Establecimiento de un cupo laboral trans en el empleo público** para garantizar la inserción sociolaboral de las personas trans.\n - **Declaración internacional de España como país seguro para personas LGTBIQA+** y promoción a través de la política exterior, particularmente embajadas y consulados de los derechos de asilo y protección internacional en terceros países.\n - **Reconocer legalmente la violencia intragénero** como un tipo de violencia física, psicológica, económica o sexual que se produce en el seno de las relaciones afectivas y sexuales entre personas del mismo sexo y/o género y que constitute una manifestación de poder cuya finalidad es dominar y controlar a la víctima. Las víctimas de esta violencia tendrán acompañamiento, asesoramiento jurídico, ayuda psicológica y alternativa habitacional.\n - **Mejorar la línea 028 de atención a víctimas de LGTBIfobia** con servicios de atención psicológica, alternativa habitacional en casos de violencia en el ámbito familiar o intragénero.\n - **Creación de residencias de mayores LGTBIQA+.**\n - **Eliminación de obstáculos para la libre determinación de género en las infancias trans menores de 14 años.**\n - **Plan de acción contra el sexilio** para garantizar la libre expresión de la orientación sexual y afectiva y la identidad de género en entornos rurales."
+   },
+   {
+    "id": "podemos-0185",
+    "partido": "podemos",
+    "titular": "Anticoncepción gratuita y reproducción asistida pública para todas",
+    "marca_actual": [],
+    "texto": "167. **Anticoncepción gratuita y reproducción asistida para todas.** Todos los anticonceptivos, también los de urgencia, serán gratuitos, en los centros públicos y en la farmacia, y se financiarán todos los métodos, también los que hoy se quedan fuera, como el parche, varias píldoras recientes o la píldora del día después. Desarrollaremos el programa público de investigación de anticonceptivos masculinos que mandata la Ley 1/2023 para repartir la responsabilidad en la anticoncepción. La reproducción asistida en la sanidad pública llegará a todas las mujeres, también lesbianas y bisexuales, y a las personas trans con capacidad de gestar, sin excluir a quien ya tenga un hijo y con límites de edad y de número de ciclos más amplios que los de hoy. Las personas trans podrán conservar su capacidad reproductiva en la sanidad pública."
+   },
+   {
+    "id": "podemos-0307",
+    "partido": "podemos",
+    "titular": "Asignatura obligatoria de Educación Sexual y en Igualdad e impedir el Pin Parental",
+    "marca_actual": [],
+    "texto": "289. **Impulsar una educación feminista, sexual y en igualdad, libre de violencias y discriminación.** Implantaremos una asignatura obligatoria de Educación Sexual y en Igualdad en todas las etapas educativas, que aborde la prevención de las infecciones de transmisión sexual, los métodos anticonceptivos, la cultura del consentimiento, la diversidad en materia de orientación sexual e identidad de género, la igualdad entre mujeres y hombres y la lucha contra el racismo y la LGTBIfobia. Incorporaremos también contenidos y talleres sobre masculinidades igualitarias y la realidad de los cuidados, su contribución a la reproducción social y a la riqueza del país. Crearemos la figura de las coeducadoras y coeducadores en los centros educativos para promover la igualdad, prevenir las violencias machistas y fomentar el respeto a la diversidad. Garantizaremos formación obligatoria en igualdad, diversidad y prevención de las violencias machistas y LGTBIfóbicas para todo el personal educativo, junto con protocolos de detección precoz, actuación y acompañamiento al alumnado, incluidos los procesos de transición de género. Impediremos la aplicación del denominado Pin Parental y protegeremos el derecho de todo el alumnado a recibir una educación sexual y afectivo-sexual integral. Impulsaremos medidas específicas para combatir la brecha de género en los ámbitos científicos y tecnológicos, mediante becas y ayudas para mujeres jóvenes en carreras STEM, y promoveremos la igualdad y la participación de niñas, adolescentes y alumnado LGTBIQA+ en la actividad deportiva."
+   },
+   {
+    "id": "podemos-0330",
+    "partido": "podemos",
+    "titular": "Atención sanitaria no patologizante para personas LGTBIQA+ conforme a la Ley 4/2023",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "312. **Atención sanitaria y social integral, inclusiva y libre de discriminación para las personas LGTBIQA+.** Formaremos al conjunto del personal sanitario y de los servicios públicos en diversidad, igualdad de trato y prevención de la discriminación, y desarrollaremos unidades sanitarias de referencia para atender las necesidades específicas de las personas LGTBIQA+, garantizando una atención a las personas trans voluntaria y no patologizante. Asimismo, impulsaremos protocolos comunes de mínimos y de obligado cumplimiento en todo el Estado, en consonancia con la Ley 4/2023,con el objetivo de garantizar y blindar los mismos derechos sanitarios para todas las personas, con total independencia del territorio donde residan. Los protocolos velarán por la equiparación de los tiempos de espera y se regirán por la atención no patologizante."
+   },
+   {
+    "id": "podemos-0459",
+    "partido": "podemos",
+    "titular": "Ley de reparación a personas LGTBI represaliadas con prestación económica vitalicia",
+    "marca_actual": [],
+    "texto": "437. **Ley de Memoria y Justicia para la Reparación de las Personas Trans y LGTBI víctimas de la represión y la violencia institucional.** Reconoceremos a todas las víctimas y repararemos las graves vulneraciones de derechos humanos sufridas por razón de orientación sexual, identidad o expresión de género durante la dictadura franquista, la transición y los primeros años de democracia. La ley establecerá una prestación económica vitalicia, equivalente a la pensión mínima de jubilación para mayores de 65 años sin cargas familiares, compatible con otras pensiones e ingresos, que se incrementará en un 50 % para quienes hayan sufrido privación de libertad como consecuencia de la legislación represiva. Asimismo, garantizará medidas de reparación integral, reconocimiento institucional y recuperación de la memoria histórica LGTBI, incluyendo la investigación y preservación de archivos, la difusión de testimonios y la señalización de lugares de memoria. Se establecerán también medidas de acceso prioritario a la vivienda pública y a residencias para personas mayores, con el objetivo de garantizar una vejez digna a quienes sufrieron décadas de persecución, exclusión y discriminación institucional."
+   },
+   {
+    "id": "adelante-0031",
+    "partido": "adelante",
+    "titular": "Romper relaciones con Israel y autodeterminación del Sáhara Occidental y el Rif",
+    "marca_actual": [],
+    "texto": "29. **Justicia para Palestina, el Sáhara y el Rif** — Ruptura de relaciones con el Estado de Israel y fin de su reconocimiento mientras dure la ocupación y el genocidio, juicio a sus dirigentes, embargo total de armas y apoyo al boicot, las desinversiones y las sanciones desde todas las administraciones. Autodeterminación del Sáhara Occidental, con España asumiendo su responsabilidad como potencia administradora; solidaridad con el pueblo marroquí frente al régimen y derecho de autodeterminación del Rif.\nSe desarrolla en el programa: Propuestas 583 a 585 · Área 09 Derechos humanos, migraciones, memoria, paz y pueblo gitano"
+   },
+   {
+    "id": "adelante-0090",
+    "partido": "adelante",
+    "titular": "Plazos máximos de uno y dos años para cirugías de personas trans",
+    "marca_actual": [],
+    "texto": "53. **Salud de las personas trans** — Mastectomía y cirugía genital con plazos máximos garantizados de uno y dos años, e implante de mamas incluido. _Porque las esperas actuales se cuentan en años._"
+   },
+   {
+    "id": "adelante-0091",
+    "partido": "adelante",
+    "titular": "Prohibir las cirugías de asignación de sexo a personas intersexuales al nacer",
+    "marca_actual": [],
+    "texto": "54. **Personas intersexuales** — Prohibir las cirugías y tratamientos de asignación de sexo a las personas intersexuales al nacer. _Porque nadie debería decidir por un bebé sobre su cuerpo sin necesidad médica._"
+   },
+   {
+    "id": "adelante-0165",
+    "partido": "adelante",
+    "titular": "Protocolos LGTBI y contra el acoso en todos los centros educativos",
+    "marca_actual": [],
+    "texto": "120. **Protocolos LGTBI y contra el acoso** — En todos los centros, con acompañamiento al alumnado LGTBI. _Porque nadie debería tener miedo en clase por ser quien es._"
+   },
+   {
+    "id": "adelante-0591",
+    "partido": "adelante",
+    "titular": "Diagnóstico: las leyes trans y LGTBI siguen sin desarrollarse del todo",
+    "marca_actual": [],
+    "texto": "Los derechos conquistados se blindan y se llevan a la vida real: al trabajo, a la consulta médica, a la vivienda y a los pueblos. Las leyes trans y LGTBI siguen sin desarrollarse del todo, los delitos de odio siguen presentes y en el medio rural muchas personas todavía tienen que irse para poder vivir en libertad. La extrema derecha ha convertido a las personas LGTBIQA+ en blanco de su discurso del odio y quiere devolvernos a los armarios. No pasarán: proponemos un plan estatal contra la LGTBIfobia, empleo y sanidad trans en plazo, un techo seguro para quien es expulsado de casa y memoria para quienes fueron perseguidos."
+   },
+   {
+    "id": "adelante-0592",
+    "partido": "adelante",
+    "titular": "Desarrollar por completo las leyes trans y LGTBI con presupuesto propio",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "534. **Leyes trans y LGTBI desarrolladas** — Desarrollo completo, con órganos y presupuesto propios. _Porque las leyes aprobadas no sirven si no se aplican._"
+   },
+   {
+    "id": "adelante-0593",
+    "partido": "adelante",
+    "titular": "Plan estatal contra la LGTBIfobia con protocolos en centros educativos",
+    "marca_actual": [],
+    "texto": "535. **Plan estatal contra la LGTBIfobia** — Protección a las víctimas de delitos de odio y protocolos en centros educativos, deporte y residencias de mayores. _Porque las agresiones LGTBIfóbicas siguen produciéndose._"
+   },
+   {
+    "id": "adelante-0594",
+    "partido": "adelante",
+    "titular": "Reservar el 1 % de plazas de la AGE a personas trans",
+    "marca_actual": [],
+    "texto": "536. **Empleo trans** — Reserva del 1 % de las plazas de la Administración General del Estado e incentivos a las pymes que contraten a personas trans en paro de larga duración. _Porque las personas trans sufren un paro mucho mayor que el resto._"
+   },
+   {
+    "id": "adelante-0595",
+    "partido": "adelante",
+    "titular": "Unidades de la Inspección de Trabajo contra la discriminación LGTBI",
+    "marca_actual": [],
+    "texto": "537. **Inspección contra la discriminación** — Unidades de la Inspección de Trabajo que vigilen la discriminación por orientación, identidad o expresión de género. _Porque la discriminación en el trabajo se ve poco y se persigue menos._"
+   },
+   {
+    "id": "adelante-0596",
+    "partido": "adelante",
+    "titular": "Atención psicológica pública especializada tras agresiones LGTBIfóbicas",
+    "marca_actual": [],
+    "texto": "538. **Salud mental afirmativa** — Atención psicológica especializada en el sistema público frente al estrés de minorías y la violencia familiar, y seguimiento psicológico tras cualquier agresión LGTBIfóbica. _Porque la discriminación y la violencia dejan secuelas que hay que atender._"
+   },
+   {
+    "id": "adelante-0597",
+    "partido": "adelante",
+    "titular": "Prohibir las cirugías genitales no necesarias en menores intersexuales",
+    "marca_actual": [],
+    "texto": "539. **Ni una cirugía no consentida** — Prohibidas las cirugías genitales no necesarias en bebés y menores intersexuales. _Porque nadie debe decidir sobre el cuerpo de un bebé sin necesidad médica._"
+   },
+   {
+    "id": "adelante-0598",
+    "partido": "adelante",
+    "titular": "Incluir la sanidad trans en los tiempos máximos garantizados",
+    "marca_actual": [],
+    "texto": "540. **Sanidad trans en plazo** — Cirugías y tratamientos de las personas trans incluidos en los tiempos máximos garantizados. _Porque las personas trans esperan años para recibir atención sanitaria._"
+   },
+   {
+    "id": "adelante-0599",
+    "partido": "adelante",
+    "titular": "Vivienda pública prioritaria para jóvenes expulsados de casa y personas trans",
+    "marca_actual": [],
+    "texto": "541. **Un techo seguro** — Vivienda pública prioritaria y recursos residenciales para jóvenes expulsados de casa, personas trans y mayores LGTBIQA+. _Porque mucha gente joven LGTBI es expulsada de su casa._"
+   },
+   {
+    "id": "adelante-0600",
+    "partido": "adelante",
+    "titular": "Puntos de atención LGTBIQA+ en el medio rural contra el sexilio",
+    "marca_actual": [],
+    "texto": "542. **Contra el sexilio rural** — Puntos de atención e información LGTBIQA+ en el medio rural para que nadie tenga que irse de su pueblo. _Porque en muchos pueblos todavía no se puede vivir libremente._"
+   },
+   {
+    "id": "adelante-0601",
+    "partido": "adelante",
+    "titular": "Garantizar el asilo por persecución por orientación o identidad",
+    "marca_actual": [],
+    "texto": "543. **Asilo por orientación e identidad** — Protección internacional garantizada para quien es perseguido por ser quien es. _Porque en muchos países ser quien eres puede costar la vida._"
+   },
+   {
+    "id": "adelante-0602",
+    "partido": "adelante",
+    "titular": "Centro de documentación de la memoria LGTBIQA+ en Cádiz",
+    "marca_actual": [],
+    "texto": "544. **Memoria LGTBIQA+** — Recuperación de la memoria y centro de documentación, con una sede en el barrio del Pópulo de Cádiz. _Porque la persecución de las personas LGTBI también es memoria democrática._"
+   },
+   {
+    "id": "adelante-0603",
+    "partido": "adelante",
+    "titular": "Opción no binaria en el Registro Civil y en los documentos oficiales",
+    "marca_actual": [],
+    "texto": "545. **Reconocimiento de las personas no binarias** — Opción no binaria en el Registro Civil y en los documentos oficiales. _Porque hay personas que no se identifican ni como hombre ni como mujer._"
+   },
+   {
+    "id": "adelante-0604",
+    "partido": "adelante",
+    "titular": "Castigar las terapias de conversión en el Código Penal",
+    "marca_actual": [],
+    "texto": "546. **Terapias de conversión, delito** — Castigarlas en el Código Penal, además de las sanciones administrativas actuales. _Porque intentar cambiar la orientación o la identidad de alguien es una forma de violencia._"
+   },
+   {
+    "id": "adelante-0642",
+    "partido": "adelante",
+    "titular": "No normalizar la ocupación en Palestina y apoyar la autodeterminación saharaui",
+    "marca_actual": [],
+    "texto": "583. **Palestina y el Sahara** — Ninguna relación que normalice la ocupación y el genocidio en Palestina, apoyo a la UNRWA y a la causa por genocidio ante la Corte Internacional de Justicia, y apoyo al derecho de autodeterminación saharaui. _Porque lo que ocurre en Palestina es un genocidio y el Sáhara sigue esperando su referéndum._"
+   },
+   {
+    "id": "adelante-0644",
+    "partido": "adelante",
+    "titular": "Volver a la posición sobre el Sáhara anterior a 2022",
+    "marca_actual": [],
+    "texto": "585. **Sáhara y Marruecos** — Volver a la posición anterior a 2022 y respetar las sentencias europeas que excluyen el Sáhara de los acuerdos con Marruecos, también los de pesca; solidaridad con el pueblo marroquí y sus organizaciones democráticas frente al régimen, y apoyo al derecho de autodeterminación del Rif. _Porque el giro de 2022 sobre el Sáhara traicionó al pueblo saharaui._"
+   },
+   {
+    "id": "adelante-0679",
+    "partido": "adelante",
+    "titular": "Programas deportivos para personas con discapacidad y protocolo de inclusión trans",
+    "marca_actual": [],
+    "texto": "617. **Deporte para todas las personas** — Programas para personas con discapacidad y un protocolo de inclusión de las personas trans elaborado con sus colectivos. _Porque el deporte debe ser para todas las personas._"
+   },
+   {
+    "id": "adelante-0753",
+    "partido": "adelante",
+    "titular": "Recuperar la antigua cárcel de Huelva como lugar de memoria democrática",
+    "marca_actual": [],
+    "texto": "683. **La antigua cárcel de Huelva, lugar de memoria** — Recuperarla como espacio de memoria democrática y de reconocimiento de la represión del colectivo LGTBIQ+. _Porque la antigua cárcel fue un lugar de represión que no debe olvidarse._"
+   },
+   {
+    "id": "bng-0129",
+    "partido": "bng",
+    "titular": "Abolición de la prostitución persiguiendo al proxeneta y al prostituidor",
+    "marca_actual": [],
+    "texto": "- Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista. Desde o respecto ao dereito de autodeterminación das mulleres e á súa libre elección e mais desde o dereito á vida sen ningunha forma de violencia nin discriminación, impulsaranse medidas conducentes a:"
+   },
+   {
+    "id": "bng-0143",
+    "partido": "bng",
+    "titular": "Consolidar y ampliar los avances legislativos en derechos LGBT",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "O BNG leva décadas apostando polos dereitos do colectivo LGBT nun compromiso que se mantén firme até a actualidade.\n\nLogo dos avances lexislativos producidos neste ámbito co goberno de coalición, aprobados co apoio do BNG e doutras forzas soberanistas, a folla de ruta pasa por consolidar e ampliar o acadado.\n\nE é que, malia todo, fica moito camiño por percorrer. As persoas que conforman o colectivo LGBT seguen a padecer discriminación e violencia sistémicas, así como a negación dos seus dereitos cívicos (acoso, agresións, unha taxa de suicidio máis elevada...).\n\nAs persoas non binarias, as persoas trans migrantes e as persoas trans menores de idade fican invisibilizadas e sen recoñecemento axeitado, mesmo despois dos avances normativos recentes.\n\nDe maneira específica, no tocante ás persoas trans, a despatoloxización legal precisa de ser acompañada dunha “despatoloxización social”, con medidas formativas que faciliten o trato coa Administración ou co sistema sanitario, garantindo os seus dereitos fronte ás violencias e discriminacións. Do mesmo xeito, cómpre avanzar na equiparación de dereitos a nivel laboral e no relativo ás persoas migrantes e solicitantes de asilo.\n\nNeste senso, e desde o noso compromiso coa loita contra a discriminación e a LGBTfobia, o BNG propón as seguintes medidas:"
+   },
+   {
+    "id": "bng-0144",
+    "partido": "bng",
+    "titular": "Formación contra la LGBTfobia para profesionales de residencias de mayores",
+    "marca_actual": [],
+    "texto": "- Envellecemento digno e sen LGBTfobia, con plans formativos específicos destinados aos profesionais do sector sociosanitario das residencias de terceira idade."
+   },
+   {
+    "id": "bng-0145",
+    "partido": "bng",
+    "titular": "Lucha contra los delitos de odio con estadísticas correctas",
+    "marca_actual": [],
+    "texto": "- Loita contra os delitos de odio, garantindo unha correcta estatística e a promoción de medidas encamiñadas a erradicaren a discriminación."
+   },
+   {
+    "id": "bng-0146",
+    "partido": "bng",
+    "titular": "Medidas positivas para la inclusión laboral y social de las personas trans",
+    "marca_actual": [],
+    "texto": "- Promoción de medidas positivas para a inclusión laboral e social das persoas trans."
+   },
+   {
+    "id": "bng-0147",
+    "partido": "bng",
+    "titular": "Apoyo a las personas LGBT+ migrantes, refugiadas o solicitantes de asilo",
+    "marca_actual": [],
+    "texto": "- Apoio e acompañamento das persoas LGBT+ migrantes, refuxiadas ou solicitantes de asilo."
+   },
+   {
+    "id": "bng-0148",
+    "partido": "bng",
+    "titular": "Suprimir ayudas y sancionar a organizaciones que nieguen los derechos LGBT",
+    "marca_actual": [],
+    "texto": "- A supresión de calquera tipo de subvención ou axuda pública e a imposición de sancións para organizacións que teñen como obxectivo a negación e a vulneración dos dereitos das persoas LGBT ou que se expresen neste sentido."
+   },
+   {
+    "id": "bng-0149",
+    "partido": "bng",
+    "titular": "Servicio de igualdad de género y diversidad sexual en todos los centros de enseñanza",
+    "marca_actual": [],
+    "texto": "- A creación do servizo de igualdade de xénero e diversidade sexual a cargo dunha profesional con formación e dedicación específica en todos os centros de ensino."
+   },
+   {
+    "id": "bng-0150",
+    "partido": "bng",
+    "titular": "Contenidos LGBT en la enseñanza obligatoria y universitaria",
+    "marca_actual": [],
+    "texto": "- A inclusión de contidos transversais e específicos no ensino obrigatorio e universitario, co fin de garantir a formación de profesorado e alumnado."
+   },
+   {
+    "id": "bng-0151",
+    "partido": "bng",
+    "titular": "Formación sanitaria sobre la salud sexual y reproductiva de las personas LGBTI",
+    "marca_actual": [],
+    "texto": "- A concienciación e formación das e dos profesionais da sanidade a respecto das necesidades específicas de saúde sexual e reprodutiva das persoas LGBTI."
+   },
+   {
+    "id": "bng-0152",
+    "partido": "bng",
+    "titular": "Reconocer legalmente la identidad de las personas trans migrantes en su documentación",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Protección das persoas trans migrantes permitindo o recoñecemento legal da súa identidade na documentación."
+   },
+   {
+    "id": "bng-0153",
+    "partido": "bng",
+    "titular": "Autodeterminación de género para las personas trans menores de 12 años",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Protección das persoas trans menores de 12 anos, respectando o seu dereito á autodeterminación de xénero."
+   },
+   {
+    "id": "bng-0154",
+    "partido": "bng",
+    "titular": "Reconocimiento de las personas no binarias",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Recoñecemento das persoas non binarias."
+   },
+   {
+    "id": "bng-0168",
+    "partido": "bng",
+    "titular": "Referendos vinculantes, incluido el derecho de autodeterminación",
+    "marca_actual": [],
+    "texto": "- Impulsar a participación directa a través de consultas populares. Neste sentido, promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación, así como a participación social na planificación e na xestión dos fondos públicos."
+   },
+   {
+    "id": "bng-0520",
+    "partido": "bng",
+    "titular": "Plan de prevención y erradicación de las violencias machistas y LGBTIfóbicas",
+    "marca_actual": [],
+    "texto": "- Promover e elaboración dun plan de prevención e erradicación das violencias machistas e LGBTIfóbicas."
+   },
+   {
+    "id": "bng-0540",
+    "partido": "bng",
+    "titular": "Referéndum de autodeterminación saharaui, reconocer Palestina y condenar a Israel",
+    "marca_actual": [],
+    "texto": "- Defender unha nova arquitectura internacional igualitaria entre os pobos, non xerarquizada, que recoñeza o dereitos das nacións á súa libre determinación -a comezar pola nosa- e a se relacionaren en pé de igualdade, sen inxerencias nin agresións en coherencia coa nosa visión pacifista e antiimperialista. No inmediato:\n - a) Anular o cambio de posición do goberno español a respecto do dereito á autodeterminación do pobo saharauí, condenando enerxicamente a ocupación marroquí do Sáhara Occidental, e instando a que o Estado español impulse un referendo de autodeterminación con garantías democráticas.\n - b) Condenar enerxicamente o Estado de Israel pola ocupación e colonialismo nos territorios ocupados da Palestina. Recoñecemento real e efectivo do Estado palestino.\n - c) Chamar á fin das agresións imperialistas, particularmente no Oriente Medio e no Norte de África.\n - d) Rexeitar a política de inxerencia dos Estados Unidos, que busca desestabilizar os gobernos progresistas de América Latina, e que mantén a agresión a Venezuela e o bloqueo a Cuba."
+   },
+   {
+    "id": "erc-0125",
+    "partido": "erc",
+    "titular": "Reconocer legalmente las identidades no binarias",
+    "marca_actual": [],
+    "texto": "93. Reconèixer legalment les identitats no-binàries. Adaptar la normativa relativa al Registre Civil, la documentació identificativa i els procediments administratius per garantir-ne el reconeixement sense requisits patologitzadors, protegint la privacitat i evitant discriminacions."
+   },
+   {
+    "id": "erc-0126",
+    "partido": "erc",
+    "titular": "Eliminar las discriminaciones en la filiación de las familias LGBTI+",
+    "marca_actual": [],
+    "texto": "94. Garantir la igualtat de drets de les famílies LGBTI+. Reformar la legislació civil i del Registre Civil per eliminar les discriminacions en la filiació de les famílies de dues mares, les persones trans i no-binàries i altres models familiars, garantint el reconeixement dels vincles parentals i la seguretat jurídica, amb participació de les entitats LGBTI+ i prioritzant l’interès superior de l’infant."
+   },
+   {
+    "id": "erc-0127",
+    "partido": "erc",
+    "titular": "Reforzar la prohibición de las prácticas de conversión y tipificarlas penalmente",
+    "marca_actual": [],
+    "texto": "95. Reforçar la prohibició de les pràctiques de conversió i perseguir-les penalment. Garantir la prohibició efectiva de les pràctiques que pretenen modificar o reprimir l’orientació sexual o la identitat de gènere, també quan s’emparen en motius religiosos o espirituals. Tipificar penalment els casos greus o coercitius, protegir especialment els menors i les persones vulnerables i reforçar els mecanismes de denúncia i atenció a les víctimes, sense penalitzar l’acompanyament psicològic voluntari i afirmatiu."
+   },
+   {
+    "id": "erc-0128",
+    "partido": "erc",
+    "titular": "Ley estatal de memoria y reparación LGBTI+",
+    "marca_actual": [],
+    "texto": "96. Impulsar una llei estatal de memòria i reparació LGBTI+. Reconèixer i reparar la persecució històrica de les persones LGBTI+ per les institucions, incloent-hi la repressió de les persones trans, les lesbianes i les dones sotmeses al Patronato de Protección a la Mujer. Garantir l’accés als arxius, la preservació de testimonis, la participació de les víctimes i mesures de reparació, reconeixement públic i divulgació educativa i cultural, respectant les competències de Catalunya."
+   },
+   {
+    "id": "cnv-0201",
+    "partido": "cnv",
+    "titular": "Rechazar la discriminación al colectivo LGTBI+ y respetar la identidad de género",
+    "marca_actual": [],
+    "texto": "- Defensarem una societat on totes les persones siguin respectades en la seva orientació sexual i identitat de gènere. Rebutjarem qualsevol discriminació al col·lectiu LGTBI+ i promourem el respecte i la convivència com a base de la cohesió social."
+   },
+   {
+    "id": "pnv-0169",
+    "partido": "pnv",
+    "titular": "Defender los derechos LGTBIQ+ frente a cualquier retroceso",
+    "marca_actual": [],
+    "texto": "**Nadie debe sufrir discriminación por ser quien es o por amar a quien ama. Defenderemos los derechos conquistados y actuaremos frente a cualquier intento de retroceso.**"
+   },
+   {
+    "id": "pnv-0170",
+    "partido": "pnv",
+    "titular": "Reforzar la persecución de los delitos de odio contra personas LGTBIQ+",
+    "marca_actual": [],
+    "texto": "1. **Reforzar la prevención, investigación y persecución de los delitos de odio contra las personas LGTBIQ+**, mediante formación especializada y aplicación efectiva de la legislación penal."
+   },
+   {
+    "id": "pnv-0172",
+    "partido": "pnv",
+    "titular": "Garantizar los derechos de las personas LGTBIQ+ frente a retrocesos",
+    "marca_actual": [],
+    "texto": "3. Garantizar la aplicación efectiva de los derechos de las personas LGTBIQ+ y proteger los avances alcanzados frente a cualquier retroceso."
+   },
+   {
+    "id": "pnv-0173",
+    "partido": "pnv",
+    "titular": "Tipificar penalmente las prácticas de conversión",
+    "marca_actual": [],
+    "texto": "5. Favorecer la tipificación penal específica de las prácticas de conversión o aversión dirigidas a modificar la orientación sexual, la identidad sexual o la expresión de género."
+   },
+   {
+    "id": "pnv-0174",
+    "partido": "pnv",
+    "titular": "Desarrollar el artículo 50 de la Ley 4/2023 para personas extranjeras trans",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "6. Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023, garantizando procedimientos claros para adecuar la documentación expedida en España a la identidad de género de las personas extranjeras trans."
+   },
+   {
+    "id": "bildu-0049",
+    "partido": "bildu",
+    "titular": "Ampliar la eutanasia al sufrimiento psíquico y blindar el derecho a morir dignamente",
+    "marca_actual": [],
+    "texto": "- Modificar la ley Orgánica 3/2021 de 4 de marzo, de regulación de la Eutanasia para garantizar el derecho a recibir la prestación de todas las personas, que abarque por igual el sufrimiento de origen físico, como psíquico. Con el objetivo de blindar el derecho a morir dignamente frente a la intromisión judicial de terceros. Asegurando así que el procedimiento de la petición de la ayuda a morir constituya un acto de estricta intimidad personal y de autodeterminación."
+   },
+   {
+    "id": "bildu-0143",
+    "partido": "bildu",
+    "titular": "No aceptar retrocesos en derechos LGTBIQ+ ni en la despatologización trans",
+    "marca_actual": [],
+    "texto": "Lucharemos a favor del reconocimiento de la identidad sexual y de género de las personas LGBTIQ+ y no aceptaremos retrocesos en los derechos adquiridos, especialmente en la despatologización de las personas Trans. Para ello, propondremos:"
+   },
+   {
+    "id": "bildu-0144",
+    "partido": "bildu",
+    "titular": "Prohibir las terapias de conversión",
+    "marca_actual": [],
+    "texto": "- Prohibir las terapias de conversión, ya que estas violan, entre otros, el derecho a la no discriminación, a la salud, a la identidad personal, a la integridad física y psicológica y a no ser sujeto a torturas."
+   },
+   {
+    "id": "bildu-0145",
+    "partido": "bildu",
+    "titular": "Continuar la lucha contra la LGTBIQ+fobia",
+    "marca_actual": [],
+    "texto": "- Continuar con la lucha contra la LGTBIQ+fobia y por los derechos del colectivo"
+   },
+   {
+    "id": "bildu-0146",
+    "partido": "bildu",
+    "titular": "Prevenir e investigar los delitos de odio contra el colectivo LGTBIQ+ en redes",
+    "marca_actual": [],
+    "texto": "- Adoptar medidas de prevención y reforzar la investigación de los delitos de odio hacia el colectivo LGTBIQ+ con especial atención en las redes sociales y en las plataformas digitales."
+   },
+   {
+    "id": "bildu-0148",
+    "partido": "bildu",
+    "titular": "Desarrollar el artículo 50 de la Ley trans sobre documentos de personas extranjeras",
+    "marca_actual": [
+     "desplegar"
+    ],
+    "texto": "- Desarrollar el contenido del artículo 50 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI sobre la adecuación de los documentos expedidos a personas extranjeras."
+   },
+   {
+    "id": "bildu-0208",
+    "partido": "bildu",
+    "titular": "Recuperar el apoyo a la autodeterminación del pueblo saharaui",
+    "marca_actual": [],
+    "texto": "Propondremos, de nuevo, revertir el cambio de posicionamiento del Gobierno español con respecto al Sahara, recuperando el reconocimiento, apoyo y respeto al derecho de autodeterminación del Pueblo Saharaui así como el rechazo a la política de ocupación de Marruecos. Así mismo, impulsaremos iniciativas legislativas que amplíen y reconozcan los derechos de las y los saharauis."
+   }
+  ]
+ },
+ {
+  "eje": "eje-irpf",
+  "pregunta": "¿Qué hacer con el IRPF?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo o ampliar deducciones"
+   },
+   {
+    "id": "subir-altas",
+    "nombre": "Subirlo a las rentas altas"
+   }
+  ],
+  "n": 40,
+  "palabras": 2549,
+  "candidatos": [
+   {
+    "id": "podemos-0058",
+    "partido": "podemos",
+    "titular": "Subir el IRPF a las rentas de más de 60.000 euros",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "48. **Reforma del IRPF para que las rentas más altas contribuyan más.** Reformaremos la escala estatal del IRPF sobre la base imponible general para reforzar la progresividad fiscal, reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales: un 23 % entre 60.000 y 99.000 € un 24 % entre 100.000 y 199.999 euros; un 25,5 % entre 200.000 y 299.999 euros; un 27 % entre 300.000 y 499.999 euros, y un 28,5 % a partir de 500.000 euros. Llevaremos a cabo una reforma para que los perceptores de rentas inferiores al SMI no tributen ni sean objeto de retención."
+   },
+   {
+    "id": "podemos-0059",
+    "partido": "podemos",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "49. **Equiparación fiscal de las rentas del capital y del trabajo.** Reformaremos el IRPF para equiparar progresivamente, en un plazo máximo de una legislatura, los tipos impositivos de los rendimientos del capital a los de los rendimientos del trabajo, poniendo fin al trato fiscal más favorable de las rentas procedentes del patrimonio frente a las obtenidas mediante el trabajo. Avanzaremos así hacia un sistema fiscal más justo y redistributivo."
+   },
+   {
+    "id": "podemos-0060",
+    "partido": "podemos",
+    "titular": "Eliminar las desgravaciones del IRPF por planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "50. **Eliminar por completo las desgravaciones al IRPF por la suscripción de planes de pensiones privados.** Eliminaremos las desgravaciones al IRPF por la suscripción de planes de pensiones incluyendo los planes de empleo de las empresas, que no dejan de ser otro esquema para la privatización de las pensiones."
+   },
+   {
+    "id": "podemos-0061",
+    "partido": "podemos",
+    "titular": "Derogar la «Ley Beckham»",
+    "marca_actual": [],
+    "texto": "51. **Derogar por completo la así llamada «Ley Beckham».** Derogaremos la «Ley Beckham» que permite a quienes se trasladan a trabajar a España tributar durante seis años mucho menos que los contribuyentes ordinarios."
+   },
+   {
+    "id": "podemos-0064",
+    "partido": "podemos",
+    "titular": "Cuadruplicar el IRPF de rentas imputadas y gravar estatalmente las viviendas vacías",
+    "marca_actual": [],
+    "texto": "54. **Impuestos a las viviendas vacías.** Modificaremos la tributación de las viviendas vacías cuadruplicando el tipo de IRPF aplicable a las rentas imputadas de viviendas que no constituyan vivienda del contribuyente. Además, estableceremos un impuesto estatal a las viviendas vacías de igual cuantía que el IBI con recargo que pueden aplicar los ayuntamientos y será deducible lo abonado por este, para evitar que los municipios no apliquen esta medida."
+   },
+   {
+    "id": "podemos-0068",
+    "partido": "podemos",
+    "titular": "Derogar los beneficios fiscales del IRPF a los caseros",
+    "marca_actual": [],
+    "texto": "58. **Eliminar los regalos fiscales a los propietarios de viviendas.** Derogaremos los beneficios fiscales aplicados en el IRPF a los caseros para desincentivar la inversión especulativa en vivienda y movilizar todas esas viviendas para bajar los precios."
+   },
+   {
+    "id": "podemos-0073",
+    "partido": "podemos",
+    "titular": "Reformar el REF de Canarias para que las grandes empresas paguen más",
+    "marca_actual": [],
+    "texto": "63. **Una fiscalidad justa para Canarias.** Como región ultraperiférica de la Unión Europea, Canarias cuenta en la actualidad con un Régimen Económico y Fiscal (REF) que consagra una enorme desigualdad en lo relativo al sistema fiscal de las islas: mientras las personas autónomas y las PYMES pagan en torno al 20% de sus ingresos en concepto de impuestos, las grandes empresas de las islas pagan porcentajes irrisorios que bajan hasta el 4%. Se reformará el sistema para hacerlo verdaderamente progresivo, de forma que los autónomos y las PyMEs paguen menos y las grandes empresas paguen más."
+   },
+   {
+    "id": "adelante-0009",
+    "partido": "adelante",
+    "titular": "Revolución fiscal: impuesto a grandes fortunas e IRPF más alto desde 100.000 euros",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "7. **Revolución fiscal: que pague más quien más tiene** — Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.\nSe desarrolla en el programa: Propuestas 232, 233 y 236 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0282",
+    "partido": "adelante",
+    "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "232. **IRPF más progresivo** — Rebaja para las rentas más bajas y tipos mucho más altos a partir de 100.000 euros al año, menos deducciones para las rentas altas y rentas del capital que tributen al menos como las del trabajo. _Porque quien más gana debe aportar más, y el trabajo no puede pagar más que el capital._"
+   },
+   {
+    "id": "adelante-0295",
+    "partido": "adelante",
+    "titular": "Sin obligación de declarar con dos pagadores por debajo de 22.000 euros",
+    "marca_actual": [],
+    "texto": "245. **Dos pagadores sin castigo** — Quien gane menos de 22.000 euros con dos empleos no tendrá que declarar ni sufrirá regularizaciones sorpresa. _Porque no es justo castigar a quien junta dos trabajos para llegar a fin de mes._"
+   },
+   {
+    "id": "adelante-0296",
+    "partido": "adelante",
+    "titular": "Ayudas a víctimas de la talidomida exentas de IRPF desde 2023",
+    "marca_actual": [],
+    "texto": "246. **Ayudas a las víctimas de la talidomida sin IRPF** — Exentas con efectos desde 2023, como ya lo están las indemnizaciones a otras víctimas reconocidas por el Estado. _Porque son víctimas reconocidas por el Estado y no pueden tributar por su indemnización._"
+   },
+   {
+    "id": "adelante-0297",
+    "partido": "adelante",
+    "titular": "Recuperar en el IRPF la deducción por primera vivienda y por emancipación",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "247. **Deducción por primera vivienda y por emanciparse** — Recuperar en el IRPF la deducción por la compra de la primera vivienda habitual y por el alquiler de jóvenes que se emancipan. _Porque emanciparse y acceder a la primera vivienda es hoy casi imposible para la juventud._"
+   },
+   {
+    "id": "adelante-0391",
+    "partido": "adelante",
+    "titular": "Ceder a las comunidades el 55 % del IRPF y 70 % del IVA",
+    "marca_actual": [],
+    "texto": "339. **Más recursos para los servicios públicos** — Al menos el 55 % del IRPF y el 70 % del IVA y de los impuestos especiales para las comunidades, todo en el fondo de garantía. _Porque las comunidades pagan la sanidad y la educación con unos ingresos insuficientes._"
+   },
+   {
+    "id": "adelante-0493",
+    "partido": "adelante",
+    "titular": "Banco público de tierras con exención en el IRPF a jubilados que cedan tierras",
+    "marca_actual": [],
+    "texto": "439. **Banco público de tierras** — Acceso a la tierra para jóvenes y mujeres y uso social de las tierras infrautilizadas, con exención en el IRPF para las personas jubiladas que cedan sus tierras a menores de 40 años a través del banco. _Porque acceder a la tierra es casi imposible para quien quiere empezar._"
+   },
+   {
+    "id": "bng-0039",
+    "partido": "bng",
+    "titular": "Reformular la fiscalidad de la vivienda y movilizar viviendas vacías contra la especulación",
+    "marca_actual": [],
+    "texto": "- Reformular a fiscalidade sobre a vivenda para frear o seu uso especulativo con accións como:\n - Eliminar as deducións no IRPF para propietarios que aluguen por riba do prezo de referencia.\n - Aplicar recargos no Imposto de Sociedades a fondos e SOCIMIs que incumpran a función social da vivenda.\n - Estabelecer medidas fiscais proporcionadas para mobilizar vivendas baleiras, combater os usos especulativos e favorecer o alugueiro habitual a prezos accesíbeis.\n - Transferir gratuitamente os solos e vivendas da Sareb ao IGVS para a súa incorporación ao parque público de vivenda en alugueiro.\n - Evitar a degradación, o alleamento e a privatización do patrimonio público do solo e da vivenda, nomeadamente de entidades estatais como ADIF, INVIED ou Portos do Estado, procurando o seu uso como vivendas e espazos públicos e a cesión ás CCAA.\n - Actualizar o CTE para incrementar as esixencias en materia de eficiencia enerxética dos edificios e adecualo á solucións emerxentes como a construción industrializada en madeira.\n - Estabelecer un programa específico e con recursos suficientes para a mellora da eficiencia enerxética de edificios públicos.\n - Impulsar o PERTE de Industrialización da Construción priorizando a especialización por segmentos adaptada á realidade produtiva de cada territorio.\n - Permitir a creación de novos impostos ou taxas a nivel municipal destinadas a gravar as vivendas baleiras.\n - Facilitar a portabilidade das hipotecas de tipo variábel a tipo fixo e endurecer o marco legal para evitar os abusos bancarios en relación ao financiamento da compra de vivenda para uso residencial.\n - Promover o cooperativismo de propiedade e alugueiro, alargando as bonificacións fiscais e despregando liñas de financiamento sen xuros, que deberán ser vehiculados a través das CCAA.\n - Adoptar as medidas necesarias para facilitar a aplicación por parte CCAA de mecanismos como o alugueiro forzoso, a expropiación temporal ou o estabelecemento de canon á vivenda desocupada (importe de como mínimo 10 euros por metro cadrado, incrementándose un 10% anual até o triplo do importe inicial) para as vivendas baleiras desde hai 5 ou máis anos e en mans de grandes propietarios.\n - Promover as modificacións legais que faciliten a creación de empresas públicas, de ámbito autonómico, municipal ou supramunicipal para a promoción de vivenda pública e a xestión de programas de subarrendo e alugueiro social.\n - Transferir á Xunta de Galiza os edificios propiedade do Ministerio de Defensa que se atopan sen uso na actualidade para incrementar o parque público de vivenda de uso residencial."
+   },
+   {
+    "id": "bng-0231",
+    "partido": "bng",
+    "titular": "Diagnóstico: el sistema fiscal penaliza las rentas del trabajo frente al capital",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "Existe unha penalización fiscal das rendas do traballo fronte ás do capital. Por iso, en tanto non acadarmos un modelo de financiamento adecuado para o noso país que nos capacite para regular e recadar todos os impostos, defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas, porque o sistema actual discrimina as persoas cuxa principal fonte de ingresos é o traballo.\n\nEn primeiro lugar, a respecto do Imposto sobre a Renda das Persoas Físicas (IRPF), consideramos preciso:"
+   },
+   {
+    "id": "bng-0232",
+    "partido": "bng",
+    "titular": "Aumentar la progresividad del IRPF: que pague más quien más renta obtiene",
+    "marca_actual": [
+     "subir-altas"
+    ],
+    "texto": "- Incrementar a súa progresividade: que pague máis quen máis renda obtén."
+   },
+   {
+    "id": "bng-0233",
+    "partido": "bng",
+    "titular": "Ajustar los tramos estatales del IRPF al IPC de Galicia",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Axustar os tramos estatais do IRPF en función do incremento anual do Índice de Prezos de Consumo en Galiza."
+   },
+   {
+    "id": "bng-0234",
+    "partido": "bng",
+    "titular": "Gravar menos las rentas del trabajo y más las del capital",
+    "marca_actual": [],
+    "texto": "- Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital."
+   },
+   {
+    "id": "bng-0235",
+    "partido": "bng",
+    "titular": "Deducciones en el IRPF inversamente proporcionales a los tipos de gravamen",
+    "marca_actual": [],
+    "texto": "- Realizar deducións inversamente proporcionais aos tipos de gravame."
+   },
+   {
+    "id": "bng-0236",
+    "partido": "bng",
+    "titular": "Elevar la exención por kilometraje de 0,26 a 0,40 euros por km",
+    "marca_actual": [],
+    "texto": "- Modificar a normativa reguladora, elevando os limites para exceptuar de gravame e non computar entre os ingresos procedentes do traballo persoal, as cantidades destinadas pola empresa a compensar os gastos por locomoción retribuídos a traballadores e traballadoras que utilicen medios de transporte privado, de 0,26€ por km a 0,40€ por km percorrido mais os gastos de portaxes e aparcadoiro que se xustifiquen, para así evitar que tributen polo exceso derivado do aumento dos prezos."
+   },
+   {
+    "id": "bng-0249",
+    "partido": "bng",
+    "titular": "Introducción de nuevas propuestas fiscales de justicia social",
+    "marca_actual": [],
+    "texto": "Así mesmo, consideramos preciso introducir propostas novas no ámbito fiscal que acheguen xustiza social e de respecto polo patrimonio público, como por exemplo:"
+   },
+   {
+    "id": "erc-0051",
+    "partido": "erc",
+    "titular": "Traspasar a la Agencia Tributaria de Cataluña la recaudación de los impuestos estatales",
+    "marca_actual": [],
+    "texto": "34. Fer efectiu el traspàs de les competències en la recaptació d’impostos estatals a l’Agència Tributària de Catalunya. Complir amb els acords de la Comissió Bilateral Generalitat Estat de juliol de 2025 sobre l’assumpció de competències en l’IRPF per part de la Generalitat, fent efectius els canvis legislatius pertinents per a la recaptació no només d’aquest tribut sinó de tots els impostos que es generen a Catalunya."
+   },
+   {
+    "id": "erc-0091",
+    "partido": "erc",
+    "titular": "Reindustrialización verde, salario mínimo catalán y reforma del IRPF y el IVA",
+    "marca_actual": [],
+    "texto": "Davant d’aquest panorama, Esquerra Republicana aposta tant per mesures estructurals que ens permetin avançar cap a un model econòmic més inclusiu, fomentant la reindustrialització verda, com per mesures de suport a la classe treballadora que pateix les conseqüències d’un model econòmic basat en salaris baixos.\n\nEntre altres mesures, Esquerra Republicana fa anys que reclama que Catalunya tingui un salari mínim propi, que reflecteixi el cost de vida més alt que el d’altres territoris de l’Estat. També defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+   },
+   {
+    "id": "erc-0095",
+    "partido": "erc",
+    "titular": "Subir al 35 % el IRPF del capital y bajarlo bajo 35.000 euros",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "69. Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros per augmentar els recursos disponibles i la capacitat adquisitiva de la classe treballadora."
+   },
+   {
+    "id": "erc-0113",
+    "partido": "erc",
+    "titular": "Suprimir la ley Beckham y exigir permanencia a empresas con ayudas públicas",
+    "marca_actual": [],
+    "texto": "84. Acabar amb els privilegis fiscals i el capital subvencionat. Posar fi a la llei Beckham, que permet a les persones que arribin a l’Estat des de l’estranger tributar com a no residents durant 6 anys, fins a la meitat en concepte d’IRPF i sense tributar pels rendiments patrimonials a l’estranger. Eliminar la possibilitat de teletreballadors internacionals d’acollir-se a un règim fiscal favorable. Exigir també clàusules de permanència de l’activitat i garantia de manteniment de l’ocupació a empreses que s’acullin a ajudes públiques i deduccions a la inversió."
+   },
+   {
+    "id": "erc-0114",
+    "partido": "erc",
+    "titular": "Prórrogas de hasta 4 años en el pago de tributos cedidos",
+    "marca_actual": [],
+    "texto": "85. Facilitar les pròrrogues en el pagament de tributs cedits. Modificar la legislació vigent i els reglaments que la despleguen per facilitar que, en les liquidacions dels tributs cedits, es puguin sol·licitar pròrrogues en el pagament fins a 4 anys després d’haver-se concretat el fet imposable."
+   },
+   {
+    "id": "erc-0151",
+    "partido": "erc",
+    "titular": "Ampliar los gastos deducibles en el IRPF de los autónomos",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "116. Avançar cap a una fiscalitat més justa per als autònoms. Ampliar les despeses fiscalment deduïbles a l’IRPF vinculades a l’activitat econòmica, especialment les relacionades amb el vehicle professional, els subministraments i l’ús de l’habitatge habitual com a lloc de treball, establint criteris clars que en facilitin la justificació. Paral·lelament, reforçar la progressivitat de l’impost sobre societats, amb criteris de dimensió empresarial i capacitat econòmica."
+   },
+   {
+    "id": "erc-0273",
+    "partido": "erc",
+    "titular": "Reformar la Ley de Haciendas Locales y rebajar a 10.000 habitantes el municipio turístico",
+    "marca_actual": [],
+    "texto": "218. Cal una reforma de la Llei 39/1988, de 28 de desembre, reguladora de les hisendes locals que actualitzi el finançament per exercir les competències que avui en dia tenen els ajuntaments i altres ens locals, tendint a un sistema de finançament que doni estabilitat als ajuntaments i els faci menys dependents de les subvencions. Aquesta reforma ha de permetre incrementar els ingressos per la participació en els ingressos de l’Estat i que tots els ajuntaments, no només els més grans de 75.000 habitants, puguin rebre un percentatge dels grans impostos com l’IRPF i l’IVA. També ha de servir per assegurar la viabilitat econòmica de l’AMB i d’altres àrees que es puguin crear en un futur, permetent establir exempcions, reduccions i tipus de gravàmens diferenciats en l’aplicació de l’IBI, assegurant la justícia fiscal del tribut. Cal modificar la legislació relativa a l’IBI per equiparar els beneficis per les famílies monoparentals als previstos per les famílies nombroses. I també calen canvis en el finançament dels municipis turístics. Atès la pressió real que l’activitat turística exerceix sobre els serveis municipals, cal redefinir el concepte de municipi turístic rebaixant el llindar poblacional actual de 20.000 a 10.000 habitants i establint altres criteris alternatius més enllà del poblacional."
+   },
+   {
+    "id": "cnv-0055",
+    "partido": "cnv",
+    "titular": "Aumentar mínimos personales y deducciones del IRPF por discapacidad",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Proposarem millores fiscals, com l’Increment substancial dels mínims personals i de les deduccions de l'IRPF, especialment per a aquelles persones amb un grau de discapacitat igual o superior al 65% o assimilat per resolució judicial."
+   },
+   {
+    "id": "cnv-0075",
+    "partido": "cnv",
+    "titular": "Redistribuir el esfuerzo fiscal a favor de las pymes",
+    "marca_actual": [],
+    "texto": "- Impulsarem la redistribució de l’esforç fiscal a favor de les PIMES, amb mesures específiques per protegir aquest segment fonamental i representatiu de l’economia catalana."
+   },
+   {
+    "id": "cnv-0078",
+    "partido": "cnv",
+    "titular": "Criterios de sostenibilidad en la fiscalidad sin aumentar la presión fiscal global",
+    "marca_actual": [],
+    "texto": "- Incorporarem criteris de sostenibilitat i transició verda a la fiscalitat, sense incrementar la pressió fiscal global."
+   },
+   {
+    "id": "cnv-0087",
+    "partido": "cnv",
+    "titular": "Rebajar el ITP y el tramo autonómico del IRPF",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Treballarem per rebaixar el impost de Transmissions Patrimonials i disminuir el percentatge del IRPF del tram autonòmic."
+   },
+   {
+    "id": "cnv-0097",
+    "partido": "cnv",
+    "titular": "Deducir en el IRPF la contratación de limpieza y cuidado del hogar",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Deduirem les despeses de l’IRPF en la contractació de persones i empreses per a la neteja i cura de la llar."
+   },
+   {
+    "id": "cnv-0132",
+    "partido": "cnv",
+    "titular": "Bonificación del 30 % en IRPF y Sociedades a la gestión forestal sostenible",
+    "marca_actual": [],
+    "texto": "- Impulsarem millores en la fiscalitat forestal, com una bonificació del 30% a les inversions en gestió forestal sostenible aplicable a l’IRPF i l’Impost de Societats."
+   },
+   {
+    "id": "pnv-0127",
+    "partido": "pnv",
+    "titular": "Una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica",
+    "marca_actual": [],
+    "texto": "**Queremos que las instituciones puedan utilizar sus recursos para responder a las necesidades de la ciudadanía. Y una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica.**"
+   },
+   {
+    "id": "pnv-0221",
+    "partido": "pnv",
+    "titular": "Declarar exentas del IRPF las indemnizaciones del Fondo de Compensación del Amianto",
+    "marca_actual": [],
+    "texto": "3. **Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto**, evitando que las personas afectadas pierdan parte de la reparación que les corresponde."
+   },
+   {
+    "id": "bildu-0095",
+    "partido": "bildu",
+    "titular": "Redistribuir la riqueza haciendo que las grandes empresas aporten lo que deben",
+    "marca_actual": [],
+    "texto": "La redistribución de la riqueza debe ser un objetivo que cualquier sociedad justa debe asegurar. La política fiscal es uno de los instrumentos eficaces para ello. Por eso resulta necesario que el sector privado, especialmente las grandes empresas, aporten lo que deben en un momento de acumulación de capital por parte de estas con grandes márgenes de beneficio que, sin embargo, no revierten como deberían en la ciudadanía y los servicios públicos. Para ello, propondremos:"
+   },
+   {
+    "id": "teruel-0042",
+    "partido": "teruel",
+    "titular": "Fiscalidad progresiva con bonificaciones para atraer población a la provincia",
+    "marca_actual": [],
+    "texto": "- **Fiscalidad justa y diferenciada.** Un sistema general, equitativo y progresivo, acorde con los servicios que sostiene, que a su vez aplique bonificaciones para el desarrollo de objetivos estratégicos prioritarios para la provincia, como el de asentar y atraer población."
+   },
+   {
+    "id": "teruel-0137",
+    "partido": "teruel",
+    "titular": "Eximir del IBI y rebajar ITP e IRPF en pueblos despoblados",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- **Fiscalidad diferenciada positiva.** En localidades de menos de 5.000 habitantes de zonas afectadas por la despoblación, los residentes y propietarios de rentas bajas y medias podrán quedar exentos del IBI si utilizan o alquilan sus viviendas y ver reducido en un 80 % el impuesto de transmisiones patrimoniales al comprar vivienda. El Estado compensará a cada administración local los ingresos que deje de percibir por las exenciones de IBI. Igualmente, a estos residentes se les podrá reducir en un 25% la cuota del IRPF."
+   }
+  ]
+ },
+ {
+  "eje": "eje-capital",
+  "pregunta": "¿Cómo deben tributar las rentas del capital?",
+  "posiciones": [
+   {
+    "id": "igualar-subir",
+    "nombre": "Subirlas o igualarlas a las del trabajo"
+   },
+   {
+    "id": "bajar",
+    "nombre": "Bajarlas o dar ventajas fiscales al ahorro"
+   }
+  ],
+  "n": 22,
+  "palabras": 1974,
+  "candidatos": [
+   {
+    "id": "podemos-0040",
+    "partido": "podemos",
+    "titular": "Hacer estatal y permanente el impuesto a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "30. **Impuesto a las Grandes Fortunas.** Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen. Para ello reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal permanente con idénticas características que el Impuesto del Patrimonio. Modificaremos la normativa básica de ambos impuestos para que las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patrimonio pase de 100 millones de euros."
+   },
+   {
+    "id": "podemos-0043",
+    "partido": "podemos",
+    "titular": "Crear una banca pública que integre ICO, CDTI y ENISA",
+    "marca_actual": [],
+    "texto": "33. **Creación de una Banca Pública.** Crearemos una Banca Pública a la que se integrarán todos los recursos y la estructura del ICO, CDTI y ENISA, que será con la que operen las administraciones públicas en exclusiva, con el fin de atraer ahorro y orientarlo a la creación de empleo estable y de calidad."
+   },
+   {
+    "id": "podemos-0049",
+    "partido": "podemos",
+    "titular": "Acabar con el mercado marginalista y crear una factura de la luz progresiva",
+    "marca_actual": [],
+    "texto": "39. **Reforma completa del mercado eléctrico para pagar el MWh según su coste de producción y acabar con los beneficios caídos del cielo.** Implementación, asimismo, de una factura de la luz progresiva, en la cual los primeros tramos de energía consumida tengan un coste menor que los tramos más altos, introduciendo así no solamente un criterio de justicia social, sino también incentivando el ahorro y la eficiencia, al tiempo que se penaliza el derroche y el gasto excesivo. En las facturas más bajas, el término fijo no superará nunca el 25% del total de la factura. Ambas medidas, además de introducir los incentivos apropiados para acelerar la transición energética, tendrán un efecto muy importante de bajada de la factura de la luz para la mayoría de las familias trabajadoras. Acabar con el mercado marginalista, además, no solamente serviría para abaratar significativamente el precio de la energía para el consumidor final y reducir los beneficios injustificados y obscenos de las grandes empresas del oligopolio; también situaría los incentivos y las señales de precio adecuadas para el fomento de las energías renovables, hoy en día con un menor coste de producción como la fotovoltaica."
+   },
+   {
+    "id": "podemos-0057",
+    "partido": "podemos",
+    "titular": "Tipo mínimo de Sociedades del 19 %, y del 29 % en oligopolios",
+    "marca_actual": [],
+    "texto": "47. **Reforma del impuesto de sociedades para que las grandes empresas y los oligopolios paguen lo que les corresponde.** Reformaremos el impuesto de sociedades para aumentar su capacidad recaudatoria, evitar la regresividad fiscal y combatir la ingeniería fiscal de las grandes corporaciones. Elevaremos el tipo efectivo mínimo general del 15 % al 19 %, calculándolo sobre los beneficios reales y no sobre la base imponible, y estableceremos para las empresas que operen en régimen de oligopolio un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %. Además, cerraremos las vías de elusión fiscal mediante la reforma del régimen de exención por doble imposición, condicionando su aplicación a que los beneficios hayan tributado en el extranjero a un tipo efectivo mínimo del 19 %; reduciremos del 95 % al 80 % la exención de dividendos y plusvalías procedentes de filiales; limitaremos a tres años la compensación de bases imponibles negativas de ejercicios anteriores, y restringiremos la aplicación de créditos fiscales a un máximo anual del 20 % de la cuota líquida, para impedir que las grandes empresas reduzcan artificialmente su factura fiscal y tributen muy por debajo de los tipos establecidos."
+   },
+   {
+    "id": "podemos-0059",
+    "partido": "podemos",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "49. **Equiparación fiscal de las rentas del capital y del trabajo.** Reformaremos el IRPF para equiparar progresivamente, en un plazo máximo de una legislatura, los tipos impositivos de los rendimientos del capital a los de los rendimientos del trabajo, poniendo fin al trato fiscal más favorable de las rentas procedentes del patrimonio frente a las obtenidas mediante el trabajo. Avanzaremos así hacia un sistema fiscal más justo y redistributivo."
+   },
+   {
+    "id": "podemos-0335",
+    "partido": "podemos",
+    "titular": "Auditar y eliminar las ayudas públicas a los combustibles fósiles",
+    "marca_actual": [],
+    "texto": "317. **Que el dinero público deje de financiar la crisis climática.** Mientras la inversión mundial en energías limpias ha alcanzado la cifra récord de 2,2 billones de dólares según la Agencia Internacional de la Energía, el Fondo Monetario Internacional (FMI) cifra el apoyo total a la industria fósil en unos 7 billones de dólares anuales. Pondremos en marcha una auditoría oficial de todas las ayudas, subvenciones, beneficios fiscales y mecanismos de financiación pública destinados a la industria de los combustibles fósiles. Publicaremos sus resultados y aprobaremos un plan para eliminar progresivamente estas ayudas y redirigir los recursos hacia las energías renovables, el ahorro energético y una transición ecológica justa. El dinero público debe servir para proteger el planeta y mejorar la vida de la gente, no para sostener un modelo energético que agrava la emergencia climática y sus consecuencias sobre la salud. Ni un euro público para alimentar la crisis climática."
+   },
+   {
+    "id": "podemos-0349",
+    "partido": "podemos",
+    "titular": "Financiar al 100 % placas y rehabilitación energética para rentas bajas",
+    "marca_actual": [],
+    "texto": "331. **Inversión 100% pública y municipal de placas fotovoltaicas y rehabilitación energética de viviendas en edificios y viviendas particulares de ingresos medios bajos, así como un plan de subvenciones para eliminar las instalaciones domésticas de gas natural.** Se llevará a cabo un plan integral que perseguirá dos importantísimos objetivos al mismo tiempo: la reducción de la factura energética de las familias y la descarbonización del consumo energético doméstico. Este plan constará al menos de las siguientes vertientes:\n - Las familias vulnerables tienen dificultades para la instalación de placas fotovoltaicas por la inversión inicial a realizar, y a pesar de las subvenciones públicas existentes, su coste económico sigue siendo considerable. Por ejemplo, actualmente los particulares pueden subvencionar aproximadamente entre un 30 y un 40% del coste de instalaciones fotovoltaicas. Por ello, una medida tanto de ahorro energético como de política social es la creación de un fondo de financiación para municipios que permita la **financiación al 100% del coste de instalación de placas en barrios vulnerables y/o para familias de ingresos bajos**. Las actuaciones las llevará a cabo directamente la administración pública, lo cual garantizaría la ausencia de cuellos de botella burocráticos. Al garantizarse que se van a producir las reformas, el plan liderará la creación de empleo en pymes locales y entidades de la economía social, fortaleciendo un sector emergente de nuestra economía. La instalación y el mantenimiento de estas podrá realizarse por pequeñas y medianas empresas que colaboren en la formación en este sector. Así, se establecerán convenios de colaboración y prácticas con centros de formación profesional trabajando en este ámbito, para que así esta política pública ayude al fomento de la formación en el sector. Ello no quita el mantenimiento de programas de subvenciones para propietarios con mayor capacidad financiera, con el objetivo de acelerar la transición.\n - Exactamente lo mismo se hará con la **rehabilitación energética de viviendas**.\n - **Plan de subvenciones y créditos blandos para sustituir las instalaciones domésticas de gas natural**. Se llevará a cabo un plan de subvenciones y créditos blandos para sustituir la tecnología de gas natural doméstico por otras tecnologías electrificadas y/o no dependientes del gas, como las calderas eléctricas, las cocinas de inducción o la aerotermia y las bombas de calor. Esta situación de crisis es un buen momento para avanzar en esa dirección al tiempo que se evita el impacto negativo en la economía doméstica. En el medio plazo, se facilitará y financiará la instalación de sistemas centralizados de calefacción por barrios, de titularidad pública, como por ejemplo los que existen a día de hoy en Dinamarca, facilitando un cambio tecnológico transparente para las personas usuarias finales y beneficiándonos de la economía de escala que conlleva un ahorro económico desde el principio frente a las calderas individuales."
+   },
+   {
+    "id": "adelante-0009",
+    "partido": "adelante",
+    "titular": "Revolución fiscal: impuesto a grandes fortunas e IRPF más alto desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "7. **Revolución fiscal: que pague más quien más tiene** — Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.\nSe desarrolla en el programa: Propuestas 232, 233 y 236 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0227",
+    "partido": "adelante",
+    "titular": "Bonos de deuda para financiar vivienda pública en alquiler",
+    "marca_actual": [],
+    "texto": "180. **Bonos de vivienda pública** — Títulos de deuda que cualquier persona pueda comprar, dedicados solo a construir o adquirir vivienda pública en alquiler. _Porque así se puede financiar vivienda pública con el ahorro de la ciudadanía._"
+   },
+   {
+    "id": "adelante-0282",
+    "partido": "adelante",
+    "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "232. **IRPF más progresivo** — Rebaja para las rentas más bajas y tipos mucho más altos a partir de 100.000 euros al año, menos deducciones para las rentas altas y rentas del capital que tributen al menos como las del trabajo. _Porque quien más gana debe aportar más, y el trabajo no puede pagar más que el capital._"
+   },
+   {
+    "id": "adelante-0283",
+    "partido": "adelante",
+    "titular": "Impuesto sobre la riqueza y la tierra que sustituya a Patrimonio",
+    "marca_actual": [],
+    "texto": "233. **Impuesto sobre la riqueza y la tierra** — Sustituye a Patrimonio y grava las grandes fortunas, la gran propiedad inmobiliaria y los latifundios. _Porque la riqueza está cada vez más concentrada y apenas tributa._"
+   },
+   {
+    "id": "adelante-0284",
+    "partido": "adelante",
+    "titular": "Tributación mínima común en sucesiones y donaciones contra el dumping fiscal",
+    "marca_actual": [],
+    "texto": "234. **Suelo común en sucesiones y donaciones** — Tributación mínima en todo el Estado para acabar con el dumping fiscal entre comunidades. _Porque algunas comunidades bajan este impuesto para atraer grandes fortunas._"
+   },
+   {
+    "id": "adelante-0293",
+    "partido": "adelante",
+    "titular": "Impuesto de salida a grandes fortunas que trasladen su residencia fiscal",
+    "marca_actual": [],
+    "texto": "243. **Impuesto de salida** — Tributación de las grandes fortunas que trasladen su residencia fiscal fuera de España. _Porque no se puede ganar dinero aquí y huir a otro país para no pagar impuestos._"
+   },
+   {
+    "id": "bng-0231",
+    "partido": "bng",
+    "titular": "Diagnóstico: el sistema fiscal penaliza las rentas del trabajo frente al capital",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "Existe unha penalización fiscal das rendas do traballo fronte ás do capital. Por iso, en tanto non acadarmos un modelo de financiamento adecuado para o noso país que nos capacite para regular e recadar todos os impostos, defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas, porque o sistema actual discrimina as persoas cuxa principal fonte de ingresos é o traballo.\n\nEn primeiro lugar, a respecto do Imposto sobre a Renda das Persoas Físicas (IRPF), consideramos preciso:"
+   },
+   {
+    "id": "bng-0234",
+    "partido": "bng",
+    "titular": "Gravar menos las rentas del trabajo y más las del capital",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "- Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital."
+   },
+   {
+    "id": "bng-0248",
+    "partido": "bng",
+    "titular": "Blindar los impuestos a banca, grandes energéticas y grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Blindar a permanencia dos impostos específicos aos beneficios da banca, das grandes enerxéticas e ás grandes fortunas, reducir os límites de exención, aumentar a súa progresividade e traspasar a súa xestión á Galiza."
+   },
+   {
+    "id": "erc-0095",
+    "partido": "erc",
+    "titular": "Subir al 35 % el IRPF del capital y bajarlo bajo 35.000 euros",
+    "marca_actual": [
+     "igualar-subir"
+    ],
+    "texto": "69. Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros per augmentar els recursos disponibles i la capacitat adquisitiva de la classe treballadora."
+   },
+   {
+    "id": "erc-0103",
+    "partido": "erc",
+    "titular": "Hacer permanente el impuesto a grandes fortunas con un tramo nuevo desde 100 millones",
+    "marca_actual": [],
+    "texto": "74. Fiscalitat dels multimilionaris. Fer permanent l’impost temporal de solidaritat de les grans fortunes, augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros."
+   },
+   {
+    "id": "cnv-0001",
+    "partido": "cnv",
+    "titular": "Presentación: soberanismo de centro y «bon govern» para Cataluña",
+    "marca_actual": [],
+    "texto": "Convergents és una força sobiranista que aglutina idees de centre ampli i defensa el dret a decidir del poble català d’una manera ferma i sense fissures. Un partit que reconeix com a Pàtria pròpia la catalana i com a bandera la senyera. Som hereus naturals de Convergència Democràtica de Catalunya, i, com a tals, continuadors del llegat polític que va construir la Catalunya moderna dels darrers 50 anys a través d’una basta obra de govern.\n\nCatalunya viu un moment crucial.\n\nEns trobem davant una cruïlla històrica on la societat catalana reclama, més que mai, respecte, reconeixement i responsabilitat. Després d’anys de judicialització del conflicte polític i d’una gestió marcada per la confrontació estèril, la tensió i la improvisació, el país necessita una nova manera de fer política: valenta en la defensa dels drets nacionals, però també rigorosa, dialogant i orientada als resultats. És hora de fer compatible l’ambició sobiranista amb el “bon govern”: hem de ser presents a les taules estatals i europees on es decideixi el nostre futur, i, alhora, hem de continuar exigint polítiques com la desaparició dels impostos de patrimoni, successions i donacions."
+   },
+   {
+    "id": "cnv-0088",
+    "partido": "cnv",
+    "titular": "Eliminar los impuestos de Sucesiones, Donaciones y Patrimonio",
+    "marca_actual": [],
+    "texto": "- Defensarem l’eliminació dels imposts de Successions, Donacions i Patrimoni."
+   },
+   {
+    "id": "bildu-0097",
+    "partido": "bildu",
+    "titular": "Aumentar el impuesto a la banca y a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas."
+   },
+   {
+    "id": "teruel-0101",
+    "partido": "teruel",
+    "titular": "Actualizar los planes de sequía y reutilizar caudales depurados",
+    "marca_actual": [],
+    "texto": "- **Sequía.** Actualizar los planes de sequía, ahorro en todos los usos, mejor depuración para reutilizar caudales, separación progresiva de redes de pluviales y residuales, y microactuaciones de regulación."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sociedades",
+  "pregunta": "¿Qué hacer con el Impuesto de Sociedades?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo"
+   },
+   {
+    "id": "subir",
+    "nombre": "Subirlo o fijar un mínimo efectivo más alto"
+   }
+  ],
+  "n": 34,
+  "palabras": 1562,
+  "candidatos": [
+   {
+    "id": "podemos-0041",
+    "partido": "podemos",
+    "titular": "Hacer permanentes los gravámenes a la banca y a las eléctricas",
+    "marca_actual": [],
+    "texto": "31. **Hacer permanentes los gravámenes a la banca y a las eléctricas.** Estableceremos un impuesto permanente sobre los beneficios extraordinarios de la gran banca, de forma que al menos el 50 % de sus beneficios revierta en las arcas públicas. Además, exigiremos a las entidades financieras la devolución íntegra del dinero público destinado a su rescate. En el caso de las grandes empresas eléctricas y petroleras, recuperaremos íntegramente los beneficios adicionales obtenidos durante las sucesivas crisis energéticas. Así, toda ganancia que supere los beneficios de referencia previos a las crisis energéticas contribuirá a las arcas públicas, impidiendo que las grandes empresas conviertan las crisis en una oportunidad para enriquecerse a costa de la ciudadanía."
+   },
+   {
+    "id": "podemos-0057",
+    "partido": "podemos",
+    "titular": "Tipo mínimo de Sociedades del 19 %, y del 29 % en oligopolios",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "47. **Reforma del impuesto de sociedades para que las grandes empresas y los oligopolios paguen lo que les corresponde.** Reformaremos el impuesto de sociedades para aumentar su capacidad recaudatoria, evitar la regresividad fiscal y combatir la ingeniería fiscal de las grandes corporaciones. Elevaremos el tipo efectivo mínimo general del 15 % al 19 %, calculándolo sobre los beneficios reales y no sobre la base imponible, y estableceremos para las empresas que operen en régimen de oligopolio un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %. Además, cerraremos las vías de elusión fiscal mediante la reforma del régimen de exención por doble imposición, condicionando su aplicación a que los beneficios hayan tributado en el extranjero a un tipo efectivo mínimo del 19 %; reduciremos del 95 % al 80 % la exención de dividendos y plusvalías procedentes de filiales; limitaremos a tres años la compensación de bases imponibles negativas de ejercicios anteriores, y restringiremos la aplicación de créditos fiscales a un máximo anual del 20 % de la cuota líquida, para impedir que las grandes empresas reduzcan artificialmente su factura fiscal y tributen muy por debajo de los tipos establecidos."
+   },
+   {
+    "id": "podemos-0058",
+    "partido": "podemos",
+    "titular": "Subir el IRPF a las rentas de más de 60.000 euros",
+    "marca_actual": [],
+    "texto": "48. **Reforma del IRPF para que las rentas más altas contribuyan más.** Reformaremos la escala estatal del IRPF sobre la base imponible general para reforzar la progresividad fiscal, reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales: un 23 % entre 60.000 y 99.000 € un 24 % entre 100.000 y 199.999 euros; un 25,5 % entre 200.000 y 299.999 euros; un 27 % entre 300.000 y 499.999 euros, y un 28,5 % a partir de 500.000 euros. Llevaremos a cabo una reforma para que los perceptores de rentas inferiores al SMI no tributen ni sean objeto de retención."
+   },
+   {
+    "id": "podemos-0067",
+    "partido": "podemos",
+    "titular": "Eliminar el régimen fiscal de las SOCIMIS",
+    "marca_actual": [],
+    "texto": "57. **Eliminar el régimen fiscal de las SOCIMIS.** Las SOCIMIS pasarán a tributar por el impuesto de sociedades como cualquier entidad, además de tener que afrontar el nuevo Impuesto del Patrimonio Inmobiliario de las Personas Jurídicas, con el objetivo de que pongan a la venta su parque de viviendas."
+   },
+   {
+    "id": "adelante-0014",
+    "partido": "adelante",
+    "titular": "Impuesto a los beneficios de la sanidad privada por conciertos para investigar el cáncer",
+    "marca_actual": [],
+    "texto": "12. **Que la sanidad privada devuelva lo que gana con lo público** — Un impuesto sobre los beneficios que la sanidad privada obtiene de los conciertos, destinado íntegramente a la investigación pública contra el cáncer.\nSe desarrolla en el programa: Propuesta 242 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0285",
+    "partido": "adelante",
+    "titular": "Impuesto de Sociedades progresivo: tipo reducido a pymes y creciente a grandes",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "235. **Sociedades progresivo** — Tipo reducido para las pymes pequeñas, tipos crecientes para las grandes empresas y fin de las deducciones salvo la reinversión ecosocial. _Porque las grandes empresas pagan proporcionalmente menos que las pequeñas._"
+   },
+   {
+    "id": "adelante-0286",
+    "partido": "adelante",
+    "titular": "Impuestos permanentes a los beneficios extraordinarios de banca y energéticas",
+    "marca_actual": [],
+    "texto": "236. **Impuestos permanentes a banca y eléctricas** — Gravamen estable sobre los beneficios extraordinarios de la banca y de las energéticas. _Porque la banca y las eléctricas ganan fortunas cuando las familias lo pasan peor._"
+   },
+   {
+    "id": "adelante-0287",
+    "partido": "adelante",
+    "titular": "Impuesto a los beneficios extraordinarios de la gran distribución alimentaria",
+    "marca_actual": [],
+    "texto": "237. **Impuesto a los beneficios extraordinarios de la gran distribución** — Gravamen sobre las grandes cadenas de alimentación mientras la cesta básica siga disparada. _Porque las grandes cadenas han ganado mucho con la subida de los precios de la comida._"
+   },
+   {
+    "id": "adelante-0288",
+    "partido": "adelante",
+    "titular": "Grandes empresas tributarán donde generan actividad y empleo, no en su sede",
+    "marca_actual": [],
+    "texto": "238. **Si ganas aquí, pagas aquí** — Las grandes empresas tributarán en proporción a la actividad y el empleo que generan en cada territorio, no según su sede social, para acabar con el efecto capitalidad que se lleva a Madrid lo que se produce en Andalucía, y sin subvenciones a quien no lo haga. También las grandes cadenas hoteleras, que tributarán en Andalucía por lo que ganan en Andalucía. _Porque los beneficios que se generan en Andalucía tributan hoy donde está la sede, casi siempre en Madrid._"
+   },
+   {
+    "id": "adelante-0292",
+    "partido": "adelante",
+    "titular": "Impuesto a los beneficios de la sanidad privada con conciertos",
+    "marca_actual": [],
+    "texto": "242. **Impuesto de retorno sanitario** — Gravamen a los beneficios de la sanidad privada obtenidos con conciertos, destinado a la investigación pública contra el cáncer. _Porque quien hace negocio con la sanidad pública debe devolver parte del beneficio._"
+   },
+   {
+    "id": "adelante-0361",
+    "partido": "adelante",
+    "titular": "Que las plataformas digitales tributen donde operan y limitar sus comisiones",
+    "marca_actual": [],
+    "texto": "310. **Plataformas que tributen y no abusen** — Las plataformas digitales tributan donde operan y sus comisiones a los pequeños negocios quedan limitadas. _Porque las grandes plataformas apenas pagan impuestos y cobran comisiones abusivas._"
+   },
+   {
+    "id": "bng-0237",
+    "partido": "bng",
+    "titular": "Introducción a las medidas sobre el Impuesto de Sociedades",
+    "marca_actual": [],
+    "texto": "A respecto do Imposto sobre Sociedades (IS), propoñemos impulsar as seguintes medidas:"
+   },
+   {
+    "id": "bng-0238",
+    "partido": "bng",
+    "titular": "Obligar a tributar en Galicia a las empresas que operan allí",
+    "marca_actual": [],
+    "texto": "- Deber de tributación en Galiza de todas as empresas que exercen a súa actividade no noso país e sitúan o seu domicilio social noutras partes do Estado."
+   },
+   {
+    "id": "bng-0239",
+    "partido": "bng",
+    "titular": "Hacer progresivo el Impuesto de Sociedades según el tamaño de la empresa",
+    "marca_actual": [],
+    "texto": "- Estabelecer a súa progresividade en función da dimensión da empresa."
+   },
+   {
+    "id": "bng-0240",
+    "partido": "bng",
+    "titular": "Deducciones en Sociedades inversamente proporcionales a los tipos soportados",
+    "marca_actual": [],
+    "texto": "- Aplicar deducións inversamente proporcionais aos tipos de gravame soportados."
+   },
+   {
+    "id": "bng-0241",
+    "partido": "bng",
+    "titular": "Ampliar del 10 % al 25 % la reserva de capitalización de las pymes",
+    "marca_actual": [],
+    "texto": "- Aplicar un incremento da porcentaxe de redución da base impoñíbel do IS do 10 % ao 25 %, pola denominada reserva de capitalización ás entidades de reducida dimensión ou PEMES, premiando a non-distribución dos beneficios, para que as empresas se capitalicen cos seus propios beneficios en lugar de recorreren ao financiamento externo, reducindo a súa débeda."
+   },
+   {
+    "id": "bng-0242",
+    "partido": "bng",
+    "titular": "Deducciones adicionales para empresas de sectores estratégicos gallegos",
+    "marca_actual": [],
+    "texto": "- Estabelecer deducións adicionais para empresas cuxa actividade complemente ciclos produtivos inseridos nos sectores estratéxicos galegos."
+   },
+   {
+    "id": "bng-0248",
+    "partido": "bng",
+    "titular": "Blindar los impuestos a banca, grandes energéticas y grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Blindar a permanencia dos impostos específicos aos beneficios da banca, das grandes enerxéticas e ás grandes fortunas, reducir os límites de exención, aumentar a súa progresividade e traspasar a súa xestión á Galiza."
+   },
+   {
+    "id": "bng-0483",
+    "partido": "bng",
+    "titular": "Gravar el valor que obtienen las multinacionales tecnológicas de la sociedad",
+    "marca_actual": [],
+    "texto": "O modelo de negocio das multinacionais tecnolóxicas xera inxentes beneficios privados a partir de recursos e información que proceden do conxunto da sociedade. Cómpre estabelecer mecanismos fiscais e de control que garantan unha xusta redistribución de devandito valor e axuden a financiar as nosas propias infraestruturas públicas."
+   },
+   {
+    "id": "bng-0484",
+    "partido": "bng",
+    "titular": "Gravar el negocio de extracción masiva de datos según los usuarios de cada territorio",
+    "marca_actual": [],
+    "texto": "- Fiscalidade do capitalismo de vixilancia. Promover no marco estatal e europeo a tributación do negocio baseado na extracción masiva de datos, gravando esta actividade segundo o volume real de persoas usuarias en cada territorio."
+   },
+   {
+    "id": "bng-0485",
+    "partido": "bng",
+    "titular": "Transferir a las comunidades la recaudación de los impuestos tecnológicos",
+    "marca_actual": [],
+    "texto": "- Retorno fiscal ás comunidades. Reclamar que a recadación derivada destes impostos tecnolóxicos se transfira ás comunidades para financiar infraestruturas dixitais públicas, servizos de interese xeral e espazos de datos en man común."
+   },
+   {
+    "id": "bng-0486",
+    "partido": "bng",
+    "titular": "Medidas estrictas contra la elusión fiscal de las grandes plataformas",
+    "marca_actual": [],
+    "texto": "- Tributación efectiva contra a elusión. Defender medidas estritas contra a enxeñaría fiscal e a concentración de beneficios das grandes plataformas, obrigándoas a contribuír de forma xusta aos servizos públicos dos territorios onde operan."
+   },
+   {
+    "id": "erc-0072",
+    "partido": "erc",
+    "titular": "Presupuesto europeo ambicioso y descentralizado con un impuesto digital a grandes plataformas",
+    "marca_actual": [],
+    "texto": "52. Apostar per un pressupost europeu ambiciós i descentralitzat. Exigir a l’Estat espanyol que, durant les negociacions per al Marc Financer Pluriennal (MFP), defensi el principi de governança multinivell, un pilar fonamental per a la política de cohesió europea durant dècades, i s’oposi a la recentralització de programes gestionats per autoritats locals i de territoris com Catalunya. A més, Esquerra Republicana aposta per un pressupost europeu ambiciós, que pugui fer front a reptes compartits en matèria de canvi climàtic, competitivitat o reindustrialització, i que disposi de noves fonts d’ingressos propis europeus, com ara un impost digital dirigit a les grans plataformes tecnològiques."
+   },
+   {
+    "id": "erc-0104",
+    "partido": "erc",
+    "titular": "Recuperar el impuesto a las grandes energéticas",
+    "marca_actual": [],
+    "texto": "75. Recuperar l’impost a les grans energètiques, consolidant la tributació dels beneficis i establint exempcions per incentivar la inversió en transició energètica. Cal transformar la fiscalitat de l’Estat cap a un model redistributiu que garanteixi que tothom pugui fer front al cost de la vida i orientat a impulsar la transició ecològica."
+   },
+   {
+    "id": "erc-0105",
+    "partido": "erc",
+    "titular": "Convertir el impuesto extraordinario a la banca en permanente",
+    "marca_actual": [],
+    "texto": "76. Convertir l’impost extraordinari a la banca en un tribut permanent. Cal assegurar que, de forma estructural, els qui més guanyen, més paguin."
+   },
+   {
+    "id": "erc-0107",
+    "partido": "erc",
+    "titular": "Fiscalidad europea coordinada para las grandes corporaciones digitales",
+    "marca_actual": [],
+    "texto": "78. Avançar cap a una fiscalitat justa i coordinada a escala europea per a les grans corporacions digitals, assegurant que tributin de manera justa pels ingressos que generen, combatent l’elusió fiscal i les pràctiques que permeten deslocalitzar beneficis."
+   },
+   {
+    "id": "erc-0151",
+    "partido": "erc",
+    "titular": "Ampliar los gastos deducibles en el IRPF de los autónomos",
+    "marca_actual": [],
+    "texto": "116. Avançar cap a una fiscalitat més justa per als autònoms. Ampliar les despeses fiscalment deduïbles a l’IRPF vinculades a l’activitat econòmica, especialment les relacionades amb el vehicle professional, els subministraments i l’ús de l’habitatge habitual com a lloc de treball, establint criteris clars que en facilitin la justificació. Paral·lelament, reforçar la progressivitat de l’impost sobre societats, amb criteris de dimensió empresarial i capacitat econòmica."
+   },
+   {
+    "id": "cnv-0077",
+    "partido": "cnv",
+    "titular": "Bonificaciones fiscales para multinacionales que se instalen en Cataluña",
+    "marca_actual": [],
+    "texto": "- Establirem un pla de bonificacions fiscals per a empreses multinacionals que s'estableixin a Catalunya."
+   },
+   {
+    "id": "cnv-0084",
+    "partido": "cnv",
+    "titular": "Ceder el Impuesto de Sociedades con deducciones reforzadas para I+D+i",
+    "marca_actual": [],
+    "texto": "- Proposarem la cessió i gestió de l’Impost de Societats, amb deduccions reforçades per a projectes d’R+D+I."
+   },
+   {
+    "id": "cnv-0089",
+    "partido": "cnv",
+    "titular": "Limitar la presión fiscal efectiva de pymes y autónomos frente a grandes empresas",
+    "marca_actual": [],
+    "texto": "- Proposarem una fiscalitat més justa per a PIMES i autònoms, amb límits a la pressió fiscal efectiva, evitant que puguin arribar a pagar tipus impositius efectius superiors als de les grans empreses."
+   },
+   {
+    "id": "bildu-0096",
+    "partido": "bildu",
+    "titular": "Recuperar y hacer permanente el impuesto a las energéticas",
+    "marca_actual": [],
+    "texto": "- Recuperar el impuesto a la energéticas que PNV, UPN, PP, VOX y JUNTS tumbaron, haciéndolo permanente. El impuesto se concertará con nuestras haciendas para que nuestras instituciones gestionen y recauden el impuesto."
+   },
+   {
+    "id": "bildu-0097",
+    "partido": "bildu",
+    "titular": "Aumentar el impuesto a la banca y a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas."
+   },
+   {
+    "id": "bildu-0098",
+    "partido": "bildu",
+    "titular": "Crear un impuesto sobre los beneficios de las grandes distribuidoras alimentarias",
+    "marca_actual": [],
+    "texto": "- Aprobar un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias, concertado con las haciendas forales para su gestión y recaudación."
+   },
+   {
+    "id": "bildu-0130",
+    "partido": "bildu",
+    "titular": "Gravar de forma permanente los beneficios extraordinarios de las energéticas",
+    "marca_actual": [],
+    "texto": "- Captura de beneficios extraordinarios: Articular un mecanismo permanente que grave los beneficios extraordinarios o windfall profits de las grandes corporaciones energéticas, tanto las vinculadas a los precios altos de la electricidad como los márgenes extraordinarios en el sector fósil."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mercosur",
+  "pregunta": "¿Qué hacer con el acuerdo UE-Mercosur?",
+  "posiciones": [
+   {
+    "id": "rechazar",
+    "nombre": "Rechazarlo o exigir cláusulas espejo"
+   },
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarlo"
+   },
+   {
+    "id": "salvaguardas",
+    "nombre": "Aplicarlo con salvaguardas y control"
+   }
+  ],
+  "n": 6,
+  "palabras": 545,
+  "candidatos": [
+   {
+    "id": "podemos-0119",
+    "partido": "podemos",
+    "titular": "Rechazar los tratados de libre comercio, incluido el acuerdo UE-Mercosur",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "106. **Rechazo de los tratados de libre comercio.** Nos opondremos a los acuerdos comerciales internacionales que antepongan los intereses de las grandes multinacionales a los derechos sociales, laborales y medioambientales. Seguiremos rechazando el actual acuerdo comercial entre la Unión Europea y Mercosur, así como promoveremos la revisión de acuerdos como el CETA entre la UE y Canadá. Asimismo, nos opondremos a iniciativas como el TTIP o TAFTA, negociado entre la UE y Estados Unidos, y el TiSA. Defendemos una política comercial justa y sostenible que garantice condiciones de competencia equitativas, proteja a las personas trabajadoras y al medioambiente, y subordine los intereses comerciales al bienestar de la ciudadanía."
+   },
+   {
+    "id": "podemos-0394",
+    "partido": "podemos",
+    "titular": "Exigir a las importaciones de terceros países los estándares de producción de la UE",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "376. **Establecer la obligación de que todos los productos que entren de terceros países se equiparen a los estándares de producción de la Unión Europea** en materia de bienestar animal, regulaciones de fitosanitarios, normativas medioambientales, estándares fiscales y laborales, etc. El no cumplimiento de estas condiciones deberá llevar o bien al rechazo de su entrada en el país o bien al establecimiento de aranceles cuyos importes se destinarían a un fondo de ayudas al sector afectado, instaurando en todo caso un control efectivo de las importaciones y rechazando la disminución de estándares que suponen los tratados de comercio neoliberales (TTIP, CETA, Euromed, Mercosur, etc.) que sitúan a nuestros agricultores y ganaderos autóctonos en una situación de competencia comercial desleal."
+   },
+   {
+    "id": "podemos-0421",
+    "partido": "podemos",
+    "titular": "Estrategia de alimentación vegetal y opción vegana diaria en comedores públicos",
+    "marca_actual": [],
+    "texto": "403. **Una alimentación más vegetal, saludable y respetuosa con los animales.** Aprobaremos una Estrategia Estatal para impulsar la alimentación vegetal y un Plan Nacional de Proteínas Vegetales que favorezca la producción, disponibilidad y consumo de estos alimentos. Garantizaremos diariamente una opción vegana nutricionalmente adecuada en los servicios públicos de restauración colectiva y desarrollaremos el Real Decreto 315/2025, formando al personal responsable de la planificación de menús. Integraremos las opciones vegetales completas y equilibradas en las políticas de salud pública, educación alimentaria y promoción de hábitos saludables. Equipararemos la fiscalidad de los alimentos vegetales sustitutivos a la de los productos a los que sustituyen y estableceremos un sistema de etiquetado claro y fiable que permita conocer las condiciones de bienestar animal en la producción de alimentos. Exigiremos asimismo cláusulas espejo en las importaciones para que los productos procedentes de terceros países cumplan estándares equivalentes de bienestar animal a los establecidos en la Unión Europea."
+   },
+   {
+    "id": "adelante-0384",
+    "partido": "adelante",
+    "titular": "Cláusulas espejo en los acuerdos comerciales para las importaciones",
+    "marca_actual": [],
+    "texto": "333. **Las mismas reglas para lo que viene de fuera** — Cláusulas espejo en los acuerdos comerciales para que las importaciones cumplan las mismas exigencias laborales, sanitarias y ambientales que nuestro campo. _Porque no es justo exigir a nuestro campo lo que no se exige a lo que viene de fuera._"
+   },
+   {
+    "id": "bng-0270",
+    "partido": "bng",
+    "titular": "Rechazar acuerdos comerciales perjudiciales para el agro, en particular UE-Mercosur",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "- Rexeitamento de acordos comerciais multilaterais prexudiciais para o sector agrario de Galiza, en particular o UE-Mercosur polos enormes prexuízos ás explotacións agrarias galegas que non poderán competir coa entrada masiva de producións agrogandeiras e polo grave problema para as persoas consumidoras pola falla de garantías das condicións da produción nos países do Mercosur."
+   },
+   {
+    "id": "erc-0198",
+    "partido": "erc",
+    "titular": "Rechazar la ratificación del acuerdo UE-Mercosur y exigir reciprocidad de normas",
+    "marca_actual": [
+     "rechazar"
+    ],
+    "texto": "157. Revertir els acords comercials lesius per a la sobirania alimentària i el sector primari català. El govern espanyol ha de rebutjar la ratificació de l’acord de lliure comerç UE-Mercosur i oposar-se a l’aplicació provisional mentre no es pronunciï el TJUE. Alhora, cal garantir clàusules de salvaguarda i reciprocitat de normes per als productes agroalimentaris importats en els tractats comercials."
+   }
+  ]
+ },
+ {
+  "eje": "eje-sedicion",
+  "pregunta": "¿Recuperar el delito de sedición?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, recuperarlo o endurecer esos delitos"
+   },
+   {
+    "id": "no",
+    "nombre": "No, o despenalizar delitos de opinión"
+   }
+  ],
+  "n": 5,
+  "palabras": 306,
+  "candidatos": [
+   {
+    "id": "adelante-0028",
+    "partido": "adelante",
+    "titular": "Derogar las leyes mordaza y los delitos de opinión del Código Penal",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "26. **Fuera las leyes mordaza** — Derogación de las leyes que persiguen la protesta y de los delitos de opinión del Código Penal.\nSe desarrolla en el programa: Propuestas 487 y 507 · Área 06 Instituciones limpias y libertades"
+   },
+   {
+    "id": "bng-0158",
+    "partido": "bng",
+    "titular": "Derogar los desórdenes públicos agravados y los delitos contra la libertad de expresión",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Derrogación do delito de desordes públicas agravadas, por limitar e afectar o libre exercicio dos dereitos fundamentais de reunión e manifestación, así como do resto de condutas tipificadas como delito que atentan directamente contra o dereito de liberdade de expresión (inxurias contra a Coroa, os Exércitos, as Forzas e Corpos de Seguranza, o Goberno e outras institucións do Estado, do escarnio de crenzas relixiosas ou das denominadas ofensas ou aldraxes aos símbolos nacionais, entre outros)."
+   },
+   {
+    "id": "erc-0009",
+    "partido": "erc",
+    "titular": "Suprimir los delitos de ofensa religiosa y de injurias a la Corona",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "3. Suprimir els delictes d’ofensa als sentiments religiosos i d’injúries i calúmnies contra la Corona i contra les assemblees legislatives. Eliminar del Codi Penal aquestes previsions que privilegien determinades persones i institucions per sobre d’altres. La seva presència en la legislació penal resulta contraria al principi d’igualtat davant la llei. Cal posar fi als tipus penals que s’usen per combatre la dissidència política i aplicar càstigs exemplars."
+   },
+   {
+    "id": "pnv-0178",
+    "partido": "pnv",
+    "titular": "Reformar los delitos de opinión sobre la Corona, las instituciones y los símbolos",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "3. Favorecer la reforma del Código Penal en los delitos relacionados con la expresión de opiniones sobre la Corona, las instituciones y los símbolos del Estado, adecuando la legislación a los estándares europeos de libertad de expresión."
+   },
+   {
+    "id": "bildu-0169",
+    "partido": "bildu",
+    "titular": "Despenalizar las críticas a la Corona, los sentimientos religiosos y el enaltecimiento",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Eliminar los delitos del código penal que restringen la libertad de expresión y opinión. Por ello propondremos despenalizar los artículos sobre las criticas a la corona y las instituciones del estado como los gobiernos o las fuerzas de seguridad; las que penalizan y censuran la critica a sentimientos religiosos, que amparan la censura ideológica frente a la religión; también los artículos sobre el enaltecimiento del terrorismo que permiten una interpretación tan amplia y subjetiva que supone la criminalización de expresiones artísticas, humorísticas o de critica política."
+   }
+  ]
+ }
+]

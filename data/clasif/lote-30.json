@@ -1,0 +1,3128 @@
+[
+ {
+  "id": "erc-0274",
+  "subtema": "inst-local",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Derogar la LRSAL y dar más flexibilidad presupuestaria a los ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0275",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Garantizar secretarios, interventores y tesoreros municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0276",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Diagnóstico: infrafinanciación crónica de universidades y centros de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0277",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Diagnóstico: precariedad en universidad e investigación y barreras de acceso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0278",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "En 2030, 1 % del PIB para universidades y 1,5 % para investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0279",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Mejorar condiciones laborales y plantillas de universidades e investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0280",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Reforzar la financiación basal de universidades y centros de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0281",
+  "subtema": "edu-universidad",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Competencias plenas de evaluación y acreditación universitaria para la AQU",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0282",
+  "subtema": "edu-universidad",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Eliminar el distrito único universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0283",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reformar la regulación de las prácticas académicas universitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0284",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Endurecer los requisitos para crear y reconocer universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Presentación: soberanismo de centro y «bon govern» para Cataluña",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "suprimir-bajar"
+   },
+   {
+    "eje": "eje-herencias",
+    "posicion": "suprimir-bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: derecho a decidir, amnistía, catalán y concierto económico",
+  "ejes": [
+   {
+    "eje": "eje-amnistia",
+    "posicion": "defender"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: educación, economía, inmigración ligada a integración y seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: Cataluña soberana con voz propia en una Europa federal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0005",
+  "subtema": "inst-territorial",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Soberanía nacional de Cataluña y concierto económico como el vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0006",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Condicionar el apoyo a partidos estatales a asumir sus propuestas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0007",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Defender el derecho de los catalanes a decidir su futuro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0008",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Proponer reconocer la Nación catalana y el Estado plurinacional en las Cortes",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0009",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Concierto económico para Cataluña como el del País Vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0010",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Hacer obligatorio el conocimiento del catalán reformando el Estatut",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0011",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Exigir la oficialidad del catalán en las instituciones europeas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0012",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Uso del catalán en todos los ámbitos, también en la Administración estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0013",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Acabar con la diferenciación entre valenciano y catalán en el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0014",
+  "subtema": "cultura",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspaso exclusivo de cultura a las comunidades y supresión del Ministerio de Cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0015",
+  "subtema": "seg-independencia-judicial",
+  "otros": [],
+  "titular": "Aplicar de forma efectiva y total la amnistía",
+  "ejes": [
+   {
+    "eje": "eje-amnistia",
+    "posicion": "defender"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0016",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Delegar en la Generalitat las competencias de inmigración, sanidad y enseñanza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0017",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Mossos y policía local como únicos cuerpos policiales de Cataluña en 4 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0018",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a la Generalitat los aeropuertos de interés general en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0019",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Ley para crear selecciones nacionales catalanas en todos los deportes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0020",
+  "subtema": "seg-independencia-judicial",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Crear el Consejo de Justicia de Cataluña por ley orgánica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0021",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Incorporar el escudo autonómico en las matrículas de vehículos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0022",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ley contra la ocupación ilegal: restitución en 48 horas, 24 si es primera vivienda",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0023",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Expulsar a inmigrantes en situación ilegal que hayan delinquido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0024",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "vivienda-derecho"
+  ],
+  "titular": "Familia en el centro de las políticas sociales y derecho a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0025",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: déficit de vivienda y rechazo a las ocupaciones ilegales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0026",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Sistema de bienestar eficiente, público y concertado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0027",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Cooperación público-privada con el tejido asociativo en servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0028",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Equidad como eje de las políticas sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0029",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Incorporar la perspectiva familiar a todas las políticas sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0030",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Frenar la pobreza energética con acuerdos con las compañías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0031",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Evitar desahucios hipotecarios con alquiler social acordado con entidades financieras",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0032",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Situar los derechos de la infancia en el centro ante la crisis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0033",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Recuperar competencias de la DGPPIA sobre extutelados y centros de menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0034",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Garantizar la seguridad de los menores tutelados con los órganos de control",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0035",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Adaptar las ayudas a familias vulnerables con hijos a cargo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0036",
+  "subtema": "fam-infancia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Accesibilidad universal para niños con enfermedad o discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0037",
+  "subtema": "seg-penal",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Hacer imprescriptibles los abusos sexuales infantiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0038",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Prevenir el abuso, el maltrato y la violencia sobre la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0039",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Proyecto de Ley de las Personas Mayores contra el maltrato y la discriminación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0040",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Viviendas compartidas con servicios 24 horas para mayores autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0041",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Adecuar las pensiones por acuerdo en el Pacto de Toledo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0042",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Criterio «base 100»: pensión completa desde los 60 sumando edad y cotización",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0043",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Suprimir coeficientes reductores en jubilación anticipada con 40 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0044",
+  "subtema": "seg-penal",
+  "otros": [
+   "fam-mayores",
+   "seg-justicia"
+  ],
+  "titular": "Endurecer penas por delitos contra mayores y especializar juzgados y fiscalías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0045",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Priorizar formación, empleo y menos precariedad laboral de los jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0046",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Reformar los contratos en prácticas y de formación y aprendizaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0047",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Mejorar la información a los jóvenes sobre el mercado de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0048",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Vivienda para la emancipación juvenil en compra, alquiler o cesión de uso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0049",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Medidas para el retorno de jóvenes que emigraron a estudiar o trabajar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0050",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Impulsar la educación en el ocio, el voluntariado y el asociacionismo juvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0051",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Más recursos para el empleo en Centros Especiales de Trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0052",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Resolver en 6 meses el grado de discapacidad y de dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0053",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Crear orientadores que acompañen a personas con discapacidad y sus familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0054",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Financiar la dependencia según el mayor coste de vida de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0055",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Aumentar mínimos personales y deducciones del IRPF por discapacidad",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0056",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Rebajar la edad de jubilación de las personas con discapacidad",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0057",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Reducir el periodo mínimo de cotización según la menor esperanza de vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0058",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Reservar vivienda protegida para personas con discapacidad intelectual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0059",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Construir vivienda protegida y rehabilitar edificios vacíos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0060",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Cubrir desde las administraciones la vivienda de familias vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0061",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Fomentar vivienda asequible en zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0062",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Acuerdos con la Sareb y grandes tenedores para destinar pisos vacíos a alquiler asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0063",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Colaboración público-privada en vivienda con incentivos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0064",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Controlar que la vivienda protegida mantenga su función social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0065",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Préstamos bonificados e incentivos fiscales a promotores de vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0066",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Revisar la fiscalidad de las SOCIMI para vincularlas a vivienda asequible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0067",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Bajar al 10 % el IVA de la cesión de suelo para vivienda social",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0068",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Derogar la Ley 12/2023 por el derecho a la vivienda",
+  "ejes": [
+   {
+    "eje": "eje-ley-vivienda",
+    "posicion": "derogar"
+   },
+   {
+    "eje": "eje-alquiler",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0069",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Financiación pública con préstamos bonificados para promotores privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0070",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Elevar los fondos estatales de vivienda al 0,6 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0071",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ceder a la Generalitat inmuebles estatales en desuso para vivienda social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0072",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Reformar el Código Penal contra la ocupación delincuencial y las redes mafiosas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0073",
+  "subtema": "eco-modelo",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Economía social de mercado, fiscalidad propia y prioridad a las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0074",
+  "subtema": "eco-modelo",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Impulso a la industria, el comercio de proximidad y el turismo de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0075",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-modelo"
+  ],
+  "titular": "Redistribuir el esfuerzo fiscal a favor de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0076",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "residuos"
+  ],
+  "titular": "Crear el Consejo de la Economía Social y Solidaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0077",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Bonificaciones fiscales para multinacionales que se instalen en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0078",
+  "subtema": "imp-verdes",
+  "otros": [
+   "imp-modelo"
+  ],
+  "titular": "Criterios de sostenibilidad en la fiscalidad sin aumentar la presión fiscal global",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0079",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Mejorar el régimen fiscal de cooperativas y entidades de economía social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0080",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Certificado para productos reintroducidos en la economía circular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0081",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Tolerancia cero con las ocupaciones y desalojo en menos de 48 horas",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "desalojo-rapido"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0082",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Titularidad de la Generalitat sobre todos los impuestos generados en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0083",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Concierto económico, hacienda propia y respeto al principio de ordinalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0084",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "inst-financiacion-autonomica",
+   "eco-innovacion"
+  ],
+  "titular": "Ceder el Impuesto de Sociedades con deducciones reforzadas para I+D+i",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0085",
+  "subtema": "imp-fraude",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reclamar la armonización fiscal en la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0086",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Luchar contra el fraude fiscal y la economía sumergida con competencias propias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0087",
+  "subtema": "imp-irpf",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Rebajar el ITP y el tramo autonómico del IRPF",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0088",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Eliminar los impuestos de Sucesiones, Donaciones y Patrimonio",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "suprimir-bajar"
+   },
+   {
+    "eje": "eje-herencias",
+    "posicion": "suprimir-bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0089",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Limitar la presión fiscal efectiva de pymes y autónomos frente a grandes empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0090",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fiscalidad blanda con exenciones en municipios de menos de 5.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0091",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Plan Estratégico del Trabajo Autónomo con más protección social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0092",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Tarifa plana reducida dos años para nuevos autónomos o por sucesión empresarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0093",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reducir la cotización mínima de nuevos autónomos y darles acceso al subsidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0094",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Luchar contra la morosidad para garantizar la liquidez de los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0095",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Tributación simplificada y más ligera para los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0096",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Bonificar el 100 % de la cuota del primer trabajador contratado por un autónomo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0097",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Deducir en el IRPF la contratación de limpieza y cuidado del hogar",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0098",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Fomentar la actividad productiva para crear empleo estable y de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0099",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Estrategia pactada contra la discriminación laboral y la brecha salarial de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0100",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Más estabilidad laboral, mejores salarios y formación continua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0101",
+  "subtema": "trab-empleo",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Incentivos a empresas para la inserción laboral de colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0102",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Regular con claridad las causas económicas del despido objetivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0103",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Desarrollar la regulación del teletrabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0104",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Bonificar a las empresas con bajo índice de despidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0105",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Asesoramiento y formación para el empleo y acreditación de competencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0106",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a la Generalitat la Inspección de Trabajo en Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0107",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a la Generalitat la gestión del Ingreso Mínimo Vital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0108",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reclamar las competencias pendientes en política industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0109",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Digitalización y transición energética de la industria catalana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0110",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Investigación e innovación orientadas a la competitividad de las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0111",
+  "subtema": "eco-industria",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Apoyar la reindustrialización de las zonas menos pobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0112",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Formación en calidad y servicio para profesionales del turismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0113",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Turismo de calidad, sostenible y territorialmente equilibrado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0114",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Rechazar el marco estatal sobre comercio y horarios comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0115",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Estrategia para revitalizar el comercio de proximidad, sobre todo rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0116",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Fomentar el consumo de productos de proximidad (km 0)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0117",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Velar por la normativa europea sobre seguridad de mercancías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0118",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Campañas de consumo responsable, comercio local y sostenibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0119",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: falta de relevo, burocracia y presión global sobre el sector primario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0120",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Garantizar la viabilidad de la agricultura, la ganadería y la pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0121",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Exigir al Estado que defienda los intereses agrarios catalanes en Europa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0122",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reparto justo de la PAC priorizando productores locales frente a grandes corporaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0123",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Gestión directa de las ayudas de la PAC en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0124",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Regionalizar los fondos de la PAC y flexibilizar sus requisitos ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0125",
+  "subtema": "rural-agro",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Financiar el Plan de Desarrollo Rural con un 75 % de la PAC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0126",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Cataluña la inspección sanitaria en origen, también en puertos y aeropuertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0127",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fiscalidad adaptada al mundo rural en zonas con riesgo de despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0128",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Incentivos fiscales al relevo generacional en las explotaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0129",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reducir la fiscalidad de la compra de tierras para explotaciones familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0130",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reformar la fiscalidad de la transmisión de explotaciones y derechos de producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0131",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Deducciones fiscales por inversiones en digitalización agraria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0132",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Bonificación del 30 % en IRPF y Sociedades a la gestión forestal sostenible",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0133",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Financiación estatal del Food Valley catalán como clúster alimentario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0134",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reforzar la Ley de la cadena alimentaria y evitar la venta a pérdidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0135",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Promover la venta de productos ecológicos y de proximidad y los circuitos cortos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0136",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Impulsar las denominaciones de origen y marcas de calidad catalanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0137",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Más ayudas a cooperativas, mercados locales y venta directa al consumidor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0138",
+  "subtema": "rural-agro",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Apoyar la ganadería extensiva para prevenir incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0139",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Revisar el reparto de fondos pesqueros a favor de la flota mediterránea catalana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0140",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Modernizar la flota pesquera con ayudas a eficiencia energética y digitalización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0141",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Defender la pesca artesanal y tradicional y su relevo generacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0142",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyar a las cofradías de pescadores y los acuerdos de pesca vigentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0143",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Exigir a productos de países terceros los estándares de producción comunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0144",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-burocracia"
+  ],
+  "titular": "Reducir la burocracia del sector agrario, ganadero, silvícola y pesquero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0145",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Flexibilizar el Cuaderno Integrado de Explotación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0146",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Soberanía hidrológica y rectificar el Plan Hidrológico del Ebro por el Delta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0147",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Inversión estatal en infraestructuras hídricas y reutilización del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0148",
+  "subtema": "rural-agro",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Financiación estatal para modernizar el regadío y optimizar el agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0149",
+  "subtema": "naturaleza",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Ayudas a la biomasa y el trabajo forestal para prevenir incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0150",
+  "subtema": "ener-modelo",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Construir plantas de biogás a partir de deyecciones ganaderas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0151",
+  "subtema": "ener-modelo",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Moratoria a nuevas fotovoltaicas en tierras agrícolas de valor y regadío",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0152",
+  "subtema": "agua",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Plan con el Estado contra la sequía en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0153",
+  "subtema": "rural-agro",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Fondo de estabilización climática para pérdidas por sequías o heladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0154",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reformar los seguros agrarios ante los nuevos retos climáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0155",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Un sistema educativo avanzado como bien común y motor de progreso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0156",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Reforzar el modelo educativo con centros públicos, privados y concertados",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0157",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Ampliar las competencias de Cataluña para definir su modelo educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0158",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Uso intensivo del catalán como lengua vehicular en los centros educativos",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0159",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Preservar y actualizar el modelo de inmersión lingüística",
+  "ejes": [
+   {
+    "eje": "eje-lengua",
+    "posicion": "cooficiales"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0160",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Sistema educativo plural con apoyo decidido a la escuela de iniciativa social",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0161",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Defender la libertad de enseñanza y el derecho de las familias a elegir centro",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "apoyar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0162",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Currículo humanista que integre la historia y la cultura catalanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0163",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Aprendizaje competencial y de saberes fundamentales revalorizando el esfuerzo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0164",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Enseñanza obligatoria hasta los 18 años contra el abandono escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0165",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Avanzar en la gratuidad de la etapa de 0 a 3 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0166",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la orientación educativa y la tutoría personalizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0167",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Impulsar la investigación y la innovación educativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0168",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Favorecer el aprendizaje de lenguas extranjeras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0169",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Uso responsable de la tecnología y la inteligencia artificial en las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0170",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Escuelas libres de acoso con detección precoz y apoyo a las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0171",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación en respeto, civismo, responsabilidad y convivencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0172",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación para la ciudadanía global y la sostenibilidad en el currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0173",
+  "subtema": "edu-becas",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Becas de comedor y desayuno y plan contra la pobreza infantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0174",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Incentivos al profesorado que destaque y formación continua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0175",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Más autonomía de los centros y menos carga administrativa para los docentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0176",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Aumentar el profesorado y el personal de apoyo en las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0177",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reducir las ratios de alumnos por docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0178",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Financiación suficiente para infraestructuras y edificios escolares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0179",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "FP de prestigio adaptada a la economía catalana e impulso de la FP dual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0180",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Programas de segunda oportunidad contra el abandono escolar prematuro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0181",
+  "subtema": "edu-becas",
+  "otros": [
+   "fam-juventud"
+  ],
+  "titular": "Becas remuneradas de segunda oportunidad para jóvenes sin empleo ni estudios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0182",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Facilitar la formación continua y ocupacional con participación de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0183",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Alternativas al sistema de subvenciones a empresas colaboradoras en formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0184",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar el papel de las familias en el proceso educativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0185",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Ampliar comedor, acogida y actividades extraescolares para la conciliación familiar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0186",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Financiar el acceso universal a actividades extraescolares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0187",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Promover los Planes Educativos de Entorno con los entes locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0188",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Igualdad efectiva, tolerancia cero con la violencia machista y derechos LGTBI+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0189",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Diagnóstico: gestión migratoria ineficaz y preservación de los valores occidentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0190",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Adaptar los presupuestos estatales para aplicar la ley catalana de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0191",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Ley estatal de igualdad retributiva por trabajos de igual valor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0192",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Plan estatal de formación para integrar la igualdad de género en las políticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0193",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Ley de corresponsabilidad y conciliación familiar entre mujeres y hombres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0194",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permiso de maternidad acumulado para familias monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0195",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Código ético para que los medios erradiquen contenidos sexistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0196",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Combatir la doble discriminación de las mujeres con diversidad funcional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0197",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Formación en perspectiva de género y violencias machistas para operadores jurídicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0198",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Evaluar el Pacto de Estado contra la Violencia de Género y redefinir sus acciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0199",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Recursos presupuestarios para erradicar las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0200",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Cumplir el Convenio de Varsovia contra la trata de seres humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0201",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Rechazar la discriminación al colectivo LGTBI+ y respetar la identidad de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0202",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Asumir las competencias plenas en materia de inmigración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0203",
+  "subtema": "inm-asilo",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Reforma integral de la acogida de inmigrantes en la UE con reparto equitativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0204",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Cataluña como país de acogida para personas refugiadas y migradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0205",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Diálogo intercultural como eje de las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0206",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Gestión migratoria realista que preserve los valores occidentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0207",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Vincular residencia y nacionalidad a la integración lingüística y los valores occidentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0208",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Respetar los derechos de los solicitantes de protección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0209",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Agilizar trámites para la incorporación laboral y a la vivienda de los recién llegados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0210",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Expulsar a inmigrantes en situación ilegal que hayan delinquido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0211",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Pacto con entidades religiosas sobre libertad de culto contra el extremismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0212",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Cohesión social mediante el diálogo y mecanismos de inclusión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0213",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: colapso sanitario y apuesta por la cooperación público-privada",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0214",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "El deporte como herramienta de salud, cohesión y proyección internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0215",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Pacto Nacional por la Salud: más financiación, salarios y menos ratio paciente/médico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0216",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Sistema sanitario público-privado de calidad y tecnológicamente puntero",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0217",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Apoyar la sanidad privada para descongestionar la pública",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0218",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Sector salud como estratégico para la economía y la industria biomédica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0219",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Agilizar la convalidación de títulos de médicos extracomunitarios exigiendo catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0220",
+  "subtema": "san-profesionales",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Exigir a los profesionales sanitarios dominio suficiente del catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0221",
+  "subtema": "san-profesionales",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Aumentar las plazas MIR y traspasar su gestión a la Generalitat",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0222",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar los inmuebles sanitarios de la Seguridad Social a las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0223",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Compensación entre comunidades por pacientes atendidos de otros territorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0224",
+  "subtema": "san-profesionales",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Incentivos para atraer profesionales sanitarios al medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0225",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Convenio laboral propio para médicos y enfermeras del sistema público catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0226",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Plan Nacional de Prevención y Promoción de la Salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0227",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Campañas sobre la corresponsabilidad ciudadana en la propia salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0228",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Prevención y detección precoz de enfermedades mentales, sobre todo en infancia y juventud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0229",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Más plazas de psiquiatría y psicología clínica en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0230",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Reducir las listas de espera quirúrgicas y diagnósticas y alargar las consultas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0231",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Nuevos Centros de Urgencias de Atención Primaria para descongestionar los hospitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0232",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Reforzar la atención primaria con más profesionales y menos burocracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0233",
+  "subtema": "san-primaria",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Separar los equipos de primaria de los profesionales de residencias de mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0234",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Resolver las solicitudes de dependencia y discapacidad en los plazos legales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0235",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Cobertura pública progresiva de gafas, audífonos y tratamientos dentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0236",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Deducción fiscal del gasto en mutuas de salud",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "colaboracion"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0237",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Universalizar la actividad física con atención a mujeres y colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0238",
+  "subtema": "deporte",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Reducir la carga fiscal y el IVA que soporta el sector deportivo",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0239",
+  "subtema": "deporte",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Apoyar a las federaciones catalanas para acoger grandes eventos deportivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0240",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Evitar que las entidades de deporte base coticen como empresas ordinarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0241",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Reconocer legalmente el voluntariado deportivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0242",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Integrar a las federaciones catalanas como miembros de pleno derecho internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0243",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Integrar el Comité Olímpico de Cataluña en el COI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0244",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Potenciar el deporte femenino como sector estratégico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0245",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Cataluña como polo de innovación y despliegue insuficiente de la Ley de la Ciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0246",
+  "subtema": "ener-modelo",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Apuesta por la IA, infraestructuras gestionadas desde Cataluña y continuidad nuclear",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0247",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Reformar la Ley de la Ciencia para garantizar la transferencia de conocimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0248",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Elevar la inversión pública en I+D+i hasta la media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0249",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Sistema estatal de compra pública innovadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0250",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Simplificar el acceso a fondos europeos de investigación con herramientas de IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0251",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Consorcios público-privados estables con financiación plurianual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0252",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Reforzar la financiación y la autonomía de las universidades públicas catalanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0253",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Facilitar la integración laboral de inmigrantes cualificados con visados científicos exprés",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0254",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Plan Estatal de Infraestructuras Científicas con criterios de descentralización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0255",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Red de espacios de innovación que conecte ciudades medias y áreas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0256",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Descentralizar fuera de Madrid los órganos estatales de innovación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0257",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Liderazgo de Barcelona como hub digital, científico y biotecnológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0258",
+  "subtema": "edu-modelo",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Fomentar vocaciones STEM y competencias digitales reduciendo la brecha de género",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0259",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Más competencia en telecomunicaciones para abaratar la banda ancha",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0260",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Acceso universal a internet de alta velocidad en zonas sin cobertura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0261",
+  "subtema": "infra-digital",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Bono social digital contra la exclusión tecnológica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0262",
+  "subtema": "dig-ia",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Crear un Centro Nacional de Investigación en IA con sede en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0263",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Fomentar la aplicación de la IA en ciencia y empresa, sobre todo en pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0264",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Incentivos fiscales y financiación para aplicar la IA a la productividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0265",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Terminar definitivamente las obras del Corredor Mediterráneo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0266",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Renovar la flota de Rodalies y media distancia y modernizar la red ferroviaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0267",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferencia plena de la gestión de la red ferroviaria catalana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0268",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Ampliar el aeropuerto de El Prat y crear una gestión aeroportuaria propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0269",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Gestionar desde Cataluña todos los puertos catalanes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0270",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Plan de obras para la red viaria catalana con gestión desde el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0271",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Ejecutar todas las inversiones en infraestructuras pendientes en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0272",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Mix energético que mantenga el parque nuclear mientras se desarrollan renovables",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0273",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reforzar interconexiones eléctricas con Francia e Italia y el almacenamiento renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0274",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Nuevo sistema de formación de precios y de mix energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0275",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Sistemas de alerta de emergencia que funcionen aun con las comunicaciones bloqueadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0276",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Regeneración y reutilización del agua, desalinización y aprovechamiento de acuíferos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0277",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Marco normativo de gestión del agua con control y sanciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0278",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Campañas de concienciación sobre el uso responsable del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0279",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Administración eficaz y «business friendly», subsidiariedad y seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0280",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Voz propia de Cataluña en el Estado y en la escena internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0281",
+  "subtema": "inst-administracion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir las competencias de administración electrónica y transparencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0282",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Crear una Agencia de Transparencia Independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0283",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Portal único de acceso a los trámites administrativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0284",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reformar la ley orgánica para permitir referéndums vinculantes en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0285",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Modificar la Ley de Transparencia para la participación ciudadana en el control",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0286",
+  "subtema": "inst-constitucion",
+  "otros": [],
+  "titular": "Consejos ciudadanos consultivos en ámbitos estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0287",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Fiscalidad más justa para las pymes y descentralizar organismos económicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0288",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Programas de ayuda para la digitalización de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0289",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reformar la financiación local para dar recursos estables a los municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0290",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Crear un Fondo Estatal de Desarrollo Municipal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0291",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Fomentar la cooperación entre municipios en proyectos supramunicipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0292",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspaso total de la Justicia y Consejo de Justicia de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0293",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Modernización digital de los juzgados para reducir retrasos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0294",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Mediación y arbitraje para descongestionar los tribunales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0295",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspaso íntegro de la seguridad ciudadana y más financiación para los Mossos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0296",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Programas de proximidad y prevención comunitaria en barrios vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0297",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Mayor presencia de Cataluña en organismos internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0298",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diplomacia económica y cultural para proyectar Cataluña y atraer inversiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0299",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Crear oficinas de representación exterior de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0300",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Europa federal y asimétrica con voz propia de Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0301",
+  "subtema": "ext-ue",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Defender el derecho de autodeterminación de los pueblos de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0302",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Supervisión y sanción de los Estados que vulneren derechos fundamentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0303",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Reformar el Comité de las Regiones para darle poder de decisión real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0304",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Oficialidad en la UE del catalán, el occitano y otras lenguas minorizadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0305",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyo directo a los productores europeos y evitar bloqueos en la distribución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0306",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reforma de la PAC con políticas agrarias asimétricas por territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0307",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Mecanismos para regular los mercados en crisis alimentarias o climáticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0308",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reconocer la especificidad mediterránea en la Política Pesquera Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0309",
+  "subtema": "imp-fraude",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Armonizar la fiscalidad y el delito fiscal a escala europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0310",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Priorizar productos de la UE y eliminar cuotas internas que beneficien a terceros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0311",
+  "subtema": "trab-salarios",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Normativa europea de salario mínimo por encima del umbral de pobreza",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0312",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Armonizar condiciones laborales y convenios colectivos en Europa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0313",
+  "subtema": "inm-asilo",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Política europea común de inmigración basada en derechos humanos y asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0314",
+  "subtema": "inm-asilo",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reparto equitativo de personas migradas en la UE y sanciones a incumplidores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0315",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Combatir las mafias, frenar la entrada irregular y repatriación común europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0316",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Potenciar la contratación en origen y armonizar acogida e integración en Europa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0317",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Política común de seguridad y defensa para la autonomía estratégica de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0318",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Apoyar la creación de un ejército europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0319",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Europa más segura y fuerte con cooperación en defensa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0320",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reforzar alianzas internacionales y cooperaciones con países terceros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0321",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Finalizar el Corredor Mediterráneo como prioridad europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0322",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Planes de ordenación del territorio para redes de infraestructuras eficientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "cnv-0323",
+  "subtema": "ener-modelo",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Red energética europea con más interconexiones y almacenamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: defender los intereses de Euskadi en Madrid con agenda propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: nunca facilitar un gobierno que dependa de Vox",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Facilitar un gobierno que dependa de Vox? → No"
+ },
+ {
+  "id": "pnv-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: autogobierno, Estatuto de Gernika y Concierto Económico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación: exigir que se cumplan los compromisos con Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0005",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Cinco compromisos para Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0006",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Vivienda asequible, salarios adaptados al coste de vida y emancipación",
+  "ejes": [],
+  "nota": ""
+ }
+]

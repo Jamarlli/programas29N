@@ -960,7 +960,11 @@
     },
     {
      "id": "federal",
-     "nombre": "Estado federal o plurinacional"
+     "nombre": "Estado federal, confederal o plurinacional"
+    },
+    {
+     "id": "autodeterminacion",
+     "nombre": "Derecho a decidir, autodeterminación o independencia"
     }
    ]
   },

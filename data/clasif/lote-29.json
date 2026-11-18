@@ -1,0 +1,1398 @@
+[
+ {
+  "id": "erc-0117",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Blindar las políticas feministas, los derechos LGBTI+ y el antirracismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0118",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Una sociedad feminista, diversa y libre de discriminaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0119",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "igu-violencia",
+   "igu-racismo"
+  ],
+  "titular": "Blindar las políticas de igualdad y combatir los discursos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0120",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Reformar la Ley Orgánica 1/2004 y regular la violencia vicaria",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0121",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aprobar una ley integral contra la trata y explotación de seres humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0122",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Permiso laboral retribuido por duelo gestacional entre la semana 6 y el día 179",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0123",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Equiparar los permisos de ambos progenitores por muerte fetal desde el día 180",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0124",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Equiparar los derechos de las familias monoparentales a los de las numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0125",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reconocer legalmente las identidades no binarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0126",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Eliminar las discriminaciones en la filiación de las familias LGBTI+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0127",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Reforzar la prohibición de las prácticas de conversión y tipificarlas penalmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0128",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Ley estatal de memoria y reparación LGBTI+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0129",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Obligar a identificar las imágenes corporales retocadas en publicidad y redes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0130",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-pensiones",
+   "trab-empleo"
+  ],
+  "titular": "Cotizaciones con financiación pública para las personas cuidadoras familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0131",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Combatir la discriminación racial y étnica en empleo, vivienda y servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0132",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Formación de jueces y fiscales en delitos de odio racistas y xenófobos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0133",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Perseguir las organizaciones que promueven el racismo y la violencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0134",
+  "subtema": "igu-racismo",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Exigir a las plataformas responsabilidad ante los discursos de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0135",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Diagnóstico: salarios por detrás de los precios y precariedad laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0136",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reforzar la financiación de la Seguridad Social, sin recortes ni privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0137",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensiones públicas que garanticen el poder adquisitivo y reduzcan desigualdades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0138",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Derogar lo vigente de las reformas laborales de 2010 y 2012",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0139",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Indemnización adicional sin tope por despidos sin causa, según el CEDS",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0140",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada máxima a 37,5 horas semanales sin reducción salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0141",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Blindar la revalorización de las pensiones según la inflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0142",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revalorizar las pensiones según el IPC de cada territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0143",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Actualizar la Ley de prevención de riesgos laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0144",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Representación de los trabajadores en los consejos de administración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0145",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación anticipada sin penalización en profesiones penosas o peligrosas",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0146",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar los permisos parentales retribuidos para la crianza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0147",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cotización de autónomos según ingresos reales, con tramos progresivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0148",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-empleo",
+   "trab-pensiones"
+  ],
+  "titular": "Equiparar la protección social de los autónomos a la de los asalariados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0149",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cuota cero para autónomos con enfermedad grave",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0150",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Invertir la carga de la prueba contra los falsos autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0151",
+  "subtema": "imp-irpf",
+  "otros": [
+   "eco-autonomos-pymes",
+   "imp-sociedades"
+  ],
+  "titular": "Ampliar los gastos deducibles en el IRPF de los autónomos",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0152",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Integrar a los mutualistas en el RETA reconociendo todos los años aportados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0153",
+  "subtema": "edu-fp",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Sistema integrado de formación profesional a lo largo de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0154",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Vincular la formación profesional con la universidad y la investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0155",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Facilitar la formación continua y acreditar las competencias profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0156",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Financiación estable de los centros de formación profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0157",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Prohibir de forma permanente los cortes de suministro a hogares vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0158",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Adaptar el ingreso mínimo vital al coste de la vida en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0159",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Revisar la prestación CUME para familias con menores gravemente enfermos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0160",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Combatir la precariedad en sectores feminizados como SAD, camareras de piso y hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0161",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: debilitamiento industrial europeo y necesidad de autonomía estratégica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0162",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Proteger la química y la automoción con una política industrial activa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0163",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Sustituir los PERTE por proyectos estratégicos de gestión descentralizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0164",
+  "subtema": "eco-industria",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Alinear la política industrial con el Made in Europe y ampliar el Programa Auto+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0165",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Descarbonizar el transporte por carretera con ayudas a camiones de cero emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0166",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Defender el clúster químico de Tarragona como proyecto estratégico europeo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0167",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: modelo energético centralizado y dominado por un oligopolio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0168",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Un modelo energético 100 % renovable, descentralizado y de proximidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0169",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Democratizar el mercado energético con autoconsumo y comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0170",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Más capacidad de decisión de la Generalitat sobre la red eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0171",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Nueva Ley del Sector Eléctrico y Ley de Gases Renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0172",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Modificar los incentivos del RD 8/2023 que refuerzan al oligopolio energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0173",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a la Generalitat las centrales hidroeléctricas al caducar las concesiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0174",
+  "subtema": "ener-modelo",
+  "otros": [
+   "infra-inversion-territorial"
+  ],
+  "titular": "Plan urgente de inversiones en la red eléctrica catalana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0175",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Condicionar las líneas de muy alta tensión al informe de la Generalitat",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0176",
+  "subtema": "seg-ciberseguridad",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Transponer NIS2 y CER para proteger las infraestructuras energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0177",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Abrir los mercados eléctricos a comunidades energéticas y crear una plataforma de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0178",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ampliar el autoconsumo compartido a 10 km y a 20 km en zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0179",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Agilizar los trámites del autoconsumo compartido y aplicar el balance neto cero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0180",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ampliar las ayudas al autoconsumo, el almacenamiento y las comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0181",
+  "subtema": "ener-modelo",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Ayudas para electrificar y mejorar la eficiencia energética de hogares y transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0182",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Desplegar 4.000 puntos de recarga de más de 350 kW antes de 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0183",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Ayudas estatales para electrificar la industria y energía competitiva para pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0184",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Compensar a los pequeños inversores fotovoltaicos por los cambios retroactivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0185",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Recuperar el Fondo Nacional para la Sostenibilidad del Sistema Eléctrico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0186",
+  "subtema": "residuos",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Flexibilizar la Ley 7/2022 de residuos para el sector primario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0187",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Exigir la contribución del Estado al Fondo de Transición Nuclear catalán",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0188",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Modificar el Plan Hidrológico del Ebro para garantizar los caudales ecológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0189",
+  "subtema": "agua",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Comisión bilateral del delta del Ebro y traspaso de las cuencas de la CHE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0190",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Financiar a fondo perdido los 435 millones de las desaladoras de Tordera y Foix",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0191",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ampliar la ZEPA del delta del Llobregat de 935 a 2.372 hectáreas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0192",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Permitir el uso de agua regenerada en la industria cárnica y ganadera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0193",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Reducir emisiones de CO2 un 65 % en 2030 y 95 % en 2040",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0194",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Subvenciones estables para redes de calor municipales de biomasa forestal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0195",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Plan estatal contra la regresión litoral del delta del Ebro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0196",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Garantizar el futuro del sector agrario, ganadero y pesquero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0197",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Descentralizar la PAC y la gestión de los fondos europeos agrarios y pesqueros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0198",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Rechazar la ratificación del acuerdo UE-Mercosur y exigir reciprocidad de normas",
+  "ejes": [
+   {
+    "eje": "eje-mercosur",
+    "posicion": "rechazar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0199",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Competencias de la Generalitat para ordenar el espacio marítimo de sus costas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: ordenación del espacio marítimo"
+ },
+ {
+  "id": "erc-0200",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reformar la Ley de la cadena alimentaria para asegurar precios justos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0201",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Promover los vinos y espumosos catalanes y apoyar al sector vitivinícola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0202",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Actualizar los costes de producción agraria según combustibles y fertilizantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0203",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Territorializar los seguros agrarios y aumentar la financiación de ENESA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0204",
+  "subtema": "rural-agro",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Financiación estatal para modernizar los regadíos, empezando por los Canales d'Urgell",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0205",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Regularizar la potencia real de las embarcaciones pesqueras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0206",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reformar el régimen sancionador pesquero para que sea proporcional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0207",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Regular las capturas accidentales de atún rojo de la flota de pequeños pelágicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0208",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Crear un fondo estatal para municipios propietarios forestales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0209",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Diagnóstico: la IA y las grandes plataformas transforman la sociedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0210",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Gobernar democráticamente la transformación digital y proteger la privacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0211",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Estrategia de soberanía tecnológica y digital frente a las grandes corporaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0212",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Repartir los beneficios de la IA y proteger el empleo ante la automatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0213",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Defender el cifrado y rechazar la vigilancia masiva indiscriminada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0214",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Obligar a las plataformas a prevenir prácticas manipuladoras o adictivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0215",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Inteligencia artificial transparente, auditable y con supervisión humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0216",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Supervisar la IA en ámbitos sensibles para evitar la discriminación algorítmica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0217",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Proteger los derechos de la infancia y la adolescencia en el entorno digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0218",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Protección jurídica efectiva para todos los animales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0219",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Revisar el marco normativo de la profesión veterinaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0220",
+  "subtema": "igu-violencia",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Reconocer la violencia contra animales de compañía como violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0221",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Incluir a los perros de caza y trabajo en la ley de bienestar animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0222",
+  "subtema": "animales",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Endurecer en el Código Penal las consecuencias del maltrato animal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0223",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Defender los servicios públicos frente a recortes y privatizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0224",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Diagnóstico: déficit histórico de inversión estatal en infraestructuras en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0225",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Inversión ejecutada en Cataluña del 8,6 % y Consorcio de Inversiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0226",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Gestión desde Cataluña de los aeropuertos catalanes frente al modelo de Aena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0227",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar la titularidad y gestión de los aeropuertos de Girona, Reus y Sabadell",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0228",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Conectar los aeropuertos de Girona y Reus con la alta velocidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0229",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Planes de aislamiento acústico para viviendas afectadas por los aeropuertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0230",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Más autonomía operativa y de gestión para las autoridades portuarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0231",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Constituir el Consorcio de Inversiones de Cataluña y la sociedad mixta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0232",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Ampliar las encomiendas de gestión y traspasar las carreteras estatales en Cataluña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0233",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Implantar la viñeta para financiar las vías de alta capacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0234",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Acelerar la mejora del Eix Pirinenc (N-260) y traspasar su titularidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0235",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Tercer carril de la AP-7 entre Amposta y l'Hospitalet de l'Infant",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0236",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Completar la A-27, la A-2 y otras conexiones viarias pendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0237",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Licitar en 2027 los nuevos accesos ferroviarios y viarios al Puerto de Barcelona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0238",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Desdoblar la vía de mercancías entre Lleida y el Puerto de Tarragona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0239",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Diagnóstico: colapso ferroviario, solo el 49,2 % de Rodalies puntual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0240",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Priorizar el mantenimiento y la seguridad ferroviaria tras el accidente de Urda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0241",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Culminar el traspaso integral de Rodalies a la Generalitat, empezando por la R1",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0242",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Exigir a Adif mantenimiento preventivo de la alta velocidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0243",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar a Cataluña el mantenimiento de las infraestructuras de Rodalies",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0244",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-inversion-territorial"
+  ],
+  "titular": "Financiar íntegramente el Plan de Rodalies 2026-2030 con 1.400 millones adicionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0245",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Desdoblar los tramos de vía única de la red convencional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0246",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Impulsar la Línea Orbital Ferroviaria y licitar el tramo Granollers-Terrassa en 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0247",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudiar y financiar el eje transversal ferroviario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0248",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Ejecutar los intercambiadores ferroviarios de Sant Cugat del Vallès",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0249",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Culminar el Corredor Mediterráneo y reforzar el transporte ferroviario de mercancías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0250",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Los servicios sociales como pilar del estado del bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0251",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Garantizar la financiación de la dependencia y el 50 % estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0252",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Equiparar al nivel A a educadoras y trabajadoras sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0253",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Sanidad pública, universal y de gestión pública frente a la privatización",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0254",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Más financiación y capacidad de decisión de Cataluña en sanidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0255",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Blindar la sanidad pública y frenar su privatización",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "erc-0256",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Aumentar la financiación estatal del sistema público de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0257",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Blindar las competencias sanitarias de la Generalitat",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0258",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incluir la salud visual y las gafas graduadas en la cartera pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0259",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incorporar la atención odontológica integral y gratuita a la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0260",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Atención psicológica universal y gratuita en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0261",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Completar el despliegue de competencias de los Mossos d'Esquadra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0262",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Asumir las competencias de seguridad en puertos y aeropuertos catalanes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0263",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Integrar a los Mossos d'Esquadra en Interpol y Europol",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0264",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Acceso de los Mossos d'Esquadra a las bases de datos policiales estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0265",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Incorporar 180 plazas de jueces en Cataluña entre 2026 y 2027",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0266",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Aumentar las penas por delitos con armas y robo de cable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0267",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar las competencias plenas de tráfico y seguridad vial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0268",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Facilitar la prestación conjunta de servicios de policía local entre municipios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0269",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Presencia de Protección Civil de Cataluña en la cooperación europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0270",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Municipalismo fuerte y reforma de la Ley de bases del régimen local",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0271",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Financiación local ligada a las competencias y al coste de vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0272",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Permitir a los ayuntamientos endeudarse hasta el 50 % de sus ingresos corrientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "erc-0273",
+  "subtema": "inst-local",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Reformar la Ley de Haciendas Locales y rebajar a 10.000 habitantes el municipio turístico",
+  "ejes": [],
+  "nota": ""
+ }
+]

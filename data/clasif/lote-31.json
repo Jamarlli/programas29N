@@ -1,0 +1,3031 @@
+[
+ {
+  "id": "pnv-0007",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Vincular vivienda, empleo y protección social para poder emanciparse en Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0008",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Más oferta de vivienda y reglas claras para el alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0009",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Agilizar los trámites urbanísticos para construir nuevas viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0010",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0011",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Evitar el uso fraudulento de los contratos de temporada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0012",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Regular los alquileres de temporada y turísticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0013",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Reducir las prácticas especulativas que encarecen la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0014",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Dar seguridad jurídica a personas inquilinas y pequeños propietarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0015",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Alternativas habitacionales para familias vulnerables sin cargar a pequeños propietarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0016",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Derecho de las personas jóvenes a un proyecto de vida autónomo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0017",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Facilitar a las personas jóvenes el acceso a su primera vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0018",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Ofrecer opciones de emancipación más allá del alquiler protegido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0019",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Mejorar la conexión entre formación y empleo para las personas jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0020",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Incorporar la emancipación juvenil como prioridad en las reformas estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0021",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Políticas de emancipación estables y con financiación suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0022",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Salarios acordes con el coste de vida de Euskadi y empleo estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0023",
+  "subtema": "trab-salarios",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reclamar la competencia para un salario mínimo vasco superior al estatal",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Salario mínimo propio por comunidad autónoma? → sí"
+ },
+ {
+  "id": "pnv-0024",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Proteger el marco vasco de relaciones laborales y la prevalencia de sus convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0025",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Favorecer la negociación colectiva para trasladar la productividad a los salarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0026",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la Inspección de Trabajo contra el fraude laboral y las falsas personas autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0027",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Mejorar la prevención de riesgos laborales y la salud mental en el trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0028",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Aplicar la normativa europea de transparencia retributiva entre mujeres y hombres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0029",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la prevención del acoso laboral, sexual y discriminatorio en las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0030",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Facilitar la formación continua y la recualificación profesional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0031",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Regular las prácticas formativas garantizando los derechos del alumnado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0032",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Ampliar la prestación por desempleo hasta un máximo de 36 meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0033",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Analizar con los agentes sociales la productividad, el absentismo y los salarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0034",
+  "subtema": "trab-salarios",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Actualizar el precio de contratos públicos para cubrir subidas salariales pactadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0035",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Una educación para la igualdad de oportunidades con modelo vasco propio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0036",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Preservar las competencias educativas de Euskadi frente a interferencias estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0037",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Impulsar una educación inclusiva, plurilingüe e intercultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0038",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la coeducación y la educación afectivo-sexual en igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0039",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Defender la capacidad normativa del Sistema Vasco de Becas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0040",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Fortalecer la Formación Profesional Dual en colaboración con las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0041",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Favorecer la colaboración entre universidades y empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0042",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Defender que Euskadi decida la gobernanza de sus universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0043",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Que las propuestas de las personas jóvenes influyan en las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0044",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Mecanismos de participación juvenil en las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0045",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Reforzar la participación juvenil en la vida pública y democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0046",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Incorporar la perspectiva juvenil en las iniciativas legislativas estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0047",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Una economía que cree riqueza y empleo y se note en el bolsillo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0048",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Diagnóstico: Euskadi paga los retrasos del Estado en infraestructuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0049",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Inversiones, energía competitiva y centros de decisión para la industria vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0050",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Fortalecer la industria vasca con una legislación industrial adaptada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0051",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Exigir al Estado sus compromisos con empresas vascas participadas y sus centros de decisión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0052",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Proteger el futuro industrial de comarcas en crisis como Aiaraldea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0053",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Adaptar los programas estatales de innovación a la industria vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0054",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Favorecer la modernización tecnológica de las pymes, incluida la inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0055",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Proteger y promover el modelo cooperativo vasco en la legislación estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0056",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reforzar el apoyo a la internacionalización de las empresas vascas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0057",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Facilitar crear empresas y proteger socialmente a las personas autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0058",
+  "subtema": "eco-burocracia",
+  "otros": [],
+  "titular": "Reducir la burocracia y eliminar duplicidades administrativas para las empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0059",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Mejorar el acceso de pymes y personas autónomas a la financiación del ICO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0060",
+  "subtema": "eco-burocracia",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Eliminar barreras regulatorias al crecimiento de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0061",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Aproximar la protección por cese de actividad de autónomos a la de desempleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0062",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Compatibilizar la prestación por cese de actividad con un nuevo proyecto empresarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0063",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Facilitar el relevo generacional de empresas viables, sobre todo familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0064",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Facilitar que las plantillas asuman empresas viables como cooperativas o sociedades laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0065",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Energía suficiente, segura y a precios competitivos para la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0066",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Acelerar las inversiones en redes eléctricas de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0067",
+  "subtema": "ener-modelo",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Revisar la planificación energética estatal y el PNIEC según las necesidades industriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0068",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Incentivos y penalizaciones para garantizar la ejecución de las redes eléctricas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0069",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Agilizar el acceso y conexión a las redes eléctricas priorizando proyectos industriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0070",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Favorecer el almacenamiento energético y los mecanismos de capacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0071",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0072",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Destinar el máximo permitido a compensar los costes indirectos del CO₂ de la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0073",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Apoyo transitorio a la cogeneración industrial y nuevas subastas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0074",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reforzar las infraestructuras de gas natural en Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0075",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Favorecer el biometano, el hidrógeno renovable y otros combustibles de bajas emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0076",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Mantener los bonos sociales eléctrico y térmico y la TUR del gas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0077",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Restablecer la Comisión Nacional de la Energía como regulador independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0078",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Una transición ecológica que reduzca emisiones sin comprometer la actividad productiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0079",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Favorecer la rehabilitación energética de edificios y actualizar el Código Técnico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0080",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Facilitar el autoconsumo compartido y las comunidades energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0081",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Ayudas e incentivos para electrificar la movilidad y la climatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0082",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Favorecer la economía circular, la reparación y el reciclaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0083",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Recuperar suelos industriales degradados para nuevas actividades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0084",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Estrategia de adaptación al cambio climático con financiación suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0085",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reforzar la protección y restauración de ríos, bosques y ecosistemas marinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0086",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reforma integral de la Ley de Costas respetando las competencias de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0087",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Que Euskadi programe y ejecute las inversiones para proteger su litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0088",
+  "subtema": "naturaleza",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Plan de adaptación y protección de la costa vasca frente a la erosión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0089",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Reforzar las inversiones en abastecimiento, saneamiento y depuración de aguas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0090",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Un primer sector rentable, con relevo generacional y capacidad para competir",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0091",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "PAC 2028-2034 con un Plan Estratégico propio para Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0092",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Proteger frente a prácticas comerciales desleales y remunerar según costes de producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0093",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Facilitar el relevo generacional agrario con cotizaciones reducidas para jóvenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0094",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Condiciones comerciales equivalentes y más controles para productos importados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0095",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Asegurar financiación para sanidad animal, seguros agrarios y emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0096",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Proteger Rioja Alavesa y la diferenciación de origen de sus vinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0097",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Modernizar el sector forestal y la industria de la madera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0098",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Revisar la Política Pesquera Común para garantizar la viabilidad de la flota vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0099",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Revisar las restricciones europeas a la pesca de fondo en 87 zonas atlánticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0100",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reparto justo de las cuotas pesqueras y más flexibilidad en su gestión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0101",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Facilitar la renovación de la flota pesquera vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0102",
+  "subtema": "rural-agro",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Coeficientes reductores de jubilación y más protección social para trabajadores del mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0103",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ayudas a la pesca ante subidas energéticas, vedas y paralizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0104",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Combatir la pesca ilegal y exigir garantías equivalentes a las importaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0105",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyar el relevo generacional y la formación marítimo-pesquera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0106",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Exigir al Estado cumplir sus compromisos de infraestructuras con Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0107",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Terminar la Y vasca sin más demoras y con calendario verificable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0108",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Culminar la transferencia de las cercanías que discurren íntegramente por Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0109",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Eliminar los pasos a nivel pendientes en Enkarterri y Zalla con plazos vinculantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0110",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Ejecutar el traslado del apeadero de Martutene en Donostia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0111",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Construir el intercambiador de Riberas de Loiola",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0112",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Favorecer el proyecto Vía Irun 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0113",
+  "subtema": "infra-tren",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Accesibilidad universal en estaciones y trenes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0114",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Ejecutar las inversiones comprometidas en el Corredor Ferroviario Atlántico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0115",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Ejecutar con prioridad la Variante Sur Ferroviaria de Bilbao",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0116",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Reforzar la Plataforma Multimodal de Jundiz en el Corredor Atlántico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0117",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Conexiones ferroviarias de los puertos de Bilbao y Pasaia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0118",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Más inversión y capacidad para el aeropuerto de Foronda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0119",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Modelo aeroportuario vasco coordinado con más decisión de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0120",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Gestión integral desde Euskadi de los puertos de Bilbao y Pasaia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0121",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Favorecer la regeneración de la bahía de Pasaia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0122",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Mantener ayudas estables a la compra de vehículos electrificados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0123",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Ayudas plurianuales para renovar las flotas de transporte pesado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0124",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Acelerar el despliegue de puntos de recarga eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0125",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Modificar la Ley 15/2009 para repercutir los peajes a los clientes del transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0126",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Exigir al Estado inversiones y calendarios concretos en infraestructuras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0127",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0128",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Reformar el IVA de bienes esenciales con tipos cero o superreducidos en alimentos",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0129",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Revisar el IVA cultural para favorecer a artistas y galerías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0130",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Flexibilizar las reglas de estabilidad presupuestaria para invertir más",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0131",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Permitir a ayuntamientos, diputaciones y Gobierno Vasco invertir sus superávits",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0132",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Respetar el Concierto Económico y la autonomía financiera vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0133",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Ampliar la capacidad normativa foral en el IVA y los Impuestos Especiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0134",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Gestionar la migración desde Euskadi y no aceptar retrocesos en derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0135",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Una Ertzaintza con herramientas para prevenir delitos y proteger a las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0136",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Gestionar la seguridad desde Euskadi con una Ertzaintza con capacidad plena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0137",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Reconocer la Ertzaintza como policía integral de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0138",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Participación directa de la Ertzaintza en la cooperación policial europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0139",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Acceso pleno de la Ertzaintza a las bases de datos policiales europeas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0140",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Reforzar la cooperación policial internacional contra la delincuencia organizada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0141",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Reformas legales contra la multirreincidencia y para proteger a las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0142",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Capacidad de Euskadi para planificar la acogida y la integración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0143",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Más competencias para Euskadi en migración y extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0144",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Reconocer a Euskadi como frontera norte en la gestión migratoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0145",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Que la Ertzaintza asuma competencias de extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0146",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Reforzar la planificación de los recursos de acogida e integración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0147",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Acogida descentralizada y rechazo al gran centro previsto en Arana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0148",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Ampliar la gestión vasca de los permisos de residencia y trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0149",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Promover vías legales, seguras y ordenadas de migración",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0150",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Favorecer la contratación en origen según el mercado laboral vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0151",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Avanzar en los procesos de regularización previstos en la legislación",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0152",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Agilizar la homologación de titulaciones de las personas migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0153",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Agilizar los procedimientos de protección internacional y asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0154",
+  "subtema": "inm-asilo",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Política europea común de asilo con reparto equilibrado de solicitantes y menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0155",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Integración social y laboral de las personas migrantes y aprendizaje del euskera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0156",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Los derechos de las mujeres no se negocian: igualdad efectiva y leyes cumplidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0157",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Aplicar las leyes de igualdad y la perspectiva de género en las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0158",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Transponer las directivas europeas 2024/1499 y 2024/1500 sobre organismos de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0159",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Regular y reconocer la profesión de agente de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0160",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Proteger los derechos sexuales y reproductivos de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0161",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Perímetros de al menos 150 metros en centros de interrupción voluntaria del embarazo",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0162",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Cumplir íntegramente el Pacto de Estado contra la Violencia de Género de 2025",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0163",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Regular y definir la violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0164",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Formación obligatoria en perspectiva de género para judicatura y Fiscalía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0165",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Nuevos órganos judiciales de Violencia sobre la Mujer en Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0166",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Equiparar las ayudas a víctimas de violencia de género y de violencias sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0167",
+  "subtema": "igu-violencia",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Compatibilizar indemnizaciones por violencia machista con pensiones no contributivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0168",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Reparar a las mujeres víctimas del franquismo y del Patronato de Protección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0169",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Defender los derechos LGTBIQ+ frente a cualquier retroceso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0170",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reforzar la persecución de los delitos de odio contra personas LGTBIQ+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0171",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Exigir a las plataformas cumplir el Reglamento de Servicios Digitales frente al odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0172",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Garantizar los derechos de las personas LGTBIQ+ frente a retrocesos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0173",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Tipificar penalmente las prácticas de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0174",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Desarrollar el artículo 50 de la Ley 4/2023 para personas extranjeras trans",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0175",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Defender los derechos humanos sin usar la seguridad para limitar libertades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0176",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Elaborar un Plan Estatal de Derechos Humanos con seguimiento público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0177",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Reformar la «ley mordaza» eliminando restricciones desproporcionadas",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0178",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Reformar los delitos de opinión sobre la Corona, las instituciones y los símbolos",
+  "ejes": [
+   {
+    "eje": "eje-sedicion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0179",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Recuperar una jurisdicción universal efectiva reformando la LOPJ",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0180",
+  "subtema": "seg-penal",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Rechazar la prisión permanente revisable y orientar las prisiones a la reinserción",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener la prisión permanente revisable? → no, suprimirla"
+ },
+ {
+  "id": "pnv-0181",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Más garantías para migrantes en fronteras y alternativas a los CIE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0182",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Política exterior comprometida con los derechos humanos y el derecho internacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0183",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Reforzar la cooperación al desarrollo respetando el modelo vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0184",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Mantener el compromiso contra la pena de muerte y por su abolición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0185",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Defender pensiones, sanidad pública y cuidados, y corregir injusticias pendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0186",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Sin retrocesos en las pensiones ni recortes en los derechos sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0187",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revalorizar las pensiones, mejorar las más bajas y corregir penalizaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0188",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revalorizar anualmente las pensiones conforme al IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0189",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Mejorar progresivamente las pensiones mínimas y no contributivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0190",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar penalizaciones de la jubilación anticipada con más de 40 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0191",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reducir la brecha de género en las pensiones compensando los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0192",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reconocer los periodos de cuidados familiares en la Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0193",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Coeficientes reductores de jubilación para personas cuidadoras no profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0194",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Sistema público de pensiones suficiente y sostenible en el marco del Pacto de Toledo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0195",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Extender la previsión social de empleo como complemento de las pensiones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0196",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Euskadi la gestión del régimen económico de la Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0197",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Sanidad pública con profesionales suficientes y respeto a las competencias vascas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0198",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Adaptar el sistema MIR a las necesidades reales de especialistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0199",
+  "subtema": "san-profesionales",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Valorar las lenguas oficiales en el acceso a la formación sanitaria especializada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0200",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reforzar la planificación de profesionales sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0201",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Participación vasca y navarra en la autorización y precio de los medicamentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0202",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Mejorar la atención a enfermedades raras y neurodegenerativas, incluido el Alzheimer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0203",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Regular el uso medicinal del cannabis",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Regular el cannabis medicinal? → sí"
+ },
+ {
+  "id": "pnv-0204",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Culminar las transferencias sanitarias pendientes a Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0205",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Negociar el Estatuto Marco con profesionales, sindicatos y comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0206",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Solución dialogada a los conflictos laborales sanitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0207",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reconocer y proteger a quienes cuidan de familiares dependientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0208",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Prestación digna para cuidadoras no profesionales con referencia al salario mínimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0209",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Compatibilizar prestaciones económicas y servicios de apoyo a los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0210",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reforzar los servicios de apoyo y respiro para familias cuidadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0211",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Crear un Fondo Personal para Cuidados en la Comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0212",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Hacer efectivos los derechos ante enfermedades graves y dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0213",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "san-prestaciones"
+  ],
+  "titular": "Cumplir íntegramente y financiar la Ley ELA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0214",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Aprobar un Real Decreto de Electrodependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0215",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Proteger a personas electrodependientes frente a cortes y darles bono social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0216",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Evaluar cada año la prestación CUME por cuidado de menores con cáncer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0217",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Estudiar extender la prestación CUME al personal funcionario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0218",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reparación justa y sin retrasos para las víctimas del amianto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0219",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reformar el Real Decreto 483/2025 para facilitar el acceso al fondo del amianto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0220",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Revisar las indemnizaciones del amianto y simplificar su pago",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0221",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Declarar exentas del IRPF las indemnizaciones del Fondo de Compensación del Amianto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0222",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Dotación suficiente y plazos ágiles para indemnizar a las víctimas del amianto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0223",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Que ningún niño o niña crezca sin oportunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0224",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Reforzar la prevención y la lucha contra la pobreza infantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0225",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Proteger a la infancia frente a la violencia y la explotación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0226",
+  "subtema": "fam-infancia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Órganos judiciales especializados en infancia y adolescencia en Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0227",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Reforzar las obligaciones de las plataformas digitales para proteger a la infancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0228",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Verificación de edad proporcionada y retirada de contenidos ilícitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0229",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Financiación suficiente y sostenible del sistema público de protección social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0230",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Acuerdos entre administraciones ante los cambios demográficos y nuevas necesidades sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0231",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Defender el autogobierno y el cumplimiento íntegro del Estatuto de Gernika",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0232",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Nueva relación con el Estado basada en el reconocimiento de Euskadi como nación",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0233",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Exigir todas las competencias pendientes del Estatuto de Gernika",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0234",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Cumplir íntegramente el Estatuto de Gernika y culminar las transferencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0235",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Rechazar cualquier intento de recentralización de las competencias vascas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0236",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Mecanismos bilaterales de negociación y seguimiento entre Euskadi y el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0237",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Proteger los Derechos Históricos y el reconocimiento nacional de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0238",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Defender el Amejoramiento del Fuero y las instituciones propias de Navarra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0239",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Que Trebiño y Villaverde Turtzioz puedan decidir su incorporación a Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0240",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Defender el Concierto Económico y extender la bilateralidad a la relación política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0241",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Ampliar las capacidades financiero-fiscales modificando la Ley del Concierto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0242",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Que las reformas fiscales estatales respeten el Concierto Económico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0243",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Nueva relación política con el Estado basada en la realidad nacional vasca",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0244",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Avanzar hacia un Concierto Político basado en el pacto y la bilateralidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0245",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Mecanismos imparciales de resolución de conflictos entre Euskadi y el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0246",
+  "subtema": "seg-justicia",
+  "otros": [],
+  "titular": "Más capacidad de Euskadi para organizar su sistema judicial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0247",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Que las instancias judiciales culminen en el Tribunal Superior de Justicia vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0248",
+  "subtema": "seg-justicia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Crear un Consejo Vasco de Justicia con funciones de gobierno judicial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0249",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Reconocer a la Ertzaintza como Policía judicial en el ámbito vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0250",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Esclarecer hechos graves y acabar con documentos ocultos durante décadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0251",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Nueva Ley de Secretos Oficiales con plazos de desclasificación automática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0252",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Desclasificar los documentos del 3 de marzo de 1976 en Vitoria-Gasteiz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0253",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Esclarecer las circunstancias de la muerte de Mikel Zabalza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0254",
+  "subtema": "seg-terrorismo",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Desclasificar la documentación del atentado del bar Aldana de Alonsotegi de 1980",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0255",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Acceso a la documentación sobre la actuación policial en los Sanfermines de 1978",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0256",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Aplicar íntegramente la legislación de Memoria Histórica y Memoria Democrática",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0257",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reforzar la transparencia y la rendición de cuentas de las administraciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0258",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Participar directamente en las decisiones europeas que afectan a Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0259",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Participación directa de Euskadi en las instituciones de la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0260",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Voz propia de Euskadi en el Consejo de la UE, incluidos ECOFIN y Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0261",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Reconocer las realidades nacionales en las instituciones europeas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0262",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0263",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Una Europa más democrática, competitiva y social con autonomía estratégica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0264",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Crear una Macrorregión Atlántica Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0265",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Cumplir los plazos de las redes transeuropeas de transporte transfronterizas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0266",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Que los fondos europeos se gestionen desde Euskadi sin recentralizar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0267",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Participación de Euskadi en el Marco Financiero Plurianual 2028-2034",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0268",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Gestión descentralizada de los fondos europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0269",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Participación directa de Euskadi en la programación de los fondos europeos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "pnv-0270",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Financiación europea para las prioridades industriales y sociales de Euskadi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Frenar al bloque reaccionario y avanzar en derechos y libertades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: logros en pensiones, vivienda, impuestos y memoria en Madrid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Compromiso de seguir trabajando en el Congreso y el Senado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0004",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Cambiar de raíz el mercado de la vivienda contra la especulación y el rentismo",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0005",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Contratos de alquiler ordinarios con prórroga automática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0006",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir de forma permanente los desahucios de personas vulnerables sin alternativa",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0007",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Financiación estatal a ayuntamientos que declaren zonas tensionadas",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0008",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Prohibir la publicidad de pisos turísticos ilegales en plataformas digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0009",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir la compra especulativa de vivienda por fondos y grandes tenedores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0010",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Exigir dos años de empadronamiento a extranjeros multipropietarios para comprar vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0011",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Condicionar la compra de edificios completos al alquiler regulado",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0012",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Limitar de forma estructural al 2 % la actualización anual del alquiler",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0013",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Eliminar deducciones fiscales cuando se suba la renta del alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0014",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "IVA del 21 % para alojamientos turísticos de corta duración",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0015",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Eliminar las SOCIMIs y sus privilegios fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0016",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Salarios dignos y condiciones laborales justas para la mayoría trabajadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0017",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada a 32 horas o cuatro días sin reducción salarial",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0018",
+  "subtema": "trab-salarios",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "SMI propio por comunidad autónoma y despido improcedente de al menos 45 días",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   },
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": "EJE NUEVO: ¿Salario mínimo propio por comunidad autónoma? → sí"
+ },
+ {
+  "id": "bildu-0019",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Registro horario digital obligatorio y recargo por ley de las horas extras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0020",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Periodo de prueba máximo: 3 meses para titulados y 1 mes para el resto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0021",
+  "subtema": "trab-empleo",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Más recursos y plantillas para tramitar prestaciones y desempleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0022",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Cumplir la cuota de reserva de empleo para personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0023",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Reconocer el Marco Vasco y Navarro de Relaciones Laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0024",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Agilizar la homologación de titulaciones extranjeras para la inclusión sociolaboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0025",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Equiparación laboral plena de las empleadas de hogar y revisión del régimen de internas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0026",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferencia completa de la Inspección de Trabajo y más plantilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0027",
+  "subtema": "trab-empleo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Navarra las políticas pasivas de empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0028",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Defender el carácter público y la suficiencia de todas las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0029",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Blindar las pensiones públicas contra recortes, privatización o más edad de jubilación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0030",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Blindar la revalorización anual de las pensiones al IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0031",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir las pensiones mínimas al menos hasta 1.220 € ligadas al SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0032",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir al menos un 15 % las pensiones de viudedad y no contributivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0033",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensión sin penalización con al menos 40 años de cotización",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0034",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir el Régimen Económico de la Seguridad Social a instituciones vascas y navarras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0035",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Intervención pública en la formación de precios frente a las grandes corporaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0036",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Intervenir los márgenes de grandes empresas energéticas y alimentarias en crisis",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0037",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Recuperar el tope al gas para la generación eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0038",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Límites temporales a los precios de bienes y servicios esenciales en emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0039",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reformar el mercado eléctrico europeo superando el modelo marginalista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0040",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Controlar precios y márgenes de grandes distribuidoras y combatir la reduflación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0041",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Ayudas condicionadas a sectores productivos afectados por subidas energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0042",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Mantener y ampliar rebajas y bonos de transporte con financiación estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0043",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Ampliar y automatizar el acceso al bono social eléctrico y térmico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0044",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Defender y adquirir competencias sanitarias para reforzar el derecho a la salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0045",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incluir salud bucodental y visual en la cartera común y prestaciones por talidomida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0046",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Gratuidad de productos de higiene menstrual e IVA superreducido",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0047",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Dispensación gratuita de preservativos y kits de detección de ITS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0048",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Restringir la venta y publicidad de ultraprocesados y bebidas azucaradas a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0049",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Ampliar la eutanasia al sufrimiento psíquico y blindar el derecho a morir dignamente",
+  "ejes": [
+   {
+    "eje": "eje-eutanasia",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0050",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Prevenir la violencia obstétrica junto a colectivos feministas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0051",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Controlar el cumplimiento del derecho al olvido oncológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0052",
+  "subtema": "san-profesionales",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Reservar el 53 % de plazas MIR a quienes dominen las dos lenguas oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0053",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Cambiar el acceso a las especialidades y crear la de enfermedades infecciosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0054",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-profesionales"
+  ],
+  "titular": "Priorizar y prestigiar la especialidad de familia y comunitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0055",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reconocer biología, trabajo social, deporte y psicología como profesiones sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0056",
+  "subtema": "san-profesionales",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir la competencia de formación sanitaria especializada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0057",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Nuevo modelo de salud mental centrado en los determinantes sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0058",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Derogar la Ley 15/1997 de nuevas formas de gestión del Sistema Nacional de Salud",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0059",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Orientar la financiación de la industria farmacéutica a los objetivos del sistema público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0060",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Regular el patrocinio de la industria farmacéutica y de tecnologías médicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0061",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Crear una Farmacia Pública junto con las comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0062",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Reformar el Real Decreto Legislativo 1/2015 sobre acceso y abastecimiento de medicamentos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0063",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Transformar el sistema público de salud con perspectiva biopsicosocial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0064",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Asumir los Centros de Vacunación Internacional y la Sanidad Exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0065",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Un sistema educativo propio para Euskal Herria, euskaldun y soberano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0066",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Bajar las ratios aprovechando el descenso de la natalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0067",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Estabilizar a las profesionales de la educación y mejorar sus condiciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0068",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Aumentar la financiación educativa hacia el 6 % definido por la UNESCO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0069",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la atención al alumnado con necesidades educativas especiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0070",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Diagnóstico: sin servicios públicos suficientes, ser dependiente penaliza a las familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0071",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Limitar la privatización de los cuidados y avanzar hacia su universalidad y gratuidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0072",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Incluir los cuidados temporales en el sistema de atención a la dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0073",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Retroactividad de las prestaciones de dependencia desde la fecha de solicitud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0074",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reparación de género en los cuidados y reconocimiento de los cuidados familiares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0075",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Saldar deudas históricas con afectados por la polio y esterilizaciones forzadas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: reparación a víctimas de daños sanitarios históricos (polio, talidomida, esterilizaciones forzadas)"
+ },
+ {
+  "id": "bildu-0076",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Excluir los cuidados personales del copago de la dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0077",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Canales presenciales obligatorios y más plantilla para atender a la ciudadanía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0078",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Procesos abreviados para prestaciones por desempleo y ayudas a colectivos vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0079",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Exigir el euskera en la administración estatal en Araba, Bizkaia, Gipuzkoa y Nafarroa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0080",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Atajar el fraude y el comercio con las citas presenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0081",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Que las administraciones vascas y navarras negocien las subidas salariales de sus plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0082",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Mantener y reforzar el escudo social para personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0083",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Hacer permanente la prohibición de cortar suministros básicos a hogares vulnerables",
+  "ejes": [],
+  "nota": ""
+ }
+]

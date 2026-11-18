@@ -1,0 +1,488 @@
+[
+ {
+  "eje": "eje-jefatura",
+  "id": "podemos-0428",
+  "posicion": "republica",
+  "cita": "Impulsaremos la aprobación de una constitución republicana que incorpore los avances democráticos previstos en este capítulo."
+ },
+ {
+  "eje": "eje-jefatura",
+  "id": "erc-0015",
+  "posicion": "republica",
+  "cita": "fiscalitzar l’activitat del rei d’Espanya, la casa reial i la família reial i totes les iniciatives que puguin influir a l’hora de posar fi a aquesta institució contrària al principi democràtic"
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "podemos-0310",
+  "posicion": "cooficiales",
+  "cita": "Garantizaremos la promoción y enseñanza de las lenguas cooficiales y propias de los distintos pueblos del Estado, asegurando una oferta educativa suficiente para estudiar todas las lenguas reconocidas legalmente en los diferentes territorios"
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "bng-0414",
+  "posicion": "cooficiales",
+  "cita": "Impulsar os convenios para o ensino do galego como segundo idioma na educación secundaria e nas Escolas Oficiais de Idiomas noutros territorios do Estado."
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "bng-0415",
+  "posicion": "cooficiales",
+  "cita": "garantir a sinatura de convenios para ensino do galego en toda a etapa educativa nos territorios galegofalantes de comunidades limítrofes."
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "erc-0018",
+  "posicion": "cooficiales",
+  "cita": "reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament"
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "erc-0024",
+  "posicion": "cooficiales",
+  "cita": "El català com a llengua vehicular i la immersió lingüística són pilars del nostre model educatiu."
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "erc-0025",
+  "posicion": "cooficiales",
+  "cita": "blindar l’escola catalana davant les ingerències judicials i polítiques i avançar cap a l’exercici ple de les competències educatives."
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "erc-0026",
+  "posicion": "cooficiales",
+  "cita": "Promoure un gran pacte de país, amb la participació de les institucions, la comunitat educativa i les entitats socials, per defensar el model d’escola catalana, la immersió lingüística i el català com a llengua vehicular i de cohesió social"
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "erc-0027",
+  "posicion": "cooficiales",
+  "cita": "Modificar la legislació educativa estatal per impedir les ingerències de l’Estat, la imposició de percentatges lingüístics als centres i qualsevol vulneració dels projectes lingüístics i del model d’immersió de Catalunya."
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "cnv-0158",
+  "posicion": "cooficiales",
+  "cita": "Treballarem per garantir l’ús intensiu del català (i de l’aranès a la Val d’Aran) com a llengua vehicular i de cohesió social"
+ },
+ {
+  "eje": "eje-lengua",
+  "id": "cnv-0159",
+  "posicion": "cooficiales",
+  "cita": "Preservarem i actualitzarem el model d’immersió lingüística per garantir el domini oral i escrit del català en totes les etapes."
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "id": "adelante-0022",
+  "posicion": "si",
+  "cita": "Auditoría de la deuda de Andalucía e impago de la deuda contraída contra los intereses del pueblo andaluz"
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "id": "adelante-0393",
+  "posicion": "si",
+  "cita": "Condonación de la parte de la deuda causada por la falta de financiación, quita del FLA e intereses hacia el 0 %."
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "id": "erc-0035",
+  "posicion": "si",
+  "cita": "Esquerra Republicana ha reivindicat també la importància de la quitança del deute del Fons de Liquiditat Autonòmica (FLA), un deute trampós i il·legítim imposat per l’Administració General de l’Estat"
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "id": "erc-0037",
+  "posicion": "si",
+  "cita": "Condonar de forma efectiva els més de 17.100 milions d’euros del FLA."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0021",
+  "posicion": "subir-lujo",
+  "cita": "Aumentar al 21% el IVA de los pisos turísticos."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0052",
+  "posicion": "bajar",
+  "cita": "Reduciremos al 10 % el IVA de los servicios de peluquería"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0053",
+  "posicion": "bajar",
+  "cita": "reduciremos el IVA de los servicios veterinarios al 10%, avanzando progresivamente hacia el 4%."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0054",
+  "posicion": "bajar",
+  "cita": "Bajaremos el IVA del 10% al 5% y extenderemos el tipo reducido a los servicios artísticos prestados mediante cooperativas y sociedades de artistas"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0055",
+  "posicion": "bajar",
+  "cita": "estableceremos que todos los productos menstruales queden exentos de IVA."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0063",
+  "posicion": "subir-lujo",
+  "cita": "elevaremos al 21 % el IVA aplicable a los servicios de alojamiento en pisos turísticos."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0075",
+  "posicion": "bajar",
+  "cita": "Además de incorporar el franquiciado de IVA de la normativa europea, estableceremos un sistema que garantice la aplicación universal de un criterio de caja adecuado"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "podemos-0411",
+  "posicion": "bajar",
+  "cita": "IVA reducido a productos veterinarios y garantía de acceso a la atención veterinaria."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "adelante-0289",
+  "posicion": "bajar",
+  "cita": "IVA superreducido para lo básico — Electricidad, agua, alimentos básicos, productos menstruales y cultura."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "adelante-0290",
+  "posicion": "bajar",
+  "cita": "IVA reducido para la crianza y la limpieza — Pañales, toallitas, biberones, leche de fórmula y productos de limpieza básicos."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "adelante-0291",
+  "posicion": "subir-lujo",
+  "cita": "IVA del 21 % para el alquiler turístico — Que tribute como la actividad empresarial que es."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "adelante-0686",
+  "posicion": "bajar",
+  "cita": "Bajar el IVA de los servicios veterinarios al tipo reducido."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "adelante-0697",
+  "posicion": "subir-lujo",
+  "cita": "IVA general para los toros — El tipo general en los espectáculos taurinos."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bng-0244",
+  "posicion": "bajar",
+  "cita": "Reducir a imposición do IVE de bens e servizos esenciais, así como os bens de carácter cultural, para que tributen no tramo superreducido."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bng-0245",
+  "posicion": "bajar",
+  "cita": "Estabelecer a rebaixa permanente do IVE de produtos de alimentación básica, produtos do mar, elementos de hixiene persoal e feminina, transporte público de pasaxeiros"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bng-0246",
+  "posicion": "bajar",
+  "cita": "Rebaixar de novo o IVE aplicado á electricidade, gas, biomasa para quecemento e madeira para leña, e do resto de subministracións básicas ao 5% e estabelecer a súa permanencia."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bng-0281",
+  "posicion": "bajar",
+  "cita": "A redución do IVE aos produtos pesqueiros."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0083",
+  "posicion": "subir-lujo",
+  "cita": "Incrementar els tipus de l’IVA i l’ITP sobre la compra d’habitatge quan aquest es destini a usos diferents a l’habitatge habitual."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0083",
+  "posicion": "bajar",
+  "cita": "cal que es redueixin els tipus impositius quan l’ús final de l’habitatge sigui la primera residència, del propietari o de l’arrendatari"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0084",
+  "posicion": "subir-lujo",
+  "cita": "Elevar el tipus d’IVA aplicable al lloguer turístic al 21 %, inclosos els habitatges oferts o gestionats per plataformes digitals."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0091",
+  "posicion": "bajar",
+  "cita": "defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0096",
+  "posicion": "bajar",
+  "cita": "Rebaixar l’IVA aplicable a aliments bàsics i productes d’higiene"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "erc-0096",
+  "posicion": "subir-lujo",
+  "cita": "Dur a terme una reforma social de l’IVA. Rebaixar l’IVA aplicable a aliments bàsics i productes d’higiene, acabant amb un gran nombre de les reduccions i deduccions respecte a la mitjana europea."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "cnv-0067",
+  "posicion": "bajar",
+  "cita": "Plantejarem a l’Estat la reducció de l’IVA aplicat a la cessió de sòl per a habitatge social, del 21% al 10%"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "cnv-0238",
+  "posicion": "bajar",
+  "cita": "Defensarem la reducció de la càrrega fiscal que afecta el sector esportiu, actualment penalitzat per l’IVA"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "pnv-0129",
+  "posicion": "bajar",
+  "cita": "Revisar el IVA cultural para favorecer la actividad de artistas y galerías"
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bildu-0014",
+  "posicion": "subir-lujo",
+  "cita": "Establecer un IVA del 21% para alojamientos turísticos de corta duración."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bildu-0046",
+  "posicion": "bajar",
+  "cita": "Aprobar la gratuidad de productos de higiene menstrual mediante su distribución farmacéutica y aplicar el IVA superreducido a estos productos en todos los puntos de venta."
+ },
+ {
+  "eje": "eje-iva",
+  "id": "bildu-0099",
+  "posicion": "subir-lujo",
+  "cita": "Establecer un 21% de IVA para los alojamientos turísticos de corta duración."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "podemos-0130",
+  "posicion": "adelantar",
+  "cita": "eliminando retroactivamente las penalizaciones para los trabajadores y trabajadoras con 40 años o más de cotización"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "podemos-0131",
+  "posicion": "adelantar",
+  "cita": "Reformaremos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "podemos-0145",
+  "posicion": "adelantar",
+  "cita": "Las trabajadoras y los trabajadores de los sectores especialmente duros y precarios podrán jubilarse anticipadamente sin penalización."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "podemos-0157",
+  "posicion": "adelantar",
+  "cita": "se permitirá una jubilación anticipada sin penalización en razón de la especial dureza de este empleo"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "podemos-0286",
+  "posicion": "adelantar",
+  "cita": "Inicio del procedimiento del Real Decreto 402/2025 para coeficientes reductores en la danza, el circo y otras profesiones artísticas y técnicas con desgaste físico acreditado."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0012",
+  "posicion": "adelantar",
+  "cita": "jubilación a los 64 años, desde los 55 con contrato de relevo, y jubilación completa con 40 años cotizados."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0053",
+  "posicion": "adelantar",
+  "cita": "Jubilación anticipada a los 60 — Voluntaria, por la penosidad del trabajo sanitario."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0126",
+  "posicion": "adelantar",
+  "cita": "menos horas lectivas al final de la vida laboral, mentoría y jubilación anticipada, flexible y progresiva."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0256",
+  "posicion": "adelantar",
+  "cita": "Jubilación anticipada para quien cuida — Sin penalización para las madres y padres que han cuidado durante años a un hijo o hija con gran discapacidad."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0267",
+  "posicion": "adelantar",
+  "cita": "40 años cotizados, jubilación completa — Sin coeficientes reductores para quien acredite 40 años cotizados."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0268",
+  "posicion": "adelantar",
+  "cita": "Adelanto de la edad de jubilación para la pesca, el marisqueo, la industria naval y el trabajo en el campo"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0269",
+  "posicion": "adelantar",
+  "cita": "Edad ordinaria de jubilación a los 64 años y jubilación anticipada desde los 55 con contrato de relevo."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0270",
+  "posicion": "adelantar",
+  "cita": "Jubilación anticipada en profesiones penosas — Personal sanitario desde los 60, conducción profesional y las que se reconozcan."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "adelante-0336",
+  "posicion": "adelantar",
+  "cita": "Transporte por carretera digno — Prohibido trabajar por debajo de costes, jubilación anticipada y enfermedades profesionales reconocidas."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "bng-0072",
+  "posicion": "adelantar",
+  "cita": "Recuperación da xubilación ordinaria aos 65 anos e a parcial aos 61 anos."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "bng-0074",
+  "posicion": "adelantar",
+  "cita": "Recoñecer a xubilación voluntaria sen penalización, a partir de ter cotizados 35 anos"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "bng-0075",
+  "posicion": "adelantar",
+  "cita": "Eliminación das penalizacións por acceso anticipado á xubilación."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "bng-0080",
+  "posicion": "adelantar",
+  "cita": "Fixación de coeficientes redutores da idade de xubilación para as traballadoras e traballadores nas profesións de maior penosidade, perigosidade e insalubridade."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "erc-0145",
+  "posicion": "adelantar",
+  "cita": "Garantir l’accés a la jubilació anticipada sense penalitzacions en la pensió a les persones treballadores de sectors i professions especialment penosos, perillosos, tòxics o insalubres"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "cnv-0042",
+  "posicion": "adelantar",
+  "cita": "les persones que, a partir dels 60 anys, sumin un total de 100 entre edat i anys cotitzats, puguin percebre la totalitat de la seva pensió."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "cnv-0043",
+  "posicion": "adelantar",
+  "cita": "Treballarem per la supressió dels coeficients reductors en la prestació de jubilació de les persones que han cotitzat 40 anys o més i es jubilen de forma anticipada."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "cnv-0056",
+  "posicion": "adelantar",
+  "cita": "Proposarem rebaixar l'edat mínima d'accés a la jubilació a les persones amb discapacitat i especials dificultats."
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "pnv-0190",
+  "posicion": "adelantar",
+  "cita": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "pnv-0193",
+  "posicion": "adelantar",
+  "cita": "Favorecer coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social"
+ },
+ {
+  "eje": "eje-jubilacion",
+  "id": "bildu-0033",
+  "posicion": "adelantar",
+  "cita": "Culminar la tramitación de la Ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización."
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "podemos-0357",
+  "posicion": "cerrar",
+  "cita": "Defenderemos el cumplimiento del calendario de cierre de las centrales nucleares, comenzando por Almaraz"
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "cnv-0246",
+  "posicion": "mantener",
+  "cita": "Mentre no existeixi una tecnologia d’emmagatzematge d’energies renovables, com la de l’hidrogen verd, cal garantir la continuïtat de les centrals nuclears existents per tal de garantir l’estabilitat del subministrament."
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "cnv-0272",
+  "posicion": "mantener",
+  "cita": "Proposarem l’ús d’un mix energètic equilibrat que inclogui el manteniment de l’actual parc nuclear mentre es desenvolupa un sistema renovable segur i eficient."
+ },
+ {
+  "eje": "eje-nuclear",
+  "id": "bildu-0107",
+  "posicion": "cerrar",
+  "cita": "Apostaremos por mantener el calendario de cierre nuclear definido en el PNIEC."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "podemos-0422",
+  "posicion": "retirar",
+  "cita": "Derogaremos la Ley 18/2013 que declara la tauromaquia patrimonio cultural, respaldando la ILP «No es mi cultura», y eliminaremos las ayudas y la promoción institucional de espectáculos que impliquen maltrato animal."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0684",
+  "posicion": "retirar",
+  "cita": "la tauromaquia continúa recibiendo dinero público. La protección animal no puede tener excepciones a la carta: la ley tiene que proteger a todos los animales, y el dinero público no puede financiar su sufrimiento."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0685",
+  "posicion": "retirar",
+  "cita": "los usados en festejos, con la tauromaquia en transición hasta su abolición."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0694",
+  "posicion": "retirar",
+  "cita": "La posición del programa es la transición hasta la abolición de la tauromaquia."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0695",
+  "posicion": "retirar",
+  "cita": "Tauromaquia, no patrimonio — Derogar la Ley 18/2013, que la regula como patrimonio cultural."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0696",
+  "posicion": "retirar",
+  "cita": "Ni un euro público para los toros — Fin de toda subvención, también a las escuelas taurinas, y ningún fondo europeo para nada relacionado con la tauromaquia."
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "id": "adelante-0697",
+  "posicion": "retirar",
+  "cita": "IVA general para los toros — El tipo general en los espectáculos taurinos."
+ }
+]

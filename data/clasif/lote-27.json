@@ -1,0 +1,2725 @@
+[
+ {
+  "id": "bng-0181",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Dedicar a la educación como mínimo el 7 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0182",
+  "subtema": "edu-universidad",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Reformar la LOSU para permitir una ley gallega de universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0183",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Regular la evaluación y la carrera del personal docente e investigador universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0184",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Aumentar la financiación de las universidades públicas hasta el 1,5 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0185",
+  "subtema": "edu-universidad",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia la UNED, la UIMP y los centros del CSIC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0186",
+  "subtema": "edu-becas",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia la gestión de las becas universitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0187",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Mejorar el seguro escolar y transferirlo a la Xunta de Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0188",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Eliminar la tasa de reposición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0189",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Programas de relevo generacional para evitar el envejecimiento de las plantillas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0190",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Financiar vivienda para estudiantes, sobre todo residencias públicas universitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0191",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Programas de financiación del transporte universitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0192",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: deterioro y mercantilización programada de la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0193",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-farmacia"
+  ],
+  "titular": "Aumentar la financiación sanitaria hasta la media de inversión por habitante de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0194",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Modificar la Ley 15/97 para una sanidad de gestión exclusivamente pública",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0195",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Nueva ley de universalización de la asistencia sanitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0196",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ampliar la cartera común con ortoprótesis, odontología, podología y logopedia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0197",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Acabar con los copagos y repagos de la prestación farmacéutica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0198",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Marco legal de información transparente sobre las listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0199",
+  "subtema": "san-profesionales",
+  "otros": [
+   "trab-empleo-publico"
+  ],
+  "titular": "Eliminar la tasa de reposición de personal como norma básica estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0200",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Capacidad normativa y financiera para la docencia e investigación sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0201",
+  "subtema": "san-profesionales",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia la formación MIR, EIR y PIR y aumentar plazas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0202",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Fomentar la permanencia de los especialistas formados en la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0203",
+  "subtema": "san-profesionales",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Garantizar la jubilación anticipada y parcial del personal estatutario sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0204",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Modificar la LOPS para incorporar nuevas profesiones sanitarias como la Biología",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0205",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Actualizar las clasificaciones profesionales de la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0206",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Nuevo Estatuto Marco de profesionales sanitarios sin recentralizar competencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0207",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Recuperar íntegras las pagas extraordinarias del personal estatutario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0208",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Impulsar la investigación de las enfermedades raras con financiación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0209",
+  "subtema": "san-farmacia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Líneas prioritarias de investigación en salud de la mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0210",
+  "subtema": "san-modelo",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Transferir la sanidad penitenciaria al Servizo Galego de Saúde",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0211",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reconocer el nivel 3 de clasificación profesional al personal TCAE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0212",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Diagnóstico: el Estado debe financiar el 50 % del sistema de dependencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0213",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Exigir al Estado financiar el SAAD y pagar más de 3.000 millones de deuda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0214",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Destinar los fondos del SAAD a la red pública de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0215",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Mejores condiciones laborales para las trabajadoras de los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0216",
+  "subtema": "inst-administracion",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Atención presencial sin cita previa e intérpretes en las oficinas del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0217",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Plan de accesibilidad universal en las instituciones y servicios del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0218",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Desarrollar y financiar la asistencia personal de las personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0219",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Blindar la prestación CUME para familias con menores con enfermedades graves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0220",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Modelo de cuidados de mayores según los estándares del Consejo de Europa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0221",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Apoyar medidas de lucha contra la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0222",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Inhabilitar a cargos públicos que cometan fraude fiscal o usen paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0223",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Regular estrictamente las puertas giratorias y las incompatibilidades parlamentarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0224",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Reformas para mejorar la transparencia en la contratación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0225",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Suprimir las restricciones normativas a la gestión pública directa de servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0226",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Transparencia en la contratación negociada y directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0227",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Fomentar la participación de las pymes en la contratación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0228",
+  "subtema": "inst-administracion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Suprimir la administración periférica del Estado y ministerios con competencias transferidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0229",
+  "subtema": "inst-local",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Suprimir las diputaciones provinciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0230",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Derogar la reforma local que limita la autonomía municipal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0231",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: el sistema fiscal penaliza las rentas del trabajo frente al capital",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   },
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0232",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Aumentar la progresividad del IRPF: que pague más quien más renta obtiene",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0233",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Ajustar los tramos estatales del IRPF al IPC de Galicia",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0234",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Gravar menos las rentas del trabajo y más las del capital",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0235",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Deducciones en el IRPF inversamente proporcionales a los tipos de gravamen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0236",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Elevar la exención por kilometraje de 0,26 a 0,40 euros por km",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0237",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Introducción a las medidas sobre el Impuesto de Sociedades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0238",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Obligar a tributar en Galicia a las empresas que operan allí",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0239",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Hacer progresivo el Impuesto de Sociedades según el tamaño de la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0240",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Deducciones en Sociedades inversamente proporcionales a los tipos soportados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0241",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Ampliar del 10 % al 25 % la reserva de capitalización de las pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0242",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Deducciones adicionales para empresas de sectores estratégicos gallegos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0243",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "El IVA como traba de acceso a bienes básicos para las rentas bajas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0244",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Aplicar el IVA superreducido a bienes esenciales y culturales",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0245",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Rebaja permanente del IVA de alimentos básicos, higiene y transporte público",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0246",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA permanente del 5 % para electricidad, gas, biomasa y leña",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0247",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Fijar de forma permanente el Impuesto Especial sobre la Electricidad en el 0,5 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0248",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "Blindar los impuestos a banca, grandes energéticas y grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0249",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Introducción de nuevas propuestas fiscales de justicia social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0250",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Más medios para prevenir y combatir el fraude y la evasión fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0251",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Prohibir contratos y ayudas públicas a empresas con sociedades en paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0252",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Fiscalidad ambiental sobre energía, transporte, contaminación y recursos naturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0253",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Permitir el uso incondicional de los remanentes municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0254",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Seguir reclamando el uso incondicional de los remanentes municipales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0255",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: grave crisis del sector industrial gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0256",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Reindustrializar con industria auxiliar, sectores emergentes e I+D+i",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0257",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Plan de Industrialización gallego prioritario para Ferrol y Vigo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0258",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Obligar a devolver las ayudas públicas a las empresas que se deslocalicen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0259",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Promover la construcción naval en Galicia, con los astilleros de Vigo y Ferrol",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0260",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Diversificar Navantia-Ferrol hacia la construcción naval civil e incorporar a la Xunta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0261",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Garantizar la actividad y el empleo de Alcoa-San Cibrao, incluso con intervención pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0262",
+  "subtema": "eco-publico-banca",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Transferir a la Xunta las participaciones estatales para una Corporación Industrial Pública Gallega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0263",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Codecisión y gestión descentralizada de la política industrial en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0264",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reorientar los planes estatales para abandonar la reconversión industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0265",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Rechazo al marco financiero europeo 2028-2034 que dedica el 33 % a armas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0266",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Diagnóstico: las políticas estatales y europeas han debilitado el agro gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0267",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Modificar la Ley de la cadena alimentaria para impedir ventas por debajo de costes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0268",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Impulsar circuitos cortos de transformación y comercialización agroganadera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0269",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Recursos contra las enfermedades emergentes en el sector agroganadero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0270",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Rechazar acuerdos comerciales perjudiciales para el agro, en particular UE-Mercosur",
+  "ejes": [
+   {
+    "eje": "eje-mercosur",
+    "posicion": "rechazar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0271",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Cambiar el PEPAC para adaptarlo al sector agrario gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0272",
+  "subtema": "rural-agro",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Exigir más fondos de cohesión, PAC y FEMPA frente al rearme del marco 2028-34",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0273",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Nueva política forestal para recuperar el bosque autóctono frente al monocultivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0274",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Política forestal propia para Galicia frente a la expansión del eucalipto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0275",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Que Galicia negocie directamente los tratados pesqueros, como la cuota de sardina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0276",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reconocer a Galicia como zona altamente dependiente de la pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0277",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Eliminar el principio de estabilidad relativa en la pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0278",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Capacidad de negociación directa de Galicia en la reforma de la PPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0279",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reparto equitativo de las cuotas de pesca para la flota gallega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0280",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Eximir a la pesca artesanal de TAC y cuotas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0281",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Reducir el IVA de los productos pesqueros",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0282",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Galicia libre de eólica marina y de minería submarina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0283",
+  "subtema": "inst-territorial",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Transferir a Galicia puertos estatales, Salvamento Marítimo, IEO y gestión del litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0284",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Estudiar un sistema separativo de depuración de aguas residuales en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0285",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Concentrar la inspección pesquera en el cuerpo de Gardacostas de Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0286",
+  "subtema": "rural-agro",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Aplicar las enmiendas a la Ley de Pesca sobre enfermedades profesionales y convenios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0287",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Transferir los espacios portuarios estatales en desuso para uso ciudadano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0288",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir los inmuebles del ISM y recuperar las casas del mar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0289",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Las casas del mar como servicio vital para el sector marítimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0290",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Excluir la pesca artesanal del Reglamento europeo de Control de la Pesca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0291",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Diagnóstico: el trabajo autónomo supone el 18,8 % de la ocupación en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0292",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Sistema fiscal más sencillo y adaptado a la capacidad real de los autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0293",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Aproximar los derechos de los autónomos a los de los asalariados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0294",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Permitir la baja médica de los autónomos sin poner en riesgo su actividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0295",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Prestaciones suficientes y acceso más sencillo al cese de actividad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0296",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Facilitar la conciliación, maternidad y paternidad de las personas autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0297",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Políticas contra las desigualdades que afectan a las mujeres autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0298",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Sin ciencia no hay futuro: inversión y ciencia con derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0299",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Elevar la inversión estatal en I+D+i al 3 % del PIB en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0300",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Condiciones laborales y salariales dignas y estables para el personal investigador",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0301",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia los centros del CSIC y del IEO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0302",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Pacto por la ciencia con un Estatuto del Personal de Investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0303",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Derecho a decidir el modelo energético gallego frente a las grandes energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0304",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Priorizar la generación distribuida y el control público de la energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0305",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Tarifa eléctrica gallega con menores peajes por ser excedentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0306",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reformar la factura eléctrica para retribuir según costes reconocidos de producción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0307",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia las competencias en materia energética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0308",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Introducción a las medidas energéticas concretas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0309",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir la planificación y las redes energéticas con acuerdo preceptivo de las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0310",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Que Galicia decida sobre instalaciones energéticas de más de 50 MW",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0311",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Retirar los POEM y declarar el litoral gallego no apto para eólica marina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0312",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Recuperar las garantías ambientales y la participación en los proyectos eólicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0313",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Planificar con Galicia las tecnologías y la zonificación de la transición energética",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0314",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Electricidad como bien básico: superar el bono social y prohibir los cortes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0315",
+  "subtema": "ener-modelo",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Impulsar el ahorro energético y las renovables y reducir los combustibles fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0316",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Agenda para el autoconsumo y las comunidades energéticas ciudadanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0317",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Recuperar las concesiones de embalses para una empresa pública gallega de energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0318",
+  "subtema": "eco-industria",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Estatuto especial para las empresas electrointensivas y mantenimiento del empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0319",
+  "subtema": "clima",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Terminar los concursos de transición justa manteniendo los megavatios liberados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0320",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Gran centro de I+D+i en almacenamiento energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0321",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Convocar regularmente las mesas de seguimiento de la transición justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0322",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Compensar la deuda histórica del Estado con las comarcas mineras gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0323",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Mantener la prohibición del fracking",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0324",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ley que regule las plantas de biogás y los usos del digestato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0325",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Diagnóstico: expolio minero y demanda de materias primas para el rearme europeo",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0326",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Rechazo a los proyectos mineros estratégicos y reforma de la ley de minas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0327",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Declarar de dominio público las materias primas críticas y estratégicas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0328",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Facultar a Galicia para declarar zonas de reserva minera permanente",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0329",
+  "subtema": "eco-industria",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Participación pública mínima del 20 % en proyectos de minerales estratégicos",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0330",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Condicionar los derechos mineros a una planificación previa con evaluación ambiental",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0331",
+  "subtema": "eco-industria",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Delimitar zonas incompatibles con la actividad minera",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0332",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Principio de precaución y prevalencia del agua y la salud ante derechos mineros",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0333",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Eliminar la prioridad automática del titular del permiso de investigación minera",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0334",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Impedir la especulación con los derechos mineros",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0335",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reducir la duración de las concesiones mineras y eliminar las prórrogas automáticas",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0336",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Registro público y accesible de los derechos mineros y sus titulares",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0337",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Ampliar la información pública y la participación en proyectos mineros",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0338",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Evaluación ambiental también para los permisos de investigación minera",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0339",
+  "subtema": "eco-industria",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Restringir la minería a cielo abierto y prohibir el uso de cianuro",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0340",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Vincular los derechos mineros a la transformación industrial y el empleo en Galicia",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0341",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Evitar la exportación de minerales sin transformar con compromisos de procesamiento",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0342",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Priorizar reducción, reciclaje y minería urbana frente a nuevas explotaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0343",
+  "subtema": "eco-industria",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Reforzar la responsabilidad ambiental de las mineras y la restauración de terrenos",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0344",
+  "subtema": "eco-industria",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Fondo de Restauración Ambiental financiado por las empresas mineras",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0345",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Endurecer el régimen de residuos mineros del Real Decreto 975/2009",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0346",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Que declarar estratégico un proyecto no rebaje garantías ambientales ni participación",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0347",
+  "subtema": "eco-industria",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Veto o informe vinculante de las administraciones territoriales ante proyectos mineros",
+  "ejes": [],
+  "nota": "SIN ENCAJE: minería y materias primas"
+ },
+ {
+  "id": "bng-0348",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Déficit histórico de infraestructuras en Galicia y competencias plenas en transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0349",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "El ferrocarril como eje de una movilidad sostenible e integrada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0350",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Implantar cercanías ferroviarias en las principales ciudades gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0351",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Modernizar la red ferroviaria interior gallega y conectar Santiago y Lugo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0352",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Completar las obras del Corredor Atlántico de Mercancías en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0353",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Integrar las vías del tren a su paso por villas y ciudades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0354",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Más frecuencias, precios más bajos y bonificaciones en el AVANT y el Eje Atlántico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0355",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Terminar las obras del AVE, en especial la variante exterior de Ourense",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0356",
+  "subtema": "infra-tren",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir las líneas interiores a una empresa ferroviaria pública gallega, GALTRÉN",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0357",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Auditoría independiente de seguridad ferroviaria e implantación del ERTMS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0358",
+  "subtema": "infra-tren",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Declarar el ferrocarril modo de transporte prioritario e incluirlo en el PNIEC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0359",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Mejorar el tren con Portugal y la alta velocidad Vigo-Oporto en 2030-2032",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0360",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia las carreteras estatales, el tráfico y la seguridad vial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0361",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "AP-9 pública y sin peajes, anulando la prórroga concedida en 2000",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0362",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia la AP-53 y dejarla libre de peajes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0363",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Terminar el tramo Arzúa–Melide de la A-54",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0364",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Licitar de inmediato las obras de la A-74 en A Mariña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0365",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Ejecutar los tramos pendientes de la A-76 en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0366",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Mejorar la seguridad vial con especial atención a motos y bicicletas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0367",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia la ordenación del tráfico y la seguridad vial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0368",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Continuar la construcción de la A-56 entre Lugo y Ourense",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0369",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia los aeropuertos y mantener públicas las torres de control",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0370",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia los puertos de interés general y liberalizar el de Morás",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0371",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Conectar los puertos gallegos por tren y autovía para el transporte de mercancías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0372",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Incluir los puertos gallegos excluidos en la Red Básica Transeuropea de Transporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0373",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Diagnóstico: el sistema capitalista agrava la degradación ambiental y climática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0374",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Plena capacidad gallega en medio ambiente frente al modelo extractivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0375",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Criterios ambientales: principio de precaución e internalizar los costes ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0376",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Introducción a las demandas competenciales en medio ambiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0377",
+  "subtema": "inst-territorial",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Traspasar a Galicia las competencias ambientales: costas, cuencas, meteorología y puertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0378",
+  "subtema": "seg-defensa",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Desafectar del uso militar la isla de Tambo y espacios costeros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0379",
+  "subtema": "inst-territorial",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Reformar las leyes ambientales estatales que invaden competencias gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0380",
+  "subtema": "naturaleza",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Garantizar participación y evaluación ambiental en proyectos renovables y mineros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0381",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar el Marco Kunming-Montreal: conservar el 30 % y restaurar el 20 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0382",
+  "subtema": "naturaleza",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia los recursos para biodiversidad y espacios naturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0383",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Planes de protección de las especies marinas protegidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0384",
+  "subtema": "naturaleza",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Limitar la importación de especies foráneas y semillas de moluscos para repoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0385",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Red de alerta temprana ante especies invasoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0386",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Seguimiento de las capturas accidentales de especies marinas amenazadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0387",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reformar la Ley de Costas y revisar el deslinde para asentamientos tradicionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0388",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reconocer el monte comunal dentro del dominio público marítimo-terrestre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0389",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar las medidas de la Estrategia del Medio Marino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0390",
+  "subtema": "agua",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Saneamiento integral con redes separativas y regeneración de las rías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0391",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Red de bases contra la contaminación marina frente a la costa gallega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0392",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Derogar la prórroga de ENCE en la ría de Pontevedra y regenerar la ría",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0393",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Inspección permanente del vertedero de residuos nucleares de la Fosa Atlántica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0394",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Reconocer en el Código Civil la propiedad comunal de los montes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0395",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Incentivos fiscales al aprovechamiento multifuncional del monte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0396",
+  "subtema": "clima",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Sustituir los créditos de carbono por compensación de servicios ecosistémicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0397",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Declarar el eucalipto especie exótica invasora y limitar su cultivo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0398",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Frenar el acaparamiento de montes para macroproyectos forestales, energéticos y mineros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0399",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reducción, reciclaje y compostaje de biorresiduos con recursos para los ayuntamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0400",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Implantar el sistema de depósito, devolución y retorno de envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0401",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Planes de recuperación de suelos contaminados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0402",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Vigilar y sancionar el uso de residuos sin garantías en nuevos productos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0403",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Reducir el tráfico motorizado (modelo Pontevedra) frente a restricciones por tipo de vehículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0404",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Financiar a los ayuntamientos para cumplir la normativa sobre el amianto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0405",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reformar la normativa de residuos de construcción y mineros para evitar vertederos encubiertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0406",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "La plena normalización del gallego frente a las trabas de la Administración del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0407",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Plan estatal de apoyo a los medios de comunicación en lenguas minorizadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0408",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Presencia regular del gallego y la cultura gallega en RTVE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0409",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Más horas de desconexión en gallego en TVE hacia un canal propio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0410",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Recuperar Radio4, la emisora de RNE en gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0411",
+  "subtema": "inst-medios",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Incluir el gallego como opción en la programación de Clan TV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0412",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Garantizar y aumentar las ayudas del Ministerio de Cultura al audiovisual en gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0413",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Reformar la Ley del audiovisual para la igualdad de las lenguas oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0414",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Convenios para enseñar gallego en secundaria y EOI de otros territorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0415",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Convenios para enseñar gallego en los territorios gallegohablantes limítrofes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0416",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Aumentar la cofinanciación de las instituciones lingüísticas y culturales gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0417",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Ayudas a la creación literaria en gallego sin exigir traducción al español",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0418",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Catalogar y digitalizar el patrimonio documental gallego en archivos de fuera de Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0419",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Difundir las expresiones culturales en gallego en pie de igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0420",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Normalizar el uso del gallego en la Administración central y entre su funcionariado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0421",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Respetar la toponimia gallega en el Estado y en las apps de geolocalización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0422",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Oficializar la toponimia marítima gallega en su forma original",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0423",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Aceptar como oficial la documentación en gallego ante la Administración del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0424",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Cumplir la oficialidad del gallego en la Administración de Justicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0425",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Disponibilidad plena del gallego en todos los trámites digitales del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0426",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Que los sistemas de IA y atención automatizada del Estado funcionen en gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0427",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Financiar tecnologías del habla y modelos de lengua en gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0428",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Derecho a estudiar y examinarse en gallego en la UNED",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0429",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Incluir el gallego como optativa en la Acción Educativa Exterior",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0430",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Derecho a trámites y documentación en gallego en los consulados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0431",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Ingreso de Galicia como miembro asociado de la UNESCO y la OMT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0432",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Oficialidad plena del gallego en la Unión Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0433",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Oferta regular de cursos de gallego en el Instituto Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0434",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Módulos formativos sobre la diversidad de lenguas del Estado en el Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0435",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Programa anual de actividades culturales en gallego en el Instituto Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0436",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Reforzar los fondos en gallego de las bibliotecas del Instituto Cervantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0437",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Galicia como puente con el espacio lusófono",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0438",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Cumplir los acuerdos para recibir en Galicia los medios públicos de Portugal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0439",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Presencia de Galicia en la participación española en la CPLP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0440",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Promover la presencia directa de Galicia en la CPLP",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0441",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "La soberanía digital como clave frente al control corporativo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0442",
+  "subtema": "inst-territorial",
+  "otros": [
+   "infra-digital"
+  ],
+  "titular": "Transferir a Galicia telecomunicaciones, audiovisual, infraestructuras digitales y ciberseguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0443",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Reconocer el derecho de los pueblos a determinar su esfera digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0444",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Recursos estatales para un ecosistema público gallego de inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0445",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Redirigir fondos de innovación a IA distribuida y modelos pequeños especializados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0446",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "IA de apoyo a la pequeña producción y los cuidados, sin usos militares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0447",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Financiación estable para pymes tecnológicas y grupos de investigación punteros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0448",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Las decisiones algorítmicas deben poder comprenderse, revisarse e impugnarse",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0449",
+  "subtema": "dig-ia",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Ley de transparencia algorítmica y supervisión humana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0450",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Revisión humana vinculante de las resoluciones automatizadas críticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0451",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Auditorías públicas de sesgos en los algoritmos de interés general",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0452",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Registro estatal de sistemas de IA usados en decisiones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0453",
+  "subtema": "dig-ia",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Evaluación pública previa de la IA y las redes sociales de riesgo sistémico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0454",
+  "subtema": "dig-ia",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Limitar el reconocimiento facial y vetar la policía predictiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0455",
+  "subtema": "dig-ia",
+  "otros": [
+   "ext-conflictos"
+  ],
+  "titular": "Prohibir el uso de IA para seleccionar objetivos en conflictos armados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0456",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Legislación de protección de los neuroderechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0457",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "El gallego debe estar en igualdad en la inteligencia artificial y los servicios digitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0458",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Partidas estatales para tecnologías del gallego y modelos de lenguaje públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0459",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Exigir a las plataformas el gallego en sistemas operativos, apps y modelos de IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0460",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Cooperación tecnológica gallego-portuguesa y acceso a medios de Portugal y Brasil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0461",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Derecho de los pueblos a modelos de IA adaptados a su cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0462",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Liberar con licencias abiertas lo investigado con fondos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0463",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Mantener el control y el valor de los datos en su territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0464",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Normativa y financiación para cooperativas de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0465",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Gestión democrática de los datos colectivos de comunidades y pymes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0466",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Declarar el conocimiento general de la humanidad como bien común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0467",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Liberar de forma segura los modelos de IA entrenados con conocimiento común",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0468",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Participación de las comunidades en el uso de los datos colectivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0469",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "La dependencia de multinacionales para la información pública compromete la autonomía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0470",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Ley de infraestructuras digitales públicas y red estatal de computación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0471",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Fondos para una nube pública gallega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0472",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Custodia pública por ley de los datos sanitarios, educativos y administrativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0473",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Reformar la Ley de Contratos para favorecer el código abierto y las nubes públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0474",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Limitar la contratación de proveedores sujetos a leyes extraterritoriales como la CLOUD Act",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0475",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Exigir el gallego en cada contrato público de software",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0476",
+  "subtema": "dig-datos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Compra pública orientada a la soberanía digital y a las pymes locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0477",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Las plataformas no deben basarse en la explotación de la atención",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0478",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Limitar los algoritmos y diseños que fomentan conductas adictivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0479",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Transición a un modelo digital en que las personas elijan la información que reciben",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0480",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Imponer la interoperabilidad de las redes sociales y la mensajería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0481",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Favorecer servicios digitales abiertos, federados y comunitarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0482",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Reforzar las auditorías de los sistemas de recomendación de contenidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0483",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Gravar el valor que obtienen las multinacionales tecnológicas de la sociedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0484",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Gravar el negocio de extracción masiva de datos según los usuarios de cada territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0485",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Transferir a las comunidades la recaudación de los impuestos tecnológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0486",
+  "subtema": "imp-fraude",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Medidas estrictas contra la elusión fiscal de las grandes plataformas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0487",
+  "subtema": "dig-datos",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Vincular fiscalidad e inversión pública a una economía digital soberana",
+  "ejes": [],
+  "nota": ""
+ }
+]

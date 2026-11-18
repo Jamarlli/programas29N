@@ -1,0 +1,905 @@
+[
+ {
+  "id": "podemos-0283",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Publicar cada año el gasto público en artes escénicas y musicales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0284",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cuotas para el teatro independiente y autoras noveles en salas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0285",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ayudas plurianuales a la permanencia en cartel y circulación de obras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0286",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Coeficientes reductores de jubilación para la danza, el circo y otras profesiones artísticas",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0287",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear una Agencia Estatal de Música",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0288",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear una plataforma pública de streaming musical que remunere de forma justa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0289",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ayudas públicas a las salas de conciertos que no alquilen su espacio a músicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0290",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Contrato escrito obligatorio entre salas y artistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0291",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Subvencionar la seguridad social de los bailarines",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0292",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Apoyar el estreno y la difusión de montajes de danza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0293",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Plan de apertura de salas de exposiciones públicas sin alquiler para artistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0294",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Eliminar la obra regalada a galerías y limitar su comisión al 30 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0295",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger y fomentar el arte urbano con espacios propios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0296",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Ley de Calidad de la Educación con estándares mínimos para todo el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0297",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Desprivatizar la educación: moratoria de conciertos y reabsorción de la concertada",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0298",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-infantil",
+   "edu-fp"
+  ],
+  "titular": "Bajar las ratios: 15 alumnos en Primaria, 20 en Secundaria y 23 en Bachillerato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0299",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-infantil"
+  ],
+  "titular": "Fondo estatal para la educación pública e inversión del 7 % del PIB",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0300",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Subir un 30 % los salarios del personal de los centros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0301",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Reducir la jornada lectiva del profesorado y la burocracia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0302",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Equiparar los calendarios escolares y laborales de todos los centros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0303",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Reforzar la inspección educativa y sancionar a contratistas incumplidoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0304",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Gratuidad universal de libros, material escolar y servicios complementarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0305",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Educación inclusiva: más orientadores, PT y AL y ratios máximas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0306",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Suprimir la asignatura de religión en todos los colegios",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Enseñanza de religión en la escuela? → suprimirla"
+ },
+ {
+  "id": "podemos-0307",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres",
+   "igu-lgtbi"
+  ],
+  "titular": "Asignatura obligatoria de Educación Sexual y en Igualdad e impedir el Pin Parental",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Pin parental? → impedir su aplicación"
+ },
+ {
+  "id": "podemos-0308",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-plataformas"
+  ],
+  "titular": "Plan Estatal contra el acoso escolar y ley de infancia en el entorno digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0309",
+  "subtema": "edu-escuela",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Plan de Educación Ecosocial y adaptación climática de los centros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0310",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Educación democrática, alfabetización mediática y enseñanza de lenguas cooficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0311",
+  "subtema": "edu-becas",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Comedores escolares gratuitos, saludables y con opción vegana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0312",
+  "subtema": "edu-universidad",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Universidad pública gratuita y becas-salario de hasta 800 euros mensuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0313",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Garantizar la democracia, la participación y las libertades en la universidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0314",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Moratoria indefinida a la creación de nuevas universidades privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0315",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "edu-universidad"
+  ],
+  "titular": "Nuevas leyes de Universidades y Ciencia contra la precariedad investigadora",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0316",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Elevar la inversión pública en ciencia al 2 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0317",
+  "subtema": "deporte",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Duplicar el presupuesto para deporte femenino, inclusivo y de base",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0318",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Derogar la Ley 15/1997 y blindar la gestión pública directa de la sanidad",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0319",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una industria sanitaria y una empresa farmacéutica públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0320",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-primaria",
+   "san-mental"
+  ],
+  "titular": "Financiar el SNS hasta 2.900 euros por habitante, solo para gestión directa",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0321",
+  "subtema": "san-modelo",
+  "otros": [
+   "san-profesionales",
+   "san-listas-espera"
+  ],
+  "titular": "Ley de Calidad del SNS con ratios, cartera mínima y tiempos máximos",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0322",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Reducir las listas de espera con más recursos públicos y transparencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0323",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-prestaciones"
+  ],
+  "titular": "Ley de Atención Primaria: 25 % del presupuesto y cita en 48 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0324",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Ley General de Salud Mental con ratios mínimas y prevención del suicidio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0325",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-modelo",
+   "san-farmacia"
+  ],
+  "titular": "Sanidad universal sin exclusiones, cartera bucodental al 100 % y copago según renta",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   },
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0326",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Empleo estable para sanitarios y planificación a 15 años de plazas MIR",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0327",
+  "subtema": "san-farmacia",
+  "otros": [
+   "san-prestaciones"
+  ],
+  "titular": "Precios transparentes de medicamentos y acceso a tratamientos de enfermedades raras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0328",
+  "subtema": "san-farmacia",
+  "otros": [
+   "inst-corrupcion"
+  ],
+  "titular": "Transparencia de los lobbies y formación sanitaria libre de la industria farmacéutica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0329",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Participación ciudadana en las políticas sanitarias mediante Consejos de Salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0330",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Atención sanitaria no patologizante para personas LGTBIQA+ conforme a la Ley 4/2023",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0331",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Garantizar el ejercicio efectivo del derecho a una muerte digna",
+  "ejes": [
+   {
+    "eje": "eje-eutanasia",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0332",
+  "subtema": "clima",
+  "otros": [
+   "naturaleza",
+   "infra-transporte-publico"
+  ],
+  "titular": "Ley de Adaptación Climática de las Ciudades y red de refugios climáticos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0333",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Obligar a la industria militar a declarar sus emisiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0334",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Reducir emisiones un 55 % en 2030 y adelantar la neutralidad a 2040",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0335",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Auditar y eliminar las ayudas públicas a los combustibles fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0336",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Ley de Renaturalización Urbana con fondo estatal para zonas verdes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0337",
+  "subtema": "naturaleza",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Calidad del aire OMS en 2030 y Zonas de Bajas Emisiones aceleradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0338",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Refrigeración obligatoria en centros públicos ante las olas de calor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0339",
+  "subtema": "clima",
+  "otros": [
+   "fam-mayores",
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Proteger a mayores y personas sin hogar durante las olas de calor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0340",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Prohibir el trabajo al exterior de 12 a 18 horas en olas de calor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0341",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Red de refugios climáticos a menos de 200 metros de cada persona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0342",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Regular la temperatura mínima de climatización en locales comerciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0343",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Plan de Restauración Hidrológico-Forestal contra la desertificación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0344",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Ley de residuo cero: prohibir plásticos de un solo uso y depósito de envases",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0345",
+  "subtema": "naturaleza",
+  "otros": [
+   "agua"
+  ],
+  "titular": "Cerrar regadíos ilegales en Doñana y Daimiel y cumplir la ley del Mar Menor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0346",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Sistema eléctrico 95 % renovable en 2035 y descarbonizado en 2040",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0347",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Elevar al 100 % la participación pública en Red Eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0348",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Placas fotovoltaicas obligatorias en edificios públicos y agilizar el autoconsumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0349",
+  "subtema": "ener-modelo",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Financiar al 100 % placas y rehabilitación energética para rentas bajas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0350",
+  "subtema": "ener-modelo",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Ayudas al autoconsumo renovable en pequeñas y medianas explotaciones agrarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0351",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Consulta vecinal y 30 % de participación local en nuevas plantas renovables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0352",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Apoyar a cooperativas y comunidades energéticas frente al oligopolio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0353",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reformar la legislación para favorecer el almacenamiento energético",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0354",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Crear una red inteligente de infraestructuras de recarga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0355",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Convertir a España en líder mundial en hidrógeno verde",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0356",
+  "subtema": "dig-datos",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Ley para limitar el consumo de energía y agua de los centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0357",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Cumplir el calendario de cierre nuclear, empezando por Almaraz",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "cerrar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0358",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Frenar la ampliación de El Prat, Barajas y el puerto de Valencia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Ampliar los grandes aeropuertos y puertos? → frenar la ampliación"
+ },
+ {
+  "id": "podemos-0359",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Prohibir vuelos cortos con alternativa en tren de menos de tres horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0360",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Red pública de recarga para la movilidad eléctrica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0361",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Elevar la inversión ferroviaria de 5.000 a 20.000 millones al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0362",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan de choque de personal y mantenimiento para la seguridad ferroviaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0363",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Renacionalizar el ferrocarril: reunir Renfe y Adif y revocar licencias de Ouigo e Iryo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0364",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Elevar la cuota de mercancías por tren al 18 % en 2030",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0365",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Programa estatal de movilidad compartida en coche",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0366",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-digital"
+  ],
+  "titular": "Mejorar la conectividad rural en transporte e internet",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0367",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Recuperar la gestión pública directa de los servicios portuarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0368",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Impulsar el puerto de Algeciras y la línea ferroviaria Algeciras-Bobadilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0369",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Ley de Movilidad Sostenible hacia un transporte público de gestión directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0370",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Reforzar las infraestructuras de conectividad en la España vaciada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0371",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-transporte-publico"
+  ],
+  "titular": "Obligaciones de Servicio Público para rutas de transporte en la España vaciada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0372",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Rutas OSP con precios máximos en vuelos entre Canarias, Baleares y la Península",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0373",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Defender el taxi frente a las VTC con la proporción 1/30",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0374",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "No renovar las concesiones de autopistas y abaratar o eliminar peajes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0375",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Nueva política del agua que adapte las demandas a los recursos de cada cuenca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0376",
+  "subtema": "agua",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Moratoria a regadíos hiperintensivos de fondos buitre y reducir el consumo de agua",
+  "ejes": [],
+  "nota": ""
+ }
+]

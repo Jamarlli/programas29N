@@ -1,0 +1,1258 @@
+[
+ {
+  "id": "podemos-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: el coste de la vida subió un 4,9 % en septiembre de 2026",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: emancipación imposible y servicios públicos que no llegan a tiempo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: 853.740 personas en espera quirúrgica mientras crecen los seguros privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: beneficios récord de grandes empresas y aumento del gasto militar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0005",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Propósito del programa: paz, casa y trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0006",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "La vivienda como mecanismo de transferencia de riqueza hacia arriba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0007",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Diagnóstico: la vivienda se concentra en cada vez menos manos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0008",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Bajar los alquileres un 40 % por ley",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0009",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Contratos de alquiler de vivienda habitual indefinidos por defecto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0010",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir la compra de viviendas que no sean para vivir",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir la compra de vivienda que no sea para residencia propia? → sí, prohibirla"
+ },
+ {
+  "id": "podemos-0011",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Expropiar el uso de las viviendas de grandes tenedores que superen las diez",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0012",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0013",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0014",
+  "subtema": "vivienda-especulacion",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Prohibir los pisos turísticos mientras dure la emergencia habitacional",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Prohibir los pisos turísticos? → sí, prohibirlos"
+ },
+ {
+  "id": "podemos-0015",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Crear una inmobiliaria pública con rentas máximas del 30 % de la renta media",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0016",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Incorporar al parque público las viviendas y el suelo de la SAREB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0017",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto para las viviendas vacías (remite a otro apartado)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0018",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto del patrimonio en viviendas de personas jurídicas (remite a otro apartado)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0019",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Fin de los privilegios fiscales del rentismo (remite a otro apartado)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0020",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto contra el flipping inmobiliario (remite a otro apartado)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0021",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Aumentar al 21 % el IVA de los pisos turísticos (remite a otro apartado)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0022",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Incluir el alquiler de temporada y por habitaciones en la regulación de la LAU",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0023",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ampliar el parque público y reservar el 50 % al alquiler social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0024",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Prohibir la venta y subasta de vivienda pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0025",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Carácter permanente de la protección de la vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0026",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Plan de rehabilitación energética de viviendas para reducir un 50 % el consumo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0027",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Reconocer los derechos sindicales de las personas inquilinas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0028",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Perseguir los abusos y la discriminación en el acceso al alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0029",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Crear un registro público de todas las viviendas y alquileres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0030",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Fondo de Responsabilidad Social bancario y dación en pago para deudores hipotecarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0031",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Limitar las hipotecas variables al euríbor más un 0,1 % para rentas bajas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0032",
+  "subtema": "vivienda-compra",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Cláusula «rebus sic stantibus» en hipotecas y proporcionalidad antes de ejecutarlas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0033",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Estrategia estatal contra el sinhogarismo con enfoque de derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0034",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Prohibir los cortes de suministros básicos por impago a personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0035",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Cheque energético anual de 300 euros para hogares de bajos ingresos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0036",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Ampliar el bono social eléctrico hasta el 60 % y el 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0037",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Diagnóstico: crisis del coste de la vida con inflación del 4,9 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0038",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Diagnóstico: beneficios históricos de banca, energéticas y grandes distribuidoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0039",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Intervenir los mercados de bienes y servicios esenciales para bajar precios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0040",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Hacer estatal y permanente el impuesto a las grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0041",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Hacer permanentes los gravámenes a la banca y a las eléctricas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0042",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Fomentar empresas públicas sin margen de beneficio para contener precios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0043",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Crear una banca pública que integre ICO, CDTI y ENISA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0044",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una red pública de supermercados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0045",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Topar los márgenes de las grandes distribuidoras en productos de primera necesidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0046",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Crear una empresa pública de energía con los saltos hidroeléctricos recuperados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0047",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Nacionalizar Repsol mediante la Empresa Pública de Energía",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Nacionalizar empresas energéticas? → sí (Repsol, saltos hidroeléctricos)"
+ },
+ {
+  "id": "podemos-0048",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Topar luz, gas y carburantes y fijar el gas a 40 €/MWh",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0049",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Acabar con el mercado marginalista y crear una factura de la luz progresiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0050",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Gratuidad universal del transporte público y tarjeta única estatal",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Transporte público gratuito? → sí, gratuidad universal"
+ },
+ {
+  "id": "podemos-0051",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuesto del 7 al 15 % sobre los beneficios de las empresas más contaminantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0052",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Reducir al 10 % el IVA de las peluquerías",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0053",
+  "subtema": "animales",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Atención veterinaria pública y rebaja del IVA veterinario al 10 %",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0054",
+  "subtema": "cultura",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Bajar al 5 % el IVA de los espectáculos culturales en vivo",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0055",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "Eximir de IVA los productos menstruales",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0056",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Fijar el IPREM en al menos 700 euros mensuales y actualizarlo con el IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0057",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Tipo mínimo de Sociedades del 19 %, y del 29 % en oligopolios",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0058",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Subir el IRPF a las rentas de más de 60.000 euros",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0059",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+  "ejes": [
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0060",
+  "subtema": "imp-irpf",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Eliminar las desgravaciones del IRPF por planes de pensiones privados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0061",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Derogar la «Ley Beckham»",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0062",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Eliminar la exención del IBI de la Iglesia Católica",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener los privilegios fiscales de la Iglesia? → eliminarlos"
+ },
+ {
+  "id": "podemos-0063",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Aumentar al 21 % el IVA de los pisos turísticos",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0064",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Cuadruplicar el IRPF de rentas imputadas y gravar estatalmente las viviendas vacías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0065",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Gravar la venta de inmuebles adquiridos en los dos años anteriores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0066",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Impuesto estatal al patrimonio inmobiliario de las personas jurídicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0067",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Eliminar el régimen fiscal de las SOCIMIS",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0068",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Derogar los beneficios fiscales del IRPF a los caseros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0069",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "IBI progresivo según el número de viviendas del propietario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0070",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Aumentar la plantilla de la Agencia Tributaria hasta la media europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0071",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Prohibir la contratación pública con empresas que operen en guaridas fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0072",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Derogar la reforma del artículo 135 de la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0073",
+  "subtema": "imp-modelo",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Reformar el REF de Canarias para que las grandes empresas paguen más",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0074",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cotización de autónomos progresiva según beneficio y nula con pérdidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0075",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Franquicia de IVA y criterio de caja universal para pymes y autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0076",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reservar a autónomos y pymes un porcentaje de la contratación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0077",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Reconocer a autónomos y pymes como consumidores frente a las grandes empresas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0078",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Ley de Empresas en Crisis para convertirlas en cooperativas de trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0079",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Combatir la uberización de la economía y proteger sectores como el taxi",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0080",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Diagnóstico: la guerra como instrumento de poder y crisis del multilateralismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0081",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Diagnóstico: economía de guerra y dependencia de Estados Unidos y la OTAN",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0082",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Diagnóstico: el gasto militar español creció un 50 % en 2025",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0083",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Salir de la OTAN y cerrar las bases estadounidenses de Rota y Morón",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permanecer en la OTAN? → salir de la OTAN"
+ },
+ {
+  "id": "podemos-0084",
+  "subtema": "ext-politica",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reforma constitucional de No a la Guerra y Estatuto de Neutralidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0085",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Revertir el rearme y congelar el gasto militar durante la legislatura",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0086",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Rechazar el objetivo de la OTAN del 5 % del PIB en gasto militar",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0087",
+  "subtema": "seg-defensa",
+  "otros": [
+   "inst-gobierno-parlamento"
+  ],
+  "titular": "Control parlamentario, transparencia y auditoría del gasto militar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0088",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Excluir de la contratación pública a empresas implicadas en crímenes internacionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0089",
+  "subtema": "seg-defensa",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Prohibir al BEI invertir en armamento y suspender el instrumento ASAP",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0090",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Política exterior feminista basada en la paz y la seguridad colectiva",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0091",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Firmar el tratado de prohibición de armas nucleares y prohibir armas autónomas letales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0092",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reformar la ONU y eliminar el derecho de veto del Consejo de Seguridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0093",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Nuevo modelo de relaciones con los países de la Vecindad Este",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0094",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Agenda de cooperación con la Vecindad Sur del Mediterráneo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0095",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Agenda de paz en Oriente Medio: Yemen, Palestina y pueblo kurdo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0096",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Relaciones de igual a igual con América Latina y oposición al bloqueo a Cuba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0097",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Nuevo Plan África basado en los derechos humanos y la soberanía de los pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0098",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Relaciones de cooperación y respeto mutuo con China",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0099",
+  "subtema": "inm-asilo",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Reparto europeo vinculante del asilo y derogar el Pacto de Migración y Asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0100",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Retirar elementos lesivos en frontera e investigar muertes y desapariciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0101",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Vías legales y seguras, visado de búsqueda de empleo y arraigo más flexible",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0102",
+  "subtema": "inm-fronteras",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Sustituir Frontex por una agencia europea de salvamento marítimo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0103",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Poner fin a los acuerdos de externalización migratoria con terceros países",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0104",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Reconocer las migraciones ambientales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0105",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Reforzar el compromiso con la Corte Penal Internacional y su independencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0106",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Rechazar las sanciones unilaterales y el bloqueo a Cuba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0107",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Romper las relaciones diplomáticas, culturales y comerciales con Israel",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Romper relaciones con Israel? → sí, romperlas"
+ },
+ {
+  "id": "podemos-0108",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Embargo de armas efectivo y sin excepciones contra Israel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0109",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Reconocer el derecho a la descolonización y al retorno del pueblo palestino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0110",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Definir el sionismo como una expresión de racismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0111",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Incrementar la ayuda humanitaria a Gaza y a la UNRWA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0112",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Investigar por jurisdicción universal los crímenes de militares y autoridades israelíes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0113",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Referéndum de autodeterminación saharaui y ruptura con el plan de autonomía marroquí",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sáhara Occidental: plan de autonomía marroquí o referéndum? → referéndum de autodeterminación"
+ },
+ {
+  "id": "podemos-0114",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "ext-cooperacion"
+  ],
+  "titular": "Reforzar la ayuda humanitaria a la población refugiada saharaui",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0115",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Reconocer diplomáticamente a la República Árabe Saharaui Democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0116",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Ley de nacionalidad para saharauis nacidos bajo soberanía española y descendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0117",
+  "subtema": "inst-ceuta-melilla",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Respuesta humanitaria a las personas migrantes en Ceuta y revisión de acuerdos con Marruecos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0118",
+  "subtema": "ext-cooperacion",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Impuesto mínimo global a milmillonarios, tasa Tobin y fin de los paraísos fiscales",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0119",
+  "subtema": "ext-ue",
+  "otros": [],
+  "titular": "Rechazar los tratados de libre comercio, incluido el acuerdo UE-Mercosur",
+  "ejes": [
+   {
+    "eje": "eje-mercosur",
+    "posicion": "rechazar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0120",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Marco internacional para cancelar deuda soberana y democratizar el FMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0121",
+  "subtema": "ext-cooperacion",
+  "otros": [],
+  "titular": "Aumentar la cooperación internacional y revertir su privatización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0122",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Acuerdo de paz negociado y reconstrucción para Ucrania",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0123",
+  "subtema": "seg-ciberseguridad",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Estrategia de prevención y resiliencia frente a la guerra híbrida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0124",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Diagnóstico: pluriempleo récord y salarios que crecen menos que los beneficios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0125",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Un modelo laboral para trabajar menos, cobrar más y vivir mejor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0126",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "SMI de 1.800 euros y nunca inferior al 75 % del salario mediano",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0127",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Subida automática de los salarios según el coste de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0128",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Reducir la jornada a 30 horas semanales sin bajar los salarios",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0129",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Hacer fijos a los empleados públicos en abuso de temporalidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0130",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar las penalizaciones por jubilación anticipada con 40 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0131",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Adelantar la edad ordinaria de jubilación a los 63 años",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0132",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Nuevo Estatuto de los Trabajadores que derogue las reformas laborales de 2010 y 2012",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0133",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Recuperar 45 días de indemnización por despido ilegal y la autorización de ERE",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ }
+]

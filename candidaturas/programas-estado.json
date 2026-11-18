@@ -225,15 +225,15 @@
  },
  "PODEMOS": {
   "nombre": "Podemos",
-  "estado": "pdf",
-  "prog": null,
-  "nota": "Programa de 141 páginas; no está en la web del partido.",
+  "estado": "web",
+  "prog": "podemos",
+  "nota": "El programa no está en la web del partido; se usa la copia de democrata.es.",
   "url": ""
  },
  "PAZ,CASA Y TRABAJO": {
   "nombre": "Podemos (Paz, Casa y Trabajo)",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "podemos",
   "nota": "Usa el programa estatal de Podemos.",
   "url": ""
  },
@@ -316,43 +316,43 @@
  },
  "ADELANTE ANDALUCÍA": {
   "nombre": "Adelante Andalucía",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "adelante",
   "nota": "",
   "url": ""
  },
  "EH BILDU": {
   "nombre": "EH Bildu",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "bildu",
   "nota": "",
   "url": ""
  },
  "EH BILDU-ERC": {
   "nombre": "EH Bildu-ERC",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "bildu",
   "nota": "Se supone que usa el programa de EH Bildu; no hay programa común.",
   "url": ""
  },
  "ERC": {
   "nombre": "Esquerra Republicana de Catalunya",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "erc",
   "nota": "",
   "url": ""
  },
  "ERC-EH BILDU": {
   "nombre": "ERC-EH Bildu",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "erc",
   "nota": "Lista al Senado; se supone que usa el programa de ERC.",
   "url": ""
  },
  "EAJ-PNV": {
   "nombre": "EAJ-PNV",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "pnv",
   "nota": "",
   "url": ""
  },
@@ -386,15 +386,15 @@
  },
  "CNV": {
   "nombre": "Convergents",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "cnv",
   "nota": "",
   "url": ""
  },
  "BNG": {
   "nombre": "Bloque Nacionalista Galego",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "bng",
   "nota": "",
   "url": ""
  },
@@ -449,8 +449,8 @@
  },
  "TERUEL EXISTE": {
   "nombre": "Teruel Existe",
-  "estado": "pdf",
-  "prog": null,
+  "estado": "web",
+  "prog": "teruel",
   "nota": "",
   "url": ""
  },

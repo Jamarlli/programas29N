@@ -1,0 +1,3065 @@
+[
+ {
+  "id": "adelante-0027",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Derogar la Ley de Extranjería, regularización extraordinaria y cierre de los CIE",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0028",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Derogar las leyes mordaza y los delitos de opinión del Código Penal",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   },
+   {
+    "eje": "eje-sedicion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0029",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "RTVE independiente y descentralizada y reparto transparente de la publicidad institucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0030",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "imp-verdes",
+   "trab-contratos-despido"
+  ],
+  "titular": "Plan de turismo con red pública de alojamientos y tasa turística",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0031",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Romper relaciones con Israel y autodeterminación del Sáhara Occidental y el Rif",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0032",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: lo público iguala frente a la privatización de los servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0033",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Suelo de gasto sanitario por ley y derogación de la Ley 15/1997",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0034",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Suelo de gasto sanitario por ley de al menos el 8 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0035",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Derogar la Ley 15/1997 y desprivatizar toda la sanidad",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0036",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Fin de los conciertos e internalización de servicios sanitarios externalizados",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0037",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Integrar MUFACE, ISFAS y MUGEJU en el Sistema Nacional de Salud",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0038",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Auditoría del gasto en conciertos y externalizaciones sanitarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0039",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Dedicación exclusiva en la sanidad pública y más control de incompatibilidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0040",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Portal estatal de resultados en salud y criterios de gasto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0041",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Atención primaria con cita en 48 horas y el 25 % del gasto sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0042",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Ley de garantías de atención primaria con cita en 48 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0043",
+  "subtema": "san-primaria",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Suelos por ley: 25 % para primaria y 2 % para salud pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0044",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Centro de especialidades en cada municipio de más de 20.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0045",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Tiempos máximos: 30 días para especialista, 15 para pruebas y 120 para operarse",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0046",
+  "subtema": "san-profesionales",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Plan de sanidad rural con incentivos y vivienda para profesionales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0047",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Historia clínica sociosanitaria única e interoperable entre comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0048",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Teleasistencia pública y gratuita en todo el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0049",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Fin de las guardias de 24 horas: nunca más de 12 horas seguidas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0050",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reclasificaciones profesionales con su subida salarial en sanidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0051",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Grado universitario y grupo B para el personal técnico superior sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0052",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Estabilidad del personal sanitario y supresión de la tasa de reposición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0053",
+  "subtema": "san-profesionales",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Jubilación anticipada voluntaria a los 60 para el personal sanitario",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0054",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Estatuto Marco con igualdad de condiciones en todo el Sistema Nacional de Salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0055",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reconocer el solape entre turnos como jornada efectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0056",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Reconocer la jornada en sábado como festiva a todos los efectos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0057",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Complementos de turnicidad y nocturnidad en urgencias de atención primaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0058",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Aprobar la ley de ratios de enfermeras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0059",
+  "subtema": "san-profesionales",
+  "otros": [
+   "san-primaria"
+  ],
+  "titular": "Nuevas categorías y una trabajadora social en cada centro de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0060",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley estatal del cáncer con tratamiento en un máximo de 21 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0061",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley estatal contra el cáncer: tratamiento en 21 días y reconstrucción mamaria en 90",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0062",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Cribados de cáncer más tempranos con kit de colon y autotoma de VPH",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0063",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley de fibromialgia y enfermedades crónicas con unidades del dolor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0064",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Ley de endometriosis con atención integral e investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0065",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Estrategia frente a la obesidad con prevención y financiación de tratamientos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0066",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Unidades de diagnóstico precoz del alzheimer y las demencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0067",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Cribado de diabetes tipo 1 en todas las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0068",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Red pública de cuidados paliativos y plazos más ágiles para la eutanasia",
+  "ejes": [
+   {
+    "eje": "eje-eutanasia",
+    "posicion": "mantener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0069",
+  "subtema": "san-publica-prevencion",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Planes contra la contaminación en Campo de Gibraltar y Huelva y regular disruptores endocrinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0070",
+  "subtema": "san-prestaciones",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Bucodental, óptica, podología y nutrición sin copago y salud mental en 15 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0071",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Incluir dentista, óptica, podología y nutrición en la cartera pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0072",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Psicología en primaria hasta 18 psicólogos por 100.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0073",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Cita en salud mental comunitaria en un máximo de 15 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0074",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Ley de prevención de la conducta suicida con financiación suficiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0075",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Espacios de acompañamiento psicosocial para jóvenes en barrios y pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0076",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Eliminar las contenciones mecánicas y farmacológicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0077",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "san-mental"
+  ],
+  "titular": "Apoyo público de por vida a personas con trastornos del espectro autista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0078",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Hospitales de día públicos para trastornos de la conducta alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0079",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Restringir la publicidad del juego y limitar las máquinas de azar a casinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0080",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Atención pública a la adicción a pantallas, redes y videojuegos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0081",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Red pública de salud mental con más centros y hospitales de día",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0082",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Salud mental comunitaria que atienda los determinantes sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0083",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-vida"
+  ],
+  "titular": "Aborto en la sanidad pública de todas las provincias y blindado en la Constitución",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0084",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Aborto en centros públicos de todas las provincias, sin conciertos ni copago",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0085",
+  "subtema": "igu-vida",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar el derecho al aborto en la Constitución",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0086",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Productos menstruales y anticonceptivos gratuitos o más baratos según la renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0087",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Test de embarazo de venta libre y gratuitos en centros de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0088",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Reabrir centros específicos de infecciones de transmisión sexual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0089",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Ley contra la violencia obstétrica y plan de humanización del parto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0090",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "san-listas-espera"
+  ],
+  "titular": "Plazos máximos de uno y dos años para cirugías de personas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0091",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Prohibir las cirugías de asignación de sexo a personas intersexuales al nacer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0092",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Aplicar el Código de Comercialización de Sucedáneos de Leche Materna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0093",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Crear una farmacéutica pública de genéricos y medicamentos estratégicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0094",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Empresa farmacéutica estatal con sede en Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0095",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Devolver los copagos de medicamentos y prótesis a quien tenga dificultades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0096",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Compra centralizada de medicamentos con sanciones por desabastecimiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0097",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Agencia de evaluación de medicamentos con decisiones vinculantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0098",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Volver a financiar los 417 medicamentos excluidos en 2012",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0099",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Monodosis y envases homogéneos en los genéricos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0100",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Regular el uso del cannabis terapéutico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0101",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Acceso abierto a la investigación pública y más estudio de enfermedades raras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0102",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Formación continuada sanitaria pública e independiente de la industria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0103",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Exigir financiación sanitaria suficiente y competencias para Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0104",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Financiación sanitaria suficiente en el nuevo modelo de financiación autonómica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0105",
+  "subtema": "san-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar la sanidad penitenciaria a Andalucía y pagarle lo que se le debe",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0106",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Fondos estatales para los centros de especialidades del Plan 20.000",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0107",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Más plazas de formación sanitaria especializada en Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0108",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Apoyar la gestión pública del Hospital del Aljarafe y los centros Pascual",
+  "ejes": [
+   {
+    "eje": "eje-gestion-sanitaria",
+    "posicion": "publica"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0109",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Suelo del 5 % del PIB y una sola red pública, laica y gratuita",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0110",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Inversión por estudiante hasta la media europea: de 6.687 a 8.246 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0111",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Blindar la escuela pública y acabar con la cesión de suelo a concertados",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0112",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Paralizar los conciertos y eliminar progresivamente la privada-concertada",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0113",
+  "subtema": "igu-laicidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Sacar la religión confesional del horario lectivo y del currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0114",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Libros gratuitos, bono de transporte y comedor gratuito para rentas medias y bajas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0115",
+  "subtema": "edu-escuela",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ningún cierre de escuela rural sin estudio previo y más transporte escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0116",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Reparto equilibrado del alumnado vulnerable contra la segregación escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0117",
+  "subtema": "edu-escuela",
+  "otros": [
+   "edu-profesorado"
+  ],
+  "titular": "Bajar las ratios máximas y estabilizar al profesorado interino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0118",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ratios máximas: 15 en Infantil y Primaria, 20 en ESO y 25 en Bachillerato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0119",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Suprimir la tasa de reposición docente y sustituciones en 48 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0120",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Reducir el horario lectivo docente hasta 18 horas semanales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0121",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Plan estatal de estabilidad del profesorado interino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0122",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Reformar el acceso docente y acabar con las macrooposiciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0123",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Destinos para interinos a menos de una hora de su domicilio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0124",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Plantillas docentes estables en centros de especial complejidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0125",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Igualar al alza los salarios docentes entre comunidades autónomas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0126",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Carrera docente con prácticas retribuidas y jubilación anticipada flexible",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0127",
+  "subtema": "edu-profesorado",
+  "otros": [],
+  "titular": "Más horas de tutoría y mayor complemento salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0128",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Personal de apoyo suficiente en cada centro por norma básica",
+  "ejes": [],
+  "nota": "SIN ENCAJE: educación inclusiva y alumnado con necesidades específicas"
+ },
+ {
+  "id": "adelante-0129",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ratios de apoyo por ley: máximo 10 estudiantes NEAE por maestra de PT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0130",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Ley estatal de inclusión educativa con centros ordinarios dotados",
+  "ejes": [],
+  "nota": "SIN ENCAJE: educación inclusiva y alumnado con necesidades específicas"
+ },
+ {
+  "id": "adelante-0131",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Aplicar en un plazo máximo los apoyos del dictamen de necesidades específicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0132",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "El alumnado NEAE cuenta doble en la ratio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0133",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Plan de detección precoz de altas capacidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0134",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Formación docente y espacios adaptados para el alumnado con necesidades específicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0135",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Intérpretes de lengua de signos durante toda la jornada escolar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0136",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Aulas de acogida lingüística para el alumnado extranjero sin español",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0137",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Una enfermera presencial en cada centro educativo toda la jornada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0138",
+  "subtema": "san-mental",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Atención psicológica en 15 días y plan contra la conducta suicida adolescente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0139",
+  "subtema": "san-mental",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Financiación estatal para atención psicológica estable en cada instituto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0140",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Espacios de calma en todos los institutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0141",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "PTIS y personal de apoyo en plantilla pública, no en empresas externas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0142",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-pobreza"
+  ],
+  "titular": "Educadoras y trabajadoras sociales en la plantilla de los institutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0143",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Plan contra el abandono escolar centrado en el alumnado más vulnerable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0144",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Ley estatal contra el acoso escolar con protocolo obligatorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0145",
+  "subtema": "edu-infantil",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Etapa 0–3 universal, pública y gratuita y comedores con cocina propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0146",
+  "subtema": "edu-infantil",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Plazas 0–3 universales, públicas y gratuitas, sin nuevos conciertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0147",
+  "subtema": "edu-infantil",
+  "otros": [],
+  "titular": "Condiciones dignas y una segunda educadora en cada aula de 0–3",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0148",
+  "subtema": "edu-becas",
+  "otros": [
+   "san-publica-prevencion"
+  ],
+  "titular": "Ley de comedores escolares con cocina en el centro y sin bebidas azucaradas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0149",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Comedor gratuito para rentas medias y bajas, también en Secundaria y Bachillerato",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0150",
+  "subtema": "edu-escuela",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Aula matinal y extraescolares públicas de acceso universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0151",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Abrir los centros educativos al barrio por la tarde y los sábados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0152",
+  "subtema": "edu-modelo",
+  "otros": [
+   "clima"
+  ],
+  "titular": "Plan estatal para climatizar colegios, retirar el amianto y eliminar prefabricadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0153",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Ningún joven sin estudiar FP por falta de plaza pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0154",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Plazas públicas de FP para toda la demanda, sin nuevas plazas privadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0155",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Nuevos ciclos de FP en renovables, cuidados, digitalización y economía azul",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0156",
+  "subtema": "edu-fp",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Oferta comarcalizada de FP en los pueblos con parte teórica a distancia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0157",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Prácticas de FP remuneradas con al menos el SMI proporcional y cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0158",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Mantener sin cierres la FP básica y especial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0159",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Profesorado técnico de FP al grupo A1 y complemento de peligrosidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0160",
+  "subtema": "edu-fp",
+  "otros": [],
+  "titular": "Plan de equipamiento de talleres y laboratorios de la FP pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0161",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Escuelas taller para jóvenes que dejaron los estudios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0162",
+  "subtema": "edu-escuela",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Educación afectivo-sexual obligatoria y herramientas digitales con software libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0163",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Educación afectivo-sexual obligatoria en todas las etapas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0164",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Comisión estatal de coeducación y perspectiva de género en la formación docente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0165",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Protocolos LGTBI y contra el acoso en todos los centros educativos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0166",
+  "subtema": "edu-escuela",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Educación mediática contra la desinformación y los bulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0167",
+  "subtema": "dig-plataformas",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Educación digital y protección de menores frente a contenidos dañinos en redes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0168",
+  "subtema": "dig-datos",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Plataformas educativas públicas con software libre y contenidos libres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0169",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Evaluar los programas tecnológicos antes de extenderlos en las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0170",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Incluir la memoria e historia de las mujeres en el currículo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0171",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Música con especialistas en Infantil y Primaria y Filosofía en la ESO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0172",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Primeros auxilios y reanimación cardiopulmonar en las aulas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0173",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Exigir al Estado que pague ratios, plantillas, 0–3 y FP en Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0174",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-financiacion-autonomica"
+  ],
+  "titular": "Financiación finalista para ratios y estabilización docente en Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0175",
+  "subtema": "edu-infantil",
+  "otros": [
+   "edu-fp"
+  ],
+  "titular": "Fondo estatal para 0–3 y FP repartido según las listas de espera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0176",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Financiación estatal para climatizar y retirar el amianto de los centros andaluces",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0177",
+  "subtema": "edu-becas",
+  "otros": [],
+  "titular": "Becas estatales de movilidad e idiomas para estudiantes andaluces desplazados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0178",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Matrícula universitaria gratuita progresiva y tasas congeladas mientras tanto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0179",
+  "subtema": "edu-universidad",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Suelo del 2 % del PIB para universidades públicas y 3 % para I+D+i",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0180",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Sustituir la prueba de acceso por una valoración del recorrido del alumnado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0181",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Pruebas y cursos de idiomas gratuitos en la universidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0182",
+  "subtema": "edu-universidad",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Ley de inclusión en la universidad con apoyos y becas específicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0183",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Ninguna universidad privada nueva y fin de la externalización universitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0184",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Acabar con el falso profesorado asociado y dignificar sus salarios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0185",
+  "subtema": "edu-becas",
+  "otros": [
+   "vivienda-fiscalidad"
+  ],
+  "titular": "Becas menos dependientes de la nota y desgravación del alquiler a desplazados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0186",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Estatuto del personal investigador y fin de las becas sin derechos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0187",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Programa de retorno del talento científico emigrado con plazas estables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0188",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Planes contra el techo de cristal en la ciencia y paridad en tribunales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0189",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Simplificar la justificación de proyectos y personal técnico estable de apoyo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0190",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Reparto territorial por población de los fondos estatales de investigación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0191",
+  "subtema": "san-farmacia",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Centro estatal de investigación farmacéutica en Andalucía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0192",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Transferencia de la investigación pública a pymes y cooperativas andaluzas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0193",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "dig-datos"
+  ],
+  "titular": "Ciencia abierta, patentes públicas y datos públicos abiertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0194",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Excluir las pseudoterapias de la sanidad pública y controlar su publicidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0195",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Corregir la evaluación de I+D+i por maternidad, cuidados o violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0196",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Cotización para la jubilación de las becas de investigación anteriores a 2011",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0197",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Participación andaluza en la gestión de los centros del CSIC y el IEO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0198",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Sanciones al fraude científico y al acoso con un órgano independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0199",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Investigación prioritaria en salud de las mujeres e indicadores de género en ensayos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0200",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Reforzar la supercomputación y crear infraestructura pública de IA para investigar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0201",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Compra pública de innovación para impulsar la tecnología pública y andaluza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0202",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Ampliar las excepciones de propiedad intelectual para usos docentes, científicos y culturales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0203",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Ningún hogar pagará más del 20 % de sus ingresos por su casa",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0204",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Reforma constitucional para hacer de la vivienda un derecho fundamental",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0205",
+  "subtema": "vivienda-derecho",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Ley de emergencia habitacional con definición legal de la especulación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0206",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Paralizar desahucios de hogares vulnerables sin alternativa e ilegalizar la desokupación",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0207",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Alquiler social obligatorio de grandes tenedores antes de demandar un desahucio",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0208",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Índice estatal para que ningún alquiler supere el 20 % de la renta media",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0209",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Alquileres indefinidos, prórroga sin subida y registro obligatorio de contratos",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0210",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Mismos límites y garantías para el alquiler de temporada y por habitaciones",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0211",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Declaración automática de zonas tensionadas por indicadores objetivos",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0212",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Gran tenedor desde cinco viviendas y límites a sus compras en zonas tensionadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0213",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Sin exenciones fiscales a SOCIMI y fondos y fiscalidad del alquiler según su precio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0214",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Parque público de alquiler al 9 % con el 1,5 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0215",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Todas las viviendas y suelos de la Sareb al alquiler asequible con gestión pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0216",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Ceder inmuebles vacíos de Defensa, Adif y Puertos para vivienda pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0217",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Prohibir por ley la venta de vivienda pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0218",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Al menos un 50 % de vivienda protegida en cada nueva promoción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0219",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Viviendas vacías de grandes tenedores al alquiler a precio limitado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0220",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Moratoria de pisos turísticos en zonas tensionadas y cierre de los ilegales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0221",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Ascensor obligatorio en edificios de más de dos plantas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0222",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Más inversión en rehabilitación energética y regeneración de barrios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0223",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Plan estatal de realojo de los asentamientos de temporeros en dos años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0224",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Ley del derecho al alojamiento con vivienda primero para personas sin hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0225",
+  "subtema": "vivienda-compra",
+  "otros": [],
+  "titular": "Prohibir nuevas hipotecas a tipo variable para vivienda habitual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0226",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "animales"
+  ],
+  "titular": "Nulas las cláusulas de alquiler que prohíben animales de compañía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0227",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Bonos de deuda para financiar vivienda pública en alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0228",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Recuperar para el parque público la VPO vendida a fondos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0229",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Cupo de pisos turísticos por zona según la población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0230",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [],
+  "titular": "Recargos de IBI a viviendas turísticas y de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0231",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ley del suelo con gestión urbanística pública y protección del suelo residencial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0232",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Prohibir la compra de vivienda residencial por fondos y sociedades mercantiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0233",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Prohibir la venta de suelo público y cederlo temporalmente para uso social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0234",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Préstamo sin intereses para la fianza, aval público y seguro de impago",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0235",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Portal público de alquiler sin comisiones e inspección de habitabilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0236",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Agencias públicas que alquilan a pequeños propietarios y subarriendan a precio social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0237",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Dejar el alquiler con un mes de preaviso por despido o enfermedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0238",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Bono Alquiler Joven también para habitaciones y pisos compartidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0239",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Los cuidados como cuarto pilar del Estado del bienestar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0240",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Ley estatal de cuidados con una red pública de gestión directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0241",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Financiación estatal del 50 % de la dependencia hasta el 1,7 % del PIB",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0242",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Valoración de la dependencia en un máximo de 150 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0243",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Ayuda a domicilio pública de gestión directa y fin del minutaje",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0244",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Estatuto de la cuidadora principal con cotización y prestación ligada al SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0245",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Desplazamientos pagados y enfermedades profesionales reconocidas en los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0246",
+  "subtema": "fam-mayores",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Ley estatal de residencias con ratios mínimas y más plazas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0247",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Estrategia contra la soledad no deseada con redes comunitarias y teleasistencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0248",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Ley de vida independiente con asistencia personal financiada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0249",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Atención temprana como derecho de 0 a 6 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0250",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Ajustes de puesto obligatorios y cuota del 10 % en el empleo público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0251",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Pago directo de ortoprótesis y banco público de préstamo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0252",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Reconocer y regular la profesión de mediación comunicativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0253",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Accesibilidad universal en transporte, edificios y comunicación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0254",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Derogar los recortes de dependencia de 2012 y pagar con efectos retroactivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0255",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Reducción de jornada sin pérdida salarial para cuidar a hijos con gran discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0256",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Jubilación anticipada sin penalización para quien cuidó a un hijo con gran discapacidad",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0257",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ley estatal de servicios sociales con una trabajadora social por 1.700 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0258",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Sustituir el IPREM por un indicador actualizado para las ayudas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0259",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Plan contra la pobreza infantil para reducirla un 40 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0260",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Prestación universal por crianza de 100 a 200 euros al mes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0261",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Equiparar las familias monoparentales a las numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0262",
+  "subtema": "fam-infancia",
+  "otros": [],
+  "titular": "Priorizar el acogimiento familiar y centros de protección pequeños y públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0263",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Estatuto de familias diversas y familia numerosa desde dos hijos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0264",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensiones con el IPC real y mínimas no inferiores al salario mínimo neto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0265",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Revalorización con el IPC real y pensiones públicas blindadas en la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0266",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Pensiones mínimas iguales al salario mínimo neto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0267",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación completa sin coeficientes reductores con 40 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0268",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Adelantar la jubilación en pesca, marisqueo, industria naval y campo",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0269",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación ordinaria a los 64 años y anticipada desde los 55 con relevo",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0270",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación anticipada en profesiones penosas, sanitarios desde los 60",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0271",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Cotización sin topes y aportaciones de impuestos a las pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0272",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Mejorar la pensión de viudedad de quien no tiene pensión propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0273",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Periodos de cuidado computables para la pensión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0274",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Reglamento urgente de la pasarela al RETA para la abogacía y la procura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0275",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Plan estatal de estabilización contra el abuso de temporalidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0276",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Suprimir la tasa de reposición y acabar con las subcontratas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0277",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Preparación pública y gratuita de oposiciones y becas para opositar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0278",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Sede de examen de las oposiciones estatales en cada comunidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0279",
+  "subtema": "trab-empleo-publico",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Plazas de la Administración del Estado en Andalucía según su población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0280",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Devolver al personal público los derechos retributivos recortados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0281",
+  "subtema": "eco-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: paro andaluz del 14,91 % y apuesta por reforma fiscal y 32 horas",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0282",
+  "subtema": "imp-irpf",
+  "otros": [
+   "imp-capital-patrimonio"
+  ],
+  "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "subir-altas"
+   },
+   {
+    "eje": "eje-capital",
+    "posicion": "igualar-subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0283",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Impuesto sobre la riqueza y la tierra que sustituya a Patrimonio",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0284",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [],
+  "titular": "Tributación mínima común en sucesiones y donaciones contra el dumping fiscal",
+  "ejes": [
+   {
+    "eje": "eje-herencias",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0285",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Impuesto de Sociedades progresivo: tipo reducido a pymes y creciente a grandes",
+  "ejes": [
+   {
+    "eje": "eje-sociedades",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0286",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Impuestos permanentes a los beneficios extraordinarios de banca y energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0287",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Impuesto a los beneficios extraordinarios de la gran distribución alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0288",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Grandes empresas tributarán donde generan actividad y empleo, no en su sede",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0289",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA superreducido para luz, agua, alimentos básicos, productos menstruales y cultura",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0290",
+  "subtema": "imp-iva-indirectos",
+  "otros": [],
+  "titular": "IVA reducido para pañales, leche de fórmula y productos de limpieza básicos",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0291",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "IVA del 21 % para el alquiler turístico",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0292",
+  "subtema": "imp-sociedades",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Impuesto a los beneficios de la sanidad privada con conciertos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0293",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Impuesto de salida a grandes fortunas que trasladen su residencia fiscal",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0294",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Impuestos sobre emisiones, residuos peligrosos y consumo de recursos comunes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0295",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Sin obligación de declarar con dos pagadores por debajo de 22.000 euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0296",
+  "subtema": "imp-irpf",
+  "otros": [],
+  "titular": "Ayudas a víctimas de la talidomida exentas de IRPF desde 2023",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0297",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-irpf"
+  ],
+  "titular": "Recuperar en el IRPF la deducción por primera vivienda y por emancipación",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0298",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Inspección de Hacienda centrada en grandes grupos e ingeniería fiscal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0299",
+  "subtema": "imp-fraude",
+  "otros": [],
+  "titular": "Excluir de la contratación pública a empresas con filiales en paraísos fiscales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0300",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "imp-fraude"
+  ],
+  "titular": "Embargo a defraudadores y devolución íntegra con intereses en casos de corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0301",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Plan para recuperar el dinero público del rescate bancario de 2008",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0302",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Auditoría ciudadana para identificar la deuda ilegítima",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0303",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Reformar la senda de estabilidad para que no obligue a recortar servicios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0304",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Obra pública sin sobrecostes y planificación plurianual aprobada en las Cortes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0305",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Banca pública con crédito a pymes, cooperativas y vivienda pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0306",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Ley del sistema financiero que garantice la función social del crédito",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0307",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Aseguradora pública para seguros obligatorios a precio justo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0308",
+  "subtema": "eco-publico-banca",
+  "otros": [],
+  "titular": "Empresas públicas en energía, farmacia, alimentación, telecomunicaciones y funeraria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0309",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Sanciones duras a la banca por la venta vinculada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0310",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Plan estatal de reindustrialización verde en las comarcas con más paro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0311",
+  "subtema": "eco-industria",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Industria agroalimentaria y cooperativa que transforme la producción andaluza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0312",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reconvertir la industria naval, militar y del automóvil hacia renovables sin perder empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0313",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Sin ayudas ni contratos públicos para empresas que cierren o despidan con beneficios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0314",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Polo tecnológico andaluz de ciberseguridad con centros públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0315",
+  "subtema": "eco-innovacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Ayudas a la I+D mayores cuanto menor es la empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0316",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "imp-verdes"
+  ],
+  "titular": "Plan de turismo con red pública de alojamientos, Imserso para todos y tasa turística",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0317",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Inversión productiva y teletrabajo para llevar empleo a los pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0318",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Trabajar tiene que dar para vivir: menos horas, mejores sueldos y despido más caro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0319",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Jornada de 32 horas sin rebaja de sueldo en dos años en grandes empresas",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0320",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Indexar los salarios y el salario mínimo a la inflación",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0321",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "trab-salarios"
+  ],
+  "titular": "Subida salarial automática tras un año de convenio bloqueado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0322",
+  "subtema": "trab-salarios",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Impedir que las subidas de convenio se absorban con pluses o antigüedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0323",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Despido de 50 días por año en indefinidos y 60 en temporales",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0324",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Prevalencia del convenio sectorial sobre el de empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0325",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Prohibir las horas extra salvo emergencia, con registro horario real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0326",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Abanico salarial máximo de 1 a 5 en cada empresa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0327",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Más cotización e indemnización para los contratos temporales",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0328",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Fijos discontinuos a indefinidos ordinarios tras un año",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0329",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Mismo salario en las contratas y paso a plantilla tras un año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0330",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Presunción de laboralidad si el 70 % de la facturación viene de un cliente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0331",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Que la productividad de la IA y los robots cotice a la Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0332",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Más inspección de trabajo y plan extraordinario en turismo y hostelería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0333",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Estatuto del trabajo en el campo con alojamientos dignos para temporeros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0334",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Estatuto de la hostelería y fin de la subcontratación de camareras de piso",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0335",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Integración plena de las empleadas de hogar en el Régimen General",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0336",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Transporte por carretera sin trabajar bajo costes y con jubilación anticipada",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0337",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Detectar las enfermedades profesionales desde la sanidad pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0338",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Acuerdo con Gibraltar sobre pensión y sanidad de los trabajadores transfronterizos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0339",
+  "subtema": "trab-jornada",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Derecho a adaptar el turno por cuidado de menores sin perder salario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0340",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Permiso retribuido por duelo gestacional para la madre y su pareja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0341",
+  "subtema": "trab-jornada",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Compensación pública del salario perdido en reducciones de jornada por cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0342",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Derecho al teletrabajo en los puestos que lo permitan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0343",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Puesto garantizado o indemnización al volver de una excedencia voluntaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0344",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Complemento económico para quien trabaja a tiempo parcial sin elegirlo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0345",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Revisar la Garantía Juvenil para que termine en empleo estable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0346",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Sanciones progresivas y responsabilidad patrimonial de administradores incumplidores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0347",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Formar y recolocar antes de despedir por IA, o despido nulo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0348",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Representación de la plantilla en consejos de empresas de más de 250 personas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0349",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Renta básica universal e incondicional igual al umbral de la pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0350",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ingreso Mínimo Vital con personal propio y resolución en plazo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0351",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Prestación puente mientras se resuelve una incapacidad o un juicio por despido",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0352",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Baja por enfermedad grave sin el requisito de 180 días cotizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0353",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Incapacidad temporal pagada al 100 % desde el primer día",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0354",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "fam-discapacidad"
+  ],
+  "titular": "Valoraciones sin mutuas y grado de discapacidad resuelto en seis meses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0355",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Subsidio por desempleo de más cuantía y compatible con un empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0356",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Cuota de autónomos según ingresos reales y cero sin rendimientos netos",
+  "ejes": [],
+  "nota": ""
+ }
+]

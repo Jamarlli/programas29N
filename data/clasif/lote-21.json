@@ -1,0 +1,1362 @@
+[
+ {
+  "id": "podemos-0134",
+  "subtema": "trab-jornada",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Prohibir las horas extras sin compensación y sancionarlas penalmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0135",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Eliminar la contratación temporal sin causa y reforzar la Inspección de Trabajo",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "mantener-profundizar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0136",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Aprobar la «Ley Kellys» para igualar condiciones en contratas y subcontratas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0137",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Computar un mes de paro por cada 2 meses cotizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0138",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Elecciones sindicales en todas las empresas y prevalencia del convenio sectorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0139",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "igu-libertades"
+  ],
+  "titular": "Aprobar una Ley Orgánica del Derecho a la Huelga y prohibir las listas negras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0140",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Crear una Inspección de Igualdad y un plan contra la precariedad femenina",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0141",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Suprimir la base máxima de cotización y establecer cotizaciones progresivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0142",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Equiparar la pensión mínima al SMI y la no contributiva al 80 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0143",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Auditoría independiente de las cuentas de la Seguridad Social de 1967 a 2019",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0144",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Compensar las lagunas de cotización y elegir los años para calcular la pensión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0145",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación anticipada sin penalización en sectores especialmente duros",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0146",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Eliminar la brecha de género en las pensiones y mejorar las mínimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0147",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Igualar a las parejas de hecho en las pensiones de viudedad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0148",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Integrar mutualidades y mutuas en el sistema público de Seguridad Social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0149",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Prácticas externas retribuidas al menos según el SMI y de cinco horas máximo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0150",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Convertir el Ingreso Mínimo Vital en una renta universal incondicionada",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Implantar una renta básica universal? → sí"
+ },
+ {
+  "id": "podemos-0151",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Prohibir los trabajos al aire libre con avisos meteorológicos naranja o rojo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0152",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Prestación a cuidadoras familiares de hasta el 100 % del SMI según grado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0153",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Reconocer enfermedades profesionales feminizadas y cotizaciones retroactivas de trabajadoras del hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0154",
+  "subtema": "igu-violencia",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Protocolos obligatorios en las empresas contra el acoso y las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0155",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Garantizar la adaptación y reducción de jornada y excedencias para cuidar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0156",
+  "subtema": "trab-empleo",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Aprobar la Ley Jornalera y vincular el subsidio agrario al 50 % del SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0157",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Precio mínimo por kilómetro y pago a 30 días a pequeños transportistas",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0158",
+  "subtema": "cultura",
+  "otros": [
+   "trab-empleo",
+   "dig-ia"
+  ],
+  "titular": "Desarrollar el Estatuto del Artista con protección por desempleo específica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0159",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Aprobar una nueva Ley de Mecenazgo y Patrocinio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0160",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: un sistema que pone los negocios por encima de la vida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0161",
+  "subtema": "seg-emergencias",
+  "otros": [],
+  "titular": "Diagnóstico: las catástrofes muestran que nos salvan los servicios públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0162",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Diagnóstico: cuidados y violencia machista recaen sobre las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0163",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Fondo de contingencia de mil millones contra todas las violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0164",
+  "subtema": "igu-vida",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Blindar el aborto en la Constitución y sacarlo del Código Penal",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0165",
+  "subtema": "igu-violencia",
+  "otros": [
+   "dig-plataformas",
+   "igu-lgtbi"
+  ],
+  "titular": "Plan de choque contra las violencias digitales machistas y LGTBIfóbicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0166",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Garantizar presupuesto para la atención 24/7 a víctimas de violencias sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0167",
+  "subtema": "fam-infancia",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Implantar el modelo Barnahus para la infancia víctima de violencias sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0168",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Paquete de derechos LGTBIQA+: género no binario y cupo laboral trans",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0169",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prestación equivalente al SMI durante 6 meses para víctimas de violencias machistas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0170",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Consolidar servicios públicos especializados de atención a víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0171",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Evaluar los servicios estatales 016, ATENPRO y Cometa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0172",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Acompañamiento personalizado a víctimas con oficinas en las 17 comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0173",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Especializar juzgados, fiscalía y forenses en violencias sexuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0174",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Asistencia letrada gratuita a víctimas de violencias sexuales sin importar la renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0175",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Desarrollar toda la LO 10/2022 y fomentar la cultura del consentimiento",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0176",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Aprobar una Ley Integral contra todas las formas de Trata y Explotación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0177",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Regularizar a víctimas de trata y a mujeres en contextos de prostitución",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0178",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Presupuesto estable y plurianual para el Plan Camino",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0179",
+  "subtema": "igu-violencia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Ley contra la violencia política machista con protocolos en partidos y cámaras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0180",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Proteger a las madres protectoras frente a la violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0181",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ampliar la definición de violencia machista más allá de la pareja",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0182",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Reconocer la violencia obstétrica en la ley de salud sexual y reproductiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0183",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Ley de protección de la lactancia materna y del parto informado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0184",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [],
+  "titular": "Ligadura de trompas en la sanidad pública por simple decisión de la mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0185",
+  "subtema": "san-sexual-reproductiva",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Anticoncepción gratuita y reproducción asistida pública para todas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0186",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Combatir la explotación reproductiva y la publicidad de gestación subrogada",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Qué hacer con la gestación subrogada? → perseguirla y mantener su prohibición"
+ },
+ {
+  "id": "podemos-0187",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Políticas públicas contra la violencia estética y la gordofobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0188",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-constitucion",
+   "fam-dependencia"
+  ],
+  "titular": "Incorporar la perspectiva de género y el derecho al cuidado a la Constitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0189",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Homologar las figuras y funciones de Agentes y Técnicas de Igualdad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0190",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Paridad en todos los niveles del Estado, incluidos ejército y policía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0191",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Garantizar la accesibilidad de todo el proceso político a personas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0192",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Ley orgánica para adaptar la legislación a la Convención de la ONU sobre discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0193",
+  "subtema": "fam-discapacidad",
+  "otros": [
+   "igu-violencia"
+  ],
+  "titular": "Garantizar los derechos de las mujeres y niñas con discapacidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0194",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Fondo Estatal para la Accesibilidad Universal con el 1 % de la inversión pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0195",
+  "subtema": "fam-discapacidad",
+  "otros": [],
+  "titular": "Aumentar y agilizar las prestaciones para material ortoprotésico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0196",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permisos por nacimiento, adopción y acogimiento de 26 semanas por progenitor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0197",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Prestación universal por crianza del 15 % del SMI hasta los 21 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0198",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Permiso parental de 10 semanas por progenitor remunerado al 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0199",
+  "subtema": "trab-jornada",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Permiso de cuidados de 7 días remunerados al 100 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0200",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Apoyo a la crianza y el cuidado en los primeros 1.000 días",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0201",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Ampliar el permiso por fuerza mayor a 7 días retribuidos al año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0202",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Permiso retribuido para acompañar a menores de 14 años al médico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0203",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Reconocer a las familias monomarentales y equipararlas a las numerosas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0204",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Ampliar el permiso por fallecimiento de un familiar a 10 días hábiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0205",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Equiparar a familia numerosa a las encabezadas por víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0206",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Aprobar de forma inmediata la Ley de Familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0207",
+  "subtema": "fam-dependencia",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Reconocer legalmente redes de cuidados más allá de la familia y la pareja",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0208",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Crear un Sistema Estatal de Cuidados y Conciliación como cuarto pilar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0209",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Garantizar el reconocimiento profesional de las personas que cuidan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0210",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Ampliar el Plan Corresponsables a todas las familias con menores de 16 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0211",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Ley de Calidad del SECC con sueldos mínimos de 1,5 veces el SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0212",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Impulsar la corresponsabilidad de los hombres en los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0213",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Crear una Alta Inspección de Cuidados dependiente del IMSERSO",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0214",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Desprivatizar las residencias hasta una gestión 100 % pública y directa",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Gestión pública o privada de las residencias? → gestión 100 % pública y directa"
+ },
+ {
+  "id": "podemos-0215",
+  "subtema": "fam-infancia",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Crear el Instituto para la Conciliación y el Cuidado de las Infancias (INCCUNA)",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0216",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Crear una Agencia Pública para la Provisión de Cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0217",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Crear manzanas de cuidado con servicios para las personas cuidadoras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0218",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Permitir destinar el tercio de mejora de la herencia a quien cuidó",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0219",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Crear una Fiscalía para los derechos de las personas mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0220",
+  "subtema": "fam-mayores",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Ley de la Buena Vejez y reforzar el edadismo como delito de odio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0221",
+  "subtema": "san-mental",
+  "otros": [],
+  "titular": "Servicio de salud mental en atención primaria con psicólogos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0222",
+  "subtema": "fam-mayores",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Comunidades de cuidados para personas mayores en los núcleos rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0223",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-fronteras",
+   "inm-asilo"
+  ],
+  "titular": "Derogar la Ley de Extranjería y aprobar una Ley Integral basada en derechos",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0224",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Cerrar todos los Centros de Internamiento de Extranjeros",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Cerrar los Centros de Internamiento de Extranjeros? → sí"
+ },
+ {
+  "id": "podemos-0225",
+  "subtema": "inm-integracion",
+  "otros": [
+   "igu-racismo",
+   "inm-regularizacion"
+  ],
+  "titular": "DNI y voto para quien vive y trabaja en España y nacionalidad más fácil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0226",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Ius soli: españoles de origen los nacidos en España con un progenitor residente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0227",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Aprobar una Ley Integral Antirracista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0228",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Procedimiento permanente de regularización que reconozca el arraigo social y familiar",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0229",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Acreditar el arraigo con pruebas más amplias que el empadronamiento",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0230",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Prórroga automática de las autorizaciones de residencia si la Administración no resuelve",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0231",
+  "subtema": "inm-regularizacion",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Modernizar la plataforma Mercurio y reforzar las oficinas de extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0232",
+  "subtema": "igu-racismo",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Investigación independiente de intervenciones policiales con muerte o violencia racista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0233",
+  "subtema": "edu-becas",
+  "otros": [
+   "inm-integracion"
+  ],
+  "titular": "Garantizar la escolarización de todos los menores sin importar su situación administrativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0234",
+  "subtema": "inm-integracion",
+  "otros": [
+   "san-modelo"
+  ],
+  "titular": "Sanidad pública universal incluidas las personas migrantes en situación irregular",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0235",
+  "subtema": "inm-integracion",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Proteger frente a la discriminación laboral y facilitar la homologación de títulos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0236",
+  "subtema": "inm-integracion",
+  "otros": [
+   "fam-natalidad"
+  ],
+  "titular": "Acceso de madres migrantes en situación irregular a prestaciones por maternidad",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0237",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Sistema estatal obligatorio de distribución de menores migrantes no acompañados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0238",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Garantías y presunción de minoría en la determinación de edad de menores migrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0239",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Crear un Fondo Estatal de Acogida e Inclusión para los sistemas autonómicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0240",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Objetivos de diversidad para personas racializadas y migrantes en las instituciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0241",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Mecanismos independientes de supervisión del racismo institucional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0242",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Aprobar una ley específica contra la islamofobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0243",
+  "subtema": "igu-racismo",
+  "otros": [
+   "igu-memoria",
+   "edu-escuela"
+  ],
+  "titular": "Lucha contra el antigitanismo e inclusión social del Pueblo Gitano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0244",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Plan de realojamiento en la Cañada Real sin desalojos sin alternativa habitacional",
+  "ejes": [
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0245",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Garantizar electricidad, agua y servicios públicos en la Cañada Real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0246",
+  "subtema": "vivienda-okupacion-desahucios",
+  "otros": [],
+  "titular": "Plan de acción urgente con las redes comunitarias de la Cañada Real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0247",
+  "subtema": "igu-racismo",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Combatir la segregación residencial y la discriminación en el acceso a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0248",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Duplicar la partida de Cultura de los Presupuestos en una legislatura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0249",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Gratuidad o precios reducidos para acceder al patrimonio cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0250",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear un observatorio estatal del patrimonio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0251",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Fomentar la gestión comunitaria del patrimonio con participación ciudadana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0252",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Gratuidad de los museos públicos y centros de ciencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0253",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Extender museos y bibliotecas al medio rural y los barrios periféricos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0254",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Participación de la sociedad civil en la dirección de los museos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0255",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Auditar la procedencia de las colecciones estatales y debatir restituciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0256",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ampliar residencias y becas de creación con cuota para mujeres y LGTBIQA+",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0257",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cuotas de edad y de género en la creación con dinero público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0258",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear una imprenta pública para editoriales independientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0259",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Plan de supervivencia de la edición independiente con subvenciones específicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0260",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Plan nacional de compra pública de libros para bibliotecas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0261",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Pacto por la lectura infantil y juvenil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0262",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Estatuto profesional del sector del libro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0263",
+  "subtema": "cultura",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Evitar las posiciones de monopolio en la distribución del libro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0264",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Oficina de internacionalización para pequeñas editoriales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0265",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Corrección lingüística como partida obligatoria en las ayudas a la edición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0266",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Espacio propio y accesible para la Biblioteca del Instituto de las Mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0267",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Incluir a escritoras y traductoras en el Observatorio de Igualdad de Cultura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0268",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Reformar el sistema de financiación del audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0269",
+  "subtema": "cultura",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Proteger a los cineastas en la legislación sobre inteligencia artificial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0270",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Incluir a sindicatos y asociaciones del Estatuto del Artista en la negociación colectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0271",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Redefinir el ICAA y mejorar su dotación presupuestaria y de personal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0272",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear una agencia estatal del cine y el audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0273",
+  "subtema": "cultura",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Impulsar las televisiones públicas como motor del sector audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0274",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Preservar las cuotas de pantalla para las lenguas oficiales del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0275",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Promocionar el audiovisual español exigiendo invertir el 80 % en empresas españolas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0276",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Defender la excepción cultural frente a los aranceles al cine extranjero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0277",
+  "subtema": "cultura",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Criterios de igualdad de género en las ayudas al audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0278",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Fomentar la participación de personas racializadas y LGTBIQA+ en el audiovisual",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0279",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Asociaciones por la igualdad de género en la calificación de obras audiovisuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0280",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Proteger por ley el patrimonio inmaterial y cinematográfico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0281",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Crear un sello español de sostenibilidad para las producciones audiovisuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "podemos-0282",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Ley integral de desarrollo y promoción de las artes escénicas",
+  "ejes": [],
+  "nota": ""
+ }
+]

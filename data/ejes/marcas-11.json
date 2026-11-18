@@ -1,0 +1,1136 @@
+[
+ {
+  "eje": "eje-territorial",
+  "id": "podemos-0428",
+  "posicion": "federal",
+  "cita": "no un simple cambio de jefatura, sino la apertura de un proceso que profundice la democracia, reconozca la plurinacionalidad"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "podemos-0434",
+  "posicion": "federal",
+  "cita": "Reforma federal del Senado. Reformaremos el Senado para convertirlo en una verdadera cámara de representación territorial, garantizando la misma representación a todas las Comunidades Autónomas"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0398",
+  "posicion": "federal",
+  "cita": "Hacia un modelo confederal — Un Estado de pueblos libres e iguales como horizonte del andalucismo."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0023",
+  "posicion": "autonomico",
+  "cita": "Andalucía, nacionalidad histórica — Exigimos el máximo nivel de autonomía y autogobierno en cualquier reforma."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0397",
+  "posicion": "autonomico",
+  "cita": "El máximo nivel de autonomía, competencias y financiación en cualquier reforma constitucional."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0105",
+  "posicion": "autonomico",
+  "cita": "Sanidad penitenciaria a Andalucía — Traspaso y pago de lo que se le debe por prestarla."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0399",
+  "posicion": "autonomico",
+  "cita": "Informe público de su cumplimiento y calendario de todos los traspasos pendientes, cada uno con su financiación."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0400",
+  "posicion": "autonomico",
+  "cita": "Traspaso de Cercanías y media distancia — Con su financiación y participación real de Andalucía en la planificación ferroviaria."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0401",
+  "posicion": "autonomico",
+  "cita": "El Guadalquivir, para Andalucía — Gestión exclusiva de la cuenca por la Junta."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0402",
+  "posicion": "autonomico",
+  "cita": "Policía autonómica andaluza — Despliegue progresivo, coordinado con el resto de cuerpos."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0403",
+  "posicion": "autonomico",
+  "cita": "Más competencias y medios en justicia y constitución del Consejo de Justicia de Andalucía."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0404",
+  "posicion": "autonomico",
+  "cita": "Agencia tributaria andaluza fuerte — Más capacidad sobre los impuestos de competencia autonómica."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0405",
+  "posicion": "autonomico",
+  "cita": "Comisión bilateral con poder real — Voz andaluza propia en las decisiones estatales que afectan a Andalucía."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0406",
+  "posicion": "autonomico",
+  "cita": "Traspaso de la Inspección de Trabajo y Seguridad Social, como ya tienen Cataluña y el País Vasco, coordinada con la estatal."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0407",
+  "posicion": "autonomico",
+  "cita": "Gestión de las prestaciones por desempleo junto a las políticas activas de empleo que ya lleva la Junta, sin romper la caja única de la Seguridad Social."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0408",
+  "posicion": "autonomico",
+  "cita": "Las becas, desde Andalucía — Gestión de las becas y ayudas al estudio estatales, como ha avalado el Tribunal Constitucional."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0409",
+  "posicion": "autonomico",
+  "cita": "Traspaso de las vías de alta capacidad que discurren solo por Andalucía y vuelven al Estado al acabar su concesión, como la AP-4"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0410",
+  "posicion": "autonomico",
+  "cita": "Participación real de Andalucía en la planificación y gestión de los aeropuertos de AENA y de los puertos de interés general de su territorio."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0411",
+  "posicion": "autonomico",
+  "cita": "Participación en la gestión de los seguros agrarios y en la organización del mercado pesquero y acuícola del litoral andaluz."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0412",
+  "posicion": "autonomico",
+  "cita": "Que una parte de las ayudas estatales a la cinematografía se gestione desde Andalucía."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0417",
+  "posicion": "autonomico",
+  "cita": "Andalucía en la SEPI — Participación andaluza en las decisiones sobre empresas públicas que operan en Andalucía."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0435",
+  "posicion": "autonomico",
+  "cita": "Administradora ferroviaria andaluza — Gestión pública andaluza de la red intracomunitaria, como Ferrocarrils de la Generalitat de Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0529",
+  "posicion": "autonomico",
+  "cita": "Reforzar su carácter territorial: cámara de las comunidades y nacionalidades, con sus miembros rindiendo cuentas ante sus parlamentos."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "adelante-0534",
+  "posicion": "autonomico",
+  "cita": "Prisiones, a Andalucía — Traspaso de la ejecución penitenciaria que prevé el Estatuto, con su financiación."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0013",
+  "posicion": "autonomico",
+  "cita": "Transferencia das competencias en materia de relacións laborais, co obxectivo de que Galiza teña plena capacidade lexislativa e normativa"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0014",
+  "posicion": "autonomico",
+  "cita": "Transferencia das competencias en materia de Seguranza Social e pensións"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0015",
+  "posicion": "autonomico",
+  "cita": "Traspaso das competencias en materia de seguranza pública, policía xudicial e fiscal, así como garda de tránsito, para o que será despregado o corpo da Policía Galega."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0016",
+  "posicion": "autonomico",
+  "cita": "Asunción por parte dos poderes públicos galegos de plena capacidade para exercer o control público dos nosos recursos, dos sectores estratéxicos da economía"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0017",
+  "posicion": "autonomico",
+  "cita": "Traspaso das competencias en infraestruturas de transporte de interese xeral: portos de interese xeral, aeroportos e control de tráfico aéreo en Galiza"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0018",
+  "posicion": "autonomico",
+  "cita": "Transferencia das competencias en materia de costas e do dominio público marítimo-terrestre"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0019",
+  "posicion": "autonomico",
+  "cita": "Transferencia das competencias e servizos de salvamento marítimo e gardacostas"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0020",
+  "posicion": "autonomico",
+  "cita": "Traspaso AP-9 (Ferrol-A Coruña-Vigo) e AP-53 (Santiago-Lalín) e nacionalización destas infraestruturas"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0021",
+  "posicion": "autonomico",
+  "cita": "Traspaso dos fondos e competencias relacionadas co fomento da industria cinematográfica e audiovisual galega."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0022",
+  "posicion": "autonomico",
+  "cita": "Traspaso a Galiza dos arquivos, bens e fondos documentais, culturais e históricos"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0023",
+  "posicion": "autonomico",
+  "cita": "Traspaso das competencias en materia deportiva do Consello Superior de Deportes e das federacións deportivas."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0024",
+  "posicion": "autonomico",
+  "cita": "Transferencia dos activos da SAREB (entidade de xestión de activos inmobiliarios das entidades financeiras saneadas) situados en Galiza"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0025",
+  "posicion": "autonomico",
+  "cita": "En todo o caso, traspaso á Administración Galega de todas aquelas competencia previstas e que aínda detén a Administración do Estado."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0041",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza todas as competencias pendentes en xestión do traballo, emprego, formación e recoñecemento de prestacións."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0068",
+  "posicion": "autonomico",
+  "cita": "O Bloque Nacionalista Galego defende o traspaso a Galiza das competencias correspondentes ao réxime da Seguridade Social"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0093",
+  "posicion": "autonomico",
+  "cita": "Reclamar a transferencia a Galiza do Ingreso Mínimo Vital (IMV) para garantir unha xestión máis áxil e acaída á realidade galega"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0160",
+  "posicion": "autonomico",
+  "cita": "Transferencia a Galiza das competencias en materia de Institucións Penitenciarias"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0175",
+  "posicion": "autonomico",
+  "cita": "que Galiza poida organizar e ordenar o sistema educativo mediante unha Lei galega de educación que regule o noso sistema educativo até o Bacharelato"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0177",
+  "posicion": "autonomico",
+  "cita": "Transferir ao Goberno galego todas as competencias pendentes, garantindo a plena capacidade para deseñar e desenvolver un modelo educativo propio."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0178",
+  "posicion": "autonomico",
+  "cita": "Garantir a plena e exclusiva competencia en xestión do persoal docente"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0182",
+  "posicion": "autonomico",
+  "cita": "Defender unha reforma da Lei orgánica do Sistema Universitario (LOSU) que defina claramente o modelo de universidade pública e permita exercer todas as competencias no ámbito galego"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0185",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza as competencias e medios materiais da Universidade a Distancia (UNED)"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0186",
+  "posicion": "autonomico",
+  "cita": "Transferir a competencia da xestión e da concesión de bolsas e axudas ao estudo universitario"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0187",
+  "posicion": "autonomico",
+  "cita": "Mellorar a acción protectora do seguro escolar e transferilo á Xunta de Galiza."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0201",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza todas as competencias relacionadas cos programas de formación MIR, EIR, PIR"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0206",
+  "posicion": "autonomico",
+  "cita": "Crear un novo Estatuto Marco para o conxunto das/os profesionais da sanidade pública, que non signifique recentralización de competencias xa transferidas a Galiza."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0263",
+  "posicion": "autonomico",
+  "cita": "Estabelecer un marco de co-decisión e xestión descentralizada de todos os proxectos, programas, plans e instrumentos de financiamento en materia de política industrial e produtiva"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0283",
+  "posicion": "autonomico",
+  "cita": "Transferencia das competencias dos portos de interese xeral do Estado, Salvamento Marítimo, navegación marítima e mariña mercante"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0288",
+  "posicion": "autonomico",
+  "cita": "Transferencia dos inmóbeis do ISM e recuperar as casas do mar que foron desaparecendo."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0301",
+  "posicion": "autonomico",
+  "cita": "Transferencia a Galiza das entidades dependentes do Centro Superior de Investigacións científicas (CSIC)"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0307",
+  "posicion": "autonomico",
+  "cita": "Transferir as competencias en materia enerxética, de maneira que se corrixa a anomalía democrática"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0309",
+  "posicion": "autonomico",
+  "cita": "Transferir as competencias en materia enerxética (planificación, ordenación, redes de transporte e distribución, xestión oferta/demanda, impulso modelo descentralizado e de proximidade)"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0328",
+  "posicion": "autonomico",
+  "cita": "Facultar aa Galiza para declarar zonas de reserva mineira permanente"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0348",
+  "posicion": "autonomico",
+  "cita": "é preciso reclamar as competencias plenas en materia de transporte, acompañadas do financiamento necesario"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0356",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza as liñas interiores para seren xestionadas a través dunha empresa pública galega de transporte ferroviario (GALTRÉN)"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0360",
+  "posicion": "autonomico",
+  "cita": "o BNG seguirá a defender que se transfiran a Galiza as estradas pertencentes á Rede de Estradas do Estado que transcorren integramente por territorio galego"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0362",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza e liberalizar a AP-53 para conseguir que esta autoestrada quede finalmente libre de peaxes."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0367",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza as competencias en ordenación de tráfico e seguridade viaria"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0369",
+  "posicion": "autonomico",
+  "cita": "Reclamar a transferencia a Galiza da competencia sobre os aeroportos galegos"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0370",
+  "posicion": "autonomico",
+  "cita": "Instar a transferir ao Goberno galego os portos de interese xeral en Galiza"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0377",
+  "posicion": "autonomico",
+  "cita": "O traspaso a Galiza de todas as competencias en materia de ambiente"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0379",
+  "posicion": "autonomico",
+  "cita": "A reforma de normas que invaden competencias de noso como son a Lei de costas, a Lei de cambio climático"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0382",
+  "posicion": "autonomico",
+  "cita": "Transferir a Galiza dos recursos financeiros destinados á protección da biodiversidade, especies ameazadas, espazos naturais"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0390",
+  "posicion": "autonomico",
+  "cita": "a capacidade para a planificación, deseño, aprobación e a execución das infraestruturas hidráulicas que actualmente ten atribuídas o Goberno central."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0442",
+  "posicion": "autonomico",
+  "cita": "Reclamar a transferencia das competencias exclusivas do Estado en telecomunicacións, espazo audiovisual, infraestruturas dixitais, ciberseguridade e certificación da identidade"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0511",
+  "posicion": "autonomico",
+  "cita": "Transferencia plena das competencias de ensino á Galiza"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0512",
+  "posicion": "autonomico",
+  "cita": "Transferencias das competencias das bolsas universitarias á Xunta de Galiza"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0525",
+  "posicion": "autonomico",
+  "cita": "se impulsa a tranferencia plena destas competencias á Xunta de Galiza, a comezar pola creación do Galitren"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0528",
+  "posicion": "autonomico",
+  "cita": "Traspasar as competencias en materia deportiva do Consello Superior de Deportes e das federacións deportivas."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0028",
+  "posicion": "autonomico",
+  "cita": "Exigir les competències exclusives en matèria educativa. Reclamar la plena sobirania de Catalunya per decidir, regular i gestionar el seu sistema educatiu"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0032",
+  "posicion": "autonomico",
+  "cita": "Garantir les competències exclusives de la Generalitat de Catalunya en l’elaboració dels currículums."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0042",
+  "posicion": "autonomico",
+  "cita": "Impulsar un Pla de Sobirania Cultural per culminar el traspàs dels museus i equipaments culturals transferibles a Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0047",
+  "posicion": "autonomico",
+  "cita": "Ampliar les competències de les autoritats reguladores autonòmiques com el Consell Audiovisual de Catalunya (CAC)"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0048",
+  "posicion": "autonomico",
+  "cita": "Catalunya aspira a desenvolupar l’autogovern i a assumir plenament totes les competències."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0049",
+  "posicion": "autonomico",
+  "cita": "continuarem reclamant el traspàs de les competències per recaptar tots els impostos mitjançant l’Agència Tributària de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0052",
+  "posicion": "autonomico",
+  "cita": "Exigir el traspàs integral de les competències en migració i asil a Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0053",
+  "posicion": "autonomico",
+  "cita": "Cal garantir la competència del Cos de Mossos d’Esquadra com a policia integral al conjunt del país, sense excepcions."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0054",
+  "posicion": "autonomico",
+  "cita": "Traspassar a la Generalitat tots els immobles de l’Administració General de l’Estat a Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0055",
+  "posicion": "autonomico",
+  "cita": "Traspassar les competències en matèria d’homologació i reconeixement dels títols estrangers."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0056",
+  "posicion": "autonomico",
+  "cita": "Completar el traspàs integral de la Inspecció de Treball i Seguretat Social. Culminar el traspàs previst a l’Estatut d’Autonomia"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0057",
+  "posicion": "autonomico",
+  "cita": "Traspassar les polítiques passives a la Generalitat."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0058",
+  "posicion": "autonomico",
+  "cita": "Estructurar el govern judicial propi a Catalunya i, per a això, cal impulsar la reforma de la Llei Orgànica del Poder Judicial"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0079",
+  "posicion": "autonomico",
+  "cita": "Dotar la Generalitat de Catalunya de competències per al desplegament d’una llei d’arrendaments urbans catalana."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0081",
+  "posicion": "autonomico",
+  "cita": "Traspàs immediat de tots els immobles de la SAREB i Casa 47 a la Generalitat de Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0093",
+  "posicion": "autonomico",
+  "cita": "Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0170",
+  "posicion": "autonomico",
+  "cita": "Incrementar la capacitat de decisió i sobirania de la Generalitat de Catalunya sobre la xarxa elèctrica."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0173",
+  "posicion": "autonomico",
+  "cita": "Recuperar i traspassar la gestió i la titularitat pública de les centrals hidroelèctriques a la Generalitat de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0175",
+  "posicion": "autonomico",
+  "cita": "Condicionar l’autorització estatal de les línies d’evacuació elèctrica, especialment les de molt alta tensió (MAT), a l’informe favorable de l’òrgan competent en biodiversitat de la Generalitat de Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0199",
+  "posicion": "autonomico",
+  "cita": "Exigir que el govern de la Generalitat de Catalunya disposi de les competències i dels instruments necessaris per planificar i ordenar els usos de l’espai marítim"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0226",
+  "posicion": "autonomico",
+  "cita": "Avançar cap a la gestió des de Catalunya dels aeroports catalans d’interès general, superant l’actual model centralitzat d’Aena"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0227",
+  "posicion": "autonomico",
+  "cita": "Traspassar la titularitat i la gestió dels aeroports de Girona, Reus i Sabadell"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0232",
+  "posicion": "autonomico",
+  "cita": "Ampliar les encomanes de gestió i traspassar les carreteres estatals a Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0241",
+  "posicion": "autonomico",
+  "cita": "Culminar el traspàs integral de Rodalies a la Generalitat."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0243",
+  "posicion": "autonomico",
+  "cita": "Traspassar progressivament a Catalunya les funcions de conservació, manteniment i gestió de les infraestructures ferroviàries vinculades a Rodalies"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0257",
+  "posicion": "autonomico",
+  "cita": "Defensar el caràcter exclusiu de les competències de la Generalitat en matèria de salut i impedir qualsevol intent de recentralització"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0262",
+  "posicion": "autonomico",
+  "cita": "Assumir plenament les competències de seguretat als ports i aeroports."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0267",
+  "posicion": "autonomico",
+  "cita": "Reclamar el traspàs immediat de les competències plenes en matèria de trànsit i seguretat viària"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0281",
+  "posicion": "autonomico",
+  "cita": "Assolir les competències plenes en matèria d’avaluació i acreditació universitàries."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0282",
+  "posicion": "autonomico",
+  "cita": "Eliminar el districte únic universitari. Cal que Catalunya pugui planificar l’accés a la universitat d’acord amb les necessitats del país."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0008",
+  "posicion": "federal",
+  "cita": "Proposarem a les Corts Generals una Resolució de reconeixement de la Nació Catalana, i la constatació que Espanya és un Estat plurinacional"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0014",
+  "posicion": "autonomico",
+  "cita": "Exigirem el traspàs exclusiu en matèria de cultura a les comunitats autònomes"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0016",
+  "posicion": "autonomico",
+  "cita": "la delegació integral de les competències en matèria d’Immigració, Sanitat i Ensenyament"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0017",
+  "posicion": "autonomico",
+  "cita": "Treballarem perquè els Mossos d’Esquadra i la Policia Local es converteixin en els únics cossos policials de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0018",
+  "posicion": "autonomico",
+  "cita": "Exigirem el Traspàs dels Aeroports d’Interès general de l’Estat (Barcelona, Girona, Reus i Sabadell) a la Generalitat de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0020",
+  "posicion": "autonomico",
+  "cita": "Constituirem, mitjançant l’aprovació d’una llei Orgànica, el Consell de Justícia de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0106",
+  "posicion": "autonomico",
+  "cita": "Exigirem el traspàs a la Generalitat de la inspecció de treball pel que fa a la Seguretat Social"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0107",
+  "posicion": "autonomico",
+  "cita": "Reclamarem el traspàs de la gestió de l’Ingrés Mínim Vital per adaptar-lo a la realitat de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0108",
+  "posicion": "autonomico",
+  "cita": "Reclamarem a l’Estat les competències pendents en política industrial que corresponen a la Generalitat."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0114",
+  "posicion": "autonomico",
+  "cita": "Rebutjarem la imposició del marc normatiu estatal en comerç i horaris comercials, per defensar el model català."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0123",
+  "posicion": "autonomico",
+  "cita": "Demanarem la gestió directa de les ajudes de la PAC a Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0126",
+  "posicion": "autonomico",
+  "cita": "Exigirem la transferència a Catalunya de la inspecció sanitària en origen, inclosos ports i aeroports"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0157",
+  "posicion": "autonomico",
+  "cita": "Reivindicarem la capacitat de Catalunya per definir el seu propi model educatiu i treballarem per ampliar les competències en aquest àmbit."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0202",
+  "posicion": "autonomico",
+  "cita": "Treballarem per assolir les competències plenes en matèria d’immigració"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0221",
+  "posicion": "autonomico",
+  "cita": "reclamarem el traspàs de la seva gestió a la Generalitat de Catalunya."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0222",
+  "posicion": "autonomico",
+  "cita": "Exigirem els traspassos d’immobles sanitaris propietat de la seguretat social, però gestionats per les comunitats autònomes"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0267",
+  "posicion": "autonomico",
+  "cita": "Reivindicarem la transferència plena i efectiva de la gestió de la xarxa ferroviària catalana"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0269",
+  "posicion": "autonomico",
+  "cita": "Reclamarem la gestió des de Catalunya de tots els ports catalans"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0281",
+  "posicion": "autonomico",
+  "cita": "Exigirem a l'Estat espanyol la transferència total de les competències en administració electrònica i transparència"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0292",
+  "posicion": "autonomico",
+  "cita": "Exigirem a l'Estat el traspàs total de les competències en Justícia i la creació d'un Consell de Justícia de Catalunya"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0295",
+  "posicion": "autonomico",
+  "cita": "Defensarem a l'Estat el traspàs íntegre de les competències en seguretat ciutadana"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0023",
+  "posicion": "autonomico",
+  "cita": "Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0036",
+  "posicion": "autonomico",
+  "cita": "Preservar las competencias educativas de Euskadi, evitando interferencias estatales en los ámbitos de decisión que corresponden a las instituciones vascas."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0108",
+  "posicion": "autonomico",
+  "cita": "Culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0120",
+  "posicion": "autonomico",
+  "cita": "Asegurar mayor autonomía de gestión para los puertos de Bilbao y Pasaia, avanzando hacia su gestión integral desde Euskadi."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0143",
+  "posicion": "autonomico",
+  "cita": "Promover mayores competencias para Euskadi en materia de migración y extranjería"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0196",
+  "posicion": "autonomico",
+  "cita": "Asegurar la culminación de la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social, conforme al Estatuto de Gernika"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0204",
+  "posicion": "autonomico",
+  "cita": "Culminar las transferencias sanitarias pendientes a Euskadi"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0231",
+  "posicion": "autonomico",
+  "cita": "Por eso exigiremos el cumplimiento íntegro del Estatuto de Gernika y protegeremos las competencias que ya ejercemos."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0233",
+  "posicion": "autonomico",
+  "cita": "Exigiremos todas las competencias pendientes y defenderemos las que ya ejercemos frente a cualquier intento de recentralización."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0234",
+  "posicion": "autonomico",
+  "cita": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0235",
+  "posicion": "autonomico",
+  "cita": "Rechazar cualquier intento de recentralización, invasión o vaciamiento de las competencias vascas"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0236",
+  "posicion": "autonomico",
+  "cita": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0238",
+  "posicion": "autonomico",
+  "cita": "Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0245",
+  "posicion": "autonomico",
+  "cita": "Establecer mecanismos de prevención y resolución de conflictos entre Euskadi y el Estado"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0247",
+  "posicion": "autonomico",
+  "cita": "Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0248",
+  "posicion": "autonomico",
+  "cita": "Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0266",
+  "posicion": "autonomico",
+  "cita": "No aceptaremos que la gestión de los fondos sirva para recentralizar competencias o alejar las decisiones de quienes conocen mejor las necesidades de Euskadi."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0268",
+  "posicion": "autonomico",
+  "cita": "Impulsar la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0232",
+  "posicion": "federal",
+  "cita": "Aspiramos a una nueva relación política con el Estado, basada en el reconocimiento de Euskadi como nación, el pacto, la bilateralidad"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0237",
+  "posicion": "federal",
+  "cita": "Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0243",
+  "posicion": "federal",
+  "cita": "Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0026",
+  "posicion": "autonomico",
+  "cita": "Transferencia completa de la competencia de Inspección de Trabajo"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0027",
+  "posicion": "autonomico",
+  "cita": "Transferencia de la competencia sobre las políticas pasivas de Empleo a Navarra."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0034",
+  "posicion": "autonomico",
+  "cita": "Transferencia del Régimen Económico de la Seguridad Social a las instituciones vascas y navarras."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0056",
+  "posicion": "autonomico",
+  "cita": "Transferencia de la competencia de la formación especializada de todas las categorías del sistema de salud"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0064",
+  "posicion": "autonomico",
+  "cita": "iniciaremos los trámites para la gestión de la transferencia de la competencia en Sanidad Exterior."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0081",
+  "posicion": "autonomico",
+  "cita": "Reconocimiento pleno a las administraciones públicas vascas y navarras de la competencia para decidir a través de la negociación colectiva el incremento salarial de sus plantillas"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0088",
+  "posicion": "autonomico",
+  "cita": "Transferencia integral de la competencia del Ingreso Mínimo Vital."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0120",
+  "posicion": "autonomico",
+  "cita": "transferencia completa y efectiva a la CAPV y Nafarroa de las competencias ferroviarias, aeroportuarias y portuarias."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0156",
+  "posicion": "autonomico",
+  "cita": "Transferencia integral de las competencias migratorias que nos permitan desarrollar un modelo vasco de acogida propio."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0178",
+  "posicion": "autonomico",
+  "cita": "respetando la legitimidad y capacidad de decisión de nuestras instituciones, evitando las injerencias que desde las diferentes instituciones del estado se producen."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0180",
+  "posicion": "autonomico",
+  "cita": "Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0181",
+  "posicion": "autonomico",
+  "cita": "Propondremos la asunción de nuevas competencias plenas e instrumentos para ampliar nuestras capacidades de autogobierno"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0182",
+  "posicion": "autonomico",
+  "cita": "Defenderemos también, por encima de cualquier intento de re-centralización o retroceso, el autogobierno y todas las capacidades y competencias asociadas al mismo"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0200",
+  "posicion": "autonomico",
+  "cita": "el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado, en el marco del respeto y pleno desarrollo de las competencias de ambas comunidades en materia de seguridad ciudadana"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0174",
+  "posicion": "federal",
+  "cita": "Lograr el reconocimiento efectivo del carácter plurinacional del estado, lo que deberá suponer:"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0175",
+  "posicion": "federal",
+  "cita": "El respeto y reconocimiento de Euskal Herria como nación, así como de las diferentes naciones que actualmente componen el estado español."
+ },
+ {
+  "eje": "eje-agua",
+  "id": "podemos-0375",
+  "posicion": "no",
+  "cita": "Adaptaremos las demandas de agua a los recursos disponibles en cada cuenca, priorizando el abastecimiento humano y la conservación de la naturaleza."
+ },
+ {
+  "eje": "eje-agua",
+  "id": "podemos-0376",
+  "posicion": "no",
+  "cita": "se establecerá, en primer lugar, una moratoria a los regadíos hiperintensivos en manos de fondos buitre y otras medidas para la reducción del consumo de agua en el campo."
+ },
+ {
+  "eje": "eje-agua",
+  "id": "podemos-0385",
+  "posicion": "no",
+  "cita": "establecer una moratoria a nuevos regadíos intensivos y ampliaciones en las cuencas con estrés hídrico."
+ },
+ {
+  "eje": "eje-agua",
+  "id": "adelante-0470",
+  "posicion": "no",
+  "cita": "Caudales ecológicos y abastecimiento primero, freno al regadío intensivo, ni trasvases ni compraventa de derechos de riego"
+ },
+ {
+  "eje": "eje-agua",
+  "id": "adelante-0469",
+  "posicion": "no",
+  "cita": "Gestión pública del agua — Ciclo urbano del agua en manos públicas, sin cánones concesionales"
+ },
+ {
+  "eje": "eje-agua",
+  "id": "adelante-0504",
+  "posicion": "no",
+  "cita": "Modernizar las infraestructuras hídricas y de regadío sin aumentar la superficie regada"
+ },
+ {
+  "eje": "eje-agua",
+  "id": "teruel-0100",
+  "posicion": "no",
+  "cita": "Trasvase del Ebro, no. Rechazamos esos proyectos y rebatiremos los argumentos que intentan justificarlos."
+ },
+ {
+  "eje": "eje-agua",
+  "id": "teruel-0101",
+  "posicion": "no",
+  "cita": "Actualizar los planes de sequía, ahorro en todos los usos, mejor depuración para reutilizar caudales"
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "id": "cnv-0068",
+  "posicion": "derogar",
+  "cita": "Proposarem la derogació de la Llei 12/2023, de 24 de maig, pel dret a l’habitatge"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "podemos-0297",
+  "posicion": "reducir",
+  "cita": "Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "podemos-0299",
+  "posicion": "reducir",
+  "cita": "sin que estos fondos puedan destinarse a financiar la enseñanza privada-concertada."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "adelante-0016",
+  "posicion": "reducir",
+  "cita": "Todo el dinero público para la escuela pública — Hasta igualar la inversión por estudiante de la media europea"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "adelante-0109",
+  "posicion": "reducir",
+  "cita": "avanzaremos hacia una sola red pública, laica y gratuita, con un plan de transición para los conciertos."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "adelante-0111",
+  "posicion": "reducir",
+  "cita": "fin de la cesión de suelo público a centros privados y privados-concertados."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "adelante-0112",
+  "posicion": "reducir",
+  "cita": "Paralizar y revisar los conciertos, retirar de inmediato los de centros que discriminen o segreguen y eliminar progresivamente la privada-concertada"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "bng-0176",
+  "posicion": "reducir",
+  "cita": "sustentado nunha única rede de ensino, a pública"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "bng-0179",
+  "posicion": "reducir",
+  "cita": "No camiño da supresión dos concertos en todos os niveis educativos, eliminación destes no ensino non-obrigatorio"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "cnv-0156",
+  "posicion": "apoyar",
+  "cita": "Aquesta diversitat de models configuren el Servei d’Educació de Catalunya, garantint una oferta educativa plural i de qualitat. És fonamental que reforcem aquest model"
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "cnv-0160",
+  "posicion": "apoyar",
+  "cita": "Defensarem un sistema educatiu plural que integri escoles públiques, concertades i privades, amb un suport decidit a l’escola d’iniciativa social i un finançament just."
+ },
+ {
+  "eje": "eje-concertada",
+  "id": "cnv-0161",
+  "posicion": "apoyar",
+  "cita": "Defensarem la llibertat d’ensenyament i el dret de les famílies a escollir centre educatiu"
+ },
+ {
+  "eje": "eje-cgpj",
+  "id": "podemos-0436",
+  "posicion": "parlamento",
+  "cita": "reformaremos la Ley Orgánica del Poder Judicial para que la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta"
+ },
+ {
+  "eje": "eje-cgpj",
+  "id": "adelante-0527",
+  "posicion": "parlamento",
+  "cita": "Hasta entonces, mejorar la elección parlamentaria de los vocales para ganar pluralidad y transparencia, sin bloqueos partidistas."
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0005",
+  "posicion": "autodeterminacion",
+  "cita": "Catalunya té dret a exercir l’autodeterminació, i són els catalans i les catalanes qui han de decidir el futur polític del país"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "erc-0007",
+  "posicion": "autodeterminacion",
+  "cita": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bng-0168",
+  "posicion": "autodeterminacion",
+  "cita": "promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "bildu-0177",
+  "posicion": "autodeterminacion",
+  "cita": "El reconocimiento del derecho a decidir del pueblo vasco como mecanismo democrático y legítimo para dicha solución"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "cnv-0007",
+  "posicion": "autodeterminacion",
+  "cita": "Defensarem el dret inalienable dels catalans a decidir lliurement el seu futur"
+ },
+ {
+  "eje": "eje-territorial",
+  "id": "pnv-0244",
+  "posicion": "federal",
+  "cita": "Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional"
+ }
+]

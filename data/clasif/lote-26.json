@@ -1,0 +1,2575 @@
+[
+ {
+  "id": "adelante-0691",
+  "subtema": "animales",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Protocolo estatal de protección civil que incluya a los animales en emergencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0692",
+  "subtema": "animales",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Prohibir las granjas peleteras y reconvertir la ganadería intensiva en extensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0693",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir los cetáceos en cautividad con plan de transición y santuarios marinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0694",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Transición hasta la abolición de la tauromaquia",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0695",
+  "subtema": "animales",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Derogar la Ley 18/2013 que regula la tauromaquia como patrimonio cultural",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0696",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Fin de toda subvención y fondo europeo a la tauromaquia y escuelas taurinas",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0697",
+  "subtema": "animales",
+  "otros": [
+   "imp-iva-indirectos"
+  ],
+  "titular": "Aplicar el IVA general a los espectáculos taurinos",
+  "ejes": [
+   {
+    "eje": "eje-tauromaquia",
+    "posicion": "retirar"
+   },
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0698",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir que menores de 16 años participen o asistan a festejos taurinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0699",
+  "subtema": "animales",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Ninguna corrida en televisión pública en horario infantil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0700",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Prohibir la venta de alcohol en los festejos taurinos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0701",
+  "subtema": "animales",
+  "otros": [],
+  "titular": "Periodos de caza más cortos y penas más duras para la caza furtiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0702",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Reclamaciones al Estado en obras y medidas para cada provincia andaluza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0703",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudio y proyecto del tren Almería–Aguadulce–El Ejido–Adra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0704",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Duplicar y electrificar la línea Almería–Granada y recuperar la conexión con Linares-Baeza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0705",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Cercanías del Bajo Andarax y conexión por tren del Puerto Seco de Níjar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0706",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Carril BUS-VAO en la A-7 almeriense",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0707",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Mejorar el puerto de Almería e integrarlo en la ciudad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0708",
+  "subtema": "naturaleza",
+  "otros": [
+   "ext-politica"
+  ],
+  "titular": "Exigir a Estados Unidos retirar la tierra contaminada de Palomares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0709",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Corregir el enlace de la A-7 y la A-92 en Viator",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0710",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Estudiar una obligación de servicio público con tope de precio en el vuelo Almería–Madrid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0711",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Almería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0712",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Plan de reindustrialización de Cádiz con pedidos públicos para los astilleros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0713",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Cercanías y media distancia para la Costa Noroeste de Cádiz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0714",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Tren-tranvía de la Bahía hasta Chiclana y estudio de la línea Cádiz–Algeciras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0715",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-carreteras"
+  ],
+  "titular": "Más plazas en hora punta Cádiz–Sevilla y carril BUS-VAO en la CA-35",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0716",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Cercanías Arcos–Jerez y recuperar la línea Jerez–Almargen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0717",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Autovía A-48 Vejer–Tarifa y N-340 Algeciras–Tarifa en 2+1",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0718",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Ejecutar el nudo de Tres Caminos y la Ronda Este de Jerez",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0719",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Restaurar y proteger legalmente la laguna de la Janda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0720",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Cádiz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0721",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Moratoria a nuevas grandes industrias contaminantes en el Campo de Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0722",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Electrificación y doble vía Algeciras–Bobadilla con calendario público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0723",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Cofinanciación estatal del tranvía Algeciras–La Línea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0724",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Variante de la A-7 a su paso por Algeciras y San Roque",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0725",
+  "subtema": "trab-empleo",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Estatuto de las personas trabajadoras transfronterizas con oficina estatal en La Línea",
+  "ejes": [],
+  "nota": "SIN ENCAJE: trabajo transfronterizo / Gibraltar"
+ },
+ {
+  "id": "adelante-0726",
+  "subtema": "ext-politica",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Derechos laborales como condición de cualquier acuerdo sobre Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0727",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estación en La Línea y Cercanías Algeciras–Jimena con lanzaderas a hospitales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0728",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Recuperar el tren directo Algeciras–Barcelona",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0729",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Plan estatal de inversiones y de empleo para el Campo de Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0730",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Más medición y sanciones por la calidad del aire en la bahía de Algeciras",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0731",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para el Campo de Gibraltar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0732",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Tres líneas de Cercanías para Córdoba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0733",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Recuperar las líneas Bobadilla–Córdoba y Córdoba–Almorchón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0734",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Variantes en los tramos peligrosos de la A-4 en Córdoba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0735",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Autovía A-81 Granada–Córdoba–Fuente Obejuna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0736",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Mejora integral de la N-502 entre Espiel y Santa Eufemia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0737",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Córdoba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0738",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Tren Granada–Motril y conexión de la Costa Tropical con el corredor litoral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0739",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudio para recuperar la línea Guadix–Baza–Almanzora–Lorca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0740",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Nueva estación de Granada con integración urbana del ferrocarril",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0741",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Duplicar las plazas del Avant Málaga–Loja–Granada en hora punta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0742",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Integración urbana de la GR-43 entre Atarfe y Granada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0743",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Mejorar el puerto de Motril e integrarlo en la ciudad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0744",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Fiscalidad y servicios básicos para municipios granadinos en riesgo de despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0745",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Granada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0746",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Duplicar las plazas en hora punta de los trenes Huelva–Sevilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0747",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudio de una línea de tren de Huelva a Ayamonte y Portugal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0748",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Ferri rápido entre Huelva y Cádiz sin atravesar Doñana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0749",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "N-433 y N-435 de la Sierra de Huelva en configuración 2+1",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0750",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Mejorar el puerto de Huelva e integrarlo en la ciudad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0751",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Más servicios directos y menos tiempo en el tren Huelva–Madrid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0752",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Calendario público de ejecución de cada inversión estatal en Huelva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0753",
+  "subtema": "igu-memoria",
+  "otros": [
+   "igu-lgtbi"
+  ],
+  "titular": "Recuperar la antigua cárcel de Huelva como lugar de memoria democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0754",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Huelva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0755",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Terminar la autovía A-32 hasta Puente de Génave",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0756",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Mejorar la línea Jaén–Córdoba–Sevilla y aumentar frecuencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0757",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Mejora y electrificación de la línea Iznalloz–Linares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0758",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estudio de viabilidad del tren Granada–Alcalá la Real–Martos–Jaén",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0759",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Financiación estatal de albergues para temporeros de la aceituna",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0760",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Seguimiento público de las prospecciones de tierras raras en Sierra Morena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0761",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Jaén",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0762",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan ferroviario estatal a seis u ocho años para la Costa del Sol",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0763",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Más capacidad en Cercanías de Málaga y C-2 cada 30 minutos hasta Antequera",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0764",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Carril BUS-VAO en la A-7 malagueña",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0765",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Cercanías Gaucín–Ronda–Antequera y más frecuencias en la Serranía de Ronda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0766",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Bonificar el billete y aumentar frecuencias del Avant Antequera–Málaga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0767",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Liberar el peaje de la AP-7 a residentes andaluces y descuentos en la AP-46",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0768",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Trasladar la estación de Ronda a La Indiana y crear un pulmón verde",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0769",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Parar el desmantelamiento de la línea Bobadilla–Granada y traspasarla a la Junta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0770",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Plan de autobuses y compensaciones ante cualquier corte de la C-1",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0771",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Cofinanciación estatal del metro de Málaga hasta el Parque Tecnológico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0772",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Humanización y seguridad peatonal de la A-7 en Puerto de la Torre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0773",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Rehabilitación integral del acceso a Antequera por la A-7282",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0774",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Plan de seguridad hídrica para la Axarquía con financiación estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0775",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Depuradora para Benaoján y Montejaque y plan de depuración del Valle del Genal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0776",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Solución definitiva al abastecimiento de agua en Valle de Abdalajís y Humilladero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0777",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Que el Consejo de Ministros rechace el hotel rascacielos en el puerto de Málaga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0778",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Financiación estatal para renaturalizar el Guadalmedina como parque fluvial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0779",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Resolver el deslinde de Costas regularizando las casas de El Palo y Pedregalejo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0780",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Sin más espigones ni regeneraciones artificiales en el litoral malagueño",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0781",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Incorporar Sierra Bermeja al Parque Nacional de la Sierra de las Nieves",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0782",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Hospital público en Mijas cofinanciado por el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0783",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Financiación estatal para exhumar e identificar a las víctimas de la fosa de Ronda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0784",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Málaga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0785",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Completar la SE-40 y terminar las obras del puente del Centenario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0786",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Trenes de más capacidad en Cercanías de Sevilla y C-3 cada 30 minutos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0787",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Cercanías para la Campiña y la Sierra Sur sevillanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0788",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Tren de Cartuja al Aljarafe hasta La Puebla del Río",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0789",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Cercanías de Santa Justa al aeropuerto de Sevilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0790",
+  "subtema": "infra-transporte-publico",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Intercambiadores con el metro y conexión ferroviaria con el puerto de Sevilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0791",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Cercanías y autobuses con horarios útiles para la Sierra Norte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0792",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Plan contra las inundaciones en la Vega empezando por el arroyo Churre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "adelante-0793",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Remisión a otras propuestas del programa para Sevilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: carestía, salarios bajos y vivienda como problemas de Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Objetivos: fin de la discriminación inversora y más autogobierno para Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: cumplimiento de los compromisos con el pueblo gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0004",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: traspaso de la AP-9, financiación de la dependencia y condonación de 4.000 millones",
+  "ejes": [
+   {
+    "eje": "eje-financiacion-autonomica",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0005",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: incumplimientos del Gobierno y defensa de políticas de avance social",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   },
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   },
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0006",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Balance: defensa de la paz frente al gasto militar y compromiso antifascista",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0007",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Coherencia e independencia de criterio en defensa del pueblo gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0008",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Galicia necesita más peso político en Madrid",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0009",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "El Estado español es irreformable y se necesita una ruptura democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0010",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Financiación basada en el concierto económico y la bilateralidad con el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0011",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Revisar la Participación en los Ingresos del Estado de los concellos gallegos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0012",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Crear una Hacienda gallega con política fiscal propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0013",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Transferir a Galicia las competencias en relaciones laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0014",
+  "subtema": "inst-territorial",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Transferir a Galicia las competencias de Seguridad Social y pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0015",
+  "subtema": "inst-territorial",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Traspasar la seguridad pública y desplegar la Policía Galega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0016",
+  "subtema": "ener-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Control público gallego de la energía y tarifa eléctrica gallega",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0017",
+  "subtema": "inst-territorial",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Traspasar puertos, aeropuertos, carreteras y ferrocarriles de interés general a Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0018",
+  "subtema": "inst-territorial",
+  "otros": [
+   "naturaleza",
+   "agua"
+  ],
+  "titular": "Transferir costas y la Confederación Hidrográfica Miño-Sil a Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0019",
+  "subtema": "inst-territorial",
+  "otros": [
+   "seg-emergencias"
+  ],
+  "titular": "Transferir salvamento marítimo y los centros de Oceanografía en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0020",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Traspasar y nacionalizar la AP-9 y la AP-53",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0021",
+  "subtema": "inst-territorial",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Traspasar los fondos y competencias de fomento del cine y audiovisual gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0022",
+  "subtema": "inst-territorial",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Traspasar a Galicia archivos y fondos documentales e históricos del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0023",
+  "subtema": "inst-territorial",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Traspasar competencias deportivas y competiciones internacionales para Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0024",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia los activos de la SAREB para vivienda pública social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0025",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Traspasar todas las competencias previstas que aún retiene el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0026",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Diagnóstico: empobrecimiento con un IPC del 5,5 % en Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0027",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Diagnóstico: las familias gallegas destinan más del 31 % a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0028",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-okupacion-desahucios"
+  ],
+  "titular": "Topar por ley los alquileres y prohibir desahucios de personas vulnerables",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-okupacion",
+    "posicion": "proteger-vulnerables"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0029",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Renovación automática y carácter indefinido de los contratos de alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0030",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Facilitar la expropiación de viviendas públicas adquiridas por fondos de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0031",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Frenar el paso de vivienda habitual a alquiler de temporada y turístico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0032",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Destinar el 3 % de los Presupuestos a un parque público de alquiler",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0033",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Calificación permanente como protegidas de viviendas de entidades sin ánimo de lucro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0034",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Incrementar las reservas mínimas de suelo para vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0035",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Garantizar por ley que las viviendas con fondos públicos no se privaticen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0036",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ayudas a la rehabilitación otorgadas por concurrencia según renta y patrimonio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0037",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "vivienda-alquiler"
+  ],
+  "titular": "Condicionar las ayudas a la rehabilitación a la duración de los alquileres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0038",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Garantizar el acceso de personas vulnerables a ayudas de eficiencia energética y accesibilidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0039",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "vivienda-especulacion",
+   "vivienda-publica"
+  ],
+  "titular": "Reformular la fiscalidad de la vivienda y movilizar viviendas vacías contra la especulación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0040",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Nueva legislación laboral que restituya los derechos recortados desde 2012",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0041",
+  "subtema": "inst-territorial",
+  "otros": [
+   "trab-empleo"
+  ],
+  "titular": "Transferir a Galicia las competencias pendientes de trabajo, empleo y formación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0042",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Participación institucional real de los sindicatos más representativos no estatales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0043",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Garantizar la libertad sindical y penalizar el acoso laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0044",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Cumplir de forma efectiva la Carta Social Europea",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0045",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Derogar las reformas laborales y recuperar 45 días de indemnización por despido",
+  "ejes": [
+   {
+    "eje": "eje-reforma-laboral",
+    "posicion": "derogar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0046",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Jornada de 35 horas sin reducción salarial y horizonte de 32 horas",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0047",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Subir el SMI al 60 % del salario medio y descentralizarlo",
+  "ejes": [
+   {
+    "eje": "eje-smi",
+    "posicion": "subir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0048",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Redefinir las causas del despido objetivo con informe vinculante de la Inspección",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0049",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Que la persona trabajadora elija entre readmisión e indemnización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0050",
+  "subtema": "trab-sindicatos",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Marco gallego de relaciones laborales con prevalencia de convenios gallegos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0051",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Eliminar las ETT, la subcontratación en cadena y los falsos autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0052",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Reforzar el SEPE y garantizar la cobertura de todas las personas desempleadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0053",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Plan de acción contra la siniestralidad laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0054",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Derogar el IPREM y recuperar el SMI como único indicador de renta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0055",
+  "subtema": "trab-salarios",
+  "otros": [],
+  "titular": "Prohibir las dobles escalas salariales y las categorías de entrada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0056",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-contratos-despido"
+  ],
+  "titular": "Auditorías retributivas y planes de igualdad obligatorios con más Inspección de Trabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0057",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Limitar los periodos de prueba a 15 días con causa motivada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0058",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Limitar el contrato fijo-discontinuo con 45 días por fin de llamamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0059",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Jornada parcial mínima de 20 horas y máximo del 15 % de la plantilla",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0060",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Retribuir al 100 % del convenio los contratos formativos de menos de un año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0061",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Subrogación obligatoria en la sucesión empresarial y la contratación pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0062",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Eliminar las modificaciones sustanciales de salario y limitar los descuelgues",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0063",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Restringir los ERTE y evitar su carácter permanente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0064",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Registro digital y trazable de la jornada laboral",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0065",
+  "subtema": "trab-jornada",
+  "otros": [],
+  "titular": "Control reforzado y límites al teletrabajo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0066",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Elevar la prestación por desempleo al 75 % y nunca por debajo del SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0067",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Suprimir la tasa de reposición e internalizar los servicios públicos privatizados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0068",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Diagnóstico: las pensiones gallegas, las segundas más bajas del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0069",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Derogar las reformas de pensiones de 2011, 2013, 2021 y 2023",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0070",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir las pensiones mínimas al menos hasta el SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0071",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revalorización anual de las pensiones según el IPC real",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0072",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0073",
+  "subtema": "ext-exterior-ciudadania",
+  "otros": [],
+  "titular": "Evitar la discriminación fiscal de las personas emigradas retornadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0074",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Jubilación voluntaria sin penalización con 35 años cotizados",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0075",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar las penalizaciones por jubilación anticipada",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0076",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Financiar las pensiones con presupuestos y eliminar el tope de cotización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0077",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Eliminar el Mecanismo de Equidad Intergeneracional y las competencias de la AIReF sobre pensiones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0078",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Derogar las normas que fomentan los planes de pensiones privados de empleo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0079",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Calcular la base reguladora con 10 años elegidos por la persona beneficiaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0080",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Coeficientes reductores de la edad de jubilación en profesiones penosas",
+  "ejes": [
+   {
+    "eje": "eje-jubilacion",
+    "posicion": "adelantar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0081",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Mejorar la protección social del marisqueo y ampliar sus coeficientes reductores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0082",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Elevar ya las pensiones no contributivas al 75 % del umbral de pobreza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0083",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Subir el complemento de brecha de género diez puntos por encima del IPC",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0084",
+  "subtema": "trab-pensiones",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Cubrir las lagunas de cotización de las trayectorias laborales de las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0085",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-pensiones"
+  ],
+  "titular": "Más progresividad en la cotización de autónomos según ingresos reales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0086",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Modular las cotizaciones con criterios de solidaridad y progresividad salarial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0087",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Cotización al 100 % en reducciones de jornada y excedencias por cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0088",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Equiparar a los fijos-discontinuos con el tiempo completo en cotización y prestaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0089",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Cotización plena del alumnado en prácticas sin bonificaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0090",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Prohibir la gestión de contingencias por las mutuas y hacerla íntegramente pública",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0091",
+  "subtema": "trab-pensiones",
+  "otros": [],
+  "titular": "Revisar los criterios de las incapacidades permanentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0092",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Diagnóstico: el 22,1 % de la población gallega en riesgo de pobreza o exclusión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0093",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir el IMV a Galicia para una renta de inclusión no inferior al SMI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0094",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Programa específico de lucha contra la pobreza y la exclusión social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0095",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Elevar la inversión en protección social al menos a la media de la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0096",
+  "subtema": "eco-consumo-precios",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Regular por ley los precios de los alimentos básicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0097",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Cuentas bancarias de pago básicas y gratuitas para personas vulnerables",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0098",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Precio máximo legal para la gasolina y el diésel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0099",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Galicia, país emigrante y receptor: una nación inclusiva frente al racismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0100",
+  "subtema": "trab-contratos-despido",
+  "otros": [],
+  "titular": "Reforzar la inspección laboral y combatir la explotación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0101",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Promover la regularización administrativa contra la explotación",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0102",
+  "subtema": "trab-sindicatos",
+  "otros": [],
+  "titular": "Apoyar la afiliación sindical y la organización colectiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0103",
+  "subtema": "inm-integracion",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Agilizar la homologación de títulos extranjeros, también para retornados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0104",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Reconocer y dignificar el trabajo de cuidados de mujeres inmigrantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0105",
+  "subtema": "inm-integracion",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Admitir el conocimiento del gallego como criterio para la nacionalidad española",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0106",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-regularizacion"
+  ],
+  "titular": "Reformas legales para garantizar los derechos de la población inmigrante",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   },
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0107",
+  "subtema": "inm-asilo",
+  "otros": [],
+  "titular": "Cumplir el derecho internacional de protección a inmigrantes y solicitantes de asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0108",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Más recursos para las oficinas de extranjería",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0109",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Erradicar la discriminación y el racismo en las administraciones públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0110",
+  "subtema": "inm-fronteras",
+  "otros": [],
+  "titular": "Cerrar los CIE y acabar con las devoluciones en caliente",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Cerrar los CIE y acabar con las devoluciones en caliente? → sí"
+ },
+ {
+  "id": "bng-0111",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Políticas feministas frente al rearme del machismo y la violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0112",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reforma legal integral contra todas las violencias machistas, incluida la vicaria",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0113",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Ejecutar las medidas pendientes del Pacto de Estado contra la violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0114",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Más fondos del Pacto de Estado para Galicia con criterios de reparto propios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0115",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Recursos contra la violencia sexual públicos y de gestión directa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0116",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Perspectiva de género transversal en todas las políticas públicas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0117",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Modificar la Ley de paridad para permitir más mujeres correlativas en las listas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0118",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Introducir el término feminicidio en la ley y un Estatuto de Víctima de Feminicidio",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0119",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Mejorar el sistema de protección de las mujeres en situación de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0120",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Gestión pública y directa de los dispositivos telemáticos de protección a víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0121",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Informes forenses de riesgo, revisión de VioGén y más geolocalización del agresor",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0122",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Fondos estatales para reforzar los servicios del Imelga",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0123",
+  "subtema": "igu-violencia",
+  "otros": [
+   "fam-infancia"
+  ],
+  "titular": "Reconocer la violencia vicaria y evitar visitas de maltratadores a menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0124",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Formación obligatoria en violencia machista para policías, Justicia y demás agentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0125",
+  "subtema": "igu-violencia",
+  "otros": [
+   "seg-justicia"
+  ],
+  "titular": "Más plazas judiciales en violencia sobre la mujer y reorganizar su comarcalización",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0126",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Cambios legales contra la violencia machista digital, incluida la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0127",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Oposición a legalizar los vientres de alquiler e impedirlos a través de terceros países",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Legalizar la gestación subrogada? → no, impedirla"
+ },
+ {
+  "id": "bng-0128",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Desbloquear la ley contra la trata y proteger a las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0129",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Abolición de la prostitución persiguiendo al proxeneta y al prostituidor",
+  "ejes": [
+   {
+    "eje": "eje-prostitucion",
+    "posicion": "abolir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0130",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Red de cobertura para las mujeres que quieran dejar la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0131",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Persecución efectiva de la prostitución forzada con coordinación entre organismos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0132",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Red pública de centros de media estancia para mujeres que dejen la prostitución",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0133",
+  "subtema": "igu-violencia",
+  "otros": [
+   "vivienda-publica"
+  ],
+  "titular": "Víctimas de violencia machista como colectivo prioritario en el acceso a la vivienda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0134",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Apoyo a las denunciantes de violencia machista perseguidas judicialmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0135",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Reconocer legalmente las familias monoparentales y una ley específica",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0136",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "edu-infantil",
+   "igu-mujeres"
+  ],
+  "titular": "Compensar las reducciones de jornada por cuidados y financiar las escuelas infantiles gallegas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0137",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "inst-medios"
+  ],
+  "titular": "Código ético contra el sexismo en medios como requisito para fondos públicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0138",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Catálogo de enfermedades profesionales de las mujeres del marisqueo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0139",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Financiar medidas de igualdad en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0140",
+  "subtema": "trab-contratos-despido",
+  "otros": [
+   "fam-dependencia"
+  ],
+  "titular": "Vigilar los convenios de las trabajadoras de cuidados y del hogar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0141",
+  "subtema": "san-farmacia",
+  "otros": [
+   "igu-mujeres"
+  ],
+  "titular": "Programas de investigación sobre la salud de la mujer",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0142",
+  "subtema": "san-farmacia",
+  "otros": [],
+  "titular": "Garantizar el abastecimiento de medicación esencial para las mujeres, como en la menopausia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0143",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Consolidar y ampliar los avances legislativos en derechos LGBT",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0144",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "fam-mayores"
+  ],
+  "titular": "Formación contra la LGBTfobia para profesionales de residencias de mayores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0145",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "igu-racismo"
+  ],
+  "titular": "Lucha contra los delitos de odio con estadísticas correctas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0146",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Medidas positivas para la inclusión laboral y social de las personas trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0147",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Apoyo a las personas LGBT+ migrantes, refugiadas o solicitantes de asilo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0148",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Suprimir ayudas y sancionar a organizaciones que nieguen los derechos LGBT",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0149",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Servicio de igualdad de género y diversidad sexual en todos los centros de enseñanza",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0150",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "edu-escuela"
+  ],
+  "titular": "Contenidos LGBT en la enseñanza obligatoria y universitaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0151",
+  "subtema": "igu-lgtbi",
+  "otros": [
+   "san-sexual-reproductiva"
+  ],
+  "titular": "Formación sanitaria sobre la salud sexual y reproductiva de las personas LGBTI",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0152",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reconocer legalmente la identidad de las personas trans migrantes en su documentación",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0153",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Autodeterminación de género para las personas trans menores de 12 años",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0154",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Reconocimiento de las personas no binarias",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0155",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Defensa de los derechos y libertades y de la voluntad democrática de los pueblos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0156",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Derogar íntegramente la Ley Mordaza y prohibir las pelotas de goma",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0157",
+  "subtema": "seg-penal",
+  "otros": [],
+  "titular": "Derogar la prisión permanente revisable y cumplir las penas en Galicia",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Mantener la prisión permanente revisable? → derogarla"
+ },
+ {
+  "id": "bng-0158",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Derogar los desórdenes públicos agravados y los delitos contra la libertad de expresión",
+  "ejes": [
+   {
+    "eje": "eje-sedicion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0159",
+  "subtema": "igu-libertades",
+  "otros": [
+   "deporte"
+  ],
+  "titular": "Reducir las sanciones de la Ley contra la Violencia en el Deporte",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0160",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia Instituciones Penitenciarias con una legislación más garantista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0161",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Derogar la Ley de Amnistía de 1977 y reconocer la imprescriptibilidad del genocidio",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Derogar la Ley de Amnistía de 1977 para juzgar los crímenes del franquismo? → sí"
+ },
+ {
+  "id": "bng-0162",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Reconocer el Pazo de Meirás como lugar de memoria y cederlo a Galicia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0163",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Revisar el acuerdo de San Simón y San Antón como lugar de memoria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0164",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Modificar la Ley de Memoria para romper con la impunidad del franquismo",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0165",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Retirar la simbología y prohibir los actos de exaltación franquista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0166",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Derogar la Ley de Secretos Oficiales y la Ley de Seguridad Nacional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0167",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Más pluralidad informativa en los medios públicos, sobre todo en elecciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0168",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Referendos vinculantes, incluido el derecho de autodeterminación",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Reconocer el derecho de autodeterminación? → sí"
+ },
+ {
+  "id": "bng-0169",
+  "subtema": "igu-laicidad",
+  "otros": [],
+  "titular": "Denunciar el Concordato y los Acuerdos con la Santa Sede",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0170",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "ext-exterior-ciudadania"
+  ],
+  "titular": "Reforma electoral: método Hare, Galicia como circunscripción y sin umbral del 5 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0171",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Servicios públicos universales frente al centralismo en el reparto de recursos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0172",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Educación pública, universal y gratuita de 0 a 18 años",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0173",
+  "subtema": "edu-modelo",
+  "otros": [],
+  "titular": "Diagnóstico: un sistema educativo centralista que impide uno propiamente gallego",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0174",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Superar los artículos 3 y 27 de la Constitución en materia educativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0175",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Leyes gallegas de educación, FP, enseñanzas artísticas y universidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0176",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-becas"
+  ],
+  "titular": "Una única red de enseñanza pública con libros y material gratuitos",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0177",
+  "subtema": "edu-modelo",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir a Galicia todas las competencias educativas pendientes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0178",
+  "subtema": "edu-profesorado",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Competencia exclusiva gallega sobre el personal docente y sin tasa de reposición",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bng-0179",
+  "subtema": "edu-escuela",
+  "otros": [],
+  "titular": "Suprimir los conciertos educativos, empezando por los centros que segregan",
+  "ejes": [
+   {
+    "eje": "eje-concertada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bng-0180",
+  "subtema": "edu-escuela",
+  "otros": [
+   "igu-laicidad"
+  ],
+  "titular": "Enseñanza laica sin Religión en el currículo y renegociar el Concordato",
+  "ejes": [],
+  "nota": ""
+ }
+]

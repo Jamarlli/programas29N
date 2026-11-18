@@ -1,0 +1,1801 @@
+[
+ {
+  "eje": "eje-gestion-sanitaria",
+  "pregunta": "¿Gestión sanitaria pública o colaboración privada?",
+  "posiciones": [
+   {
+    "id": "publica",
+    "nombre": "Priorizar la gestión pública directa"
+   },
+   {
+    "id": "colaboracion",
+    "nombre": "Contar con la gestión o colaboración privada"
+   }
+  ],
+  "n": 101,
+  "palabras": 7943,
+  "candidatos": [
+   {
+    "id": "podemos-0030",
+    "partido": "podemos",
+    "titular": "Fondo de Responsabilidad Social bancario y dación en pago para deudores hipotecarios",
+    "marca_actual": [],
+    "texto": "23. **Recuperación del rescate bancario y creación de un Fondo de Responsabilidad Social para proteger a consumidores y deudores hipotecarios.** Crearemos un Fondo de Responsabilidad Social de provisión obligatoria por parte de las entidades financieras, dotado anualmente con el 0,15 % del volumen total de crédito bancario durante 30 años, bajo gestión pública y con personalidad jurídica propia, para compensar los daños derivados de la actividad financiera y proteger a consumidores y deudores hipotecarios. Garantizaremos que el coste conjunto de la hipoteca y los suministros básicos no supere el 30 % de los ingresos de la unidad de convivencia, mediante quitas obligatorias de las cuotas hipotecarias cuando sea necesario para afrontar las subidas de tipos de interés y mantener la viabilidad de los préstamos. Limitaremos la responsabilidad de las personas deudoras al valor del bien hipotecado y reconoceremos el derecho a la dación en pago con cancelación total de la deuda. Asimismo, estableceremos derechos de adquisición preferente para las personas deudoras cuando sus créditos hipotecarios sean cedidos a terceros, permitiéndoles cancelarlos en las mismas condiciones económicas ofrecidas por el comprador, y desarrollaremos mecanismos obligatorios de resolución extrajudicial de conflictos para prevenir abusos, reducir la litigiosidad y evitar que las familias soporten las consecuencias de las prácticas financieras abusivas."
+   },
+   {
+    "id": "podemos-0054",
+    "partido": "podemos",
+    "titular": "Bajar al 5 % el IVA de los espectáculos culturales en vivo",
+    "marca_actual": [],
+    "texto": "44. **IVA al 5% para las entradas a teatro, danza, circo, conciertos y demás espectáculos culturales en vivo.** Bajaremos el IVA del 10% al 5% y extenderemos el tipo reducido a los servicios artísticos prestados mediante cooperativas y sociedades de artistas, que hoy tributan al 21 %."
+   },
+   {
+    "id": "podemos-0060",
+    "partido": "podemos",
+    "titular": "Eliminar las desgravaciones del IRPF por planes de pensiones privados",
+    "marca_actual": [],
+    "texto": "50. **Eliminar por completo las desgravaciones al IRPF por la suscripción de planes de pensiones privados.** Eliminaremos las desgravaciones al IRPF por la suscripción de planes de pensiones incluyendo los planes de empleo de las empresas, que no dejan de ser otro esquema para la privatización de las pensiones."
+   },
+   {
+    "id": "podemos-0121",
+    "partido": "podemos",
+    "titular": "Aumentar la cooperación internacional y revertir su privatización",
+    "marca_actual": [],
+    "texto": "108. **Refuerzo de la cooperación internacional, la ayuda humanitaria y la protección de las organizaciones humanitarias.** Revertiremos el actual proceso de privatización de la ayuda de cooperación para recuperar la cooperación como una herramienta de desarrollo y de lucha contra las desigualdades en todo el mundo. Incrementaremos los compromisos en materia de cooperación internacional y ayuda humanitaria, reforzando nuestra presencia y actuación en función de las necesidades reales de las poblaciones afectadas por crisis y de los programas de desarrollo. Asimismo, impulsaremos una normativa integral que armonice la regulación existente y garantice que la ayuda internacional al desarrollo de la Unión Europea responda exclusivamente a los Objetivos de Desarrollo Sostenible, protegiendo los derechos y la seguridad de las ONG, las personas cooperantes y quienes trabajan en el ámbito humanitario, y evitando su criminalización."
+   },
+   {
+    "id": "podemos-0148",
+    "partido": "podemos",
+    "titular": "Integrar mutualidades y mutuas en el sistema público de Seguridad Social",
+    "marca_actual": [],
+    "texto": "133. **Reforzar la gestión pública de la Seguridad Social e integrar las mutualidades en el sistema público.** Integraremos en el sistema público de Seguridad Social las mutualidades de previsión social que actualmente operan como alternativa al Régimen Especial de Trabajadores Autónomos (RETA), incorporando sus recursos y patrimonio al sector público. Asimismo, garantizaremos que la Seguridad Social asuma directamente la cobertura y gestión de las contingencias profesionales, sustituyendo la actuación de las mutuas colaboradoras en accidentes de trabajo y enfermedades profesionales y transfiriendo sus recursos y patrimonio al sistema público de Seguridad Social y al Sistema Nacional de Salud."
+   },
+   {
+    "id": "podemos-0160",
+    "partido": "podemos",
+    "titular": "Diagnóstico: un sistema que pone los negocios por encima de la vida",
+    "marca_actual": [],
+    "texto": "Vivimos bajo un sistema que ha puesto los negocios por encima de la vida y los beneficios de unos pocos por encima del bienestar de la mayoría. Un modelo que ha convertido derechos fundamentales, como la sanidad, los cuidados o el acceso a los recursos naturales, en oportunidades de negocio para grandes empresas y fondos de inversión. Mientras se privatizan servicios públicos, se deterioran los ecosistemas y se explotan los recursos del planeta para aumentar los beneficios empresariales, se debilitan las estructuras colectivas que deberían protegernos. El dinero sube desde abajo hacia arriba, mientras los riesgos y las consecuencias de este modelo recaen sobre quienes menos tienen."
+   },
+   {
+    "id": "podemos-0214",
+    "partido": "podemos",
+    "titular": "Desprivatizar las residencias hasta una gestión 100 % pública y directa",
+    "marca_actual": [],
+    "texto": "196. **Desprivatización del sistema de residencias.** Se llevará a cabo un proceso de desprivatización del sistema de residencias en España con el horizonte de que su gestión sea pública y directa al 100%. Para ello, se establecerá, en primer lugar, la prohibición de que se firmen nuevos conciertos, nuevos convenios y nuevas externalizaciones con el sector privado. Asimismo, todos los contratos que vayan caducando revertirán inmediatamente en el control público. Por último, en los casos en los que una residencia privada o concertada incumpla grave y repetidamente los parámetros de la Ley de Calidad del SECC, esta será desprivatizada inmediatamente mediante el pago del justiprecio."
+   },
+   {
+    "id": "podemos-0234",
+    "partido": "podemos",
+    "titular": "Sanidad pública universal incluidas las personas migrantes en situación irregular",
+    "marca_actual": [],
+    "texto": "216. **Universalidad de la sanidad y de los servicios sociales.** Defendemos un sistema sanitario público y universal para todas las personas que viven en España, incluidas las personas migrantes en situación administrativa irregular y las solicitantes de asilo. Eliminaremos las barreras administrativas que impiden recibir atención y reforzaremos la coordinación entre los servicios sanitarios y sociales. La propuesta se desarrollará a partir de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, y de las modificaciones normativas para garantizar una cobertura efectiva, estable y homogénea en todas las comunidades autónomas. Asimismo, la derogación de la Ley de Extranjería y una modificación de la Ley 14/1986, reguladora del derecho de asilo y la protección subsidiaria, complementará el acceso inmediato a las prestaciones necesarias."
+   },
+   {
+    "id": "podemos-0257",
+    "partido": "podemos",
+    "titular": "Cuotas de edad y de género en la creación con dinero público",
+    "marca_actual": [],
+    "texto": "239. **Cuotas de edad y de género en la creación con dinero público.** Las producciones artísticas en instalaciones públicas —museos, galerías, teatros, salas de conciertos— tendrán cuotas de edad (menores de 35 años) y de género en la selección de directores y creadores."
+   },
+   {
+    "id": "podemos-0289",
+    "partido": "podemos",
+    "titular": "Ayudas públicas a las salas de conciertos que no alquilen su espacio a músicos",
+    "marca_actual": [],
+    "texto": "271. **Ayudas públicas a las salas de conciertos.** Se fomentarán así las actuaciones en directo con el objetivo de hacerlas más accesibles para toda la ciudadanía. El acceso a estas ayudas estará prohibido a aquellas salas que alquilen su espacio a los músicos."
+   },
+   {
+    "id": "podemos-0297",
+    "partido": "podemos",
+    "titular": "Desprivatizar la educación: moratoria de conciertos y reabsorción de la concertada",
+    "marca_actual": [],
+    "texto": "279. **Desprivatización de la educación pública y apuesta por la gestión pública directa como garantía de calidad, equidad y universalidad.** Avanzaremos hacia una única red educativa de gestión pública directa, poniendo fin progresivamente a la privatización de la enseñanza y a la utilización de fondos públicos para financiar negocios privados. Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas, y aprobaremos una legislación para la reabsorción progresiva y voluntaria de los centros privados-concertados en la red pública, garantizando en todo momento los puestos de trabajo y el mantenimiento o mejora de las condiciones laborales de sus profesionales. Asimismo, retiraremos los conciertos a aquellos centros que incumplan de forma reiterada los requisitos legales y los estándares mínimos de calidad, con garantías para las plantillas. Prohibiremos el cobro de cuotas obligatorias o complementarias en los centros concertados, combatiremos la segregación escolar mediante estudios periódicos sobre la composición socioeconómica y la diversidad del alumnado y estableceremos medidas correctoras cuando se detecten prácticas discriminatorias. Pondremos fin progresivamente a la externalización de los servicios de comedor y otros servicios complementarios en los centros públicos, recuperando su gestión directa conforme vayan venciendo los contratos."
+   },
+   {
+    "id": "podemos-0299",
+    "partido": "podemos",
+    "titular": "Fondo estatal para la educación pública e inversión del 7 % del PIB",
+    "marca_actual": [],
+    "texto": "281. **Reforzar la financiación y ampliar la red pública hasta garantizar una educación gratuita y universal.** Crearemos un fondo estatal para reforzar exclusivamente la educación pública de gestión directa, con un sistema de reparto territorial que tenga en cuenta la población, el coste de los servicios y las necesidades de las zonas rurales y despobladas. Las comunidades autónomas deberán complementar la financiación estatal con un euro de recursos propios por cada dos euros recibidos y mantener el esfuerzo presupuestario educativo, sin que estos fondos puedan destinarse a financiar la enseñanza privada-concertada. Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legislatura. Ampliaremos la red pública para garantizar plazas suficientes en todas las etapas educativas, a mi meconstruyendo nuevos centros y aumentando la oferta pública allí donde exista demanda, hasta cubrir la totalidad de las necesidades de escolarización en Formación Profesional. En Educación Infantil de 0 a 3 años, construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa. Para ello, paralizaremos la concesión de nuevas licencias privadas y estableceremos vías de incorporación voluntaria a la red pública para las pequeñas empresas y personas autónomas que actualmente prestan estos servicios."
+   },
+   {
+    "id": "podemos-0314",
+    "partido": "podemos",
+    "titular": "Moratoria indefinida a la creación de nuevas universidades privadas",
+    "marca_actual": [],
+    "texto": "296. **Establecer una moratoria indefinida a la creación de nuevas universidades privadas.** Estableceremos una moratoria indefinida a la creación de nuevas universidades privadas y revisaremos las licencias concedidas para retirar aquellas que no cumplan los requisitos de calidad, investigación y estabilidad laboral, eliminando la posibilidad de que puedan contratar hasta un 40% de profesores temporales. Asimismo, se prohibirá la adscripción de centros privados a las universidades públicas por tratarse de una vía encubierta de privatización."
+   },
+   {
+    "id": "podemos-0318",
+    "partido": "podemos",
+    "titular": "Derogar la Ley 15/1997 y blindar la gestión pública directa de la sanidad",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "300. **Acabar con la privatización y recuperar la sanidad para lo público.** Para ello derogaremos la Ley 15/1997, los artículos 66, 67 y 90 de la Ley General de Sanidad, y todas las leyes privatizadoras que abrieron la puerta a la gestión privada de la sanidad, y blindaremos la titularidad y la gestión pública directa como modelo obligatorio del Sistema Nacional de Salud. Prohibiremos la externalización y privatización de centros y servicios sanitarios, tanto existentes como de nueva creación, así como las concesiones de obras y servicios destinadas a la construcción o explotación integral de establecimientos sanitarios públicos. Impulsaremos la recuperación de los servicios privatizados a medida que venzan los contratos vigentes, prohibiendo expresamente su prórroga. Procederemos a la desprivatización inmediata de los servicios, hospitales o áreas sanitarias externalizados o concertados que incumplan los parámetros mínimos de la Ley de Calidad durante un periodo determinado, y realizaremos auditorías de los contratos para detectar aumentos injustificados de costes sin mejora de la calidad, que llevarán también a su desprivatización inmediata. Mientras subsistan los conciertos, reforzaremos la inspección y el control para garantizar el buen uso de los fondos públicos e impedir que las empresas privadas obtengan beneficios a costa del sistema público. El personal de nuevo ingreso de MUFACE, ISFAS y MUGEJU recibirá asistencia sanitaria directamente a través de los servicios públicos de salud, sin conciertos con entidades privadas."
+   },
+   {
+    "id": "podemos-0320",
+    "partido": "podemos",
+    "titular": "Financiar el SNS hasta 2.900 euros por habitante, solo para gestión directa",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "302. **Más financiación para garantizar el derecho a la salud.** Incrementaremos progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habitante y año, frente a los 2.247 euros actuales, para converger con los países de nuestro entorno (en torno al 8% del PIB). Para lograrlo, crearemos un fondo estatal al que podrán acudir las comunidades autónomas, que solicitarán fondos hasta una cantidad máxima asignada a cada una, repartida según la población y otros parámetros como el coste del servicio en las zonas más despobladas. Las comunidades se comprometerán a aportar un euro propio por cada dos solicitados al Estado y a no reducir sus partidas sanitarias, que deberán aumentar al menos en la cantidad cofinanciada. Los fondos a los que renuncie una comunidad se repartirán entre las demás. Este dinero, y la aportación autonómica complementaria, solo podrá destinarse a la sanidad pública de gestión directa y en ningún caso a servicios parcial o totalmente privatizados. Al menos el 30% de los fondos se destinará a la Atención Primaria y al menos el 20% al sistema público de salud mental; y del total del presupuesto sanitario, un mínimo del 25% irá a Atención Primaria. Garantizaremos además una financiación estable, suficiente y específicamente destinada a las prestaciones comunes del Sistema Nacional de Salud, para que el lugar de residencia no determine el acceso a la atención. Dotaremos a la Alta Inspección Sanitaria de los recursos necesarios para fiscalizar el uso de los fondos públicos, supervisar los conciertos, los contratos menores y las relaciones entre las administraciones sanitarias y los grandes grupos económicos, y reforzaremos la evaluación y la rendición de cuentas para que cada euro público se destine a mejorar la salud de la población."
+   },
+   {
+    "id": "podemos-0321",
+    "partido": "podemos",
+    "titular": "Ley de Calidad del SNS con ratios, cartera mínima y tiempos máximos",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "303. **Ley de Calidad del Sistema Nacional de Salud.** Aprobaremos una nueva ley general de sanidad que fije parámetros mínimos obligatorios de funcionamiento en cualquier territorio del país, tanto para la sanidad pública de gestión directa como para cualquier forma de externalización o concierto que subsista durante el periodo transitorio. La ley establecerá la base salarial de las distintas categorías profesionales, con una subida del 20% en los salarios más bajos como primer paso, las ratios mínimas de profesionales en Atención Primaria, salud mental, atención hospitalaria, urgencias y especialidades, ajustadas a las necesidades de la población y de obligado cumplimiento, la cartera mínima de servicios y los tiempos máximos de espera para cada servicio. Para garantizar su cumplimiento, reforzaremos la financiación y las competencias de la Alta Inspección Sanitaria, condicionaremos la autonomía fiscal a la garantía de estos estándares mínimos y estableceremos mecanismos de intervención y recuperación pública de los servicios externalizados que incumplan reiteradamente los requisitos de calidad. Además, planificaremos a quince años las plazas de formación sanitaria especializada, facilitaremos el retorno de profesionales emigrados mediante programas de repatriación y ayudas específicas, y estableceremos un régimen de incompatibilidades que evite los conflictos de intereses en la sanidad pública."
+   },
+   {
+    "id": "podemos-0325",
+    "partido": "podemos",
+    "titular": "Sanidad universal sin exclusiones, cartera bucodental al 100 % y copago según renta",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "307. **Derecho a la salud sin barreras: universalidad real, cartera ampliada y copagos limitados.** Recuperaremos una sanidad plenamente universal, financiada con recursos públicos y gestionada desde lo público, que garantice el derecho a la salud en condiciones de igualdad, independientemente de la situación económica, laboral o territorial. Desarrollaremos y, si hiciera falta, modificaremos el RDL 7/2018 para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema. Avanzaremos hacia un sistema sanitario común que integre a los aproximadamente dos millones de funcionarios que hoy cuentan con un modelo diferenciado. Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica, para que una familia humilde reciba la misma atención que una con más recursos puede pagar en el ámbito privado; el dentista público incluirá empastes, limpiezas, ortodoncias, endodoncias, prótesis y férulas. Reformaremos el copago farmacéutico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos. La salud es un derecho, no un negocio: nadie debe tener que elegir entre llegar a fin de mes y seguir el tratamiento que necesita."
+   },
+   {
+    "id": "podemos-0329",
+    "partido": "podemos",
+    "titular": "Participación ciudadana en las políticas sanitarias mediante Consejos de Salud",
+    "marca_actual": [],
+    "texto": "311. **Participación democrática y efectiva de la ciudadanía en la planificación, elaboración, evaluación y control de las políticas sanitarias.** Desarrollaremos los mecanismos de participación previstos en la Ley General de Sanidad e impulsaremos la constitución y el funcionamiento efectivo de los Consejos de Salud de Zona y de Área en todos los territorios, dotándolos de recursos y capacidad real de intervención. Estos órganos incorporarán a la ciudadanía, asociaciones vecinales, organizaciones sociales y profesionales sanitarios para identificar necesidades, formular propuestas y realizar el seguimiento de la actividad sanitaria. Asimismo, reforzaremos la participación comunitaria en el Consejo Interterritorial del Sistema Nacional de Salud, estableciendo mecanismos de coordinación e indicadores comunes entre comunidades autónomas. La participación no podrá reducirse a un mero trámite, sino que deberá constituir una herramienta real de deliberación, control e incidencia en las decisiones sanitarias, desde los barrios y municipios."
+   },
+   {
+    "id": "podemos-0354",
+    "partido": "podemos",
+    "titular": "Crear una red inteligente de infraestructuras de recarga",
+    "marca_actual": [],
+    "texto": "336. **Crear una red inteligente de infraestructuras de recarga.** Se establecerán zonas prioritarias de instalación, se crearán redes más eficientes y se priorizará su carácter público, todo ello dentro de un marco normativo que favorezca la gestión pública de las redes de distribución eléctrica y bajo la acción de la empresa pública de energía."
+   },
+   {
+    "id": "podemos-0361",
+    "partido": "podemos",
+    "titular": "Elevar la inversión ferroviaria de 5.000 a 20.000 millones al año",
+    "marca_actual": [],
+    "texto": "343. **Más trenes, más frecuencias y conexión para todos los territorios.** Vivas donde vivas, tienes derecho a un tren digno, frecuente y asequible. Por ello pondremos en marcha un plan estatal de inversión ferroviaria que priorice las cercanías, los servicios regionales y la media distancia, aumente las frecuencias y recupere conexiones allí donde sean necesarias. Garantizaremos que todos los municipios de más de 20.000 habitantes cuenten con una conexión ferroviaria adecuada antes de 2030, mediante servicios existentes o nuevas conexiones cuando sean necesarias. En el mismo año, se alcanzará el 100 % de kilómetros electrificados y un sistema libre de consumo directo de combustibles fósiles. El tren debe ser una herramienta para vertebrar el país, reducir desigualdades y ofrecer una alternativa real al coche. La inversión ferroviaria pasará de unos 5.000 a 20.000 millones al año, con prioridad donde sea más fácil cambiar el coche por el tren, y las infraestructuras ferroviarias estratégicas no se privatizarán."
+   },
+   {
+    "id": "podemos-0363",
+    "partido": "podemos",
+    "titular": "Renacionalizar el ferrocarril: reunir Renfe y Adif y revocar licencias de Ouigo e Iryo",
+    "marca_actual": [],
+    "texto": "345. **Renacionalizar el sistema ferroviario usando el artículo 128 de la Constitución.** Haremos un replanteamiento completo del modelo de liberalización con el horizonte de volver a un modelo con un único operador público unificado, volviendo a reunir Renfe con Adif como ha tenido que hacer Francia ante el fracaso de la división de sus empresas, y revocando las licencias de Ouigo e Iryo y nacionalizando su patrimonio y estructura para integrarlos en el operador público, para que todos los trenes de pasajeros que circulan por nuestras vías sean trenes de Renfe. Para cumplir los objetivos de aumento del número de pasajeros, de reducción de las emisiones de gases de efecto invernadero, de bajada de precios para hacer el tren más asequible, no hace falta que haya más de un operador. Todo eso lo puede hacer Renfe con una financiación pública adecuada. El horizonte de modelo debería incluir también la desprivatización e internalización de tareas tales como el mantenimiento de los sistemas de seguridad y cualquier otro servicio esencial para la infraestructura."
+   },
+   {
+    "id": "podemos-0367",
+    "partido": "podemos",
+    "titular": "Recuperar la gestión pública directa de los servicios portuarios",
+    "marca_actual": [],
+    "texto": "349. **Recuperación de la gestión pública directa de las infraestructuras y los servicios portuarios.** Impulsaremos la desprivatización de las infraestructuras y servicios portuarios estratégicos, poniendo fin a las externalizaciones y garantizando una gestión pública directa, así como unas condiciones laborales dignas y estables para sus trabajadores y trabajadoras. Defenderemos unos puertos de paz, garantizando que las infraestructuras portuarias civiles no se utilicen para facilitar ni la guerra, ni para el genocidio, ni para el rearme."
+   },
+   {
+    "id": "podemos-0369",
+    "partido": "podemos",
+    "titular": "Ley de Movilidad Sostenible hacia un transporte público de gestión directa",
+    "marca_actual": [],
+    "texto": "351. **Aprobaremos una Ley de Movilidad Sostenible.** Impulsaremos una Ley de Movilidad Sostenible para recuperar el transporte público y garantizar una movilidad segura y justa. Aprobaremos una Ley de Movilidad Sostenible que avance hacia un modelo de transporte público de gestión directa, poniendo fin a las nuevas externalizaciones y creando un fondo estatal para que las administraciones puedan recuperar progresivamente la gestión de los servicios actualmente privatizados. Frenaremos la uberización del transporte, garantizando la titularidad pública de los servicios, la transparencia y estabilidad de las tarifas y el control público de las plataformas de información y venta. Blindaremos las competencias municipales para regular el transporte y la circulación en sus ciudades, impediremos nuevas privatizaciones de las torres de control aeroportuarias y avanzaremos en la recuperación pública de las actualmente privatizadas. Asimismo, protegeremos los derechos laborales de las trabajadoras y trabajadores del sector, garantizando que puedan adoptar decisiones por razones de seguridad sin sufrir represalias y evitando que la gestión algorítmica se traduzca en precariedad laboral. Todo ello con el objetivo de avanzar hacia la neutralidad climática del transporte antes de 2040, con objetivos intermedios de reducción de emisiones para 2030 y 2035."
+   },
+   {
+    "id": "podemos-0407",
+    "partido": "podemos",
+    "titular": "Gestión pública directa de los bomberos, sin externalizaciones",
+    "marca_actual": [],
+    "texto": "389. **Bomberos y bomberas como servicio público esencial, con gestión pública directa.** Garantizaremos que los servicios de prevención y extinción de incendios sean prestados directamente por las administraciones públicas o entidades de derecho público, poniendo fin a su externalización a empresas privadas y a su gestión mediante sociedades mercantiles. Esta garantía incluirá los servicios de salvamento y extinción de incendios de los aeropuertos de interés general."
+   },
+   {
+    "id": "podemos-0441",
+    "partido": "podemos",
+    "titular": "Más financiación y plantillas para la justicia y una justicia gratuita digna",
+    "marca_actual": [],
+    "texto": "419. **Garantizar el derecho a una justicia de calidad, con suficientes recursos humanos, con financiación estable y con perspectiva de género e infancia.** Aumentaremos la financiación y las plantillas de la Administración de Justicia, mejoraremos las condiciones salariales y profesionales de todo su personal, con especial atención a la retribución digna de la abogacía del turno de oficio y reforzaremos la formación y especialización de sus profesionales especialmente, en perspectiva de género e infancia, y con los sistemas alternativos de resolución de conflictos. Garantizaremos una asistencia jurídica gratuita digna y suficientemente financiada, así como recursos adecuados para los Institutos de Medicina Legal y Ciencias Forenses, proscribiendo la privatización de los informes periciales médicos, psicológicos y sociales de las víctimas de delitos. Mejoraremos la atención y protección integral de las víctimas, especialmente las más vulnerables, con el sistema “Barnahus” para la infancia, garantizando en todo caso la posibilidad de prestar declaración desde espacios amables y seguros. Se modernizarán y mejorarán las medidas de protección de testigos y peritos, así como de denunciantes, especialmente en casos de corrupción y crimen organizado. Se regulará asimismo la obligatoriedad de coordinación interinstitucional entre los diversos recursos de protección, policial, judicial y social, para hacer realidad la protección integral de las víctimas y su derecho a la reparación."
+   },
+   {
+    "id": "adelante-0003",
+    "partido": "adelante",
+    "titular": "Vivienda como derecho exigible y alquiler nunca por encima del 20 % del salario",
+    "marca_actual": [],
+    "texto": "1. **Fin de la especulación inmobiliaria y garantía del derecho a la vivienda**\n - La vivienda como un derecho que se pueda exigir ante los tribunales.\n - Ningún alquiler por encima del 20 % del salario y contratos indefinidos.\n - Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.\n - Prohibición de la compra especulativa y de que los fondos compren vivienda.\n - Retirada de licencias de apartamentos turísticos donde los precios se han disparado.\n - Impuesto a la vivienda vacía de grandes tenedores.\n - Reforma de la VPO para evitar la especulación y que sean accesibles.\n - Creación de una constructora pública.\n - Ilegalización de las empresas de “desokupación”.\n Se desarrolla en el programa: Propuestas 157, 159, 161, 162, 167, 168, 172, 173, 181 y 185 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0004",
+    "partido": "adelante",
+    "titular": "Desprivatizar el sistema ferroviario y auditar la alta velocidad",
+    "marca_actual": [],
+    "texto": "2. **Desprivatización de todo el sistema ferroviario** — Revertir la liberalización ferroviaria; auditoría independiente de la alta velocidad tras Adamuz y Urda; más plantilla, fin de las externalizaciones y dirección técnica y profesional en Adif y Renfe.\nSe desarrolla en el programa: Propuestas 380 y 381 · Área 04 Movilidad e infraestructuras"
+   },
+   {
+    "id": "adelante-0013",
+    "partido": "adelante",
+    "titular": "Sanidad 100 % pública con suelo de gasto del 8 % del PIB",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "11. **Desprivatización de toda la sanidad** — Sanidad 100 % pública, con un suelo de gasto del 8 % del PIB fijado por ley, derogación de la Ley 15/1997 y fin de los conciertos y externalizaciones: el dinero público, para la sanidad pública.\nSe desarrolla en el programa: Propuestas 1 a 5 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0014",
+    "partido": "adelante",
+    "titular": "Impuesto a los beneficios de la sanidad privada por conciertos para investigar el cáncer",
+    "marca_actual": [],
+    "texto": "12. **Que la sanidad privada devuelva lo que gana con lo público** — Un impuesto sobre los beneficios que la sanidad privada obtiene de los conciertos, destinado íntegramente a la investigación pública contra el cáncer.\nSe desarrolla en el programa: Propuesta 242 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0021",
+    "partido": "adelante",
+    "titular": "Desprivatizar la energía, empresa pública andaluza y ley de emergencia climática",
+    "marca_actual": [],
+    "texto": "19. **Desprivatización de toda la energía para una transición ecosocial** — Toda la energía debería ser pública y tener un objetivo social. Desprivatizar la energía y crear una empresa pública andaluza de energía y una ley de emergencia climática con objetivos anuales verificables. Renovables pequeñas y repartidas por el territorio en lugar de macroplantas, redes renovadas y fin de los cortes de luz en los barrios.\nSe desarrolla en el programa: Propuestas 397, 399, 400, 401, 404 y 412 · Área 05 Bienes comunes"
+   },
+   {
+    "id": "adelante-0032",
+    "partido": "adelante",
+    "titular": "Diagnóstico: lo público iguala frente a la privatización de los servicios",
+    "marca_actual": [],
+    "texto": "Lo público es lo que nos iguala. Andalucía tiene la tasa de pobreza y exclusión más alta de todas las comunidades autónomas: en 2024, el 35,6 % de su población estaba en riesgo, casi diez puntos por encima de la media. Por eso depende más que nadie de una sanidad, una educación y unos servicios sociales fuertes. Sin embargo, el PSOE abrió la puerta al negocio privado y el PP la ha dejado de par en par: conciertos, externalizaciones y recortes de plantilla mientras crecen las listas de espera y la vivienda se convierte en un activo de inversión. Y la extrema derecha, que se llena la boca de patria, vota una y otra vez a favor de quienes hacen caja con la salud y el techo de las andaluzas y los andaluces. Frente a eso proponemos suelos de gasto por ley, gestión directa, plantillas suficientes y un parque público de vivienda que nunca se venda: sanidad, educación, vivienda y cuidados sin negocio a costa del dinero de todas y todos."
+   },
+   {
+    "id": "adelante-0033",
+    "partido": "adelante",
+    "titular": "Suelo de gasto sanitario por ley y derogación de la Ley 15/1997",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "La sanidad pública tendrá un suelo de gasto fijado por ley y dejará de financiar el negocio privado: derogaremos la Ley 15/1997, que abrió la puerta a la gestión privada. Además, Andalucía es la comunidad que menos invierte en sanidad pública por habitante de todo el Estado."
+   },
+   {
+    "id": "adelante-0034",
+    "partido": "adelante",
+    "titular": "Suelo de gasto sanitario por ley de al menos el 8 % del PIB",
+    "marca_actual": [],
+    "texto": "1. **Suelo de gasto sanitario por ley** — Al menos el 8 % del PIB, y gasto por habitante en cada comunidad nunca por debajo de la media de los países de la Unión Europea. _Porque sin un mínimo fijado por ley, la sanidad es lo primero que se recorta cuando aprieta el presupuesto._"
+   },
+   {
+    "id": "adelante-0035",
+    "partido": "adelante",
+    "titular": "Derogar la Ley 15/1997 y desprivatizar toda la sanidad",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "2. **Derogar la Ley 15/1997** — Desprivatización de toda la sanidad: fin de las nuevas formas de gestión del Sistema Nacional de Salud y vuelta a la gestión pública de todo lo privatizado, porque los recursos públicos son para el sistema público de salud. _Porque el dinero público de la sanidad debe ir a la sanidad pública, no a beneficios privados._"
+   },
+   {
+    "id": "adelante-0036",
+    "partido": "adelante",
+    "titular": "Fin de los conciertos e internalización de servicios sanitarios externalizados",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "3. **Fin de los conciertos y las externalizaciones** — Plan de internalización de limpieza, mantenimiento, gestión telefónica y transporte sanitario urgente, con subrogación del personal, porque de ellos dependen la calidad asistencial y el control de las infecciones hospitalarias. _Porque externalizar abarata a costa de la calidad, de las plantillas y del control de las infecciones._"
+   },
+   {
+    "id": "adelante-0037",
+    "partido": "adelante",
+    "titular": "Integrar MUFACE, ISFAS y MUGEJU en el Sistema Nacional de Salud",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "4. **Mutualidades del funcionariado a la sanidad pública** — Integración progresiva de MUFACE, ISFAS y MUGEJU en el Sistema Nacional de Salud; a quien entre nuevo no se le ofrecerá ninguna mutualidad. _Porque no tiene sentido que el Estado pague con dinero público una sanidad privada para su propio personal._"
+   },
+   {
+    "id": "adelante-0038",
+    "partido": "adelante",
+    "titular": "Auditoría del gasto en conciertos y externalizaciones sanitarias",
+    "marca_actual": [],
+    "texto": "5. **Auditoría de los conciertos** — Del gasto en conciertos y externalizaciones de las tres últimas legislaturas, empezando por las empresas con ánimo de lucro. _Porque para cambiar el modelo hay que saber primero cuánto dinero público ha ido a manos privadas._"
+   },
+   {
+    "id": "adelante-0040",
+    "partido": "adelante",
+    "titular": "Portal estatal de resultados en salud y criterios de gasto",
+    "marca_actual": [],
+    "texto": "7. **Transparencia** — Portal estatal con los resultados en salud por provincia y municipio y los criterios de gasto. _Porque la ciudadanía tiene derecho a saber cómo se gasta su dinero y con qué resultados._"
+   },
+   {
+    "id": "adelante-0047",
+    "partido": "adelante",
+    "titular": "Historia clínica sociosanitaria única e interoperable entre comunidades",
+    "marca_actual": [],
+    "texto": "13. **Historia clínica única** — Historia clínica sociosanitaria única e interoperable entre comunidades. _Porque el historial de una persona no puede perderse al cambiar de comunidad._"
+   },
+   {
+    "id": "adelante-0083",
+    "partido": "adelante",
+    "titular": "Aborto en la sanidad pública de todas las provincias y blindado en la Constitución",
+    "marca_actual": [],
+    "texto": "El derecho al aborto se garantizará en la sanidad pública de todas las provincias, sin conciertos ni copagos, y quedará blindado en la Constitución."
+   },
+   {
+    "id": "adelante-0084",
+    "partido": "adelante",
+    "titular": "Aborto en centros públicos de todas las provincias, sin conciertos ni copago",
+    "marca_actual": [],
+    "texto": "47. **Aborto en la sanidad pública** — En centros públicos de todas las provincias, sin conciertos ni copago, sin subvenciones a las organizaciones que acosan a las mujeres que ejercen su derecho, con acompañamiento psicosocial y formación en el currículo sanitario. _Porque hoy muchas mujeres tienen que salir de su provincia o ir a una clínica privada para abortar._"
+   },
+   {
+    "id": "adelante-0103",
+    "partido": "adelante",
+    "titular": "Exigir financiación sanitaria suficiente y competencias para Andalucía",
+    "marca_actual": [],
+    "texto": "Andalucía gasta en sanidad por habitante menos que la media; en el Congreso exigiremos financiación suficiente y las competencias que aún gestiona el Estado."
+   },
+   {
+    "id": "adelante-0104",
+    "partido": "adelante",
+    "titular": "Financiación sanitaria suficiente en el nuevo modelo de financiación autonómica",
+    "marca_actual": [],
+    "texto": "65. **Financiación sanitaria suficiente** — En el nuevo modelo de financiación autonómica, para cumplir el suelo de gasto por habitante. _Porque Andalucía no puede cumplir el suelo de gasto con la financiación que recibe hoy._"
+   },
+   {
+    "id": "adelante-0105",
+    "partido": "adelante",
+    "titular": "Traspasar la sanidad penitenciaria a Andalucía y pagarle lo que se le debe",
+    "marca_actual": [],
+    "texto": "66. **Sanidad penitenciaria a Andalucía** — Traspaso y pago de lo que se le debe por prestarla. _Porque Andalucía presta ese servicio sin recibir lo que cuesta._"
+   },
+   {
+    "id": "adelante-0106",
+    "partido": "adelante",
+    "titular": "Fondos estatales para los centros de especialidades del Plan 20.000",
+    "marca_actual": [],
+    "texto": "67. **Cofinanciación del Plan 20.000** — Fondos estatales para los centros de especialidades. _Porque los centros de especialidades descargan los hospitales y acercan la atención._"
+   },
+   {
+    "id": "adelante-0108",
+    "partido": "adelante",
+    "titular": "Apoyar la gestión pública del Hospital del Aljarafe y los centros Pascual",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "69. **Hospital del Aljarafe y centros Pascual, públicos** — Apoyo a su vuelta a la gestión pública, que corresponde a la Junta. _Porque un servicio que se paga con dinero público debe gestionarse desde lo público._"
+   },
+   {
+    "id": "adelante-0109",
+    "partido": "adelante",
+    "titular": "Suelo del 5 % del PIB y una sola red pública, laica y gratuita",
+    "marca_actual": [],
+    "texto": "La educación pública tendrá un suelo del 5 % del PIB y avanzaremos hacia una sola red pública, laica y gratuita, con un plan de transición para los conciertos."
+   },
+   {
+    "id": "adelante-0112",
+    "partido": "adelante",
+    "titular": "Paralizar los conciertos y eliminar progresivamente la privada-concertada",
+    "marca_actual": [],
+    "texto": "72. **Una sola red pública** — Paralizar y revisar los conciertos, retirar de inmediato los de centros que discriminen o segreguen y eliminar progresivamente la privada-concertada, incorporando a la pública a su profesorado y alumnado. _Porque el dinero público debe ir a una red pública que no seleccione a su alumnado._"
+   },
+   {
+    "id": "adelante-0114",
+    "partido": "adelante",
+    "titular": "Libros gratuitos, bono de transporte y comedor gratuito para rentas medias y bajas",
+    "marca_actual": [],
+    "texto": "74. **Gratuidad real** — Libros y material gratuitos desde 1.º de Infantil, extraescolares sin coste para el alumnado vulnerable, bono de transporte para Bachillerato, FP y universidad, y comedores de gestión directa, gratuitos para las familias con rentas medias y bajas (Propuesta **106**). _Porque la escuela pública no es gratuita si las familias tienen que pagar libros, transporte y comedor._"
+   },
+   {
+    "id": "adelante-0146",
+    "partido": "adelante",
+    "titular": "Plazas 0–3 universales, públicas y gratuitas, sin nuevos conciertos",
+    "marca_actual": [],
+    "texto": "103. **0–3 universal, pública y gratuita** — Plan estatal de plazas públicas con comunidades y ayuntamientos, sin nuevos conciertos, y una red pública de cuidado infantil nocturno para las familias con turnos. _Porque los primeros años son decisivos y muchas familias no pueden pagar una escuela infantil._"
+   },
+   {
+    "id": "adelante-0150",
+    "partido": "adelante",
+    "titular": "Aula matinal y extraescolares públicas de acceso universal",
+    "marca_actual": [],
+    "texto": "107. **Aula matinal y extraescolares públicas** — De gestión directa y acceso universal, con monitoras a jornada completa y contrato público. _Porque conciliar no puede depender de lo que cada familia pueda pagar._"
+   },
+   {
+    "id": "adelante-0215",
+    "partido": "adelante",
+    "titular": "Todas las viviendas y suelos de la Sareb al alquiler asequible con gestión pública",
+    "marca_actual": [],
+    "texto": "168. **La Sareb, al parque público** — El 100 % de sus viviendas y suelos al alquiler asequible, con gestión pública. _Porque las viviendas de la Sareb se rescataron con dinero público y deben volver a lo público._"
+   },
+   {
+    "id": "adelante-0240",
+    "partido": "adelante",
+    "titular": "Ley estatal de cuidados con una red pública de gestión directa",
+    "marca_actual": [],
+    "texto": "192. **Ley estatal de cuidados** — Derecho universal a cuidar y ser cuidado, con una red pública de gestión directa. _Porque los cuidados los siguen haciendo, gratis, sobre todo las mujeres._"
+   },
+   {
+    "id": "adelante-0245",
+    "partido": "adelante",
+    "titular": "Desplazamientos pagados y enfermedades profesionales reconocidas en los cuidados",
+    "marca_actual": [],
+    "texto": "197. **Trabajadoras de los cuidados dignas** — Desplazamientos pagados, enfermedades profesionales reconocidas y ningún concierto con empresas que incumplan el convenio. _Porque cuidar es un trabajo duro y mal pagado._"
+   },
+   {
+    "id": "adelante-0265",
+    "partido": "adelante",
+    "titular": "Revalorización con el IPC real y pensiones públicas blindadas en la Constitución",
+    "marca_actual": [],
+    "texto": "216. **Revalorización con el IPC real** — Garantizada por ley, con el sistema público de pensiones blindado en la Constitución y prohibición de privatizarlo. _Porque las pensiones no pueden perder poder de compra cada año._"
+   },
+   {
+    "id": "adelante-0292",
+    "partido": "adelante",
+    "titular": "Impuesto a los beneficios de la sanidad privada con conciertos",
+    "marca_actual": [],
+    "texto": "242. **Impuesto de retorno sanitario** — Gravamen a los beneficios de la sanidad privada obtenidos con conciertos, destinado a la investigación pública contra el cáncer. _Porque quien hace negocio con la sanidad pública debe devolver parte del beneficio._"
+   },
+   {
+    "id": "adelante-0434",
+    "partido": "adelante",
+    "titular": "Revertir la liberalización ferroviaria y acabar con las externalizaciones",
+    "marca_actual": [],
+    "texto": "381. **Desprivatización de todo el sistema ferroviario** — Revertir la liberalización ferroviaria y acabar con las externalizaciones; plan de mantenimiento de la red con inversión garantizada, más plantilla y dirección técnica y profesional en Adif y Renfe. _Porque la liberalización y las externalizaciones han dejado el tren sin mantenimiento ni personal suficientes._"
+   },
+   {
+    "id": "adelante-0453",
+    "partido": "adelante",
+    "titular": "Empresa pública de energía renovable y recuperación pública de redes y centrales",
+    "marca_actual": [],
+    "texto": "399. **Empresa pública de energía** — Desprivatización de toda la energía: una empresa pública renovable, con filial andaluza, que produzca, distribuya y venda electricidad a precio justo, y recuperación pública de las redes y de las grandes centrales. _Porque la energía es un bien básico y no puede estar en manos del negocio privado._"
+   },
+   {
+    "id": "adelante-0465",
+    "partido": "adelante",
+    "titular": "Limitar las plantas de biogás a escala local con consulta vinculante",
+    "marca_actual": [],
+    "texto": "411. **Biogás a escala local** — Plantas de menos de 25.000 toneladas al año, solo con residuos de la zona, a no menos de 15 km de los núcleos de población y lejos de los espacios protegidos, con consulta vinculante y prioridad a la gestión pública. _Porque una planta de biogás mal ubicada perjudica a los pueblos de alrededor._"
+   },
+   {
+    "id": "adelante-0737",
+    "partido": "adelante",
+    "titular": "Remisión a otras propuestas del programa para Córdoba",
+    "marca_actual": [],
+    "texto": "También en este programa: la Mezquita, de titularidad y gestión pública (**505**); auditoría tras Adamuz (**380**); cierre ordenado de El Cabril (**407**)."
+   },
+   {
+    "id": "adelante-0782",
+    "partido": "adelante",
+    "titular": "Hospital público en Mijas cofinanciado por el Estado",
+    "marca_actual": [],
+    "texto": "710. **Hospital público en Mijas** — Con urgencias 24 horas, hospitalización y quirófanos, cofinanciado por el Estado en un proyecto que corresponde a la Junta. _Porque Mijas ha crecido mucho y no tiene hospital._"
+   },
+   {
+    "id": "bng-0035",
+    "partido": "bng",
+    "titular": "Garantizar por ley que las viviendas con fondos públicos no se privaticen",
+    "marca_actual": [],
+    "texto": "- Garantir legalmente o carácter permanentemente público das vivendas financiadas con recursos públicos e impedir a súa privatización."
+   },
+   {
+    "id": "bng-0039",
+    "partido": "bng",
+    "titular": "Reformular la fiscalidad de la vivienda y movilizar viviendas vacías contra la especulación",
+    "marca_actual": [],
+    "texto": "- Reformular a fiscalidade sobre a vivenda para frear o seu uso especulativo con accións como:\n - Eliminar as deducións no IRPF para propietarios que aluguen por riba do prezo de referencia.\n - Aplicar recargos no Imposto de Sociedades a fondos e SOCIMIs que incumpran a función social da vivenda.\n - Estabelecer medidas fiscais proporcionadas para mobilizar vivendas baleiras, combater os usos especulativos e favorecer o alugueiro habitual a prezos accesíbeis.\n - Transferir gratuitamente os solos e vivendas da Sareb ao IGVS para a súa incorporación ao parque público de vivenda en alugueiro.\n - Evitar a degradación, o alleamento e a privatización do patrimonio público do solo e da vivenda, nomeadamente de entidades estatais como ADIF, INVIED ou Portos do Estado, procurando o seu uso como vivendas e espazos públicos e a cesión ás CCAA.\n - Actualizar o CTE para incrementar as esixencias en materia de eficiencia enerxética dos edificios e adecualo á solucións emerxentes como a construción industrializada en madeira.\n - Estabelecer un programa específico e con recursos suficientes para a mellora da eficiencia enerxética de edificios públicos.\n - Impulsar o PERTE de Industrialización da Construción priorizando a especialización por segmentos adaptada á realidade produtiva de cada territorio.\n - Permitir a creación de novos impostos ou taxas a nivel municipal destinadas a gravar as vivendas baleiras.\n - Facilitar a portabilidade das hipotecas de tipo variábel a tipo fixo e endurecer o marco legal para evitar os abusos bancarios en relación ao financiamento da compra de vivenda para uso residencial.\n - Promover o cooperativismo de propiedade e alugueiro, alargando as bonificacións fiscais e despregando liñas de financiamento sen xuros, que deberán ser vehiculados a través das CCAA.\n - Adoptar as medidas necesarias para facilitar a aplicación por parte CCAA de mecanismos como o alugueiro forzoso, a expropiación temporal ou o estabelecemento de canon á vivenda desocupada (importe de como mínimo 10 euros por metro cadrado, incrementándose un 10% anual até o triplo do importe inicial) para as vivendas baleiras desde hai 5 ou máis anos e en mans de grandes propietarios.\n - Promover as modificacións legais que faciliten a creación de empresas públicas, de ámbito autonómico, municipal ou supramunicipal para a promoción de vivenda pública e a xestión de programas de subarrendo e alugueiro social.\n - Transferir á Xunta de Galiza os edificios propiedade do Ministerio de Defensa que se atopan sen uso na actualidade para incrementar o parque público de vivenda de uso residencial."
+   },
+   {
+    "id": "bng-0067",
+    "partido": "bng",
+    "titular": "Suprimir la tasa de reposición e internalizar los servicios públicos privatizados",
+    "marca_actual": [],
+    "texto": "- Aposta polo emprego público fronte a privatización:\n - Garantir a revalorización salarial anual das empregadas e empregados do sector público.\n - Suprimir por lei a taxa de reposición; taxa de interinidade máxima do 5%; procesos selectivos executábeis en 12 meses.\n - Promover que a prestación dos servizos públicos se realice con persoal público (funcionario, laboral ou de empresa pública), restrinxindo as privatizacións e facilitando a internalización dos xa privatizados."
+   },
+   {
+    "id": "bng-0078",
+    "partido": "bng",
+    "titular": "Derogar las normas que fomentan los planes de pensiones privados de empleo",
+    "marca_actual": [],
+    "texto": "- Derrogación das normas que fomentan os plans de pensións privados de emprego nos convenios colectivos e calquera forma de privatización ou xestión financeira privada das pensións públicas."
+   },
+   {
+    "id": "bng-0115",
+    "partido": "bng",
+    "titular": "Recursos contra la violencia sexual públicos y de gestión directa",
+    "marca_actual": [],
+    "texto": "- Garantir por lei que os novos recursos impulsados ao abeiro do Pacto do Estado ou da Lei Orgánica 10/2022 de garantía integral da libertade sexual, sexan públicos e de xestión directa e reclamar en Galiza a integración dos centros de crise privatizados no sistema público e a adaptación á nosa estrutura territorial e poboacional."
+   },
+   {
+    "id": "bng-0173",
+    "partido": "bng",
+    "titular": "Diagnóstico: un sistema educativo centralista que impide uno propiamente gallego",
+    "marca_actual": [],
+    "texto": "O actual sistema educativo emana do Estado centralista que, mediante os artigos 3 e 27 da Constitución, asegura a privatización, a confesionalidade e a españolización do ensino. O Estado continúa reservando para si numerosas competencias que impiden conformar un sistema educativo propiamente galego. A reforma da LOMCE coa aplicación da LOMLOE é exemplo de que a alternancia no goberno estatal pode introducir mudanzas, mais o control do sistema educativo é un elemento consubstancial coa visión centralista e unitaria do Estado; unha visión que só o soberanismo puxo e pon en cuestión.\n\nEntre tanto o Estado mantiver as competencias básicas en educación, propomos:"
+   },
+   {
+    "id": "bng-0182",
+    "partido": "bng",
+    "titular": "Reformar la LOSU para permitir una ley gallega de universidades",
+    "marca_actual": [],
+    "texto": "- Defender unha reforma da Lei orgánica do Sistema Universitario (LOSU) que defina claramente o modelo de universidade pública e permita exercer todas as competencias no ámbito galego mediante unha lei propia que evite a privatización do SUG e que permita a plena competencia para regular os plans de estudo das ensinanzas universitarias, actualmente limitadas polo RD 43/2015."
+   },
+   {
+    "id": "bng-0184",
+    "partido": "bng",
+    "titular": "Aumentar la financiación de las universidades públicas hasta el 1,5 % del PIB",
+    "marca_actual": [],
+    "texto": "- Incrementar o financiamento das universidade públicas, tomando como referencia o 1,5% do PIB, para evitar que continúen co camiño de privatización encuberta, e favorecer a participación dos proxectos de investigación universitaria nos programas de I+D+I."
+   },
+   {
+    "id": "bng-0192",
+    "partido": "bng",
+    "titular": "Diagnóstico: deterioro y mercantilización programada de la sanidad pública",
+    "marca_actual": [],
+    "texto": "A situación da sanidade pública é un dos primeiros temas de preocupación para a poboación galega; algo máis que xustificado, xa que o seu deterioro non fai máis que aumentar. A situación non pode máis que cualificarse de alarma sanitaria, na que as persoas máis vulnerábeis son as máis afectadas.\n\nTanto o Goberno español como o galego poñen todo o empeño, non en solucionar os problemas, senón en controlar a realidade a través do relato, para materializaren o seu plan clarísimo de empuxarnos cara á sanidade privada. A situación actual non é froito da casualidade, ou dunha situación sobrevida; máis ao contrario, é o resultado dunha voadura programada, que levan materializando desde hai tempo, nun obxectivo claro de mercantilizar a sanidade, converténdoa en nicho de negocio, coa consecuente perda do dereito á universalidade sanitaria, a introdución de novos copagamentos para toda a poboación, a redución de prestacións, a redución de persoal, o incremento substancial das privatizacións, a redución orzamentaria...\n\nO BNG aspira a que Galiza asuma a plena capacidade para rexer o seu sistema sanitario, sen interferencias de ningún tipo. En todo o caso, mentres o Estado continúe reservando para si a potestade da lexislación básica e manteña un modelo de financiamento que nos prexudica e que afecta tamén o funcionamento dos servizos públicos, defenderemos:"
+   },
+   {
+    "id": "bng-0193",
+    "partido": "bng",
+    "titular": "Aumentar la financiación sanitaria hasta la media de inversión por habitante de la UE",
+    "marca_actual": [],
+    "texto": "- Aumentar o financiamento da sanidade pública, até como mínimo a media de investimento por habitante da UE, co incremento do valor dos parámetros de dispersión e envellecemento da poboación, asegurando maior racionalidade no gasto farmacéutico e garantindo a participación galega na fixación do prezo dos medicamentos."
+   },
+   {
+    "id": "bng-0194",
+    "partido": "bng",
+    "titular": "Modificar la Ley 15/97 para una sanidad de gestión exclusivamente pública",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Garantir o carácter público da sanidade e reducir as súas posibilidades de privatización, mediante unha modificación da Lei 15/97, sobre habilitación de novas formas de xestión do Sistema de Saúde, que asegure que a titularidade, o financiamento, a xestión e a provisión de servizos sanitarios se fará con entidades exclusivamente públicas."
+   },
+   {
+    "id": "bng-0195",
+    "partido": "bng",
+    "titular": "Nueva ley de universalización de la asistencia sanitaria",
+    "marca_actual": [],
+    "texto": "- Garantir o dereito á asistencia sanitaria con carácter universal, cunha nova Lei de universalización, sen aberturas interpretativas que ampararen a exclusión, orientada no fondo e na forma á cobertura sanitaria pública, con garantías, e de calidade para todas as persoas."
+   },
+   {
+    "id": "bng-0210",
+    "partido": "bng",
+    "titular": "Transferir la sanidad penitenciaria al Servizo Galego de Saúde",
+    "marca_actual": [],
+    "texto": "- Traspasar as competencias en materia de saúde penal á Xunta de Galiza para ser asumida polo Servizo Galego de Saúde, de conformidade co estabelecido na DA 6.ª da Lei de Cohesión do Sistema Nacional de Saúde 16/2003 de 28 de maio, de xeito que a atención a este colectivo se realice na rede sanitaria pública galega. Esta transferencia debe estar acompañada dos medios humanos, económicos, e materiais necesarios, atendendo á suficiencia dinámica para a prestación do correspondente servizo, así como da compensación da débeda contraída polo Ministerio de Interior co SERGAS."
+   },
+   {
+    "id": "bng-0212",
+    "partido": "bng",
+    "titular": "Diagnóstico: el Estado debe financiar el 50 % del sistema de dependencia",
+    "marca_actual": [],
+    "texto": "As competencias en materia de coidados e benestar son da Xunta de Galiza, porén, o Goberno español ten a obriga de financiar o Sistema para a Autonomía e Atención á Dependencia (SAAD).\n\nNeste senso, a reforma aprobada en 2026 das leis de dependencia e de discapacidade obriga –de maneira explícita-- a Administración Xeral do Estado a financiar o 50% do SAAD, algo que o nacionalismo galego vén reclamando historicamente.\n\nFronte ao modelo do Partido Popular que privatiza e fai negocio coa vellez, desde o Bloque Nacionalista Galego defendemos que a atención ás persoas maiores, ás persoas dependentes e ás persoas con discapacidade constitúe un piar fundamental do estado do benestar polo que os seus dereitos deben estar garantidos a través dunha rede de servizos públicos fortes.\n\nPara tal fin, desde o BNG, comprometémonos a:"
+   },
+   {
+    "id": "bng-0214",
+    "partido": "bng",
+    "titular": "Destinar los fondos del SAAD a la red pública de cuidados",
+    "marca_actual": [],
+    "texto": "- Exixir que os fondos públicos destinados ao SAAD contribúen a blindar e fortalecer a rede pública de coidados (residencias, centros de día e de noite; o Servizo de Axuda no Fogar, centros de coidados intermedios...) e non a promover a privatización."
+   },
+   {
+    "id": "erc-0253",
+    "partido": "erc",
+    "titular": "Sanidad pública, universal y de gestión pública frente a la privatización",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "La sanitat pública és un dels grans pilars de l’estat del benestar i una garantia essencial d’igualtat i justícia social. El dret a la salut no pot dependre dels diners que tingui cadascú ni del lloc on visqui. Tanmateix, la saturació dels centres sanitaris, les llistes d’espera i la manca de professionals i recursos amenacen la qualitat assistencial i l’accés universal a la sanitat. Aquest deteriorament, fruit d’anys d’infrafinançament, no pot servir d’excusa per avançar cap a la privatització ni per convertir la salut de les persones en un negoci.\n\nDefensar la sanitat pública vol dir dotar-la dels recursos necessaris perquè funcioni, garantir unes condicions laborals dignes als seus professionals i evitar que ningú hagi de recórrer a la sanitat privada per rebre una atenció adequada i a temps. Apostem per un model sanitari públic, universal, de qualitat i amb gestió pública, que reforci l’atenció primària, redueixi les llistes d’espera, incorpori plenament la salut mental i garanteixi una atenció integral, preventiva i propera a les persones. Una sanitat que no deixi ningú enrere i que prioritzi les necessitats de salut per davant dels interessos econòmics."
+   },
+   {
+    "id": "erc-0254",
+    "partido": "erc",
+    "titular": "Más financiación y capacidad de decisión de Cataluña en sanidad",
+    "marca_actual": [],
+    "texto": "Catalunya ha de disposar de prou finançament i de plena capacitat de decisió per desenvolupar el seu propi model sanitari i donar resposta a les necessitats de la ciutadania. Necessitem més recursos, més professionals i més sobirania per garantir una sanitat pública forta, accessible i de qualitat, capaç de respondre als reptes actuals i futurs i de continuar sent un dels principals instruments de cohesió social del país."
+   },
+   {
+    "id": "erc-0255",
+    "partido": "erc",
+    "titular": "Blindar la sanidad pública y frenar su privatización",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "203. Defensar i enfortir el sistema sanitari públic. Blindar una sanitat pública, universal i de qualitat, reforçant la capacitat assistencial del sistema per reduir les llistes d’espera, garantir una atenció equitativa i frenar la privatització de la sanitat."
+   },
+   {
+    "id": "erc-0256",
+    "partido": "erc",
+    "titular": "Aumentar la financiación estatal del sistema público de salud",
+    "marca_actual": [],
+    "texto": "204. Incrementar el finançament estatal del sistema públic de salut per garantir una atenció sanitària de qualitat i unes condicions laborals dignes. Augmentar de manera estructural i suficient els recursos que l’Administració General de l’Estat transfereix a les administracions sanitàries competents per afrontar la situació de saturació del sistema, reduir les llistes d’espera i garantir una atenció sanitària universal. Aquest increment ha de resultar suficient per ampliar les plantilles de professionals sanitaris, millorar-ne les condicions laborals i retributives, els sistemes de guàrdies, reforçar l’atenció primària, hospitalària i especialitzada. Cal que la distribució pressupostària referida es faci tot respectant les competència de la Generalitat de Catalunya i atengui la població real, el creixement demogràfic, les necessitats assistencials i el cost efectiu de prestar els serveis."
+   },
+   {
+    "id": "erc-0257",
+    "partido": "erc",
+    "titular": "Blindar las competencias sanitarias de la Generalitat",
+    "marca_actual": [],
+    "texto": "205. Blindar les competències de la Generalitat de Catalunya en matèria sanitària. Defensar el caràcter exclusiu de les competències de la Generalitat en matèria de salut i impedir qualsevol intent de recentralització o ingerència de l’Estat en el model sanitari català. Exigir el traspàs immediat de totes les funcions i competències encara pendents, acompanyat dels recursos econòmics, humans i materials necessaris. Garantir la plena capacitat de Catalunya per planificar, regular i gestionar el seu sistema sanitari, d’acord amb les necessitats de la ciutadania i sense imposicions de l’Estat."
+   },
+   {
+    "id": "cnv-0213",
+    "partido": "cnv",
+    "titular": "Diagnóstico: colapso sanitario y apuesta por la cooperación público-privada",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "La dignitat de la persona se sustenta, abans que res, en el seu benestar físic, mental i emocional. El sector salut ha de ser estratègic per al país, vetllant per la salut i el benestar amb els màxims estàndards de qualitat assistencial, però també generant riquesa, creant ocupació de qualitat, atraient coneixement, impulsant la innovació i dinamitzant les empreses i la indústria local i internacional vinculada.\n\nTenim un model sanitari que compta entre els millors del món. Malauradament però, el dèficit crònic de finançament i el creixement demogràfic han provocat un empitjorament del sistema en els darrers anys, fins al punt que el col·lapse és una realitat visible, especialmente als serveis d’urgències. Cal avançar cap a la millora i modernització del nostre model sanitari.\n\nApostem per un model basat en la cooperació entre el sector públic i el privat, que posi realment el pacient al centre i que disposi dels recursos humans, materials i tecnològics necessaris. Volem garantir una sanitat pròxima, resolutiva i eficient per afrontar tant les necessitats actuals com els grans reptes futurs: l’envelliment de la població, la cronicitat, la salut mental o la incorporació de la intel·ligència artificial.\n\nFinalment, entenem la prevenció com una política estratègica de país. Impulsarem una nova cultura de la responsabilitat compartida, fomentant els bons hàbits, l’activitat física i la salut comunitària."
+   },
+   {
+    "id": "cnv-0215",
+    "partido": "cnv",
+    "titular": "Pacto Nacional por la Salud: más financiación, salarios y menos ratio paciente/médico",
+    "marca_actual": [],
+    "texto": "- Impulsarem un Pacte Nacional per la Salut per augmentar el finançament del sistema sanitari català, incrementar el salari dels professionals, reduir les ràtios pacient/metge i garantir l’equitat territorial en l’accés als serveis."
+   },
+   {
+    "id": "cnv-0216",
+    "partido": "cnv",
+    "titular": "Sistema sanitario público-privado de calidad y tecnológicamente puntero",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "- Impulsarem un sistema sanitari publicoprivat de qualitat, tecnològicament punter i que col·labori estretament amb les entitats de recerca i investigació del sector."
+   },
+   {
+    "id": "cnv-0217",
+    "partido": "cnv",
+    "titular": "Apoyar la sanidad privada para descongestionar la pública",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "- Donarem suport a una sanitat privada com un mitja capaç de descongestionar la sanitat pública, evitant l’excés d’impostos."
+   },
+   {
+    "id": "cnv-0222",
+    "partido": "cnv",
+    "titular": "Traspasar los inmuebles sanitarios de la Seguridad Social a las comunidades",
+    "marca_actual": [],
+    "texto": "- Exigirem els traspassos d’immobles sanitaris propietat de la seguretat social, però gestionats per les comunitats autònomes, mitjançant l’actualització del balanç econòmic patrimonial entre l’Estat i la seguretat social."
+   },
+   {
+    "id": "cnv-0223",
+    "partido": "cnv",
+    "titular": "Compensación entre comunidades por pacientes atendidos de otros territorios",
+    "marca_actual": [],
+    "texto": "- Demanarem mecanismes de compensació entre comunitats autònomes en funció del nombre de pacients atesos provinents d’altres territoris."
+   },
+   {
+    "id": "cnv-0236",
+    "partido": "cnv",
+    "titular": "Deducción fiscal del gasto en mutuas de salud",
+    "marca_actual": [
+     "colaboracion"
+    ],
+    "texto": "- Promourem la deducció fiscal de les despeses derivades de l’ús de mútues de salut per les persones que contribueixen a descongestionar el sistema públic."
+   },
+   {
+    "id": "pnv-0204",
+    "partido": "pnv",
+    "titular": "Culminar las transferencias sanitarias pendientes a Euskadi",
+    "marca_actual": [],
+    "texto": "7. **Culminar las transferencias sanitarias pendientes a Euskadi**, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior."
+   },
+   {
+    "id": "bildu-0028",
+    "partido": "bildu",
+    "titular": "Defender el carácter público y la suficiencia de todas las pensiones",
+    "marca_actual": [],
+    "texto": "Frente a las amenazas de recortar y privatizar las pensiones, defenderemos no solo su carácter público, sino que trabajaremos para adoptar las medidas necesarias para que todas las pensiones, en todas sus modalidades, especialmente las mínimas, no contributivas y de viudedad, logren valores de suficiencia. Para ello:"
+   },
+   {
+    "id": "bildu-0029",
+    "partido": "bildu",
+    "titular": "Blindar las pensiones públicas contra recortes, privatización o más edad de jubilación",
+    "marca_actual": [],
+    "texto": "- Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo."
+   },
+   {
+    "id": "bildu-0044",
+    "partido": "bildu",
+    "titular": "Defender y adquirir competencias sanitarias para reforzar el derecho a la salud",
+    "marca_actual": [],
+    "texto": "Nuestro objetivo será en primer lugar defender las competencias que actualmente se materializan en Hego Euskal Herria, adquirir las competencias que todavía ejerce el Ministerio de Sanidad, y trabajar en colaboración con el resto de colectivos, profesionales y ciudadanía de todas comunidades Autónomas para fortalecer los derechos de la salud individual y colectiva y garantizar el cumplimiento de los mismos.\n\nNuestras líneas específicas de trabajo serán las siguientes:"
+   },
+   {
+    "id": "bildu-0058",
+    "partido": "bildu",
+    "titular": "Derogar la Ley 15/1997 de nuevas formas de gestión del Sistema Nacional de Salud",
+    "marca_actual": [
+     "publica"
+    ],
+    "texto": "- Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, aprobada por el PP que permite la privatización y externalización de los servicios sanitarios."
+   },
+   {
+    "id": "bildu-0063",
+    "partido": "bildu",
+    "titular": "Transformar el sistema público de salud con perspectiva biopsicosocial",
+    "marca_actual": [],
+    "texto": "- Avanzar en la transformación del Sistema Público de Salud hacia atender las necesidades de las personas desde la perspectiva biopsicosocial reforzando el derecho a la salud y permitiendo a la vez una mejor planificación y optimización de los recursos humanos dedicados a los cuidados sociosanitarios."
+   },
+   {
+    "id": "bildu-0064",
+    "partido": "bildu",
+    "titular": "Asumir los Centros de Vacunación Internacional y la Sanidad Exterior",
+    "marca_actual": [],
+    "texto": "- Solicitaremos la competencia de los Centros de Vacunación Internacional a través del Convenio de encomienda de gestión y asimismo iniciaremos los trámites para la gestión de la transferencia de la competencia en Sanidad Exterior."
+   },
+   {
+    "id": "bildu-0071",
+    "partido": "bildu",
+    "titular": "Limitar la privatización de los cuidados y avanzar hacia su universalidad y gratuidad",
+    "marca_actual": [],
+    "texto": "- Situar el cuidado como una cuestión central para el futuro de nuestras sociedades, limitando la privatización y el ánimo de lucro en este sector, y avanzando hacia su universalidad y gratuidad."
+   },
+   {
+    "id": "bildu-0102",
+    "partido": "bildu",
+    "titular": "Rechazar cualquier retorno a las políticas de austeridad",
+    "marca_actual": [],
+    "texto": "- Rechazar cualquier retorno a las políticas de austeridad que suponen privatizaciones y recortes en servicios públicos, derechos laborales o pensiones."
+   },
+   {
+    "id": "teruel-0045",
+    "partido": "teruel",
+    "titular": "Pacto de Estado por una sanidad pública, universal y de calidad",
+    "marca_actual": [],
+    "texto": "Trabajaremos por un Pacto de Estado por una sanidad pública, universal y de calidad, que llegue a todas las personas, también a las del medio rural. Hacer política sanitaria no política con la sanidad."
+   },
+   {
+    "id": "teruel-0050",
+    "partido": "teruel",
+    "titular": "Centros sanitarios dirigidos por profesionales formados en gestión",
+    "marca_actual": [],
+    "texto": "- **Gestión profesional.** Los centros y administraciones sanitarias serán dirigidos por profesionales con formación en gestión sanitaria, y se creará una red pública de formación."
+   },
+   {
+    "id": "teruel-0051",
+    "partido": "teruel",
+    "titular": "Historia clínica electrónica operativa en todo el Estado",
+    "marca_actual": [],
+    "texto": "- **Historia clínica electrónica** que funcione plenamente y esté operativa al 100% en todos centros sanitarios y en cualquier punto del Estado."
+   },
+   {
+    "id": "teruel-0053",
+    "partido": "teruel",
+    "titular": "Panel público de indicadores de salud",
+    "marca_actual": [],
+    "texto": "- **Panel de indicadores de salud,** público, con datos del sistema sanitario y de sus efectos en la calidad de vida (esperanza de vida, esperanza de vida en buena salud, acceso a cuidados)."
+   }
+  ]
+ },
+ {
+  "eje": "eje-defensa",
+  "pregunta": "¿Más gasto en defensa?",
+  "posiciones": [
+   {
+    "id": "aumentar",
+    "nombre": "Aumentarlo"
+   },
+   {
+    "id": "contener",
+    "nombre": "Contenerlo o priorizar la seguridad humana"
+   }
+  ],
+  "n": 39,
+  "palabras": 3575,
+  "candidatos": [
+   {
+    "id": "podemos-0004",
+    "partido": "podemos",
+    "titular": "Diagnóstico: beneficios récord de grandes empresas y aumento del gasto militar",
+    "marca_actual": [],
+    "texto": "En los nueve primeros meses de 2026, Repsol obtuvo 5.006 millones de euros de beneficio neto e Iberdrola, 5.816 millones. Mercadona obtuvo 1.729 millones de euros de beneficio neto en todo 2025, un 24,9% más que en 2024. La riqueza de los milmillonarios españoles ha aumentado un 29,5% en un año y situó su número en 44, nueve más que en 2025. Más grandes fortunas y más riqueza en sus manos.\n\nEl gasto militar mundial alcanzó en 2025 un nuevo récord de 2,887 billones de dólares, un 2,9% más en términos reales y once años consecutivos de aumentos. En España creció un 50%. Mientras se nos pide ajustar las expectativas sobre lo que podemos pagar colectivamente, el dinero para el rearme sigue aumentando. Y los fabricantes de armas baten récords. Rheinmetall cerró 2025 con un resultado operativo récord y, en los nueve primeros meses de 2026, lo incrementó otro 69%, hasta superar los 1.300 millones de euros. Para los fabricantes son contratos y oportunidades de crecimiento. Para los pueblos, la guerra significa vidas destruidas. Los fabricantes de armas cuentan los contratos. Quienes sufren la guerra cuentan los muertos y las casas que han perdido."
+   },
+   {
+    "id": "podemos-0081",
+    "partido": "podemos",
+    "titular": "Diagnóstico: economía de guerra y dependencia de Estados Unidos y la OTAN",
+    "marca_actual": [],
+    "texto": "Esta deriva está impulsando una economía de guerra en detrimento de una economía para la vida. Esto es un gigantesco mecanismo de transferencia de dinero desde abajo hacia arriba. El dinero que la gente aporta con sus impuestos termina convertido en contratos multimillonarios para empresas armamentísticas. También beneficios extraordinarios para grandes empresas aprovechando las subidas de los precios del petróleo y del gas asociadas a las crisis internacionales. Y mientras unos acumulan beneficios en sus consejos de administración, quienes terminan en las trincheras, quienes pierden sus casas y quienes ponen los muertos son las clases populares.\n\nLejos de avanzar hacia una política exterior independiente y comprometida con la paz, España ha reafirmado su compromiso con los objetivos de la OTAN y con una estrategia de rearme que profundiza nuestra dependencia militar, estratégica y económica de Estados Unidos. Una alianza cuyo secretario general, Mark Rutte, ha defendido la necesidad de incrementar su capacidad letal y su poder militar, subordinando la seguridad europea a los intereses geopolíticos estadounidenses. Esta dependencia resulta especialmente peligrosa bajo el Gobierno de Donald Trump, que ha convertido la guerra en instrumento para imponer los intereses de Estados Unidos en el mundo."
+   },
+   {
+    "id": "podemos-0082",
+    "partido": "podemos",
+    "titular": "Diagnóstico: el gasto militar español creció un 50 % en 2025",
+    "marca_actual": [],
+    "texto": "España acaba de protagonizar el mayor rearme de su historia reciente por imperativo de la OTAN. En 2025, el gasto militar español aumentó un 50% hasta alcanzar los 34.200 millones de euros. España fue el país que más incrementó su gasto militar entre las quince mayores potencias militares del mundo.\n\nMás allá de los discursos, el Gobierno de España ha seguido reforzando de facto su integración en la lógica de bloques liderada por Estados Unidos. Esta subordinación se expresa en una aplicación selectiva e hipócrita del derecho internacional. Por un lado, España ha participado de amplias sanciones contra Rusia por su invasión de Ucrania y se ha mantenido la escalada bélica, el envío de armamento y el apoyo a la estrategia militar de la OTAN en vez de impulsar una iniciativa diplomática para alcanzar una paz justa. Por otro, no se ha aplicado una respuesta diplomática frente a Israel pese a las gravísimas vulneraciones del derecho internacional cometidas contra el pueblo palestino y a las obligaciones internacionales de prevenir genocidios."
+   },
+   {
+    "id": "podemos-0083",
+    "partido": "podemos",
+    "titular": "Salir de la OTAN y cerrar las bases estadounidenses de Rota y Morón",
+    "marca_actual": [],
+    "texto": "70. **Salida de la OTAN y cierre de las bases militares estadounidenses de Rota y Morón.** Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón."
+   },
+   {
+    "id": "podemos-0085",
+    "partido": "podemos",
+    "titular": "Revertir el rearme y congelar el gasto militar durante la legislatura",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "72. **Revertir por completo el rearme.** Revertiremos en los Presupuestos Generales del Estado el mayor aumento del gasto militar de la historia de la democracia, destinando esos recursos a financiar los servicios públicos, el derecho a la vivienda y la paz. A partir de esa reducción, congelaremos el gasto militar durante toda la legislatura y sólo admitiremos incrementos destinados a mejorar los salarios, las condiciones laborales y el alojamiento de la tropa."
+   },
+   {
+    "id": "podemos-0086",
+    "partido": "podemos",
+    "titular": "Rechazar el objetivo de la OTAN del 5 % del PIB en gasto militar",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "73. **Rechazo al objetivo de la OTAN de elevar el gasto militar al 5 % del PIB en 2035.** Rechazaremos el compromiso adquirido por el Gobierno de Pedro Sánchez de elevar el gasto militar hasta el 5 % del PIB en 2035 y defenderemos una política exterior basada en la paz, la diplomacia y la cooperación internacional, priorizando la inversión en derechos sociales frente al rearme."
+   },
+   {
+    "id": "podemos-0087",
+    "partido": "podemos",
+    "titular": "Control parlamentario, transparencia y auditoría del gasto militar",
+    "marca_actual": [],
+    "texto": "74. **Control democrático, transparencia y fiscalización del gasto militar.** Garantizaremos el control parlamentario y la transparencia de todo el gasto militar. Los Presupuestos Generales del Estado incluirán un desglose detallado de todas las partidas destinadas a defensa, así como de cualquier modificación de crédito que las afecte, incluidas las financiadas con cargo al Fondo de Contingencia, que deberá contar con la aprobación previa del Congreso. La Intervención General de la Administración del Estado (IGAE) remitirá mensualmente a las Cortes Generales información sobre la ejecución de estas partidas, que se publicará también en el BOE. Asimismo, auditaremos todos los Programas Especiales de Armamento (PEA) para conocer su coste real, sus compromisos financieros y su impacto en las cuentas públicas. El Gobierno deberá informar al Congreso antes de aprobar nuevos programas y comunicar cualquier modificación, reprogramación o renegociación de los existentes. Por último, las operaciones militares en el exterior contarán desde el inicio con una dotación presupuestaria suficiente, calculada a partir del gasto real de ejercicios anteriores y de las previsiones de actividad, poniendo fin a su financiación sistemática mediante créditos extraordinarios con cargo al Fondo de Contingencia."
+   },
+   {
+    "id": "podemos-0089",
+    "partido": "podemos",
+    "titular": "Prohibir al BEI invertir en armamento y suspender el instrumento ASAP",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "76. **Reorientación de la financiación europea para poner fin al impulso público de la industria armamentística.** Promoveremos la reforma de los estatutos del Banco Europeo de Inversiones para prohibir inversiones en armamento, daños medioambientales o vulneraciones del derecho internacional. Asimismo, suspenderemos el instrumento europeo Apoyo a la Producción de Municiones (ASAP), destinado a impulsar con fondos públicos la industria militar y la producción de munición sin un control democrático suficiente, y prohibiremos que se exija a los Estados miembros aumentar su producción de munición, evitando así destinar recursos públicos a alimentar la escalada bélica."
+   },
+   {
+    "id": "podemos-0090",
+    "partido": "podemos",
+    "titular": "Política exterior feminista basada en la paz y la seguridad colectiva",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "77. **Construcción de una política exterior feminista basada en la paz, la seguridad colectiva y la resolución pacifica de los conflictos.** Reorientaremos recursos destinados al rearme y al gasto militar hacia la cooperación internacional, la reconstrucción de las zonas devastadas por las guerras y la construcción de un sistema de seguridad colectiva basado en la distensión, el diálogo, la igualdad soberana de los pueblos y el respeto a su autodeterminación, frente a las políticas intervencionistas y cualquier forma de dominación militar, económica o política. España desempeñará un papel activo en la prevención y resolución pacífica de los conflictos internacionales, impulsando los procesos de paz, la mediación democrática y la justicia transicional, así como la defensa de los derechos a la verdad, la justicia y la reparación de las víctimas. Asimismo, defenderemos que las misiones internacionales se orienten exclusivamente al mantenimiento de la paz, la protección de la población civil y la asistencia humanitaria, reforzando la participación de las mujeres en los procesos de paz y la aplicación de la agenda Mujeres, Paz y Seguridad de Naciones Unidas."
+   },
+   {
+    "id": "podemos-0367",
+    "partido": "podemos",
+    "titular": "Recuperar la gestión pública directa de los servicios portuarios",
+    "marca_actual": [],
+    "texto": "349. **Recuperación de la gestión pública directa de las infraestructuras y los servicios portuarios.** Impulsaremos la desprivatización de las infraestructuras y servicios portuarios estratégicos, poniendo fin a las externalizaciones y garantizando una gestión pública directa, así como unas condiciones laborales dignas y estables para sus trabajadores y trabajadoras. Defenderemos unos puertos de paz, garantizando que las infraestructuras portuarias civiles no se utilicen para facilitar ni la guerra, ni para el genocidio, ni para el rearme."
+   },
+   {
+    "id": "adelante-0548",
+    "partido": "adelante",
+    "titular": "Erradicar discursos antidemocráticos y de odio en fuerzas armadas y policías",
+    "marca_actual": [],
+    "texto": "493. **Fuerzas armadas y policías democráticas** — Formación y control para erradicar los discursos y las prácticas antidemocráticas y de odio en su seno. _Porque no puede haber discursos de odio en quienes llevan armas en nombre del Estado._"
+   },
+   {
+    "id": "adelante-0637",
+    "partido": "adelante",
+    "titular": "Rechazar el rearme y el 5 % de la OTAN y reducir gasto militar",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "578. **No al rearme** — Rechazo al plan europeo de rearme y al objetivo del 5 % del PIB de la OTAN, reducción progresiva del gasto militar, todo él en el presupuesto y sin créditos extraordinarios, y publicación del gasto militar real. _Porque más gasto militar no trae más seguridad, sino más guerras._"
+   },
+   {
+    "id": "adelante-0638",
+    "partido": "adelante",
+    "titular": "Referéndum sobre la permanencia de España en la OTAN",
+    "marca_actual": [],
+    "texto": "579. **Referéndum sobre la OTAN** — Proceso que termine en una consulta sobre la permanencia de España. _Porque la ciudadanía tiene derecho a decidir sobre la pertenencia a la OTAN._"
+   },
+   {
+    "id": "adelante-0639",
+    "partido": "adelante",
+    "titular": "Renegociar los convenios de Rota y Morón para cerrar las bases extranjeras",
+    "marca_actual": [],
+    "texto": "580. **Rota y Morón sin bases extranjeras** — Renegociación de los convenios con el objetivo de cerrarlas y plan de empleo alternativo para las comarcas, sin escudo antimisiles ni submarinos nucleares en Gibraltar, y España en el Tratado sobre la Prohibición de las Armas Nucleares, sin armas nucleares en su territorio, puertos ni espacio aéreo. _Porque las bases extranjeras hacen de Andalucía un objetivo militar._"
+   },
+   {
+    "id": "adelante-0641",
+    "partido": "adelante",
+    "titular": "Prohibir exportar armas a Estados que vulneran el derecho internacional",
+    "marca_actual": [],
+    "texto": "582. **Embargo de armas** — Prohibida la exportación a Estados que vulneran el derecho internacional, como Arabia Saudí y Emiratos, con control parlamentario previo de las exportaciones sensibles, actas públicas de la junta que las autoriza y un tratado vinculante contra las armas autónomas. _Porque las armas españolas no pueden alimentar guerras ni violaciones de derechos humanos._"
+   },
+   {
+    "id": "adelante-0647",
+    "partido": "adelante",
+    "titular": "Plan estatal de educación para la paz sin presencia militar en centros",
+    "marca_actual": [],
+    "texto": "588. **Educación para la paz** — Plan estatal en todas las etapas y educación para la ciudadanía global en lugar de los programas de cultura de defensa, sin presencia militar en ferias, colegios y universidades. _Porque la paz también se aprende._"
+   },
+   {
+    "id": "adelante-0648",
+    "partido": "adelante",
+    "titular": "Derechos para la tropa y ningún servicio militar, ni obligatorio ni voluntario",
+    "marca_actual": [],
+    "texto": "589. **Tropa con derechos y nunca más la mili** — Mesa con las asociaciones de tropa y marinería sobre sus condiciones laborales; ningún servicio militar, ni obligatorio ni voluntario, para la juventud, y una comisión de investigación sobre los abusos y muertes en la mili durante la democracia. _Porque la tropa merece derechos y la juventud no necesita instrucción militar._"
+   },
+   {
+    "id": "bng-0006",
+    "partido": "bng",
+    "titular": "Balance: defensa de la paz frente al gasto militar y compromiso antifascista",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "Vangarda tamén na defensa de políticas de Paz e antiimperialistas fronte á escalada bélica, ao aumento do gasto militar, ás agresións do imperialismo norteamericano, ao xenocidio perpetrado polo sionismo en Palestina ou ao sometemento da UE e do Estado español aos ditados dos EUA e da OTAN.\n\nAliás, fomos e somos unha voz firme contra as políticas de involución democrática e de recorte de dereitos sociais impulsada polo bloque reaccionario encabezado polo Partido Popular. Comprometémonos a que, se do BNG depender, o PP non chegaría ao goberno e actuamos en consecuencia. Mais tamén confrontamos con firmeza as dereitas ultras, denunciando as súas políticas e a demagoxia que as envolven, mesmo empregando a experiencia práctica de xestión de Núñez Feixoo no Goberno galego durante 13 anos. Hoxe, o compromiso antifascista do BNG mantense íntegro, coa certeza de sermos a forza determinante en Galiza para cortar o paso do bloque reaccionario."
+   },
+   {
+    "id": "bng-0008",
+    "partido": "bng",
+    "titular": "Galicia necesita más peso político en Madrid",
+    "marca_actual": [],
+    "texto": "Galiza e o pobo galego precisan avanzar en dereitos nacionais e sociais, en desenvolvemento económico, en calidade de vida e benestar. Por iso o BNG non se resigna, non nos resignamos. O noso país precisa de máis peso político en Madrid, de máis capacidade de defender os seus intereses, que son os das clases populares galegas, de máis forza para se facer valer e respectar. E iso só o garante o BNG.\n\nSomos a forza do pobo galego, a voz dos intereses de Galiza e das maiorías sociais do noso país. Tamén a voz decididamente antifascista e de defensa das liberdades e da democracia fronte ás dereitas reaccionarias. A garantía de defensa de políticas de paz fronte ao belicismo e ao imperialismo. Representamos hoxe a esperanza de que outra Galiza e outro mundo son posíbeis. Este é o noso compromiso."
+   },
+   {
+    "id": "bng-0111",
+    "partido": "bng",
+    "titular": "Políticas feministas frente al rearme del machismo y la violencia machista",
+    "marca_actual": [],
+    "texto": "Ante o rearme do machismo que experimenta o mundo e o noso contexto máis próximo, a mellor resposta é impulsar novos avances contra cada unha das discriminacións que sufrimos por causa do patriarcado e moi especialmente ante o problema máis importante da vida das mulleres: a violencia machista. Para iso, é fundamental reforzar a resposta desde o sistema público blindando e ampliando os seus servizos e avanzar na lexislación de dereitos para garantir o dereito humano e fundamental das mulleres a vivir unha vida libre de violencias no ámbito público e no privado.\n\nCoa loita e organización do movemento feminista, tamén do galego, fomos conquistando dereitos e espazos que nos foran negados. Porén, fica moito camiño por percorrer para acabar coas fendas e coas discriminacións que sufrimos as mulleres. Para iso é fundamental intervir en ámbitos que aínda dependen do Estado como o xudicial ou o laboral e, por iso, en canto Galiza non poida decidir por si propia, defenderemos políticas feministas para seguir conquistando dereitos."
+   },
+   {
+    "id": "bng-0265",
+    "partido": "bng",
+    "titular": "Rechazo al marco financiero europeo 2028-2034 que dedica el 33 % a armas",
+    "marca_actual": [],
+    "texto": "O BNG defende a economía produtiva do noso país, por iso denunciamos o recorte orzamentario previsto pola UE e o Estado español no Marco Financeiro Plurianual (MFP) 2028-2034 que prevé investir un de cada tres euros a armas, é dicir, o 33%, mentres que só o 22% a políticas sociais e o 18% a agricultura e pesca.\n\nIsto supón multiplicar por dez o orzamento actual destinado ao gasto militar a conta de recortar drasticamente os Fondos de Cohesión (-34%), da PAC (-22%) e do FEMPA (-67%)."
+   },
+   {
+    "id": "bng-0326",
+    "partido": "bng",
+    "titular": "Rechazo a los proyectos mineros estratégicos y reforma de la ley de minas",
+    "marca_actual": [],
+    "texto": "Neste contexto, a declaración de proxectos mineiros como «estratéxicos» resulta especialmente lesiva para Galiza; reduce os prazos de autorización, facilita o acceso ao financiamento e outórgalles de antemán a consideración de interese público, chegando mesmo a permitir que ese suposto interese prevaleza sobre afeccións á auga, aos hábitats e á biodiversidade.\n\nEste procedemento condiciona a avaliación ambiental antes de que se analicen todas as consecuencias, debilita a participación social e corre o risco de converter o territorio galego nunha zona de sacrificio ao servizo do rearme europeo e dos intereses das multinacionais mineiras, sen garantir control público, transformación industrial no país nin beneficios duradeiros para as comunidades afectadas.\n\nAo igual que no eido enerxético, Galiza debe ter poder de decisión total sobre un sector estratéxico, como é o da minaría e garantir que os beneficios das materias primas sirvan para pechar ciclos produtivos no país, creando emprego de calidade e riqueza local, e como non pode ser doutra maneira, preservando o medio ambiente e garantindo a participación social.\n\nPor isto propoñemos a modificación da lei básica da minaría do estado coas seguintes demandas:"
+   },
+   {
+    "id": "bng-0378",
+    "partido": "bng",
+    "titular": "Desafectar del uso militar la isla de Tambo y espacios costeros",
+    "marca_actual": [],
+    "texto": "- A desafección do uso militar de espazos costeiros, castelos e da illa de Tambo, e transferencia da súa titularidade a Galiza."
+   },
+   {
+    "id": "bng-0523",
+    "partido": "bng",
+    "titular": "Abolición permanente del servicio militar obligatorio",
+    "marca_actual": [],
+    "texto": "- Abolición permanente do servizo militar obrigatorio, rachar co modelo de suspensión do servizo estabelecido no ano 2001 e eliminar da lexislación a posibilidade da súa restitución."
+   },
+   {
+    "id": "bng-0535",
+    "partido": "bng",
+    "titular": "Rechazo a la injerencia del Estado en conflictos como peón de EE. UU.",
+    "marca_actual": [],
+    "texto": "O BNG, como forza pacifista e antiimperialista, que aposta polo respecto á soberanía nacional dos pobos e pola resolución pacífica dos conflitos, rexeita de maneira rotunda a política de inxerencias que está a manter o Estado español nos conflitos internacionais, ao se revelar simplemente como un peón dos Estados Unidos e da OTAN, cuxo obxectivo é recuperar un enfrontamento entre bloques que lle permita demorar a súa perda da hexemonía mundial nos campos político e económico.\n\nA nosa loita política tamén traballa para mudar a globalización en favor dunha relación en pé de igualdade entre nacións, ademais de para converter o noso país nun actor que a nivel internacional axude a construír un modelo alternativo ao actual capitalismo transnacional cos demais pobos. Ao defendermos a soberanía do pobo galego, reivindicamos tamén a necesidade de recuperarmos o respecto polo principio de soberanía e a non-inxerencia tamén para os demais.\n\nAvogamos, por tanto, en favor de que o Estado respecte os seus compromisos como signatario da Carta da ONU e dos pactos e acordos posteriores que recollen o dereito dos pobos á auto-determinación —comezando polas nacións que aínda facemos parte del— e se afaste das estratexias bélicas e intervencionistas. Nese sentido, condenamos todas as agresións e defendemos:"
+   },
+   {
+    "id": "bng-0536",
+    "partido": "bng",
+    "titular": "Neutralidad activa: salir de la OTAN y cancelar los acuerdos con EE. UU.",
+    "marca_actual": [],
+    "texto": "- O status internacional de neutralidade activa do Estado español, que incluirá:\n - 1. Saída da OTAN e defensa de disolución desa alianza militar imperialista.\n - 2. Retirada inmediata dos milleiros de efectivos militares españois participantes en misións OTAN e USA, e en concreto nos países fronteirizos coa Federación Rusa.\n - 3. Apoio ás iniciativas que busquen a paz no conflito ruso-ucraíno a través dunha saída diplomática e negociada a esta contenda, censando de inmediato o envío de armamento español á Ucraína, que non fai máis que alongar o conflito e o sufrimento. Reforzar o envío de material humanitario.\n - 4. Eliminación de calquera venda de armamento a estados con réximes ditatoriais e/ou que agridan militarmente outros pobos. Reforzo do control parlamentar neste ámbito.\n - 5. Cancelación dos acordos bilaterais España-USA e instar á retirada dos efectivos militares no Estado español."
+   },
+   {
+    "id": "bng-0537",
+    "partido": "bng",
+    "titular": "Rechazar el aumento del gasto militar y reducirlo progresivamente",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- Rexeitamento ao incremento do gasto militar e ao acatamento das directrices OTAN e Estados Unidos neste ámbito. Redución progresiva das cantidades millonarias dilapidadas nesta materia, que ademais implican recortes en servizos públicos esenciais como a sanidade, o ensino e os servizos sociais."
+   },
+   {
+    "id": "bng-0538",
+    "partido": "bng",
+    "titular": "Oponerse a la militarización de la UE y vetar la minería de uso militar",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "- Opoñerse, no ámbito da UE, á militarización e ao desvío orzamentario de partidas sociais destinadas a fins militares e á industria bélica. Excluír da explotación nos plans de minaría, no ámbito das actuais competencias españolas en materia de lexislación básica sobre minaría e dos plans de exploración mineira, aquelas materias primas -litio, coltán, neodimo, berilio, etc- definidas como críticas e estratéxicas para uso militar pola OTAN e a UE."
+   },
+   {
+    "id": "bng-0539",
+    "partido": "bng",
+    "titular": "Desmilitarizar Galicia y devolver espacios militares para uso civil",
+    "marca_actual": [],
+    "texto": "- Avanzar no proceso de desmilitarización de Galiza e devolución paulatina dos espazos (a comezar polos declarados de non interese militar) para uso civil e traspaso á Xunta."
+   },
+   {
+    "id": "bng-0541",
+    "partido": "bng",
+    "titular": "Abolición definitiva del servicio militar obligatorio",
+    "marca_actual": [],
+    "texto": "- Defender unha política de paz opóndose ás medidas que buscan estender na sociedade o militarismo; e consecuentemente demandamos a abolición definitiva do Servizo Militar Obrigatorio (só en \"suspensión\" desde o ano 2001) por responder ás estratexias bélicas da OTAN e UE, e sendo o exército español unha ferramenta do réxime, ao servizo do centralismo españolizador e negador da realidade plurinacional do Estado."
+   },
+   {
+    "id": "erc-0061",
+    "partido": "erc",
+    "titular": "Revertir el giro sobre el Sáhara y embargo de armas a Israel",
+    "marca_actual": [],
+    "texto": "En matèria de relacions bilaterals, Esquerra Republicana ha estat una de les veus més crítiques amb el gir del govern del PSOE respecte el Sàhara Occidental. Cal revertir-lo, denunciar les violacions de drets humans del Marroc i exigir que es compleixin les resolucions del Tribunal de Justícia de la Unió Europea. També exigim un embargament complet d’armes a Israel i la suspensió de l’acord d’associació UE-Israel com a resposta al genocidi a Gaza.\n\nPer últim, defensem un rol preponderant de la Unió Europea en el nou tauler internacional. La Unió Europea ha de tenir una veu pròpia més forta al món, compromesa amb l’ajuda a Ucraïna davant l’agressió russa, dotada amb un pressupost comú més ambiciós i autònoma de l’OTAN en matèria de defensa. Una Europa on Catalunya hi ha de tenir veu pròpia com a espai natural de relació política. Un exemple n’és el procés de presa de decisions en matèria econòmica del Semestre Europeu."
+   },
+   {
+    "id": "erc-0065",
+    "partido": "erc",
+    "titular": "Fiscalizar el gasto en defensa y los programas especiales de armamento",
+    "marca_actual": [],
+    "texto": "45. Fiscalitzar el model de Defensa espanyol i els seus programes especials d’armament. Garantir el compliment de la normativa pressupostària també al ministeri de defensa, evitar l’ocultació de despesa per motius polítics i denunciar l’adjudicació de contractes públics a empreses implicades i condemnades en casos de corrupció."
+   },
+   {
+    "id": "erc-0070",
+    "partido": "erc",
+    "titular": "Autonomía estratégica de la UE con una seguridad basada en la diplomacia",
+    "marca_actual": [],
+    "texto": "50. Fomentar l’autonomia geopolítica i estratègica de la Unió Europea apostant per una estratègia de seguretat pròpia basada en la diplomàcia i la solució negociada de conflictes, tant en els pressupostos dels estats membres com en el Marc Financer Pluriennal de la Unió Europea."
+   },
+   {
+    "id": "cnv-0317",
+    "partido": "cnv",
+    "titular": "Política común de seguridad y defensa para la autonomía estratégica de la UE",
+    "marca_actual": [],
+    "texto": "- Apostarem per una política comuna de seguretat i defensa que reforci l’autonomia estratègica de la UE, d’acord amb el dret internacional."
+   },
+   {
+    "id": "cnv-0318",
+    "partido": "cnv",
+    "titular": "Apoyar la creación de un ejército europeo",
+    "marca_actual": [],
+    "texto": "- Donarem suport a la creació d’un exèrcit europeu com a eina de defensa col·lectiva i de cooperació eficient."
+   },
+   {
+    "id": "cnv-0319",
+    "partido": "cnv",
+    "titular": "Europa más segura y fuerte con cooperación en defensa",
+    "marca_actual": [],
+    "texto": "- Treballarem per construir una Europa més segura i forta, i compromesa amb la pau, on la cooperació i l’eficiència en la defensa siguin fonamentals per a protegir els valors i l’estabilitat de la Unió Europea."
+   },
+   {
+    "id": "bildu-0202",
+    "partido": "bildu",
+    "titular": "Rechazar el envío de armas y el aumento del gasto en defensa",
+    "marca_actual": [
+     "contener"
+    ],
+    "texto": "La mejor herramienta para la resolución de los conflictos son el diálogo, la diplomacia y el acuerdo. Por ello respaldaremos los procesos de paz y diálogo frente a las intervenciones y escaladas militares. Rechazaremos, por tanto, el envío de armas y la financiación para las mismas, que no harán sino recrudecer las guerras derivadas de estos conflictos. Igualmente, rechazaremos el aumento del gasto en defensa que la OTAN está exigiendo."
+   },
+   {
+    "id": "bildu-0204",
+    "partido": "bildu",
+    "titular": "Rechazar la OTAN y la pertenencia de Euskal Herria a ella",
+    "marca_actual": [],
+    "texto": "Rechazamos la OTAN y la pertenencia de Euskal Herria a la misma, adoptando y reconociendo así la decisión adoptada por la sociedad vasca expresada con su voto en el referéndum de 1986. Por ello, apostaremos por terminar con el modelo de dependencia actual hacia esta organización y EEUU.\n\nFrente a ello, abogaremos por la construcción de un proyecto de seguridad estratégica europeo que establezca nuevos principios en base a la diplomacia, el respeto al derecho internacional, los acuerdos de y la autonomía estratégica, contraponiendo un nuevo modelo integral respetuoso con los pueblos y naciones y su derecho a la paz, frente a la visión ofensiva, injerencista y bélica de EEUU y la alianza atlántica."
+   },
+   {
+    "id": "bildu-0205",
+    "partido": "bildu",
+    "titular": "Cerrar el campo de tiro de Bardenas y las bases de Rota y Morón",
+    "marca_actual": [],
+    "texto": "Propondremos cerrar y desmantelar el campo de tiro de las Bardenas, un entorno protegido de alto valor ecológico, que es utilizado para maniobras con fuego real por el ejército español y la OTAN, lo cual ha generado numerosos accidentes y molestias constantes a la ciudadanía del entorno. Para ello, propondremos planes de reconversión y financiación suficiente que aseguren el futuro de los municipios.\n\nAsí mismo, apostaremos por impedir el uso que Estados Unidos hace de las más de 275 bases e instalaciones en Europa, incluidas Rota y Morón, que son utilizadas como centros de operaciones para las guerras que EEUU mantiene, así como la salida de los más de 100.000 soldados estadounidenses en activo en Europa."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jornada",
+  "pregunta": "¿Reducir la jornada laboral por ley?",
+  "posiciones": [
+   {
+    "id": "reducir",
+    "nombre": "Sí, reducirla sin bajar el sueldo"
+   },
+   {
+    "id": "no",
+    "nombre": "No por ley"
+   }
+  ],
+  "n": 34,
+  "palabras": 2506,
+  "candidatos": [
+   {
+    "id": "podemos-0125",
+    "partido": "podemos",
+    "titular": "Un modelo laboral para trabajar menos, cobrar más y vivir mejor",
+    "marca_actual": [],
+    "texto": "Esta situación resulta especialmente injusta en un momento de extraordinarios avances tecnológicos. La automatización, la robotización y la inteligencia artificial permiten producir más bienes y servicios con menos esfuerzo humano. Sin embargo, los beneficios de esta revolución tecnológica se están concentrando en manos de una minoría de grandes empresas y tecno oligarcas, como Elon Musk, Jeff Bezos o los grandes accionistas de las multinacionales tecnológicas.\n\nLas grandes empresas acumulan beneficios históricos y los márgenes empresariales han aumentado, pero esa prosperidad no se reparte de manera justa. Los beneficios de las grandes compañías contrastan con las dificultades de quienes viven de su salario. La inflación de los últimos años ha erosionado la capacidad adquisitiva de los salarios, y las mejoras salariales no se han traducido para muchas familias en una mayor seguridad económica.\n\nPor eso defendemos un nuevo modelo laboral que permita trabajar menos, cobrar más y vivir mejor. Una distribución justa de los beneficios empresariales y una transición tecnológica que proteja los derechos de los trabajadores. Queremos que el tiempo recuperado se convierta en tiempo para cuidar, descansar, disfrutar, aprender, participar en la sociedad y compartir la vida con quienes queremos. Porque la verdadera riqueza no es solamente el dinero que tenemos, sino también el tiempo del que disponemos.\n\nQueremos trabajar menos y vivir más. Porque vida solo hay una."
+   },
+   {
+    "id": "podemos-0128",
+    "partido": "podemos",
+    "titular": "Reducir la jornada a 30 horas semanales sin bajar los salarios",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "113. **Reducir la jornada laboral sin reducir los salarios.** Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas, con la posibilidad de reducir la semana laboral a cuatro días en función del trabajo concreto, de los tiempos de desplazamiento y de la voluntad del trabajador o trabajadora. En cualquier caso, se implementará el teletrabajo dos días a la semana en todos los puestos en los que sea posible. Reducir la jornada permitirá la creación de nuevos puestos de trabajo, avanzar hacia un reparto más justo del empleo y de los trabajos de cuidados, mejorar la conciliación y el tiempo disponible para la vida personal y familiar, y reducir los desplazamientos cotidianos y las emisiones contaminantes."
+   },
+   {
+    "id": "podemos-0134",
+    "partido": "podemos",
+    "titular": "Prohibir las horas extras sin compensación y sancionarlas penalmente",
+    "marca_actual": [],
+    "texto": "119. **Prohibir las horas extras y perseguir penalmente su realización ilegal.** Prohibiremos la realización de horas extraordinarias sin compensación en descanso, para fomentar la creación de empleo, ampliar las plantillas y avanzar hacia el pleno empleo, junto con la reducción de la jornada laboral. Además, estableceremos sanciones penales para los empresarios que incumplan esta prohibición y obliguen a realizar horas extraordinarias sin abonarlas ni compensarlas, garantizando mecanismos eficaces de inspección y protección de las personas trabajadoras."
+   },
+   {
+    "id": "podemos-0155",
+    "partido": "podemos",
+    "titular": "Garantizar la adaptación y reducción de jornada y excedencias para cuidar",
+    "marca_actual": [],
+    "texto": "140. **Garantizar los derechos de adaptación y reducción de jornada y excedencias.** Para trabajadoras y trabajadores con personas dependientes, enfermas o menores de edad a su cargo, en coherencia con la estructura de políticas de Cuidados para un Estado Corresponsable."
+   },
+   {
+    "id": "podemos-0199",
+    "partido": "podemos",
+    "titular": "Permiso de cuidados de 7 días remunerados al 100 %",
+    "marca_actual": [],
+    "texto": "181. **Permiso de cuidados de 7 días remunerados.** Crearemos un permiso de cuidados y conciliación, remunerado al 100 %, de hasta 7 días por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que requiera reposo domiciliario de familiares hasta el segundo grado de consanguinidad o afinidad, así como de personas convivientes. Cuando los cuidados sean para menores de 6 años, el permiso se ampliará hasta 12 días."
+   },
+   {
+    "id": "podemos-0201",
+    "partido": "podemos",
+    "titular": "Ampliar el permiso por fuerza mayor a 7 días retribuidos al año",
+    "marca_actual": [],
+    "texto": "183. **Permiso de fuerza mayor de 7 días.** Ampliaremos el permiso por fuerza mayor hasta 7 días retribuidos al año para atender urgencias familiares derivadas de enfermedades, accidentes u otras situaciones imprevistas que requieran la presencia inmediata de la persona trabajadora. El permiso incluirá a las personas convivientes y a los animales que convivan con ella, y su duración se multiplicará proporcionalmente en función del número de menores a cargo. Además, se añadirán dos días por cada menor a cargo con discapacidad, enfermedad crónica o necesidades terapéuticas especiales."
+   },
+   {
+    "id": "podemos-0202",
+    "partido": "podemos",
+    "titular": "Permiso retribuido para acompañar a menores de 14 años al médico",
+    "marca_actual": [],
+    "texto": "184. **Permiso retribuido para acompañar a menores de 14 años a consultas médicas.** Crearemos un permiso retribuido por el tiempo necesario para acompañar a niños y niñas menores de 14 años a visitas médicas."
+   },
+   {
+    "id": "podemos-0204",
+    "partido": "podemos",
+    "titular": "Ampliar el permiso por fallecimiento de un familiar a 10 días hábiles",
+    "marca_actual": [],
+    "texto": "186. **Ampliación del permiso por fallecimiento.** Ampliaremos el permiso retribuido por fallecimiento de un familiar hasta los 10 días hábiles, que serán 12 cuando el fallecimiento se produzca en una localidad distinta a la de residencia."
+   },
+   {
+    "id": "podemos-0207",
+    "partido": "podemos",
+    "titular": "Reconocer legalmente redes de cuidados más allá de la familia y la pareja",
+    "marca_actual": [],
+    "texto": "189. **Derecho al cuidado más allá de los modelos tradicionales.** Crearemos un marco jurídico que reconozca la diversidad de vínculos afectivos, familiares y de convivencia, permitiendo que las personas puedan constituir redes de cuidados con derechos y obligaciones reconocidos legalmente, más allá de los modelos familiares, convivenciales o no, la familia consanguínea y la pareja. Este marco incluirá a las amistades, las familias elegidas y las relaciones no monógamas, y permitirá reconocer a las personas integrantes de estas redes como referentes a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, así como para el acompañamiento y la crianza de menores."
+   },
+   {
+    "id": "podemos-0301",
+    "partido": "podemos",
+    "titular": "Reducir la jornada lectiva del profesorado y la burocracia",
+    "marca_actual": [],
+    "texto": "283. **Reducir la jornada lectiva, la burocracia y la sobrecarga de trabajo del profesorado.** Reduciremos la jornada lectiva semanal del profesorado en todas las etapas educativas, estableciendo los siguientes máximos: 22 horas en Educación Infantil y Primaria, 17 en Educación Secundaria y 22 en Bachillerato, Formación Profesional y Educación de Personas Adultas, así como 15 horas en enseñanzas artísticas y deportivas. Garantizaremos estos límites en todos los centros sostenidos con fondos públicos y aumentaremos las plantillas para que la reducción de jornada no suponga una sobrecarga para el resto del personal. Limitaremos las horas no lectivas a un máximo de un tercio de la jornada laboral anual, reduciremos la burocracia y eliminaremos las tareas administrativas y de evaluación innecesarias. Incorporaremos, como mínimo, un auxiliar administrativo a jornada completa por cada 200 alumnos o fracción y recuperaremos las figuras del profesorado especialista de talleres de Formación Profesional. Estableceremos una carga máxima de 180 alumnos y alumnas por docente. Reduciremos las horas de permanencia obligatoria en los centros, eliminaremos la séptima hora y devolveremos a los centros la capacidad de decidir democráticamente su jornada escolar con participación de toda la comunidad educativa. Garantizaremos que el profesorado disponga de tiempo suficiente para preparar las clases, coordinarse, atender individualmente al alumnado y desarrollar su trabajo educativo."
+   },
+   {
+    "id": "podemos-0309",
+    "partido": "podemos",
+    "titular": "Plan de Educación Ecosocial y adaptación climática de los centros públicos",
+    "marca_actual": [],
+    "texto": "291. **Una educación pública preparada para afrontar la emergencia climática.** Pondremos en marcha un Plan Estatal de Educación Ecosocial que incorpore la emergencia climática, la pérdida de biodiversidad, la justicia ambiental, las desigualdades sociales y la economía de los cuidados a los contenidos educativos, mediante proyectos interdisciplinares, materiales públicos y actividades prácticas de ciencia ciudadana y conservación ambiental. Garantizaremos que todo el alumnado pueda participar en iniciativas de recuperación de ecosistemas, estudio de la biodiversidad y vigilancia de la contaminación, en colaboración con universidades públicas, organismos científicos y organizaciones ambientales. Asimismo, desarrollaremos un plan de formación inicial y permanente del profesorado en emergencia climática y justicia ambiental, con recursos y tiempo dentro de la jornada laboral. Impulsaremos un plan integral de rehabilitación y adaptación climática de los centros educativos públicos que garantice temperaturas adecuadas durante todo el año, sin superar los 26 grados en verano ni bajar de los 17 grados en invierno. Mejoraremos la eficiencia energética y la climatización, crearemos patios verdes y zonas de sombra, impulsaremos huertos escolares y aulas al aire libre, retiraremos el amianto, prevendremos los riesgos derivados del gas radón y garantizaremos el mantenimiento y la accesibilidad universal de los edificios. Eliminaremos progresivamente las aulas provisionales y priorizaremos los centros con mayores necesidades."
+   },
+   {
+    "id": "podemos-0340",
+    "partido": "podemos",
+    "titular": "Prohibir el trabajo al exterior de 12 a 18 horas en olas de calor",
+    "marca_actual": [],
+    "texto": "322. **Adaptación de las condiciones laborales a las olas de calor.** Se prohibirá de forma permanente que se trabaje en la calle o en el exterior entre las 12 y las 18 horas durante una ola de calor, así como en cualquier otro momento del día en el exista un aviso naranja o rojo de altas temperaturas de la AEMET. Estas adaptaciones horarias se llevarán a cabo sin pérdida de salario. Es el caso de trabajos como el de los barrenderos/as, jardineros/as, trabajadores/as del campo o de la construcción, por ejemplo, aunque la medida afectaría a todas las personas que cumplan el requisito citado. Del mismo modo, todos los trabajadores y trabajadoras deberán tener un equipamiento y una vestimenta adecuada a una situación de altas temperaturas, siendo obligación de la empresa o la administración pública garantizar su disponibilidad."
+   },
+   {
+    "id": "adelante-0006",
+    "partido": "adelante",
+    "titular": "Jornada laboral de 32 horas sin rebaja de sueldo",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "4. **Jornada laboral de 32 horas** — Sin rebaja de sueldo.\nSe desarrolla en el programa: Propuesta 268 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0007",
+    "partido": "adelante",
+    "titular": "Prohibir el turno partido sin rebaja de salario",
+    "marca_actual": [],
+    "texto": "5. **Fin del turno partido** — Prohibición del turno partido sin rebaja de salario, para que trabajar no se coma el día entero.\nSe desarrolla en el programa: Propuestas 268 y 283 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0120",
+    "partido": "adelante",
+    "titular": "Reducir el horario lectivo docente hasta 18 horas semanales",
+    "marca_actual": [],
+    "texto": "79. **Menos horas lectivas y menos burocracia** — Hasta 18 horas semanales, para dejar tiempo a la coordinación, la tutoría, la formación y la atención a las familias. _Porque enseñar exige preparar, coordinar y atender a las familias, no solo dar clase._"
+   },
+   {
+    "id": "adelante-0255",
+    "partido": "adelante",
+    "titular": "Reducción de jornada sin pérdida salarial para cuidar a hijos con gran discapacidad",
+    "marca_actual": [],
+    "texto": "207. **Cuidar sin perder el sueldo** — Reducción de jornada sin pérdida salarial, con la cotización a cargo del Estado, para quienes cuidan a un hijo o hija con una enfermedad poco frecuente y gran discapacidad. _Porque estas familias no pueden elegir entre cuidar y trabajar._"
+   },
+   {
+    "id": "adelante-0281",
+    "partido": "adelante",
+    "titular": "Diagnóstico: paro andaluz del 14,91 % y apuesta por reforma fiscal y 32 horas",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "Andalucía cerró el tercer trimestre de 2026 con un paro del 14,91 %, el más alto de todas las comunidades y casi cinco puntos por encima de la media estatal (10,18 %). No es una fatalidad: es el resultado de un modelo que nos ha condenado a la temporalidad y a los bajos salarios, que exporta materias primas y jóvenes mientras el beneficio se va fuera. La derecha y la extrema derecha prometen bajar impuestos a los de arriba y culpan a quien vive al lado; en Adelante Andalucía señalamos a quien de verdad se lleva la riqueza. Que pague más quien más tiene, que el trabajo dé para vivir y que la riqueza que se produce en Andalucía se quede en Andalucía: una reforma fiscal progresiva, banca pública, reindustrialización verde, jornada de 32 horas y salarios que suban con los precios."
+   },
+   {
+    "id": "adelante-0319",
+    "partido": "adelante",
+    "titular": "Jornada de 32 horas sin rebaja de sueldo en dos años en grandes empresas",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "268. **Jornada de 32 horas** — Sin rebaja de sueldo, en dos años en las grandes empresas y en cuatro en las pymes, con apoyo público para reorganizarse, y prohibición del turno partido sin rebaja de salario. _Porque la productividad ha crecido y la jornada lleva décadas sin bajar._"
+   },
+   {
+    "id": "adelante-0325",
+    "partido": "adelante",
+    "titular": "Prohibir las horas extra salvo emergencia, con registro horario real",
+    "marca_actual": [],
+    "texto": "274. **Fin de las horas extra** — Prohibidas salvo emergencia o fuerza mayor, con registro horario real. _Porque cada hora extra que se hace habitual es un empleo que no se crea, y muchas ni se pagan._"
+   },
+   {
+    "id": "adelante-0339",
+    "partido": "adelante",
+    "titular": "Derecho a adaptar el turno por cuidado de menores sin perder salario",
+    "marca_actual": [],
+    "texto": "288. **Derecho a adaptar el turno** — Por cuidado de menores, sin perder salario ni categoría, y reducción de jornada hasta los 14 años del menor. _Porque conciliar no puede costar el sueldo ni el puesto._"
+   },
+   {
+    "id": "adelante-0341",
+    "partido": "adelante",
+    "titular": "Compensación pública del salario perdido en reducciones de jornada por cuidados",
+    "marca_actual": [],
+    "texto": "290. **Cuidar sin perder ingresos** — Compensación pública de parte del salario perdido en las reducciones de jornada y excedencias por cuidados, con la cotización mantenida al 100 % para que no merme la pensión. _Porque reducir la jornada para cuidar no puede empobrecer ni dejar una pensión más baja._"
+   },
+   {
+    "id": "adelante-0342",
+    "partido": "adelante",
+    "titular": "Derecho al teletrabajo en los puestos que lo permitan",
+    "marca_actual": [],
+    "texto": "291. **Derecho al teletrabajo** — En los puestos que lo permitan, con la carga de justificar la presencialidad para la empresa. _Porque el teletrabajo ahorra desplazamientos y facilita la vida cuando es posible._"
+   },
+   {
+    "id": "adelante-0581",
+    "partido": "adelante",
+    "titular": "Ludotecas obligatorias en centros de más de 50 personas y canguro público",
+    "marca_actual": [],
+    "texto": "525. **Ludotecas en el trabajo** — Obligatorias en empresas y administraciones de más de 50 personas, y canguro público para familias monoparentales con pocos recursos. _Porque conciliar es más fácil si el cuidado está cerca del trabajo._"
+   },
+   {
+    "id": "bng-0005",
+    "partido": "bng",
+    "titular": "Balance: incumplimientos del Gobierno y defensa de políticas de avance social",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "Outros compromisos que estaban en andamento ficaron no ar polo adianto electoral. Porén, algunhas outras medidas acordadas -témolo que dicir con claridade- non foron cumpridas polo goberno do PSOE-Sumar. En todo o caso, é claro que a responsabilidade polos incumprimentos é de quen non cumpre, o que nos leva directamente á reflexión de que máis forza para o BNG e maior representación tamén é necesaria para ter capacidade de obrigar os gobernos españois a cumprir con Galiza.\n\nO BNG foi nestes anos vangarda no Congreso e no Senado na defensa de políticas rupturistas, transformadoras e de avance social. Do impulso ás pensións mínimas e non contributivas por riba do IPC ao aumento dos permisos de maternidade e paternidade; da exixencia de derrogación da Lei da Mordaza ou da reforma laboral do PP de forma íntegra, á defensa da redución da xornada a 35 horas sen mingua salarial; de propostas para atallar a escalada de prezos que afogan as clases populares, ao impulso de medidas valentes e eficaces para garantir o dereito a unha vivenda digna fronte á especulación inmobiliaria..."
+   },
+   {
+    "id": "bng-0046",
+    "partido": "bng",
+    "titular": "Jornada de 35 horas sin reducción salarial y horizonte de 32 horas",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Promover a implantación da xornada laboral de 35 horas semanais sen redución salarial, e avanzar no horizonte da xornada de 32 horas semanais en 4 xornadas."
+   },
+   {
+    "id": "bng-0064",
+    "partido": "bng",
+    "titular": "Registro digital y trazable de la jornada laboral",
+    "marca_actual": [],
+    "texto": "- Estabelecer o rexistro dixital, transparente e con trazabilidade verificábel da xornada laboral e limitación da distribución irregular."
+   },
+   {
+    "id": "bng-0065",
+    "partido": "bng",
+    "titular": "Control reforzado y límites al teletrabajo",
+    "marca_actual": [],
+    "texto": "- Aplicar medidas de control reforzado para os réximes de teletraballo, cun marco claro e limitacións á súa aplicación."
+   },
+   {
+    "id": "bng-0505",
+    "partido": "bng",
+    "titular": "Garantizar los tiempos de descanso sin comunicaciones laborales fuera de la jornada",
+    "marca_actual": [],
+    "texto": "- Garantir o respecto aos tempos de descanso, evitando comunicacións e esixencias laborais fóra da xornada de traballo."
+   },
+   {
+    "id": "erc-0140",
+    "partido": "erc",
+    "titular": "Reducir la jornada máxima a 37,5 horas semanales sin reducción salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "105. Reduir la durada màxima de la jornada laboral setmanal a 37 hores i mitja sense reducció salarial. Modificar l’article 34 de l’Estatut dels Treballadors per garantir aquesta reducció legal de la jornada, respectant les jornades inferiors establertes per conveni col·lectiu. Reforçar el registre diari de jornada, garantint-ne el caràcter digital, fiable i accessible a la Inspecció de Treball, així com el dret a la desconnexió digital, per evitar els abusos en el temps de treball i garantir el descans de les persones treballadores."
+   },
+   {
+    "id": "cnv-0103",
+    "partido": "cnv",
+    "titular": "Desarrollar la regulación del teletrabajo",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem i perfeccionarem la regulació establerta pel Real Decret Llei del teletreball."
+   },
+   {
+    "id": "bildu-0017",
+    "partido": "bildu",
+    "titular": "Reducir la jornada a 32 horas o cuatro días sin reducción salarial",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Reducción de la jornada laboral hasta las 32 horas semanales o la jornada de 4 días sin reducción salarial. Con el objetivo de posibilitar la correcta adaptación de las micro, pequeñas y medianas empresas, para estas empresas se establecerá una reducción inicial hasta las 35 horas semanales, con una senda progresiva durante el plazo máximo de 3 años hasta alcanzar el objetivo. La reducción se establecerá mediante reforma de Ley del Estatuto de los Trabajadores."
+   },
+   {
+    "id": "bildu-0019",
+    "partido": "bildu",
+    "titular": "Registro horario digital obligatorio y recargo por ley de las horas extras",
+    "marca_actual": [],
+    "texto": "- Acabar con la práctica del uso abusivo de las horas extras, muchas de ellas no remuneradas o compensadas con descanso, mediante la implantación del registro horario digital obligatorio accesible a la Inspección de Trabajo, así como establecer por ley el recargo de las horas extras."
+   },
+   {
+    "id": "bildu-0161",
+    "partido": "bildu",
+    "titular": "Proteger el empleo ante la IA y reducir la jornada sin bajar el salario",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Empleo, distribución de la riqueza y justicia social. Prevenir las transformaciones laborales de la IA, garantizando los derechos de los trabajadores y las condiciones de trabajo dignas. Poner en beneficio de la IA y del conjunto de la sociedad lo generado por la automatización. Promover la reducción de jornada sin reducción de salario aprovechando los beneficios de la IA. Promover la formación y el reciclaje profesional de acuerdo con la estrategia europea de competencias digitales."
+   },
+   {
+    "id": "teruel-0154",
+    "partido": "teruel",
+    "titular": "Conciliación con teletrabajo y reparto corresponsable de los cuidados",
+    "marca_actual": [],
+    "texto": "- **Conciliación y corresponsabilidad.** Impulsaremos políticas que faciliten la conciliación de la vida laboral, personal y familiar, fomentando el teletrabajo y la flexibilidad laboral, así como el reparto corresponsable de los cuidados y las tareas domésticas entre mujeres y hombres. Garantizaremos servicios y recursos de apoyo a la conciliación, especialmente en el medio rural, para que ninguna mujer tenga que renunciar a su desarrollo profesional por asumir responsabilidades familiares."
+   }
+  ]
+ },
+ {
+  "eje": "eje-aborto",
+  "pregunta": "¿Qué hacer con el derecho al aborto?",
+  "posiciones": [
+   {
+    "id": "blindar",
+    "nombre": "Blindarlo o ampliarlo"
+   },
+   {
+    "id": "restringir",
+    "nombre": "Restringirlo o promover alternativas"
+   }
+  ],
+  "n": 32,
+  "palabras": 1772,
+  "candidatos": [
+   {
+    "id": "podemos-0164",
+    "partido": "podemos",
+    "titular": "Blindar el aborto en la Constitución y sacarlo del Código Penal",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "146. **Blindar el derecho al aborto.** La interrupción voluntaria del embarazo es un derecho de las mujeres reconocido por ley. Para blindarlo:\n - **Eliminaremos todas las referencias al aborto consentido dentro del Código Penal.**\n - Incorporar expresamente el derecho al aborto en la **Constitución dentro del Título I Capítulo II Sección 1º como parte de los derechos fundamentales**, concretamente en el Artículo 15 como ya lo reconoce la jurisprudencia del Tribunal Constitucional."
+   },
+   {
+    "id": "podemos-0182",
+    "partido": "podemos",
+    "titular": "Reconocer la violencia obstétrica en la ley de salud sexual y reproductiva",
+    "marca_actual": [],
+    "texto": "164. **Reconocer la violencia obstétrica.** Incluir esta violencia en la Ley 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo, para que las mujeres que enfrenten este tipo de violencia puedan acceder a todos los derechos que establece dicha ley."
+   },
+   {
+    "id": "podemos-0183",
+    "partido": "podemos",
+    "titular": "Ley de protección de la lactancia materna y del parto informado",
+    "marca_actual": [],
+    "texto": "165. **Ley de protección de la lactancia.** Impulsar una ley que garantice la protección de la lactancia materna y el derecho de las mujeres a decidir libremente sobre sus procesos de embarazo, parto y posparto, con información completa y consentimiento informado. La norma garantizará una atención respetuosa y basada en la evidencia científica."
+   },
+   {
+    "id": "podemos-0184",
+    "partido": "podemos",
+    "titular": "Ligadura de trompas en la sanidad pública por simple decisión de la mujer",
+    "marca_actual": [],
+    "texto": "166. **Derecho al acceso a métodos anticonceptivos irreversibles.** Derecho a métodos como la ligadura de trompas, en el sistema de salud pública y con la simple decisión de las mujeres sin importar su edad ni si tienen o no hijos. Lo único que debe primar es la decisión de las mujeres que son las únicas con capacidad para decidir sobre sus vidas y sus maternidades."
+   },
+   {
+    "id": "podemos-0185",
+    "partido": "podemos",
+    "titular": "Anticoncepción gratuita y reproducción asistida pública para todas",
+    "marca_actual": [],
+    "texto": "167. **Anticoncepción gratuita y reproducción asistida para todas.** Todos los anticonceptivos, también los de urgencia, serán gratuitos, en los centros públicos y en la farmacia, y se financiarán todos los métodos, también los que hoy se quedan fuera, como el parche, varias píldoras recientes o la píldora del día después. Desarrollaremos el programa público de investigación de anticonceptivos masculinos que mandata la Ley 1/2023 para repartir la responsabilidad en la anticoncepción. La reproducción asistida en la sanidad pública llegará a todas las mujeres, también lesbianas y bisexuales, y a las personas trans con capacidad de gestar, sin excluir a quien ya tenga un hijo y con límites de edad y de número de ciclos más amplios que los de hoy. Las personas trans podrán conservar su capacidad reproductiva en la sanidad pública."
+   },
+   {
+    "id": "podemos-0193",
+    "partido": "podemos",
+    "titular": "Garantizar los derechos de las mujeres y niñas con discapacidad",
+    "marca_actual": [],
+    "texto": "175. **Garantía de los derechos de las mujeres y niñas con discapacidad.** Cuando se habla de interseccionalidad, se habla de acumulación de discriminaciones. Algo que tiene lugar de forma muy grave en el caso de las mujeres y niñas con discapacidad. Por todo ello, es urgente tomar una serie de medidas que atiendan a su especial situación:\n - Llevar a cabo todas las modificaciones legales para **suprimir por completo prácticas contrarias a los derechos humanos de las mujeres y niñas con discapacidad, como el aborto coercitivo o la ablación**. Asimismo, una vez lograda la prohibición de la esterilización forzosa, se deberán habilitar todos los mecanismos de reparación, incluida la reparación económica, de todas las mujeres que fueron sometidas a esta práctica aberrante.\n - **Elaborar una macroencuesta sobre la violencia contra las mujeres y niñas con discapacidad.** Aunque se sabe que la discapacidad aumenta de forma notable los índices de violencia, todavía es una realidad social mayormente silenciada y de la que faltan datos científicos suficientes. Disponer de esos datos es un primer paso indispensable para poder articular una respuesta adecuada por parte de los poderes públicos.\n - **Garantizar la salud sexual y reproductiva y de las mujeres con discapacidad** habilitando recursos y programas de apoyo específicos para ellas.\n - Llevar a cabo todas las modificaciones legislativas pertinentes y destinar los fondos necesarios para **garantizar la atención temprana a los niños y niñas con discapacidad** hasta los 6 años y los apoyos para un desarrollo infantil integral hasta los 12."
+   },
+   {
+    "id": "podemos-0331",
+    "partido": "podemos",
+    "titular": "Garantizar el ejercicio efectivo del derecho a una muerte digna",
+    "marca_actual": [],
+    "texto": "313. **Garantizaremos el ejercicio efectivo del derecho a una muerte digna.** Reforzaremos los recursos humanos y materiales de las Comisiones de Garantía y Evaluación y de los equipos sanitarios para agilizar los procedimientos, estableciendo vías de tramitación prioritaria para las personas cuya situación clínica requiera una respuesta urgente y mecanismos de seguimiento que eviten retrasos injustificados. Garantizaremos equipos profesionales suficientes para que la objeción de conciencia individual nunca suponga un obstáculo para ejercer el derecho. Asimismo, estableceremos estándares comunes de atención y tiempos de tramitación, con mecanismos de supervisión y evaluación de las desigualdades territoriales."
+   },
+   {
+    "id": "adelante-0026",
+    "partido": "adelante",
+    "titular": "Pacto contra la violencia machista, permisos iguales y aborto en la Constitución",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "24. **Igualdad real y lucha contra el machismo** — Pacto de Estado contra la violencia machista con presupuesto; permisos iguales y pagados al 100 %; el aborto en la sanidad pública y en la Constitución, y ni un euro público para las organizaciones que acosan a las mujeres que abortan.\nSe desarrolla en el programa: Propuestas 47, 48, 508 y 523 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0068",
+    "partido": "adelante",
+    "titular": "Red pública de cuidados paliativos y plazos más ágiles para la eutanasia",
+    "marca_actual": [],
+    "texto": "33. **Paliativos y muerte digna** — Nuevo plan con una red pública de cuidados paliativos, también pediátricos, y hospitalización a domicilio las 24 horas, con atención especial al medio rural; cumplimiento del testamento vital y plazos más ágiles por ley para la eutanasia, sin recurso de familiares o allegados. _Porque morir sin dolor y con dignidad es un derecho que no puede depender del código postal._"
+   },
+   {
+    "id": "adelante-0083",
+    "partido": "adelante",
+    "titular": "Aborto en la sanidad pública de todas las provincias y blindado en la Constitución",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "El derecho al aborto se garantizará en la sanidad pública de todas las provincias, sin conciertos ni copagos, y quedará blindado en la Constitución."
+   },
+   {
+    "id": "adelante-0084",
+    "partido": "adelante",
+    "titular": "Aborto en centros públicos de todas las provincias, sin conciertos ni copago",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "47. **Aborto en la sanidad pública** — En centros públicos de todas las provincias, sin conciertos ni copago, sin subvenciones a las organizaciones que acosan a las mujeres que ejercen su derecho, con acompañamiento psicosocial y formación en el currículo sanitario. _Porque hoy muchas mujeres tienen que salir de su provincia o ir a una clínica privada para abortar._"
+   },
+   {
+    "id": "adelante-0085",
+    "partido": "adelante",
+    "titular": "Blindar el derecho al aborto en la Constitución",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "48. **El aborto, en la Constitución** — Blindar el derecho en la Constitución. _Porque un derecho conquistado no puede quedar a merced de quien gobierne._"
+   },
+   {
+    "id": "adelante-0086",
+    "partido": "adelante",
+    "titular": "Productos menstruales y anticonceptivos gratuitos o más baratos según la renta",
+    "marca_actual": [],
+    "texto": "49. **Productos menstruales y anticonceptivos** — Gratuitos o más baratos según la renta, con prioridad para los jóvenes. _Porque la menstruación y la anticoncepción no pueden ser un lujo._"
+   },
+   {
+    "id": "adelante-0087",
+    "partido": "adelante",
+    "titular": "Test de embarazo de venta libre y gratuitos en centros de salud",
+    "marca_actual": [],
+    "texto": "50. **Test de embarazo accesibles** — De venta libre fuera de las farmacias y gratuitos en centros de salud y de juventud. _Porque saber pronto si se está embarazada no debería costar dinero._"
+   },
+   {
+    "id": "adelante-0088",
+    "partido": "adelante",
+    "titular": "Reabrir centros específicos de infecciones de transmisión sexual",
+    "marca_actual": [],
+    "texto": "51. **Infecciones de transmisión sexual** — Reabrir centros específicos con diagnóstico y tratamiento en una sola visita y planes de prevención. _Porque las infecciones de transmisión sexual están creciendo y hace falta atenderlas rápido._"
+   },
+   {
+    "id": "adelante-0089",
+    "partido": "adelante",
+    "titular": "Ley contra la violencia obstétrica y plan de humanización del parto",
+    "marca_actual": [],
+    "texto": "52. **Ley contra la violencia obstétrica** — Observatorio, formación del personal sanitario y plan de humanización del parto. _Porque muchas mujeres han sufrido un trato indigno en el parto._"
+   },
+   {
+    "id": "adelante-0340",
+    "partido": "adelante",
+    "titular": "Permiso retribuido por duelo gestacional para la madre y su pareja",
+    "marca_actual": [],
+    "texto": "289. **Permiso por duelo gestacional** — Permiso retribuido para la madre y su pareja tras una pérdida gestacional. _Porque perder un embarazo es un duelo que necesita tiempo._"
+   },
+   {
+    "id": "adelante-0531",
+    "partido": "adelante",
+    "titular": "Comisión en el Congreso para preparar las reformas constitucionales del programa",
+    "marca_actual": [],
+    "texto": "476. **Comisión para la reforma constitucional** — Comisión en el Congreso que prepare las reformas de este programa que necesitan cambiar la Constitución: el voto de las personas extranjeras residentes en todas las elecciones, la vivienda como derecho fundamental, el aborto, Andalucía como nacionalidad histórica, el fin de los aforamientos, el Senado territorial, la elección directa del Consejo General del Poder Judicial, el referéndum de iniciativa ciudadana y el referéndum obligatorio de toda reforma constitucional. _Porque muchas de estas reformas necesitan cambiar la Constitución._"
+   },
+   {
+    "id": "adelante-0563",
+    "partido": "adelante",
+    "titular": "Diagnóstico: las mujeres siguen cargando con los cuidados y la violencia machista",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "Ni un paso atrás. Las mujeres andaluzas siguen cargando con la mayor parte de los cuidados, con la parcialidad que no han elegido y con una brecha salarial que acaba en pensiones más bajas, y la violencia machista sigue matando mientras la extrema derecha niega que exista y pide derogar las leyes que protegen a las mujeres. Allí donde ha tocado poder, lo primero que ha recortado han sido los recursos contra la violencia de género. Proteger a las mujeres antes, durante y después de denunciar, con un Pacto de Estado con presupuesto que llegue a los ayuntamientos; repartir los cuidados con permisos iguales y una red pública; y blindar en la Constitución el derecho al aborto en la sanidad pública de todas las provincias."
+   },
+   {
+    "id": "adelante-0577",
+    "partido": "adelante",
+    "titular": "Prohibir la gestación subrogada y reforzar la adopción pública",
+    "marca_actual": [],
+    "texto": "521. **Prohibición de la gestación subrogada** — Y refuerzo de la adopción pública. _Porque los cuerpos de las mujeres no se compran ni se alquilan._"
+   },
+   {
+    "id": "adelante-0585",
+    "partido": "adelante",
+    "titular": "La recuperación de una cesárea como baja propia, no como permiso",
+    "marca_actual": [],
+    "texto": "529. **La cesárea no es permiso** — La recuperación de una cesárea será una baja propia y las semanas solapadas se añadirán al permiso por nacimiento. _Porque recuperarse de una cesárea no es tiempo de crianza._"
+   },
+   {
+    "id": "adelante-0589",
+    "partido": "adelante",
+    "titular": "Remisión: aborto, anticoncepción y productos menstruales en otras propuestas",
+    "marca_actual": [],
+    "texto": "El aborto en la sanidad pública y en la Constitución, y la anticoncepción y los productos menstruales gratuitos, están en las Propuestas **49** a **51**."
+   },
+   {
+    "id": "bng-0151",
+    "partido": "bng",
+    "titular": "Formación sanitaria sobre la salud sexual y reproductiva de las personas LGBTI",
+    "marca_actual": [],
+    "texto": "- A concienciación e formación das e dos profesionais da sanidade a respecto das necesidades específicas de saúde sexual e reprodutiva das persoas LGBTI."
+   },
+   {
+    "id": "erc-0122",
+    "partido": "erc",
+    "titular": "Permiso laboral retribuido por duelo gestacional entre la semana 6 y el día 179",
+    "marca_actual": [],
+    "texto": "90. Reconèixer el dret al dol gestacional, establint un permís laboral retribuït per les pèrdues gestacionals entre la sisena setmana i el dia 179 de gestació, independentment de les situacions d’incapacitat temporal reconegudes legalment."
+   },
+   {
+    "id": "erc-0123",
+    "partido": "erc",
+    "titular": "Equiparar los permisos de ambos progenitores por muerte fetal desde el día 180",
+    "marca_actual": [],
+    "texto": "91. Garantir la igualtat de drets dels dos progenitors davant la pèrdua gestacional, equiparant la protecció i els permisos retribuïts en els casos de mort fetal a partir del dia 180 de gestació."
+   },
+   {
+    "id": "pnv-0160",
+    "partido": "pnv",
+    "titular": "Proteger los derechos sexuales y reproductivos de las mujeres",
+    "marca_actual": [],
+    "texto": "4. **Proteger el ejercicio efectivo de los derechos sexuales y reproductivos de las mujeres**, garantizando el acceso libre y seguro a los servicios sanitarios."
+   },
+   {
+    "id": "pnv-0161",
+    "partido": "pnv",
+    "titular": "Perímetros de al menos 150 metros en centros de interrupción voluntaria del embarazo",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "5. **Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo**, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres."
+   },
+   {
+    "id": "bildu-0047",
+    "partido": "bildu",
+    "titular": "Dispensación gratuita de preservativos y kits de detección de ITS",
+    "marca_actual": [],
+    "texto": "- Establecer la dispensación farmacéutica gratuita de preservativos femeninos y masculinos, así como de kits básicos de detección de ITS."
+   },
+   {
+    "id": "bildu-0049",
+    "partido": "bildu",
+    "titular": "Ampliar la eutanasia al sufrimiento psíquico y blindar el derecho a morir dignamente",
+    "marca_actual": [],
+    "texto": "- Modificar la ley Orgánica 3/2021 de 4 de marzo, de regulación de la Eutanasia para garantizar el derecho a recibir la prestación de todas las personas, que abarque por igual el sufrimiento de origen físico, como psíquico. Con el objetivo de blindar el derecho a morir dignamente frente a la intromisión judicial de terceros. Asegurando así que el procedimiento de la petición de la ayuda a morir constituya un acto de estricta intimidad personal y de autodeterminación."
+   },
+   {
+    "id": "bildu-0050",
+    "partido": "bildu",
+    "titular": "Prevenir la violencia obstétrica junto a colectivos feministas",
+    "marca_actual": [],
+    "texto": "- Avanzar en la detección, prevención y sensibilización de la violencia obstétrica de la mano de colectivos feministas especializados en la materia."
+   },
+   {
+    "id": "bildu-0136",
+    "partido": "bildu",
+    "titular": "Blindar el derecho al aborto libre, seguro y confidencial",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Blindar el derecho al aborto. Para ello, daremos los pasos y propondremos todas las medidas necesarias para garantizar el acceso libre, seguro, confidencial y digno al aborto."
+   },
+   {
+    "id": "bildu-0137",
+    "partido": "bildu",
+    "titular": "Perímetros de protección frente al acoso en los centros que practican abortos",
+    "marca_actual": [
+     "blindar"
+    ],
+    "texto": "- Avanzar en medidas de protección frente al acoso en el acceso al aborto. Particularmente defenderemos medidas concretas de protección en torno a los centros sanitarios que practican interrupciones voluntarias del embarazo como perímetros de protección, protocolos preventivos y recogida de datos sobre posibles coacciones, acoso o intimidaciones."
+   }
+  ]
+ },
+ {
+  "eje": "eje-herencias",
+  "pregunta": "¿Qué hacer con el impuesto de sucesiones y donaciones?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlo o bajarlo"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlo o armonizarlo al alza"
+   }
+  ],
+  "n": 22,
+  "palabras": 1428,
+  "candidatos": [
+   {
+    "id": "podemos-0040",
+    "partido": "podemos",
+    "titular": "Hacer estatal y permanente el impuesto a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "30. **Impuesto a las Grandes Fortunas.** Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen. Para ello reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal permanente con idénticas características que el Impuesto del Patrimonio. Modificaremos la normativa básica de ambos impuestos para que las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patrimonio pase de 100 millones de euros."
+   },
+   {
+    "id": "podemos-0059",
+    "partido": "podemos",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "49. **Equiparación fiscal de las rentas del capital y del trabajo.** Reformaremos el IRPF para equiparar progresivamente, en un plazo máximo de una legislatura, los tipos impositivos de los rendimientos del capital a los de los rendimientos del trabajo, poniendo fin al trato fiscal más favorable de las rentas procedentes del patrimonio frente a las obtenidas mediante el trabajo. Avanzaremos así hacia un sistema fiscal más justo y redistributivo."
+   },
+   {
+    "id": "podemos-0155",
+    "partido": "podemos",
+    "titular": "Garantizar la adaptación y reducción de jornada y excedencias para cuidar",
+    "marca_actual": [],
+    "texto": "140. **Garantizar los derechos de adaptación y reducción de jornada y excedencias.** Para trabajadoras y trabajadores con personas dependientes, enfermas o menores de edad a su cargo, en coherencia con la estructura de políticas de Cuidados para un Estado Corresponsable."
+   },
+   {
+    "id": "podemos-0218",
+    "partido": "podemos",
+    "titular": "Permitir destinar el tercio de mejora de la herencia a quien cuidó",
+    "marca_actual": [],
+    "texto": "200. **Creación de un concepto de mejora de las herencia vinculado a los cuidados.** Modificación del artículo 823 del Código Civil con el objetivo de que en la herencia el tercio de mejora pueda disponerse en favor de aquellas personas que, sin perjuicio de que sean descendientes o no, hayan cuidado al causante."
+   },
+   {
+    "id": "podemos-0230",
+    "partido": "podemos",
+    "titular": "Prórroga automática de las autorizaciones de residencia si la Administración no resuelve",
+    "marca_actual": [],
+    "texto": "212. **Renovación y prórroga automática de las autorizaciones para evitar situaciones de irregularidad sobrevenida.** Aprobar mecanismos de prórroga automática de las autorizaciones de residencia cuando la Administración no haya resuelto dentro del plazo legal una solicitud de renovación o regularización, siempre que se cumplan los requisitos establecidos. La demora administrativa no podrá convertirse en causal de pérdida de derechos ni interrumpir injustificadamente la vida laboral, educativa o familiar de las personas afectadas.\n Esta medida requerirá concretar los supuestos y sus efectos en el reglamento de extranjería, en coherencia con las garantías del procedimiento administrativo común."
+   },
+   {
+    "id": "podemos-0272",
+    "partido": "podemos",
+    "titular": "Crear una agencia estatal del cine y el audiovisual",
+    "marca_actual": [],
+    "texto": "254. **Creación de una agencia estatal del cine y el audiovisual,** en coherencia con lo dispuesto en la Ley 55/2007, de 28 de diciembre."
+   },
+   {
+    "id": "adelante-0009",
+    "partido": "adelante",
+    "titular": "Revolución fiscal: impuesto a grandes fortunas e IRPF más alto desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "7. **Revolución fiscal: que pague más quien más tiene** — Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.\nSe desarrolla en el programa: Propuestas 232, 233 y 236 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0282",
+    "partido": "adelante",
+    "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "232. **IRPF más progresivo** — Rebaja para las rentas más bajas y tipos mucho más altos a partir de 100.000 euros al año, menos deducciones para las rentas altas y rentas del capital que tributen al menos como las del trabajo. _Porque quien más gana debe aportar más, y el trabajo no puede pagar más que el capital._"
+   },
+   {
+    "id": "adelante-0283",
+    "partido": "adelante",
+    "titular": "Impuesto sobre la riqueza y la tierra que sustituya a Patrimonio",
+    "marca_actual": [],
+    "texto": "233. **Impuesto sobre la riqueza y la tierra** — Sustituye a Patrimonio y grava las grandes fortunas, la gran propiedad inmobiliaria y los latifundios. _Porque la riqueza está cada vez más concentrada y apenas tributa._"
+   },
+   {
+    "id": "adelante-0284",
+    "partido": "adelante",
+    "titular": "Tributación mínima común en sucesiones y donaciones contra el dumping fiscal",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "234. **Suelo común en sucesiones y donaciones** — Tributación mínima en todo el Estado para acabar con el dumping fiscal entre comunidades. _Porque algunas comunidades bajan este impuesto para atraer grandes fortunas._"
+   },
+   {
+    "id": "adelante-0293",
+    "partido": "adelante",
+    "titular": "Impuesto de salida a grandes fortunas que trasladen su residencia fiscal",
+    "marca_actual": [],
+    "texto": "243. **Impuesto de salida** — Tributación de las grandes fortunas que trasladen su residencia fiscal fuera de España. _Porque no se puede ganar dinero aquí y huir a otro país para no pagar impuestos._"
+   },
+   {
+    "id": "bng-0007",
+    "partido": "bng",
+    "titular": "Coherencia e independencia de criterio en defensa del pueblo gallego",
+    "marca_actual": [],
+    "texto": "O BNG mantivo sempre a coherencia na defensa dos intereses do pobo traballador galego e de avances en todos os ámbitos. Fixémolo nun contexto especialmente complexo marcado por un Goberno que só cumpría cando era obrigado polas forzas soberanistas e unhas dereitas ultras cun claro programa de involución social e democrática.\n\nAs nosas posicións sempre estiveron guiadas polo interese do pobo galego, sempre coas mans libres sen que outras forzas marcasen ou condicionasen a nosa voz e o noso voto. Mantivemos a independencia de criterio, actuando e votando sempre en función de se as medidas políticas en debate eran boas ou non para Galiza e a súa xente. Fomos -e somos- a única forza para a que o pobo galego é quen máis ordena."
+   },
+   {
+    "id": "bng-0234",
+    "partido": "bng",
+    "titular": "Gravar menos las rentas del trabajo y más las del capital",
+    "marca_actual": [],
+    "texto": "- Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital."
+   },
+   {
+    "id": "bng-0248",
+    "partido": "bng",
+    "titular": "Blindar los impuestos a banca, grandes energéticas y grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Blindar a permanencia dos impostos específicos aos beneficios da banca, das grandes enerxéticas e ás grandes fortunas, reducir os límites de exención, aumentar a súa progresividade e traspasar a súa xestión á Galiza."
+   },
+   {
+    "id": "bng-0540",
+    "partido": "bng",
+    "titular": "Referéndum de autodeterminación saharaui, reconocer Palestina y condenar a Israel",
+    "marca_actual": [],
+    "texto": "- Defender unha nova arquitectura internacional igualitaria entre os pobos, non xerarquizada, que recoñeza o dereitos das nacións á súa libre determinación -a comezar pola nosa- e a se relacionaren en pé de igualdade, sen inxerencias nin agresións en coherencia coa nosa visión pacifista e antiimperialista. No inmediato:\n - a) Anular o cambio de posición do goberno español a respecto do dereito á autodeterminación do pobo saharauí, condenando enerxicamente a ocupación marroquí do Sáhara Occidental, e instando a que o Estado español impulse un referendo de autodeterminación con garantías democráticas.\n - b) Condenar enerxicamente o Estado de Israel pola ocupación e colonialismo nos territorios ocupados da Palestina. Recoñecemento real e efectivo do Estado palestino.\n - c) Chamar á fin das agresións imperialistas, particularmente no Oriente Medio e no Norte de África.\n - d) Rexeitar a política de inxerencia dos Estados Unidos, que busca desestabilizar os gobernos progresistas de América Latina, e que mantén a agresión a Venezuela e o bloqueo a Cuba."
+   },
+   {
+    "id": "erc-0095",
+    "partido": "erc",
+    "titular": "Subir al 35 % el IRPF del capital y bajarlo bajo 35.000 euros",
+    "marca_actual": [],
+    "texto": "69. Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros per augmentar els recursos disponibles i la capacitat adquisitiva de la classe treballadora."
+   },
+   {
+    "id": "erc-0103",
+    "partido": "erc",
+    "titular": "Hacer permanente el impuesto a grandes fortunas con un tramo nuevo desde 100 millones",
+    "marca_actual": [],
+    "texto": "74. Fiscalitat dels multimilionaris. Fer permanent l’impost temporal de solidaritat de les grans fortunes, augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros."
+   },
+   {
+    "id": "cnv-0001",
+    "partido": "cnv",
+    "titular": "Presentación: soberanismo de centro y «bon govern» para Cataluña",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "Convergents és una força sobiranista que aglutina idees de centre ampli i defensa el dret a decidir del poble català d’una manera ferma i sense fissures. Un partit que reconeix com a Pàtria pròpia la catalana i com a bandera la senyera. Som hereus naturals de Convergència Democràtica de Catalunya, i, com a tals, continuadors del llegat polític que va construir la Catalunya moderna dels darrers 50 anys a través d’una basta obra de govern.\n\nCatalunya viu un moment crucial.\n\nEns trobem davant una cruïlla històrica on la societat catalana reclama, més que mai, respecte, reconeixement i responsabilitat. Després d’anys de judicialització del conflicte polític i d’una gestió marcada per la confrontació estèril, la tensió i la improvisació, el país necessita una nova manera de fer política: valenta en la defensa dels drets nacionals, però també rigorosa, dialogant i orientada als resultats. És hora de fer compatible l’ambició sobiranista amb el “bon govern”: hem de ser presents a les taules estatals i europees on es decideixi el nostre futur, i, alhora, hem de continuar exigint polítiques com la desaparició dels impostos de patrimoni, successions i donacions."
+   },
+   {
+    "id": "cnv-0088",
+    "partido": "cnv",
+    "titular": "Eliminar los impuestos de Sucesiones, Donaciones y Patrimonio",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "- Defensarem l’eliminació dels imposts de Successions, Donacions i Patrimoni."
+   },
+   {
+    "id": "bildu-0022",
+    "partido": "bildu",
+    "titular": "Cumplir la cuota de reserva de empleo para personas con discapacidad",
+    "marca_actual": [],
+    "texto": "- Defender una verdadera inclusión laboral de las personas con discapacidad con mejoras en la inclusión laboral a través del cumplimiento real y efectivo de la cuota de reserva de empleo en las empresas, en coherencia a la Observación General nº 8 del Comité sobre los Derechos de las Personas con Discapacidad, en relación con el derecho a un trabajo libremente elegido o aceptado, en igualdad de condiciones con el resto de la población. Para ello, proponemos garantizar puestos accesibles, apoyos al empleo, adaptaciones, carrera profesional, estabilidad y políticas activas que permitan participar en igualdad en el mercado laboral."
+   },
+   {
+    "id": "bildu-0097",
+    "partido": "bildu",
+    "titular": "Aumentar el impuesto a la banca y a las grandes fortunas",
+    "marca_actual": [],
+    "texto": "- Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas."
+   },
+   {
+    "id": "bildu-0200",
+    "partido": "bildu",
+    "titular": "Replegar las Fuerzas y Cuerpos de Seguridad del Estado de la CAV y Navarra",
+    "marca_actual": [],
+    "texto": "- Impulsar en la Comunidad Autónoma Vasca y en la Comunidad Foral de Navarra, el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado, en el marco del respeto y pleno desarrollo de las competencias de ambas comunidades en materia de seguridad ciudadana y orden público y en coherencia con el carácter integral de la Ertzaintza y de la Policía Foral."
+   }
+  ]
+ },
+ {
+  "eje": "eje-burka",
+  "pregunta": "¿Prohibir el burka y el niqab en espacios públicos?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, prohibirlos"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 0,
+  "palabras": 0,
+  "candidatos": []
+ }
+]

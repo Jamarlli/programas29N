@@ -189,7 +189,7 @@ def main():
             print(f"{pt['id']}: sin extractos todavía, no entra en la web")
             continue
         fm = front_matter(md)
-        partidos.append({'id': pt['id'], 'corto': pt['corto'], 'nombre': fm['partido'], 'titulo': fm['titulo'],
+        partidos.append({'id': pt['id'], 'corto': pt['corto'], **({'sigla': pt['sigla']} if 'sigla' in pt else {}), 'nombre': fm['partido'], 'titulo': fm['titulo'],
                          'fuente': fm['fuente_pdf'], 'tipoFuente': fm['tipo_fuente'],
                          'paginas': int(fm['paginas_pdf']), 'descarga': fm['fecha_descarga'],
                          'color': pt['color'], 'base': pt['base']})

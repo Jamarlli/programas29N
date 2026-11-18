@@ -1,0 +1,4091 @@
+[
+ {
+  "id": "pnv-0007",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí"
+  ],
+  "texto": "Emanciparse no debería depender de la ayuda permanente de la familia. Queremos que las personas jóvenes puedan elegir cuándo salir de casa y que las familias encuentren apoyos para conciliar y cuidar. Por eso vinculamos vivienda, empleo y protección social en una misma prioridad: poder construir tu vida aquí.\n\nPara lograrlo, reclamaremos en Madrid las reformas y los recursos que permitan a las instituciones vascas actuar con eficacia, respetando sus competencias. Las decisiones deben traducirse en más viviendas, mejores ingresos y oportunidades reales.\n\nEse es nuestro compromiso: que el futuro no se quede en una promesa y que construir una vida en Euskadi vuelva a estar al alcance de quienes viven y trabajan aquí."
+ },
+ {
+  "id": "pnv-0008",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+  ],
+  "texto": "Queremos que encontrar una vivienda sea más fácil y que el alquiler tenga reglas claras. Defenderemos medidas para aumentar la oferta, frenar los usos fraudulentos y proteger a quienes necesitan una casa para vivir."
+ },
+ {
+  "id": "pnv-0009",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Aumentar la oferta de viviendas"
+  ],
+  "texto": "1. Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales."
+ },
+ {
+  "id": "pnv-0010",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Aumentar la oferta de viviendas"
+  ],
+  "texto": "2. Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial."
+ },
+ {
+  "id": "pnv-0011",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Regular el alquiler y evitar abusos"
+  ],
+  "texto": "3. Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual."
+ },
+ {
+  "id": "pnv-0012",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Regular el alquiler y evitar abusos"
+  ],
+  "texto": "4. Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial."
+ },
+ {
+  "id": "pnv-0013",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Regular el alquiler y evitar abusos"
+  ],
+  "texto": "5. Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra."
+ },
+ {
+  "id": "pnv-0014",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Garantías y protección residencial"
+  ],
+  "texto": "6. Dar seguridad jurídica a las personas inquilinas y a los pequeños propietarios para favorecer el alquiler habitual."
+ },
+ {
+  "id": "pnv-0015",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+   "Garantías y protección residencial"
+  ],
+  "texto": "7. Ofrecer alternativas habitacionales a las familias vulnerables sin trasladar toda la responsabilidad a los pequeños propietarios."
+ },
+ {
+  "id": "pnv-0016",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible"
+  ],
+  "texto": "**Las personas jóvenes tienen derecho a desarrollar su proyecto de vida con autonomía.** Queremos que puedan acceder a una vivienda, trabajar en condiciones dignas y decidir dónde y cómo vivir."
+ },
+ {
+  "id": "pnv-0017",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible",
+   "Acceso a la primera vivienda"
+  ],
+  "texto": "1. Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, tanto en régimen de alquiler como en propiedad."
+ },
+ {
+  "id": "pnv-0018",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible",
+   "Acceso a la primera vivienda"
+  ],
+  "texto": "2. Asegurar que las políticas públicas de vivienda contemplen diferentes opciones de emancipación, evitando que el alquiler protegido se convierta en la única alternativa disponible para las personas jóvenes."
+ },
+ {
+  "id": "pnv-0019",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible",
+   "Empleo y autonomía económica"
+  ],
+  "texto": "3. Favorecer medidas que mejoren la conexión entre formación y empleo, facilitando la incorporación de las personas jóvenes a puestos de trabajo de calidad y acordes con su preparación."
+ },
+ {
+  "id": "pnv-0020",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible",
+   "Perspectiva juvenil y financiación"
+  ],
+  "texto": "4. **Incorporar la emancipación juvenil como una prioridad en las reformas estatales de vivienda, empleo, salarios y protección social**, evaluando cómo afectan estas decisiones a la capacidad de las personas jóvenes para vivir de forma independiente."
+ },
+ {
+  "id": "pnv-0021",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.2 Emanciparse en Euskadi debe ser posible",
+   "Perspectiva juvenil y financiación"
+  ],
+  "texto": "5. Promover políticas de emancipación estables y con financiación suficiente, que complementen las iniciativas de las instituciones vascas y respeten sus competencias."
+ },
+ {
+  "id": "pnv-0022",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales"
+  ],
+  "texto": "Trabajar debe permitir pagar una vivienda, afrontar los gastos cotidianos y ahorrar. Defenderemos salarios acordes con el coste de vida de Euskadi, empleos estables y derechos laborales que se cumplan."
+ },
+ {
+  "id": "pnv-0023",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Salarios y negociación colectiva"
+  ],
+  "texto": "1. Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal. Impulsar su definición mediante el diálogo social, con la participación de sindicatos y organizaciones empresariales."
+ },
+ {
+  "id": "pnv-0024",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Salarios y negociación colectiva"
+  ],
+  "texto": "2. Proteger un marco propio de relaciones laborales y la prevalencia de los convenios colectivos vascos, en los términos previstos legalmente, cuando establezcan condiciones más favorables para las personas trabajadoras."
+ },
+ {
+  "id": "pnv-0025",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Salarios y negociación colectiva"
+  ],
+  "texto": "3. Favorecer la negociación colectiva para que las mejoras de productividad se traduzcan en mejores salarios, mayor poder adquisitivo y un reparto equilibrado del valor generado."
+ },
+ {
+  "id": "pnv-0026",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Cumplimiento de los derechos laborales"
+  ],
+  "texto": "4. Detectar y sancionar mejor los abusos laborales reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida y los incumplimientos de la normativa laboral."
+ },
+ {
+  "id": "pnv-0027",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Cumplimiento de los derechos laborales"
+  ],
+  "texto": "5. **Mejorar la prevención de riesgos laborales y la protección de la salud física y mental en el trabajo**, reforzando la coordinación entre servicios sanitarios, mutuas y Seguridad Social."
+ },
+ {
+  "id": "pnv-0028",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Cumplimiento de los derechos laborales"
+  ],
+  "texto": "6. Asegurar la aplicación de la normativa europea sobre transparencia retributiva, para detectar y corregir las desigualdades salariales entre mujeres y hombres."
+ },
+ {
+  "id": "pnv-0029",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Cumplimiento de los derechos laborales"
+  ],
+  "texto": "7. **Reforzar la prevención y la actuación frente al acoso laboral, sexual y discriminatorio**, garantizando protocolos eficaces en las empresas."
+ },
+ {
+  "id": "pnv-0030",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Formación y prácticas"
+  ],
+  "texto": "8. Facilitar el acceso de las personas trabajadoras a la formación continua y la recualificación profesional para adaptarse a los cambios tecnológicos y productivos."
+ },
+ {
+  "id": "pnv-0031",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Formación y prácticas"
+  ],
+  "texto": "9. Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo, respetando las competencias de Euskadi y el funcionamiento de la Formación Profesional Dual."
+ },
+ {
+  "id": "pnv-0032",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Protección ante el desempleo"
+  ],
+  "texto": "10. **Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses**, vinculándola a procesos de mejora de la empleabilidad y reforzando la protección de las personas con mayores dificultades para reincorporarse al mercado laboral."
+ },
+ {
+  "id": "pnv-0033",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Productividad, absentismo, competitividad y bienestar laboral"
+  ],
+  "texto": "11. Analizar, con la participación de las administraciones, los sindicatos y las organizaciones empresariales, la productividad laboral, el absentismo, la competitividad y los salarios, y proponer medidas de prevención y control, así como actuaciones que mejoren el bienestar físico y mental de las personas trabajadoras."
+ },
+ {
+  "id": "pnv-0034",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.3 Mejores salarios, empleo digno y derechos laborales",
+   "Productividad, absentismo, competitividad y bienestar laboral"
+  ],
+  "texto": "12. Evitar que las mejoras salariales pactadas pongan en riesgo servicios públicos contratados: permitir, en casos estratégicos y justificados, actualizar el precio de los contratos para cubrir esos costes y garantizar tanto el empleo como la continuidad del servicio."
+ },
+ {
+  "id": "pnv-0035",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades"
+  ],
+  "texto": "Defendemos una educación que garantice la igualdad de oportunidades y prepare a las personas para desarrollar su talento y participar activamente en la sociedad. Euskadi debe poder seguir construyendo su propio modelo educativo."
+ },
+ {
+  "id": "pnv-0036",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Modelo educativo y competencias"
+  ],
+  "texto": "1. **Preservar las competencias educativas de Euskadi**, evitando interferencias estatales en los ámbitos de decisión que corresponden a las instituciones vascas."
+ },
+ {
+  "id": "pnv-0037",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Modelo educativo y competencias"
+  ],
+  "texto": "2. Impulsar una educación inclusiva, plurilingüe e intercultural, que garantice los derechos de la infancia y la adolescencia y la igualdad de oportunidades."
+ },
+ {
+  "id": "pnv-0038",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Modelo educativo y competencias"
+  ],
+  "texto": "3. **Reforzar la coeducación y la educación afectivo-sexual en igualdad**, promoviendo el respeto a la diversidad y la prevención de cualquier forma de discriminación y violencia."
+ },
+ {
+  "id": "pnv-0039",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Becas e igualdad de oportunidades"
+  ],
+  "texto": "4. **Defender la capacidad normativa del Sistema Vasco de Becas**, para mantener una política propia de apoyo al estudio adaptada a la realidad de Euskadi."
+ },
+ {
+  "id": "pnv-0040",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Formación profesional y universidad"
+  ],
+  "texto": "5. **Fortalecer la Formación Profesional Dual**, favoreciendo la colaboración entre los centros formativos y las empresas y su conexión con las oportunidades de empleo."
+ },
+ {
+  "id": "pnv-0041",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Formación profesional y universidad"
+  ],
+  "texto": "6. Favorecer la colaboración entre universidades y empresas, promoviendo la formación, la investigación y la generación de empleo cualificado."
+ },
+ {
+  "id": "pnv-0042",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.4 Una educación que abra oportunidades",
+   "Formación profesional y universidad"
+  ],
+  "texto": "7. Defender la capacidad de Euskadi para decidir sobre la gobernanza de sus universidades e impulsar su participación en proyectos universitarios europeos."
+ },
+ {
+  "id": "pnv-0043",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.5 Una juventud con voz y capacidad de decisión"
+  ],
+  "texto": "Las personas jóvenes deben poder participar en las decisiones que afectan a sus vidas. Queremos que sus propuestas tengan consecuencias reales en las políticas públicas."
+ },
+ {
+  "id": "pnv-0044",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.5 Una juventud con voz y capacidad de decisión",
+   "Participación en las decisiones públicas"
+  ],
+  "texto": "1. Favorecer mecanismos efectivos de participación de las personas jóvenes en la elaboración, seguimiento y evaluación de las políticas públicas."
+ },
+ {
+  "id": "pnv-0045",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.5 Una juventud con voz y capacidad de decisión",
+   "Participación en las decisiones públicas"
+  ],
+  "texto": "2. **Reforzar la participación juvenil en la vida pública y democrática**, garantizando espacios en los que sus propuestas sean escuchadas y tenidas en cuenta por las instituciones."
+ },
+ {
+  "id": "pnv-0046",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Poder construir tu vida aquí",
+   "1.5 Una juventud con voz y capacidad de decisión",
+   "Perspectiva juvenil en las leyes"
+  ],
+  "texto": "3. **Incorporar la perspectiva juvenil en las iniciativas legislativas estatales**, especialmente en vivienda, empleo, educación, investigación y protección social."
+ },
+ {
+  "id": "pnv-0047",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera"
+  ],
+  "texto": "**_Industria, empresas, energía, campo, mar, infraestructuras y sostenibilidad._**\n\nQueremos que Euskadi siga creando riqueza y empleo de calidad. Para ello necesitamos empresas que puedan invertir, producir y crecer aquí, y trabajadores cuyos salarios mejoren con la productividad. **Una economía fuerte debe notarse en el bolsillo**: mejores nóminas, energía asequible y negocios con futuro.\n\nDefenderemos una industria competitiva, con redes eléctricas suficientes y costes que no frenen las inversiones. **Apoyaremos al tejido productivo, pymes, personas autónomas y cooperativas** para que puedan mantener su actividad, contratar y afrontar los cambios tecnológicos.\n\nTambién exigiremos infraestructuras que funcionen. **Cada retraso ferroviario o inversión incumplida perjudica a quienes se desplazan para trabajar** y a las empresas que necesitan transportar mercancías. Queremos obras terminadas, plazos públicos y servicios fiables.\n\nPara conseguirlo necesitamos decisiones concretas: energía a precios competitivos, redes eléctricas capaces de atender las necesidades de nuestra industria, apoyo a las pymes y personas autónomas, menos trabas administrativas y un marco laboral que combine productividad, buenos salarios y derechos.\n\nTambién queremos un futuro para nuestros pueblos y nuestras comunidades costeras. La agricultura, la ganadería y la pesca producen alimentos, generan empleo y mantienen vivo nuestro territorio. Defender su rentabilidad, facilitar el relevo generacional y garantizar su participación en las decisiones europeas es defender una parte esencial de Euskadi."
+ },
+ {
+  "id": "pnv-0048",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera"
+  ],
+  "texto": "Y necesitamos infraestructuras a la altura de nuestro país. **Euskadi no puede seguir pagando las consecuencias de los retrasos del Estado.** La Y vasca, las conexiones ferroviarias, los puertos, los aeropuertos y las infraestructuras logísticas son inversiones necesarias para nuestra economía y para la movilidad de miles de personas. Los compromisos adquiridos deben cumplirse.\n\nDesde EAJ-PNV defenderemos una Euskadi que produzca, innove, exporte y genere empleo de calidad. Una Euskadi conectada con Europa, preparada para competir y capaz de decidir sobre las infraestructuras y los recursos que necesita."
+ },
+ {
+  "id": "pnv-0049",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi"
+  ],
+  "texto": "**La industria vasca necesita inversiones, energía competitiva y capacidad para tomar sus propias decisiones. Defenderemos su futuro y el empleo que genera.**"
+ },
+ {
+  "id": "pnv-0050",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Inversión y arraigo industrial"
+  ],
+  "texto": "1. **Fortalecer la industria vasca**, facilitando la inversión, la innovación y la modernización productiva mediante una legislación industrial que tenga en cuenta nuestra realidad."
+ },
+ {
+  "id": "pnv-0051",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Inversión y arraigo industrial"
+  ],
+  "texto": "2. Asegurar el cumplimiento de los compromisos del Estado con las empresas vascas en las que tenga participación o financiación pública, defendiendo la actividad industrial, el empleo y el mantenimiento de los centros de decisión en Euskadi."
+ },
+ {
+  "id": "pnv-0052",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Inversión y arraigo industrial"
+  ],
+  "texto": "3. Proteger el futuro industrial de las comarcas especialmente afectadas por procesos de crisis o transformación, como Aiaraldea, mediante inversiones, innovación, descarbonización, disponibilidad de suelo industrial y diálogo con los agentes implicados."
+ },
+ {
+  "id": "pnv-0053",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Innovación y modernización tecnológica"
+  ],
+  "texto": "4. **Adaptar los programas estatales de innovación y desarrollo tecnológico a las necesidades de nuestra industria**, facilitando el acceso de las empresas vascas a financiación para digitalización, automatización, investigación y nuevas tecnologías."
+ },
+ {
+  "id": "pnv-0054",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Innovación y modernización tecnológica"
+  ],
+  "texto": "5. Favorecer la modernización tecnológica de las pymes, apoyando la incorporación de soluciones digitales, inteligencia artificial y procesos productivos más eficientes y sostenibles."
+ },
+ {
+  "id": "pnv-0055",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Cooperativas e internacionalización"
+  ],
+  "texto": "6. **Proteger y promover el modelo cooperativo vasco**, garantizando que la legislación estatal reconozca sus particularidades y favorezca su desarrollo, arraigo y contribución al empleo de calidad."
+ },
+ {
+  "id": "pnv-0056",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.1 Industria fuerte y centros de decisión en Euskadi",
+   "Cooperativas e internacionalización"
+  ],
+  "texto": "7. **Reforzar el apoyo a la internacionalización de las empresas vascas**, facilitando su acceso a nuevos mercados, la diversificación de exportaciones y proveedores y su participación en proyectos industriales europeos."
+ },
+ {
+  "id": "pnv-0057",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios"
+  ],
+  "texto": "**Queremos que abrir, mantener y hacer crecer una empresa sea más fácil. Y que las y los autónomos tengan una protección social adecuada.**"
+ },
+ {
+  "id": "pnv-0058",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Creación, crecimiento y financiación"
+  ],
+  "texto": "1. **Reducir la burocracia y eliminar duplicidades administrativas** que dificultan la creación, ampliación y gestión de empresas y negocios."
+ },
+ {
+  "id": "pnv-0059",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Creación, crecimiento y financiación"
+  ],
+  "texto": "2. **Mejorar el acceso de pymes y personas autónomas a la financiación**, reforzando las líneas del Instituto de Crédito Oficial y los instrumentos públicos de garantía para invertir, modernizar instalaciones y ampliar la actividad."
+ },
+ {
+  "id": "pnv-0060",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Creación, crecimiento y financiación"
+  ],
+  "texto": "3. **Eliminar barreras regulatorias al crecimiento de las pymes**, favoreciendo la cooperación empresarial, los proyectos compartidos y la creación de nuevas actividades económicas."
+ },
+ {
+  "id": "pnv-0061",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Protección de las personas autónomas"
+  ],
+  "texto": "4. Mejorar la **protección de las personas autónomas** cuando cesa su actividad, aproximándola progresivamente a la prestación por desempleo, simplificando los requisitos y facilitando su acceso cuando exista un cese involuntario."
+ },
+ {
+  "id": "pnv-0062",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Protección de las personas autónomas"
+  ],
+  "texto": "5. **Permitir la compatibilidad temporal de la prestación por cese de actividad con el inicio de un nuevo proyecto empresarial**, favoreciendo que las personas autónomas puedan volver a emprender."
+ },
+ {
+  "id": "pnv-0063",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Relevo generacional y continuidad empresarial"
+  ],
+  "texto": "6. **Facilitar el relevo generacional de empresas y negocios viables**, especialmente familiares, evitando cierres por falta de continuidad y protegiendo los empleos existentes."
+ },
+ {
+  "id": "pnv-0064",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios",
+   "Relevo generacional y continuidad empresarial"
+  ],
+  "texto": "7. Facilitar que las plantillas puedan hacerse cargo de empresas viables mediante cooperativas o sociedades laborales, utilizando para ello la capitalización de la prestación por desempleo."
+ },
+ {
+  "id": "pnv-0065",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+  ],
+  "texto": "**Sin energía suficiente, segura y a precios competitivos no hay futuro industrial. Euskadi necesita que las decisiones energéticas respondan a las necesidades reales de sus empresas y de su ciudadanía.**"
+ },
+ {
+  "id": "pnv-0066",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Redes eléctricas y planificación"
+  ],
+  "texto": "1. Acelerar las inversiones en redes eléctricas de Euskadi, garantizando capacidad suficiente para nuevas industrias, ampliaciones empresariales, electrificación y demanda residencial."
+ },
+ {
+  "id": "pnv-0067",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Redes eléctricas y planificación"
+  ],
+  "texto": "2. **Revisar la planificación energética estatal y el Plan Nacional Integrado de Energía y Clima**, incorporando las necesidades industriales, la seguridad del suministro y la competitividad económica."
+ },
+ {
+  "id": "pnv-0068",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Redes eléctricas y planificación"
+  ],
+  "texto": "3. **Establecer mecanismos de seguimiento, incentivos y penalizaciones para garantizar la ejecución de las redes eléctricas planificadas**, evitando que las inversiones aprobadas acumulen retrasos injustificados."
+ },
+ {
+  "id": "pnv-0069",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Redes eléctricas y planificación"
+  ],
+  "texto": "4. **Agilizar los procedimientos de acceso y conexión a las redes eléctricas**, priorizando proyectos industriales viables y evitando la especulación con la capacidad disponible."
+ },
+ {
+  "id": "pnv-0070",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Redes eléctricas y planificación"
+  ],
+  "texto": "5. Favorecer el almacenamiento energético y activar los mecanismos de capacidad necesarios, para reforzar la estabilidad del sistema y garantizar el suministro eléctrico."
+ },
+ {
+  "id": "pnv-0071",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Costes y competitividad industrial"
+  ],
+  "texto": "6. **Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %**, dentro de los límites permitidos por la normativa europea."
+ },
+ {
+  "id": "pnv-0072",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Costes y competitividad industrial"
+  ],
+  "texto": "7. **Destinar a la compensación de los costes indirectos del CO₂ de la industria el máximo permitido por la normativa europea**, contribuyendo a preservar su competitividad."
+ },
+ {
+  "id": "pnv-0073",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Costes y competitividad industrial"
+  ],
+  "texto": "8. Asegurar un régimen transitorio de apoyo a la cogeneración industrial de alta eficiencia e impulsar nuevas subastas, favoreciendo la continuidad y modernización de las instalaciones."
+ },
+ {
+  "id": "pnv-0074",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Costes y competitividad industrial"
+  ],
+  "texto": "9. **Reforzar las infraestructuras de suministro y distribución de gas natural en Euskadi**, facilitando las inversiones necesarias para mejorar su capacidad operativa, garantizar la seguridad del abastecimiento y responder a las necesidades energéticas de la industria vasca."
+ },
+ {
+  "id": "pnv-0075",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Costes y competitividad industrial"
+  ],
+  "texto": "10. Favorecer el desarrollo del biometano, el hidrógeno renovable y otros combustibles de bajas emisiones, especialmente para procesos industriales y transportes difíciles de electrificar, incluyendo una fiscalidad incentivadora."
+ },
+ {
+  "id": "pnv-0076",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Consumidores y regulación"
+  ],
+  "texto": "11. **Mantener la protección de las personas consumidoras de energía en situación de vulnerabilidad**, incluidos los bonos sociales eléctrico y térmico, y preservar la Tarifa de Último Recurso del gas natural."
+ },
+ {
+  "id": "pnv-0077",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.3 Energía competitiva para nuestra industria y asequible para los hogares",
+   "Consumidores y regulación"
+  ],
+  "texto": "12. **Culminar el restablecimiento de la Comisión Nacional de la Energía como regulador independiente**, reforzando la supervisión del mercado y la protección de las personas consumidoras."
+ },
+ {
+  "id": "pnv-0078",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades"
+  ],
+  "texto": "**Queremos una Euskadi industrial y sostenible. La transición ecológica debe reducir emisiones, proteger nuestros recursos y facilitar nuevas oportunidades económicas sin comprometer la actividad productiva.**"
+ },
+ {
+  "id": "pnv-0079",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Edificios, autoconsumo y movilidad"
+  ],
+  "texto": "1. Favorecer la rehabilitación energética de edificios, mediante la actualización del Código Técnico de la Edificación y el desarrollo del Plan Nacional de Renovación de Edificios."
+ },
+ {
+  "id": "pnv-0080",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Edificios, autoconsumo y movilidad"
+  ],
+  "texto": "2. **Facilitar el autoconsumo compartido y las comunidades energéticas**, reduciendo los plazos de tramitación y favoreciendo la generación renovable próxima al consumo."
+ },
+ {
+  "id": "pnv-0081",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Edificios, autoconsumo y movilidad"
+  ],
+  "texto": "3. **Apoyar la electrificación de la movilidad y la climatización**, mediante programas de ayudas e incentivos fiscales compatibles con las competencias de las instituciones vascas."
+ },
+ {
+  "id": "pnv-0082",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Economía circular y recuperación de suelos"
+  ],
+  "texto": "4. Favorecer la economía circular y la reutilización de materiales, apoyando la reparación, el reciclaje, la valorización de residuos y su aprovechamiento en nuevos procesos industriales."
+ },
+ {
+  "id": "pnv-0083",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Economía circular y recuperación de suelos"
+  ],
+  "texto": "5. Favorecer la recuperación de suelos industriales degradados, facilitando su reutilización para nuevas actividades económicas y sociales."
+ },
+ {
+  "id": "pnv-0084",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Adaptación climática y biodiversidad"
+  ],
+  "texto": "6. Favorecer una estrategia de adaptación al cambio climático con financiación suficiente, priorizando la prevención de inundaciones, temporales, incendios y fenómenos meteorológicos extremos."
+ },
+ {
+  "id": "pnv-0085",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Adaptación climática y biodiversidad"
+  ],
+  "texto": "7. **Reforzar la protección y restauración de ríos, bosques, humedales, espacios naturales y ecosistemas marinos**, mejorando la conservación de la biodiversidad."
+ },
+ {
+  "id": "pnv-0086",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Protección del litoral y del agua"
+  ],
+  "texto": "8. Favorecer una reforma integral de la Ley de Costas, que aporte seguridad jurídica, permita adaptar el litoral al cambio climático y respete las competencias de Euskadi."
+ },
+ {
+  "id": "pnv-0087",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Protección del litoral y del agua"
+  ],
+  "texto": "9. Promover que Euskadi pueda programar y ejecutar las inversiones de interés general destinadas a proteger su litoral, con los recursos económicos correspondientes."
+ },
+ {
+  "id": "pnv-0088",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Protección del litoral y del agua"
+  ],
+  "texto": "10. Favorecer un plan de adaptación y protección de la costa vasca, frente a la erosión, los temporales, las inundaciones y la subida del nivel del mar."
+ },
+ {
+  "id": "pnv-0089",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades",
+   "Protección del litoral y del agua"
+  ],
+  "texto": "11. **Reforzar las inversiones en abastecimiento, saneamiento y depuración de aguas**, mejorando la eficiencia de las redes, la seguridad de las presas y la prevención de la contaminación."
+ },
+ {
+  "id": "pnv-0090",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+  ],
+  "texto": "**Sin personas agricultoras, ganaderas y arrantzales no hay futuro para nuestros pueblos ni para nuestras comunidades costeras. Defenderemos un primer sector rentable, con relevo generacional y capacidad para competir.**"
+ },
+ {
+  "id": "pnv-0091",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "1. Asegurar una Política Agraria Común 2028-2034 que reconozca un Plan Estratégico propio para Euskadi, con capacidad de gestión, programación y control desde las instituciones vascas y financiación suficiente y diferenciada."
+ },
+ {
+  "id": "pnv-0092",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "2. Reforzar la protección frente a las prácticas comerciales desleales, mejorar la capacidad negociadora de personas productoras y cooperativas y garantizar una remuneración que tenga en cuenta los costes de producción."
+ },
+ {
+  "id": "pnv-0093",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "3. **Facilitar el relevo generacional en la agricultura y la ganadería**, mediante cotizaciones reducidas para jóvenes que se incorporen al sector, medidas para la transmisión de explotaciones y apoyos al acceso a la tierra."
+ },
+ {
+  "id": "pnv-0094",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "4. Impulsar condiciones comerciales equivalentes para los productos importados, reforzando los controles, la trazabilidad y los mecanismos de protección de los sectores más sensibles."
+ },
+ {
+  "id": "pnv-0095",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "5. Asegurar financiación para la sanidad animal, los seguros agrarios y las situaciones de emergencia, evitando que sus costes recaigan exclusivamente sobre las instituciones vascas y las explotaciones."
+ },
+ {
+  "id": "pnv-0096",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Agricultura, ganadería y cadena alimentaria"
+  ],
+  "texto": "6. Proteger el futuro de Rioja Alavesa, impulsando medidas de rentabilidad y comercialización y reforzando la diferenciación de su origen en el etiquetado y la identificación de los vinos."
+ },
+ {
+  "id": "pnv-0097",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Gestión forestal"
+  ],
+  "texto": "7. **Apoyar la modernización del sector forestal y de la industria de la madera**, favoreciendo la gestión sostenible, la innovación y el aprovechamiento de recursos locales."
+ },
+ {
+  "id": "pnv-0098",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Política pesquera y cuotas"
+  ],
+  "texto": "8. Impulsar una revisión de la Política Pesquera Común que garantice la viabilidad de la flota vasca, con financiación europea suficiente y específica, estabilidad regulatoria y decisiones basadas en criterios científicos y socioeconómicos, con participación del sector pesquero."
+ },
+ {
+  "id": "pnv-0099",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Política pesquera y cuotas"
+  ],
+  "texto": "9. Revisar las restricciones europeas a la pesca de fondo en las 87 zonas del Atlántico nororiental afectadas por el Reglamento (UE) 2022/1614, incorporando evaluaciones científicas actualizadas y el conocimiento de los arrantzales."
+ },
+ {
+  "id": "pnv-0100",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Política pesquera y cuotas"
+  ],
+  "texto": "10. Trabajar por un reparto justo de las cuotas pesqueras y mayor flexibilidad en su gestión, atendiendo a las capturas históricas y a las necesidades de las diferentes modalidades de pesca."
+ },
+ {
+  "id": "pnv-0101",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Flota, empleo y protección social"
+  ],
+  "texto": "11. **Facilitar la renovación de la flota pesquera vasca**, utilizando la capacidad pesquera disponible (GT y kW) y mejorando la seguridad, las condiciones laborales, la eficiencia energética y la habitabilidad de los buques."
+ },
+ {
+  "id": "pnv-0102",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Flota, empleo y protección social"
+  ],
+  "texto": "12. **Mejorar la protección social de las personas trabajadoras del mar,** incluyendo el reconocimiento de coeficientes reductores de jubilación para las personas autónomas de la pesca y la comercialización, y medidas específicas para las mujeres del sector."
+ },
+ {
+  "id": "pnv-0103",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Flota, empleo y protección social"
+  ],
+  "texto": "13. **Establecer ayudas ante incrementos extraordinarios de los costes energéticos, vedas y paralizaciones pesqueras**, garantizando que lleguen a los colectivos afectados."
+ },
+ {
+  "id": "pnv-0104",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Flota, empleo y protección social"
+  ],
+  "texto": "14. **Combatir la pesca ilegal y la competencia desleal,** exigiendo a las importaciones garantías ambientales, laborales y sanitarias equivalentes, y reforzar la Ley de la Cadena Alimentaria para garantizar precios que cubran los costes de producción."
+ },
+ {
+  "id": "pnv-0105",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.5 Futuro para nuestros pueblos, el campo y la pesca",
+   "Flota, empleo y protección social"
+  ],
+  "texto": "15. **Apoyar el relevo generacional y la formación marítimo-pesquera** facilitando el acceso de las personas jóvenes a la actividad pesquera y la continuidad de las empresas del sector."
+ },
+ {
+  "id": "pnv-0106",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados."
+  ],
+  "texto": "**Las infraestructuras de Euskadi no pueden seguir dependiendo de promesas que se aplazan legislatura tras legislatura.** Cada retraso tiene consecuencias: trenes que no ofrecen el servicio necesario, proyectos industriales condicionados, mercancías que siguen circulando por carretera y oportunidades económicas que se pierden.\n\nEAJ-PNV exigirá al Estado que cumpla los compromisos adquiridos con Euskadi. Queremos inversiones ejecutadas, plazos públicos y responsabilidades claras. Y defenderemos que las instituciones vascas tengan la capacidad de gestionar las infraestructuras que prestan servicio a nuestra ciudadanía."
+ },
+ {
+  "id": "pnv-0107",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "1. Terminar la Y vasca sin más demoras, con un calendario de ejecución verificable, respetando los acuerdos sobre los accesos soterrados a Bilbao y Vitoria-Gasteiz y garantizando su conexión con Iruñea."
+ },
+ {
+  "id": "pnv-0108",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "2. **Culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi**, para mejorar su gestión, mantenimiento, accesibilidad y coordinación con el sistema vasco de transporte."
+ },
+ {
+  "id": "pnv-0109",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "3. Exigir al Ministerio de Transportes que cumpla sus compromisos para eliminar los pasos a nivel pendientes, especialmente en Enkarterri y Zalla, fijando plazos vinculantes para su ejecución."
+ },
+ {
+  "id": "pnv-0110",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "4. Promover la ejecución del traslado del apeadero de Martutene y del nuevo viario previsto, poniendo fin a los retrasos de estas actuaciones en Donostia."
+ },
+ {
+  "id": "pnv-0111",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "5. Asegurar el cumplimiento del acuerdo para construir el intercambiador de Riberas de Loiola, mediante la colaboración del Estado, el Gobierno Vasco y la Diputación Foral de Gipuzkoa."
+ },
+ {
+  "id": "pnv-0112",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "6. Favorecer el proyecto Vía Irun 2030, integrando la transformación ferroviaria y urbana y facilitando la liberación de los espacios ferroviarios necesarios."
+ },
+ {
+  "id": "pnv-0113",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Ferrocarril de viajeros y conexiones territoriales"
+  ],
+  "texto": "7. Asegurar la accesibilidad universal del transporte ferroviario, eliminando barreras en estaciones y adaptando el material rodante para las personas con movilidad reducida."
+ },
+ {
+  "id": "pnv-0114",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Mercancías y logística ferroviaria"
+  ],
+  "texto": "8. Promover la ejecución de las inversiones comprometidas en el Corredor Ferroviario Atlántico, consolidando Euskadi como conexión ferroviaria estratégica entre la península ibérica y Europa."
+ },
+ {
+  "id": "pnv-0115",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Mercancías y logística ferroviaria"
+  ],
+  "texto": "9. Asegurar la ejecución prioritaria de la Variante Sur Ferroviaria de Bilbao, para reducir el tráfico de mercancías por entornos urbanos, mejorar la conexión con el Puerto de Bilbao y liberar capacidad para los servicios de viajeros."
+ },
+ {
+  "id": "pnv-0116",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Mercancías y logística ferroviaria"
+  ],
+  "texto": "10. Favorecer la Plataforma Multimodal de Jundiz, reforzando su capacidad logística y ferroviaria como infraestructura del Corredor Atlántico."
+ },
+ {
+  "id": "pnv-0117",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Mercancías y logística ferroviaria"
+  ],
+  "texto": "11. **Desarrollar las conexiones ferroviarias de los puertos de Bilbao y Pasaia y del nodo logístico de Lezo-Gaintxurizketa**, avanzando en la interoperabilidad con la red europea."
+ },
+ {
+  "id": "pnv-0118",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Aeropuertos"
+  ],
+  "texto": "12. Promover más inversión y capacidad de desarrollo para el aeropuerto de Foronda, reforzando su actividad logística, industrial y de pasajeros, la puesta en marcha efectiva de su entorno de pruebas y su conectividad internacional."
+ },
+ {
+  "id": "pnv-0119",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Aeropuertos"
+  ],
+  "texto": "13. **Impulsar un modelo aeroportuario vasco coordinado**, con mayor capacidad de decisión de Euskadi sobre la planificación, las inversiones y la conectividad de Bilbao, Donostia y Vitoria-Gasteiz, en colaboración con los aeropuertos del entorno."
+ },
+ {
+  "id": "pnv-0120",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Puertos y regeneración portuaria"
+  ],
+  "texto": "14. Asegurar mayor autonomía de gestión para los puertos de Bilbao y Pasaia, avanzando hacia su gestión integral desde Euskadi. En el caso de Pasaia, promoveremos su desclasificación como puerto de interés general para posibilitar la transferencia."
+ },
+ {
+  "id": "pnv-0121",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Puertos y regeneración portuaria"
+  ],
+  "texto": "15. Favorecer la regeneración de la bahía de Pasaia, mediante acuerdos entre las instituciones competentes y una planificación que integre las necesidades urbanas, portuarias y ambientales."
+ },
+ {
+  "id": "pnv-0122",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Movilidad eléctrica y transporte por carretera"
+  ],
+  "texto": "16. **Mantener ayudas estables para la adquisición de vehículos electrificados**, facilitando su aplicación directa en el momento de la compra y respetando las competencias de gestión de las instituciones vascas."
+ },
+ {
+  "id": "pnv-0123",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Movilidad eléctrica y transporte por carretera"
+  ],
+  "texto": "17. Favorecer la renovación de las flotas de transporte pesado y profesional, con ayudas plurianuales para camiones, autobuses y vehículos de menores emisiones."
+ },
+ {
+  "id": "pnv-0124",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Movilidad eléctrica y transporte por carretera"
+  ],
+  "texto": "18. **Acelerar el despliegue de puntos de recarga eléctrica**, especialmente en corredores estratégicos, áreas industriales y rutas de transporte pesado."
+ },
+ {
+  "id": "pnv-0125",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Movilidad eléctrica y transporte por carretera"
+  ],
+  "texto": "19. **Modificar la Ley 15/2009 para garantizar que los costes de los peajes de carretera puedan repercutirse a los clientes del transporte**, evitando que recaigan exclusivamente sobre las empresas transportistas."
+ },
+ {
+  "id": "pnv-0126",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.6 Infraestructuras: fechas, inversiones y resultados.",
+   "Movilidad eléctrica y transporte por carretera"
+  ],
+  "texto": "**Euskadi necesita infraestructuras terminadas, mantenidas y bien gestionadas. No aceptaremos que los compromisos del Estado se conviertan en anuncios sin fecha. Exigiremos que se cumplan, con inversiones y calendarios concretos.**"
+ },
+ {
+  "id": "pnv-0127",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+  ],
+  "texto": "**Queremos que las instituciones puedan utilizar sus recursos para responder a las necesidades de la ciudadanía. Y una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica.**"
+ },
+ {
+  "id": "pnv-0128",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Fiscalidad de bienes y servicios"
+  ],
+  "texto": "1. Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos (pescado, carne, entre otros) y a productos alimenticios específicos (personas celíacas, entre otros colectivos) y la revisión de la tributación de suministros esenciales (electricidad, gas, combustibles…) y transporte público, dentro del marco europeo."
+ },
+ {
+  "id": "pnv-0129",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Fiscalidad de bienes y servicios"
+  ],
+  "texto": "2. **Revisar el IVA cultural para favorecer la actividad de artistas y galerías**, aprovechando las posibilidades de la normativa europea."
+ },
+ {
+  "id": "pnv-0130",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Inversión pública y autonomía financiera y fiscal"
+  ],
+  "texto": "3. Dar mayor margen de inversión a las administraciones vascas revisando la normativa de estabilidad presupuestaria, adaptándola al nuevo marco fiscal europeo y permitiendo reglas de gasto más flexibles."
+ },
+ {
+  "id": "pnv-0131",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Inversión pública y autonomía financiera y fiscal"
+  ],
+  "texto": "4. **Facilitar que los ayuntamientos, las diputaciones forales y el Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias**, evitando que recursos disponibles permanezcan bloqueados por restricciones generales."
+ },
+ {
+  "id": "pnv-0132",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Inversión pública y autonomía financiera y fiscal"
+  ],
+  "texto": "5. Asegurar que las reformas fiscales y presupuestarias respeten el Concierto Económico y la autonomía financiera de las instituciones vascas, así como sus mecanismos propios de coordinación y relación con el Estado."
+ },
+ {
+  "id": "pnv-0133",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "2. Una Euskadi que trabaja y prospera",
+   "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir",
+   "Inversión pública y autonomía financiera y fiscal"
+  ],
+  "texto": "6. Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales. Reclamar, mediante la actualización del Concierto Económico y las modificaciones legales necesarias, una mayor capacidad normativa de las instituciones competentes de los Territorios Históricos en estos impuestos, dentro de los límites de armonización establecidos por la Unión Europea, para adaptar mejor la fiscalidad a la realidad económica de Euskadi, apoyar la competitividad industrial y responder a las necesidades de las empresas y de las personas consumidoras."
+ },
+ {
+  "id": "pnv-0134",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos"
+  ],
+  "texto": "**_Seguridad, convivencia, migración, protección de las personas y derechos._**\n\nNecesitamos una política migratoria que funcione. Euskadi es una sociedad abierta, con una realidad demográfica y económica que exige planificación. **Queremos gestionar la migración desde Euskadi, con más capacidad de decisión, recursos suficientes y unas reglas claras.** Acoger e integrar significa garantizar derechos, facilitar el acceso al empleo, favorecer el aprendizaje del euskera y exigir el cumplimiento de las normas que compartimos. La convivencia requiere responsabilidades por parte de todos y todas.\n\nDefender la tranquilidad también significa proteger las libertades. La igualdad entre mujeres y hombres, los derechos de las personas LGTBIQ+, la libertad de expresión y la dignidad humana forman parte de la sociedad que queremos. **No aceptaremos retrocesos en derechos que han costado décadas conquistar.** Frente a quienes cuestionan la igualdad o utilizan el miedo para enfrentar a las personas, defenderemos una Euskadi democrática, plural y respetuosa.\n\nLa seguridad es poder vivir sin violencia ni discriminación. Defenderemos la igualdad, las libertades y una justicia que proteja a las víctimas. Sin alarmismo ni excusas: prevención, respuesta y garantías.\n\nY exigiremos instituciones transparentes, una justicia que proteja a las víctimas y mecanismos eficaces de control del poder. Porque la confianza ciudadana se gana con responsabilidad, hechos y rendición de cuentas."
+ },
+ {
+  "id": "pnv-0135",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos"
+  ],
+  "texto": "Queremos vivir con tranquilidad en nuestros barrios y saber que las instituciones responden. Defenderemos una Ertzaintza con las herramientas necesarias para prevenir delitos y proteger a las víctimas, con cooperación policial efectiva y respeto a los derechos.\n\n**Queremos vivir con tranquilidad, convivir desde el respeto y ejercer nuestros derechos con libertad. Ese es nuestro compromiso con Euskadi.**"
+ },
+ {
+  "id": "pnv-0136",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades"
+  ],
+  "texto": "**La seguridad de Euskadi debe gestionarse desde Euskadi. Queremos una Ertzaintza con capacidad plena para proteger a la ciudadanía y cooperar directamente con las policías europeas.**"
+ },
+ {
+  "id": "pnv-0137",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades",
+   "Capacidades de la Ertzaintza"
+  ],
+  "texto": "1. Defender el reconocimiento efectivo de la Ertzaintza como policía integral de Euskadi, respetando sus competencias y garantizando su capacidad para ejercer plenamente las funciones que le corresponden."
+ },
+ {
+  "id": "pnv-0138",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades",
+   "Cooperación policial europea e internacional"
+  ],
+  "texto": "2. Asegurar la participación directa y efectiva de la Ertzaintza en los mecanismos europeos de cooperación policial, sin intermediaciones que limiten su capacidad operativa."
+ },
+ {
+  "id": "pnv-0139",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades",
+   "Cooperación policial europea e internacional"
+  ],
+  "texto": "3. Asegurar el acceso recíproco y pleno de la Ertzaintza a las bases de datos policiales europeas, facilitando el intercambio de información con las agencias de seguridad de otros Estados."
+ },
+ {
+  "id": "pnv-0140",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades",
+   "Cooperación policial europea e internacional"
+  ],
+  "texto": "4. **Reforzar la cooperación policial internacional para prevenir y combatir la delincuencia**, especialmente la organizada y transfronteriza, mediante mecanismos de intercambio de información y coordinación operativa."
+ },
+ {
+  "id": "pnv-0141",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades",
+   "Respuesta a la delincuencia reincidente"
+  ],
+  "texto": "5. **Combatir la multirreincidencia y proteger a las víctimas**. Impulsar las reformas legales necesarias para garantizar una respuesta judicial ágil, eficaz y proporcionada frente a quienes cometen delitos de manera reiterada, especialmente aquellos que afectan a la seguridad de nuestros barrios, comercios y espacios públicos. Reforzar la coordinación entre la Ertzaintza y la Administración de Justicia para mejorar la prevención, evitar la reiteración delictiva y garantizar la protección de las víctimas, con pleno respeto a las garantías judiciales."
+ },
+ {
+  "id": "pnv-0142",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+  ],
+  "texto": "**Queremos decidir y gestionar mejor la política migratoria. Euskadi necesita capacidad para planificar la acogida, facilitar la integración y responder a las necesidades de su sociedad y de su economía.**"
+ },
+ {
+  "id": "pnv-0143",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Competencias y planificación migratoria"
+  ],
+  "texto": "1. Promover mayores **competencias para Euskadi en materia de migración y extranjería**, avanzando hacia una gestión integral que abarque la llegada, la acogida, la residencia, el trabajo y la integración."
+ },
+ {
+  "id": "pnv-0144",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Competencias y planificación migratoria"
+  ],
+  "texto": "2. Reclamar que Euskadi sea reconocida y tenida en cuenta como **frontera norte** en la planificación y gestión migratoria, con recursos y coordinación adecuados."
+ },
+ {
+  "id": "pnv-0145",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Competencias y planificación migratoria"
+  ],
+  "texto": "3. **Avanzar en la asunción de competencias de extranjería por parte de la Ertzaintza**, mediante los acuerdos y modificaciones normativas necesarios."
+ },
+ {
+  "id": "pnv-0146",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Competencias y planificación migratoria"
+  ],
+  "texto": "4. **Reforzar la planificación y coordinación de los recursos de acogida e integración**, garantizando que las instituciones dispongan de medios suficientes y puedan anticipar las necesidades."
+ },
+ {
+  "id": "pnv-0147",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Competencias y planificación migratoria"
+  ],
+  "texto": "5. **Un modelo de acogida coordinado y adecuado**. Reclamar un acuerdo entre el Estado y las instituciones vascas que garantice la coordinación, la financiación suficiente y una atención digna a las personas solicitantes de protección internacional, **priorizando un modelo de acogida descentralizado y rechazando la implantación de grandes centros como el previsto en Arana, Vitoria-Gasteiz**."
+ },
+ {
+  "id": "pnv-0148",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Permisos, vías legales y empleo"
+  ],
+  "texto": "6. Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo, para reducir los plazos de tramitación y responder a las necesidades laborales y sociales del país."
+ },
+ {
+  "id": "pnv-0149",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Permisos, vías legales y empleo"
+  ],
+  "texto": "7. Promover vías legales, seguras y ordenadas de migración, mediante una gestión planificada y respetuosa con los derechos humanos."
+ },
+ {
+  "id": "pnv-0150",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Permisos, vías legales y empleo"
+  ],
+  "texto": "8. Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras."
+ },
+ {
+  "id": "pnv-0151",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Permisos, vías legales y empleo"
+  ],
+  "texto": "9. **Avanzar en los procesos de regularización previstos en la legislación**, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos."
+ },
+ {
+  "id": "pnv-0152",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Permisos, vías legales y empleo"
+  ],
+  "texto": "10. **Agilizar la homologación y el reconocimiento de titulaciones y cualificaciones profesionales extranjeras**, evitando que los trámites administrativos impidan aprovechar el talento y la formación de las personas migrantes."
+ },
+ {
+  "id": "pnv-0153",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Asilo, acogida e integración"
+  ],
+  "texto": "11. Promover la mejora y agilización de los procedimientos de protección internacional y asilo, garantizando el acceso efectivo a los derechos y las garantías legales de las personas solicitantes."
+ },
+ {
+  "id": "pnv-0154",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Asilo, acogida e integración"
+  ],
+  "texto": "12. Impulsar una política europea común de migración y asilo basada en la solidaridad y la responsabilidad compartida, con una distribución equilibrada de las personas solicitantes de protección internacional y de las personas menores migrantes no acompañadas."
+ },
+ {
+  "id": "pnv-0155",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades",
+   "Asilo, acogida e integración"
+  ],
+  "texto": "13. **Promover la integración social y laboral de las personas migrantes**, favoreciendo su autonomía, su participación en la sociedad vasca y el aprendizaje del euskera como herramienta de integración y convivencia."
+ },
+ {
+  "id": "pnv-0156",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista"
+  ],
+  "texto": "**Los derechos de las mujeres no se negocian. Defenderemos la igualdad efectiva y exigiremos que las leyes se cumplan, con recursos suficientes y una justicia que proteja a las víctimas.**"
+ },
+ {
+  "id": "pnv-0157",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Igualdad y derechos sexuales y reproductivos"
+  ],
+  "texto": "1. Asegurar la aplicación efectiva de las leyes de igualdad y la incorporación de la perspectiva de género en las políticas públicas, desde su elaboración hasta su evaluación."
+ },
+ {
+  "id": "pnv-0158",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Igualdad y derechos sexuales y reproductivos"
+  ],
+  "texto": "2. Asegurar la transposición y aplicación de las Directivas europeas 2024/1499 y 2024/1500, reforzando la independencia y capacidad de actuación de los organismos de igualdad y respetando las competencias y funciones de Emakunde."
+ },
+ {
+  "id": "pnv-0159",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Igualdad y derechos sexuales y reproductivos"
+  ],
+  "texto": "3. **Regular y reconocer la profesión de agente de igualdad**, garantizando el reconocimiento de la formación universitaria especializada y la experiencia profesional acreditada."
+ },
+ {
+  "id": "pnv-0160",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Igualdad y derechos sexuales y reproductivos"
+  ],
+  "texto": "4. **Proteger el ejercicio efectivo de los derechos sexuales y reproductivos de las mujeres**, garantizando el acceso libre y seguro a los servicios sanitarios."
+ },
+ {
+  "id": "pnv-0161",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Igualdad y derechos sexuales y reproductivos"
+  ],
+  "texto": "5. **Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo**, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres."
+ },
+ {
+  "id": "pnv-0162",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Violencia machista y protección judicial"
+  ],
+  "texto": "6. Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025, especialmente en materia de violencia digital, económica y protección de las víctimas."
+ },
+ {
+  "id": "pnv-0163",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Violencia machista y protección judicial"
+  ],
+  "texto": "7. Favorecer una regulación que reconozca y defina adecuadamente la violencia vicaria, garantizando su prevención y tratamiento en los sistemas de protección y atención."
+ },
+ {
+  "id": "pnv-0164",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Violencia machista y protección judicial"
+  ],
+  "texto": "8. **Reforzar la formación obligatoria en perspectiva de género de la judicatura y la Fiscalía**, mediante calendarios de aplicación y evaluaciones periódicas para prevenir estereotipos y evitar la revictimización."
+ },
+ {
+  "id": "pnv-0165",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Violencia machista y protección judicial"
+  ],
+  "texto": "9. Promover nuevos órganos judiciales especializados y reforzar las secciones de Violencia sobre la Mujer en Euskadi, especialmente en Vitoria-Gasteiz y Barakaldo, con medios humanos y materiales suficientes."
+ },
+ {
+  "id": "pnv-0166",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Ayudas, indemnizaciones y reparación"
+  ],
+  "texto": "10. **Equiparar los requisitos y condiciones de acceso a las ayudas económicas estatales para víctimas de violencia de género y de violencias sexuales**, eliminando diferencias injustificadas."
+ },
+ {
+  "id": "pnv-0167",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Ayudas, indemnizaciones y reparación"
+  ],
+  "texto": "11. Asegurar la compatibilidad de las indemnizaciones judiciales por violencia machista con las pensiones no contributivas, evitando que la reparación económica perjudique el acceso a prestaciones sociales."
+ },
+ {
+  "id": "pnv-0168",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.3 Igualdad real y una vida libre de violencia machista",
+   "Ayudas, indemnizaciones y reparación"
+  ],
+  "texto": "12. **Reconocer y reparar las vulneraciones específicas de los derechos de las mujeres durante la dictadura franquista**, especialmente las sufridas por las víctimas del Patronato de Protección a la Mujer, con participación de las víctimas y de Gogora."
+ },
+ {
+  "id": "pnv-0169",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación"
+  ],
+  "texto": "**Nadie debe sufrir discriminación por ser quien es o por amar a quien ama. Defenderemos los derechos conquistados y actuaremos frente a cualquier intento de retroceso.**"
+ },
+ {
+  "id": "pnv-0170",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación",
+   "Aplicación de derechos y protección frente al odio"
+  ],
+  "texto": "1. **Reforzar la prevención, investigación y persecución de los delitos de odio contra las personas LGTBIQ+**, mediante formación especializada y aplicación efectiva de la legislación penal."
+ },
+ {
+  "id": "pnv-0171",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación",
+   "Aplicación de derechos y protección frente al odio"
+  ],
+  "texto": "2. Exigir a las plataformas digitales el cumplimiento del Reglamento europeo de Servicios Digitales, reforzando su respuesta frente a los contenidos ilícitos de odio y discriminación."
+ },
+ {
+  "id": "pnv-0172",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación",
+   "Aplicación de derechos y protección frente al odio"
+  ],
+  "texto": "3. Garantizar la aplicación efectiva de los derechos de las personas LGTBIQ+ y proteger los avances alcanzados frente a cualquier retroceso."
+ },
+ {
+  "id": "pnv-0173",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación",
+   "Prohibición de prácticas discriminatorias y documentación"
+  ],
+  "texto": "5. Favorecer la tipificación penal específica de las prácticas de conversión o aversión dirigidas a modificar la orientación sexual, la identidad sexual o la expresión de género."
+ },
+ {
+  "id": "pnv-0174",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación",
+   "Prohibición de prácticas discriminatorias y documentación"
+  ],
+  "texto": "6. Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023, garantizando procedimientos claros para adecuar la documentación expedida en España a la identidad de género de las personas extranjeras trans."
+ },
+ {
+  "id": "pnv-0175",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos"
+  ],
+  "texto": "**Defender los derechos humanos exige actuar cuando se vulneran, dentro y fuera de nuestras fronteras. No aceptaremos que la seguridad se utilice como excusa para limitar libertades fundamentales.**"
+ },
+ {
+  "id": "pnv-0176",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Garantías democráticas y libertad de expresión"
+  ],
+  "texto": "1. Asegurar la elaboración de un Plan Estatal de Derechos Humanos, con objetivos, medidas, plazos y mecanismos públicos de seguimiento y evaluación."
+ },
+ {
+  "id": "pnv-0177",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Garantías democráticas y libertad de expresión"
+  ],
+  "texto": "2. Impulsar la reforma de la legislación conocida como «ley mordaza», eliminando las restricciones desproporcionadas al ejercicio de derechos y libertades."
+ },
+ {
+  "id": "pnv-0178",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Garantías democráticas y libertad de expresión"
+  ],
+  "texto": "3. Favorecer la reforma del Código Penal en los delitos relacionados con la expresión de opiniones sobre la Corona, las instituciones y los símbolos del Estado, adecuando la legislación a los estándares europeos de libertad de expresión."
+ },
+ {
+  "id": "pnv-0179",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Justicia penal y derechos de personas migrantes"
+  ],
+  "texto": "4. Favorecer la reforma de la Ley Orgánica del Poder Judicial para recuperar una jurisdicción universal efectiva, facilitando la investigación de crímenes internacionales graves y promoviendo la ratificación de los instrumentos internacionales correspondientes."
+ },
+ {
+  "id": "pnv-0180",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Justicia penal y derechos de personas migrantes"
+  ],
+  "texto": "5. **Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción**, respetuoso con los derechos de las personas privadas de libertad."
+ },
+ {
+  "id": "pnv-0181",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Justicia penal y derechos de personas migrantes"
+  ],
+  "texto": "6. **Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras**, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros y la investigación de posibles vulneraciones de derechos."
+ },
+ {
+  "id": "pnv-0182",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Derechos humanos y cooperación internacional"
+  ],
+  "texto": "7. Promover una política exterior comprometida con los derechos humanos y el derecho internacional, manteniendo una posición activa frente a las vulneraciones de derechos y las crisis humanitarias."
+ },
+ {
+  "id": "pnv-0183",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Derechos humanos y cooperación internacional"
+  ],
+  "texto": "8. **Reforzar la cooperación internacional para el desarrollo**, garantizando recursos suficientes y respetando la singularidad y capacidad de actuación del modelo vasco de cooperación."
+ },
+ {
+  "id": "pnv-0184",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "3. Vivir con tranquilidad y con derechos",
+   "3.5 Derechos humanos y libertades sin retrocesos",
+   "Derechos humanos y cooperación internacional"
+  ],
+  "texto": "9. **Mantener el compromiso contra la pena de muerte**, exigiendo garantías jurídicas para las personas condenadas y defendiendo su abolición internacional."
+ },
+ {
+  "id": "pnv-0185",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido"
+  ],
+  "texto": "**_Salud, pensiones, protección social y solidaridad entre generaciones._**\n\nUna pensión que no pierde poder adquisitivo, una cita sanitaria cuando hace falta y apoyo cuando una familia tiene que cuidar: eso es proteger el bienestar. Defenderemos las pensiones públicas y reclamaremos soluciones a las injusticias que afectan a quienes han cotizado durante décadas.\n\nLa sanidad pública necesita profesionales suficientes. Exigiremos que la formación de especialistas responda a las necesidades de Osakidetza y que Euskadi disponga de las competencias y recursos para prestar una atención de calidad.\n\nY cuando llegan una enfermedad grave o la dependencia, las familias no pueden quedar solas. Queremos mejorar la protección de quienes cuidan, agilizar prestaciones y hacer efectivos los derechos ya reconocidos. Cuidar lo conseguido significa que se note cuando más lo necesitas.\n\nSabemos que todavía hay injusticias que corregir. Personas que han trabajado y cotizado durante más de cuarenta años y sufren penalizaciones en su jubilación. Mujeres cuyas pensiones siguen reflejando la desigualdad de toda una trayectoria laboral. Familias que asumen cuidados intensivos sin suficiente reconocimiento. Víctimas del amianto que continúan esperando una reparación que ya les corresponde por ley."
+ },
+ {
+  "id": "pnv-0186",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido"
+  ],
+  "texto": "**No aceptaremos retrocesos en las pensiones ni recortes en los derechos sociales.** Defenderemos su poder adquisitivo, exigiremos que las leyes aprobadas se cumplan y reclamaremos las competencias y los recursos necesarios para que Euskadi pueda seguir fortaleciendo su modelo de bienestar.\n\nPorque cuidar lo que hemos conseguido también significa pensar en las próximas generaciones. Queremos un sistema público sólido, capaz de responder al envejecimiento de la población y a las nuevas necesidades sociales, sin trasladar las dificultades de hoy a quienes vivirán mañana.\n\n**Nuestro compromiso es que en Euskadi nadie tenga que afrontar solo la enfermedad, la dependencia o la vulnerabilidad económica. Y que una vida de trabajo y esfuerzo tenga como recompensa una jubilación digna y tranquila.**"
+ },
+ {
+  "id": "pnv-0187",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+  ],
+  "texto": "**Las pensiones son un derecho. Defenderemos su revalorización, mejoraremos las más bajas y corregiremos las penalizaciones injustas que todavía afectan a muchas personas pensionistas.**"
+ },
+ {
+  "id": "pnv-0188",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Poder adquisitivo y pensiones mínimas"
+  ],
+  "texto": "1. Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC, protegiendo su poder adquisitivo frente al incremento del coste de la vida."
+ },
+ {
+  "id": "pnv-0189",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Poder adquisitivo y pensiones mínimas"
+  ],
+  "texto": "2. Mejorar progresivamente las pensiones mínimas y no contributivas, prestando especial atención a las personas con menores ingresos y en situación de vulnerabilidad."
+ },
+ {
+  "id": "pnv-0190",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Carreras largas y desigualdad en las pensiones"
+  ],
+  "texto": "3. Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados, reconociendo las largas carreras laborales y promoviendo medidas para corregir las penalizaciones que afectan también a quienes ya están jubilados."
+ },
+ {
+  "id": "pnv-0191",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Carreras largas y desigualdad en las pensiones"
+  ],
+  "texto": "4. **Reducir la brecha de género en las pensiones**, compensando las interrupciones laborales, las reducciones de jornada y las lagunas de cotización derivadas del cuidado de descendientes y familiares dependientes."
+ },
+ {
+  "id": "pnv-0192",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Carreras largas y desigualdad en las pensiones"
+  ],
+  "texto": "5. Asegurar el reconocimiento efectivo de los periodos dedicados a los cuidados familiares en la Seguridad Social, tanto para acceder a la jubilación como para calcular la cuantía de las pensiones."
+ },
+ {
+  "id": "pnv-0193",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Carreras largas y desigualdad en las pensiones"
+  ],
+  "texto": "6. Favorecer coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social, reconociendo el desgaste físico y emocional de los cuidados prolongados."
+ },
+ {
+  "id": "pnv-0194",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Sostenibilidad y previsión complementaria"
+  ],
+  "texto": "7. Abogar por un sistema público de pensiones suficiente, sostenible y basado en la solidaridad entre generaciones, reforzando sus fuentes de financiación y promoviendo acuerdos estables en el marco del Pacto de Toledo."
+ },
+ {
+  "id": "pnv-0195",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Sostenibilidad y previsión complementaria"
+  ],
+  "texto": "8. **Favorecer la extensión de los sistemas de previsión social de empleo**, especialmente mediante la negociación colectiva y con participación de empresas y personas trabajadoras, como complemento y nunca como sustitución de las pensiones públicas."
+ },
+ {
+  "id": "pnv-0196",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.1 Pensiones dignas y justicia para las largas carreras de cotización",
+   "Gestión de la Seguridad Social"
+  ],
+  "texto": "9. Asegurar la culminación de la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social, conforme al Estatuto de Gernika, respetando el carácter unitario del sistema y el principio de solidaridad."
+ },
+ {
+  "id": "pnv-0197",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos"
+  ],
+  "texto": "**Defender una sanidad pública de calidad significa garantizar profesionales suficientes, una formación adecuada y capacidad para atender las necesidades de la ciudadanía. Exigiremos que el Estado cumpla sus responsabilidades y respete las competencias sanitarias de Euskadi.**"
+ },
+ {
+  "id": "pnv-0198",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Profesionales y formación especializada"
+  ],
+  "texto": "1. Formar más especialistas sanitarios donde se necesitan, adaptando el sistema MIR para adecuar la oferta de plazas a las necesidades reales de profesionales, evitar que queden vacantes y agilizar la acreditación de nuevas unidades docentes."
+ },
+ {
+  "id": "pnv-0199",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Profesionales y formación especializada"
+  ],
+  "texto": "2. **Permitir la valoración del conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada**, en los territorios con más de una lengua oficial."
+ },
+ {
+  "id": "pnv-0200",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Profesionales y formación especializada"
+  ],
+  "texto": "3. **Reforzar la planificación de profesionales sanitarios**, mejorando la coordinación entre la oferta de formación especializada y las necesidades de los sistemas públicos de salud."
+ },
+ {
+  "id": "pnv-0201",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Medicamentos, investigación y tratamientos"
+  ],
+  "texto": "4. Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales encargados de autorizar, registrar y fijar los precios de los medicamentos, incorporando las necesidades de sus respectivos sistemas sanitarios a la toma de decisiones."
+ },
+ {
+  "id": "pnv-0202",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Medicamentos, investigación y tratamientos"
+  ],
+  "texto": "5. Favorecer la investigación y mejorar la atención a las personas con enfermedades raras y neurodegenerativas, incluido el Alzheimer, favoreciendo el acceso a medicamentos huérfanos y tratamientos especializados."
+ },
+ {
+  "id": "pnv-0203",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Medicamentos, investigación y tratamientos"
+  ],
+  "texto": "6. Favorecer la regulación del uso medicinal del cannabis, estableciendo las condiciones sanitarias y de seguridad necesarias para su utilización terapéutica."
+ },
+ {
+  "id": "pnv-0204",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Competencias y condiciones profesionales"
+  ],
+  "texto": "7. **Culminar las transferencias sanitarias pendientes a Euskadi**, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior."
+ },
+ {
+  "id": "pnv-0205",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Competencias y condiciones profesionales"
+  ],
+  "texto": "8. Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas, reconociendo la especificidad del trabajo médico y garantizando una memoria económica que permita aplicar los acuerdos."
+ },
+ {
+  "id": "pnv-0206",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.2 Una sanidad pública que responda cuando la necesitamos",
+   "Competencias y condiciones profesionales"
+  ],
+  "texto": "9. Favorecer una solución dialogada a los conflictos laborales del ámbito sanitario, evitando que sus consecuencias recaigan sobre las personas pacientes y los servicios públicos de salud."
+ },
+ {
+  "id": "pnv-0207",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos"
+  ],
+  "texto": "**Miles de personas sostienen los cuidados de familiares dependientes, muchas veces a costa de su empleo, su salud y sus ingresos. Queremos que ese esfuerzo tenga reconocimiento y protección.**"
+ },
+ {
+  "id": "pnv-0208",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos",
+   "Reconocimiento económico y prestaciones"
+  ],
+  "texto": "1. Favorecer una prestación económica digna para las personas cuidadoras no profesionales que hayan abandonado su actividad laboral o reducido su jornada para atender a familiares dependientes, tomando como referencia el salario mínimo y la intensidad de los cuidados."
+ },
+ {
+  "id": "pnv-0209",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos",
+   "Reconocimiento económico y prestaciones"
+  ],
+  "texto": "2. **Revisar la normativa para facilitar la compatibilidad entre prestaciones económicas y servicios de apoyo a los cuidados**, evitando que las familias tengan que renunciar a recursos necesarios."
+ },
+ {
+  "id": "pnv-0210",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos",
+   "Servicios y apoyos comunitarios"
+  ],
+  "texto": "3. **Reforzar los servicios de apoyo, descanso y respiro para las familias cuidadoras**, mediante la colaboración y financiación de las administraciones competentes."
+ },
+ {
+  "id": "pnv-0211",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos",
+   "Servicios y apoyos comunitarios"
+  ],
+  "texto": "4. Favorecer un Fondo Personal para Cuidados en la Comunidad, que permita combinar prestaciones, servicios y apoyos de acuerdo con las necesidades de cada persona, respetando las competencias de las instituciones vascas."
+ },
+ {
+  "id": "pnv-0212",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia"
+  ],
+  "texto": "**Una enfermedad grave no puede convertirse también en una situación de desprotección económica o social. Cuando una ley reconoce un derecho, las instituciones tienen la obligación de hacerlo efectivo.**"
+ },
+ {
+  "id": "pnv-0213",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia",
+   "Cumplimiento de la Ley ELA"
+  ],
+  "texto": "1. Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA, garantizando que las personas con esclerosis lateral amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible reciban las prestaciones, la atención y los apoyos reconocidos legalmente."
+ },
+ {
+  "id": "pnv-0214",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia",
+   "Protección de personas electrodependientes"
+  ],
+  "texto": "2. Promover la aprobación de un Real Decreto de Electrodependencia, que reconozca las necesidades de las personas que utilizan dispositivos médicos eléctricos esenciales para su supervivencia."
+ },
+ {
+  "id": "pnv-0215",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia",
+   "Protección de personas electrodependientes"
+  ],
+  "texto": "3. Asegurar la protección frente a cortes de suministro eléctrico de las personas electrodependientes, así como su acceso al bono social en la categoría de consumidor vulnerable severo y a bonificaciones por el consumo de los equipos médicos imprescindibles."
+ },
+ {
+  "id": "pnv-0216",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia",
+   "Prestaciones para cuidados de menores"
+  ],
+  "texto": "4. **Evaluar anualmente la prestación por cuidado de menores afectados por cáncer u otras enfermedades graves (CUME)**, identificando y corrigiendo las dificultades que impiden a las familias acceder a ella."
+ },
+ {
+  "id": "pnv-0217",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.4 Protección efectiva ante las enfermedades graves y la dependencia",
+   "Prestaciones para cuidados de menores"
+  ],
+  "texto": "5. **Estudiar la extensión de la prestación CUME al personal funcionario público**, garantizando su compatibilidad con los permisos existentes y evitando la pérdida de derechos."
+ },
+ {
+  "id": "pnv-0218",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.5 Reparación justa y sin más retrasos para las víctimas del amianto"
+  ],
+  "texto": "**Las víctimas del amianto no pueden seguir esperando. El fondo de compensación debe funcionar, reconocer a todas las personas beneficiarias y garantizar indemnizaciones justas.**"
+ },
+ {
+  "id": "pnv-0219",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.5 Reparación justa y sin más retrasos para las víctimas del amianto",
+   "Acceso y funcionamiento del fondo"
+  ],
+  "texto": "1. **Reformar el Real Decreto 483/2025 para corregir las dificultades de acceso al fondo**, garantizando su aplicación a todos los colectivos beneficiarios previstos en la Ley 21/2022."
+ },
+ {
+  "id": "pnv-0220",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.5 Reparación justa y sin más retrasos para las víctimas del amianto",
+   "Acceso y funcionamiento del fondo"
+  ],
+  "texto": "2. **Revisar las cuantías indemnizatorias y simplificar los procedimientos de reconocimiento y pago**, eliminando obstáculos administrativos que retrasan las compensaciones."
+ },
+ {
+  "id": "pnv-0221",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.5 Reparación justa y sin más retrasos para las víctimas del amianto",
+   "Fiscalidad de las indemnizaciones"
+  ],
+  "texto": "3. **Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto**, evitando que las personas afectadas pierdan parte de la reparación que les corresponde."
+ },
+ {
+  "id": "pnv-0222",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.5 Reparación justa y sin más retrasos para las víctimas del amianto",
+   "Financiación y plazos"
+  ],
+  "texto": "4. Asegurar una dotación presupuestaria suficiente, plazos ágiles de resolución y criterios homogéneos, garantizando que las indemnizaciones lleguen a las víctimas y sus familias sin demoras ni desigualdades."
+ },
+ {
+  "id": "pnv-0223",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones"
+  ],
+  "texto": "**Una sociedad que protege sus derechos sociales debe garantizar también que ningún niño o niña crezca sin oportunidades. Queremos que la protección social llegue a quienes más la necesitan y que pueda sostenerse en el tiempo.**"
+ },
+ {
+  "id": "pnv-0224",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Pobreza infantil y protección frente a la violencia"
+  ],
+  "texto": "1. **Reforzar las políticas de prevención y lucha contra la pobreza infantil**, garantizando una protección adecuada a la infancia y la adolescencia en situación de vulnerabilidad y respetando las competencias de las instituciones vascas."
+ },
+ {
+  "id": "pnv-0225",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Pobreza infantil y protección frente a la violencia"
+  ],
+  "texto": "2. Asegurar la protección de la infancia frente a la violencia y la explotación, reforzando la aplicación de la legislación vigente y los mecanismos de coordinación entre administraciones."
+ },
+ {
+  "id": "pnv-0226",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Pobreza infantil y protección frente a la violencia"
+  ],
+  "texto": "3. Promover órganos judiciales especializados en infancia y adolescencia en Euskadi, con profesionales formados y procedimientos adaptados a sus necesidades para evitar la revictimización."
+ },
+ {
+  "id": "pnv-0227",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Seguridad digital de la infancia"
+  ],
+  "texto": "4. **Reforzar las obligaciones de las plataformas digitales para proteger a la infancia**, especialmente frente al ciberacoso, la violencia sexual digital y el uso indebido de datos e imágenes."
+ },
+ {
+  "id": "pnv-0228",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Seguridad digital de la infancia"
+  ],
+  "texto": "5. Favorecer mecanismos proporcionados de verificación de edad, denuncia y retirada de contenidos ilícitos, respetando los derechos y la privacidad de las personas menores de edad."
+ },
+ {
+  "id": "pnv-0229",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Sostenibilidad intergeneracional"
+  ],
+  "texto": "6. Apoyar una financiación suficiente y sostenible del sistema público de protección social, que permita responder al envejecimiento de la población, la dependencia y las necesidades de las generaciones presentes y futuras."
+ },
+ {
+  "id": "pnv-0230",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "4. Cuidar lo que hemos conseguido",
+   "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones",
+   "Sostenibilidad intergeneracional"
+  ],
+  "texto": "7. Favorecer acuerdos estables entre administraciones para afrontar los cambios demográficos y las nuevas necesidades sociales, garantizando el respeto a las competencias de Euskadi y una gestión cercana de los servicios públicos."
+ },
+ {
+  "id": "pnv-0231",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí."
+  ],
+  "texto": "**_Autogobierno, democracia, justicia, instituciones y voz propia en Europa._**\n\nQueremos decidir en Euskadi sobre lo que afecta a nuestra vida cotidiana. Más capacidad de gestión significa poder responder mejor en vivienda, empleo, sanidad, seguridad y servicios públicos, sin depender de decisiones tomadas lejos de nuestra realidad.\n\nEn Madrid defenderemos el cumplimiento íntegro del Estatuto de Gernika, el Concierto Económico y las inversiones comprometidas. Cada transferencia pendiente y cada acuerdo incumplido tiene consecuencias concretas para Euskadi. Exigiremos calendarios y resultados verificables.\n\nY defenderemos nuestra voz en Europa y el respeto a nuestras instituciones. Negociar es útil cuando sirve para conseguir avances; exigir es imprescindible cuando los compromisos no se cumplen. Esa será nuestra forma de trabajar, gobierne quien gobierne.\n\n**Defender el autogobierno es defender nuestra capacidad para mejorar la vida de las personas.** Por eso exigiremos el cumplimiento íntegro del Estatuto de Gernika y protegeremos las competencias que ya ejercemos. No aceptaremos que los acuerdos se retrasen indefinidamente ni que las leyes estatales vacíen de contenido las decisiones que corresponden a Euskadi."
+ },
+ {
+  "id": "pnv-0232",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí."
+  ],
+  "texto": "Pero queremos ir más allá. Aspiramos a una nueva relación política con el Estado, basada en el reconocimiento de Euskadi como nación, el pacto, la bilateralidad y el respeto a la voluntad democrática de la sociedad vasca. Una relación en la que los acuerdos tengan garantías efectivas de cumplimiento y ninguna de las partes pueda modificarlos unilateralmente.\n\nTambién queremos instituciones transparentes y una democracia que no deje preguntas sin responder. Exigiremos conocer la verdad sobre las vulneraciones de derechos humanos que siguen pendientes de esclarecimiento, garantizar la reparación de todas las víctimas y acabar con una legislación de secretos oficiales que permite mantener ocultos documentos durante décadas.\n\nY queremos que Euskadi tenga voz propia en Europa. Nuestra industria, el sector primario, las infraestructuras y las políticas públicas dependen cada vez más de decisiones europeas. Euskadi debe poder participar directamente en ellas y gestionar los recursos que le corresponden, sin tutelas ni recentralizaciones.\n\n**EAJ-PNV estará en Madrid para defender los intereses de Euskadi, acordar cuando los acuerdos sean beneficiosos y exigir cuando el Estado incumpla.** Con voz propia, sin subordinaciones y con la determinación de conseguir que nuestro país tenga cada vez más capacidad para decidir su futuro."
+ },
+ {
+  "id": "pnv-0233",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+  ],
+  "texto": "**El Estatuto de Gernika es un acuerdo que debe cumplirse. Exigiremos todas las competencias pendientes y defenderemos las que ya ejercemos frente a cualquier intento de recentralización.**"
+ },
+ {
+  "id": "pnv-0234",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Cumplimiento del Estatuto y defensa de competencias"
+  ],
+  "texto": "1. Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes, garantizando que las competencias reconocidas puedan ejercerse de forma efectiva y con los recursos correspondientes."
+ },
+ {
+  "id": "pnv-0235",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Cumplimiento del Estatuto y defensa de competencias"
+  ],
+  "texto": "2. **Rechazar cualquier intento de recentralización, invasión o vaciamiento de las competencias vascas**, tanto mediante reformas legislativas como a través de decisiones administrativas o presupuestarias."
+ },
+ {
+  "id": "pnv-0236",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Relación bilateral y Derechos Históricos"
+  ],
+  "texto": "3. **Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado**, que permitan verificar su cumplimiento y resolver las diferencias institucionales."
+ },
+ {
+  "id": "pnv-0237",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Relación bilateral y Derechos Históricos"
+  ],
+  "texto": "4. Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi, como fundamento de una relación política basada en el pacto, la bilateralidad y el respeto mutuo."
+ },
+ {
+  "id": "pnv-0238",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Realidades territoriales y derechos democráticos"
+  ],
+  "texto": "5. **Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra**, respetando su capacidad de decisión y el desarrollo de su autogobierno."
+ },
+ {
+  "id": "pnv-0239",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+   "Realidades territoriales y derechos democráticos"
+  ],
+  "texto": "6. Apoyar el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a pronunciarse democráticamente sobre su futuro, incluida, en su caso, la incorporación al territorio histórico correspondiente de Euskadi, mediante los procedimientos legales y el diálogo institucional necesarios."
+ },
+ {
+  "id": "pnv-0240",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político"
+  ],
+  "texto": "**El Concierto Económico nos permite gestionar nuestros recursos y desarrollar políticas propias. Lo defenderemos frente a cualquier ataque y, asimismo, queremos extender los principios del pacto y la bilateralidad en los que se basa a nuestra relación política con el Estado.**"
+ },
+ {
+  "id": "pnv-0241",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+   "Concierto Económico"
+  ],
+  "texto": "1. Aumentar nuestras capacidades financiero-fiscales promoviendo la modificación de la Ley del Concierto económico y el convenio económico."
+ },
+ {
+  "id": "pnv-0242",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+   "Concierto Económico"
+  ],
+  "texto": "2. Asegurar que las reformas fiscales y presupuestarias estatales respeten el Concierto Económico, la autonomía financiera de Euskadi y los mecanismos propios de relación y coordinación con el Estado."
+ },
+ {
+  "id": "pnv-0243",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+   "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+  ],
+  "texto": "3. Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones."
+ },
+ {
+  "id": "pnv-0244",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+   "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+  ],
+  "texto": "4. Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional."
+ },
+ {
+  "id": "pnv-0245",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+   "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+  ],
+  "texto": "5. **Establecer mecanismos de prevención y resolución de conflictos entre Euskadi y el Estado**, con garantías imparciales que impidan el incumplimiento, el vaciamiento o la modificación unilateral de los acuerdos."
+ },
+ {
+  "id": "pnv-0246",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi"
+  ],
+  "texto": "**Queremos una justicia eficaz, cercana y adaptada a nuestra realidad. Euskadi debe disponer de mayores capacidades para organizar su sistema judicial y garantizar un mejor servicio a la ciudadanía.**"
+ },
+ {
+  "id": "pnv-0247",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+   "Organización y gobierno judicial"
+  ],
+  "texto": "1. Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco, ante el que se agoten las sucesivas instancias procesales, incluidos los recursos de casación o la última instancia que proceda, con la única excepción de la jurisdicción reservada al Tribunal Supremo."
+ },
+ {
+  "id": "pnv-0248",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+   "Organización y gobierno judicial"
+  ],
+  "texto": "2. Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico."
+ },
+ {
+  "id": "pnv-0249",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+   "Policía judicial"
+  ],
+  "texto": "3. Promover el reconocimiento de la Ertzaintza como Policía judicial en el ámbito vasco, con capacidad plena para ejercer las funciones correspondientes."
+ },
+ {
+  "id": "pnv-0250",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas"
+  ],
+  "texto": "**No puede haber una democracia plenamente responsable mientras existan hechos graves sin esclarecer y documentos oficiales que permanecen ocultos durante décadas. Queremos conocer la verdad y garantizar los derechos de todas las víctimas.**"
+ },
+ {
+  "id": "pnv-0251",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Ley de Secretos Oficiales"
+  ],
+  "texto": "1. Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática."
+ },
+ {
+  "id": "pnv-0252",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Desclasificación y esclarecimiento de hechos"
+  ],
+  "texto": "2. Promover la desclasificación de los documentos oficiales relacionados con los sucesos del 3 de marzo de 1976 en Vitoria-Gasteiz, para contribuir al esclarecimiento de los hechos y al reconocimiento y reparación de las víctimas."
+ },
+ {
+  "id": "pnv-0253",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Desclasificación y esclarecimiento de hechos"
+  ],
+  "texto": "3. Asegurar el esclarecimiento de las circunstancias de la muerte de Mikel Zabalza, facilitando el acceso a la documentación oficial que pueda contribuir a conocer la verdad."
+ },
+ {
+  "id": "pnv-0254",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Desclasificación y esclarecimiento de hechos"
+  ],
+  "texto": "4. Promover la desclasificación de la documentación relacionada con el atentado del bar Aldana de Alonsotegi, ocurrido el 20 de enero de 1980, y el esclarecimiento de los hechos y las responsabilidades correspondientes."
+ },
+ {
+  "id": "pnv-0255",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Desclasificación y esclarecimiento de hechos"
+  ],
+  "texto": "5. Asegurar el acceso a la documentación oficial sobre la actuación policial durante los Sanfermines de 1978, para avanzar en el conocimiento de la verdad y la reparación de las víctimas."
+ },
+ {
+  "id": "pnv-0256",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Memoria democrática y rendición de cuentas"
+  ],
+  "texto": "6. Promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática, garantizando los derechos a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y la dictadura franquista."
+ },
+ {
+  "id": "pnv-0257",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+   "Memoria democrática y rendición de cuentas"
+  ],
+  "texto": "7. **Reforzar la transparencia y la rendición de cuentas de las administraciones públicas**, garantizando el acceso de la ciudadanía a información comprensible sobre sus decisiones, presupuestos y resultados."
+ },
+ {
+  "id": "pnv-0258",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa"
+  ],
+  "texto": "**Euskadi necesita estar donde se decide su futuro. Queremos participar directamente en las decisiones europeas que afectan a nuestras competencias, nuestra economía y nuestra sociedad.**"
+ },
+ {
+  "id": "pnv-0259",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Participación institucional y reconocimiento europeo"
+  ],
+  "texto": "1. Asegurar la participación directa y efectiva de Euskadi en las instituciones de la Unión Europea, especialmente en aquellas decisiones relacionadas con sus competencias."
+ },
+ {
+  "id": "pnv-0260",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Participación institucional y reconocimiento europeo"
+  ],
+  "texto": "2. Impulsar la presencia con voz propia de Euskadi en las distintas formaciones del Consejo de la Unión Europea, particularmente en el Consejo ECOFIN y en el Consejo de Justicia y Asuntos de Interior, cuando se aborden materias vinculadas a nuestras competencias."
+ },
+ {
+  "id": "pnv-0261",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Participación institucional y reconocimiento europeo"
+  ],
+  "texto": "3. Favorecer el reconocimiento y la representación de las realidades nacionales en las instituciones europeas, incluido el Parlamento Europeo."
+ },
+ {
+  "id": "pnv-0262",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Participación institucional y reconocimiento europeo"
+  ],
+  "texto": "4. Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea, garantizando su presencia y utilización efectiva en las instituciones comunitarias."
+ },
+ {
+  "id": "pnv-0263",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Prioridades económicas y cooperación atlántica"
+  ],
+  "texto": "5. Apoyar una Europa más democrática, competitiva y social, capaz de reforzar su autonomía estratégica, proteger su industria y responder a los desafíos tecnológicos, energéticos y climáticos."
+ },
+ {
+  "id": "pnv-0264",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Prioridades económicas y cooperación atlántica"
+  ],
+  "texto": "6. Favorecer la creación de una Macrorregión Atlántica Europea, para reforzar la cooperación en infraestructuras ferroviarias y energéticas, industria, digitalización, pesca, economía azul, sostenibilidad y relaciones con el Reino Unido."
+ },
+ {
+  "id": "pnv-0265",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.5 Euskadi con voz propia en Europa",
+   "Prioridades económicas y cooperación atlántica"
+  ],
+  "texto": "7. Asegurar el cumplimiento de los plazos de las redes transeuropeas de transporte, especialmente en las conexiones ferroviarias transfronterizas que unen Euskadi con el resto de Europa."
+ },
+ {
+  "id": "pnv-0266",
+  "partido": "pnv",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi"
+  ],
+  "texto": "**Los recursos europeos deben responder a las necesidades reales de nuestros territorios. No aceptaremos que la gestión de los fondos sirva para recentralizar competencias o alejar las decisiones de quienes conocen mejor las necesidades de Euskadi.**"
+ },
+ {
+  "id": "pnv-0267",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+   "Programación de fondos europeos"
+  ],
+  "texto": "1. Asegurar la participación efectiva de Euskadi en la elaboración y gestión del Marco Financiero Plurianual europeo 2028-2034, interviniendo en la definición de prioridades, el reparto de recursos y la toma de decisiones."
+ },
+ {
+  "id": "pnv-0268",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+   "Programación de fondos europeos"
+  ],
+  "texto": "2. Impulsar la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado."
+ },
+ {
+  "id": "pnv-0269",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+   "Gestión, seguimiento y financiación"
+  ],
+  "texto": "3. Asegurar que Euskadi participe directamente en los mecanismos de programación, ejecución y seguimiento de los fondos europeos que afecten a sus ámbitos competenciales."
+ },
+ {
+  "id": "pnv-0270",
+  "partido": "pnv",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "5. Decidir aquí. Hacernos escuchar allí.",
+   "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+   "Gestión, seguimiento y financiación"
+  ],
+  "texto": "4. Promover una financiación europea adecuada para las prioridades industriales, energéticas, tecnológicas, sociales y territoriales de Euskadi, garantizando que las decisiones sobre los recursos respondan a las necesidades de nuestro país."
+ },
+ {
+  "id": "bildu-0001",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Nuestro compromiso"
+  ],
+  "texto": "Nos encontramos ante una encrucijada histórica: avanzar en derechos y libertades para nuestro pueblo y la mayoría social, o retroceder hacia los recortes, la negación y la imposición. Una encrucijada entre democracia y autoritarismo. Entre avance y retroceso.\n\nFrente a ello, vascos y vascas debemos ser el muro de contención frente a la involución, pero también el motor para los avances. Ese es nuestro compromiso, frenar al bloque reaccionario, y avanzar en derechos y libertades. Y sí, este es el programa para lograr ese objetivo, el de avanzar y lograr nuevas conquistas que mejoren la vida de los vascos y las vascas."
+ },
+ {
+  "id": "bildu-0002",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Nuestro compromiso"
+  ],
+  "texto": "Son muchos los logros y avances que hemos conseguido para la ciudadanía vasca estos últimos años en Madrid. Hemos aumentado las pensiones mínimas de viudedad y no contributivas; hemos aprobado nuevas medidas en materia de Vivienda y también los decretos de emergencia junto al escudo social; hemos aumentado el impuesto a la banca y las grandes fortunas logrando la gestión propia para nuestras haciendas forales; hemos avanzado en la recuperación de nuestra memoria histórica convirtiendo en lugares de Memoria el palacio de La Cumbre y el fuerte de San Cristóbal o impulsando el Memorial del 3 de Marzo; hemos reforzado el respeto hacia el euskera y hemos logrado nuevas competencias y herramientas para nuestro pais; y también hemos logrado más de 200 millones de euros en inversiones en nuestros pueblos y ciudades para la mejora de los transportes, proyectos culturales, transición ecológica, accesibilidad, cuidados, educación o infraestructuras. Y hemos hecho todo ello, además de apoyar con nuestros votos todos los avances sociales y de justicia social que se han producido los últimos años. Dijimos que lo haríamos, y lo hemos hecho."
+ },
+ {
+  "id": "bildu-0003",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "Nuestro compromiso"
+  ],
+  "texto": "Lo hemos hecho además con responsabilidad, con altura de miras y sin perder nunca nuestros valores y principios Hemos empujado para que cada nueva medida, cada nueva decisión, cada nuevo avance, haya sido más profundo, más ambicioso, haya llegado más allá. Hemos sido y seremos garantía de trabajo, capacidad y honestidad.\n\nEste es nuestro compromiso con la sociedad vasca, seguir trabajando de manera seria y rigurosa para lograr mucho más, para ofrecer mucho más a nuestro país y nuestra gente. Estamos preparados y preparadas para dar lo mejor de nosotras una vez más.\n\nPor eso, este programa recoge las principales líneas de actuación que llevaremos a cabo en el Congreso y en el Senado durante la próxima legislatura con el objetivo de ofrecer soluciones a los problemas y anhelos de las y los vascos. Un trabajo que, con la fuerza de la ciudadanía vasca, volverá a dar frutos."
+ },
+ {
+  "id": "bildu-0004",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "Que toda persona pueda contar con una vivienda digna y asequible es un derecho básico que se debe garantizar. Para ello, es necesario romper con las reglas actuales y cambiar de raíz el mercado de la vivienda, convertido hoy en un negocio basado en la especulación y el rentismo. Por eso se deberán tomar medidas que ofrezcan seguridad, estabilidad y garantías de acceso para toda persona que necesite un hogar, interviniendo el mercado y regulando el uso de los alojamientos, acabando con la especulación, impidiendo los desahucios, estableciendo regulaciones de los precios y aportando seguridad mediante contratos duraderos y prorrogables automáticamente. Todo ello con el objetivo de asegurar la función social de la vivienda. Para ello:"
+ },
+ {
+  "id": "bildu-0005",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Establecer contratos de arrendamiento ordinarios con prórroga automática como mecanismo para ofrecer estabilidad y seguridad a inquilinas e inquilinos y también a pequeños propietarios."
+ },
+ {
+  "id": "bildu-0006",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Establecer de manera estructural y permanente la prohibición de desahucios para personas y familias vulnerables sin alternativa habitacional, acompañado del mecanismo de compensación con financiación estatal."
+ },
+ {
+  "id": "bildu-0007",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Un mecanismo especial de financiación estatal dirigido a ayuntamientos que hayan aplicado y declarado zonas tensionadas, para impulsar el desarrollo de los planes de vivienda locales asociados a la declaración y regulación del alquiler."
+ },
+ {
+  "id": "bildu-0008",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Presentaremos de nuevo la Proposición de Ley para prohibir la publicidad y contratación de pisos turísticos ilegales por parte de las plataformas digitales, tomada en consideración por el pleno, pero bloqueada en su tramitación."
+ },
+ {
+  "id": "bildu-0009",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Prohibición de la compra especulativa de viviendas por parte de entidades jurídicas con ánimo de lucro, fondos de inversión y persona gran tenedora física o jurídica."
+ },
+ {
+  "id": "bildu-0010",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Condicionar la compra de vivienda por parte de extranjeros multipropietarios a la inscripción en el padrón municipal durante al menos los 2 años previos a la compra de vivienda. El inmueble adquirido deberá dedicarse a vivienda habitual y efectiva del propietario o a alquiler regulado bajo los índices de precios de referencia."
+ },
+ {
+  "id": "bildu-0011",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- La compra de edificios completos de inmuebles quedará condicionada a que su finalidad/destino sea el de alquiler regulado en función de los índices de precios, quedando prohibida la compra con finalidad turística o especulativa."
+ },
+ {
+  "id": "bildu-0012",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Establecer de manera estructural el máximo de 2% de actualización anual de renta en los contratos de arrendamiento, siempre que el IPC interanual a fecha de actualización supere este porcentaje."
+ },
+ {
+  "id": "bildu-0013",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Eliminar cualquier deducción fiscal cuando se produzca incremento de renta sobre el anterior contrato o sobre el índice de precios de referencia."
+ },
+ {
+  "id": "bildu-0014",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Establecer un IVA del 21% para alojamientos turísticos de corta duración."
+ },
+ {
+  "id": "bildu-0015",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.1. Vivienda"
+  ],
+  "texto": "- Eliminar las SOCIMIs como figura promotora de vivienda, acabando así con las ventajas y privilegios fiscales de las que gozan, la concentración de capital especulativo en el parque residencial que promueven y el impacto en el alza de precios del mercado que generan."
+ },
+ {
+  "id": "bildu-0016",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "Lograr salarios dignos y suficientes, condiciones laborales justas y defender los derechos de la mayoría trabajadora serán los objetivos a lograr en el ámbito laboral. Condiciones mínimas para que los y las trabajadoras cuenten con medios materiales para una vida digna. Por eso, propondremos:"
+ },
+ {
+  "id": "bildu-0017",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Reducción de la jornada laboral hasta las 32 horas semanales o la jornada de 4 días sin reducción salarial. Con el objetivo de posibilitar la correcta adaptación de las micro, pequeñas y medianas empresas, para estas empresas se establecerá una reducción inicial hasta las 35 horas semanales, con una senda progresiva durante el plazo máximo de 3 años hasta alcanzar el objetivo. La reducción se establecerá mediante reforma de Ley del Estatuto de los Trabajadores."
+ },
+ {
+  "id": "bildu-0018",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Establecer la adaptación a la realidad socioeconómica mediante un SMI propio, que permita alcanzar valores de suficiencia, evitando la pérdida de poder adquisitivo de los sectores más dependientes del Salario Mínimo Interprofesional como jóvenes, mujeres y sectores vulnerables. Para ello:\n - Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.\n - Establecer por ley, como parámetro de suficiencia para el establecimiento de las cuantías, la referencia que establece la Carta Social Europea.\n - Adoptar las medidas que impidan a las empresas la absorción de los aumentos mediante pluses y complementos.\n - Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes:\n - Indemnización por despido improcedente de al menos 45 días, cumpliendo con la resolución del Comité Europeo de Derechos Sociales de establecer indemnizaciones disuasorias y suficientes\n - Salarios de tramitación.\n - Recuperar en el Estatuto de los Trabajadores la necesaria autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo, con el objetivo de proteger el empleo y la viabilidad de la actividad empresarial.\n - Medidas específicas orientadas a reducir la precariedad, temporalidad y parcialidad que aún afectan especialmente a sectores como mujeres y personas jóvenes, con el objetivo de reducir la brecha salarial existente."
+ },
+ {
+  "id": "bildu-0019",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Acabar con la práctica del uso abusivo de las horas extras, muchas de ellas no remuneradas o compensadas con descanso, mediante la implantación del registro horario digital obligatorio accesible a la Inspección de Trabajo, así como establecer por ley el recargo de las horas extras."
+ },
+ {
+  "id": "bildu-0020",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Control de las extinciones de contrato por no superar el periodo de prueba para evitar que el período sea utilizado para encubrir contrataciones fraudulentas y despidos sin causa. Mediante la negociación colectiva se fijará la duración del periodo de prueba y a falta de pacto colectivo se fijará un periodo máximo de 3 meses para el personal técnico titulado y un mes para el resto."
+ },
+ {
+  "id": "bildu-0021",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Reformar los sistemas de atención y tramitación de la administración laboral en las prestaciones y desempleo, aumentando para ello recursos y plantillas que aseguren el acceso y tramitación en tiempo y forma tanto presencial como electrónicamente para todas las personas que necesiten estos servicios."
+ },
+ {
+  "id": "bildu-0022",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Defender una verdadera inclusión laboral de las personas con discapacidad con mejoras en la inclusión laboral a través del cumplimiento real y efectivo de la cuota de reserva de empleo en las empresas, en coherencia a la Observación General nº 8 del Comité sobre los Derechos de las Personas con Discapacidad, en relación con el derecho a un trabajo libremente elegido o aceptado, en igualdad de condiciones con el resto de la población. Para ello, proponemos garantizar puestos accesibles, apoyos al empleo, adaptaciones, carrera profesional, estabilidad y políticas activas que permitan participar en igualdad en el mercado laboral."
+ },
+ {
+  "id": "bildu-0023",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- El reconocimiento y establecimiento efectivo del Marco Vasco y Navarro de Relaciones Laborales para la negociación colectiva para que atienda a la realidad sindical, laboral, social y económica propia."
+ },
+ {
+  "id": "bildu-0024",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Agilizar los trámites de homologación y equivalencias de las titulaciones extranjeras como mecanismo necesario en los procesos de inclusión socio-laboral."
+ },
+ {
+  "id": "bildu-0025",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Realizar mejoras en las condiciones laborales de las empleadas de hogar para una equiparación laboral plena con el resto de trabajadores y trabajadoras a través de una revisión estricta del régimen de internas, una revisión en el reconocimiento de enfermedades profesionales, una Inspección de Trabajo que persiga eficazmente los abusos y los excesos de jornada en los domicilios, y la eliminación de trabas para el cobro de las prestaciones por desempleo y pensiones, así como la promoción de la negociación colectiva para hacer posible la regulación y mejoras de las condiciones laborales en el empleo de hogar a través de un convenio colectivo."
+ },
+ {
+  "id": "bildu-0026",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Transferencia completa de la competencia de Inspección de Trabajo incluida la capacidad para realizar las convocatorias para la cobertura de las plazas necesarias, todo ello con el objetivo de contar con un instrumento fundamental para la protección de los y las trabajadoras. Transitoriamente, y hasta que la transferencia sea efectiva, realizar convocatorias para ampliar las plantillas de la Inspección de Trabajo, compromiso adoptado con nuestras instituciones, pero no ejecutado por el Ministerio."
+ },
+ {
+  "id": "bildu-0027",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.2. Empleo"
+  ],
+  "texto": "- Transferencia de la competencia sobre las políticas pasivas de Empleo a Navarra."
+ },
+ {
+  "id": "bildu-0028",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "Frente a las amenazas de recortar y privatizar las pensiones, defenderemos no solo su carácter público, sino que trabajaremos para adoptar las medidas necesarias para que todas las pensiones, en todas sus modalidades, especialmente las mínimas, no contributivas y de viudedad, logren valores de suficiencia. Para ello:"
+ },
+ {
+  "id": "bildu-0029",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo."
+ },
+ {
+  "id": "bildu-0030",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Garantizar el poder adquisitivo de las y los pensionistas, manteniendo y blindando la revalorización anual al IPC."
+ },
+ {
+  "id": "bildu-0031",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI como exige el movimiento de pensionistas."
+ },
+ {
+  "id": "bildu-0032",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Nuevo alza de las pensiones de viudedad y no contributivas de al menos un 15 % hasta alcanzar valores de suficiencia, como medida para enfrentar la precariedad que sufren quienes perciben estas pensiones, en su mayoría mujeres."
+ },
+ {
+  "id": "bildu-0033",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Culminar la tramitación de la Ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización."
+ },
+ {
+  "id": "bildu-0034",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.3. Pensiones"
+  ],
+  "texto": "- Transferencia del Régimen Económico de la Seguridad Social a las instituciones vascas y navarras."
+ },
+ {
+  "id": "bildu-0035",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "La cada vez mayor carestía de la vida que la mayoría social y trabajadora sufre, debido a una crisis inflacionaria, unas guerras inútiles provocadas por EEUU e Israel y la dependencia de los combustibles fósiles, genera en miles y miles de familias cada vez mayores dificultades para mantener una condiciones de vida materiales suficientes. Para ello será necesario continuar reforzando el escudo social y las medidas para aliviar a las familias, pero es hora de reequilibrar la balanza en favor de la ciudadanía frente al sector privado. La contención de precios no puede descansar exclusivamente en ayudas públicas que compensen a posteriori los incrementos decididos por los mercados. Por eso debe garantizarse la capacidad de intervención pública sobre las condiciones de formación de los precios, el reparto del valor y la apropiación de rentas, evitando que las crisis económicas se conviertan en oportunidades de enriquecimiento para las grandes corporaciones y empobrecimiento para la mayoría social. Para ello propondremos:"
+ },
+ {
+  "id": "bildu-0036",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Establecer un mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas de los sectores energético y alimentario, que impida que, en situaciones de emergencia, crisis de abastecimiento o incrementos extraordinarios de costes, trasladen de forma desproporcionada dichas subidas a los precios finales al consumidor mientras incrementan sus márgenes de beneficio, que actualmente suponen uno de los elementos inflacionarios.\n - Este mecanismo establecerá obligaciones de absorción a las empresas de una parte de los incrementos de costes mediante los márgenes empresariales, atendiendo a criterios objetivos como la posición de mercado, la capacidad económica y financiera, la evolución de los costes y márgenes y la existencia de rentas extraordinarias.\n - Para garantizar su aplicación, se deberán establecer los instrumentos legislativos y de supervisión necesarios, reforzando especialmente las capacidades de la CNMC y del Observatorio de Márgenes Empresariales, así como los mecanismos de transparencia, inspección y sanción."
+ },
+ {
+  "id": "bildu-0037",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Recuperar el mecanismo de intervención sobre el precio del gas utilizado para generación eléctrica en situaciones extraordinarias de encarecimiento como la actual, tomando como referencia la experiencia del mecanismo ibérico o “tope al gas”."
+ },
+ {
+  "id": "bildu-0038",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Establecer límites temporales a los precios de bienes y servicios esenciales, como la electricidad, el gas, los combustibles, el transporte y determinados productos básicos, ante situaciones de emergencia, crisis de abastecimiento o incrementos extraordinarios e injustificados de precios.\n - Estos mecanismos deberán contar con criterios objetivos de activación, duración y revisión, garantizando la protección de las personas consumidoras y evitando que las situaciones de crisis se traduzcan en oportunidades de especulación y enriquecimiento extraordinario."
+ },
+ {
+  "id": "bildu-0039",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Adoptar, para su traslado y defensa ante las instituciones europeas, una posición favorable a la reforma del sistema de formación de precios del mercado eléctrico europeo, superando las limitaciones del actual modelo marginalista, para evitar que los costes de las tecnologías de generación más caras determinen sistemáticamente la retribución de toda la electricidad y garantizar que los menores costes de generación renovable se trasladen efectivamente a los precios que pagan los consumidores."
+ },
+ {
+  "id": "bildu-0040",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Reforzar la intervención y supervisión pública sobre toda la cadena de producción, transformación y distribución alimentaria, garantizando una distribución justa del valor entre productores, industria y distribución, e impidiendo que las grandes cadenas de distribución e intermediarios incrementen injustificadamente sus márgenes comerciales a costa de las personas consumidoras y del sector productor.\n - Para ello, deberán establecerse controles obligatorios sobre los precios y márgenes comerciales de las grandes distribuidoras e intermediarios, reforzar la inspección y el régimen sancionador frente a las prácticas comerciales abusivas y garantizar el cumplimiento efectivo de la normativa que prohíbe las compras por debajo de los costes efectivos de producción.\n - Asimismo, combatir las estrategias de reduflación, las modificaciones encubiertas de precios y otras prácticas de manipulación comercial que perjudican a las personas consumidoras.\n - Para todo ello, se deberá desarrollar el Observatorio de la Cadena Alimentaria como instrumento efectivo de seguimiento de los precios, los costes y los márgenes comerciales en todos los eslabones de la cadena, garantizando la transparencia de la formación de precios y de la distribución del valor."
+ },
+ {
+  "id": "bildu-0041",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Establecer ayudas y reducciones de precio para los sectores productivos especialmente afectados por los incrementos extraordinarios de los costes energéticos y de los principales insumos como la industria, el transporte profesional y el sector primario.\n - Estas medidas priorizarán la protección de la actividad productiva y el empleo, la estabilidad de los costes de producción y la continuidad de las explotaciones y empresas, condicionando las ayudas públicas al mantenimiento de la actividad y evitando que se traduzcan en incrementos de los márgenes empresariales o en beneficios extraordinarios. Se deberán favorecer, asimismo, soluciones estructurales que reduzcan la dependencia de los combustibles fósiles y de los mercados energéticos volátiles."
+ },
+ {
+  "id": "bildu-0042",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Mantener y ampliar rebajas de tarifas y los bonos subvencionados de viajero frecuente actuales, incluidas la financiación estatal para la bonificación de los transportes dependientes de instituciones autonómicas, forales y locales."
+ },
+ {
+  "id": "bildu-0043",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.4. Contención de precios y carestía de la vida"
+  ],
+  "texto": "- Ampliar y automatizar el acceso al bono social eléctrico y térmico, garantizando que todas las personas y hogares que cumplan los requisitos accedan efectivamente a esta prestación, evitando que el desconocimiento, la complejidad o la falta de recursos administrativos impidan el ejercicio de un derecho reconocido legalmente."
+ },
+ {
+  "id": "bildu-0044",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+  ],
+  "texto": "Nuestro objetivo será en primer lugar defender las competencias que actualmente se materializan en Hego Euskal Herria, adquirir las competencias que todavía ejerce el Ministerio de Sanidad, y trabajar en colaboración con el resto de colectivos, profesionales y ciudadanía de todas comunidades Autónomas para fortalecer los derechos de la salud individual y colectiva y garantizar el cumplimiento de los mismos.\n\nNuestras líneas específicas de trabajo serán las siguientes:"
+ },
+ {
+  "id": "bildu-0045",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Ampliar la cartera común básica con prestaciones como la de la salud bucodental y los productos ópticos y salud visual para aquellos colectivos históricamente desatendidos o en situación de mayor vulnerabilidad con un enfoque transversal de equidad social. Asimismo, las personas que han sufrido las consecuencias de la talidomida o de la poliomielitis tendrán las prestaciones necesarias para paliar los daños generados."
+ },
+ {
+  "id": "bildu-0046",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Aprobar la gratuidad de productos de higiene menstrual mediante su distribución farmacéutica y aplicar el IVA superreducido a estos productos en todos los puntos de venta."
+ },
+ {
+  "id": "bildu-0047",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Establecer la dispensación farmacéutica gratuita de preservativos femeninos y masculinos, así como de kits básicos de detección de ITS."
+ },
+ {
+  "id": "bildu-0048",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Regular y restringir la comercialización y la publicidad de los alimentos ultraprocesados y bebidas azucaradas y energéticas en menores de edad."
+ },
+ {
+  "id": "bildu-0049",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Modificar la ley Orgánica 3/2021 de 4 de marzo, de regulación de la Eutanasia para garantizar el derecho a recibir la prestación de todas las personas, que abarque por igual el sufrimiento de origen físico, como psíquico. Con el objetivo de blindar el derecho a morir dignamente frente a la intromisión judicial de terceros. Asegurando así que el procedimiento de la petición de la ayuda a morir constituya un acto de estricta intimidad personal y de autodeterminación."
+ },
+ {
+  "id": "bildu-0050",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Avanzar en la detección, prevención y sensibilización de la violencia obstétrica de la mano de colectivos feministas especializados en la materia."
+ },
+ {
+  "id": "bildu-0051",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Ciudadanía"
+  ],
+  "texto": "- Desarrollar mecanismos de control y seguimiento de las medidas legislativas relativas al derecho al olvido oncológico."
+ },
+ {
+  "id": "bildu-0052",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Profesionales"
+  ],
+  "texto": "- Transitoriamente y mientras la transferencia no se haga efectiva, proponer la reserva de un 53% de las plazas del MIR, EIR, PIR, etc. para aquellos profesionales que dominen las dos lenguas oficiales del País Vasco."
+ },
+ {
+  "id": "bildu-0053",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Profesionales"
+  ],
+  "texto": "- Impulsar un cambio de modelo de acceso a la formación de las especialidades MIR, EIR, PIR, etc. Además, propondremos la creación de la especialidad de enfermedades infecciosas."
+ },
+ {
+  "id": "bildu-0054",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Profesionales"
+  ],
+  "texto": "- Colaborar para priorizar, prestigiar y asegurar la especialidad de familia y comunitaria. Con el objetivo de reforzar la atención primaria."
+ },
+ {
+  "id": "bildu-0055",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Profesionales"
+  ],
+  "texto": "- Modificar la ley 44/2003, de 21 de noviembre de ordenación de las profesiones sanitarias, para abordar las nuevas necesidades sociosanitarias y transformar el Sistema Público de Salud a la actualidad. Para ello, proponemos reconocer como profesiones sanitarias las siguientes: la biología, el trabajo social, las ciencias de la actividad física y del deporte, y la psicología."
+ },
+ {
+  "id": "bildu-0056",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Profesionales"
+  ],
+  "texto": "- Transferencia de la competencia de la formación especializada de todas las categorías del sistema de salud y de la competencia de las áreas de capacitación específica de las profesiones sanitarias."
+ },
+ {
+  "id": "bildu-0057",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Impulsar un cambio de modelo en la atención de salud mental en la nueva estrategia de Salud Mental del Sistema Nacional de Salud. Proponemos cambiar la concepción y por lo tanto el abordaje, poniendo el foco en los determinantes sociales como eje del modelo. El objetivo es dotar de capacidad de decisión a las personas afectadas y garantizar que sean el centro del abordaje."
+ },
+ {
+  "id": "bildu-0058",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, aprobada por el PP que permite la privatización y externalización de los servicios sanitarios."
+ },
+ {
+  "id": "bildu-0059",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Regular y canalizar la financiación y el sistema de patrocinio de la industria farmacéutica y de tecnologías médicas, orientándola a los objetivos y líneas estratégicas del Sistema Público de Salud."
+ },
+ {
+  "id": "bildu-0060",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Regular y canalizar el sistema de patrocinio de la industria farmacéutica y de tecnologías médicas."
+ },
+ {
+  "id": "bildu-0061",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Avanzar junto con las comunidades autónomas hacia la creación de una Farmacia Pública con el objetivo de fomentar la autogestión de las comunidades autónomas de los materiales básicos de mayor uso en el Sistema Sanitario Público, de los medicamentos considerados básicos por la Organización Mundial de la Salud y de los fármacos que se ven abocados a la rotura de stock."
+ },
+ {
+  "id": "bildu-0062",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Impulsar la reforma del Real Decreto Legislativo 1/2015 del 24 de julio, para afrontar los nuevos retos relacionados con el acceso a la innovación, al abastecimiento de medicamentos y la sostenibilidad de la prestación farmacéutica."
+ },
+ {
+  "id": "bildu-0063",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Avanzar en la transformación del Sistema Público de Salud hacia atender las necesidades de las personas desde la perspectiva biopsicosocial reforzando el derecho a la salud y permitiendo a la vez una mejor planificación y optimización de los recursos humanos dedicados a los cuidados sociosanitarios."
+ },
+ {
+  "id": "bildu-0064",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+   "Gobernanza"
+  ],
+  "texto": "- Solicitaremos la competencia de los Centros de Vacunación Internacional a través del Convenio de encomienda de gestión y asimismo iniciaremos los trámites para la gestión de la transferencia de la competencia en Sanidad Exterior."
+ },
+ {
+  "id": "bildu-0065",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.2 Educación"
+  ],
+  "texto": "Defendemos, mediante la capacidad y herramientas propias de nuestro autogobierno, un sistema educativo propio para Euskal Herria, de calidad, inclusivo, coeducativo, participativo, laiko, euskaldun y soberano. Por eso,"
+ },
+ {
+  "id": "bildu-0066",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.2 Educación"
+  ],
+  "texto": "- Apostamos por una bajada de ratios como una oportunidad para mejorar la calidad educativa. La bajada de la natalidad puede ser una oportunidad para reforzar la atención personalizada al alumnado, sobre todo del más vulnerable, y fomentar una educación más inclusiva."
+ },
+ {
+  "id": "bildu-0067",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.2 Educación"
+  ],
+  "texto": "- Apostar por la estabilización de las profesionales, mejorando sus condiciones laborales y aumentando la formación para adecuarse a las nuevas necesidades."
+ },
+ {
+  "id": "bildu-0068",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.2 Educación"
+  ],
+  "texto": "- Aumentar la financiación, acercándonos progresivamente al 6% de inversión definido por la UNESCO."
+ },
+ {
+  "id": "bildu-0069",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.2 Educación"
+  ],
+  "texto": "- Apoyaremos cambios normativos que tengan por objetivo reforzar la atención del alumnado con necesidades educativas especiales."
+ },
+ {
+  "id": "bildu-0070",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "En el sistema actual, sin unos servicios públicos suficientes, ser dependiente penaliza, castiga, social y económicamente a miles y miles de familias. Sabemos que las necesidades de ser cuidado están presentes en la vida de todas nosotras y sabemos lo lejos que estamos de un sistema público que cubra todo esto como se merece. Por ello, proponemos:"
+ },
+ {
+  "id": "bildu-0071",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Situar el cuidado como una cuestión central para el futuro de nuestras sociedades, limitando la privatización y el ánimo de lucro en este sector, y avanzando hacia su universalidad y gratuidad."
+ },
+ {
+  "id": "bildu-0072",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Incluir la visión de los cuidados temporales en el sistema de atención a la dependencia."
+ },
+ {
+  "id": "bildu-0073",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Dar pasos en el derecho subjetivo a los cuidados, empezando por la retroactividad de las prestaciones económicas por la dependencia desde la fecha de solicitud."
+ },
+ {
+  "id": "bildu-0074",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Medidas relativas a la reparación de género en el sector de los cuidados, desde la desprecarización laboral hasta el reconocimiento de los cuidados familiares con cambios coordinados con la Seguridad Social en lo que respecta a bonificaciones, pensiones y permisos retribuidos."
+ },
+ {
+  "id": "bildu-0075",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Medidas relativas a saldar deudas históricas con colectivos como las personas afectadas por la poliomielitis o quienes sufrieron esterilizaciones forzadas."
+ },
+ {
+  "id": "bildu-0076",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.3 Cuidados"
+  ],
+  "texto": "- Modificar cuestiones relativas al copago en la ley de dependencia, con el objetivo de excluir el copago relativo a los cuidados personales y que las familias o personas afectadas, solamente, se hagan cargo del copago correspondiente al hospedaje y manutención avanzando hacia la gratuidad del sistema."
+ },
+ {
+  "id": "bildu-0077",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.4 Administración pública"
+  ],
+  "texto": "- Asegurar el acceso a la administración pública en tiempo y forma para toda la ciudadanía. Para ello, y mientras la brecha digital sea una realidad, se deberán establecer obligatoriamente canales presenciales ágiles que permitan realizar cualquier trámite en tiempo y forma, evitando la falta de citas y el colapso al que se enfrentan miles de personas en su relación con la administración que conlleva la imposibilidad de acceso a la protección laboral y social a la que la tienen derecho. Para asegurar este servicio, deberán realizarse las inversiones en recursos y plantillas necesarios para respetar y asegurar el derecho de la ciudadanía a un servicio de calidad."
+ },
+ {
+  "id": "bildu-0078",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.4 Administración pública"
+  ],
+  "texto": "- Aplicar procesos abreviados para la solicitud y reconocimiento de las figuras e instrumentos básicos de protección laboral y social, como las prestaciones por desempleo o las ayudas para colectivos vulnerables."
+ },
+ {
+  "id": "bildu-0079",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.4 Administración pública"
+  ],
+  "texto": "- Establecer como requisito el conocimiento del euskara para los servicios que la administración pública estatal ofrece en Araba, Bizkaia, Gipuzkoa y Nafarroa, incluyendo la administración de justicia, asegurando el derecho de la ciudadanía a interactuar y ser atendida en nuestra lengua tanto de manera presencial como telemática o telefónica. Para ello se deberán modificar las leyes que establecen los criterios de funcionamiento, selección y acceso a la administración general del estado."
+ },
+ {
+  "id": "bildu-0080",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.4 Administración pública"
+  ],
+  "texto": "- Proponer medidas de control para atajar el fraude y comercio que hoy en día se da con las citas presenciales auspiciado por la limitada disponibilidad de las mismas."
+ },
+ {
+  "id": "bildu-0081",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.5. Servicios públicos",
+   "1.5.4 Administración pública"
+  ],
+  "texto": "- Reconocimiento pleno a las administraciones públicas vascas y navarras de la competencia para decidir a través de la negociación colectiva el incremento salarial de sus plantillas sin someterse a los límites fijados en el Estado."
+ },
+ {
+  "id": "bildu-0082",
+  "partido": "bildu",
+  "tipo": "texto",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.6. Escudo social"
+  ],
+  "texto": "El objetivo será mantener y reforzar el escudo social que durante los últimos años EH Bildu ha acordado y mantenido como red de apoyo a las personas y familias más vulnerables de nuestra sociedad, ofreciendo un mínimo de seguridad y estabilidad a quienes se encuentran en peor situación. Para ello, propondremos:"
+ },
+ {
+  "id": "bildu-0083",
+  "partido": "bildu",
+  "tipo": "medida",
+  "numero": null,
+  "ruta": [
+   "1. Derechos y libertades",
+   "1.6. Escudo social"
+  ],
+  "texto": "- Hacer estructural y permanente la garantía de suministros básicos para personas vulnerables, la cual impide el corte de los mismos a hogares vulnerables, en vigor hasta 31 de diciembre gracias a los acuerdos de prórroga alcanzados por EH Bildu los últimos 3 años."
+ }
+]

@@ -1,0 +1,1963 @@
+[
+ {
+  "eje": "eje-reforma-laboral",
+  "pregunta": "¿Qué hacer con la reforma laboral y el despido?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-profundizar",
+    "nombre": "Ampliar la protección frente al despido y la precariedad"
+   }
+  ],
+  "n": 81,
+  "palabras": 4672,
+  "candidatos": [
+   {
+    "id": "podemos-0079",
+    "partido": "podemos",
+    "titular": "Combatir la uberización de la economía y proteger sectores como el taxi",
+    "marca_actual": [],
+    "texto": "69. **Lucha contra la uberización de la economía.** Combatiremos la uberización de la economía, reforzando los derechos laborales, la protección social y las obligaciones fiscales de las empresas que operan mediante plataformas digitales. Garantizaremos que las multinacionales que desarrollan su actividad en España tributen conforme a la normativa aplicable y cumplan sus obligaciones laborales y fiscales. Asimismo, protegeremos a sectores como el taxi frente a la competencia desleal y promoveremos un modelo de economía digital basado en el trabajo digno, la competencia justa y el respeto a los servicios regulados."
+   },
+   {
+    "id": "podemos-0132",
+    "partido": "podemos",
+    "titular": "Nuevo Estatuto de los Trabajadores que derogue las reformas laborales de 2010 y 2012",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "117. **Nuevo Estatuto de Trabajadores y Trabajadoras.** Elaboraremos un nuevo Estatuto de los Trabajadores y Trabajadoras para derogar los efectos de las reformas laborales de 2010 y 2012 y avanzar hacia un modelo que garantice empleo estable, salarios dignos y derechos laborales."
+   },
+   {
+    "id": "podemos-0133",
+    "partido": "podemos",
+    "titular": "Recuperar 45 días de indemnización por despido ilegal y la autorización de ERE",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "118. **Protección frente al despido y recuperación de derechos laborales.** Recuperaremos y ampliaremos las garantías de las personas trabajadoras frente a los despidos injustificados, individuales y colectivos. Restableceremos la indemnización de 45 días por año trabajado en los despidos ilegales, estableciendo el derecho de la persona trabajadora a elegir entre la indemnización o la reincorporación. Recuperaremos los salarios de tramitación que se hayan devengado para el trabajador entre la fecha del despido y la de una sentencia que lo declare ilegal. Eliminaremos los despidos objetivos basados en caídas de ingresos, pérdidas previstas o causas técnicas, organizativas o productivas, recuperaremos la autorización administrativa previa para los expedientes de regulación de empleo (ERE) e implantaremos el derecho de retorno preferente a la empresa para las personas afectadas por despidos colectivos. Además, pondremos fin a la extinción injustificada del contrato durante el periodo de prueba, equiparándolo a todos los efectos con un despido cuando carezca de justificación."
+   },
+   {
+    "id": "podemos-0134",
+    "partido": "podemos",
+    "titular": "Prohibir las horas extras sin compensación y sancionarlas penalmente",
+    "marca_actual": [],
+    "texto": "119. **Prohibir las horas extras y perseguir penalmente su realización ilegal.** Prohibiremos la realización de horas extraordinarias sin compensación en descanso, para fomentar la creación de empleo, ampliar las plantillas y avanzar hacia el pleno empleo, junto con la reducción de la jornada laboral. Además, estableceremos sanciones penales para los empresarios que incumplan esta prohibición y obliguen a realizar horas extraordinarias sin abonarlas ni compensarlas, garantizando mecanismos eficaces de inspección y protección de las personas trabajadoras."
+   },
+   {
+    "id": "podemos-0135",
+    "partido": "podemos",
+    "titular": "Eliminar la contratación temporal sin causa y reforzar la Inspección de Trabajo",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "120. **Tolerancia cero con el fraude laboral y la contratación precaria.** Reforzaremos la legislación laboral y los mecanismos de inspección y control para combatir el fraude empresarial y garantizar la estabilidad en el empleo. Eliminaremos la posibilidad de recurrir a la contratación temporal sin causa justificada durante 90 días al año y perseguiremos el uso fraudulento de contratos a tiempo parcial para encubrir jornadas superiores a las declaradas, eludir el pago de las horas efectivamente trabajadas y abonar salarios inferiores al SMI que corresponda en proporción a la jornada realizada. Garantizaremos que los despidos vinculados al fraude en la contratación temporal o a la utilización fraudulenta de falsos autónomos sean declarados ilegales, garantizando su readmisión y al abono de los salarios dejados de percibir. Asimismo, estableceremos la presunción de laboralidad cuando exista una única vía de ingresos relevante y obligaremos a las empresas a incorporar a las personas afectadas por falsos autónomos mediante contratos indefinidos, reconociéndoles todos los derechos laborales y de Seguridad Social que les hubieran correspondido desde el inicio de la relación laboral. Extenderemos la presunción de laboralidad a todas las plataformas digitales y reforzaremos la Inspección de Trabajo y Seguridad Social con más recursos humanos y materiales, unidades especializadas para perseguir estas prácticas y un régimen sancionador más contundente."
+   },
+   {
+    "id": "podemos-0136",
+    "partido": "podemos",
+    "titular": "Aprobar la «Ley Kellys» para igualar condiciones en contratas y subcontratas",
+    "marca_actual": [],
+    "texto": "121. **Garantizar las mismas condiciones laborales en las empresas principales y subcontratistas.** Aprobaremos la “Ley Kellys” para extender las condiciones de trabajo de la empresa principal a las personas trabajadoras de las empresas contratistas y subcontratistas, muy utilizado en sectores como las camareras de piso, para evitar que la externalización de servicios se traduzca en precarización de los trabajadores y trabajadoras."
+   },
+   {
+    "id": "podemos-0140",
+    "partido": "podemos",
+    "titular": "Crear una Inspección de Igualdad y un plan contra la precariedad femenina",
+    "marca_actual": [],
+    "texto": "125. **Combatir la desigualdad de género y la precariedad de las mujeres en el mercado laboral.** Crearemos una Inspección de Igualdad dentro de la Inspección de Trabajo y Seguridad Social para garantizar el cumplimiento efectivo de la normativa en materia de igualdad, especialmente el cumplimiento de los RD 901 y 902 de 2021 que han desarrollado de forma exhaustiva la legislación en materia de igualdad de oportunidades en Planes de Igualdad así como en política salarial. Impulsaremos un plan de lucha contra la precariedad femenina, con medidas de acción positiva para combatir la discriminación en el acceso al empleo, la vivienda y los cuidados, priorizando a las mujeres en el acceso a los recursos públicos y estableciendo rentas específicas compensatorias en los sectores más precarizados y feminizados. Asimismo, reforzaremos la transparencia salarial para garantizar la igualdad retributiva por trabajos de igual valor."
+   },
+   {
+    "id": "podemos-0149",
+    "partido": "podemos",
+    "titular": "Prácticas externas retribuidas al menos según el SMI y de cinco horas máximo",
+    "marca_actual": [],
+    "texto": "134. **Poner orden en el sistema de prácticas externas para que sean un trampolín y no una trampa de precariedad.** Para ello, se garantizará que estén incluidas en los planes de estudio y que sean formativas, y que estén tuteladas profesionalmente y sean retribuidas al menos conforme al SMI según el número de horas cotizadas y con jornadas máximas de cinco horas."
+   },
+   {
+    "id": "podemos-0151",
+    "partido": "podemos",
+    "titular": "Prohibir los trabajos al aire libre con avisos meteorológicos naranja o rojo",
+    "marca_actual": [],
+    "texto": "136. **Prohibir los trabajos al aire libre durante las alertas meteorológicas extremas.** Reformaremos la Ley de Prevención de Riesgos Laborales para prohibir los trabajos al aire libre cuando la AEMET o el organismo autonómico correspondiente emita avisos por fenómenos meteorológicos adversos de nivel naranja o rojo. Las personas trabajadoras tendrán derecho a interrumpir su actividad y abandonar el lugar de trabajo sin pérdida de retribución."
+   },
+   {
+    "id": "podemos-0154",
+    "partido": "podemos",
+    "titular": "Protocolos obligatorios en las empresas contra el acoso y las violencias machistas",
+    "marca_actual": [],
+    "texto": "139. **Garantizar espacios de trabajo libres de violencias machistas.** Garantizaremos entornos laborales seguros y libres de acoso y violencias machistas mediante la implantación obligatoria de protocolos en las empresas, que incluyan canales de denuncia confidenciales, protección efectiva frente a represalias y formación para las plantillas y los equipos directivos. Asimismo, reforzaremos la protección laboral de las víctimas de violencia de género, garantizando su protección frente al despido, el derecho a la movilidad laboral y el acceso prioritario a programas de empleo y formación que favorezcan su autonomía económica."
+   },
+   {
+    "id": "podemos-0296",
+    "partido": "podemos",
+    "titular": "Ley de Calidad de la Educación con estándares mínimos para todo el Estado",
+    "marca_actual": [],
+    "texto": "278. **Ley de Calidad de la Educación.** Aprobaremos una nueva ley general de educación que establezca unos estándares mínimos obligatorios de calidad para todo el Estado, aplicables a los centros públicos y privados sostenidos con fondos públicos, y que permita a las comunidades autónomas mejorar esos mínimos. La ley garantizará unas condiciones dignas para el aprendizaje y el trabajo educativo, mediante la reducción de las ratios, la limitación de las cargas lectivas, la estabilidad de las plantillas, la cobertura de las bajas desde el primer día y la protección de la oferta pública frente al cierre injustificado de aulas. La ley prohibirá el despido de docentes durante los meses de verano y garantizará condiciones salariales dignas para todas las categorías profesionales. También protegerá las aulas públicas durante un mínimo de diez años, evitando su cierre cuando existan necesidades educativas que atender."
+   },
+   {
+    "id": "podemos-0340",
+    "partido": "podemos",
+    "titular": "Prohibir el trabajo al exterior de 12 a 18 horas en olas de calor",
+    "marca_actual": [],
+    "texto": "322. **Adaptación de las condiciones laborales a las olas de calor.** Se prohibirá de forma permanente que se trabaje en la calle o en el exterior entre las 12 y las 18 horas durante una ola de calor, así como en cualquier otro momento del día en el exista un aviso naranja o rojo de altas temperaturas de la AEMET. Estas adaptaciones horarias se llevarán a cabo sin pérdida de salario. Es el caso de trabajos como el de los barrenderos/as, jardineros/as, trabajadores/as del campo o de la construcción, por ejemplo, aunque la medida afectaría a todas las personas que cumplan el requisito citado. Del mismo modo, todos los trabajadores y trabajadoras deberán tener un equipamiento y una vestimenta adecuada a una situación de altas temperaturas, siendo obligación de la empresa o la administración pública garantizar su disponibilidad."
+   },
+   {
+    "id": "podemos-0384",
+    "partido": "podemos",
+    "titular": "Reforzar la inspección laboral y las condiciones de temporeros y trabajadores del mar",
+    "marca_actual": [],
+    "texto": "366. **Trabajo digno en el campo y en la mar.** Reforzaremos la inspección laboral y garantizaremos el cumplimiento de los convenios, la seguridad y la protección frente al calor, el acoso y la explotación. Garantizaremos condiciones dignas de alojamiento y transporte para las personas temporeras, con igualdad de derechos para las trabajadoras y los trabajadores migrantes. Mejoraremos la protección social del trabajo agrario eventual y promoveremos empleo estable entre campañas. En la pesca, reforzaremos los derechos de las tripulaciones, las mariscadoras y las rederas."
+   },
+   {
+    "id": "adelante-0030",
+    "partido": "adelante",
+    "titular": "Plan de turismo con red pública de alojamientos y tasa turística",
+    "marca_actual": [],
+    "texto": "28. **Plan de turismo para todas y todos** — Residencias de Tiempo Libre recuperadas y una red pública de hoteles, campings y apartahoteles a precios asequibles; un «Imserso» para todas las edades; piscinas públicas en todos los municipios; una tasa turística para reparar el daño ambiental y financiar vivienda; cadenas hoteleras que tributen donde ganan y repartan beneficios con sus plantillas; cooperativas turísticas y un portal público para que las autónomas no dependan de los grandes intermediarios; inspección extraordinaria, fin de la subcontratación en los hoteles y ningún contrato público para quien abuse de sus plantillas.\nSe desarrolla en el programa: Propuestas 238, 266, 281 y 283 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0237",
+    "partido": "adelante",
+    "titular": "Dejar el alquiler con un mes de preaviso por despido o enfermedad",
+    "marca_actual": [],
+    "texto": "190. **Salir del contrato sin castigo** — Preaviso de un mes y sin penalización en caso de despido, traslado laboral o enfermedad, y persecución de los falsos contratos de temporada. _Porque quien pierde el empleo o enferma no debería ser castigado por dejar su casa._"
+   },
+   {
+    "id": "adelante-0318",
+    "partido": "adelante",
+    "titular": "Trabajar tiene que dar para vivir: menos horas, mejores sueldos y despido más caro",
+    "marca_actual": [],
+    "texto": "Trabajar tiene que dar para vivir: menos horas, mejores sueldos y despidos que dejen de salir baratos."
+   },
+   {
+    "id": "adelante-0323",
+    "partido": "adelante",
+    "titular": "Despido de 50 días por año en indefinidos y 60 en temporales",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "272. **Despido más caro y controlado** — 50 días por año en el indefinido y 60 en el temporal, con autorización de la Inspección y límites a los despidos colectivos en empresas con beneficios. _Porque despedir sigue siendo demasiado barato y fácil._"
+   },
+   {
+    "id": "adelante-0327",
+    "partido": "adelante",
+    "titular": "Más cotización e indemnización para los contratos temporales",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "276. **La temporalidad, más cara** — Contratos temporales con más cotización e indemnización que los indefinidos. _Porque si la temporalidad sale barata, se abusa de ella._"
+   },
+   {
+    "id": "adelante-0328",
+    "partido": "adelante",
+    "titular": "Fijos discontinuos a indefinidos ordinarios tras un año",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "277. **Fijos discontinuos a indefinidos** — Paso a indefinido ordinario tras un año, salvo causa justificada. _Porque muchos fijos discontinuos son en realidad empleos precarios con otro nombre._"
+   },
+   {
+    "id": "adelante-0329",
+    "partido": "adelante",
+    "titular": "Mismo salario en las contratas y paso a plantilla tras un año",
+    "marca_actual": [],
+    "texto": "278. **Mismo trabajo, mismo salario en las contratas** — En toda la cadena de subcontratación, y paso a la plantilla principal tras un año en el mismo centro. _Porque subcontratar se usa para pagar menos por el mismo trabajo._"
+   },
+   {
+    "id": "adelante-0330",
+    "partido": "adelante",
+    "titular": "Presunción de laboralidad si el 70 % de la facturación viene de un cliente",
+    "marca_actual": [],
+    "texto": "279. **Fin del falso trabajo autónomo** — Presunción de relación laboral cuando el 70 % de la facturación venga de un solo cliente e inspecciones masivas. _Porque el falso trabajo autónomo esconde a personas trabajadoras sin derechos._"
+   },
+   {
+    "id": "adelante-0332",
+    "partido": "adelante",
+    "titular": "Más inspección de trabajo y plan extraordinario en turismo y hostelería",
+    "marca_actual": [],
+    "texto": "281. **Más inspección de trabajo** — Más personal de inspección, sanciones más duras y delegados sindicales en el control; un plan extraordinario de inspección y sanción en el turismo y la hostelería, y ningún contrato con la Administración para empresas condenadas por abusos laborales. _Porque sin inspección las leyes laborales no se cumplen._"
+   },
+   {
+    "id": "adelante-0333",
+    "partido": "adelante",
+    "titular": "Estatuto del trabajo en el campo con alojamientos dignos para temporeros",
+    "marca_actual": [],
+    "texto": "282. **Estatuto del trabajo en el campo** — Control de convenios, fin del fraude en la cotización y alojamientos dignos para temporeras y temporeros. _Porque en el campo andaluz el fraude laboral y la explotación siguen siendo habituales._"
+   },
+   {
+    "id": "adelante-0334",
+    "partido": "adelante",
+    "titular": "Estatuto de la hostelería y fin de la subcontratación de camareras de piso",
+    "marca_actual": [],
+    "texto": "283. **Estatuto de la hostelería** — Cargas de trabajo, enfermedades profesionales, prohibición de la subcontratación en los hoteles, empezando por las camareras de piso, fin del fijo discontinuo con inactividades rotativas en puestos que hacen falta todo el año y fin del turno partido; un registro público de hostelería justa con los establecimientos que cumplen con sus plantillas, y apoyo público a los sindicatos, asambleas y colectivos del sector en sus reivindicaciones. _Porque la hostelería es el sector con más abusos y el que más empleo da en Andalucía._"
+   },
+   {
+    "id": "adelante-0335",
+    "partido": "adelante",
+    "titular": "Integración plena de las empleadas de hogar en el Régimen General",
+    "marca_actual": [],
+    "texto": "284. **Empleadas de hogar con todos los derechos** — Integración plena en el Régimen General. _Porque las empleadas de hogar siguen teniendo menos derechos que el resto._"
+   },
+   {
+    "id": "adelante-0336",
+    "partido": "adelante",
+    "titular": "Transporte por carretera sin trabajar bajo costes y con jubilación anticipada",
+    "marca_actual": [],
+    "texto": "285. **Transporte por carretera digno** — Prohibido trabajar por debajo de costes, jubilación anticipada y enfermedades profesionales reconocidas. _Porque el transporte por carretera tiene jornadas y riesgos que hay que reconocer._"
+   },
+   {
+    "id": "adelante-0337",
+    "partido": "adelante",
+    "titular": "Detectar las enfermedades profesionales desde la sanidad pública",
+    "marca_actual": [],
+    "texto": "286. **Enfermedades profesionales visibles** — Detección desde la sanidad pública para que no se oculten como enfermedad común. _Porque muchas enfermedades causadas por el trabajo se registran como comunes._"
+   },
+   {
+    "id": "adelante-0343",
+    "partido": "adelante",
+    "titular": "Puesto garantizado o indemnización al volver de una excedencia voluntaria",
+    "marca_actual": [],
+    "texto": "292. **Reingreso tras la excedencia** — Puesto garantizado al volver de una excedencia voluntaria, o indemnización. _Porque volver de una excedencia no debería significar perder el empleo._"
+   },
+   {
+    "id": "adelante-0344",
+    "partido": "adelante",
+    "titular": "Complemento económico para quien trabaja a tiempo parcial sin elegirlo",
+    "marca_actual": [],
+    "texto": "293. **Complemento de parcialidad** — Compensación económica para quien trabaja a tiempo parcial sin haberlo elegido. _Porque muchas personas, sobre todo mujeres, trabajan a media jornada sin haberlo elegido._"
+   },
+   {
+    "id": "adelante-0346",
+    "partido": "adelante",
+    "titular": "Sanciones progresivas y responsabilidad patrimonial de administradores incumplidores",
+    "marca_actual": [],
+    "texto": "295. **Incumplir no puede salir rentable** — Sanciones progresivas por reincidencia, responsabilidad personal de quienes administran la empresa con su patrimonio, registro de empresas reincidentes y su exclusión de contratos y ayudas públicas. _Porque si incumplir sale más barato que cumplir, las empresas seguirán incumpliendo._"
+   },
+   {
+    "id": "adelante-0347",
+    "partido": "adelante",
+    "titular": "Formar y recolocar antes de despedir por IA, o despido nulo",
+    "marca_actual": [],
+    "texto": "296. **Garantía de transición ante la inteligencia artificial** — Quien sustituya tareas por IA tendrá que formar y recolocar a su plantilla antes de despedir; el despido que se salte ese camino será nulo y ningún algoritmo decidirá un despido sin revisión humana. _Porque la inteligencia artificial no puede ser una excusa para despedir sin más._"
+   },
+   {
+    "id": "adelante-0351",
+    "partido": "adelante",
+    "titular": "Prestación puente mientras se resuelve una incapacidad o un juicio por despido",
+    "marca_actual": [],
+    "texto": "300. **Nadie sin ingresos esperando una incapacidad** — Prestación puente mientras se resuelve una incapacidad permanente o un juicio por despido. _Porque esperar meses sin ingresos a que te reconozcan una incapacidad es inhumano._"
+   },
+   {
+    "id": "adelante-0406",
+    "partido": "adelante",
+    "titular": "Traspasar a Andalucía la Inspección de Trabajo y Seguridad Social",
+    "marca_actual": [],
+    "texto": "354. **Inspección de trabajo andaluza** — Traspaso de la Inspección de Trabajo y Seguridad Social, como ya tienen Cataluña y el País Vasco, coordinada con la estatal. _Porque Cataluña y el País Vasco ya la tienen, y aquí el fraude laboral es mayor._"
+   },
+   {
+    "id": "adelante-0587",
+    "partido": "adelante",
+    "titular": "Plan contra la explotación laboral y sexual de las temporeras",
+    "marca_actual": [],
+    "texto": "531. **Temporeras con derechos** — Plan contra la explotación laboral y sexual en el campo, con inspección reforzada en las campañas. _Porque las temporeras sufren abusos laborales y sexuales que hay que perseguir._"
+   },
+   {
+    "id": "adelante-0595",
+    "partido": "adelante",
+    "titular": "Unidades de la Inspección de Trabajo contra la discriminación LGTBI",
+    "marca_actual": [],
+    "texto": "537. **Inspección contra la discriminación** — Unidades de la Inspección de Trabajo que vigilen la discriminación por orientación, identidad o expresión de género. _Porque la discriminación en el trabajo se ve poco y se persigue menos._"
+   },
+   {
+    "id": "adelante-0656",
+    "partido": "adelante",
+    "titular": "Inspección de Trabajo específica contra los pagos en negro en la cultura",
+    "marca_actual": [],
+    "texto": "595. **Cultura sin pagos en negro** — Inspección de Trabajo específica para el sector artístico y cultural, contra los pagos no declarados y el falso trabajo autónomo en orquestas, compañías y salas. _Porque en la cultura todavía se paga mucho en negro._"
+   },
+   {
+    "id": "bng-0005",
+    "partido": "bng",
+    "titular": "Balance: incumplimientos del Gobierno y defensa de políticas de avance social",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "Outros compromisos que estaban en andamento ficaron no ar polo adianto electoral. Porén, algunhas outras medidas acordadas -témolo que dicir con claridade- non foron cumpridas polo goberno do PSOE-Sumar. En todo o caso, é claro que a responsabilidade polos incumprimentos é de quen non cumpre, o que nos leva directamente á reflexión de que máis forza para o BNG e maior representación tamén é necesaria para ter capacidade de obrigar os gobernos españois a cumprir con Galiza.\n\nO BNG foi nestes anos vangarda no Congreso e no Senado na defensa de políticas rupturistas, transformadoras e de avance social. Do impulso ás pensións mínimas e non contributivas por riba do IPC ao aumento dos permisos de maternidade e paternidade; da exixencia de derrogación da Lei da Mordaza ou da reforma laboral do PP de forma íntegra, á defensa da redución da xornada a 35 horas sen mingua salarial; de propostas para atallar a escalada de prezos que afogan as clases populares, ao impulso de medidas valentes e eficaces para garantir o dereito a unha vivenda digna fronte á especulación inmobiliaria..."
+   },
+   {
+    "id": "bng-0040",
+    "partido": "bng",
+    "titular": "Nueva legislación laboral que restituya los derechos recortados desde 2012",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "Diante dos continuados recortes en dereitos e a non reversión das reformas aprobadas no 2012 polo PP, ten aumentado a precarización das condicións laborais e do empobrecemento salarial, que provocan que ter un emprego non garanta a subsistencia material e digna da clase traballadora. O Bloque Nacionalista Galego defende non só a reversión das políticas antisociais e antiobreiras aplicadas (ou mantidas) polos sucesivos gobernos españois, senón avanzar na mellora das condicións materiais de vida e de traballo da maioría social, garantido o dereito a vivir con dignidade dun emprego na nosa terra. Para o que promoveremos a urxente aprobación dunha nova lexislación laboral que restitúa todos os dereitos roubados e favoreza novos dereitos e regulacións que nos fortalezan como clase traballadora ante a nova situación de crise e as novas formas de explotación e precariedade.\n\nCon ese obxectivo, o BNG defende:"
+   },
+   {
+    "id": "bng-0044",
+    "partido": "bng",
+    "titular": "Cumplir de forma efectiva la Carta Social Europea",
+    "marca_actual": [],
+    "texto": "- Cumprir de maneira efectiva a Carta Social Europea como marco básico de dereitos."
+   },
+   {
+    "id": "bng-0045",
+    "partido": "bng",
+    "titular": "Derogar las reformas laborales y recuperar 45 días de indemnización por despido",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- Derrogar integramente das contrarreformas laborais que consolidaron a mudanza aprobada en 2021 e impulsar unha modificación integral do Estatuto do Traballo para restituír, entre outros dereitos:\n - Os 45 días de indemnización e un máximo de 42 mensualidades por despedimento improcedente.\n - A autorización administrativa nos despedimentos colectivos.\n - Os salarios de tramitación.\n - Medidas que poñan control á subcontratación para a equiparación real de dereitos dos traballadores e traballadoras e para que haxa un fortalecemento da negociación colectiva.\n - A prevalencia dos convenios sectoriais sobre o da empresa —non só nos salarios— así como a prevalencia dos convenios de ámbito provincial ou galego sobre os convenios de ámbito estatal."
+   },
+   {
+    "id": "bng-0048",
+    "partido": "bng",
+    "titular": "Redefinir las causas del despido objetivo con informe vinculante de la Inspección",
+    "marca_actual": [],
+    "texto": "- Redefinir as causas económicas/organizativas do despedimento obxectivo (última ratio) e período de consultas mínimo dun mes con informe vinculante da Inspección."
+   },
+   {
+    "id": "bng-0049",
+    "partido": "bng",
+    "titular": "Que la persona trabajadora elija entre readmisión e indemnización",
+    "marca_actual": [],
+    "texto": "- Dar opción da persoa traballadora entre readmisión e indemnización nos despedimentos."
+   },
+   {
+    "id": "bng-0051",
+    "partido": "bng",
+    "titular": "Eliminar las ETT, la subcontratación en cadena y los falsos autónomos",
+    "marca_actual": [],
+    "texto": "- Eliminar as Empresas de Traballo Temporal (ETT) e as axencias privadas de colocación, a subcontratación en cadea, as falsas/os autónomas/os e asegurar a igualdade de condicións laborais e retributivas nos Centros Especiais de Emprego."
+   },
+   {
+    "id": "bng-0053",
+    "partido": "bng",
+    "titular": "Plan de acción contra la siniestralidad laboral",
+    "marca_actual": [],
+    "texto": "- Impulsar un plan de acción contra a sinistralidade laboral que abranga:\n - A promoción do emprego estábel naqueles sectores con maiores taxas de sinistralidade.\n - Un maior control e fiscalización das empresas e sectores que acumulan un elevado número de accidentes no traballo.\n - Redución obrigatoria da xornada laboral nas actividades máis perigosas, entre outras medidas.\n - Actualización lexislativa en acoso, riscos psicosociais e trastornos músculo-esqueléticos.\n - Mecanismos de paralización da actividade ante risco grave e inminente.\n - Protección na maternidade/lactación con risco.\n - Reforzo da vixilancia e protección onde haxa subcontratación ou descentralización produtiva.\n - Ampliación do recoñecemento legal de enfermidades profesionais."
+   },
+   {
+    "id": "bng-0056",
+    "partido": "bng",
+    "titular": "Auditorías retributivas y planes de igualdad obligatorios con más Inspección de Trabajo",
+    "marca_actual": [],
+    "texto": "- Realizar auditorías retributivas e plans de igualdade de obrigado cumprimento, con reforzo da Inspección de Traballo."
+   },
+   {
+    "id": "bng-0057",
+    "partido": "bng",
+    "titular": "Limitar los periodos de prueba a 15 días con causa motivada",
+    "marca_actual": [],
+    "texto": "- Limitar a duración máxima dos períodos de proba a 15 días e esixir causa motivada para a súa non superación."
+   },
+   {
+    "id": "bng-0058",
+    "partido": "bng",
+    "titular": "Limitar el contrato fijo-discontinuo con 45 días por fin de llamamiento",
+    "marca_actual": [],
+    "texto": "- Limitar a modalidade de contratación fixo-discontinúa: chamamentos cun máximo de 2–3 meses de intervalo, preaviso mínimo de 15 días, indemnización de 45 días/ano por fin de chamamento; prohibición desta modalidade nas ETT e en xornada parcial."
+   },
+   {
+    "id": "bng-0059",
+    "partido": "bng",
+    "titular": "Jornada parcial mínima de 20 horas y máximo del 15 % de la plantilla",
+    "marca_actual": [],
+    "texto": "- Limitar a contratación a tempo parcial esixindo unha xornada mínima de 20 horas semanais, limitación do 15% do cadro de persoal a tempo parcial por empresa, restrición das horas complementarias (só indefinidos, non obrigatorias)."
+   },
+   {
+    "id": "bng-0060",
+    "partido": "bng",
+    "titular": "Retribuir al 100 % del convenio los contratos formativos de menos de un año",
+    "marca_actual": [],
+    "texto": "- Garantir unha retribución do 100% do convenio os contratos formativos con duración inferior ao ano, prohibición en ERTE."
+   },
+   {
+    "id": "bng-0061",
+    "partido": "bng",
+    "titular": "Subrogación obligatoria en la sucesión empresarial y la contratación pública",
+    "marca_actual": [],
+    "texto": "- Estabelecer a subrogación obrigatoria na sucesión empresarial e na contratación pública."
+   },
+   {
+    "id": "bng-0062",
+    "partido": "bng",
+    "titular": "Eliminar las modificaciones sustanciales de salario y limitar los descuelgues",
+    "marca_actual": [],
+    "texto": "- Eliminar as modificacións substanciais en salario e redución de xornada, así como limitar os descolgues e a distribución irregular da xornada."
+   },
+   {
+    "id": "bng-0063",
+    "partido": "bng",
+    "titular": "Restringir los ERTE y evitar su carácter permanente",
+    "marca_actual": [],
+    "texto": "- Restrinxir a aplicación de ERTE, evitando o seu carácter permanente e que se combinen con outras medidas de recorte laboral."
+   },
+   {
+    "id": "bng-0100",
+    "partido": "bng",
+    "titular": "Reforzar la inspección laboral y combatir la explotación",
+    "marca_actual": [],
+    "texto": "- Reforzar os mecanismos de inspección laboral e combater a explotación."
+   },
+   {
+    "id": "bng-0138",
+    "partido": "bng",
+    "titular": "Catálogo de enfermedades profesionales de las mujeres del marisqueo",
+    "marca_actual": [],
+    "texto": "- Cumprir coa elaboración pendente do catálogo de enfermidades profesionais recollidas na lei de pesca do 2023 a instancias do BNG para o recoñecemento das enfermidades profesionais das mulleres do marisqueo."
+   },
+   {
+    "id": "bng-0140",
+    "partido": "bng",
+    "titular": "Vigilar los convenios de las trabajadoras de cuidados y del hogar",
+    "marca_actual": [],
+    "texto": "- Promover un maior control e vixilancia no cumprimento dos convenios colectivos das traballadoras de atención as persoas maiores e dependentes así como no ámbito do traballo no fogar."
+   },
+   {
+    "id": "bng-0286",
+    "partido": "bng",
+    "titular": "Aplicar las enmiendas a la Ley de Pesca sobre enfermedades profesionales y convenios",
+    "marca_actual": [],
+    "texto": "- A implantación inmediata das medidas aprobadas a raíz das emendas do BNG á Lei 5/2023, de Pesca Sostíbel e Investigación Pesqueira sobre:\n - Elaboración dun catálogo de enfermidades profesionais propias dos traballadores e traballadoras do mar, nomeadamente mexilloeiros, mariscadoras e mariscadores, percebeiros e mergulladores para a recolección de recursos específicos.\n - Voto dos tripulantes embarcados en altura e grande altura.\n - Convenios colectivos que garantan condicións laborais dignas para os tripulantes de pesca de altura, grande altura e litoral."
+   },
+   {
+    "id": "bng-0515",
+    "partido": "bng",
+    "titular": "Garantizar la remuneración de las prácticas",
+    "marca_actual": [],
+    "texto": "- Garantir a remuneración das prácticas, asegurando que sexan unha experiencia formativa e de aprendizaxe para as estudantes e non unha substitución dun traballador ou traballadora, evitando a precarización da mocidade no ámbito laboral."
+   },
+   {
+    "id": "bng-0516",
+    "partido": "bng",
+    "titular": "Equiparar derechos y remuneración de los contratos de formación",
+    "marca_actual": [],
+    "texto": "- Equiparar os dereitos laborais e a remuneración dos contratos de formación como en calquera actividade laboral."
+   },
+   {
+    "id": "erc-0056",
+    "partido": "erc",
+    "titular": "Completar el traspaso íntegro de la Inspección de Trabajo y Seguridad Social",
+    "marca_actual": [],
+    "texto": "39. Completar el traspàs integral de la Inspecció de Treball i Seguretat Social. Culminar el traspàs previst a l’Estatut d’Autonomia, incloent-hi totes les funcions inspectores que encara romanen en l’àmbit estatal, com també el personal inspector i subinspector necessari per exercir-les, garantint-ne la dependència orgànica i funcional de la Generalitat de Catalunya, i dotant-la dels recursos econòmics, materials i organitzatius corresponents. Cal que el govern del país disposi de la capacitat plena per planificar, dirigir, organitzar i executar la funció inspectora en l’àmbit laboral i de la Seguretat Social a Catalunya, amb un model integral, coordinat i adaptat a les necessitats del mercat de treball català."
+   },
+   {
+    "id": "erc-0138",
+    "partido": "erc",
+    "titular": "Derogar lo vigente de las reformas laborales de 2010 y 2012",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "103. Derogar els aspectes de les reformes laborals de 2010 i 2012 que continuen vigents. Revertir l’abaratiment i la facilitació de l’acomiadament, recuperant la indemnització per acomiadament improcedent de 45 dies per any treballat, amb un màxim de 42 mensualitats, i els salaris de tramitació. Restablir l’autorització administrativa prèvia de l’autoritat laboral de la Generalitat per als acomiadaments col·lectius, les suspensions de contractes i les reduccions col·lectives de jornada. Recuperar les garanties davant els acomiadaments per causes objectives i reforçar la negociació col·lectiva, l’estabilitat laboral i el control públic de les decisions empresarials."
+   },
+   {
+    "id": "erc-0139",
+    "partido": "erc",
+    "titular": "Indemnización adicional sin tope por despidos sin causa, según el CEDS",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "104. Establir una indemnització addicional per acomiadaments sense causa d’acord amb la resolució del Comitè Europeu de Drets Socials (CEDS). El CEDS va emetre una decisió vinculant el 24 de juliol de 2024 que explicitava que la legislació laboral espanyola no protegia degudament els treballadors víctimes d’acomiadaments sense causa. Així, per donar compliment a la Carta Social Europea, cal reformar l’Estatut dels Treballadors i permetre que en aquest tipus de cessaments no operi cap tipus de topall màxim a l’hora de fixar la indemnització. S’ha de garantir que les indemnitzacions per acomiadaments sense causa siguin efectivament dissuasives per a les empreses i rescabalin degudament els treballadors que en siguin víctimes."
+   },
+   {
+    "id": "erc-0143",
+    "partido": "erc",
+    "titular": "Actualizar la Ley de prevención de riesgos laborales",
+    "marca_actual": [],
+    "texto": "108. Actualitzar la Llei de prevenció de riscos laborals per garantir entorns de treball segurs i saludables. Reformar la legislació estatal per reduir la sinistralitat laboral i adaptar la prevenció als nous riscos derivats de la digitalització, el canvi climàtic i les transformacions del mercat de treball, incorporant-hi la perspectiva de gènere i d’edat."
+   },
+   {
+    "id": "erc-0150",
+    "partido": "erc",
+    "titular": "Invertir la carga de la prueba contra los falsos autónomos",
+    "marca_actual": [],
+    "texto": "115. Reforçar la lluita contra els falsos autònoms. Modificar la legislació perquè, en els procediments judicials de reconeixement de relació laborals contra empreses que hagin rebut sentències contràries per casos similars durant els 9 mesos anteriors a la interposició de la demanda, s’inverteixi la càrrega de la prova, de manera que el treballador demandant únicament hagi d’aportar indicis de laboralitat."
+   },
+   {
+    "id": "erc-0160",
+    "partido": "erc",
+    "titular": "Combatir la precariedad en sectores feminizados como SAD, camareras de piso y hogar",
+    "marca_actual": [],
+    "texto": "125. Combatre la precarietat laboral i reforçar els drets de les persones treballadores dels sectors més vulnerables i feminitzats. Impulsar mesures per garantir salaris dignes, estabilitat laboral, millors condicions de treball i una protecció social efectiva. Dignificar les condicions laborals de les treballadores del Servei d’Atenció Domiciliària (SAD), prohibir l’externalització de les tasques ordinàries de les cambreres de pis en el sector hoteler i reconèixer o compensar els períodes treballats per les empleades de la llar abans de 2022 que no van generar drets de protecció per desocupació. Incorporar la perspectiva de gènere al reconeixement de les malalties professionals, revisant el quadre de patologies per corregir els biaixos que hi consten i incloure-hi malalties com ara la fibromiàlgia, la fatiga crònica o el lupus quan se n’acrediti l’origen laboral."
+   },
+   {
+    "id": "cnv-0046",
+    "partido": "cnv",
+    "titular": "Reformar los contratos en prácticas y de formación y aprendizaje",
+    "marca_actual": [],
+    "texto": "- Impulsarem la reforma dels contractes en pràctiques i de formació i aprenentatge per facilitar primeres experiències laborals."
+   },
+   {
+    "id": "cnv-0102",
+    "partido": "cnv",
+    "titular": "Regular con claridad las causas económicas del despido objetivo",
+    "marca_actual": [],
+    "texto": "- Treballarem per establir una regulació clara sobre les circumstàncies econòmiques que justifiquen l’acomiadament objectiu."
+   },
+   {
+    "id": "cnv-0104",
+    "partido": "cnv",
+    "titular": "Bonificar a las empresas con bajo índice de despidos",
+    "marca_actual": [],
+    "texto": "- Bonificarem les empreses amb baix índex d’acomiadaments per fomentar l’estabilitat laboral."
+   },
+   {
+    "id": "cnv-0106",
+    "partido": "cnv",
+    "titular": "Traspasar a la Generalitat la Inspección de Trabajo en Seguridad Social",
+    "marca_actual": [],
+    "texto": "- Exigirem el traspàs a la Generalitat de la inspecció de treball pel que fa a la Seguretat Social, com ja s’ha fet al País Basc, i així aconseguir tenir una única inspecció de treball."
+   },
+   {
+    "id": "pnv-0026",
+    "partido": "pnv",
+    "titular": "Reforzar la Inspección de Trabajo contra el fraude laboral y las falsas personas autónomas",
+    "marca_actual": [],
+    "texto": "4. Detectar y sancionar mejor los abusos laborales reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida y los incumplimientos de la normativa laboral."
+   },
+   {
+    "id": "pnv-0027",
+    "partido": "pnv",
+    "titular": "Mejorar la prevención de riesgos laborales y la salud mental en el trabajo",
+    "marca_actual": [],
+    "texto": "5. **Mejorar la prevención de riesgos laborales y la protección de la salud física y mental en el trabajo**, reforzando la coordinación entre servicios sanitarios, mutuas y Seguridad Social."
+   },
+   {
+    "id": "pnv-0029",
+    "partido": "pnv",
+    "titular": "Reforzar la prevención del acoso laboral, sexual y discriminatorio en las empresas",
+    "marca_actual": [],
+    "texto": "7. **Reforzar la prevención y la actuación frente al acoso laboral, sexual y discriminatorio**, garantizando protocolos eficaces en las empresas."
+   },
+   {
+    "id": "pnv-0031",
+    "partido": "pnv",
+    "titular": "Regular las prácticas formativas garantizando los derechos del alumnado",
+    "marca_actual": [],
+    "texto": "9. Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo, respetando las competencias de Euskadi y el funcionamiento de la Formación Profesional Dual."
+   },
+   {
+    "id": "pnv-0218",
+    "partido": "pnv",
+    "titular": "Reparación justa y sin retrasos para las víctimas del amianto",
+    "marca_actual": [],
+    "texto": "**Las víctimas del amianto no pueden seguir esperando. El fondo de compensación debe funcionar, reconocer a todas las personas beneficiarias y garantizar indemnizaciones justas.**"
+   },
+   {
+    "id": "pnv-0219",
+    "partido": "pnv",
+    "titular": "Reformar el Real Decreto 483/2025 para facilitar el acceso al fondo del amianto",
+    "marca_actual": [],
+    "texto": "1. **Reformar el Real Decreto 483/2025 para corregir las dificultades de acceso al fondo**, garantizando su aplicación a todos los colectivos beneficiarios previstos en la Ley 21/2022."
+   },
+   {
+    "id": "pnv-0220",
+    "partido": "pnv",
+    "titular": "Revisar las indemnizaciones del amianto y simplificar su pago",
+    "marca_actual": [],
+    "texto": "2. **Revisar las cuantías indemnizatorias y simplificar los procedimientos de reconocimiento y pago**, eliminando obstáculos administrativos que retrasan las compensaciones."
+   },
+   {
+    "id": "pnv-0221",
+    "partido": "pnv",
+    "titular": "Declarar exentas del IRPF las indemnizaciones del Fondo de Compensación del Amianto",
+    "marca_actual": [],
+    "texto": "3. **Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto**, evitando que las personas afectadas pierdan parte de la reparación que les corresponde."
+   },
+   {
+    "id": "pnv-0222",
+    "partido": "pnv",
+    "titular": "Dotación suficiente y plazos ágiles para indemnizar a las víctimas del amianto",
+    "marca_actual": [],
+    "texto": "4. Asegurar una dotación presupuestaria suficiente, plazos ágiles de resolución y criterios homogéneos, garantizando que las indemnizaciones lleguen a las víctimas y sus familias sin demoras ni desigualdades."
+   },
+   {
+    "id": "bildu-0018",
+    "partido": "bildu",
+    "titular": "SMI propio por comunidad autónoma y despido improcedente de al menos 45 días",
+    "marca_actual": [
+     "mantener-profundizar"
+    ],
+    "texto": "- Establecer la adaptación a la realidad socioeconómica mediante un SMI propio, que permita alcanzar valores de suficiencia, evitando la pérdida de poder adquisitivo de los sectores más dependientes del Salario Mínimo Interprofesional como jóvenes, mujeres y sectores vulnerables. Para ello:\n - Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.\n - Establecer por ley, como parámetro de suficiencia para el establecimiento de las cuantías, la referencia que establece la Carta Social Europea.\n - Adoptar las medidas que impidan a las empresas la absorción de los aumentos mediante pluses y complementos.\n - Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes:\n - Indemnización por despido improcedente de al menos 45 días, cumpliendo con la resolución del Comité Europeo de Derechos Sociales de establecer indemnizaciones disuasorias y suficientes\n - Salarios de tramitación.\n - Recuperar en el Estatuto de los Trabajadores la necesaria autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo, con el objetivo de proteger el empleo y la viabilidad de la actividad empresarial.\n - Medidas específicas orientadas a reducir la precariedad, temporalidad y parcialidad que aún afectan especialmente a sectores como mujeres y personas jóvenes, con el objetivo de reducir la brecha salarial existente."
+   },
+   {
+    "id": "bildu-0020",
+    "partido": "bildu",
+    "titular": "Periodo de prueba máximo: 3 meses para titulados y 1 mes para el resto",
+    "marca_actual": [],
+    "texto": "- Control de las extinciones de contrato por no superar el periodo de prueba para evitar que el período sea utilizado para encubrir contrataciones fraudulentas y despidos sin causa. Mediante la negociación colectiva se fijará la duración del periodo de prueba y a falta de pacto colectivo se fijará un periodo máximo de 3 meses para el personal técnico titulado y un mes para el resto."
+   },
+   {
+    "id": "bildu-0025",
+    "partido": "bildu",
+    "titular": "Equiparación laboral plena de las empleadas de hogar y revisión del régimen de internas",
+    "marca_actual": [],
+    "texto": "- Realizar mejoras en las condiciones laborales de las empleadas de hogar para una equiparación laboral plena con el resto de trabajadores y trabajadoras a través de una revisión estricta del régimen de internas, una revisión en el reconocimiento de enfermedades profesionales, una Inspección de Trabajo que persiga eficazmente los abusos y los excesos de jornada en los domicilios, y la eliminación de trabas para el cobro de las prestaciones por desempleo y pensiones, así como la promoción de la negociación colectiva para hacer posible la regulación y mejoras de las condiciones laborales en el empleo de hogar a través de un convenio colectivo."
+   },
+   {
+    "id": "bildu-0026",
+    "partido": "bildu",
+    "titular": "Transferencia completa de la Inspección de Trabajo y más plantilla",
+    "marca_actual": [],
+    "texto": "- Transferencia completa de la competencia de Inspección de Trabajo incluida la capacidad para realizar las convocatorias para la cobertura de las plazas necesarias, todo ello con el objetivo de contar con un instrumento fundamental para la protección de los y las trabajadoras. Transitoriamente, y hasta que la transferencia sea efectiva, realizar convocatorias para ampliar las plantillas de la Inspección de Trabajo, compromiso adoptado con nuestras instituciones, pero no ejecutado por el Ministerio."
+   }
+  ]
+ },
+ {
+  "eje": "eje-memoria",
+  "pregunta": "¿Qué hacer con la Ley de Memoria Democrática?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "ampliar",
+    "nombre": "Mantenerla o ampliarla"
+   }
+  ],
+  "n": 47,
+  "palabras": 4113,
+  "candidatos": [
+   {
+    "id": "podemos-0243",
+    "partido": "podemos",
+    "titular": "Lucha contra el antigitanismo e inclusión social del Pueblo Gitano",
+    "marca_actual": [],
+    "texto": "225. **Lucha contra el antigitanismo y por la inclusión social del Pueblo Gitano.**\n - Llevar a la práctica las propuestas de la **Comisión de Memoria del Pueblo Gitano**, que se creó en 2024 por la disposición adicional duodécima de la Ley de Memoria Democrática: un Archivo de la Memoria Gitana, un Estatuto Cultural y una ley integral. El reconocimiento a las víctimas gitanas de la barbarie del franquismo sigue siendo una de las grandes deudas históricas que la democracia española tiene con el Pueblo Gitano.\n - **Establecer una Comisión Parlamentaria de Seguimiento del Pacto de Estado contra el Antigitanismo** para evaluar el grado de avance las 158 medidas aprobadas por el pleno del Congreso.\n - **Desarrollar en coordinación con las CCAA la enseñanza de la Historia del Pueblo Gitano en la Enseñanza Obligatoria** tal y como quedó aprobado en la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación; y en el Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.\n - **Establecer todas las medidas que sean necesarias en el sistema educativo para garantizar la inclusión del alumnado gitano,** superar la brecha digital, incrementar la escolarización, la continuidad en los estudios postobligatorios y erradicar la segregación escolar.\n - **Promover el feminismo romaní.** Tener en cuenta en todas las políticas de igualdad, de lucha contra las violencias machistas y sexuales y contra la brecha económica entre hombres y mujeres la especificidad de la situación de las mujeres gitanas, dando el máximo protagonismo a las mismas en el diseño de las políticas públicas."
+   },
+   {
+    "id": "podemos-0424",
+    "partido": "podemos",
+    "titular": "Diagnóstico: democratizar el Estado es inseparable de repartir la riqueza",
+    "marca_actual": [],
+    "texto": "El sistema está montado para que el dinero suba de abajo arriba. Y para que los de arriba tengan el poder de impedir que las cosas cambien. Por eso, democratizar el Estado es inseparable de repartir la riqueza. Cuando una minoría puede influir en las leyes, condicionar las decisiones de los gobiernos o poner las instituciones al servicio de sus negocios, la democracia se vacía de contenido. La ciudadanía puede elegir a sus representantes, pero encuentra enormes obstáculos para conseguir que su voluntad se traduzca en una vida mejor si eso afecta a los intereses de los poderosos.\n\nPara comprender el reparto actual del poder también hay que mirar de dónde viene. La democracia española tiene pendiente afrontar las consecuencias económicas y sociales de la dictadura franquista. La memoria democrática exige mirar también los patrimonios y las estructuras de poder, esclarecer quién se enriqueció con la represión y el trabajo forzado. También reparar a quienes fueron desposeídos, reprimidos o asesinados. La memoria habla del pasado, pero también de quién tiene hoy la riqueza y quién conserva el poder en este sistema."
+   },
+   {
+    "id": "podemos-0455",
+    "partido": "podemos",
+    "titular": "Ley de bebés robados con fiscalía especializada y banco estatal de ADN",
+    "marca_actual": [],
+    "texto": "433. **Ley de bebés robados.** Nuestro país tiene una deuda pendiente con todas las mujeres a las que les robaron a sus hijos durante la dictadura franquista. Por eso, proponemos una ley que garantice el derecho de las víctimas y sus familiares a la verdad, la justicia y la reparación integral, mediante la investigación de los casos, el acceso a los archivos, la creación de una fiscalía especializada y de un banco estatal de ADN gratuito que facilite la búsqueda y la recuperación de la identidad de las personas afectadas."
+   },
+   {
+    "id": "podemos-0456",
+    "partido": "podemos",
+    "titular": "Verdad, justicia y reparación para víctimas de la dictadura y la Transición",
+    "marca_actual": [],
+    "texto": "434. **Verdad, justicia y reparación para las víctimas de la dictadura y la “transición”.** Acabaremos con la impunidad de los crímenes de la dictadura franquista y de la Transición y garantizaremos el derecho a la verdad, la justicia y la reparación integral de todas sus víctimas y familiares. Reconoceremos especialmente a las personas que sufrieron violencia institucional y ultraderechista por su lucha por la democracia entre 1977 y el 31 de diciembre de 1983, un periodo en el que se produjeron más de 170 muertes por violencia de origen institucional y 67 asesinatos cometidos por grupos ultraderechistas. Para ello:\n - **Reformaremos la Ley de Amnistía de 1977** para que deje de ser un obstáculo para la investigación y el enjuiciamiento de los crímenes internacionales cometidos durante la dictadura y la Transición.\n - **Modificaremos el Código Penal y la Ley de Enjuiciamiento Criminal** para incorporar los principios del derecho internacional y garantizar la investigación y persecución de los crímenes de guerra, de lesa humanidad y otras graves violaciones de derechos humanos, así como la revisión de las resoluciones judiciales que hayan impedido investigarlos.\n - **Ratificación de la Convención sobre la imprescriptibilidad de los crímenes de guerra y de los crímenes de lesa humanidad**. En nuestro país no se reconocen hasta 2004. Los anteriores no son considerados crímenes de lesa humanidad, por lo que prescriben.\n - **Crearemos una Oficina Estatal de Atención a las Víctimas de la Transición**, que proporcione asistencia jurídica, psicológica y administrativa a las víctimas y sus familiares y garantice su derecho a la verdad, la justicia y la reparación.\n - **Garantizaremos el acceso a los archivos y documentos históricos,** la recuperación de testimonios y la investigación de los crímenes cometidos, impulsando la divulgación pública de estos hechos y una reconstrucción rigurosa de la historia de la dictadura y la Transición.\n - **Modificación de la Ley de Tratados internacionales (25/2014)** para, entre otras cuestiones, establecer la obligatoriedad en cuanto al cumplimiento y ejecución por parte del Estado español de los dictámenes y demás resoluciones que dicten los órganos de Tratado, así como los diferentes mecanismos adscritos al Consejo de Derechos Humanos de las Naciones Unidas.\n Esta medida debe servir para superar definitivamente la impunidad que ha protegido durante décadas a los responsables de la violencia política y garantizar que ninguna víctima quede excluida de su derecho a la reparación."
+   },
+   {
+    "id": "podemos-0457",
+    "partido": "podemos",
+    "titular": "Ley de reparación para las víctimas del Patronato de Protección a la Mujer",
+    "marca_actual": [],
+    "texto": "435. **Ley de Verdad, Justicia y Reparación para las víctimas del Patronato de Protección a la Mujer.** Se garantizará el reconocimiento y la reparación de las graves violaciones de derechos humanos cometidas contra miles de mujeres y niñas entre 1941 y 1985. La ley establecerá una comisión de investigación para esclarecer los crímenes cometidos, incluidos los internamientos forzosos, la violencia física y sexual, la sustracción de bebés, la explotación laboral y las muertes no esclarecidas; garantizará la apertura, digitalización y acceso a los archivos estatales y eclesiásticos; investigará las responsabilidades del Estado, las congregaciones religiosas y las empresas beneficiarias del trabajo forzado; reconocerá los años trabajados a efectos de cotización y jubilación; e incorporará expresamente a las supervivientes del Patronato en la Ley de Memoria Democrática como víctimas de la represión franquista y de la violencia institucional, garantizando su derecho a la verdad, la justicia y la reparación integral, incluidas indemnizaciones económicas, desde una perspectiva feminista, antirracista y LGTBIQA+. Asimismo, prohibiremos la contratación pública y la adjudicación de servicios financiados con fondos públicos a las entidades religiosas o seculares que hubieran gestionado centros del Patronato de Protección a la Mujer, incluidas congregaciones como las Adoratrices y las Oblatas, mediante las reformas legales necesarias y con las garantías jurídicas correspondientes."
+   },
+   {
+    "id": "podemos-0458",
+    "partido": "podemos",
+    "titular": "Día festivo nacional de la Memoria Democrática",
+    "marca_actual": [],
+    "texto": "436. **Declararemos un día festivo nacional para la celebración de la Memoria Democrática** que incluirá actos institucionales de reconocimiento a las víctimas."
+   },
+   {
+    "id": "podemos-0459",
+    "partido": "podemos",
+    "titular": "Ley de reparación a personas LGTBI represaliadas con prestación económica vitalicia",
+    "marca_actual": [],
+    "texto": "437. **Ley de Memoria y Justicia para la Reparación de las Personas Trans y LGTBI víctimas de la represión y la violencia institucional.** Reconoceremos a todas las víctimas y repararemos las graves vulneraciones de derechos humanos sufridas por razón de orientación sexual, identidad o expresión de género durante la dictadura franquista, la transición y los primeros años de democracia. La ley establecerá una prestación económica vitalicia, equivalente a la pensión mínima de jubilación para mayores de 65 años sin cargas familiares, compatible con otras pensiones e ingresos, que se incrementará en un 50 % para quienes hayan sufrido privación de libertad como consecuencia de la legislación represiva. Asimismo, garantizará medidas de reparación integral, reconocimiento institucional y recuperación de la memoria histórica LGTBI, incluyendo la investigación y preservación de archivos, la difusión de testimonios y la señalización de lugares de memoria. Se establecerán también medidas de acceso prioritario a la vivienda pública y a residencias para personas mayores, con el objetivo de garantizar una vejez digna a quienes sufrieron décadas de persecución, exclusión y discriminación institucional."
+   },
+   {
+    "id": "podemos-0460",
+    "partido": "podemos",
+    "titular": "Políticas de memoria colonial y resignificación del 12 de octubre",
+    "marca_actual": [],
+    "texto": "438. **Memoria colonial y resignificación del 12 de octubre.** Impulsaremos políticas públicas de memoria colonial, el reconocimiento de las injusticias históricas cometidas, revisando especialmente la historia colonial española en el Rif y Guinea y la incorporación de una perspectiva crítica y rigurosa sobre la colonización en la educación, los museos y las instituciones públicas. Apostaremos por construir unas relaciones con los pueblos de América Latina basadas en la igualdad, la reparación, la cooperación y el respeto a su soberanía, dejando atrás cualquier nostalgia imperial o visión paternalista. Nuestra identidad colectiva no debe construirse sobre la exaltación de la dominación de otros pueblos, sino sobre los valores democráticos, la justicia social, la convivencia entre culturas y la fraternidad internacional. Para ello, también, resignificaremos el 12 de octubre, dejando atrás su carácter de exaltación de la conquista y la colonización de América, para convertirlo en una jornada de reflexión sobre nuestra historia y de reconocimiento de la diversidad cultural, la igualdad, la reparación y la fraternidad entre los pueblos. Apostaremos por unas relaciones con América Latina y África basadas en la cooperación, el respeto a la soberanía y la superación de cualquier visión imperial o paternalista."
+   },
+   {
+    "id": "podemos-0461",
+    "partido": "podemos",
+    "titular": "Aplicar plenamente la Ley de Memoria Democrática y transformar Cuelgamuros",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "439. **Cumplimiento efectivo de la Ley de Memoria Democrática.** Desarrollaremos de forma inmediata todos los aspectos pendientes de aplicación de la Ley de Memoria Democrática e impulsaremos las reformas necesarias para garantizar su cumplimiento efectivo, reforzando las políticas de verdad, justicia, reparación y garantías de no repetición. Garantizaremos la búsqueda, exhumación e identificación de las víctimas, mediante una financiación pública estable y suficiente y la puesta en funcionamiento efectivo del Banco Estatal de ADN, con pruebas genéticas gratuitas; el acceso público a los archivos y la nulidad efectiva de las sentencias franquistas. Impulsaremos la restitución de los bienes expoliados, la reparación económica y psicológica de las víctimas y el reconocimiento de quienes sufrieron trabajos forzados y otras formas de represión. Retiraremos los símbolos, honores y reconocimientos franquistas, impediremos los actos de exaltación de la dictadura y desarrollaremos una política activa de recuperación, resignificación y protección de los lugares de memoria democrática, incluyendo la transformación del Valle de Cuelgamuros, la creación de espacios de memoria y homenaje en antiguos centros de represión como la Cárcel de Carabanchel y la Real Casa de Correos, y la eliminación de monumentos y símbolos de exaltación franquista, como el Arco de la Victoria de Madrid. Asimismo, promoveremos la investigación de los crímenes del franquismo y sus responsables, el cumplimiento de las recomendaciones de la Comisión de la Verdad, la creación de un Centro Estatal de Memoria Democrática y la incorporación de la memoria democrática a los contenidos educativos, garantizando la participación de las asociaciones memorialistas."
+   },
+   {
+    "id": "adelante-0547",
+    "partido": "adelante",
+    "titular": "Disolver grupos y fundaciones que glorifiquen el nazismo, el fascismo o el franquismo",
+    "marca_actual": [],
+    "texto": "492. **Fuera las organizaciones que exaltan el fascismo** — Disolución de los grupos neonazis y neofascistas y de las fundaciones y asociaciones que glorifiquen el nazismo, el fascismo o el franquismo. _Porque exaltar el fascismo no es libertad de expresión._"
+   },
+   {
+    "id": "adelante-0602",
+    "partido": "adelante",
+    "titular": "Centro de documentación de la memoria LGTBIQA+ en Cádiz",
+    "marca_actual": [],
+    "texto": "544. **Memoria LGTBIQA+** — Recuperación de la memoria y centro de documentación, con una sede en el barrio del Pópulo de Cádiz. _Porque la persecución de las personas LGTBI también es memoria democrática._"
+   },
+   {
+    "id": "adelante-0605",
+    "partido": "adelante",
+    "titular": "Diagnóstico: Andalucía, frontera sur de Europa y tierra de fosas sin abrir",
+    "marca_actual": [],
+    "texto": "Andalucía es la frontera sur de Europa y tierra de fosas sin abrir. Cada año, personas que huyen de la guerra y la pobreza se juegan la vida en el Estrecho y en la ruta atlántica, y quienes llegan se encuentran con una Ley de Extranjería que las condena a la irregularidad y a la explotación en los campos de Huelva y Almería. Al mismo tiempo, miles de familias andaluzas siguen esperando para recuperar a sus seres queridos de las cunetas, y el pueblo gitano, parte de nuestra historia desde hace siglos, sigue sufriendo discriminación. La extrema derecha usa a las personas migrantes como chivo expiatorio mientras hay quien se enriquece con su trabajo, y llama «concordia» a borrar la memoria de las víctimas del franquismo. Lo que aquí se decide sobre migración y memoria se mide en vidas y en dignidad: derechos para todas las personas, verdad, justicia y reparación, y una política exterior de paz."
+   },
+   {
+    "id": "adelante-0626",
+    "partido": "adelante",
+    "titular": "Anular apartados de la Ley de Amnistía de 1977 que impiden investigar el franquismo",
+    "marca_actual": [],
+    "texto": "567. **Fin de la impunidad** — Anular los apartados de la Ley de Amnistía de 1977 que impiden investigar los crímenes del franquismo. _Porque los crímenes del franquismo nunca se han juzgado._"
+   },
+   {
+    "id": "adelante-0627",
+    "partido": "adelante",
+    "titular": "Imprescriptibilidad de los crímenes de lesa humanidad en el Código Penal",
+    "marca_actual": [],
+    "texto": "568. **Crímenes que no prescriben** — Principio de legalidad internacional en el Código Penal y ratificación de la convención sobre imprescriptibilidad de los crímenes de lesa humanidad. _Porque los crímenes contra la humanidad no prescriben._"
+   },
+   {
+    "id": "adelante-0628",
+    "partido": "adelante",
+    "titular": "Incluir a las víctimas del franquismo en el Estatuto de la Víctima del Delito",
+    "marca_actual": [],
+    "texto": "569. **Víctimas con todos los derechos** — Las víctimas del franquismo, en el Estatuto de la Víctima del Delito. _Porque las víctimas del franquismo merecen los mismos derechos que cualquier víctima._"
+   },
+   {
+    "id": "adelante-0629",
+    "partido": "adelante",
+    "titular": "Exhumaciones con tutela judicial, banco público de ADN y fondos estatales",
+    "marca_actual": [],
+    "texto": "570. **Andalucía sin fosas** — Exhumaciones con tutela judicial, Fiscalía desde el primer hallazgo, banco público de ADN y fondos estatales suficientes. _Porque Andalucía tiene miles de personas todavía en fosas._"
+   },
+   {
+    "id": "adelante-0630",
+    "partido": "adelante",
+    "titular": "Traspasar y digitalizar los archivos de la Guerra Civil y la represión",
+    "marca_actual": [],
+    "texto": "571. **Los archivos, a Andalucía** — Traspaso y digitalización de los archivos de la Guerra Civil y la represión, con acceso fácil para las familias. _Porque las familias tienen derecho a conocer la historia de los suyos._"
+   },
+   {
+    "id": "adelante-0631",
+    "partido": "adelante",
+    "titular": "La represión franquista de cada territorio en el currículo escolar",
+    "marca_actual": [],
+    "texto": "572. **La memoria en las aulas** — La represión franquista en cada territorio, como La Desbandá, en el currículo escolar. _Porque lo que no se enseña se olvida._"
+   },
+   {
+    "id": "adelante-0632",
+    "partido": "adelante",
+    "titular": "Prohibir y sancionar la exaltación pública del franquismo",
+    "marca_actual": [],
+    "texto": "573. **Ni un símbolo franquista** — Prohibición y sanción de la exaltación pública del franquismo. _Porque exaltar una dictadura es humillar a sus víctimas._"
+   },
+   {
+    "id": "adelante-0633",
+    "partido": "adelante",
+    "titular": "Publicar las empresas que usaron trabajo esclavo y recuperar bienes expoliados",
+    "marca_actual": [],
+    "texto": "574. **Quien se lucró, que se sepa** — Investigación y publicación de las empresas que usaron el trabajo esclavo de personas presas y recuperación de los bienes expoliados, como el Cortijo Gambogaz. _Porque hubo empresas que se enriquecieron con el trabajo esclavo de las personas presas._"
+   },
+   {
+    "id": "adelante-0634",
+    "partido": "adelante",
+    "titular": "Reparar a las mujeres del Patronato de Protección a la Mujer",
+    "marca_actual": [],
+    "texto": "575. **Reparación a las mujeres del patronato** — Reconocimiento como víctimas de violencia institucional y patriarcal de todas las mujeres que pasaron por el Patronato de Protección a la Mujer y de sus descendientes, con reparación, su inclusión en el censo estatal de víctimas del franquismo, un mapa público de sus centros con testimonios y documentación, y su estudio en las aulas junto a la represión específica sobre las mujeres. _Porque miles de mujeres fueron encerradas y maltratadas por ese organismo._"
+   },
+   {
+    "id": "adelante-0635",
+    "partido": "adelante",
+    "titular": "Nueva ley de secretos oficiales y reparación a familias de bebés robados",
+    "marca_actual": [],
+    "texto": "576. **Secretos oficiales y bebés robados** — Nueva ley de secretos oficiales y verdad, justicia y reparación para las familias de los bebés robados. _Porque las familias de los bebés robados siguen sin respuestas._"
+   },
+   {
+    "id": "adelante-0636",
+    "partido": "adelante",
+    "titular": "Ampliar la Ley de Memoria Democrática a víctimas de tortura tras 1978",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "577. **Memoria para las víctimas de la tortura** — Ampliar la Ley de Memoria Democrática a quienes sufrieron torturas, también después de 1978, con reconocimiento y reparación. _Porque la tortura también existió después de la dictadura y sus víctimas merecen reparación._"
+   },
+   {
+    "id": "adelante-0753",
+    "partido": "adelante",
+    "titular": "Recuperar la antigua cárcel de Huelva como lugar de memoria democrática",
+    "marca_actual": [],
+    "texto": "683. **La antigua cárcel de Huelva, lugar de memoria** — Recuperarla como espacio de memoria democrática y de reconocimiento de la represión del colectivo LGTBIQ+. _Porque la antigua cárcel fue un lugar de represión que no debe olvidarse._"
+   },
+   {
+    "id": "adelante-0754",
+    "partido": "adelante",
+    "titular": "Remisión a otras propuestas del programa para Huelva",
+    "marca_actual": [],
+    "texto": "También en este programa: ley de Doñana (**423**), Doñana sin gas (**408**), salud ambiental en el Polo Químico (**34**), fin de los asentamientos (**176**), conexión de calidad para Huelva (**375**), planes de inundaciones (**417**), memoria democrática (570 y 571), temporeras (**531**) y vivienda (157 a 191)."
+   },
+   {
+    "id": "adelante-0783",
+    "partido": "adelante",
+    "titular": "Financiación estatal para exhumar e identificar a las víctimas de la fosa de Ronda",
+    "marca_actual": [],
+    "texto": "711. **La fosa de Ronda** — Financiación estatal para localizar, exhumar e identificar a las víctimas enterradas en la fosa común del cementerio, con apoyo a sus familias. _Porque en la fosa de Ronda siguen enterradas víctimas que sus familias quieren recuperar._"
+   },
+   {
+    "id": "bng-0161",
+    "partido": "bng",
+    "titular": "Derogar la Ley de Amnistía de 1977 y reconocer la imprescriptibilidad del genocidio",
+    "marca_actual": [],
+    "texto": "- Derrogar a Lei de Amnistía de 1977, que segue a impedir as reivindicacións e o amparo xudicial das vítimas de crimes contra a súa vida e dignidade cometidos durante o réxime franquista, así como o recoñecemento da imprescritibilidade dos delitos de xenocidio e lesa humanidade e do principio de legalidade internacional."
+   },
+   {
+    "id": "bng-0162",
+    "partido": "bng",
+    "titular": "Reconocer el Pazo de Meirás como lugar de memoria y cederlo a Galicia",
+    "marca_actual": [],
+    "texto": "- Recoñecer o Pazo de Meirás como Lugar de Memoria centrado no espolio e nas vítimas do franquismo. Após a sentenza que avanzou na devolución ao pobo galego do Pazo de Meirás, o BNG comprométese a traballar para que sexa cedido a Galiza garantindo que a titularidade e uso públicos respecten a súa verdadeira historia, reclamando que o espazo se centre na lembranza dos abusos e do espolio dos bens dos galegos e galegas polo ditador Franco e a súa familia e o recoñecemento das vítimas, así como a permitir a participación das entidades memorialistas na súa xestión. Ademais, o BNG seguirá a loitar pola recuperación dos demais bens espoliados polo ditador Francisco Franco e pola súa familia (Casa das Cunchas, Casa Cornide...)."
+   },
+   {
+    "id": "bng-0163",
+    "partido": "bng",
+    "titular": "Revisar el acuerdo de San Simón y San Antón como lugar de memoria",
+    "marca_actual": [],
+    "texto": "- Revisar o acordo polo que se declara as illas de San Simón e San Antón como lugar de memoria democrática, de modo que de garanta a centralidade do seu significado como espazo de represión e resistencia e se impidan os usos que resulten ofensivos para as vítimas, as familias e a sociedade no seu conxunto."
+   },
+   {
+    "id": "bng-0164",
+    "partido": "bng",
+    "titular": "Modificar la Ley de Memoria para romper con la impunidad del franquismo",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "- Modificar a Lei de Memoria co obxectivo de rachar coa impunidade do franquismo e que garanta a tutela xudicial efectiva das vítimas e das súas familias."
+   },
+   {
+    "id": "bng-0165",
+    "partido": "bng",
+    "titular": "Retirar la simbología y prohibir los actos de exaltación franquista",
+    "marca_actual": [],
+    "texto": "- Garantir a retirada efectiva da simboloxía, a prohibición de actos públicos de exaltación franquista e avances reais en medidas en materia educativa e de formación do profesorado en materia de memoria democrática."
+   },
+   {
+    "id": "erc-0006",
+    "partido": "erc",
+    "titular": "Reparar a las víctimas de la mili y cumplir la Ley de Memoria Democrática",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "En matèria de memòria, cal reconèixer i reparar les víctimes del Servei Militar Obligatori a l’Estat, tal com Esquerra Republicana ha reclamat intensament durant la XV legislatura. A més, cal convertir la comissaria de Policia Nacional de Via Laietana en un espai de memòria i finalitzar l’auditoria de béns espoliats pel franquisme a entitats i associacions, exigint a l’Estat que compleixi amb la Llei de Memòria Democràtica i estableixi les responsabilitats pertinents."
+   },
+   {
+    "id": "erc-0010",
+    "partido": "erc",
+    "titular": "Ley estatal de desaparición forzosa de menores con verdad, justicia y reparación",
+    "marca_actual": [],
+    "texto": "4. Aprovar una llei estatal de desaparició forçosa de menors per garantir veritat, justícia i reparació. Milers de famílies continuen sense saber la veritat sobre els seus fills, víctimes d’un entramat institucional que va permetre segrestos, adopcions irregulars i desaparicions forçades. L’Estat ha fracassat en aprovar una norma que asseguri investigacions rigoroses, accés a arxius, proves d’ADN i suport jurídic i psicològic a les víctimes. Sense aquesta llei, les famílies es veuen obligades a recórrer a tribunals estrangers o a iniciatives privades, i es perpetua la impunitat. Aprovar aquesta llei és una qüestió de justícia, de reparació i de compromís democràtic amb la veritat. La norma ha de garantir que cap cas quedi sense investigar i que les víctimes rebin el reconeixement i el suport que mereixen."
+   },
+   {
+    "id": "erc-0011",
+    "partido": "erc",
+    "titular": "Reconocer a las víctimas del servicio militar obligatorio (1976-2001) y desclasificar archivos",
+    "marca_actual": [],
+    "texto": "5. Reconèixer la realitat de les Víctimes del Servei Militar Obligatori (1976-2001) i treballar per aconseguir veritat i reparació. Resulta urgent la desclassificació d’arxius militars, judicials i administratius relacionats amb abusos i morts de soldats a causa dels maltractaments en el servei militar obligatori. Cal promoure una declaració d’assumpció de responsabilitat política de l’Estat pel dolor i la manca de protecció als joves sota la seva custòdia i establir mecanismes de memòria i reparació per a les víctimes i les famílies afectades."
+   },
+   {
+    "id": "erc-0012",
+    "partido": "erc",
+    "titular": "Finalizar la auditoría de bienes expoliados por el franquismo a entidades",
+    "marca_actual": [],
+    "texto": "6. Finalitzar l’Auditoria de Béns Espoliats pel Franquisme a Entitats i Associacions. Durant la dictadura franquista, milers d’organitzacions van perdre patrimoni, documentació, seus socials i recursos que mai no han estat retornats ni compensats. Tot i que la Llei de Memòria Democràtica preveu aquesta auditoria, l’elaboració és lenta i incompleta i deixa les víctimes en una situació d’injustícia persistent. Finalitzar-la és imprescindible per identificar l’abast real de l’espoli, establir responsabilitats i obrir la porta a la restitució o la compensació."
+   },
+   {
+    "id": "erc-0013",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat la comisaría de Via Laietana para un centro memorial",
+    "marca_actual": [],
+    "texto": "7. Traspassar la titularitat de l’edifici de la Prefectura Superior de la Policia Nacional de Via Laietana 43 a la Generalitat de Catalunya, conjuntament amb el fons arxivístic i els recursos econòmics que s’estimin oportuns per convertir les dependències actuals en un centre memorialístic i commemoratiu. La comissaria de Via Laietana és un dels espais més simbòlics de la repressió franquista, on milers de persones van patir tortures, detencions arbitràries i violacions de drets humans. Mantenir-la com a comissaria perpetua una ferida oberta i impedeix avançar cap a una memòria democràtica plena."
+   },
+   {
+    "id": "erc-0128",
+    "partido": "erc",
+    "titular": "Ley estatal de memoria y reparación LGBTI+",
+    "marca_actual": [],
+    "texto": "96. Impulsar una llei estatal de memòria i reparació LGBTI+. Reconèixer i reparar la persecució històrica de les persones LGBTI+ per les institucions, incloent-hi la repressió de les persones trans, les lesbianes i les dones sotmeses al Patronato de Protección a la Mujer. Garantir l’accés als arxius, la preservació de testimonis, la participació de les víctimes i mesures de reparació, reconeixement públic i divulgació educativa i cultural, respectant les competències de Catalunya."
+   },
+   {
+    "id": "pnv-0168",
+    "partido": "pnv",
+    "titular": "Reparar a las mujeres víctimas del franquismo y del Patronato de Protección",
+    "marca_actual": [],
+    "texto": "12. **Reconocer y reparar las vulneraciones específicas de los derechos de las mujeres durante la dictadura franquista**, especialmente las sufridas por las víctimas del Patronato de Protección a la Mujer, con participación de las víctimas y de Gogora."
+   },
+   {
+    "id": "pnv-0252",
+    "partido": "pnv",
+    "titular": "Desclasificar los documentos del 3 de marzo de 1976 en Vitoria-Gasteiz",
+    "marca_actual": [],
+    "texto": "2. Promover la desclasificación de los documentos oficiales relacionados con los sucesos del 3 de marzo de 1976 en Vitoria-Gasteiz, para contribuir al esclarecimiento de los hechos y al reconocimiento y reparación de las víctimas."
+   },
+   {
+    "id": "pnv-0253",
+    "partido": "pnv",
+    "titular": "Esclarecer las circunstancias de la muerte de Mikel Zabalza",
+    "marca_actual": [],
+    "texto": "3. Asegurar el esclarecimiento de las circunstancias de la muerte de Mikel Zabalza, facilitando el acceso a la documentación oficial que pueda contribuir a conocer la verdad."
+   },
+   {
+    "id": "pnv-0254",
+    "partido": "pnv",
+    "titular": "Desclasificar la documentación del atentado del bar Aldana de Alonsotegi de 1980",
+    "marca_actual": [],
+    "texto": "4. Promover la desclasificación de la documentación relacionada con el atentado del bar Aldana de Alonsotegi, ocurrido el 20 de enero de 1980, y el esclarecimiento de los hechos y las responsabilidades correspondientes."
+   },
+   {
+    "id": "pnv-0255",
+    "partido": "pnv",
+    "titular": "Acceso a la documentación sobre la actuación policial en los Sanfermines de 1978",
+    "marca_actual": [],
+    "texto": "5. Asegurar el acceso a la documentación oficial sobre la actuación policial durante los Sanfermines de 1978, para avanzar en el conocimiento de la verdad y la reparación de las víctimas."
+   },
+   {
+    "id": "pnv-0256",
+    "partido": "pnv",
+    "titular": "Aplicar íntegramente la legislación de Memoria Histórica y Memoria Democrática",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "6. Promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática, garantizando los derechos a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y la dictadura franquista."
+   },
+   {
+    "id": "bildu-0002",
+    "partido": "bildu",
+    "titular": "Balance: logros en pensiones, vivienda, impuestos y memoria en Madrid",
+    "marca_actual": [],
+    "texto": "Son muchos los logros y avances que hemos conseguido para la ciudadanía vasca estos últimos años en Madrid. Hemos aumentado las pensiones mínimas de viudedad y no contributivas; hemos aprobado nuevas medidas en materia de Vivienda y también los decretos de emergencia junto al escudo social; hemos aumentado el impuesto a la banca y las grandes fortunas logrando la gestión propia para nuestras haciendas forales; hemos avanzado en la recuperación de nuestra memoria histórica convirtiendo en lugares de Memoria el palacio de La Cumbre y el fuerte de San Cristóbal o impulsando el Memorial del 3 de Marzo; hemos reforzado el respeto hacia el euskera y hemos logrado nuevas competencias y herramientas para nuestro pais; y también hemos logrado más de 200 millones de euros en inversiones en nuestros pueblos y ciudades para la mejora de los transportes, proyectos culturales, transición ecológica, accesibilidad, cuidados, educación o infraestructuras. Y hemos hecho todo ello, además de apoyar con nuestros votos todos los avances sociales y de justicia social que se han producido los últimos años. Dijimos que lo haríamos, y lo hemos hecho."
+   },
+   {
+    "id": "bildu-0195",
+    "partido": "bildu",
+    "titular": "Construir la convivencia con una memoria inclusiva de todas las víctimas",
+    "marca_actual": [],
+    "texto": "El camino de la paz, la reparación y la convivencia requiere del esfuerzo y la implicación de la ciudadanía, de las instituciones y de todas las fuerzas políticas de nuestro país. EH Bildu está comprometida en continuar aportando para recorrer, de la mano de la sociedad vasca, el proceso de construcción de la convivencia.\n\nLa sociedad vasca tiene un compromiso firme con lograr una memoria inclusiva, basada en el respeto y reconocimiento de todas las víctimas, de todos los sufrimientos y vivencias, que vele por los derechos de todas ellas sin excepción.\n\nPara recorrer este camino compartido, se necesitan grandes dosis de empatía, sensibilidad y responsabilidad para construir el presente y futuro en paz que la ciudadanía vasca anhela.\n\nPara ello, es necesario tomar decisiones valientes, dar nuevos pasos, que nos asienten en el nuevo escenario de paz y convivencia que con tanto esfuerzo estamos construyendo de manera compartida.\n\nPara seguir avanzando, propondremos:"
+   },
+   {
+    "id": "bildu-0196",
+    "partido": "bildu",
+    "titular": "Ampliar la Ley de Memoria Democrática a víctimas de tortura y guerra sucia",
+    "marca_actual": [
+     "ampliar"
+    ],
+    "texto": "- Ampliar la Ley de Memoria Democrática para reconocer la condición de víctimas de vulneraciones de derechos humanos a colectivos que todavía no tienen tal reconocimiento, como las víctimas del franquismo, las de la tortura, las de la guerra sucia o los grupos de ultraderecha. De esta manera se garantiza que puedan acceder con garantías a su derecho a la verdad, a la justicia y a la reparación. El objetivo de esta medida es que el Estado español también recorra el camino del reconocimiento y la reparación de todas las víctimas, el cual ya está en marcha en nuestro país y en nuestras instituciones."
+   },
+   {
+    "id": "bildu-0197",
+    "partido": "bildu",
+    "titular": "Derogar la Ley de Secretos Oficiales vigente desde el franquismo",
+    "marca_actual": [],
+    "texto": "- Derogar la Ley de Secretos Oficiales, en vigor desde el franquismo, para asegurar una legislación que garantice la transparencia, la accesibilidad, la información y la protección respecto a todos los oscuros episodios que aún continúan bajo un manto de impunidad y que marcaron nuestra historia, como la muerte de Mikel Zabalza y Germán Rodríguez o la masacre del 3 de Marzo de Gasteiz, sucesos que aún siguen sin esclarecer y en los que, a pesar de los avances producidos, continúa sin haber una asunción de responsabilidades ni un reconocimiento efectivo de sus víctimas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prioridad-nacional",
+  "pregunta": "¿Prioridad para los españoles en ayudas y servicios?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí: prioridad nacional o más requisitos para acceder"
+   },
+   {
+    "id": "no",
+    "nombre": "No: igualdad de acceso"
+   }
+  ],
+  "n": 44,
+  "palabras": 3316,
+  "candidatos": [
+   {
+    "id": "podemos-0012",
+    "partido": "podemos",
+    "titular": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional",
+    "marca_actual": [],
+    "texto": "5. **Prohibición de los desahucios de personas vulnerables sin alternativa habitacional.** Prohibiremos los desahucios y lanzamientos de personas en situación de vulnerabilidad sin alternativa habitacional digna y adecuada, estableciendo su suspensión indefinida, también en los casos de contratos de renta antigua. La inexistencia de alternativa habitacional digna y adecuada supondrá que se presuma la condición de vulnerabilidad. Garantizaremos la asistencia letrada a las personas afectadas en el momento del desalojo y ampliaremos los medios de prueba disponibles para acreditar su situación de vulnerabilidad. Incorporaremos además la cláusula “Maricarmen” para garantizar que las personas reciban una alternativa habitacional en sus proximidades, respetando sus vínculos comunitarios y su arraigo. En ningún caso se considerará alternativa habitacional una plaza en una institución residencial."
+   },
+   {
+    "id": "podemos-0101",
+    "partido": "podemos",
+    "titular": "Vías legales y seguras, visado de búsqueda de empleo y arraigo más flexible",
+    "marca_actual": [],
+    "texto": "88. **Vías legales y seguras para garantizar la vida.** Articularemos vías legales y seguras de entrada en España, y apostaremos especialmente por la flexibilización de los procesos de reagrupación familiar. Implantaremos una nueva política de visados con distinta tipología, como por ejemplo el de búsqueda de empleo, que permita la estancia temporal en España y el regreso al país de origen si no se ha logrado encontrar un trabajo, sin prohibición de nueva entrada. La renovación de las autorizaciones de residencia no se vinculará exclusivamente a la posesión de un contrato en vigor o una oferta de empleo, y se flexibilizarán asimismo los procesos de arraigo."
+   },
+   {
+    "id": "podemos-0116",
+    "partido": "podemos",
+    "titular": "Ley de nacionalidad para saharauis nacidos bajo soberanía española y descendientes",
+    "marca_actual": [],
+    "texto": "103. **Aprobar la ley que concede la nacionalidad española a los saharauis nacidos bajo soberanía española y a sus descendientes.** Retomaremos y aprobaremos la ley que reconoce la nacionalidad española a las personas saharauis nacidas en el Sáhara Occidental bajo administración española y facilita el acceso a ella a sus descendientes directos, reparando una deuda histórica de España con el pueblo saharaui."
+   },
+   {
+    "id": "podemos-0223",
+    "partido": "podemos",
+    "titular": "Derogar la Ley de Extranjería y aprobar una Ley Integral basada en derechos",
+    "marca_actual": [],
+    "texto": "205. **Derogación de la Ley de Extranjería y reforma integral del modelo migratorio.** Acabar con la Ley Orgánica 4/2000 y **aprobar una nueva Ley Integral que sitúe los derechos humanos, la igualdad de trato y la inclusión en el centro de la política pública**. Con ello se pondrá fin a las disposiciones adicionales que permiten las devoluciones en caliente de migrantes en nuestras fronteras. La nueva norma incorporará garantías efectivas en diversas materias como la residencia, el trabajo o el acceso a los servicios públicos, entre otros. El objetivo es dejar atrás un modelo que vincula la situación administrativa con la exclusión y avanzar hacia una política que reconozca a las personas migrantes como sujetos de derechos y miembros de pleno derecho de la sociedad. Asimismo, se garantizará la atención integral y regularización de los menores extranjeros no acompañados, así como la atención integral a personas jóvenes extuteladas con programas personalizados de acompañamiento a la vida adulta para garantizar su inclusión laboral y social en España."
+   },
+   {
+    "id": "podemos-0225",
+    "partido": "podemos",
+    "titular": "DNI y voto para quien vive y trabaja en España y nacionalidad más fácil",
+    "marca_actual": [],
+    "texto": "207. **Cumplimiento de los derechos humanos y civiles de las personas migrantes que viven en nuestro país, y reconocimiento de su aportación a la sociedad.**\n - **Quien vive y trabaja en España, tiene que tener DNI español y derecho al voto**.\n - **Refuerzo inmediato de todos los recursos humanos** de los ministerios, las administraciones públicas y las fuerzas y cuerpos de seguridad del Estado que se ocupan de todos los trámites que tienen que ver con las personas migrantes en España: asilo, refugio, solicitud y expedición de permisos, trámites de nacionalidad, etc.\n - Reforma del art. 22 Código Civil para **simplificar el acceso a la nacionalidad española y reducir los plazos de residencia exigidos**, con especial atención a las personas que han construido su proyecto de vida en España. El plazo se reducirá a un año el plazo para las personas que acrediten arraigo efectivo y continuado, sin discriminaciones por origen, y ampliar los supuestos de adquisición por opción.\n - Establecer por ley la obligación de los ayuntamientos correspondientes y los empresarios de proporcionar un **alojamiento digno a los temporeros y temporeras** como condición previa a su contratación. Imposición de multas lo suficientemente disuasorias cuando se incumpla este precepto.\n - Implementaremos mecanismos de prevención para **prohibir las identificaciones por perfil racial.** Estas identificaciones serán consideradas delitos de odio según la legislación correspondiente vigente.Modificaremos la Ley Orgánica 2/1986 y la Ley 4/2015 para establecer protocolos públicos, sistemas de registro y supervisión independiente, vías accesibles de denuncia y reparación y la obligación de registrar documentalmente las identificaciones.\n - **Gratuidad efectiva de los procedimientos de regularización y nacionalidad.** Eliminaremos las tasas administrativas que dificulten el ejercicio de estos derechos, estableciendo exenciones para las personas con bajos ingresos y garantizando la plena asistencia jurídica y orientación necesaria de forma gratuita."
+   },
+   {
+    "id": "podemos-0226",
+    "partido": "podemos",
+    "titular": "Ius soli: españoles de origen los nacidos en España con un progenitor residente",
+    "marca_actual": [],
+    "texto": "208. **Ius soli: Los nacidos en España son españoles.** Modificación del apartado c) del artículo 17.1 del Código Civil. Los nacidos en España de padres extranjeros, si ambos carecieren de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad, serán considerados españoles de origen. Asimismo, serán españoles de origen los nacidos en España de padres extranjeros cuando, con anterioridad al nacimiento, cualquiera de los progenitores hubiera permanecido legalmente de estancia en España durante un año."
+   },
+   {
+    "id": "podemos-0228",
+    "partido": "podemos",
+    "titular": "Procedimiento permanente de regularización que reconozca el arraigo social y familiar",
+    "marca_actual": [],
+    "texto": "210. **Establecimiento de un procedimiento permanente de regularización de las personas migrantes.** Mediante la nueva norma estatal de igualdad de trato superaremos un modelo criminalizador con las personas migrantes y el sistema de regularización reconocerá el arraigo social, familiar y comunitario, sin hacer depender el derecho a residir legalmente en España exclusivamente de disponer de un contrato de trabajo."
+   },
+   {
+    "id": "podemos-0229",
+    "partido": "podemos",
+    "titular": "Acreditar el arraigo con pruebas más amplias que el empadronamiento",
+    "marca_actual": [],
+    "texto": "211. **Reconocimiento del arraigo mediante pruebas de residencia y vinculación social.** Siguiendo el método que impulsamos en el proceso de la regularización extraordinaria para personas migrantes en el año 2026, permitiremos acreditar la permanencia en España y los vínculos con la comunidad mediante distintos medios de prueba más amplios que los actuales, como el empadronamiento, los abonos de transporte o los registros de atención sanitaria que permitan demostrar la presencia continuada en el territorio. De este modo, se evita que la falta del empadronamiento, muchas veces producto de la obstaculización municipal en el proceso, se convierta en una barrera insalvable para acceder a la regularización. Eliminaremos el requisito de acreditar un tiempo de estancia sin permiso de residencia en España para poder ser dado de alta en la Seguridad Social y desarrollar un trabajo remunerado con derechos."
+   },
+   {
+    "id": "podemos-0233",
+    "partido": "podemos",
+    "titular": "Garantizar la escolarización de todos los menores sin importar su situación administrativa",
+    "marca_actual": [],
+    "texto": "215. **Garantía efectiva del acceso universal a la educación.** En consonancia con la legislación internacional en materia de derechos de las infancias y adolescencias, garantizaremos el acceso a la educación pública de todas las personas menores de edad en el Estado español, independientemente de su nacionalidad o situación administrativa; y eliminaremos las trabas documentales que dificulten la escolarización. Atendiendo a la Ley Orgánica 2/2006, de Educación reforzaremos las becas, los programas de apoyo lingüístico, la mediación intercultural y las políticas contra la segregación escolar. Además, trabajaremos territorialmente para la correcta implementación del marco estatal en las distintas Comunidades Autónomas. De este modo, evitaremos que la situación administrativa familiar o de los y las menores suponga un obstáculo para el pleno derecho a la educación."
+   },
+   {
+    "id": "podemos-0234",
+    "partido": "podemos",
+    "titular": "Sanidad pública universal incluidas las personas migrantes en situación irregular",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "216. **Universalidad de la sanidad y de los servicios sociales.** Defendemos un sistema sanitario público y universal para todas las personas que viven en España, incluidas las personas migrantes en situación administrativa irregular y las solicitantes de asilo. Eliminaremos las barreras administrativas que impiden recibir atención y reforzaremos la coordinación entre los servicios sanitarios y sociales. La propuesta se desarrollará a partir de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, y de las modificaciones normativas para garantizar una cobertura efectiva, estable y homogénea en todas las comunidades autónomas. Asimismo, la derogación de la Ley de Extranjería y una modificación de la Ley 14/1986, reguladora del derecho de asilo y la protección subsidiaria, complementará el acceso inmediato a las prestaciones necesarias."
+   },
+   {
+    "id": "podemos-0235",
+    "partido": "podemos",
+    "titular": "Proteger frente a la discriminación laboral y facilitar la homologación de títulos",
+    "marca_actual": [],
+    "texto": "217. **Protección frente a la discriminación en el empleo y acceso al mercado laboral.** Combatiremos la explotación laboral y la economía sumergida mediante el refuerzo de la Inspección de Trabajo, el asesoramiento jurídico gratuito y la protección de las personas que denuncien abusos por su situación administrativa, por su origen o por su raza. Facilitaremos la homologación de títulos extranjeros, el reconocimiento de competencias profesionales y el acceso a la formación. La política de inclusión laboral se acompañará de medidas contra la discriminación en la contratación, en consonancia con la Ley 15/2022, integral para la igualdad de trato y la no discriminación, y la Directiva 2000/43/CE, relativa a la igualdad de trato por origen racial o étnico."
+   },
+   {
+    "id": "podemos-0236",
+    "partido": "podemos",
+    "titular": "Acceso de madres migrantes en situación irregular a prestaciones por maternidad",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "218. **Protección específica para las madres migrantes y las familias reagrupadas.** Prohibiremos que la irregularidad administrativa impida acceder a las prestaciones y apoyos vinculados a la maternidad. Para ello, implementaremos reformas en coordinación con la legislación laboral y la Seguridad Social, así como con las políticas públicas de protección de la infancia y las familias. Se modificará el Real Decreto Legislativo 8/2015, relativo al IMV, para incluir el acceso a prestaciones desde una modalidad no contributiva."
+   },
+   {
+    "id": "podemos-0325",
+    "partido": "podemos",
+    "titular": "Sanidad universal sin exclusiones, cartera bucodental al 100 % y copago según renta",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "307. **Derecho a la salud sin barreras: universalidad real, cartera ampliada y copagos limitados.** Recuperaremos una sanidad plenamente universal, financiada con recursos públicos y gestionada desde lo público, que garantice el derecho a la salud en condiciones de igualdad, independientemente de la situación económica, laboral o territorial. Desarrollaremos y, si hiciera falta, modificaremos el RDL 7/2018 para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema. Avanzaremos hacia un sistema sanitario común que integre a los aproximadamente dos millones de funcionarios que hoy cuentan con un modelo diferenciado. Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica, para que una familia humilde reciba la misma atención que una con más recursos puede pagar en el ámbito privado; el dentista público incluirá empastes, limpiezas, ortodoncias, endodoncias, prótesis y férulas. Reformaremos el copago farmacéutico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos. La salud es un derecho, no un negocio: nadie debe tener que elegir entre llegar a fin de mes y seguir el tratamiento que necesita."
+   },
+   {
+    "id": "adelante-0136",
+    "partido": "adelante",
+    "titular": "Aulas de acogida lingüística para el alumnado extranjero sin español",
+    "marca_actual": [],
+    "texto": "94. **Aulas de acogida lingüística** — Personal en todos los centros con alumnado extranjero para que quien llega sin español pueda seguir las clases. _Porque nadie puede aprender en una lengua que todavía no entiende._"
+   },
+   {
+    "id": "adelante-0531",
+    "partido": "adelante",
+    "titular": "Comisión en el Congreso para preparar las reformas constitucionales del programa",
+    "marca_actual": [],
+    "texto": "476. **Comisión para la reforma constitucional** — Comisión en el Congreso que prepare las reformas de este programa que necesitan cambiar la Constitución: el voto de las personas extranjeras residentes en todas las elecciones, la vivienda como derecho fundamental, el aborto, Andalucía como nacionalidad histórica, el fin de los aforamientos, el Senado territorial, la elección directa del Consejo General del Poder Judicial, el referéndum de iniciativa ciudadana y el referéndum obligatorio de toda reforma constitucional. _Porque muchas de estas reformas necesitan cambiar la Constitución._"
+   },
+   {
+    "id": "adelante-0613",
+    "partido": "adelante",
+    "titular": "Empadronamiento efectivo para todas las personas sin discriminación",
+    "marca_actual": [],
+    "texto": "554. **Padrón para todas las personas** — Empadronamiento efectivo sin discriminación, con la financiación local ligada a su cumplimiento. _Porque sin empadronamiento no hay acceso a la sanidad ni a la escuela._"
+   },
+   {
+    "id": "adelante-0614",
+    "partido": "adelante",
+    "titular": "Sanidad universal, escuela infantil y comedor sin trabas para personas sin papeles",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "555. **Sanidad y escuela sin papeles** — Sanidad universal efectiva, escuela infantil y comedor sin trabas administrativas. _Porque la salud y la educación son derechos de todas las personas._"
+   },
+   {
+    "id": "adelante-0617",
+    "partido": "adelante",
+    "titular": "Voto local para las personas extranjeras ratificando el convenio europeo",
+    "marca_actual": [],
+    "texto": "558. **Voto local para las personas extranjeras** — Ratificación del convenio europeo sobre su participación en la vida pública local. _Porque quien vive en un municipio debe poder elegir a su ayuntamiento._"
+   },
+   {
+    "id": "adelante-0618",
+    "partido": "adelante",
+    "titular": "Programas municipales de inserción laboral para personas migrantes",
+    "marca_actual": [],
+    "texto": "559. **Empleo en el propio municipio** — Programas de inserción laboral para personas migrantes con los servicios de empleo y los ayuntamientos. _Porque el empleo es la mejor forma de integración._"
+   },
+   {
+    "id": "adelante-0619",
+    "partido": "adelante",
+    "titular": "Ningún expediente sancionador a quien denuncie un delito estando en situación irregular",
+    "marca_actual": [],
+    "texto": "560. **Denunciar sin miedo a la expulsión** — Ningún expediente sancionador a quien denuncia un delito estando en situación irregular, y los datos de extranjería separados de los policiales. _Porque nadie debería tener miedo a denunciar un delito._"
+   },
+   {
+    "id": "adelante-0622",
+    "partido": "adelante",
+    "titular": "Programas plurianuales de convivencia y mediación intercultural",
+    "marca_actual": [],
+    "texto": "563. **Convivencia intercultural estable** — Programas plurianuales y mediación intercultural en los servicios públicos, con apoyo al asociacionismo migrante. _Porque la convivencia se construye con políticas estables._"
+   },
+   {
+    "id": "adelante-0625",
+    "partido": "adelante",
+    "titular": "Homologación ágil de títulos con menos tasas y documentación flexible",
+    "marca_actual": [],
+    "texto": "566. **Títulos homologados en plazo** — Homologación y acreditación de competencias ágiles, con menos tasas y documentación flexible. _Porque hay personas con títulos que no pueden trabajar en lo suyo por la burocracia._"
+   },
+   {
+    "id": "bng-0099",
+    "partido": "bng",
+    "titular": "Galicia, país emigrante y receptor: una nación inclusiva frente al racismo",
+    "marca_actual": [],
+    "texto": "Nas últimas décadas a situación migratoria mudou de forma acelerada de xeito que hoxe Galiza é tanto un país emigrante, do que se segue expulsando poboación (especialmente moza), como máis recentemente un país receptor de inmigración. Esta mudanza non é un fenómeno excepcional nin transitorio, senón unha realidade estrutural que ten efectos concretos no tecido social e económico, sobre todo nos sectores máis precarizados do mercado de traballo, desempeñados cada vez máis por persoas inmigrantes –sobre todo mulleres–, a miúdo en condicións de irregularidade e vulnerabilidade.\n\nFronte aos discursos discriminatorios, xenófobos ou racistas, o BNG defende unha Galiza inclusiva, entendida como unha patria colectiva a defender, construír e gozar entre todas e todos mediante a participación activa na vida social, económica, cultural e política. A nación inclusiva que defendemos non se constrúe sobre vínculos étnicos, senón sobre a participación democrática, o acceso a dereitos e a contribución á vida colectiva. Iso require combater o racismo institucional e a xenofobia e construír activamente unha Galiza inclusiva dotada dos instrumentos legais e institucionais necesarios.\n\nA irregularidade administrativa é funcionalmente útil para un mercado laboral que se beneficia da man de obra sen protección legal nin capacidade de negociación. Defender os dereitos laborais das persoas migrantes é defender as condicións de traballo do conxunto da clase traballadora galega. En base a isto, propomos:"
+   },
+   {
+    "id": "bng-0103",
+    "partido": "bng",
+    "titular": "Agilizar la homologación de títulos extranjeros, también para retornados",
+    "marca_actual": [],
+    "texto": "- Axilizar a homologación e o recoñecemento de titulacións obtidas no estranxeiro e estabelecer sistemas de acreditación de competencias profesionais. Tamén para a poboación emigrante retornada."
+   },
+   {
+    "id": "bng-0105",
+    "partido": "bng",
+    "titular": "Admitir el conocimiento del gallego como criterio para la nacionalidad española",
+    "marca_actual": [],
+    "texto": "A garantía ao acceso á lingua galega debe ser parte integral do proceso de acollida desde o primeiro momento. Aprender galego é un dereito e unha ferramenta de participación plena na vida social, cultural e democrática do país e fomenta a identificación con Galiza e o seu pobo. Demandamos tamén que un acreditado coñecemento da lingua e cultura galegas sexa admitido como criterio para acceder á nacionalidade española, con independencia do coñecemento do español, ao demostrar unha integración na sociedade galega e unha vontade clara de pertencer a ela.\n\nNos últimos anos vemos con enorme preocupación o avance de discursos de odio aberta e desacomplexadamente racistas e xenófobos que poñen en cuestión e ameazan os dereitos máis básicos e fundamentais das persoas inmigrantes e do conxunto da sociedade.\n\nPara unha forza política como o BNG, construír sociedades inclusivas, orgullosas da súa diversidade e nas que os dereitos humanos de todas as persoas sexan garantidos é unha obriga; porén, na actualidade isto non é así. Moitas persoas son vítimas de comportamentos e actitudes discriminatorias, racistas e xenófobas que proceden do ámbito privado mais tamén do público.\n\nDesde o Bloque Nacionalista Galego asumimos o compromiso de:"
+   },
+   {
+    "id": "bng-0106",
+    "partido": "bng",
+    "titular": "Reformas legales para garantizar los derechos de la población inmigrante",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación inmigrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de regularización administrativa."
+   },
+   {
+    "id": "bng-0108",
+    "partido": "bng",
+    "titular": "Más recursos para las oficinas de extranjería",
+    "marca_actual": [],
+    "texto": "- Reclamar a dotación dos recursos humanos e materiais necesarios ás oficinas de estranxeiría para garantir a debida atención, no tempo e na forma, da poboación inmigrante, refuxiada e/ou solicitante de asilo."
+   },
+   {
+    "id": "cnv-0189",
+    "partido": "cnv",
+    "titular": "Diagnóstico: gestión migratoria ineficaz y preservación de los valores occidentales",
+    "marca_actual": [],
+    "texto": "Pel que fa a la qüestió migratòria, Europa viu immersa en una crisi humanitària, amb milers de persones que fugen dels seus països. A Catalunya, la diversitat de cultures, creences i religions ha estat una característica històrica. Tanmateix, al llarg de les darreres dècades, aquest fenomen ha anat en augment. La gestió ineficaç d’aquests processos per part de l’Estat, agreujada per l’acció “bonista” i populista del govern de la Generalitat, prometent solucions simples a problemes complexos, està posant en risc la preservació dels valors occidentals i de la nostra llengua. Veiem també, fruit d’aquesta ineficàcia general, com els discursos d’odi de l’extrema dreta i les conductes racistes van agafant cada cop més força a casa nostra.\n\nD’altra banda, la diversitat de creences és un fet a Catalunya i és fonamental reconèixer que la creença és consubstancial a la persona. La gestió d’aquesta diversitat, a través del diàleg intercultural i el respecte a la diferència és un dels grans reptes que cal afrontar des de la gestió pública, amb la voluntat de garantir els drets i la llibertat religiosa mentre preservem els valors occidentals i mantenim la cohesió social.\n\nPer tot això, des de Convergents proposem:"
+   },
+   {
+    "id": "cnv-0202",
+    "partido": "cnv",
+    "titular": "Asumir las competencias plenas en materia de inmigración",
+    "marca_actual": [],
+    "texto": "- Treballarem per assolir les competències plenes en matèria d’immigració, per garantir una gestió eficaç, ordenada i respectuosa dels fluxos migratoris, garant de drets, deures i oportunitats."
+   },
+   {
+    "id": "cnv-0205",
+    "partido": "cnv",
+    "titular": "Diálogo intercultural como eje de las políticas públicas",
+    "marca_actual": [],
+    "texto": "- Recolzarem el diàleg intercultural, basat amb l’humanisme, com a eix de les polítiques públiques per construir una societat fraternal i respectuosa amb la diversitat."
+   },
+   {
+    "id": "cnv-0206",
+    "partido": "cnv",
+    "titular": "Gestión migratoria realista que preserve los valores occidentales",
+    "marca_actual": [],
+    "texto": "- Recolzarem, lluny de les polítiques “bonistes” actuals, una gestió del fet migratori realista i sense complexos, amb respecte a la diversitat però preservant en tot moment els valors occidentals."
+   },
+   {
+    "id": "cnv-0207",
+    "partido": "cnv",
+    "titular": "Vincular residencia y nacionalidad a la integración lingüística y los valores occidentales",
+    "marca_actual": [],
+    "texto": "- Impulsarem una llei perquè el reconeixement de la residència i nacionalitat a Catalunya estigui vinculat a la integració lingüística i l’adopció dels valors democràtics i occidentals."
+   },
+   {
+    "id": "cnv-0212",
+    "partido": "cnv",
+    "titular": "Cohesión social mediante el diálogo y mecanismos de inclusión",
+    "marca_actual": [],
+    "texto": "- Fomentarem, d’acord amb la legislació europea, la cohesió social des del diàleg, a través de mecanismes d’inclusió, garantint l’equitat, el respecte i el reconeixement a la diferencia, en un marc de valors compartits."
+   },
+   {
+    "id": "cnv-0316",
+    "partido": "cnv",
+    "titular": "Potenciar la contratación en origen y armonizar acogida e integración en Europa",
+    "marca_actual": [],
+    "texto": "- Potenciarem la contractació en origen, i treballarem per harmonitzar els models d’acollida i integració a escala europea."
+   },
+   {
+    "id": "pnv-0055",
+    "partido": "pnv",
+    "titular": "Proteger y promover el modelo cooperativo vasco en la legislación estatal",
+    "marca_actual": [],
+    "texto": "6. **Proteger y promover el modelo cooperativo vasco**, garantizando que la legislación estatal reconozca sus particularidades y favorezca su desarrollo, arraigo y contribución al empleo de calidad."
+   },
+   {
+    "id": "pnv-0142",
+    "partido": "pnv",
+    "titular": "Capacidad de Euskadi para planificar la acogida y la integración",
+    "marca_actual": [],
+    "texto": "**Queremos decidir y gestionar mejor la política migratoria. Euskadi necesita capacidad para planificar la acogida, facilitar la integración y responder a las necesidades de su sociedad y de su economía.**"
+   },
+   {
+    "id": "pnv-0143",
+    "partido": "pnv",
+    "titular": "Más competencias para Euskadi en migración y extranjería",
+    "marca_actual": [],
+    "texto": "1. Promover mayores **competencias para Euskadi en materia de migración y extranjería**, avanzando hacia una gestión integral que abarque la llegada, la acogida, la residencia, el trabajo y la integración."
+   },
+   {
+    "id": "pnv-0152",
+    "partido": "pnv",
+    "titular": "Agilizar la homologación de titulaciones de las personas migrantes",
+    "marca_actual": [],
+    "texto": "10. **Agilizar la homologación y el reconocimiento de titulaciones y cualificaciones profesionales extranjeras**, evitando que los trámites administrativos impidan aprovechar el talento y la formación de las personas migrantes."
+   },
+   {
+    "id": "pnv-0155",
+    "partido": "pnv",
+    "titular": "Integración social y laboral de las personas migrantes y aprendizaje del euskera",
+    "marca_actual": [],
+    "texto": "13. **Promover la integración social y laboral de las personas migrantes**, favoreciendo su autonomía, su participación en la sociedad vasca y el aprendizaje del euskera como herramienta de integración y convivencia."
+   },
+   {
+    "id": "bildu-0024",
+    "partido": "bildu",
+    "titular": "Agilizar la homologación de titulaciones extranjeras para la inclusión sociolaboral",
+    "marca_actual": [],
+    "texto": "- Agilizar los trámites de homologación y equivalencias de las titulaciones extranjeras como mecanismo necesario en los procesos de inclusión socio-laboral."
+   },
+   {
+    "id": "bildu-0113",
+    "partido": "bildu",
+    "titular": "Impulsar las cooperativas y la economía social para reindustrializar",
+    "marca_actual": [],
+    "texto": "- Impulsar el desarrollo de la economía social como modelo estratégico de reindustrialización ecosocial, tomando como referencia la experiencia cooperativa de Euskal Herria y su proyección internacional. Promover reformas legislativas y políticas públicas que faciliten la creación, consolidación y crecimiento de cooperativas industriales, fomenten la participación de las personas trabajadoras en la propiedad y gestión de las empresas, y favorezcan la recuperación de empresas en crisis mediante fórmulas de propiedad colectiva. Reforzar asimismo los instrumentos públicos de financiación, innovación y acompañamiento empresarial para extender este modelo, vinculando la competitividad industrial a la democracia económica, el arraigo territorial y la distribución social del valor generado."
+   },
+   {
+    "id": "bildu-0149",
+    "partido": "bildu",
+    "titular": "Política migratoria con enfoque de derechos humanos, feminista e interseccional",
+    "marca_actual": [],
+    "texto": "Todas las medidas propuestas por Euskal Herria Bildu en materia de migración tendrán como principios rectores la perspectiva feminista e interseccional, el enfoque de derechos humanos y la consideración primordial del interés superior de la infancia, garantizando que su diseño, desarrollo y aplicación contribuyan a eliminar las desigualdades y discriminaciones múltiples, así como a asegurar el ejercicio efectivo de los derechos de todas las personas. Para ello, propondremos:"
+   },
+   {
+    "id": "bildu-0152",
+    "partido": "bildu",
+    "titular": "Acceso a servicios públicos con independencia de la situación administrativa",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Derecho universal a la acogida y a los servicios públicos: Garantizar un sistema público de acogida integral, con acompañamiento social, jurídico y laboral, homologación de títulos, acceso efectivo al padrón y eliminación de barreras para acceder a la sanidad, educación, vivienda y protección social, independientemente de la situación administrativa."
+   },
+   {
+    "id": "bildu-0154",
+    "partido": "bildu",
+    "titular": "Ampliar el derecho al voto de las personas de origen extranjero residentes",
+    "marca_actual": [],
+    "texto": "- Ciudadanía plena y reconocimiento de los derechos políticos: Impulsar las reformas necesarias para ampliar el derecho al voto y a la representación política de las personas de origen extranjero residentes, avanzando hacia un modelo de ciudadanía basado en la residencia efectiva y la participación democrática."
+   }
+  ]
+ },
+ {
+  "eje": "eje-regularizacion",
+  "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regularizaciones o vías estables"
+   },
+   {
+    "id": "no",
+    "nombre": "No, prohibirlas y expulsar"
+   }
+  ],
+  "n": 36,
+  "palabras": 2371,
+  "candidatos": [
+   {
+    "id": "podemos-0012",
+    "partido": "podemos",
+    "titular": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional",
+    "marca_actual": [],
+    "texto": "5. **Prohibición de los desahucios de personas vulnerables sin alternativa habitacional.** Prohibiremos los desahucios y lanzamientos de personas en situación de vulnerabilidad sin alternativa habitacional digna y adecuada, estableciendo su suspensión indefinida, también en los casos de contratos de renta antigua. La inexistencia de alternativa habitacional digna y adecuada supondrá que se presuma la condición de vulnerabilidad. Garantizaremos la asistencia letrada a las personas afectadas en el momento del desalojo y ampliaremos los medios de prueba disponibles para acreditar su situación de vulnerabilidad. Incorporaremos además la cláusula “Maricarmen” para garantizar que las personas reciban una alternativa habitacional en sus proximidades, respetando sus vínculos comunitarios y su arraigo. En ningún caso se considerará alternativa habitacional una plaza en una institución residencial."
+   },
+   {
+    "id": "podemos-0101",
+    "partido": "podemos",
+    "titular": "Vías legales y seguras, visado de búsqueda de empleo y arraigo más flexible",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "88. **Vías legales y seguras para garantizar la vida.** Articularemos vías legales y seguras de entrada en España, y apostaremos especialmente por la flexibilización de los procesos de reagrupación familiar. Implantaremos una nueva política de visados con distinta tipología, como por ejemplo el de búsqueda de empleo, que permita la estancia temporal en España y el regreso al país de origen si no se ha logrado encontrar un trabajo, sin prohibición de nueva entrada. La renovación de las autorizaciones de residencia no se vinculará exclusivamente a la posesión de un contrato en vigor o una oferta de empleo, y se flexibilizarán asimismo los procesos de arraigo."
+   },
+   {
+    "id": "podemos-0177",
+    "partido": "podemos",
+    "titular": "Regularizar a víctimas de trata y a mujeres en contextos de prostitución",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "159. **Regularización para las mujeres víctimas de trata o explotación sexual y para las mujeres en contextos de prostitución.** La regularización será accesible, flexible y adaptada a las distintas circunstancias de las mujeres. Hay que garantizar también la regularización administrativa de mujeres en contextos de prostitución que sin ser identificadas como víctimas de trata o explotación, presentan indicadores de vulnerabilidad extrema, como vía fundamental para iniciar y consolidar el proceso de salida y emancipación de la situación de explotación."
+   },
+   {
+    "id": "podemos-0223",
+    "partido": "podemos",
+    "titular": "Derogar la Ley de Extranjería y aprobar una Ley Integral basada en derechos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "205. **Derogación de la Ley de Extranjería y reforma integral del modelo migratorio.** Acabar con la Ley Orgánica 4/2000 y **aprobar una nueva Ley Integral que sitúe los derechos humanos, la igualdad de trato y la inclusión en el centro de la política pública**. Con ello se pondrá fin a las disposiciones adicionales que permiten las devoluciones en caliente de migrantes en nuestras fronteras. La nueva norma incorporará garantías efectivas en diversas materias como la residencia, el trabajo o el acceso a los servicios públicos, entre otros. El objetivo es dejar atrás un modelo que vincula la situación administrativa con la exclusión y avanzar hacia una política que reconozca a las personas migrantes como sujetos de derechos y miembros de pleno derecho de la sociedad. Asimismo, se garantizará la atención integral y regularización de los menores extranjeros no acompañados, así como la atención integral a personas jóvenes extuteladas con programas personalizados de acompañamiento a la vida adulta para garantizar su inclusión laboral y social en España."
+   },
+   {
+    "id": "podemos-0225",
+    "partido": "podemos",
+    "titular": "DNI y voto para quien vive y trabaja en España y nacionalidad más fácil",
+    "marca_actual": [],
+    "texto": "207. **Cumplimiento de los derechos humanos y civiles de las personas migrantes que viven en nuestro país, y reconocimiento de su aportación a la sociedad.**\n - **Quien vive y trabaja en España, tiene que tener DNI español y derecho al voto**.\n - **Refuerzo inmediato de todos los recursos humanos** de los ministerios, las administraciones públicas y las fuerzas y cuerpos de seguridad del Estado que se ocupan de todos los trámites que tienen que ver con las personas migrantes en España: asilo, refugio, solicitud y expedición de permisos, trámites de nacionalidad, etc.\n - Reforma del art. 22 Código Civil para **simplificar el acceso a la nacionalidad española y reducir los plazos de residencia exigidos**, con especial atención a las personas que han construido su proyecto de vida en España. El plazo se reducirá a un año el plazo para las personas que acrediten arraigo efectivo y continuado, sin discriminaciones por origen, y ampliar los supuestos de adquisición por opción.\n - Establecer por ley la obligación de los ayuntamientos correspondientes y los empresarios de proporcionar un **alojamiento digno a los temporeros y temporeras** como condición previa a su contratación. Imposición de multas lo suficientemente disuasorias cuando se incumpla este precepto.\n - Implementaremos mecanismos de prevención para **prohibir las identificaciones por perfil racial.** Estas identificaciones serán consideradas delitos de odio según la legislación correspondiente vigente.Modificaremos la Ley Orgánica 2/1986 y la Ley 4/2015 para establecer protocolos públicos, sistemas de registro y supervisión independiente, vías accesibles de denuncia y reparación y la obligación de registrar documentalmente las identificaciones.\n - **Gratuidad efectiva de los procedimientos de regularización y nacionalidad.** Eliminaremos las tasas administrativas que dificulten el ejercicio de estos derechos, estableciendo exenciones para las personas con bajos ingresos y garantizando la plena asistencia jurídica y orientación necesaria de forma gratuita."
+   },
+   {
+    "id": "podemos-0228",
+    "partido": "podemos",
+    "titular": "Procedimiento permanente de regularización que reconozca el arraigo social y familiar",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "210. **Establecimiento de un procedimiento permanente de regularización de las personas migrantes.** Mediante la nueva norma estatal de igualdad de trato superaremos un modelo criminalizador con las personas migrantes y el sistema de regularización reconocerá el arraigo social, familiar y comunitario, sin hacer depender el derecho a residir legalmente en España exclusivamente de disponer de un contrato de trabajo."
+   },
+   {
+    "id": "podemos-0229",
+    "partido": "podemos",
+    "titular": "Acreditar el arraigo con pruebas más amplias que el empadronamiento",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "211. **Reconocimiento del arraigo mediante pruebas de residencia y vinculación social.** Siguiendo el método que impulsamos en el proceso de la regularización extraordinaria para personas migrantes en el año 2026, permitiremos acreditar la permanencia en España y los vínculos con la comunidad mediante distintos medios de prueba más amplios que los actuales, como el empadronamiento, los abonos de transporte o los registros de atención sanitaria que permitan demostrar la presencia continuada en el territorio. De este modo, se evita que la falta del empadronamiento, muchas veces producto de la obstaculización municipal en el proceso, se convierta en una barrera insalvable para acceder a la regularización. Eliminaremos el requisito de acreditar un tiempo de estancia sin permiso de residencia en España para poder ser dado de alta en la Seguridad Social y desarrollar un trabajo remunerado con derechos."
+   },
+   {
+    "id": "podemos-0230",
+    "partido": "podemos",
+    "titular": "Prórroga automática de las autorizaciones de residencia si la Administración no resuelve",
+    "marca_actual": [],
+    "texto": "212. **Renovación y prórroga automática de las autorizaciones para evitar situaciones de irregularidad sobrevenida.** Aprobar mecanismos de prórroga automática de las autorizaciones de residencia cuando la Administración no haya resuelto dentro del plazo legal una solicitud de renovación o regularización, siempre que se cumplan los requisitos establecidos. La demora administrativa no podrá convertirse en causal de pérdida de derechos ni interrumpir injustificadamente la vida laboral, educativa o familiar de las personas afectadas.\n Esta medida requerirá concretar los supuestos y sus efectos en el reglamento de extranjería, en coherencia con las garantías del procedimiento administrativo común."
+   },
+   {
+    "id": "podemos-0231",
+    "partido": "podemos",
+    "titular": "Modernizar la plataforma Mercurio y reforzar las oficinas de extranjería",
+    "marca_actual": [],
+    "texto": "213. **Modernización integral del sistema Mercurio y de la Administración de extranjería.** Modernizaremos la plataforma Mercurio y el conjunto de las plataformas digitales de extranjería para eliminar bloqueos, reducir los tiempos de tramitación y facilitar el seguimiento de los expedientes. Para ello, modificaremos la Ley 39/2015 y su correspondiente legislación digital, implementaremos un sistema único de consulta con notificaciones cercanas para la ciudadanía y que permita al ciudadano observar en qué fase del proceso se encuentra su solicitud. Asimismo, se reforzarán las plantillas y los recursos de las oficinas de extranjería para que la digitalización no se convierta en una nueva barrera que obstaculice los trámites."
+   },
+   {
+    "id": "podemos-0244",
+    "partido": "podemos",
+    "titular": "Plan de realojamiento en la Cañada Real sin desalojos sin alternativa habitacional",
+    "marca_actual": [],
+    "texto": "226. **Plan integral de realojamiento, vivienda y recuperación de derechos en la Cañada Real Galiana.** Impulsaremos un plan integral para garantizar una solución habitacional digna, estable y consensuada a las familias afectadas por la situación de la Cañada Real Galiana, con especial atención a la población infantil. El plan combinará realojamiento voluntario cuando sea necesario, rehabilitación y regularización urbanística cuando resulte legalmente viable, acceso a suministros básicos y acompañamiento social. Se priorizará la participación de las familias y de las entidades vecinales en todas las fases del proceso y se prohibirán los desalojos y derribamientos sin una alternativa habitacional consensuada previamente."
+   },
+   {
+    "id": "adelante-0027",
+    "partido": "adelante",
+    "titular": "Derogar la Ley de Extranjería, regularización extraordinaria y cierre de los CIE",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "25. **Derechos para todas las personas** — Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.\nSe desarrolla en el programa: Propuestas 547, 548 y 553 · Área 09 Derechos humanos, migraciones, memoria, paz y pueblo gitano"
+   },
+   {
+    "id": "adelante-0295",
+    "partido": "adelante",
+    "titular": "Sin obligación de declarar con dos pagadores por debajo de 22.000 euros",
+    "marca_actual": [],
+    "texto": "245. **Dos pagadores sin castigo** — Quien gane menos de 22.000 euros con dos empleos no tendrá que declarar ni sufrirá regularizaciones sorpresa. _Porque no es justo castigar a quien junta dos trabajos para llegar a fin de mes._"
+   },
+   {
+    "id": "adelante-0356",
+    "partido": "adelante",
+    "titular": "Cuota de autónomos según ingresos reales y cero sin rendimientos netos",
+    "marca_actual": [],
+    "texto": "305. **Cotizar por lo que se gana** — Cuota según ingresos reales, hiperreducida para quien factura poco y cero cuando no hay rendimientos netos, con controles contra el fraude y regularización automática. _Porque quien trabaja como autónomo y gana poco no puede pagar la misma cuota que quien gana mucho._"
+   },
+   {
+    "id": "adelante-0605",
+    "partido": "adelante",
+    "titular": "Diagnóstico: Andalucía, frontera sur de Europa y tierra de fosas sin abrir",
+    "marca_actual": [],
+    "texto": "Andalucía es la frontera sur de Europa y tierra de fosas sin abrir. Cada año, personas que huyen de la guerra y la pobreza se juegan la vida en el Estrecho y en la ruta atlántica, y quienes llegan se encuentran con una Ley de Extranjería que las condena a la irregularidad y a la explotación en los campos de Huelva y Almería. Al mismo tiempo, miles de familias andaluzas siguen esperando para recuperar a sus seres queridos de las cunetas, y el pueblo gitano, parte de nuestra historia desde hace siglos, sigue sufriendo discriminación. La extrema derecha usa a las personas migrantes como chivo expiatorio mientras hay quien se enriquece con su trabajo, y llama «concordia» a borrar la memoria de las víctimas del franquismo. Lo que aquí se decide sobre migración y memoria se mide en vidas y en dignidad: derechos para todas las personas, verdad, justicia y reparación, y una política exterior de paz."
+   },
+   {
+    "id": "adelante-0606",
+    "partido": "adelante",
+    "titular": "Derogar la Ley de Extranjería y aprobar una nueva basada en derechos",
+    "marca_actual": [],
+    "texto": "547. **Una ley de derechos en lugar de la Ley de Extranjería** — Derogación de la ley actual y una nueva basada en derechos. _Porque la Ley de Extranjería condena a miles de personas a la irregularidad._"
+   },
+   {
+    "id": "adelante-0607",
+    "partido": "adelante",
+    "titular": "Regularización extraordinaria en la línea de «¡Regularización Ya!»",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "548. **Regularización extraordinaria** — En la línea de la iniciativa popular «¡Regularización Ya!», y ninguna persona condenada a la irregularidad. _Porque cientos de miles de personas viven y trabajan aquí sin papeles y sin derechos._"
+   },
+   {
+    "id": "adelante-0608",
+    "partido": "adelante",
+    "titular": "Vías legales y seguras: visados humanitarios y asilo en embajadas",
+    "marca_actual": [],
+    "texto": "549. **Vías legales y seguras** — Para llegar sin jugarse la vida: visados humanitarios, asilo solicitable en embajadas y consulados, cooperación con el Mediterráneo y el Sahel, y retirada de las concertinas de Ceuta y Melilla. _Porque sin vías legales la gente se juega la vida en el mar._"
+   },
+   {
+    "id": "adelante-0621",
+    "partido": "adelante",
+    "titular": "Oficinas de extranjería con plantilla suficiente y plazos públicos",
+    "marca_actual": [],
+    "texto": "562. **Oficinas de extranjería que funcionen** — Plantilla suficiente, plazos públicos, atención presencial e información en varios idiomas. _Porque las oficinas de extranjería están colapsadas._"
+   },
+   {
+    "id": "adelante-0624",
+    "partido": "adelante",
+    "titular": "Residencia para víctimas de violencia machista y explotación sin esperar sentencia",
+    "marca_actual": [],
+    "texto": "565. **Residencia para las víctimas** — Autorización de residencia para las víctimas de violencia machista sin esperar a sentencia firme, y para las de explotación sin depender del explotador ni de colaborar con la investigación. _Porque las víctimas no pueden quedar atrapadas por su situación administrativa._"
+   },
+   {
+    "id": "adelante-0779",
+    "partido": "adelante",
+    "titular": "Resolver el deslinde de Costas regularizando las casas de El Palo y Pedregalejo",
+    "marca_actual": [],
+    "texto": "707. **El Palo y Pedregalejo, para su vecindario** — Solución definitiva del deslinde con Costas, regularizando las casas tradicionales de familias pescadoras frente a la especulación. _Porque cientos de familias de El Palo y Pedregalejo viven con la incertidumbre del deslinde._"
+   },
+   {
+    "id": "bng-0101",
+    "partido": "bng",
+    "titular": "Promover la regularización administrativa contra la explotación",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Promover a regularización administrativa como vía para eliminar a irregularidade como ferramenta de explotación."
+   },
+   {
+    "id": "bng-0106",
+    "partido": "bng",
+    "titular": "Reformas legales para garantizar los derechos de la población inmigrante",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación inmigrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de regularización administrativa."
+   },
+   {
+    "id": "bng-0130",
+    "partido": "bng",
+    "titular": "Red de cobertura para las mujeres que quieran dejar la prostitución",
+    "marca_actual": [],
+    "texto": "- Ofrecemento dunha rede de cobertura que garanta a liberdade para deixar a prostitución a todas as mulleres que así o queiran cubrindo as súas necesidades persoais básicas (ingresos, aloxamento, emprego, regularización administrativa…)."
+   },
+   {
+    "id": "erc-0071",
+    "partido": "erc",
+    "titular": "Acabar con la externalización de fronteras y abrir vías legales y seguras",
+    "marca_actual": [],
+    "texto": "51. Posar fi a l’externalització de les fronteres i garantir vies legals i segures per migrar. Desenvolupar una política migratòria centrada en la protecció internacional, el respecte dels drets humans i les garanties legals, en el marc de l’aplicació del Pacte Europeu de Migració i Asil. Impulsar una nova Llei d’asil que impedeixi externalitzar les sol·licituds de protecció internacional a tercers països amb els quals les persones sol·licitants no tinguin cap vincle i que no respectin els drets humans. Obrir i ampliar vies legals i segures de migració i protecció internacional, amb mecanismes i recursos suficients perquè les persones puguin migrar en condicions dignes."
+   },
+   {
+    "id": "cnv-0209",
+    "partido": "cnv",
+    "titular": "Agilizar trámites para la incorporación laboral y a la vivienda de los recién llegados",
+    "marca_actual": [],
+    "texto": "- Instarem a l’Estat espanyol perquè agilitzi les gestions burocràtiques que facilitin la incorporació dels nouvinguts al món laboral i l'adquisició d'un habitatge digne."
+   },
+   {
+    "id": "cnv-0253",
+    "partido": "cnv",
+    "titular": "Facilitar la integración laboral de inmigrantes cualificados con visados científicos exprés",
+    "marca_actual": [],
+    "texto": "- Defensarem un nou marc normatiu per facilitar la integració laboral d’immigrants extracomunitaris qualificats, amb mecanismes d’homologació de títols i visats científics exprés."
+   },
+   {
+    "id": "cnv-0316",
+    "partido": "cnv",
+    "titular": "Potenciar la contratación en origen y armonizar acogida e integración en Europa",
+    "marca_actual": [],
+    "texto": "- Potenciarem la contractació en origen, i treballarem per harmonitzar els models d’acollida i integració a escala europea."
+   },
+   {
+    "id": "pnv-0055",
+    "partido": "pnv",
+    "titular": "Proteger y promover el modelo cooperativo vasco en la legislación estatal",
+    "marca_actual": [],
+    "texto": "6. **Proteger y promover el modelo cooperativo vasco**, garantizando que la legislación estatal reconozca sus particularidades y favorezca su desarrollo, arraigo y contribución al empleo de calidad."
+   },
+   {
+    "id": "pnv-0148",
+    "partido": "pnv",
+    "titular": "Ampliar la gestión vasca de los permisos de residencia y trabajo",
+    "marca_actual": [],
+    "texto": "6. Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo, para reducir los plazos de tramitación y responder a las necesidades laborales y sociales del país."
+   },
+   {
+    "id": "pnv-0149",
+    "partido": "pnv",
+    "titular": "Promover vías legales, seguras y ordenadas de migración",
+    "marca_actual": [],
+    "texto": "7. Promover vías legales, seguras y ordenadas de migración, mediante una gestión planificada y respetuosa con los derechos humanos."
+   },
+   {
+    "id": "pnv-0150",
+    "partido": "pnv",
+    "titular": "Favorecer la contratación en origen según el mercado laboral vasco",
+    "marca_actual": [],
+    "texto": "8. Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras."
+   },
+   {
+    "id": "pnv-0151",
+    "partido": "pnv",
+    "titular": "Avanzar en los procesos de regularización previstos en la legislación",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "9. **Avanzar en los procesos de regularización previstos en la legislación**, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos."
+   },
+   {
+    "id": "bildu-0094",
+    "partido": "bildu",
+    "titular": "Más personal en las oficinas de extranjería de Nafarroa y la CAPV",
+    "marca_actual": [],
+    "texto": "- Dotar a las oficinas de extranjería de Nafarroa y de la Comunidad Autónoma del País Vasco de recursos humanos suficientes para no vulnerar los derechos de los y las solicitantes de reagrupaciones familiares y trámites que afectan directamente a la infancia."
+   },
+   {
+    "id": "bildu-0113",
+    "partido": "bildu",
+    "titular": "Impulsar las cooperativas y la economía social para reindustrializar",
+    "marca_actual": [],
+    "texto": "- Impulsar el desarrollo de la economía social como modelo estratégico de reindustrialización ecosocial, tomando como referencia la experiencia cooperativa de Euskal Herria y su proyección internacional. Promover reformas legislativas y políticas públicas que faciliten la creación, consolidación y crecimiento de cooperativas industriales, fomenten la participación de las personas trabajadoras en la propiedad y gestión de las empresas, y favorezcan la recuperación de empresas en crisis mediante fórmulas de propiedad colectiva. Reforzar asimismo los instrumentos públicos de financiación, innovación y acompañamiento empresarial para extender este modelo, vinculando la competitividad industrial a la democracia económica, el arraigo territorial y la distribución social del valor generado."
+   },
+   {
+    "id": "bildu-0150",
+    "partido": "bildu",
+    "titular": "Regularización efectiva y nueva Ley de Extranjería basada en derechos humanos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Regularización y nueva Ley de Extranjería: Garantizar una regularización efectiva, accesible y estable. Facilitar las autorizaciones de residencia y trabajo y prevenir la irregularidad sobrevenida. Avanzar hacia una nueva legislación de extranjería basada en los derechos humanos."
+   },
+   {
+    "id": "bildu-0155",
+    "partido": "bildu",
+    "titular": "Más personal en las oficinas de extranjería de Nafarroa y la CAPV",
+    "marca_actual": [],
+    "texto": "- Dotar a las oficinas de extranjería de Nafarroa y de la Comunidad Autónoma del País Vasco de recursos humanos suficientes para no vulnerar los derechos de los y las solicitantes."
+   }
+  ]
+ },
+ {
+  "eje": "eje-okupacion",
+  "pregunta": "¿Cómo tratar la okupación y los desahucios?",
+  "posiciones": [
+   {
+    "id": "desalojo-rapido",
+    "nombre": "Desalojo rápido y más penas"
+   },
+   {
+    "id": "proteger-vulnerables",
+    "nombre": "Frenar desahucios de personas vulnerables"
+   }
+  ],
+  "n": 27,
+  "palabras": 1606,
+  "candidatos": [
+   {
+    "id": "podemos-0012",
+    "partido": "podemos",
+    "titular": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "5. **Prohibición de los desahucios de personas vulnerables sin alternativa habitacional.** Prohibiremos los desahucios y lanzamientos de personas en situación de vulnerabilidad sin alternativa habitacional digna y adecuada, estableciendo su suspensión indefinida, también en los casos de contratos de renta antigua. La inexistencia de alternativa habitacional digna y adecuada supondrá que se presuma la condición de vulnerabilidad. Garantizaremos la asistencia letrada a las personas afectadas en el momento del desalojo y ampliaremos los medios de prueba disponibles para acreditar su situación de vulnerabilidad. Incorporaremos además la cláusula “Maricarmen” para garantizar que las personas reciban una alternativa habitacional en sus proximidades, respetando sus vínculos comunitarios y su arraigo. En ningún caso se considerará alternativa habitacional una plaza en una institución residencial."
+   },
+   {
+    "id": "podemos-0013",
+    "partido": "podemos",
+    "titular": "Prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "6. **Prohibición de los desalojos extrajudiciales e ilegalización de empresas de desokupación.** Prohibiremos los desalojos extrajudiciales y perseguiremos el acoso inmobiliario, entendido como toda acción u omisión dirigida a perturbar el uso y disfrute pacífico de una vivienda, generar un entorno hostil o humillante o forzar a sus ocupantes a abandonarla o adoptar decisiones contra su voluntad. Impulsaremos la ilegalización y desarticulación de los grupos violentos que operan bajo la apariencia de empresas de desokupación como “Desokupa” y tipificaremos la definición de “acoso inmobiliario” y reforzaremos las sanciones contra quienes, con ánimo de lucro, recurran a la intimidación, las amenazas, las coacciones o la violencia contra personas en situación de vulnerabilidad económica o social. Asimismo, habilitaremos mecanismos para cerrar las páginas web que ofrezcan estos servicios ilegales y garantizaremos que ningún desalojo pueda realizarse al margen de los procedimientos judiciales y de las garantías legalmente establecidas."
+   },
+   {
+    "id": "podemos-0032",
+    "partido": "podemos",
+    "titular": "Cláusula «rebus sic stantibus» en hipotecas y proporcionalidad antes de ejecutarlas",
+    "marca_actual": [],
+    "texto": "25. **Protección de las familias frente a los abusos y las ejecuciones hipotecarias.** Estableceremos la aplicación de la cláusula «rebus sic stantibus» a los contratos hipotecarios, obligando a renegociar sus condiciones cuando circunstancias sobrevenidas y ajenas a la voluntad de las personas titulares alteren sustancialmente su capacidad de pago. Reformaremos la Ley de Enjuiciamiento Civil para obligar a los órganos judiciales a realizar un juicio de proporcionalidad antes de acordar una ejecución hipotecaria y paralizar los procedimientos cuando se haya iniciado una renegociación al amparo de esta cláusula o existan demandas pendientes por cláusulas abusivas."
+   },
+   {
+    "id": "podemos-0033",
+    "partido": "podemos",
+    "titular": "Estrategia estatal contra el sinhogarismo con enfoque de derechos",
+    "marca_actual": [],
+    "texto": "26. **Estrategia integral contra el sinhogarismo desde un enfoque de derechos.** Aprobaremos una estrategia estatal para prevenir y erradicar el sinhogarismo desde un enfoque de derechos humanos, garantizando el acceso a una vivienda digna y a los servicios sociales, sanitarios y de apoyo necesarios. La perspectiva de género regirá la Estrategia prestando especial atención a las mujeres víctimas de violencias machistas en situación de sinhogarismo. Su diseño y aplicación se desarrollarán en colaboración con las comunidades autónomas y los ayuntamientos, asegurando una respuesta coordinada e integral que atienda las distintas situaciones de exclusión residencial."
+   },
+   {
+    "id": "podemos-0244",
+    "partido": "podemos",
+    "titular": "Plan de realojamiento en la Cañada Real sin desalojos sin alternativa habitacional",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "226. **Plan integral de realojamiento, vivienda y recuperación de derechos en la Cañada Real Galiana.** Impulsaremos un plan integral para garantizar una solución habitacional digna, estable y consensuada a las familias afectadas por la situación de la Cañada Real Galiana, con especial atención a la población infantil. El plan combinará realojamiento voluntario cuando sea necesario, rehabilitación y regularización urbanística cuando resulte legalmente viable, acceso a suministros básicos y acompañamiento social. Se priorizará la participación de las familias y de las entidades vecinales en todas las fases del proceso y se prohibirán los desalojos y derribamientos sin una alternativa habitacional consensuada previamente."
+   },
+   {
+    "id": "podemos-0246",
+    "partido": "podemos",
+    "titular": "Plan de acción urgente con las redes comunitarias de la Cañada Real",
+    "marca_actual": [],
+    "texto": "228. **Fortalecimiento de las redes comunitarias ya existentes en Cañada Real.** Coordinaremos activamente con las organizaciones y redes comunitarias que ya existen en Cañada Real para elaborar un plan de acción urgente que garantice el acceso a la vivienda digna pero también para dar salida a las principales demandas de las familias que viven en todos los sectores de la zona."
+   },
+   {
+    "id": "podemos-0339",
+    "partido": "podemos",
+    "titular": "Proteger a mayores y personas sin hogar durante las olas de calor",
+    "marca_actual": [],
+    "texto": "321. **Proteger a mayores y personas sin hogar del calor.** En las olas de calor se vigilará a las personas mayores y con discapacidad que viven solas, con llamadas regulares a quienes tienen patologías de riesgo, y se reforzará la atención en los barrios con viviendas mal climatizadas o pocas zonas verdes. Habrá campañas de calor para las personas sin hogar, como las del frío: más plazas de alojamiento y albergues diurnos frescos, agua, comida y coordinación entre los servicios de emergencia y los sociales."
+   },
+   {
+    "id": "adelante-0003",
+    "partido": "adelante",
+    "titular": "Vivienda como derecho exigible y alquiler nunca por encima del 20 % del salario",
+    "marca_actual": [],
+    "texto": "1. **Fin de la especulación inmobiliaria y garantía del derecho a la vivienda**\n - La vivienda como un derecho que se pueda exigir ante los tribunales.\n - Ningún alquiler por encima del 20 % del salario y contratos indefinidos.\n - Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.\n - Prohibición de la compra especulativa y de que los fondos compren vivienda.\n - Retirada de licencias de apartamentos turísticos donde los precios se han disparado.\n - Impuesto a la vivienda vacía de grandes tenedores.\n - Reforma de la VPO para evitar la especulación y que sean accesibles.\n - Creación de una constructora pública.\n - Ilegalización de las empresas de “desokupación”.\n Se desarrolla en el programa: Propuestas 157, 159, 161, 162, 167, 168, 172, 173, 181 y 185 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0203",
+    "partido": "adelante",
+    "titular": "Ningún hogar pagará más del 20 % de sus ingresos por su casa",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "Ningún hogar pagará más del 20 % de sus ingresos por su casa y ninguna familia será desahuciada sin alternativa."
+   },
+   {
+    "id": "adelante-0206",
+    "partido": "adelante",
+    "titular": "Paralizar desahucios de hogares vulnerables sin alternativa e ilegalizar la desokupación",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "159. **Ningún desahucio sin alternativa** — Reforma de la Ley de Enjuiciamiento Civil para paralizar los lanzamientos de hogares vulnerables mientras no haya alternativa, y ninguno de personas en situación de dependencia; ilegalización de las empresas de desokupación. _Porque ninguna familia debería acabar en la calle sin una alternativa._"
+   },
+   {
+    "id": "adelante-0207",
+    "partido": "adelante",
+    "titular": "Alquiler social obligatorio de grandes tenedores antes de demandar un desahucio",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "160. **Alquiler social obligatorio** — Bancos, fondos y grandes tenedores deberán ofrecerlo antes de cualquier demanda que pueda acabar en desahucio. _Porque los bancos y fondos tienen viviendas de sobra para ofrecer un alquiler social._"
+   },
+   {
+    "id": "adelante-0209",
+    "partido": "adelante",
+    "titular": "Alquileres indefinidos, prórroga sin subida y registro obligatorio de contratos",
+    "marca_actual": [],
+    "texto": "162. **Contratos indefinidos** — Alquileres de duración indefinida y prórroga sin subida, para acabar con los desahucios silenciosos, y registro obligatorio de los contratos conectado con Hacienda contra el alquiler en negro. _Porque no renovar un contrato se ha convertido en una forma de echar a la gente._"
+   },
+   {
+    "id": "adelante-0223",
+    "partido": "adelante",
+    "titular": "Plan estatal de realojo de los asentamientos de temporeros en dos años",
+    "marca_actual": [],
+    "texto": "176. **Fin del chabolismo** — Plan estatal de realojo en dos años en los asentamientos de temporeras y temporeros de Almería y Huelva. _Porque en pleno siglo XXI hay miles de personas viviendo en chabolas en Huelva y Almería._"
+   },
+   {
+    "id": "adelante-0224",
+    "partido": "adelante",
+    "titular": "Ley del derecho al alojamiento con vivienda primero para personas sin hogar",
+    "marca_actual": [],
+    "texto": "177. **Ley del derecho al alojamiento** — Vivienda primero para las personas sin hogar, con pisos y pequeñas residencias en lugar de macroalbergues, una red pública de inclusión que coordine atención social, sanitaria y laboral, recursos especializados repartidos por igual en todo el territorio y albergues públicos dignos en todas las capitales de provincia. _Porque las personas sin hogar necesitan una casa, no un albergue masificado._"
+   },
+   {
+    "id": "adelante-0540",
+    "partido": "adelante",
+    "titular": "Tramitación prioritaria en desahucios y silencio positivo en prestaciones sociales",
+    "marca_actual": [],
+    "texto": "485. **Emergencia social urgente** — Tramitación prioritaria en desahucios y cortes de suministros, y silencio positivo en las prestaciones sociales. _Porque una emergencia social no puede esperar meses._"
+   },
+   {
+    "id": "adelante-0550",
+    "partido": "adelante",
+    "titular": "Derogar el endurecimiento penal de los pequeños hurtos y la ley de desalojos rápidos",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "495. **No al populismo punitivo** — Derogar el endurecimiento penal de los pequeños hurtos y la ley de desalojos rápidos. _Porque endurecer las penas a la pobreza no reduce la delincuencia._"
+   },
+   {
+    "id": "bng-0028",
+    "partido": "bng",
+    "titular": "Topar por ley los alquileres y prohibir desahucios de personas vulnerables",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Topar por lei os prezos dos alugueiros e prohibir os desafiuzamentos de persoas en situación de vulnerabilidade, así como decretar a suspensión automática e indefinida de calquera lanzamento sen alternativa habitacional"
+   },
+   {
+    "id": "erc-0086",
+    "partido": "erc",
+    "titular": "Evitar desahucios de personas vulnerables sin alternativa y compensar a pequeños propietarios",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "62. Millorar la regulació dels arrendaments per protegir els drets dels arrendataris i evitar els desnonaments de les persones vulnerables sense habitatge alternatiu i mantenir les compensacions als petits propietaris que es puguin veure perjudicats per aquestes situacions."
+   },
+   {
+    "id": "cnv-0022",
+    "partido": "cnv",
+    "titular": "Ley contra la ocupación ilegal: restitución en 48 horas, 24 si es primera vivienda",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- Impulsarem una Llei contra l’ocupació il·legal de la propietat privada, que estableixi l’obligació de restituir-ne la possessió en un màxim de 48 hores, i en 24 hores si es tracta del primer habitatge o d’un centre productiu."
+   },
+   {
+    "id": "cnv-0031",
+    "partido": "cnv",
+    "titular": "Evitar desahucios hipotecarios con alquiler social acordado con entidades financieras",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Impulsarem polítiques per evitar el desnonament, promovent acords amb entitats financeres, grans propietaris i altres agents implicats, perquè les famílies que nopoden assumir el pagament de la hipoteca puguin romandre a l’habitatge amb un lloguer social."
+   },
+   {
+    "id": "cnv-0060",
+    "partido": "cnv",
+    "titular": "Cubrir desde las administraciones la vivienda de familias vulnerables",
+    "marca_actual": [],
+    "texto": "- Treballarem perquè les administracions cobreixin les necessitats d’habitatge de persones i famílies en situació de vulnerabilitat."
+   },
+   {
+    "id": "cnv-0072",
+    "partido": "cnv",
+    "titular": "Reformar el Código Penal contra la ocupación delincuencial y las redes mafiosas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- Impulsarem una reforma del codi penal que reguli adequadament els procediments i les sancions contra l’ocupació delinqüencial, especialment la vinculada a xarxes mafioses."
+   },
+   {
+    "id": "cnv-0081",
+    "partido": "cnv",
+    "titular": "Tolerancia cero con las ocupaciones y desalojo en menos de 48 horas",
+    "marca_actual": [
+     "desalojo-rapido"
+    ],
+    "texto": "- Modificarem la normativa vigent per protegir la propietat privada i lluitar contra les ocupacions. Tindrem tolerància zero amb qualsevol tipus d’ocupació il·legal, i forçarem la desocupació dels béns ocupats il·legalment en menys de 48 hores, i en 24 hores si es tracta d’un primer habitatge o un centre productiu."
+   },
+   {
+    "id": "pnv-0015",
+    "partido": "pnv",
+    "titular": "Alternativas habitacionales para familias vulnerables sin cargar a pequeños propietarios",
+    "marca_actual": [],
+    "texto": "7. Ofrecer alternativas habitacionales a las familias vulnerables sin trasladar toda la responsabilidad a los pequeños propietarios."
+   },
+   {
+    "id": "bildu-0004",
+    "partido": "bildu",
+    "titular": "Cambiar de raíz el mercado de la vivienda contra la especulación y el rentismo",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "Que toda persona pueda contar con una vivienda digna y asequible es un derecho básico que se debe garantizar. Para ello, es necesario romper con las reglas actuales y cambiar de raíz el mercado de la vivienda, convertido hoy en un negocio basado en la especulación y el rentismo. Por eso se deberán tomar medidas que ofrezcan seguridad, estabilidad y garantías de acceso para toda persona que necesite un hogar, interviniendo el mercado y regulando el uso de los alojamientos, acabando con la especulación, impidiendo los desahucios, estableciendo regulaciones de los precios y aportando seguridad mediante contratos duraderos y prorrogables automáticamente. Todo ello con el objetivo de asegurar la función social de la vivienda. Para ello:"
+   },
+   {
+    "id": "bildu-0006",
+    "partido": "bildu",
+    "titular": "Prohibir de forma permanente los desahucios de personas vulnerables sin alternativa",
+    "marca_actual": [
+     "proteger-vulnerables"
+    ],
+    "texto": "- Establecer de manera estructural y permanente la prohibición de desahucios para personas y familias vulnerables sin alternativa habitacional, acompañado del mecanismo de compensación con financiación estatal."
+   },
+   {
+    "id": "bildu-0129",
+    "partido": "bildu",
+    "titular": "Condicionar las ayudas a la rehabilitación a límites al precio del alquiler",
+    "marca_actual": [],
+    "texto": "- Protección del alquiler y del derecho a la vivienda: Condicionar las subvenciones públicas a la rehabilitación a compromisos de permanencia de las personas inquilinas y límites al precio del alquiler para evitar subidas abusivas o desahucios indirectos."
+   }
+  ]
+ },
+ {
+  "eje": "eje-amnistia",
+  "pregunta": "¿Qué hacer con la Ley de Amnistía?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o anularla"
+   },
+   {
+    "id": "defender",
+    "nombre": "Defenderla"
+   }
+  ],
+  "n": 5,
+  "palabras": 746,
+  "candidatos": [
+   {
+    "id": "podemos-0456",
+    "partido": "podemos",
+    "titular": "Verdad, justicia y reparación para víctimas de la dictadura y la Transición",
+    "marca_actual": [],
+    "texto": "434. **Verdad, justicia y reparación para las víctimas de la dictadura y la “transición”.** Acabaremos con la impunidad de los crímenes de la dictadura franquista y de la Transición y garantizaremos el derecho a la verdad, la justicia y la reparación integral de todas sus víctimas y familiares. Reconoceremos especialmente a las personas que sufrieron violencia institucional y ultraderechista por su lucha por la democracia entre 1977 y el 31 de diciembre de 1983, un periodo en el que se produjeron más de 170 muertes por violencia de origen institucional y 67 asesinatos cometidos por grupos ultraderechistas. Para ello:\n - **Reformaremos la Ley de Amnistía de 1977** para que deje de ser un obstáculo para la investigación y el enjuiciamiento de los crímenes internacionales cometidos durante la dictadura y la Transición.\n - **Modificaremos el Código Penal y la Ley de Enjuiciamiento Criminal** para incorporar los principios del derecho internacional y garantizar la investigación y persecución de los crímenes de guerra, de lesa humanidad y otras graves violaciones de derechos humanos, así como la revisión de las resoluciones judiciales que hayan impedido investigarlos.\n - **Ratificación de la Convención sobre la imprescriptibilidad de los crímenes de guerra y de los crímenes de lesa humanidad**. En nuestro país no se reconocen hasta 2004. Los anteriores no son considerados crímenes de lesa humanidad, por lo que prescriben.\n - **Crearemos una Oficina Estatal de Atención a las Víctimas de la Transición**, que proporcione asistencia jurídica, psicológica y administrativa a las víctimas y sus familiares y garantice su derecho a la verdad, la justicia y la reparación.\n - **Garantizaremos el acceso a los archivos y documentos históricos,** la recuperación de testimonios y la investigación de los crímenes cometidos, impulsando la divulgación pública de estos hechos y una reconstrucción rigurosa de la historia de la dictadura y la Transición.\n - **Modificación de la Ley de Tratados internacionales (25/2014)** para, entre otras cuestiones, establecer la obligatoriedad en cuanto al cumplimiento y ejecución por parte del Estado español de los dictámenes y demás resoluciones que dicten los órganos de Tratado, así como los diferentes mecanismos adscritos al Consejo de Derechos Humanos de las Naciones Unidas.\n Esta medida debe servir para superar definitivamente la impunidad que ha protegido durante décadas a los responsables de la violencia política y garantizar que ninguna víctima quede excluida de su derecho a la reparación."
+   },
+   {
+    "id": "adelante-0626",
+    "partido": "adelante",
+    "titular": "Anular apartados de la Ley de Amnistía de 1977 que impiden investigar el franquismo",
+    "marca_actual": [],
+    "texto": "567. **Fin de la impunidad** — Anular los apartados de la Ley de Amnistía de 1977 que impiden investigar los crímenes del franquismo. _Porque los crímenes del franquismo nunca se han juzgado._"
+   },
+   {
+    "id": "bng-0161",
+    "partido": "bng",
+    "titular": "Derogar la Ley de Amnistía de 1977 y reconocer la imprescriptibilidad del genocidio",
+    "marca_actual": [],
+    "texto": "- Derrogar a Lei de Amnistía de 1977, que segue a impedir as reivindicacións e o amparo xudicial das vítimas de crimes contra a súa vida e dignidade cometidos durante o réxime franquista, así como o recoñecemento da imprescritibilidade dos delitos de xenocidio e lesa humanidade e do principio de legalidade internacional."
+   },
+   {
+    "id": "cnv-0002",
+    "partido": "cnv",
+    "titular": "Presentación: derecho a decidir, amnistía, catalán y concierto económico",
+    "marca_actual": [
+     "defender"
+    ],
+    "texto": "Volem una Catalunya capaç d’assolir la seva màxima potencialitat com a subjecte polític, lliure de decidir el seu futur amb normalitat democràtica, des del compromís amb el diàleg, la legalitat i l’esperit de construcció nacional. I defensem l’amnistia com la via més justa per iniciar aquesta nova etapa de normalització política.\n\nLa nostra identitat és la nostra força. Reivindiquem el català com a llengua comuna i nacional, i l’occità, aranès a l’Aran, patrimoni viu. La llengua és cohesió i eina de futur. Defensarem el seu ús vehicular en tots els àmbits de la vida.\n\nAmbicionem el futur.\n\nHem de recuperar l’afany de país, una Catalunya pròspera i capdavantera en l’àmbit econòmic, tecnològic i social. Per aconseguir-ho, exigim el concert econòmic i reclamem allò que és nostre: els recursos econòmics, l’execució d’inversions i la delegació de competències. Hem de reaccionar contra l’abusiu dèficit fiscal i altres injustícies que patim de l’Estat.\n\nVolem un país per les persones. Com a partit humanista, centrem les polítiques en el lliure exercici dels drets individuals i col·lectius. Cal un sistema de benestar eficient, basat en la col·laboració publicoprivada, que tingui cura de la gent gran, dels infants i dels més vulnerables, i posi la família al centre de les seves polítiques. Apostem pel suport a la natalitat i a la criança."
+   },
+   {
+    "id": "cnv-0015",
+    "partido": "cnv",
+    "titular": "Aplicar de forma efectiva y total la amnistía",
+    "marca_actual": [
+     "defender"
+    ],
+    "texto": "- Defensarem l’aplicació efectiva i total de l’amnistia a tots els damnificats com a solució més justa i com a primer pas a la normalització i la reconstrucció de la confiança democràtica, alhora que defensarem la necessitat d’un “bon govern” que, lluny de la confrontació estèril i des del diàleg, ens permeti créixer com a país."
+   }
+  ]
+ },
+ {
+  "eje": "eje-prostitucion",
+  "pregunta": "¿Qué hacer con la prostitución?",
+  "posiciones": [
+   {
+    "id": "abolir",
+    "nombre": "Abolirla"
+   },
+   {
+    "id": "derechos",
+    "nombre": "Reconocer derechos a quienes la ejercen"
+   }
+  ],
+  "n": 7,
+  "palabras": 446,
+  "candidatos": [
+   {
+    "id": "podemos-0176",
+    "partido": "podemos",
+    "titular": "Aprobar una Ley Integral contra todas las formas de Trata y Explotación",
+    "marca_actual": [],
+    "texto": "158. **Aprobación de la Ley Integral contra todas las formas de Trata de personas y Explotación.** Con enfoque de género que asegure especial énfasis y medidas concretas para la lucha contra explotación sexual y el apoyo a las mujeres en contextos de Prostitución. La ley contendrá medidas tales como un sistema de detección e identificación multiagencia capaz de detectar a mujeres y niñas en situaciones de mayor vulnerabilidad; Medidas específicas para la garantía de derechos de las víctimas que, con independencia de su situación administrativa de residencia, les permitan dejar atrás la explotación; Un programa de protección y acceso a la justicia que incentive a las mujeres a denunciar a sus tratantes y explotadores con la seguridad necesaria para ellas y familias. En el marco de este programa, se impulsará la figura de las mediadoras para realizar el acompañamiento de las víctimas."
+   },
+   {
+    "id": "podemos-0177",
+    "partido": "podemos",
+    "titular": "Regularizar a víctimas de trata y a mujeres en contextos de prostitución",
+    "marca_actual": [],
+    "texto": "159. **Regularización para las mujeres víctimas de trata o explotación sexual y para las mujeres en contextos de prostitución.** La regularización será accesible, flexible y adaptada a las distintas circunstancias de las mujeres. Hay que garantizar también la regularización administrativa de mujeres en contextos de prostitución que sin ser identificadas como víctimas de trata o explotación, presentan indicadores de vulnerabilidad extrema, como vía fundamental para iniciar y consolidar el proceso de salida y emancipación de la situación de explotación."
+   },
+   {
+    "id": "podemos-0178",
+    "partido": "podemos",
+    "titular": "Presupuesto estable y plurianual para el Plan Camino",
+    "marca_actual": [],
+    "texto": "160. **Presupuesto estable para el Plan Camino.** Asegurar la continuidad y dotación presupuestaria suficiente del Plan Camino para garantizar alternativas reales a las mujeres y niñas víctimas de trata y explotación sexual, así como a las mujeres en contextos de prostitución. Se reforzarán los recursos destinados a su atención integral, acceso a vivienda, formación, inserción sociolaboral y autonomía económica, garantizando la financiación plurianual de las entidades especializadas que las acompañan."
+   },
+   {
+    "id": "bng-0129",
+    "partido": "bng",
+    "titular": "Abolición de la prostitución persiguiendo al proxeneta y al prostituidor",
+    "marca_actual": [
+     "abolir"
+    ],
+    "texto": "- Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista. Desde o respecto ao dereito de autodeterminación das mulleres e á súa libre elección e mais desde o dereito á vida sen ningunha forma de violencia nin discriminación, impulsaranse medidas conducentes a:"
+   },
+   {
+    "id": "bng-0130",
+    "partido": "bng",
+    "titular": "Red de cobertura para las mujeres que quieran dejar la prostitución",
+    "marca_actual": [],
+    "texto": "- Ofrecemento dunha rede de cobertura que garanta a liberdade para deixar a prostitución a todas as mulleres que así o queiran cubrindo as súas necesidades persoais básicas (ingresos, aloxamento, emprego, regularización administrativa…)."
+   },
+   {
+    "id": "bng-0131",
+    "partido": "bng",
+    "titular": "Persecución efectiva de la prostitución forzada con coordinación entre organismos",
+    "marca_actual": [],
+    "texto": "- Persecución intensa e efectiva da prostitución forzada, con coordinación eficaz dos distintos organismos, corpos e entidades (Policía, Garda Civil, xulgados, avogacía, inspección de traballo, etc.)."
+   },
+   {
+    "id": "bng-0132",
+    "partido": "bng",
+    "titular": "Red pública de centros de media estancia para mujeres que dejen la prostitución",
+    "marca_actual": [],
+    "texto": "- Inclusión no Pacto de Estado do impulso dunha rede pública de centros de media estadía para o desenvolvemento persoal integral das mulleres en situación de prostitución que decidan deixar de exercela."
+   }
+  ]
+ }
+]

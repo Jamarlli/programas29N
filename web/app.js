@@ -88,7 +88,7 @@
   const enlacePDF = (e) => `${P[e.p].fuente}#page=${e.g}`;
   const hrefSub = (s) => `#/tema/${bloqueDe[s].id}/${s}`;
   // «Frente Amplio» → «FA»; los nombres cortos se quedan igual
-  const abrev = (p) => (p.corto.includes(' ') ? p.corto.split(/\s+/).map((w) => w[0]).join('').toUpperCase() : p.corto);
+  const abrev = (p) => p.sigla || (p.corto.includes(' ') ? p.corto.split(/\s+/).map((w) => w[0]).join('').toUpperCase() : p.corto);
   const sigla = (p, extra = '') => `<span class="pt" data-p="${p.id}" title="${esc(p.corto)}">${esc(abrev(p))}${extra}</span>`;
   const punto = (p) => `<span class="pc" data-p="${p.id}" aria-hidden="true"></span>`;
   const nombreP = (p) => (abrev(p) === p.corto ? esc(p.corto) : `<span class="largo">${esc(p.corto)}</span><abbr class="corto" title="${esc(p.corto)}">${esc(abrev(p))}</abbr>`);

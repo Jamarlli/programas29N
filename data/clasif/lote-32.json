@@ -1,0 +1,2551 @@
+[
+ {
+  "id": "bildu-0084",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Ampliar y automatizar el acceso a los bonos sociales eléctrico y térmico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0085",
+  "subtema": "eco-consumo-precios",
+  "otros": [],
+  "titular": "Mantener y ampliar el acceso y la duración del Suministro Mínimo Vital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0086",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Actualizar el IPREM según el IPC con un aumento extraordinario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0087",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ampliar los requisitos de la calificación de vulnerabilidad para llegar a más familias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0088",
+  "subtema": "fam-pobreza",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Transferir la competencia del Ingreso Mínimo Vital y aumentar sus cuantías",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0089",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Avanzar hacia una conciliación igualitaria que garantice los derechos de los menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0090",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Cumplir íntegramente la Directiva europea de conciliación 2019/1158",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0091",
+  "subtema": "fam-juventud",
+  "otros": [],
+  "titular": "Garantizar la participación de jóvenes, niños y niñas en la vida política y social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0092",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Prestaciones autonómicas de apoyo a la crianza compatibles con el IMV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0093",
+  "subtema": "fam-natalidad",
+  "otros": [],
+  "titular": "Mejorar los permisos de nacimiento e igualarlos para las familias monoparentales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0094",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Más personal en las oficinas de extranjería de Nafarroa y la CAPV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0095",
+  "subtema": "imp-modelo",
+  "otros": [],
+  "titular": "Redistribuir la riqueza haciendo que las grandes empresas aporten lo que deben",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0096",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Recuperar y hacer permanente el impuesto a las energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0097",
+  "subtema": "imp-capital-patrimonio",
+  "otros": [
+   "imp-sociedades"
+  ],
+  "titular": "Aumentar el impuesto a la banca y a las grandes fortunas",
+  "ejes": [
+   {
+    "eje": "eje-patrimonio",
+    "posicion": "reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0098",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Crear un impuesto sobre los beneficios de las grandes distribuidoras alimentarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0099",
+  "subtema": "imp-iva-indirectos",
+  "otros": [
+   "vivienda-especulacion"
+  ],
+  "titular": "Aplicar un IVA del 21 % a los alojamientos turísticos de corta duración",
+  "ejes": [
+   {
+    "eje": "eje-iva",
+    "posicion": "subir-lujo"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0100",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Revertir las reglas fiscales que frenan la inversión de las entidades locales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0101",
+  "subtema": "imp-gasto-deuda",
+  "otros": [
+   "inst-constitucion"
+  ],
+  "titular": "Derogar la reforma del artículo 135 que prioriza el pago de la deuda",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0102",
+  "subtema": "imp-gasto-deuda",
+  "otros": [],
+  "titular": "Rechazar cualquier retorno a las políticas de austeridad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0103",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Transición ecosocial: acelerar la descarbonización con autosuficiencia conectada",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0104",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Revisar al alza el PNIEC y adelantar la descarbonización a 2045",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0105",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Reducir con urgencia el uso de combustibles fósiles en todos los sectores",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0106",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Despliegue renovable rápido con participación pública y retorno social",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0107",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Mantener el calendario de cierre nuclear del PNIEC",
+  "ejes": [
+   {
+    "eje": "eje-nuclear",
+    "posicion": "cerrar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0108",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Adaptación climática desde abajo con la comarca como unidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0109",
+  "subtema": "ener-modelo",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Electrificar, reforzar las redes y reformar el mercado eléctrico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0110",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Impulsar el Made in Europe como instrumento de soberanía industrial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0111",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Descarbonizar y electrificar la industria sustituyendo el gas fósil",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0112",
+  "subtema": "dig-datos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Soberanía digital europea con computación pública y centros de datos condicionados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0113",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "trab-sindicatos"
+  ],
+  "titular": "Impulsar las cooperativas y la economía social para reindustrializar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0114",
+  "subtema": "rural-agro",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Renacionalizar y territorializar la PAC para una política agraria propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0115",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Regionalizar la Política Pesquera Común para una política pesquera propia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0116",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-consumo-precios"
+  ],
+  "titular": "Seguridad Social Alimentaria y precios justos para productores y consumidores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0117",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Compra pública de alimentos de proximidad en comedores, hospitales y residencias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0118",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Desarrollar la Ley de la Cadena Alimentaria para garantizar precios justos en origen",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0119",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Expandir la producción ecológica y crear el sello Ecoregenerativa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0120",
+  "subtema": "inst-territorial",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Transferir a la CAPV y Nafarroa las competencias ferroviarias, aeroportuarias y portuarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0121",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Renovar las vías como alternativa a la Alta Velocidad en el corredor navarro",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0122",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Reforzar Cercanías, Media Distancia y las conexiones con Ipar Euskal Herria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0123",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Ayudas según renta y leasing social de vehículos eléctricos, sin subvencionar híbridos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0124",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Fijar objetivos de trasvase de mercancías de la carretera al tren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0125",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Gestionar desde las instituciones vascas las ayudas estatales al transporte público",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0126",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "Interoperabilidad del transporte estatal con los sistemas tarifarios de Euskal Herria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0127",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Subvencionar según renta, hasta el 100 %, la rehabilitación energética de viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0128",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Ayudas para sustituir calderas fósiles por bombas de calor y mejorar el aislamiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0129",
+  "subtema": "vivienda-alquiler",
+  "otros": [
+   "vivienda-suelo-construccion"
+  ],
+  "titular": "Condicionar las ayudas a la rehabilitación a límites al precio del alquiler",
+  "ejes": [
+   {
+    "eje": "eje-alquiler",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0130",
+  "subtema": "imp-sociedades",
+  "otros": [],
+  "titular": "Gravar de forma permanente los beneficios extraordinarios de las energéticas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0131",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Eliminar las subvenciones a los combustibles fósiles y la exención del queroseno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0132",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Revisar la fiscalidad energética para no penalizar la electricidad frente a los fósiles",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0133",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Gravar los vuelos privados y los billetes de avión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0134",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Concertar con las Haciendas Forales cualquier nueva fiscalidad ambiental estatal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0135",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Blindar los derechos conquistados por las mujeres frente a la ofensiva reaccionaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0136",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Blindar el derecho al aborto libre, seguro y confidencial",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0137",
+  "subtema": "igu-vida",
+  "otros": [],
+  "titular": "Perímetros de protección frente al acoso en los centros que practican abortos",
+  "ejes": [
+   {
+    "eje": "eje-aborto",
+    "posicion": "blindar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0138",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Campañas sobre el contenido sexual que normaliza la violencia contra las mujeres",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0139",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Prevenir las violencias sexuales en el ámbito digital",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0140",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Reconocer y penalizar la violencia vicaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0141",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Combatir los discursos antifeministas y los que niegan la violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0142",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Revisar los recursos de protección a las víctimas de violencia machista",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0143",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "No aceptar retrocesos en derechos LGTBIQ+ ni en la despatologización trans",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0144",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Prohibir las terapias de conversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0145",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Continuar la lucha contra la LGTBIQ+fobia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0146",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Prevenir e investigar los delitos de odio contra el colectivo LGTBIQ+ en redes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0147",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Reforzar las campañas de prevención de ITS y VIH",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0148",
+  "subtema": "igu-lgtbi",
+  "otros": [],
+  "titular": "Desarrollar el artículo 50 de la Ley trans sobre documentos de personas extranjeras",
+  "ejes": [
+   {
+    "eje": "eje-trans",
+    "posicion": "desplegar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0149",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Política migratoria con enfoque de derechos humanos, feminista e interseccional",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0150",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Regularización efectiva y nueva Ley de Extranjería basada en derechos humanos",
+  "ejes": [
+   {
+    "eje": "eje-regularizacion",
+    "posicion": "si"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0151",
+  "subtema": "inm-asilo",
+  "otros": [
+   "inm-fronteras"
+  ],
+  "titular": "Rechazar el Pacto Europeo de Migración, las devoluciones sumarias y los CIE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0152",
+  "subtema": "inm-integracion",
+  "otros": [
+   "inm-asilo"
+  ],
+  "titular": "Acceso a servicios públicos con independencia de la situación administrativa",
+  "ejes": [
+   {
+    "eje": "eje-prioridad-nacional",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0153",
+  "subtema": "igu-racismo",
+  "otros": [],
+  "titular": "Combatir el racismo institucional y estructural con supervisión independiente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0154",
+  "subtema": "inm-integracion",
+  "otros": [],
+  "titular": "Ampliar el derecho al voto de las personas de origen extranjero residentes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0155",
+  "subtema": "inm-regularizacion",
+  "otros": [],
+  "titular": "Más personal en las oficinas de extranjería de Nafarroa y la CAPV",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0156",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Transferir las competencias migratorias para un modelo vasco de acogida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0157",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Diagnóstico: la IA debe servir a los derechos y al interés general",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0158",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Convertir la soberanía digital europea en capacidades propias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0159",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Gobernanza democrática y control público de la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0160",
+  "subtema": "dig-datos",
+  "otros": [
+   "dig-ia"
+  ],
+  "titular": "Soberanía digital con infraestructuras propias y prioridad al software libre",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0161",
+  "subtema": "dig-ia",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Proteger el empleo ante la IA y reducir la jornada sin bajar el salario",
+  "ejes": [
+   {
+    "eje": "eje-jornada",
+    "posicion": "reducir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0162",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Desarrollar una IA ética, no discriminatoria, feminista y segura",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0163",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Empoderamiento digital de la ciudadanía y formación sobre la IA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0164",
+  "subtema": "dig-ia",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Financiar tecnologías lingüísticas e IA en euskera y demás lenguas oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0165",
+  "subtema": "dig-ia",
+  "otros": [],
+  "titular": "Reducir el impacto ambiental de la IA y de los centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0166",
+  "subtema": "dig-plataformas",
+  "otros": [],
+  "titular": "Desactivar por defecto la recomendación algorítmica para menores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0167",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Blindar las libertades y acabar con las normas que las niegan",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0168",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-policia"
+  ],
+  "titular": "Acabar con la Ley Mordaza y con el uso de pelotas de goma",
+  "ejes": [
+   {
+    "eje": "eje-mordaza",
+    "posicion": "derogar-sustituir"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0169",
+  "subtema": "igu-libertades",
+  "otros": [
+   "seg-penal"
+  ],
+  "titular": "Despenalizar las críticas a la Corona, los sentimientos religiosos y el enaltecimiento",
+  "ejes": [
+   {
+    "eje": "eje-sedicion",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0170",
+  "subtema": "igu-libertades",
+  "otros": [],
+  "titular": "Delimitar el discurso de odio para que no persiga la disidencia política",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0171",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Reformar la Ley de Publicidad Institucional para proteger el pluralismo y la desinformación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0172",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Diagnóstico: la Transición perpetuó la unidad de España y el Régimen del 78",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0173",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Una democratización que respete los derechos nacionales del pueblo vasco",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0174",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reconocer el carácter plurinacional del Estado",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0175",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reconocer a Euskal Herria y a las demás naciones del Estado",
+  "ejes": [
+   {
+    "eje": "eje-territorial",
+    "posicion": "federal"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0176",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reconocer el carácter político del conflicto y buscar una solución democrática",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0177",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Reconocer el derecho a decidir del pueblo vasco",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Reconocer el derecho a decidir o de autodeterminación? → sí"
+ },
+ {
+  "id": "bildu-0178",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Respetar las normas de las instituciones vascas y evitar injerencias del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0179",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Respetar los nuevos estatus que refrende la sociedad vasca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0180",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Exigir la transferencia de las competencias pendientes del Estatuto y el Amejoramiento",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0181",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Asumir competencias en migración, Seguridad Social, energía y relaciones laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0182",
+  "subtema": "inst-territorial",
+  "otros": [],
+  "titular": "Defender el autogobierno frente a la recentralización y las invasiones competenciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0183",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Ensanchar el Concierto y el Convenio y negociar un nuevo cálculo del Cupo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0184",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Garantizar los derechos lingüísticos de la ciudadanía vasca en todos los ámbitos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0185",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Garantizar la atención en euskera en todas las administraciones del Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0186",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Ampliar el euskera en el ámbito digital y en las plataformas audiovisuales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0187",
+  "subtema": "edu-lenguas",
+  "otros": [],
+  "titular": "Apoyar el reconocimiento del catalán, gallego, asturiano y aragonés",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0188",
+  "subtema": "edu-lenguas",
+  "otros": [
+   "ext-ue"
+  ],
+  "titular": "Lograr la oficialidad del euskera, el catalán y el gallego en la UE",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0189",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Defender la cultura vasca y que las creaciones en euskera no sean relegadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0190",
+  "subtema": "cultura",
+  "otros": [
+   "edu-lenguas"
+  ],
+  "titular": "Blindar por ley las ayudas a producciones en euskera y otras lenguas oficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0191",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Destinar el 15 % del fondo de cine a lenguas no castellanas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0192",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Delimitar el productor independiente para que las plataformas no absorban las ayudas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0193",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Cuotas de ayudas audiovisuales para mujeres, jóvenes y lenguas cooficiales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0194",
+  "subtema": "deporte",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Permitir que las selecciones vascas compitan internacionalmente",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0195",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Construir la convivencia con una memoria inclusiva de todas las víctimas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0196",
+  "subtema": "igu-memoria",
+  "otros": [],
+  "titular": "Ampliar la Ley de Memoria Democrática a víctimas de tortura y guerra sucia",
+  "ejes": [
+   {
+    "eje": "eje-memoria",
+    "posicion": "ampliar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0197",
+  "subtema": "inst-corrupcion",
+  "otros": [
+   "igu-memoria"
+  ],
+  "titular": "Derogar la Ley de Secretos Oficiales vigente desde el franquismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0198",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Aplicar la legislación penitenciaria ordinaria a todas las personas presas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0199",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Retirar condecoraciones a agentes implicados en vulneraciones de derechos humanos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0200",
+  "subtema": "seg-policia",
+  "otros": [
+   "inst-territorial"
+  ],
+  "titular": "Replegar las Fuerzas y Cuerpos de Seguridad del Estado de la CAV y Navarra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0201",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Defender la soberanía de los pueblos frente a las injerencias externas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0202",
+  "subtema": "ext-conflictos",
+  "otros": [
+   "seg-defensa"
+  ],
+  "titular": "Rechazar el envío de armas y el aumento del gasto en defensa",
+  "ejes": [
+   {
+    "eje": "eje-defensa",
+    "posicion": "contener"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0203",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Una seguridad europea indivisible y no dependiente de Estados Unidos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0204",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Rechazar la OTAN y la pertenencia de Euskal Herria a ella",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Permanecer en la OTAN? → no, salir o rechazarla"
+ },
+ {
+  "id": "bildu-0205",
+  "subtema": "seg-defensa",
+  "otros": [],
+  "titular": "Cerrar el campo de tiro de Bardenas y las bases de Rota y Morón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0206",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Adherirse al Tratado sobre la Prohibición de Armas Nucleares",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0207",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Aislar económica y políticamente a Israel y bloquear toda venta de armas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0208",
+  "subtema": "ext-conflictos",
+  "otros": [],
+  "titular": "Recuperar el apoyo a la autodeterminación del pueblo saharaui",
+  "ejes": [],
+  "nota": "EJE NUEVO: ¿Sáhara Occidental: autodeterminación o plan de autonomía marroquí? → autodeterminación"
+ },
+ {
+  "id": "bildu-0209",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Exigir el fin del bloqueo de EEUU contra Cuba",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "bildu-0210",
+  "subtema": "ext-politica",
+  "otros": [],
+  "titular": "Defender el derecho internacional y el multilateralismo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0001",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un programa desde Teruel para los y las turolenses",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0002",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Un programa desde Teruel pensado en el futuro de la provincia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0003",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "Presentación de las cinco prioridades del programa",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0004",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Desarrollo con equilibrio territorial y las mismas oportunidades en todos los territorios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0005",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Que Teruel no sea territorio de sacrificio de renovables, minería y centros de datos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0006",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Financiación justa y trato diferenciado para Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0007",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Sanidad, educación, servicios sociales y vivienda en todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0008",
+  "subtema": "infra-carreteras",
+  "otros": [
+   "infra-tren"
+  ],
+  "titular": "Autovías A-68, A-40, A-25 y Teruel–Requena–Almansa, y un tren moderno",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0009",
+  "subtema": "pres-diagnostico",
+  "otros": [],
+  "titular": "El resto del programa: repoblación, servicios, empleo, ciencia e instituciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0010",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Orientar la política hacia el desarrollo en equilibrio territorial",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0011",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Mecanismo rural de garantía para diseñar y evaluar toda ley",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0012",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "imp-gasto-deuda"
+  ],
+  "titular": "Presupuestos con mirada territorial y perspectiva rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0013",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Tratar la despoblación como un problema de Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0014",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Repartir los fondos europeos con criterios para zonas escasamente pobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0015",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Actualizar la Ley 45/2007 de Desarrollo Sostenible del Medio Rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0016",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Revertir el abandono institucional y la visión extractivista del territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0017",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Renovables sí, pero no así: un despliegue ordenado y más democrático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0018",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Moratoria en grandes parques renovables y líneas de muy alta tensión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0019",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ordenar el despliegue renovable y cobrar un canon a los macroparques",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0020",
+  "subtema": "clima",
+  "otros": [
+   "ener-modelo"
+  ],
+  "titular": "Actualizar la ley de cambio climático y abrir las subastas a pequeños inversores",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0021",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Control estricto de las puertas giratorias en el sector renovable",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0022",
+  "subtema": "dig-datos",
+  "otros": [],
+  "titular": "Centros de datos solo con máximas garantías ambientales, sociales y de transparencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0023",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Que lo extraído por la minería se transforme en el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0024",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Rechazo al abandono y saqueo de la tierra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0025",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Reservar el 20 % del acceso a la red para pequeñas instalaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0026",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Apoyar el autoconsumo y la generación renovable distribuida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0027",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Impulsar las comunidades energéticas y el almacenamiento municipal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0028",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Compromiso de comarcas y gobiernos locales contra el cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0029",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Fomentar proyectos renovables ligados a las comunidades de regantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0030",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Rehabilitación energética de 700.000 viviendas al año, el 30 % rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0031",
+  "subtema": "clima",
+  "otros": [],
+  "titular": "Cumplir los objetivos de emisiones de 2030 y la neutralidad climática en 2050",
+  "ejes": [
+   {
+    "eje": "eje-clima-ritmo",
+    "posicion": "acelerar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0032",
+  "subtema": "imp-verdes",
+  "otros": [],
+  "titular": "Crear un fondo soberano que grave las actividades extractivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0033",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Recuperar el canon que compensaba a las provincias productoras de energía",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0034",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Exigir planes de empleo con sanciones a los proyectos extractivos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0035",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Una financiación que reconozca el mayor coste de los servicios en Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0036",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Reformar la financiación autonómica según la despoblación y la dispersión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0037",
+  "subtema": "inst-financiacion-autonomica",
+  "otros": [],
+  "titular": "Que el Estado pague el coste mínimo de sanidad, educación y servicios sociales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0038",
+  "subtema": "inst-local",
+  "otros": [],
+  "titular": "Reformar la financiación local para los municipios de menos de 2.000 habitantes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0039",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Reconocer y subsanar la deuda histórica del Estado con Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0040",
+  "subtema": "infra-inversion-territorial",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Nuevo plan estatal específico de inversiones para Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0041",
+  "subtema": "infra-inversion-territorial",
+  "otros": [],
+  "titular": "Elevar el Fondo de Inversiones de Teruel hasta 100 millones de euros",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0042",
+  "subtema": "imp-modelo",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Fiscalidad progresiva con bonificaciones para atraer población a la provincia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0043",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-publico-banca"
+  ],
+  "titular": "Fondo de la SEPI para financiar proyectos empresariales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0044",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Sanidad, educación, servicios sociales y vivienda vivas donde vivas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0045",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Pacto de Estado por una sanidad pública, universal y de calidad",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0046",
+  "subtema": "san-primaria",
+  "otros": [],
+  "titular": "Llevar la financiación de la atención primaria al 25 % del presupuesto sanitario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0047",
+  "subtema": "san-profesionales",
+  "otros": [],
+  "titular": "Atraer y retener personal sanitario en el medio rural y ajustar las plazas MIR",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0048",
+  "subtema": "san-listas-espera",
+  "otros": [],
+  "titular": "Reducir las listas de espera con listas únicas para todas las comunidades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0049",
+  "subtema": "san-publica-prevencion",
+  "otros": [],
+  "titular": "Implantar los cribados de cáncer de próstata y de pulmón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0050",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Centros sanitarios dirigidos por profesionales formados en gestión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0051",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Historia clínica electrónica operativa en todo el Estado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0052",
+  "subtema": "san-prestaciones",
+  "otros": [],
+  "titular": "Cartera común del SNS y transporte sanitario urgente público 24 horas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0053",
+  "subtema": "san-modelo",
+  "otros": [],
+  "titular": "Panel público de indicadores de salud",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0054",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Los servicios públicos vertebran el territorio y permiten quedarse",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0055",
+  "subtema": "edu-modelo",
+  "otros": [
+   "edu-infantil",
+   "edu-escuela"
+  ],
+  "titular": "Educación pública con escolarización 0-3 y ratios adaptadas al medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0056",
+  "subtema": "fam-pobreza",
+  "otros": [],
+  "titular": "Ley Estatal de servicios sociales como derecho subjetivo y universal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0057",
+  "subtema": "fam-dependencia",
+  "otros": [],
+  "titular": "Adaptar la atención a la dependencia al medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0058",
+  "subtema": "fam-mayores",
+  "otros": [],
+  "titular": "Combatir la soledad no deseada e impulsar las islas de cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0059",
+  "subtema": "seg-policia",
+  "otros": [],
+  "titular": "Más guardias civiles y cuarteles con mejor vivienda en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0060",
+  "subtema": "vivienda-derecho",
+  "otros": [],
+  "titular": "Soluciones específicas para el problema de vivienda de Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0061",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Parque público de alquiler en todos los municipios, al menos cuatro viviendas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0062",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Impulsar la rehabilitación para recuperar pueblos y ciudades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0063",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [],
+  "titular": "Mejorar la eficiencia energética y la accesibilidad de los edificios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0064",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Construir vivienda pública en alquiler en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0065",
+  "subtema": "vivienda-publica",
+  "otros": [],
+  "titular": "Extender la vivienda protegida a todo el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0066",
+  "subtema": "vivienda-alquiler",
+  "otros": [],
+  "titular": "Incentivar que se pongan más viviendas en alquiler en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0067",
+  "subtema": "vivienda-especulacion",
+  "otros": [],
+  "titular": "Permitir limitar las viviendas turísticas a un porcentaje del parque, como el 5 %",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0068",
+  "subtema": "vivienda-publica",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Vivienda protegida rural con más superficie para atraer población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0069",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Pasar del modelo radial a una red mallada de autovías y tren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0070",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Arco mediterráneo interior de autovías de norte a sur",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0071",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Ejecutar la A-68 y prolongarla hasta Vinarós",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0072",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Desbloquear la autovía A-40 Cuenca-Teruel y prolongarla hacia Tarragona y Lleida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0073",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Licitar la A-25 entre Monreal del Campo y Alcolea del Pinar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0074",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Nueva autovía Teruel–Requena–Almansa sobre el eje de la N-330",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0075",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Tramitar las variantes del PITVI y mejorar la N-330 entre Villastar y Ademuz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0076",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Nuevos enlaces en la A-23, con acceso directo al aeropuerto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0077",
+  "subtema": "infra-carreteras",
+  "otros": [],
+  "titular": "Red mallada de carreteras y plan estatal para modernizar las provinciales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0078",
+  "subtema": "infra-tren",
+  "otros": [
+   "infra-corredores-puertos"
+  ],
+  "titular": "Corredor Cantábrico-Mediterráneo con doble vía electrificada y velocidad alta",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0079",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Electrificar la línea Zaragoza–Teruel–Sagunto y poner en marcha PLATEA",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0080",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Circunvalación ferroviaria de Teruel para sacar las mercancías del casco urbano",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0081",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Estación intermodal de Teruel con ferrocarril, autovía y aeropuerto",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0082",
+  "subtema": "infra-corredores-puertos",
+  "otros": [],
+  "titular": "Puerto seco de la Autoridad Portuaria de Valencia en Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0083",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Ramal Samper de Calanda–Alcañiz y reconversión del tren minero de Andorra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0084",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Tren directo Teruel–Madrid de altas prestaciones",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0085",
+  "subtema": "infra-tren",
+  "otros": [],
+  "titular": "Mejorar los regionales a Zaragoza y Valencia y recuperar el Bilbao–Cartagena",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0086",
+  "subtema": "infra-transporte-publico",
+  "otros": [],
+  "titular": "No perder líneas de autobús y desarrollar el transporte bajo demanda rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0087",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Fibra a menos de 20 km y 300 Mbps simétricos en zonas rurales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0088",
+  "subtema": "infra-digital",
+  "otros": [],
+  "titular": "Implantar el 5G en la España vaciada",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0089",
+  "subtema": "infra-digital",
+  "otros": [
+   "inst-administracion"
+  ],
+  "titular": "Formación en competencias digitales y digitalización de sectores y administración",
+  "ejes": [],
+  "nota": "SIN ENCAJE: digitalización y competencias digitales en general"
+ },
+ {
+  "id": "teruel-0090",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Un medio rural habitado como mejor garantía de un territorio cuidado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0091",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Defender la agricultura familiar frente a los fondos de inversión",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0092",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Tierra y agua antes para la agricultura que para proyectos tecnológicos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0093",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Ley de agricultura familiar y ganadería extensiva frente a las megagranjas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0094",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Apoyo extraordinario a la ganadería extensiva",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0095",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Precios justos y más peso del sector en la cadena alimentaria",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0096",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Una PAC equilibrada que pague por lo que se produce hoy",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0097",
+  "subtema": "rural-agro",
+  "otros": [
+   "eco-innovacion"
+  ],
+  "titular": "Política de I+D+i agroalimentaria y forestal",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0098",
+  "subtema": "rural-agro",
+  "otros": [],
+  "titular": "Reforzar las denominaciones de origen y la marca de calidad Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0099",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Proteger las masas de agua según la Directiva Marco del Agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0100",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Rechazar el trasvase del Ebro",
+  "ejes": [
+   {
+    "eje": "eje-agua",
+    "posicion": "no"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0101",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Actualizar los planes de sequía y reutilizar caudales depurados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0102",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Adaptar el Pacto del Agua de Aragón al cambio climático",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0103",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Defender a los usuarios del Guadalope y más agua para el abastecimiento de Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0104",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Conservar las riberas y cauces del dominio público hidráulico",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0105",
+  "subtema": "agua",
+  "otros": [],
+  "titular": "Educación ambiental sobre el uso del agua",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0106",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Compensar la custodia del territorio y la captación de CO₂ de los bosques",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0107",
+  "subtema": "seg-emergencias",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Estrategia nacional contra los incendios durante todo el año",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0108",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Silvicultura y ganadería extensiva para reducir los incendios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0109",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Nueva ley de montes de socios con un marco fiscal adecuado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0110",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Corregir la concentración de la industria en las grandes ciudades",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0111",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Atraer industria al medio rural ligada a los recursos endógenos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0112",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Exigir que las empresas con ayudas públicas se desconcentren",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0113",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Ayudas a empresas y autónomos de Teruel del 20 % de costes laborales",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0114",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [],
+  "titular": "Más ayudas, espacios multiuso y naves con vivienda para autónomos",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0115",
+  "subtema": "trab-empleo",
+  "otros": [],
+  "titular": "Políticas activas de empleo orientadas a las habilidades demandadas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0116",
+  "subtema": "eco-autonomos-pymes",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Ayudas y fiscalidad específica a comercios y bares de pueblos pequeños",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0117",
+  "subtema": "eco-turismo-comercio",
+  "otros": [],
+  "titular": "Turismo rural adaptado al potencial de cada zona y digitalizado",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0118",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Más financiación para los Grupos de Acción Local LEADER",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0119",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Plataforma logístico-industrial Teruel Norte del SEPES en La Puebla de Híjar",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0120",
+  "subtema": "eco-industria",
+  "otros": [],
+  "titular": "Reindustrializar las cuencas mineras turolenses y Andorra",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0121",
+  "subtema": "infra-corredores-puertos",
+  "otros": [
+   "eco-industria"
+  ],
+  "titular": "Nuevo polo logístico-industrial en el Jiloca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0122",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Cultura, ciencia y conocimiento para corregir la brecha rural-urbana",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0123",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Impulsar «Ciencia en el Parlamento» y políticas basadas en evidencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0124",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Atraer y retener talento científico en provincias menos pobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0125",
+  "subtema": "edu-universidad",
+  "otros": [],
+  "titular": "Grados de Medicina e Ingeniería Aeronáutica y extensión de la UNED en Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0126",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Potenciar el Instituto de Astrofísica, el CEFCA y la red del CSIC en Aragón",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0127",
+  "subtema": "eco-innovacion",
+  "otros": [],
+  "titular": "Centro Nacional de Investigación sobre Paleontología de dinosaurios",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0128",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Desarrollar el Museo Nacional de Etnografía en Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0129",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Centro Nacional de Diseño Contemporáneo Manuel Pertegaz en Olba y Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0130",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Iniciativa Power Experience sobre el patrimonio industrial minero",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0131",
+  "subtema": "eco-turismo-comercio",
+  "otros": [
+   "cultura"
+  ],
+  "titular": "Impulsar Teruel como ciudad de museos y destino de turismo cultural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0132",
+  "subtema": "cultura",
+  "otros": [],
+  "titular": "Redes de patrimonio, bibliotecas y festivales en el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0133",
+  "subtema": "naturaleza",
+  "otros": [
+   "eco-turismo-comercio"
+  ],
+  "titular": "Preservar el patrimonio geológico y potenciar la red de geoparques",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0134",
+  "subtema": "deporte",
+  "otros": [],
+  "titular": "Proyectos como el centro de tecnificación de atletismo en ruta de Allepuz",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0135",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Vivir en un pueblo debe ser un derecho, no un acto de heroísmo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0136",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Pacto de Estado: 2 % del PIB anual durante 30 años contra la despoblación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0137",
+  "subtema": "vivienda-fiscalidad",
+  "otros": [
+   "imp-irpf",
+   "rural-despoblacion"
+  ],
+  "titular": "Eximir del IBI y rebajar ITP e IRPF en pueblos despoblados",
+  "ejes": [
+   {
+    "eje": "eje-irpf",
+    "posicion": "bajar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0138",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "infra-digital"
+  ],
+  "titular": "Plan 300/30/30: 300 megas, servicios a 30 minutos y autovía a 30 km",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0139",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Acabar con la brecha financiera donde no hay oficinas bancarias",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0140",
+  "subtema": "inst-administracion",
+  "otros": [],
+  "titular": "Descentralizar sedes de la Administración y empresas públicas hacia el medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0141",
+  "subtema": "trab-empleo-publico",
+  "otros": [],
+  "titular": "Complemento de territorialidad para empleados públicos en zonas menos pobladas",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0142",
+  "subtema": "vivienda-suelo-construccion",
+  "otros": [
+   "rural-despoblacion"
+  ],
+  "titular": "Ayudas a la rehabilitación rural vinculadas al alquiler y la vivienda protegida",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0143",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Apoyar los sectores rurales y fomentar el teletrabajo para fijar población",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0144",
+  "subtema": "rural-despoblacion",
+  "otros": [
+   "eco-autonomos-pymes"
+  ],
+  "titular": "Emprendimiento, FP, investigación y economía social vinculados al territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0145",
+  "subtema": "rural-despoblacion",
+  "otros": [],
+  "titular": "Orgullo rural: más participación y un relato positivo del medio rural",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0146",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Cuidar el medio ambiente y el paisaje como principal riqueza de Teruel",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0147",
+  "subtema": "ener-modelo",
+  "otros": [
+   "naturaleza"
+  ],
+  "titular": "Moratoria en grandes parques renovables y oposición a los del Maestrazgo y Albarracín",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0148",
+  "subtema": "ener-modelo",
+  "otros": [],
+  "titular": "Ordenar el despliegue renovable y cobrar un canon a los macroparques",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0149",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar la protección ambiental y retribuir la absorción de CO2 de los montes",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0150",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Crear parques naturales en el Maestrazgo, Pinares de Rodeno y Puertos de Beceite",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0151",
+  "subtema": "naturaleza",
+  "otros": [],
+  "titular": "Aplicar el Convenio Europeo del Paisaje adaptado a cada comarca",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0152",
+  "subtema": "residuos",
+  "otros": [],
+  "titular": "Reducir el uso de recursos y acelerar la economía circular",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0153",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Igualdad en los pueblos: mujer rural, colectivo LGTBIQ+ y lucha contra la violencia",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0154",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "trab-jornada"
+  ],
+  "titular": "Conciliación con teletrabajo y reparto corresponsable de los cuidados",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0155",
+  "subtema": "igu-mujeres",
+  "otros": [],
+  "titular": "Igualdad laboral y salarial y acceso al empleo de mujeres con personas a cargo",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0156",
+  "subtema": "igu-mujeres",
+  "otros": [
+   "rural-agro"
+  ],
+  "titular": "Financiar el emprendimiento de las mujeres rurales y reconocer su papel agrario",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0157",
+  "subtema": "fam-natalidad",
+  "otros": [
+   "edu-infantil"
+  ],
+  "titular": "Ampliar el permiso de lactancia a un año y educación de 0 a 3",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0158",
+  "subtema": "igu-violencia",
+  "otros": [],
+  "titular": "Cumplir y actualizar el Pacto de Estado contra la Violencia de Género",
+  "ejes": [
+   {
+    "eje": "eje-violencia-genero",
+    "posicion": "mantener-reforzar"
+   }
+  ],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0159",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Instituciones que escuchen, rindan cuentas y cuiden el territorio",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0160",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Parar la polarización con más diálogo y consensos transversales",
+  "ejes": [],
+  "nota": "SIN ENCAJE: calidad democrática y polarización política"
+ },
+ {
+  "id": "teruel-0161",
+  "subtema": "inst-gobierno-parlamento",
+  "otros": [],
+  "titular": "Comportamiento democrático de partidos y fin de la deshumanización del adversario",
+  "ejes": [],
+  "nota": "SIN ENCAJE: calidad democrática y polarización política"
+ },
+ {
+  "id": "teruel-0162",
+  "subtema": "inst-medios",
+  "otros": [],
+  "titular": "Espíritu crítico en la escuela y comisión en el Congreso sobre desinformación",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0163",
+  "subtema": "inst-corrupcion",
+  "otros": [],
+  "titular": "Transparencia, rendición de cuentas y políticas antifraude contra la corrupción",
+  "ejes": [],
+  "nota": ""
+ },
+ {
+  "id": "teruel-0164",
+  "subtema": "inst-constitucion",
+  "otros": [
+   "inst-local"
+  ],
+  "titular": "Elección directa de los representantes de diputaciones y comarcas",
+  "ejes": [],
+  "nota": ""
+ }
+]

@@ -1,0 +1,2159 @@
+[
+ {
+  "eje": "eje-territorial",
+  "pregunta": "¿Hacia qué modelo territorial?",
+  "posiciones": [
+   {
+    "id": "recentralizar",
+    "nombre": "Frenar la descentralización o blindar competencias del Estado"
+   },
+   {
+    "id": "autonomico",
+    "nombre": "Mantener y mejorar el Estado autonómico"
+   },
+   {
+    "id": "federal",
+    "nombre": "Estado federal, confederal o plurinacional"
+   },
+   {
+    "id": "autodeterminacion",
+    "nombre": "Derecho a decidir, autodeterminación o independencia"
+   }
+  ],
+  "n": 198,
+  "palabras": 10360,
+  "candidatos": [
+   {
+    "id": "podemos-0428",
+    "partido": "podemos",
+    "titular": "Proceso constituyente y referéndum para elegir entre monarquía y república",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "406. **Proceso constituyente y referéndum sobre la forma de Estado.** Impulsaremos la aprobación de una constitución republicana que incorpore los avances democráticos previstos en este capítulo. Nuestro horizonte político es la acumulación de fuerzas para romper el candado del Régimen del 78 y plantear una tercera república como forma de Estado y la democracia social y participativa como su expresión política: no un simple cambio de jefatura, sino la apertura de un proceso que profundice la democracia, reconozca la plurinacionalidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro. Esta reforma constitucional permitirá, por primera vez, que la ciudadanía decida de forma separada y directa entre monarquía y república, la cuestión que se negó en la “transición”, recuperando el referéndum como instrumento democrático básico para que sea el soberano quien decida."
+   },
+   {
+    "id": "podemos-0434",
+    "partido": "podemos",
+    "titular": "Reforma federal del Senado como cámara de representación territorial",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "412. **Reforma federal del Senado.** Reformaremos el Senado para convertirlo en una verdadera cámara de representación territorial, garantizando la misma representación a todas las Comunidades Autónomas y estableciendo un sistema de elección proporcional en cada circunscripción, que refleje la pluralidad política de sus territorios."
+   },
+   {
+    "id": "adelante-0023",
+    "partido": "adelante",
+    "titular": "Andalucía como nacionalidad histórica con el máximo autogobierno",
+    "marca_actual": [],
+    "texto": "21. **Andalucía, nacionalidad histórica** — Exigimos el máximo nivel de autonomía y autogobierno en cualquier reforma.\nSe desarrolla en el programa: Propuesta 345 · Área 03 Andalucía en el Estado"
+   },
+   {
+    "id": "adelante-0105",
+    "partido": "adelante",
+    "titular": "Traspasar la sanidad penitenciaria a Andalucía y pagarle lo que se le debe",
+    "marca_actual": [],
+    "texto": "66. **Sanidad penitenciaria a Andalucía** — Traspaso y pago de lo que se le debe por prestarla. _Porque Andalucía presta ese servicio sin recibir lo que cuesta._"
+   },
+   {
+    "id": "adelante-0397",
+    "partido": "adelante",
+    "titular": "Máximo nivel de autonomía para Andalucía como nacionalidad histórica",
+    "marca_actual": [],
+    "texto": "345. **Andalucía, nacionalidad histórica** — El máximo nivel de autonomía, competencias y financiación en cualquier reforma constitucional. _Porque Andalucía conquistó en 1980 el mismo autogobierno que las nacionalidades históricas._"
+   },
+   {
+    "id": "adelante-0398",
+    "partido": "adelante",
+    "titular": "Un modelo confederal de pueblos libres e iguales como horizonte",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "346. **Hacia un modelo confederal** — Un Estado de pueblos libres e iguales como horizonte del andalucismo. _Porque los pueblos que forman el Estado deben relacionarse como iguales._"
+   },
+   {
+    "id": "adelante-0399",
+    "partido": "adelante",
+    "titular": "Auditar el cumplimiento del Estatuto y calendarizar los traspasos pendientes",
+    "marca_actual": [],
+    "texto": "347. **Auditoría del Estatuto** — Informe público de su cumplimiento y calendario de todos los traspasos pendientes, cada uno con su financiación. _Porque hay competencias reconocidas en el Estatuto que todavía no se han traspasado._"
+   },
+   {
+    "id": "adelante-0400",
+    "partido": "adelante",
+    "titular": "Traspasar Cercanías y media distancia a Andalucía con su financiación",
+    "marca_actual": [],
+    "texto": "348. **Traspaso de Cercanías y media distancia** — Con su financiación y participación real de Andalucía en la planificación ferroviaria. _Porque los trenes que usa la gente cada día deben gestionarse desde Andalucía._"
+   },
+   {
+    "id": "adelante-0401",
+    "partido": "adelante",
+    "titular": "Gestión exclusiva de la cuenca del Guadalquivir por la Junta",
+    "marca_actual": [],
+    "texto": "349. **El Guadalquivir, para Andalucía** — Gestión exclusiva de la cuenca por la Junta. _Porque el Guadalquivir es un río andaluz y el Estatuto lo reconoce._"
+   },
+   {
+    "id": "adelante-0402",
+    "partido": "adelante",
+    "titular": "Desplegar progresivamente una policía autonómica andaluza",
+    "marca_actual": [],
+    "texto": "350. **Policía autonómica andaluza** — Despliegue progresivo, coordinado con el resto de cuerpos. _Porque otras comunidades ya tienen su policía autonómica._"
+   },
+   {
+    "id": "adelante-0403",
+    "partido": "adelante",
+    "titular": "Más competencias en justicia y crear el Consejo de Justicia de Andalucía",
+    "marca_actual": [],
+    "texto": "351. **Justicia más cercana** — Más competencias y medios en justicia y constitución del Consejo de Justicia de Andalucía. _Porque la justicia necesita más medios y más cercanía._"
+   },
+   {
+    "id": "adelante-0404",
+    "partido": "adelante",
+    "titular": "Reforzar la agencia tributaria andaluza sobre los impuestos autonómicos",
+    "marca_actual": [],
+    "texto": "352. **Agencia tributaria andaluza fuerte** — Más capacidad sobre los impuestos de competencia autonómica. _Porque una agencia tributaria propia mejora la gestión de los impuestos andaluces._"
+   },
+   {
+    "id": "adelante-0405",
+    "partido": "adelante",
+    "titular": "Comisión bilateral con poder real en decisiones estatales sobre Andalucía",
+    "marca_actual": [],
+    "texto": "353. **Comisión bilateral con poder real** — Voz andaluza propia en las decisiones estatales que afectan a Andalucía. _Porque las decisiones del Estado que afectan a Andalucía se toman sin Andalucía._"
+   },
+   {
+    "id": "adelante-0406",
+    "partido": "adelante",
+    "titular": "Traspasar a Andalucía la Inspección de Trabajo y Seguridad Social",
+    "marca_actual": [],
+    "texto": "354. **Inspección de trabajo andaluza** — Traspaso de la Inspección de Trabajo y Seguridad Social, como ya tienen Cataluña y el País Vasco, coordinada con la estatal. _Porque Cataluña y el País Vasco ya la tienen, y aquí el fraude laboral es mayor._"
+   },
+   {
+    "id": "adelante-0407",
+    "partido": "adelante",
+    "titular": "Gestión andaluza de las prestaciones por desempleo sin romper la caja única",
+    "marca_actual": [],
+    "texto": "355. **El paro, gestionado desde Andalucía** — Gestión de las prestaciones por desempleo junto a las políticas activas de empleo que ya lleva la Junta, sin romper la caja única de la Seguridad Social. _Porque la Junta ya gestiona el empleo y tiene sentido que gestione también el paro._"
+   },
+   {
+    "id": "adelante-0408",
+    "partido": "adelante",
+    "titular": "Gestión andaluza de las becas y ayudas al estudio estatales",
+    "marca_actual": [],
+    "texto": "356. **Las becas, desde Andalucía** — Gestión de las becas y ayudas al estudio estatales, como ha avalado el Tribunal Constitucional. _Porque el Tribunal Constitucional ya ha dicho que las comunidades pueden gestionarlas._"
+   },
+   {
+    "id": "adelante-0409",
+    "partido": "adelante",
+    "titular": "Traspasar a Andalucía las autovías rescatadas como la AP-4",
+    "marca_actual": [],
+    "texto": "357. **Las autovías rescatadas, para Andalucía** — Traspaso de las vías de alta capacidad que discurren solo por Andalucía y vuelven al Estado al acabar su concesión, como la AP-4, con la financiación de su mantenimiento. _Porque si la autovía es solo andaluza, su gestión también debe serlo._"
+   },
+   {
+    "id": "adelante-0410",
+    "partido": "adelante",
+    "titular": "Participación andaluza en la gestión de aeropuertos de AENA y puertos",
+    "marca_actual": [],
+    "texto": "358. **Voz en puertos y aeropuertos** — Participación real de Andalucía en la planificación y gestión de los aeropuertos de AENA y de los puertos de interés general de su territorio. _Porque los puertos y aeropuertos andaluces se deciden en Madrid._"
+   },
+   {
+    "id": "adelante-0411",
+    "partido": "adelante",
+    "titular": "Participación andaluza en seguros agrarios y en el mercado pesquero",
+    "marca_actual": [],
+    "texto": "359. **Del campo y del mar, con Andalucía** — Participación en la gestión de los seguros agrarios y en la organización del mercado pesquero y acuícola del litoral andaluz. _Porque el campo y el mar andaluces necesitan decisiones tomadas desde aquí._"
+   },
+   {
+    "id": "adelante-0412",
+    "partido": "adelante",
+    "titular": "Territorializar parte de las ayudas estatales al cine",
+    "marca_actual": [],
+    "texto": "360. **Fondos de cine territorializados** — Que una parte de las ayudas estatales a la cinematografía se gestione desde Andalucía. _Porque el cine andaluz necesita recursos gestionados desde Andalucía._"
+   },
+   {
+    "id": "adelante-0417",
+    "partido": "adelante",
+    "titular": "Participación andaluza en las decisiones de la SEPI",
+    "marca_actual": [],
+    "texto": "365. **Andalucía en la SEPI** — Participación andaluza en las decisiones sobre empresas públicas que operan en Andalucía. _Porque las empresas públicas que operan en Andalucía deben contar con Andalucía._"
+   },
+   {
+    "id": "adelante-0435",
+    "partido": "adelante",
+    "titular": "Crear una administradora ferroviaria andaluza para la red intracomunitaria",
+    "marca_actual": [],
+    "texto": "382. **Administradora ferroviaria andaluza** — Gestión pública andaluza de la red intracomunitaria, como Ferrocarrils de la Generalitat de Catalunya. _Porque la red andaluza debe gestionarse desde Andalucía, como en Cataluña._"
+   },
+   {
+    "id": "adelante-0437",
+    "partido": "adelante",
+    "titular": "Control ferroviario por tramos con la red Cádiz–Sevilla–Córdoba desde Andalucía",
+    "marca_actual": [],
+    "texto": "384. **Control ferroviario desde Andalucía** — Centros de control por tramos, con la red Cádiz–Sevilla–Córdoba gestionada desde Andalucía. _Porque la red ferroviaria andaluza se controla hoy desde fuera._"
+   },
+   {
+    "id": "adelante-0529",
+    "partido": "adelante",
+    "titular": "Un Senado territorial como cámara de comunidades y nacionalidades",
+    "marca_actual": [],
+    "texto": "474. **Un Senado territorial de verdad** — Reforzar su carácter territorial: cámara de las comunidades y nacionalidades, con sus miembros rindiendo cuentas ante sus parlamentos. _Porque el Senado no cumple hoy su función territorial._"
+   },
+   {
+    "id": "adelante-0534",
+    "partido": "adelante",
+    "titular": "Traspasar a Andalucía la ejecución penitenciaria con su financiación",
+    "marca_actual": [],
+    "texto": "479. **Prisiones, a Andalucía** — Traspaso de la ejecución penitenciaria que prevé el Estatuto, con su financiación. _Porque el Estatuto ya prevé esa competencia._"
+   },
+   {
+    "id": "bng-0009",
+    "partido": "bng",
+    "titular": "El Estado español es irreformable y se necesita una ruptura democrática",
+    "marca_actual": [],
+    "texto": "É iso o que exixe do BNG o sentido de responsabilidade para co noso país, mais tamén a certeza de que é a mellor maneira de pór en evidencia diante do noso pobo as limitacións do punto de vista democrático do sistema político español e mesmo a súa incapacidade para aceptar, no mínimo que for, a pluralidade nacional, cultural, lingüística ou socio-económica. Por iso seguiremos a constatar que o Estado español é irreformábel na súa esencia, e que precisamos seguir a sumar forzas en favor da ruptura democrática. En todo o caso, estamos para reclamar con firmeza todo aquilo que ao pobo galego corresponder porque somos conscientes de que no actual contexto político e no período que se abre con estas eleccións, é preciso materializar propostas que vaian na dirección de estabelecer avances inmediatos.\n\nPor iso, no camiño de ir afondando na capacidade de decisión de Galiza, defendemos:"
+   },
+   {
+    "id": "bng-0013",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las competencias en relaciones laborales",
+    "marca_actual": [],
+    "texto": "- Transferencia das competencias en materia de relacións laborais, co obxectivo de que Galiza teña plena capacidade lexislativa e normativa para estabelecer un marco galego de relacións laborais visando blindar a negociación colectiva e garantir traballo digno e con dereitos para toda a poboación. Tamén para poder estabelecer unha renda social básica que permita desfrutar de condicións de vida dignas e participación social plena a toda a poboación galega, sen exclusións de ningún tipo."
+   },
+   {
+    "id": "bng-0014",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las competencias de Seguridad Social y pensiones",
+    "marca_actual": [],
+    "texto": "- Transferencia das competencias en materia de Seguranza Social e pensións, co obxectivo de garantir un sistema sanitario e de atención social ben financiado e unhas pensións dignas para as persoas xubiladas."
+   },
+   {
+    "id": "bng-0015",
+    "partido": "bng",
+    "titular": "Traspasar la seguridad pública y desplegar la Policía Galega",
+    "marca_actual": [],
+    "texto": "- Traspaso das competencias en materia de seguranza pública, policía xudicial e fiscal, así como garda de tránsito, para o que será despregado o corpo da Policía Galega."
+   },
+   {
+    "id": "bng-0016",
+    "partido": "bng",
+    "titular": "Control público gallego de la energía y tarifa eléctrica gallega",
+    "marca_actual": [],
+    "texto": "- Asunción por parte dos poderes públicos galegos de plena capacidade para exercer o control público dos nosos recursos, dos sectores estratéxicos da economía e, especialmente, da produción de enerxía. Isto é básico para poder estabelecer unha Tarifa eléctrica galega baseada nun modelo tarifario que abarate o prezo da electricidade e permita que este ben público reverta no desenvolvemento social e económico do país e na eliminación da exclusión enerxética."
+   },
+   {
+    "id": "bng-0017",
+    "partido": "bng",
+    "titular": "Traspasar puertos, aeropuertos, carreteras y ferrocarriles de interés general a Galicia",
+    "marca_actual": [],
+    "texto": "- Traspaso das competencias en infraestruturas de transporte de interese xeral: portos de interese xeral, aeroportos e control de tráfico aéreo en Galiza, alén de estradas e camiños de ferro que discorren por territorio galego."
+   },
+   {
+    "id": "bng-0018",
+    "partido": "bng",
+    "titular": "Transferir costas y la Confederación Hidrográfica Miño-Sil a Galicia",
+    "marca_actual": [],
+    "texto": "- Transferencia das competencias en materia de costas e do dominio público marítimo-terrestre, tanto as normativas en materia de protección do litoral como aquelas de intervención e xestión (autorizacións de instalacións na costa galega). Tamén se afrontará o traspaso das competencias sobre as bacías hidrográficas (transferencia plena da Confederación Hidrográfica Miño-Sil)."
+   },
+   {
+    "id": "bng-0019",
+    "partido": "bng",
+    "titular": "Transferir salvamento marítimo y los centros de Oceanografía en Galicia",
+    "marca_actual": [],
+    "texto": "- Transferencia das competencias e servizos de salvamento marítimo e gardacostas, así como dos centros do Instituto Español de Oceanografía na Coruña e en Vigo."
+   },
+   {
+    "id": "bng-0020",
+    "partido": "bng",
+    "titular": "Traspasar y nacionalizar la AP-9 y la AP-53",
+    "marca_actual": [],
+    "texto": "- Traspaso AP-9 (Ferrol-A Coruña-Vigo) e AP-53 (Santiago-Lalín) e nacionalización destas infraestruturas para acabar co espolio económico que representan actualmente."
+   },
+   {
+    "id": "bng-0021",
+    "partido": "bng",
+    "titular": "Traspasar los fondos y competencias de fomento del cine y audiovisual gallego",
+    "marca_actual": [],
+    "texto": "- Traspaso dos fondos e competencias relacionadas co fomento da industria cinematográfica e audiovisual galega."
+   },
+   {
+    "id": "bng-0022",
+    "partido": "bng",
+    "titular": "Traspasar a Galicia archivos y fondos documentales e históricos del Estado",
+    "marca_actual": [],
+    "texto": "- Traspaso a Galiza dos arquivos, bens e fondos documentais, culturais e históricos, que se achan espallados en diversas institucións e organismos do Estado."
+   },
+   {
+    "id": "bng-0023",
+    "partido": "bng",
+    "titular": "Traspasar competencias deportivas y competiciones internacionales para Galicia",
+    "marca_actual": [],
+    "texto": "- Traspaso das competencias en materia deportiva do Consello Superior de Deportes e das federacións deportivas. Galiza participará, con pleno dereito, en todas as disciplinas, nas competicións deportivas internacionais oficiais."
+   },
+   {
+    "id": "bng-0024",
+    "partido": "bng",
+    "titular": "Transferir a Galicia los activos de la SAREB para vivienda pública social",
+    "marca_actual": [],
+    "texto": "- Transferencia dos activos da SAREB (entidade de xestión de activos inmobiliarios das entidades financeiras saneadas) situados en Galiza, para incorporación nunha bolsa de vivendas e inmóbeis para fomento da vivenda pública social en Galiza."
+   },
+   {
+    "id": "bng-0025",
+    "partido": "bng",
+    "titular": "Traspasar todas las competencias previstas que aún retiene el Estado",
+    "marca_actual": [],
+    "texto": "- En todo o caso, traspaso á Administración Galega de todas aquelas competencia previstas e que aínda detén a Administración do Estado."
+   },
+   {
+    "id": "bng-0041",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las competencias pendientes de trabajo, empleo y formación",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza todas as competencias pendentes en xestión do traballo, emprego, formación e recoñecemento de prestacións."
+   },
+   {
+    "id": "bng-0050",
+    "partido": "bng",
+    "titular": "Marco gallego de relaciones laborales con prevalencia de convenios gallegos",
+    "marca_actual": [],
+    "texto": "- Desenvolver un Marco Galego de Relacións Laborais, é dicir, ter como obxectivo convenios de ámbito galego, mais tamén que, en todo caso, os convenios de nivel superior ao de empresa teñan prevalencia sobre os de rango inferior e tamén sobre os estatais. Igualmente, os acordos sobre materias concretas ou acordos de estrutura a nivel de Galiza deben prevalecer sobre aqueles de ámbito estatal de semellantes características."
+   },
+   {
+    "id": "bng-0068",
+    "partido": "bng",
+    "titular": "Diagnóstico: las pensiones gallegas, las segundas más bajas del Estado",
+    "marca_actual": [],
+    "texto": "O Bloque Nacionalista Galego defende o traspaso a Galiza das competencias correspondentes ao réxime da Seguridade Social para garantir unhas pensións dignas para toda a poboación en idade de xubilación. Entre tanto isto non acontece, traballamos para asegurar o sistema público de pensións e mellorar as condicións e a calidade de vida das e dos pensionistas presentes e futuros.\n\nDebemos ter en conta que as pensionistas e os pensionistas galegos continúan a percibir as segundas pensións máis baixas do Estado –só por detrás de Extremadura-- e que as reformas aprobadas polos sucesivos gobernos españois nos anos 2011, 2013, 2021 e 2023, poñen en cuestión a viabilidade do sistema público co obxectivo único de promover e favorecer os fondos privados de pensións.\n\nDiante desta situación, o BNG defende:"
+   },
+   {
+    "id": "bng-0093",
+    "partido": "bng",
+    "titular": "Transferir el IMV a Galicia para una renta de inclusión no inferior al SMI",
+    "marca_actual": [],
+    "texto": "- Reclamar a transferencia a Galiza do Ingreso Mínimo Vital (IMV) para garantir unha xestión máis áxil e acaída á realidade galega, permitindo a creación dunha verdadeira Renda Galega de Inclusión Social e Laboral nunha contía non inferior ao SMI."
+   },
+   {
+    "id": "bng-0160",
+    "partido": "bng",
+    "titular": "Transferir a Galicia Instituciones Penitenciarias con una legislación más garantista",
+    "marca_actual": [],
+    "texto": "- Transferencia a Galiza das competencias en materia de Institucións Penitenciarias co obxectivo de avanzar cara á unha lexislación penitenciaria actualizada e máis garantista e respectuosa cos dereitos fundamentais da poboación reclusa, reducindo as sancións por illamento, reforzando o papel das xuntas de tratamento e recoñecendo dereitos de sindicación ás persoas presas que traballen, entre outras medidas."
+   },
+   {
+    "id": "bng-0168",
+    "partido": "bng",
+    "titular": "Referendos vinculantes, incluido el derecho de autodeterminación",
+    "marca_actual": [],
+    "texto": "- Impulsar a participación directa a través de consultas populares. Neste sentido, promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación, así como a participación social na planificación e na xestión dos fondos públicos."
+   },
+   {
+    "id": "bng-0174",
+    "partido": "bng",
+    "titular": "Superar los artículos 3 y 27 de la Constitución en materia educativa",
+    "marca_actual": [],
+    "texto": "- Superar o actual marco lexislativo, recollido nos artigos 3 e 27 da Constitución. Dotármonos do poder político necesario para podermos decidir sobre a ordenación e sobre a planificación dun sistema educativo galego, inserido na nosa realidade social, económica, cultural e lingüística, en función das nosas necesidades e carencias e ao servizo da transformación e do desenvolvemento de Galiza."
+   },
+   {
+    "id": "bng-0175",
+    "partido": "bng",
+    "titular": "Leyes gallegas de educación, FP, enseñanzas artísticas y universidades",
+    "marca_actual": [],
+    "texto": "- Estabelecer un marco educativo novo que supere as limitacións competenciais aplicadas por unha visión unitaria do Estado e do sistema educativo, tanto no ensino non-universitario (LOMLOE, LOFP) como no universitario (LOSU) e que, por tanto, parta da configuración plurinacional e plurilingüe do Estado; que Galiza poida organizar e ordenar o sistema educativo mediante unha Lei galega de educación que regule o noso sistema educativo até o Bacharelato, unha Lei galega de formación profesional, unha Lei de ensinanzas artísticas superiores que permita que os centros que imparten estas ensinanzas poidan adscribirse á universidade e unha Lei do Sistema Universitario Galego."
+   },
+   {
+    "id": "bng-0177",
+    "partido": "bng",
+    "titular": "Transferir a Galicia todas las competencias educativas pendientes",
+    "marca_actual": [],
+    "texto": "- Transferir ao Goberno galego todas as competencias pendentes, garantindo a plena capacidade para deseñar e desenvolver un modelo educativo propio. Traspaso de todos os programas educativos e dos centros educativos e formativos situados en Galiza adscritos á Administración central e de todas as competencias para poder elaborar os plans de estudo e os deseños curriculares en todas as etapas educativas, así como a política de bolsas de estudo para ensino non-universitario; organizar todas as ensinanzas e estabelecer os currículos escolares de todas as materias e fixar os criterios de avaliación do proceso de aprendizaxe e da promoción do alumnado para fixar un ensino inclusivo e integrador que dea unha resposta satisfactoria e adecuada ao alumnado con necesidades especiais."
+   },
+   {
+    "id": "bng-0178",
+    "partido": "bng",
+    "titular": "Competencia exclusiva gallega sobre el personal docente y sin tasa de reposición",
+    "marca_actual": [],
+    "texto": "- Garantir a plena e exclusiva competencia en xestión do persoal docente: regular os corpos e especialidades docentes, fixar o sistema de acceso á función pública docente, con plena autonomía para suprimir as taxas de reposición de efectivos nas ofertas de emprego público e así poder dotar o ensino público do profesorado que precise; regular a competencia e composición de todos os órganos colexiados e da elección democrática das direccións por e entre quen integra os propios centros, eliminando a libre designación nos Centros Integrados de FP."
+   },
+   {
+    "id": "bng-0182",
+    "partido": "bng",
+    "titular": "Reformar la LOSU para permitir una ley gallega de universidades",
+    "marca_actual": [],
+    "texto": "- Defender unha reforma da Lei orgánica do Sistema Universitario (LOSU) que defina claramente o modelo de universidade pública e permita exercer todas as competencias no ámbito galego mediante unha lei propia que evite a privatización do SUG e que permita a plena competencia para regular os plans de estudo das ensinanzas universitarias, actualmente limitadas polo RD 43/2015."
+   },
+   {
+    "id": "bng-0185",
+    "partido": "bng",
+    "titular": "Transferir a Galicia la UNED, la UIMP y los centros del CSIC",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza as competencias e medios materiais da Universidade a Distancia (UNED), da Universidade Internacional Menéndez Pelayo e das entidades dependentes do Centro Superior de Investigacións Científicas."
+   },
+   {
+    "id": "bng-0186",
+    "partido": "bng",
+    "titular": "Transferir a Galicia la gestión de las becas universitarias",
+    "marca_actual": [],
+    "texto": "- Transferir a competencia da xestión e da concesión de bolsas e axudas ao estudo universitario, superando o actual modelo de repartimento e garantindo o acceso universal á ensinanza superior."
+   },
+   {
+    "id": "bng-0187",
+    "partido": "bng",
+    "titular": "Mejorar el seguro escolar y transferirlo a la Xunta de Galicia",
+    "marca_actual": [],
+    "texto": "- Mellorar a acción protectora do seguro escolar e transferilo á Xunta de Galiza."
+   },
+   {
+    "id": "bng-0201",
+    "partido": "bng",
+    "titular": "Transferir a Galicia la formación MIR, EIR y PIR y aumentar plazas",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza todas as competencias relacionadas cos programas de formación MIR, EIR, PIR... e incrementar o número de prazas consonte as necesidades reais que presenta o SERGAS de cobertura de profesionais."
+   },
+   {
+    "id": "bng-0206",
+    "partido": "bng",
+    "titular": "Nuevo Estatuto Marco de profesionales sanitarios sin recentralizar competencias",
+    "marca_actual": [],
+    "texto": "- Crear un novo Estatuto Marco para o conxunto das/os profesionais da sanidade pública, que non signifique recentralización de competencias xa transferidas a Galiza. Reforzar os dereitos das traballadoras e traballadores da sanidade pública, o exercicio das súas competencias coas remuneracións acordes ás mesmas."
+   },
+   {
+    "id": "bng-0220",
+    "partido": "bng",
+    "titular": "Modelo de cuidados de mayores según los estándares del Consejo de Europa",
+    "marca_actual": [],
+    "texto": "- Implantar un modelo de coidados das persoas maiores baseado nos estándares de dereitos do Consello de Europa, adaptando os servizos de autonomía e proximidade á distinta realidade plurinacional e territorial do Estado."
+   },
+   {
+    "id": "bng-0228",
+    "partido": "bng",
+    "titular": "Suprimir la administración periférica del Estado y ministerios con competencias transferidas",
+    "marca_actual": [],
+    "texto": "- Reestruturación administrativa e adelgazamento do aparello do Estado. Supresión da administración periférica do Estado e tamén dos departamentos ministeriais con competencias transferidas."
+   },
+   {
+    "id": "bng-0229",
+    "partido": "bng",
+    "titular": "Suprimir las diputaciones provinciales",
+    "marca_actual": [],
+    "texto": "- Supresión das deputacións provinciais, co traspaso de competencias e funcións a Galiza e aos concellos, evitando a creación de estruturas institucionais substitutivas."
+   },
+   {
+    "id": "bng-0263",
+    "partido": "bng",
+    "titular": "Codecisión y gestión descentralizada de la política industrial en Galicia",
+    "marca_actual": [],
+    "texto": "- Estabelecer un marco de co-decisión e xestión descentralizada de todos os proxectos, programas, plans e instrumentos de financiamento en materia de política industrial e produtiva, para garantir a participación efectiva de Galiza no seu deseño e desenvolvemento no noso País."
+   },
+   {
+    "id": "bng-0275",
+    "partido": "bng",
+    "titular": "Que Galicia negocie directamente los tratados pesqueros, como la cuota de sardina",
+    "marca_actual": [],
+    "texto": "Galiza é a primeira potencia de Europa no complexo mar-industria. Porén, o feito de seren outros —Madrid e Bruxelas— os que deciden por nós prexudicou e continúa a prexudicar gravemente a nosa frota pesqueira e a súa actividade derivada. Precisamos que sexa Galiza a que negocie directamente os tratados pesqueiros con terceiros países, nomeadamente con Portugal no relativo á cota da sardiña.\n\nNo inmediato, o BNG reclama:"
+   },
+   {
+    "id": "bng-0278",
+    "partido": "bng",
+    "titular": "Capacidad de negociación directa de Galicia en la reforma de la PPC",
+    "marca_actual": [],
+    "texto": "- O recoñecemento da capacidade directa de negociación de Galiza , a súa participación e consentimento naquelas cuestións de especial relevancia en materia pesqueira, nomeadamente, na reforma ou na revisión da PPC."
+   },
+   {
+    "id": "bng-0283",
+    "partido": "bng",
+    "titular": "Transferir a Galicia puertos estatales, Salvamento Marítimo, IEO y gestión del litoral",
+    "marca_actual": [],
+    "texto": "- O estabelecemento dun espazo galego de libre decisión en materia marítima, pesqueira e/ou aproveitamento enerxético. Transferencia das competencias dos portos de interese xeral do Estado, Salvamento Marítimo, navegación marítima e mariña mercante, investigación oceanográfica (IEO), inspección de buques, ISM, dominio público marítimo e marítimo-terrestre e mar territorial, así como o traspaso de funcións e servizos da Administración xeral do Estado a Galiza en materia de ordenación e xestión do litoral etc."
+   },
+   {
+    "id": "bng-0288",
+    "partido": "bng",
+    "titular": "Transferir los inmuebles del ISM y recuperar las casas del mar",
+    "marca_actual": [],
+    "texto": "- Transferencia dos inmóbeis do ISM e recuperar as casas do mar que foron desaparecendo."
+   },
+   {
+    "id": "bng-0301",
+    "partido": "bng",
+    "titular": "Transferir a Galicia los centros del CSIC y del IEO",
+    "marca_actual": [],
+    "texto": "- Transferencia a Galiza das entidades dependentes do Centro Superior de Investigacións científicas (CSIC) e dos centros do Instituto Español de Oceanografía (IEO)."
+   },
+   {
+    "id": "bng-0307",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las competencias en materia energética",
+    "marca_actual": [],
+    "texto": "- Transferir as competencias en materia enerxética, de maneira que se corrixa a anomalía democrática de que, malia estar especializada na produción, Galiza teña impedimentos para deseñar o seu propio modelo enerxético e de descarbonización de maneira acorde ás súas necesidades enerxéticas, sociais, económicas e medioambientais, garantindo o control público galego deste sector estratéxico."
+   },
+   {
+    "id": "bng-0309",
+    "partido": "bng",
+    "titular": "Transferir la planificación y las redes energéticas con acuerdo preceptivo de las comunidades",
+    "marca_actual": [],
+    "texto": "- Transferir as competencias en materia enerxética (planificación, ordenación, redes de transporte e distribución, xestión oferta/demanda, impulso modelo descentralizado e de proximidade) e alcanzar o compromiso do Estado para que sexa preceptivo o acordo coas comunidades autónomas nos plans de ámbito estatal e nas negociacións de ámbito supraestatal."
+   },
+   {
+    "id": "bng-0328",
+    "partido": "bng",
+    "titular": "Facultar a Galicia para declarar zonas de reserva minera permanente",
+    "marca_actual": [],
+    "texto": "- Facultar aa Galiza para declarar zonas de reserva mineira permanente, especialmente nos xacementos de minerais estratéxicos, garantindo o seu aproveitamento mediante iniciativa pública ou baixo control público efectivo."
+   },
+   {
+    "id": "bng-0347",
+    "partido": "bng",
+    "titular": "Veto o informe vinculante de las administraciones territoriales ante proyectos mineros",
+    "marca_actual": [],
+    "texto": "- Recoñecer capacidade de veto ou informe vinculante ás administracións territoriais afectadas cando o proxecto comprometa o abastecemento de auga, espazos protexidos, actividades económicas estratéxicas ou valores patrimoniais incompatíbeis coa explotación."
+   },
+   {
+    "id": "bng-0348",
+    "partido": "bng",
+    "titular": "Déficit histórico de infraestructuras en Galicia y competencias plenas en transporte",
+    "marca_actual": [],
+    "texto": "Galiza arrastra un déficit histórico en materia de infraestruturas, o que supón menos vertebración territorial, menos seguridade e menos servizos. Por iso, o BNG exixirá ao Goberno do Estado acometer os investimentos necesarios para levar adiante unha máis que necesaria modernización en materia de transportes e mobilidade.\n\nAsí mesmo, é preciso reclamar as competencias plenas en materia de transporte, acompañadas do financiamento necesario, para que o Goberno galego poida desenvolver unha política de transportes autocentrada, atendendo ao reto da vertebración do país e á mobilidade interior, tanto de pasaxeiros como de mercadorías, tendo como elemento chave a intermodalidade real e non só física."
+   },
+   {
+    "id": "bng-0356",
+    "partido": "bng",
+    "titular": "Transferir las líneas interiores a una empresa ferroviaria pública gallega, GALTRÉN",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza as liñas interiores para seren xestionadas a través dunha empresa pública galega de transporte ferroviario (GALTRÉN), tomando como referencia os modelos xa consolidados noutros territorios do Estado."
+   },
+   {
+    "id": "bng-0360",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las carreteras estatales, el tráfico y la seguridad vial",
+    "marca_actual": [],
+    "texto": "Tamén nas estradas que son titularidade do Estado en Galiza podemos falar de atraso histórico nos investimentos, polo que precisan de atención urxente para garantiren unha adecuada conexión entre as principais vilas e cidades galegas, sendo necesarias actuacións integrais que faciliten a inserción destas vías nas tramas urbanas e que vaian destinadas á mellora da seguridade viaria. Porén, o BNG seguirá a defender que se transfiran a Galiza as estradas pertencentes á Rede de Estradas do Estado que transcorren integramente por territorio galego, o que permitirá artellar desde o Goberno galego unha política integral de transportes, así como tamén as transferencias en materias de ordenación de tráfico e seguridade viaria:"
+   },
+   {
+    "id": "bng-0362",
+    "partido": "bng",
+    "titular": "Transferir a Galicia la AP-53 y dejarla libre de peajes",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza e liberalizar a AP-53 para conseguir que esta autoestrada quede finalmente libre de peaxes."
+   },
+   {
+    "id": "bng-0367",
+    "partido": "bng",
+    "titular": "Transferir a Galicia la ordenación del tráfico y la seguridad vial",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza as competencias en ordenación de tráfico e seguridade viaria, atendendo á necesidade deseñar e poñer en práctica accións para mellorar a seguridade e a xestión do conxunto da rede de estradas existentes no país."
+   },
+   {
+    "id": "bng-0369",
+    "partido": "bng",
+    "titular": "Transferir a Galicia los aeropuertos y mantener públicas las torres de control",
+    "marca_actual": [],
+    "texto": "- Reclamar a transferencia a Galiza da competencia sobre os aeroportos galegos, para a súa xestión integral co fin de artellar un sistema aeroportuario integral galego, baseado na especialización, na creación de sinerxías e na complementariedade dos tres aeroportos, así como demandar a mellora e a modernización das súas instalacións. Ademais disto reverter e asegurar o control e a xestión pública das torres de control para garantir a seguridade aérea."
+   },
+   {
+    "id": "bng-0370",
+    "partido": "bng",
+    "titular": "Transferir a Galicia los puertos de interés general y liberalizar el de Morás",
+    "marca_actual": [],
+    "texto": "- Instar a transferir ao Goberno galego os portos de interese xeral en Galiza, como son os de Vigo, Marín, Vilagarcía de Arousa, A Coruña e Ferrol-San Cibrao. Neste último é preciso así mesmo lograr a liberalización do porto de Morás e abrilo ao tráfico e ao transporte de mercadorías."
+   },
+   {
+    "id": "bng-0377",
+    "partido": "bng",
+    "titular": "Traspasar a Galicia las competencias ambientales: costas, cuencas, meteorología y puertos",
+    "marca_actual": [],
+    "texto": "- O traspaso a Galiza de todas as competencias en materia de ambiente; nomeadamente as seguintes: Costas, Salvamento Marítimo e loita contra a contaminación, servizos de meteoroloxía, centros de investigación, portos de interese xeral e bacías hidrográficas."
+   },
+   {
+    "id": "bng-0378",
+    "partido": "bng",
+    "titular": "Desafectar del uso militar la isla de Tambo y espacios costeros",
+    "marca_actual": [],
+    "texto": "- A desafección do uso militar de espazos costeiros, castelos e da illa de Tambo, e transferencia da súa titularidade a Galiza."
+   },
+   {
+    "id": "bng-0379",
+    "partido": "bng",
+    "titular": "Reformar las leyes ambientales estatales que invaden competencias gallegas",
+    "marca_actual": [],
+    "texto": "- A reforma de normas que invaden competencias de noso como son a Lei de costas, a Lei de cambio climático, a Lei de avaliación ambiental, Lei de patrimonio natural e a Lei de parques nacionais."
+   },
+   {
+    "id": "bng-0382",
+    "partido": "bng",
+    "titular": "Transferir a Galicia los recursos para biodiversidad y espacios naturales",
+    "marca_actual": [],
+    "texto": "- Transferir a Galiza dos recursos financeiros destinados á protección da biodiversidade, especies ameazadas, espazos naturais e rexeneración de espazos degradados."
+   },
+   {
+    "id": "bng-0390",
+    "partido": "bng",
+    "titular": "Saneamiento integral con redes separativas y regeneración de las rías",
+    "marca_actual": [],
+    "texto": "- Impulsar o saneamento integral real a través de redes separativas e enerxeticamente eficientes de saneamento e da rexeneración das rías galegas, transferindo a Galiza os recursos necesarios, así como a capacidade para a planificación, deseño, aprobación e a execución das infraestruturas hidráulicas que actualmente ten atribuídas o Goberno central."
+   },
+   {
+    "id": "bng-0442",
+    "partido": "bng",
+    "titular": "Transferir a Galicia telecomunicaciones, audiovisual, infraestructuras digitales y ciberseguridad",
+    "marca_actual": [],
+    "texto": "- Transferencia de competencias e recursos. Reclamar a transferencia das competencias exclusivas do Estado en telecomunicacións, espazo audiovisual, infraestruturas dixitais, ciberseguridade e certificación da identidade, xunto cos correspondentes fondos e medios."
+   },
+   {
+    "id": "bng-0511",
+    "partido": "bng",
+    "titular": "Transferencia plena de las competencias de enseñanza a Galicia",
+    "marca_actual": [],
+    "texto": "- Transferencia plena das competencias de ensino á Galiza para poder contar cun ensino público e de calidade adaptado ás nosas características nacionais e en especial á realidade sociolaboral da mocidade galega."
+   },
+   {
+    "id": "bng-0512",
+    "partido": "bng",
+    "titular": "Transferir a la Xunta las competencias de becas universitarias",
+    "marca_actual": [],
+    "texto": "- Transferencias das competencias das bolsas universitarias á Xunta de Galiza, superando o actual modelo de distribución entre a poboación e garantindo así o acceso á ensinanza superior."
+   },
+   {
+    "id": "bng-0525",
+    "partido": "bng",
+    "titular": "Mejorar el ferrocarril gallego, transferir sus competencias y crear el Galitren",
+    "marca_actual": [],
+    "texto": "- Mellorar e ampliar as infraestruturas ferroviarias galegas, dende as conexións entre cidades, vilas e comarca. Garantindo así o dereito real á mobilidade para a mocidade en toda Galiza, á vez que se impulsa a tranferencia plena destas competencias á Xunta de Galiza, a comezar pola creación do Galitren ou tren de proximidade na Galiza."
+   },
+   {
+    "id": "bng-0528",
+    "partido": "bng",
+    "titular": "Traspasar las competencias del Consejo Superior de Deportes y las federaciones",
+    "marca_actual": [],
+    "texto": "- Traspasar as competencias en materia deportiva do Consello Superior de Deportes e das federacións deportivas."
+   },
+   {
+    "id": "bng-0541",
+    "partido": "bng",
+    "titular": "Abolición definitiva del servicio militar obligatorio",
+    "marca_actual": [],
+    "texto": "- Defender unha política de paz opóndose ás medidas que buscan estender na sociedade o militarismo; e consecuentemente demandamos a abolición definitiva do Servizo Militar Obrigatorio (só en \"suspensión\" desde o ano 2001) por responder ás estratexias bélicas da OTAN e UE, e sendo o exército español unha ferramenta do réxime, ao servizo do centralismo españolizador e negador da realidade plurinacional do Estado."
+   },
+   {
+    "id": "erc-0005",
+    "partido": "erc",
+    "titular": "Defensa de la autodeterminación de Cataluña y derogación de la Ley mordaza",
+    "marca_actual": [],
+    "texto": "Catalunya té dret a exercir l’autodeterminació, i són els catalans i les catalanes qui han de decidir el futur polític del país. Com a partit independentista, Esquerra Republicana mai no renunciarà a la llibertat del nostre poble i continuarà defensant que l’autodeterminació és la millor manera de resoldre democràticament el conflicte polític amb l’Estat espanyol.\n\nEl suport a l’independentisme continua ben vigent. El 43 % dels catalans, segons el darrer baròmetre del CEO, es mostra a favor de la independència. La diferència amb els contraris a l’independentisme es troba en els nivells més baixos des de 2022. A més, el 76 % dels catalans està d’acord a exercir el dret a l’autodeterminació. Esquerra Republicana continuarà defensant aquestes posicions polítiques, que es troben al cor de la nostra formació, a les Corts.\n\nTambé cal una Esquerra Republicana forta per persistir en la defensa dels drets i les llibertats en un Estat on s’han vulnerat constantment les darreres dècades. En primer terme, cal derogar la Llei mordassa, una norma absolutament lesiva per als moviments socials i la dissidència política, que va aprovar el PP però que el PSOE ha mantingut. De la mateixa manera, cal suprimir els delictes d’ofensa als sentiments religiosos i d’injúries contra la Corona."
+   },
+   {
+    "id": "erc-0007",
+    "partido": "erc",
+    "titular": "Negociar un referéndum de autodeterminación en Cataluña con acompañamiento internacional",
+    "marca_actual": [],
+    "texto": "1. Dret d’autodeterminació. Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional, amb la Unió Europea i el Consell d’Europa com a facilitadors, en línia amb la resolució Cilevičs del Consell d’Europa i les bones pràctiques determinades per la Comissió de Venècia (2007)."
+   },
+   {
+    "id": "erc-0021",
+    "partido": "erc",
+    "titular": "Derogar el artículo 145 de la Constitución y equiparar las denominaciones catalán y valenciano",
+    "marca_actual": [],
+    "texto": "13. Reforçar la cooperació entre els territoris de parla catalana i el reconeixement de la unitat de la llengua. Derogar l’article 145 de la Constitució espanyola per facilitar la cooperació bilateral entre la Generalitat de Catalunya, la Generalitat Valenciana i el Govern de les Illes Balears, eliminant tot possible veto de l’Estat espanyol o de les Corts espanyoles. En la mateixa línia, cal aprovar l’equiparació de les denominacions català i valencià com a sinònimes i intercanviables."
+   },
+   {
+    "id": "erc-0028",
+    "partido": "erc",
+    "titular": "Exigir competencias exclusivas de Cataluña en materia educativa",
+    "marca_actual": [],
+    "texto": "18. Exigir les competències exclusives en matèria educativa. Reclamar la plena sobirania de Catalunya per decidir, regular i gestionar el seu sistema educatiu, sense subordinació a les imposicions de l’Estat espanyol."
+   },
+   {
+    "id": "erc-0032",
+    "partido": "erc",
+    "titular": "Competencia exclusiva de la Generalitat para elaborar los currículos",
+    "marca_actual": [],
+    "texto": "22. Garantir les competències exclusives de la Generalitat de Catalunya en l’elaboració dels currículums. Cal assegurar que les administracions competents en matèria educativa puguin dictar els currículums per a les etapes obligatòries i postobligatòries d’acord amb la realitat social, cultural i lingüística del país, sense ingerència ni imposicions de l’Estat."
+   },
+   {
+    "id": "erc-0036",
+    "partido": "erc",
+    "titular": "Nuevo modelo de financiación: recaudar todos los impuestos y 4.700 millones más al año",
+    "marca_actual": [],
+    "texto": "23. Aprovar un nou model de finançament per garantir la sobirania dels Països Catalans i el benestar de la ciutadania. Esquerra Republicana va arrencar el compromís del PSC i de l’executiva federal del PSOE d’impulsar un sistema de finançament singular basat en els ingressos, pel qual Catalunya recaptés tots els impostos generats a Catalunya i l’Estat espanyol en sufragués els costos mitjançant un percentatge de participació en aquests impostos. Prenent aquest punt de partida, el passat gener de 2026 es va acordar un nou model de finançament amb el Govern de l’Estat que, per primer cop, garantia l’ingrés directe dels impostos i el compliment del principi d’ordinalitat de la despesa per població ajustada, i suposava uns ingressos addicionals de 4.700 MEUR anuals per a Catalunya. El bloqueig parlamentari ha impedit que aquests acords polítics es poguessin posar en funcionament durant l’anterior legislatura. Ara, resulta urgent combatre el dèficit fiscal i garantir el finançament de les institucions catalanes per mitjà de canvis de model en el sentit dels acords esmentats."
+   },
+   {
+    "id": "erc-0039",
+    "partido": "erc",
+    "titular": "Consorcio de la Zona Franca con mayoría de las instituciones catalanas",
+    "marca_actual": [],
+    "texto": "26. Constituir el Consorci de la Zona Franca amb majoria de les institucions catalanes en els òrgans de governança. Garantir que la Zona Franca, un pol industrial estratègic que representa gairebé el 4% del PIB del país, depengui de l’Ajuntament de Barcelona i de la Generalitat de Catalunya. Les institucions catalanes necessiten controlar aquest ens, que genera prop de 140.000 llocs de feina, per impulsar els canvis necessaris en el model productiu sense dependre del govern espanyol."
+   },
+   {
+    "id": "erc-0042",
+    "partido": "erc",
+    "titular": "Plan de Soberanía Cultural: traspasar museos y equipamientos a Cataluña",
+    "marca_actual": [],
+    "texto": "27. La cultura de Catalunya, decidida des de Catalunya: equipaments i recursos. Impulsar un Pla de Sobirania Cultural per culminar el traspàs dels museus i equipaments culturals transferibles a Catalunya, incloent-hi el Museu Nacional Arqueològic de Tarragona, i revisar la governança del MNAC i del MACBA perquè les decisions estratègiques es prenguin des de les institucions catalanes. Garantir que els traspassos vagin acompanyats del finançament estructural corresponent i auditar les inversions estatals pendents."
+   },
+   {
+    "id": "erc-0047",
+    "partido": "erc",
+    "titular": "Ampliar las competencias de los reguladores audiovisuales autonómicos como el CAC",
+    "marca_actual": [],
+    "texto": "32. Reforçar el pluralisme territorial i la governança dels mitjans de comunicació. Ampliar les competències de les autoritats reguladores autonòmiques com el Consell Audiovisual de Catalunya (CAC) i el Consell Audiovisual de la Comunitat Valenciana (CACV), perquè puguin exercir les funcions de la Comissió Nacional dels Mercats i la Competència (CNMC) mitjançant acords formals, i garantir la participació dels organismes reguladors autonòmics en la representació de l’Estat al Comitè Europeu dels Serveis de Mitjans de Comunicació (Media Board). Les radiotelevisions públiques tindran la consideració de servei públic o d’infraestructures crítiques als efectes dels serveis de telecomunicacions, perquè proporcionen serveis essencials per al funcionament social i econòmic del país."
+   },
+   {
+    "id": "erc-0048",
+    "partido": "erc",
+    "titular": "Asumir todas las competencias y defender las selecciones deportivas catalanas",
+    "marca_actual": [],
+    "texto": "Com a país amb voluntat d’exercir la seva llibertat, Catalunya aspira a desenvolupar l’autogovern i a assumir plenament totes les competències. Esquerra Republicana continuarà treballant per guanyar àmbits de sobirania, mentre exigeix el finançament necessari per oferir uns serveis públics a l’alçada del que es mereixen els catalans i les catalanes.\n\nEsquerra Republicana també continuarà denunciant les vulneracions del marc competencial del Govern espanyol allà on es produeixin. No permetrem cap passa enrere en l’autogovern de Catalunya, ni en l’àmbit de la salut, ni en el de l’habitatge ni en el de l’educació. Volem preparar el futur del país amb les màximes competències i totes les eines per gestionar-lo com es mereix la ciutadania.\n\nEsquerra Republicana defensa el dret de les seleccions catalanes de competir internacionalment en totes les disciplines esportives, i així ho ha reclamat històricament. El reconeixement de les seleccions catalanes no només es correspon amb les competències que ja té la Generalitat sinó que és una eina clau per a la projecció internacional del país, diferenciada de la visió imposada pel nacionalisme espanyol."
+   },
+   {
+    "id": "erc-0049",
+    "partido": "erc",
+    "titular": "Reclamar competencias en recaudación de impuestos, migración y asilo y prestaciones por paro",
+    "marca_actual": [],
+    "texto": "També continuarem reclamant el traspàs de les competències per recaptar tots els impostos mitjançant l’Agència Tributària de Catalunya, una eina clau per a la sobirania fiscal del país. A més, exigirem el traspàs de les competències en migració i asil a Catalunya per impulsar una política pròpia d’acollida i integració. Per últim, demanem la cessió a Catalunya de les polítiques passives que permetin que el Servei d’Ocupació de Catalunya (SOC) gestioni les prestacions per atur i desocupació, tal com ja s’ha acordat amb el País Basc."
+   },
+   {
+    "id": "erc-0050",
+    "partido": "erc",
+    "titular": "Oficialidad internacional de las selecciones catalanas en todas las disciplinas",
+    "marca_actual": [],
+    "texto": "33. Reclamar l’oficialitat i el reconeixement internacional de les seleccions catalanes en totes les disciplines esportives. Defensar el dret de les seleccions catalanes a competir oficialment a escala internacional en totes les disciplines esportives i a tenir representació pròpia en els organismes i les competicions internacionals. Simultàniament, és necessari impulsar la modificació de la Llei de l’Esport espanyola per eliminar l’obligatorietat de participació dels esportistes amb la selecció espanyola sota amenaça de sanció."
+   },
+   {
+    "id": "erc-0052",
+    "partido": "erc",
+    "titular": "Competencias de migración y asilo para Cataluña y rechazo a los centros de retorno",
+    "marca_actual": [],
+    "texto": "35. Transferir les competències integrals en matèria de migració i asil. Exigir el traspàs integral de les competències en migració i asil a Catalunya per garantir una gestió pròpia de l’acollida, l’avaluació de les necessitats i la integració, des d’una perspectiva de drets humans i inclusió social. Condicionar l’aplicació i el desenvolupament legislatiu del Reglament europeu de Retorn a garanties efectives dels drets fonamentals, per evitar la deriva punitiva i les deportacions automàtiques. Rebutgem la creació de centres de retorn a països tercers i reclamem la màxima protecció jurídica, assistència legal independent i respecte als drets fonamentals durant tot el procés migratori."
+   },
+   {
+    "id": "erc-0053",
+    "partido": "erc",
+    "titular": "Mossos d'Esquadra como policía integral, también en puertos y aeropuertos",
+    "marca_actual": [],
+    "texto": "36. Assumir noves competències en seguretat. Cal garantir la competència del Cos de Mossos d’Esquadra com a policia integral al conjunt del país, sense excepcions. A dia d’avui, els Mossos actuen com a policia integral i tenen plenes competències en seguretat a tot Catalunya, menys als ports i aeroports de l’Estat, fet que distorsiona i treu eficiència a la lluita contra la delinqüència perquè es fracciona el territori."
+   },
+   {
+    "id": "erc-0054",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat los inmuebles estatales y las viviendas de la SAREB",
+    "marca_actual": [],
+    "texto": "37. Traspassar a la Generalitat tots els immobles de l’Administració General de l’Estat a Catalunya. Diversos departaments del govern espanyol i altres organismes de l’Administració General de l’Estat (AGE) retenen la propietat de dotzenes d’edificis de diverses naturaleses i ubicacions. Des del front litoral de Barcelona fins a les casernes abandonades de la Guàrdia Civil, passant pels edificis de la Tresoreria General de la Seguretat Social no destinats a cap finalitat relacionada amb aquesta entitat. És necessari que se’n faci el traspàs a la Generalitat de Catalunya i, si escau, als ajuntaments, a títol gratuït per posar-los al servei de la ciutadania del nostre país. Molt especialment, cal que el govern espanyol, donant compliment a les competències exclusives en habitatge de la Generalitat de Catalunya, traspassi tots els habitatges de la SAREB i la resta d’organismes que depenen de l’AGE situats a Catalunya, conjuntament amb els recursos necessaris per rehabilitar-los i destinar-los a habitatge de protecció oficial."
+   },
+   {
+    "id": "erc-0055",
+    "partido": "erc",
+    "titular": "Traspasar la homologación de títulos extranjeros a la Generalitat",
+    "marca_actual": [],
+    "texto": "38. Traspassar les competències en matèria d’homologació i reconeixement dels títols estrangers. Reclamar el traspàs de les funcions i els recursos necessaris perquè la Generalitat pugui gestionar l’homologació i el reconeixement de les titulacions obtingudes a l’estranger, d’acord amb les necessitats del país i amb les garanties de qualitat corresponents."
+   },
+   {
+    "id": "erc-0056",
+    "partido": "erc",
+    "titular": "Completar el traspaso íntegro de la Inspección de Trabajo y Seguridad Social",
+    "marca_actual": [],
+    "texto": "39. Completar el traspàs integral de la Inspecció de Treball i Seguretat Social. Culminar el traspàs previst a l’Estatut d’Autonomia, incloent-hi totes les funcions inspectores que encara romanen en l’àmbit estatal, com també el personal inspector i subinspector necessari per exercir-les, garantint-ne la dependència orgànica i funcional de la Generalitat de Catalunya, i dotant-la dels recursos econòmics, materials i organitzatius corresponents. Cal que el govern del país disposi de la capacitat plena per planificar, dirigir, organitzar i executar la funció inspectora en l’àmbit laboral i de la Seguretat Social a Catalunya, amb un model integral, coordinat i adaptat a les necessitats del mercat de treball català."
+   },
+   {
+    "id": "erc-0057",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat el pago de las prestaciones por desempleo",
+    "marca_actual": [],
+    "texto": "40. Traspassar les polítiques passives a la Generalitat. Acordar amb l’Estat les cessions, delegacions i traspassos de competències i de béns patrimonials i personals necessaris a la Generalitat de Catalunya per fer efectiu el pagament de les prestacions contributives per atur i les prestacions assistencials per desocupació des del SOC. La ciutadania ha de poder accedir a un servei públic d’ocupació únic tant per a les polítiques actives com per a les polítiques passives d’ocupació."
+   },
+   {
+    "id": "erc-0058",
+    "partido": "erc",
+    "titular": "Crear el Consejo de Justicia de Cataluña como órgano desconcentrado del CGPJ",
+    "marca_actual": [],
+    "texto": "41. Crear el Consell de Justícia de Catalunya. Estructurar el govern judicial propi a Catalunya i, per a això, cal impulsar la reforma de la Llei Orgànica del Poder Judicial per fer possible la creació d’un Consell de Justícia de Catalunya, com a òrgan desconcentrat del CGPJ, amb seu a Barcelona i competències sobre govern judicial, territorial, nomenaments, formació, inspecció, disciplina, organització i planta."
+   },
+   {
+    "id": "erc-0069",
+    "partido": "erc",
+    "titular": "Participación de la Generalitat en la negociación de tratados de Naciones Unidas",
+    "marca_actual": [],
+    "texto": "49. Enfortir la governança multinivell a Nacions Unides: representació catalana en la negociació d’acords i tractats internacionals. Reclamar la participació de la Generalitat de Catalunya en la negociació de tractats internacionals en el marc de Nacions Unides dels àmbits de la seva competència, seguint l’aposta per la governança multinivell que ja s’està duent a terme per avançar objectius de desenvolupament i foment dels DDHH, la pau i el multilateralisme en l’àmbit global."
+   },
+   {
+    "id": "erc-0079",
+    "partido": "erc",
+    "titular": "Delegar en la Generalitat la competencia para una ley de arrendamientos urbanos catalana",
+    "marca_actual": [],
+    "texto": "55. Dotar la Generalitat de Catalunya de competències per al desplegament d’una llei d’arrendaments urbans catalana. Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola, que delegui formalment a la Generalitat de Catalunya la facultat de legislar de manera plena i integral en matèria d’arrendaments urbans. Aquest nou marc normatiu hauria de permetre solucionar el bloqueig de competències en matèria de dret civil i habitatge, que impedeix a la Generalitat un desplegament efectiu de les seves competències en habitatge mitjançant les lleis aprovades pel Parlament de Catalunya, i respondre a la realitat socioeconòmica singular del mercat de l’habitatge a Catalunya, als consensos socials del país i a les necessitats de les persones treballadores."
+   },
+   {
+    "id": "erc-0081",
+    "partido": "erc",
+    "titular": "Traspaso inmediato de los inmuebles de la SAREB y Casa 47 a la Generalitat",
+    "marca_actual": [],
+    "texto": "57. Traspàs immediat de tots els immobles de la SAREB i Casa 47 a la Generalitat de Catalunya. Resulta urgent el traspàs immediat i gratuït de la titularitat d’aquests immobles a la Generalitat com a administració competent en matèria d’habitatge per poder-los destinar a l’ampliació del parc públic d’habitatge. Alhora, cal garantir el traspàs dels recursos necessaris per a la rehabilitació dels immobles."
+   },
+   {
+    "id": "erc-0093",
+    "partido": "erc",
+    "titular": "Salario mínimo catalán de 1.460 euros con competencias para la Generalitat",
+    "marca_actual": [],
+    "texto": "67. Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €. Efectuar les modificacions normatives oportunes perquè el Govern de la Generalitat pugui establir un salari mínim interprofessional territorialitzat, superior al fixat a escala estatal, d’acord amb la realitat socioeconòmica de Catalunya i amb l’objectiu de garantir una remuneració suficient i un nivell de vida digne, en la línia de la Carta Social Europea i del criteri del Comitè Europeu de Drets Socials, que situa el salari mínim en, com a referència, almenys el 60 % del salari mitjà net."
+   },
+   {
+    "id": "erc-0170",
+    "partido": "erc",
+    "titular": "Más capacidad de decisión de la Generalitat sobre la red eléctrica",
+    "marca_actual": [],
+    "texto": "130. Incrementar la capacitat de decisió i sobirania de la Generalitat de Catalunya sobre la xarxa elèctrica. Garantir la participació efectiva i l’increment de la capacitat de decisió de la Generalitat de Catalunya en la planificació, determinació de prioritats i governança sobre el seu sistema energètic en matèria de xarxes, inversions i desplegament de nova capacitat."
+   },
+   {
+    "id": "erc-0173",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat las centrales hidroeléctricas al caducar las concesiones",
+    "marca_actual": [],
+    "texto": "133. Traspassar les centrals hidroelèctriques. Recuperar i traspassar la gestió i la titularitat pública de les centrals hidroelèctriques a la Generalitat de Catalunya a mesura que vagin caducant les concessions."
+   },
+   {
+    "id": "erc-0175",
+    "partido": "erc",
+    "titular": "Condicionar las líneas de muy alta tensión al informe de la Generalitat",
+    "marca_actual": [],
+    "texto": "135. Garantir la capacitat de decisió de Catalunya sobre les grans infraestructures elèctriques. Condicionar l’autorització estatal de les línies d’evacuació elèctrica, especialment les de molt alta tensió (MAT), a l’informe favorable de l’òrgan competent en biodiversitat de la Generalitat de Catalunya. Evitar la imposició de projectes contraris al model energètic català, com ara les línies MAT vinculades al clúster Forestalia."
+   },
+   {
+    "id": "erc-0199",
+    "partido": "erc",
+    "titular": "Competencias de la Generalitat para ordenar el espacio marítimo de sus costas",
+    "marca_actual": [],
+    "texto": "158. Garantir la capacitat de decisió sobre l’ordenació de l’espai marítim. Exigir que el govern de la Generalitat de Catalunya disposi de les competències i dels instruments necessaris per planificar i ordenar els usos de l’espai marítim de les seves costes, d’acord amb la Directiva 2014/89/UE."
+   },
+   {
+    "id": "erc-0226",
+    "partido": "erc",
+    "titular": "Gestión desde Cataluña de los aeropuertos catalanes frente al modelo de Aena",
+    "marca_actual": [],
+    "texto": "179. Una nova governança per a la gestió catalana dels aeroports catalans. Avançar cap a la gestió des de Catalunya dels aeroports catalans d’interès general, superant l’actual model centralitzat d’Aena i dotant la Generalitat d’un paper determinant en la planificació i la presa de decisions. Impulsar la plena operativitat de l’Autoritat Aeroportuària de Catalunya com a instrument per definir l’estratègia aeroportuària del país i concentrar les competències de la Generalitat vinculades als aeroports. Paral·lelament, establir un òrgan bilateral Generalitat–Estat de governança aeroportuària que permeti avançar en el traspàs i la gestió individualitzada dels aeroports de Barcelona-El Prat, Girona, Reus i Sabadell, integrats en una estratègia aeroportuària catalana en xarxa. Garantir la participació de Catalunya en l’elaboració dels Documents de Regulació Aeroportuària (DORA) i en les decisions estratègiques d’AENA que afecten el sistema aeroportuari català."
+   },
+   {
+    "id": "erc-0227",
+    "partido": "erc",
+    "titular": "Traspasar la titularidad y gestión de los aeropuertos de Girona, Reus y Sabadell",
+    "marca_actual": [],
+    "texto": "180. Traspassar la titularitat i la gestió dels aeroports de Girona, Reus i Sabadell, sense renunciar al traspàs de la resta d’infraestructures aeroportuàries i portuàries dels Països Catalans. Impulsar un model de gestió propi que prioritzi l’equilibri territorial, la connectivitat internacional, la intermodalitat i la sostenibilitat ambiental, en lloc de perpetuar un model aeroportuari excessivament concentrat a Barcelona i dependent del turisme de baix cost. Prioritzar el traspàs dels aeroports de Girona, Reus i Sabadell com a pas per avançar cap a un sistema aeroportuari català integrat."
+   },
+   {
+    "id": "erc-0232",
+    "partido": "erc",
+    "titular": "Ampliar las encomiendas de gestión y traspasar las carreteras estatales en Cataluña",
+    "marca_actual": [],
+    "texto": "185. Ampliar les encomanes de gestió i traspassar les carreteres estatals a Catalunya. Incrementar les encomanes de gestió perquè la Generalitat pugui projectar, executar i mantenir les infraestructures viàries de titularitat estatal, especialment les vies d’alta capacitat AP-7, AP-2, A-2 i A-27. Avançar en el traspàs de les carreteres estatals que transcorren per Catalunya, com l’N II, l’N 340, l’N 260, l’N 230 i l’N 240, amb els recursos econòmics necessaris per garantir-ne la conservació i la millora."
+   },
+   {
+    "id": "erc-0241",
+    "partido": "erc",
+    "titular": "Culminar el traspaso integral de Rodalies a la Generalitat, empezando por la R1",
+    "marca_actual": [],
+    "texto": "192. Culminar el traspàs integral de Rodalies a la Generalitat. Accelerar el traspàs de l’operació dels serveis de Rodalies a la nova empresa Rodalies de Catalunya, superant els obstacles administratius i organitzatius que en dificulten el desplegament. Fer efectiu el traspàs de la línia R1 i iniciar el de la resta de línies acordades amb l’Estat —R2 Sud, R3, R4 Nord i R16 (l’Aldea-Tortosa)—, incloent-hi les vies, les estacions, les instal·lacions i tots els elements necessaris per garantir-ne una gestió integral des de Catalunya, amb els recursos humans, materials i econòmics corresponents."
+   },
+   {
+    "id": "erc-0243",
+    "partido": "erc",
+    "titular": "Traspasar a Cataluña el mantenimiento de las infraestructuras de Rodalies",
+    "marca_actual": [],
+    "texto": "194. Descentralitzar la gestió i el manteniment de les infraestructures ferroviàries. Traspassar progressivament a Catalunya les funcions de conservació, manteniment i gestió de les infraestructures ferroviàries vinculades a Rodalies, amb els recursos necessaris per garantir un servei segur, fiable i de qualitat. Establir mecanismes de control i rendició de comptes sobre les actuacions d’Adif i Renfe mentre no es completi el traspàs, prioritzant el manteniment preventiu, la reducció d’incidències i la recuperació de la fiabilitat del servei."
+   },
+   {
+    "id": "erc-0257",
+    "partido": "erc",
+    "titular": "Blindar las competencias sanitarias de la Generalitat",
+    "marca_actual": [],
+    "texto": "205. Blindar les competències de la Generalitat de Catalunya en matèria sanitària. Defensar el caràcter exclusiu de les competències de la Generalitat en matèria de salut i impedir qualsevol intent de recentralització o ingerència de l’Estat en el model sanitari català. Exigir el traspàs immediat de totes les funcions i competències encara pendents, acompanyat dels recursos econòmics, humans i materials necessaris. Garantir la plena capacitat de Catalunya per planificar, regular i gestionar el seu sistema sanitari, d’acord amb les necessitats de la ciutadania i sense imposicions de l’Estat."
+   },
+   {
+    "id": "erc-0262",
+    "partido": "erc",
+    "titular": "Asumir las competencias de seguridad en puertos y aeropuertos catalanes",
+    "marca_actual": [],
+    "texto": "209. Assumir plenament les competències de seguretat als ports i aeroports. Reclamar l’execució efectiva del traspàs de les funcions de seguretat ciutadana, prevenció i investigació de delictes i manteniment de les infraestructures crítiques als ports i aeroports de Catalunya. Establir un calendari concret de desplegament amb la dotació d’efectius i recursos necessaris per garantir una correcta prestació del servei."
+   },
+   {
+    "id": "erc-0267",
+    "partido": "erc",
+    "titular": "Traspasar las competencias plenas de tráfico y seguridad vial",
+    "marca_actual": [],
+    "texto": "214. Ampliar les competències de Catalunya en trànsit i seguretat viària. Reclamar el traspàs immediat de les competències plenes en matèria de trànsit i seguretat viària als governs de Catalunya, el País Valencià i les Illes Balears, referides al control de la matriculació i l’expedició de permisos o llicències de conducció i circulació, la capacitat per autoritzar transferències, duplicats i baixes de vehicles, per poder fixar la velocitat en totes les vies del territori català, per la pèrdua i la devolució de punts del carnet de conduir i pel registre de la inspecció tècnica de vehicles. Resulta urgent, a més, incrementar els examinadors i alliberar-los de sobrecàrrega burocràtica."
+   },
+   {
+    "id": "erc-0281",
+    "partido": "erc",
+    "titular": "Competencias plenas de evaluación y acreditación universitaria para la AQU",
+    "marca_actual": [],
+    "texto": "224. Assolir les competències plenes en matèria d’avaluació i acreditació universitàries. Ampliar les competències de l’Agència per a la Qualitat del Sistema Universitari de Catalunya (AQU) perquè assumeixi la totalitat dels processos d’avaluació, certificació i acreditació de les universitats, titulacions i professorat de Catalunya. Reformar la normativa estatal per atribuir-li les competències encara reservades a l’ANECA, especialment l’acreditació del professorat per accedir als cossos docents funcionarials i el reconeixement dels mèrits docents i investigadors. Garantir la plena validesa de les resolucions d’AQU i la seva capacitat per establir criteris i procediments propis, d’acord amb els estàndards europeus i amb els recursos necessaris per exercir aquestes funcions."
+   },
+   {
+    "id": "erc-0282",
+    "partido": "erc",
+    "titular": "Eliminar el distrito único universitario",
+    "marca_actual": [],
+    "texto": "225. Eliminar el districte únic universitari. Cal que Catalunya pugui planificar l’accés a la universitat d’acord amb les necessitats del país. Així mateix, garantir que Catalunya pugui planificar i executar les competències en formació de les professions sanitàries en un marc nacional, d’acord amb les necessitats del sistema de salut català i no amb una planificació centralitzada des de l’Estat."
+   },
+   {
+    "id": "cnv-0004",
+    "partido": "cnv",
+    "titular": "Presentación: Cataluña soberana con voz propia en una Europa federal",
+    "marca_actual": [],
+    "texto": "Catalunya ha de projectar-se al món. Apostem per una xarxa exterior activa i eficaç que defensi els interessos del nostre país. Defensem una Catalunya amb veu pròpia en una Europa federal i integrada, capaç de fer front als reptes globals amb visió i unitat.\n\nAquest és el nostre compromís. Una Catalunya sobirana, justa, pròspera i capdavantera. Una nació que construeix el seu futur amb seny, dignitat i esperança."
+   },
+   {
+    "id": "cnv-0005",
+    "partido": "cnv",
+    "titular": "Soberanía nacional de Cataluña y concierto económico como el vasco",
+    "marca_actual": [],
+    "texto": "Convergents és un partit que defensa la sobirania nacional dels catalans i les catalanes i el dret a decidir lliurament el seu futur. Reconeixem Catalunya com a nació i, per tant, com a subjecte polític que té el dret i el deure de maximitzar el seu autogovern. Reclamem allò que és nostre, tant en matèria de competències com de recursos econòmics, i ens oposem a les injustícies estructurals que l’Estat espanyol perpetua sistemàticament contra el nostre país.\n\nAixí mateix, el català —i l’occità/aranès a la Vall d’Aran—, com a llengües pròpies de Catalunya, són els nostres béns culturals més preuats. Preservar-los, garantir-ne l’ús social i institucional, i fer-los créixer és un deure col·lectiu i una prioritat política.\n\nLa realitat política catalana dels darrers cicles electorals ha estat marcada per una alta complexitat i fragmentació. És l’hora d’un nou rumb polític, que faci compatibles l’ambició sobiranista i el “bon govern”, basat en la responsabilitat, l’eficiència i el diàleg. És hora de recuperar la nostra ambició com a país: construir una Catalunya pròspera, capdavantera, econòmicament i culturalment forta, i socialment cohesionada.\n\nPer fer-ho possible, cal un nou model de finançament, just i estable, com el concert econòmic vigent al País Basc, que garanteixi la sostenibilitat del nostre progrés."
+   },
+   {
+    "id": "cnv-0006",
+    "partido": "cnv",
+    "titular": "Condicionar el apoyo a partidos estatales a asumir sus propuestas",
+    "marca_actual": [],
+    "texto": "Per tot això, Convergents no donarà suport a cap partit a l’Estat espanyol que no assumeixi amb claredat i compromís les següents propostes:"
+   },
+   {
+    "id": "cnv-0007",
+    "partido": "cnv",
+    "titular": "Defender el derecho de los catalanes a decidir su futuro",
+    "marca_actual": [],
+    "texto": "- Defensarem el dret inalienable dels catalans a decidir lliurement el seu futur i a construir una societat més justa i lliure, mitjançant l’assoliment de les màximes quotes d’autogovern."
+   },
+   {
+    "id": "cnv-0008",
+    "partido": "cnv",
+    "titular": "Proponer reconocer la Nación catalana y el Estado plurinacional en las Cortes",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "- Proposarem a les Corts Generals una Resolució de reconeixement de la Nació Catalana, i la constatació que Espanya és un Estat plurinacional, amb totes les conseqüències polítiques i jurídiques que se’n derivin."
+   },
+   {
+    "id": "cnv-0014",
+    "partido": "cnv",
+    "titular": "Traspaso exclusivo de cultura a las comunidades y supresión del Ministerio de Cultura",
+    "marca_actual": [],
+    "texto": "- Exigirem el traspàs exclusiu en matèria de cultura a les comunitats autònomes, juntament amb els pressupostos, bens i recursos oportuns, i demanarem en conseqüència la desaparició del Ministeri de Cultura."
+   },
+   {
+    "id": "cnv-0016",
+    "partido": "cnv",
+    "titular": "Delegar en la Generalitat las competencias de inmigración, sanidad y enseñanza",
+    "marca_actual": [],
+    "texto": "- Aprovarem, d’acord amb la pròpia Constitució Espanyola, la delegació integral de les competències en matèria d’Immigració, Sanitat i Ensenyament -des les Llars d’Infants fins a les Universitats- a la Generalitat de Catalunya, i les incorporarem posteriorment, a l’Estatut d’Autonomia."
+   },
+   {
+    "id": "cnv-0017",
+    "partido": "cnv",
+    "titular": "Mossos y policía local como únicos cuerpos policiales de Cataluña en 4 años",
+    "marca_actual": [],
+    "texto": "- Treballarem perquè els Mossos d’Esquadra i la Policia Local es converteixin en els únics cossos policials de Catalunya, substituint, progressivament en 4 anys i en les seves funcions, la Policia Nacional i la Guàrdia Civil."
+   },
+   {
+    "id": "cnv-0018",
+    "partido": "cnv",
+    "titular": "Traspasar a la Generalitat los aeropuertos de interés general en Cataluña",
+    "marca_actual": [],
+    "texto": "- Exigirem el Traspàs dels Aeroports d’Interès general de l’Estat (Barcelona, Girona, Reus i Sabadell) a la Generalitat de Catalunya, així com de la gestió integral del sistema aeroportuari."
+   },
+   {
+    "id": "cnv-0020",
+    "partido": "cnv",
+    "titular": "Crear el Consejo de Justicia de Cataluña por ley orgánica",
+    "marca_actual": [],
+    "texto": "- Constituirem, mitjançant l’aprovació d’una llei Orgànica, el Consell de Justícia de Catalunya, tal i com resava el nostre Estatut i d’acord amb les competències reconegudes pel Tribunal Constitucional."
+   },
+   {
+    "id": "cnv-0021",
+    "partido": "cnv",
+    "titular": "Incorporar el escudo autonómico en las matrículas de vehículos",
+    "marca_actual": [],
+    "texto": "- Proposarem a les Corts Generals que les matrícules de vehicles incorporin l’escut de la Comunitat Autònoma corresponent, seguint el model d’Alemanya o França, com a símbol de pluralitat territorial."
+   },
+   {
+    "id": "cnv-0106",
+    "partido": "cnv",
+    "titular": "Traspasar a la Generalitat la Inspección de Trabajo en Seguridad Social",
+    "marca_actual": [],
+    "texto": "- Exigirem el traspàs a la Generalitat de la inspecció de treball pel que fa a la Seguretat Social, com ja s’ha fet al País Basc, i així aconseguir tenir una única inspecció de treball."
+   },
+   {
+    "id": "cnv-0107",
+    "partido": "cnv",
+    "titular": "Traspasar a la Generalitat la gestión del Ingreso Mínimo Vital",
+    "marca_actual": [],
+    "texto": "- Reclamarem el traspàs de la gestió de l’Ingrés Mínim Vital per adaptar-lo a la realitat de Catalunya, tal com ja s’ha fet al País Basc i Navarra."
+   },
+   {
+    "id": "cnv-0108",
+    "partido": "cnv",
+    "titular": "Reclamar las competencias pendientes en política industrial",
+    "marca_actual": [],
+    "texto": "- Reclamarem a l’Estat les competències pendents en política industrial que corresponen a la Generalitat."
+   },
+   {
+    "id": "cnv-0114",
+    "partido": "cnv",
+    "titular": "Rechazar el marco estatal sobre comercio y horarios comerciales",
+    "marca_actual": [],
+    "texto": "- Rebutjarem la imposició del marc normatiu estatal en comerç i horaris comercials, per defensar el model català."
+   },
+   {
+    "id": "cnv-0123",
+    "partido": "cnv",
+    "titular": "Gestión directa de las ayudas de la PAC en Cataluña",
+    "marca_actual": [],
+    "texto": "- Demanarem la gestió directa de les ajudes de la PAC a Catalunya, per garantir que els fons arribin de manera ràpida i eficient als agricultors i ramaders i adaptar-les a la realitat catalana."
+   },
+   {
+    "id": "cnv-0126",
+    "partido": "cnv",
+    "titular": "Transferir a Cataluña la inspección sanitaria en origen, también en puertos y aeropuertos",
+    "marca_actual": [],
+    "texto": "- Exigirem la transferència a Catalunya de la inspecció sanitària en origen, inclosos ports i aeroports, per garantir la seguretat alimentària, i protegir la producció agrària catalana."
+   },
+   {
+    "id": "cnv-0157",
+    "partido": "cnv",
+    "titular": "Ampliar las competencias de Cataluña para definir su modelo educativo",
+    "marca_actual": [],
+    "texto": "- Reivindicarem la capacitat de Catalunya per definir el seu propi model educatiu i treballarem per ampliar les competències en aquest àmbit."
+   },
+   {
+    "id": "cnv-0202",
+    "partido": "cnv",
+    "titular": "Asumir las competencias plenas en materia de inmigración",
+    "marca_actual": [],
+    "texto": "- Treballarem per assolir les competències plenes en matèria d’immigració, per garantir una gestió eficaç, ordenada i respectuosa dels fluxos migratoris, garant de drets, deures i oportunitats."
+   },
+   {
+    "id": "cnv-0221",
+    "partido": "cnv",
+    "titular": "Aumentar las plazas MIR y traspasar su gestión a la Generalitat",
+    "marca_actual": [],
+    "texto": "- Incrementarem el nombre de places MIR (Metge Intern Resident), fent augmentar així el nombre d’especialistes, i reclamarem el traspàs de la seva gestió a la Generalitat de Catalunya."
+   },
+   {
+    "id": "cnv-0222",
+    "partido": "cnv",
+    "titular": "Traspasar los inmuebles sanitarios de la Seguridad Social a las comunidades",
+    "marca_actual": [],
+    "texto": "- Exigirem els traspassos d’immobles sanitaris propietat de la seguretat social, però gestionats per les comunitats autònomes, mitjançant l’actualització del balanç econòmic patrimonial entre l’Estat i la seguretat social."
+   },
+   {
+    "id": "cnv-0267",
+    "partido": "cnv",
+    "titular": "Transferencia plena de la gestión de la red ferroviaria catalana",
+    "marca_actual": [],
+    "texto": "- Reivindicarem la transferència plena i efectiva de la gestió de la xarxa ferroviària catalana per garantir-ne l’eficiència, la qualitat i l’adaptació a les necessitats del país."
+   },
+   {
+    "id": "cnv-0269",
+    "partido": "cnv",
+    "titular": "Gestionar desde Cataluña todos los puertos catalanes",
+    "marca_actual": [],
+    "texto": "- Reclamarem la gestió des de Catalunya de tots els ports catalans per potenciar el transport de mercaderies i gestionar de forma sostenible l’afluència de creuers."
+   },
+   {
+    "id": "cnv-0281",
+    "partido": "cnv",
+    "titular": "Transferir las competencias de administración electrónica y transparencia",
+    "marca_actual": [],
+    "texto": "- Exigirem a l'Estat espanyol la transferència total de les competències en administració electrònica i transparència, per garantir una gestió més eficient i propera a la ciutadania."
+   },
+   {
+    "id": "cnv-0284",
+    "partido": "cnv",
+    "titular": "Reformar la ley orgánica para permitir referéndums vinculantes en Cataluña",
+    "marca_actual": [],
+    "texto": "- Demanarem la reforma de la Llei Orgànica per permetre la celebració de referèndums vinculants sobre qüestions d’interès per a Catalunya."
+   },
+   {
+    "id": "cnv-0292",
+    "partido": "cnv",
+    "titular": "Traspaso total de la Justicia y Consejo de Justicia de Cataluña",
+    "marca_actual": [],
+    "texto": "- Exigirem a l'Estat el traspàs total de les competències en Justícia i la creació d'un Consell de Justícia de Catalunya per gestionar íntegrament aquest àmbit."
+   },
+   {
+    "id": "cnv-0295",
+    "partido": "cnv",
+    "titular": "Traspaso íntegro de la seguridad ciudadana y más financiación para los Mossos",
+    "marca_actual": [],
+    "texto": "- Defensarem a l'Estat el traspàs íntegre de les competències en seguretat ciutadana i l’augment del finançament per reforçar als Mossos d'Esquadra."
+   },
+   {
+    "id": "cnv-0300",
+    "partido": "cnv",
+    "titular": "Europa federal y asimétrica con voz propia de Cataluña",
+    "marca_actual": [],
+    "texto": "Convergents és un partit ferm defensor de la Unió Europea (UE), entesa com la institució política que ha d’agrupar, vetllar i defensar la ciutadania de tot el continent. Des d’aquest compromís, volem contribuir a l’enfortiment d’un projecte europeu federal basat en la sobirania compartida, el respecte a la diversitat i la defensa dels drets humans, socials i culturals. Creiem en una Unió Europea amb un model asimètric de reconeixement de les diferents realitats dels pobles que en formen part i que defineixen la seva pluralitat, amb el respecte a la dignitat humana, la democràcia, els drets individuals i col·lectius i els valors occidentals.\n\nEn aquest context, ens proposem treballar des del Congrés dels Diputats perquè Catalunya tingui veu pròpia a Europa i pugui contribuir activament en la definició de les grans polítiques del segle XXI. Tot i que l’Estat espanyol ostenta les competències en matèria de relacions amb la UE, exigim que la veu de Catalunya sigui escoltada, i pugui tenir un paper actiu i determinant en la construcció d’una Europa més unida, econòmicament forta, segura i plural.\n\nPer tot això, des de Convergents proposem:"
+   },
+   {
+    "id": "cnv-0301",
+    "partido": "cnv",
+    "titular": "Defender el derecho de autodeterminación de los pueblos de la UE",
+    "marca_actual": [],
+    "texto": "- Defensarem el dret a l’autodeterminació dels pobles que formen part de la UE, garantint l’aplicació directa de la Carta de Drets Fonamentals."
+   },
+   {
+    "id": "pnv-0023",
+    "partido": "pnv",
+    "titular": "Reclamar la competencia para un salario mínimo vasco superior al estatal",
+    "marca_actual": [],
+    "texto": "1. Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal. Impulsar su definición mediante el diálogo social, con la participación de sindicatos y organizaciones empresariales."
+   },
+   {
+    "id": "pnv-0036",
+    "partido": "pnv",
+    "titular": "Preservar las competencias educativas de Euskadi frente a interferencias estatales",
+    "marca_actual": [],
+    "texto": "1. **Preservar las competencias educativas de Euskadi**, evitando interferencias estatales en los ámbitos de decisión que corresponden a las instituciones vascas."
+   },
+   {
+    "id": "pnv-0108",
+    "partido": "pnv",
+    "titular": "Culminar la transferencia de las cercanías que discurren íntegramente por Euskadi",
+    "marca_actual": [],
+    "texto": "2. **Culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi**, para mejorar su gestión, mantenimiento, accesibilidad y coordinación con el sistema vasco de transporte."
+   },
+   {
+    "id": "pnv-0120",
+    "partido": "pnv",
+    "titular": "Gestión integral desde Euskadi de los puertos de Bilbao y Pasaia",
+    "marca_actual": [],
+    "texto": "14. Asegurar mayor autonomía de gestión para los puertos de Bilbao y Pasaia, avanzando hacia su gestión integral desde Euskadi. En el caso de Pasaia, promoveremos su desclasificación como puerto de interés general para posibilitar la transferencia."
+   },
+   {
+    "id": "pnv-0143",
+    "partido": "pnv",
+    "titular": "Más competencias para Euskadi en migración y extranjería",
+    "marca_actual": [],
+    "texto": "1. Promover mayores **competencias para Euskadi en materia de migración y extranjería**, avanzando hacia una gestión integral que abarque la llegada, la acogida, la residencia, el trabajo y la integración."
+   },
+   {
+    "id": "pnv-0196",
+    "partido": "pnv",
+    "titular": "Transferir a Euskadi la gestión del régimen económico de la Seguridad Social",
+    "marca_actual": [],
+    "texto": "9. Asegurar la culminación de la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social, conforme al Estatuto de Gernika, respetando el carácter unitario del sistema y el principio de solidaridad."
+   },
+   {
+    "id": "pnv-0204",
+    "partido": "pnv",
+    "titular": "Culminar las transferencias sanitarias pendientes a Euskadi",
+    "marca_actual": [],
+    "texto": "7. **Culminar las transferencias sanitarias pendientes a Euskadi**, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior."
+   },
+   {
+    "id": "pnv-0231",
+    "partido": "pnv",
+    "titular": "Defender el autogobierno y el cumplimiento íntegro del Estatuto de Gernika",
+    "marca_actual": [],
+    "texto": "**_Autogobierno, democracia, justicia, instituciones y voz propia en Europa._**\n\nQueremos decidir en Euskadi sobre lo que afecta a nuestra vida cotidiana. Más capacidad de gestión significa poder responder mejor en vivienda, empleo, sanidad, seguridad y servicios públicos, sin depender de decisiones tomadas lejos de nuestra realidad.\n\nEn Madrid defenderemos el cumplimiento íntegro del Estatuto de Gernika, el Concierto Económico y las inversiones comprometidas. Cada transferencia pendiente y cada acuerdo incumplido tiene consecuencias concretas para Euskadi. Exigiremos calendarios y resultados verificables.\n\nY defenderemos nuestra voz en Europa y el respeto a nuestras instituciones. Negociar es útil cuando sirve para conseguir avances; exigir es imprescindible cuando los compromisos no se cumplen. Esa será nuestra forma de trabajar, gobierne quien gobierne.\n\n**Defender el autogobierno es defender nuestra capacidad para mejorar la vida de las personas.** Por eso exigiremos el cumplimiento íntegro del Estatuto de Gernika y protegeremos las competencias que ya ejercemos. No aceptaremos que los acuerdos se retrasen indefinidamente ni que las leyes estatales vacíen de contenido las decisiones que corresponden a Euskadi."
+   },
+   {
+    "id": "pnv-0232",
+    "partido": "pnv",
+    "titular": "Nueva relación con el Estado basada en el reconocimiento de Euskadi como nación",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "Pero queremos ir más allá. Aspiramos a una nueva relación política con el Estado, basada en el reconocimiento de Euskadi como nación, el pacto, la bilateralidad y el respeto a la voluntad democrática de la sociedad vasca. Una relación en la que los acuerdos tengan garantías efectivas de cumplimiento y ninguna de las partes pueda modificarlos unilateralmente.\n\nTambién queremos instituciones transparentes y una democracia que no deje preguntas sin responder. Exigiremos conocer la verdad sobre las vulneraciones de derechos humanos que siguen pendientes de esclarecimiento, garantizar la reparación de todas las víctimas y acabar con una legislación de secretos oficiales que permite mantener ocultos documentos durante décadas.\n\nY queremos que Euskadi tenga voz propia en Europa. Nuestra industria, el sector primario, las infraestructuras y las políticas públicas dependen cada vez más de decisiones europeas. Euskadi debe poder participar directamente en ellas y gestionar los recursos que le corresponden, sin tutelas ni recentralizaciones.\n\n**EAJ-PNV estará en Madrid para defender los intereses de Euskadi, acordar cuando los acuerdos sean beneficiosos y exigir cuando el Estado incumpla.** Con voz propia, sin subordinaciones y con la determinación de conseguir que nuestro país tenga cada vez más capacidad para decidir su futuro."
+   },
+   {
+    "id": "pnv-0233",
+    "partido": "pnv",
+    "titular": "Exigir todas las competencias pendientes del Estatuto de Gernika",
+    "marca_actual": [],
+    "texto": "**El Estatuto de Gernika es un acuerdo que debe cumplirse. Exigiremos todas las competencias pendientes y defenderemos las que ya ejercemos frente a cualquier intento de recentralización.**"
+   },
+   {
+    "id": "pnv-0234",
+    "partido": "pnv",
+    "titular": "Cumplir íntegramente el Estatuto de Gernika y culminar las transferencias",
+    "marca_actual": [],
+    "texto": "1. Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes, garantizando que las competencias reconocidas puedan ejercerse de forma efectiva y con los recursos correspondientes."
+   },
+   {
+    "id": "pnv-0235",
+    "partido": "pnv",
+    "titular": "Rechazar cualquier intento de recentralización de las competencias vascas",
+    "marca_actual": [],
+    "texto": "2. **Rechazar cualquier intento de recentralización, invasión o vaciamiento de las competencias vascas**, tanto mediante reformas legislativas como a través de decisiones administrativas o presupuestarias."
+   },
+   {
+    "id": "pnv-0236",
+    "partido": "pnv",
+    "titular": "Mecanismos bilaterales de negociación y seguimiento entre Euskadi y el Estado",
+    "marca_actual": [],
+    "texto": "3. **Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado**, que permitan verificar su cumplimiento y resolver las diferencias institucionales."
+   },
+   {
+    "id": "pnv-0237",
+    "partido": "pnv",
+    "titular": "Proteger los Derechos Históricos y el reconocimiento nacional de Euskadi",
+    "marca_actual": [],
+    "texto": "4. Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi, como fundamento de una relación política basada en el pacto, la bilateralidad y el respeto mutuo."
+   },
+   {
+    "id": "pnv-0238",
+    "partido": "pnv",
+    "titular": "Defender el Amejoramiento del Fuero y las instituciones propias de Navarra",
+    "marca_actual": [],
+    "texto": "5. **Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra**, respetando su capacidad de decisión y el desarrollo de su autogobierno."
+   },
+   {
+    "id": "pnv-0239",
+    "partido": "pnv",
+    "titular": "Que Trebiño y Villaverde Turtzioz puedan decidir su incorporación a Euskadi",
+    "marca_actual": [],
+    "texto": "6. Apoyar el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a pronunciarse democráticamente sobre su futuro, incluida, en su caso, la incorporación al territorio histórico correspondiente de Euskadi, mediante los procedimientos legales y el diálogo institucional necesarios."
+   },
+   {
+    "id": "pnv-0243",
+    "partido": "pnv",
+    "titular": "Nueva relación política con el Estado basada en la realidad nacional vasca",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "3. Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones."
+   },
+   {
+    "id": "pnv-0244",
+    "partido": "pnv",
+    "titular": "Avanzar hacia un Concierto Político basado en el pacto y la bilateralidad",
+    "marca_actual": [],
+    "texto": "4. Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional."
+   },
+   {
+    "id": "pnv-0245",
+    "partido": "pnv",
+    "titular": "Mecanismos imparciales de resolución de conflictos entre Euskadi y el Estado",
+    "marca_actual": [],
+    "texto": "5. **Establecer mecanismos de prevención y resolución de conflictos entre Euskadi y el Estado**, con garantías imparciales que impidan el incumplimiento, el vaciamiento o la modificación unilateral de los acuerdos."
+   },
+   {
+    "id": "pnv-0247",
+    "partido": "pnv",
+    "titular": "Que las instancias judiciales culminen en el Tribunal Superior de Justicia vasco",
+    "marca_actual": [],
+    "texto": "1. Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco, ante el que se agoten las sucesivas instancias procesales, incluidos los recursos de casación o la última instancia que proceda, con la única excepción de la jurisdicción reservada al Tribunal Supremo."
+   },
+   {
+    "id": "pnv-0248",
+    "partido": "pnv",
+    "titular": "Crear un Consejo Vasco de Justicia con funciones de gobierno judicial",
+    "marca_actual": [],
+    "texto": "2. Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico."
+   },
+   {
+    "id": "pnv-0266",
+    "partido": "pnv",
+    "titular": "Que los fondos europeos se gestionen desde Euskadi sin recentralizar",
+    "marca_actual": [],
+    "texto": "**Los recursos europeos deben responder a las necesidades reales de nuestros territorios. No aceptaremos que la gestión de los fondos sirva para recentralizar competencias o alejar las decisiones de quienes conocen mejor las necesidades de Euskadi.**"
+   },
+   {
+    "id": "pnv-0268",
+    "partido": "pnv",
+    "titular": "Gestión descentralizada de los fondos europeos",
+    "marca_actual": [],
+    "texto": "2. Impulsar la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado."
+   },
+   {
+    "id": "bildu-0026",
+    "partido": "bildu",
+    "titular": "Transferencia completa de la Inspección de Trabajo y más plantilla",
+    "marca_actual": [],
+    "texto": "- Transferencia completa de la competencia de Inspección de Trabajo incluida la capacidad para realizar las convocatorias para la cobertura de las plazas necesarias, todo ello con el objetivo de contar con un instrumento fundamental para la protección de los y las trabajadoras. Transitoriamente, y hasta que la transferencia sea efectiva, realizar convocatorias para ampliar las plantillas de la Inspección de Trabajo, compromiso adoptado con nuestras instituciones, pero no ejecutado por el Ministerio."
+   },
+   {
+    "id": "bildu-0027",
+    "partido": "bildu",
+    "titular": "Transferir a Navarra las políticas pasivas de empleo",
+    "marca_actual": [],
+    "texto": "- Transferencia de la competencia sobre las políticas pasivas de Empleo a Navarra."
+   },
+   {
+    "id": "bildu-0034",
+    "partido": "bildu",
+    "titular": "Transferir el Régimen Económico de la Seguridad Social a instituciones vascas y navarras",
+    "marca_actual": [],
+    "texto": "- Transferencia del Régimen Económico de la Seguridad Social a las instituciones vascas y navarras."
+   },
+   {
+    "id": "bildu-0056",
+    "partido": "bildu",
+    "titular": "Transferir la competencia de formación sanitaria especializada",
+    "marca_actual": [],
+    "texto": "- Transferencia de la competencia de la formación especializada de todas las categorías del sistema de salud y de la competencia de las áreas de capacitación específica de las profesiones sanitarias."
+   },
+   {
+    "id": "bildu-0064",
+    "partido": "bildu",
+    "titular": "Asumir los Centros de Vacunación Internacional y la Sanidad Exterior",
+    "marca_actual": [],
+    "texto": "- Solicitaremos la competencia de los Centros de Vacunación Internacional a través del Convenio de encomienda de gestión y asimismo iniciaremos los trámites para la gestión de la transferencia de la competencia en Sanidad Exterior."
+   },
+   {
+    "id": "bildu-0081",
+    "partido": "bildu",
+    "titular": "Que las administraciones vascas y navarras negocien las subidas salariales de sus plantillas",
+    "marca_actual": [],
+    "texto": "- Reconocimiento pleno a las administraciones públicas vascas y navarras de la competencia para decidir a través de la negociación colectiva el incremento salarial de sus plantillas sin someterse a los límites fijados en el Estado."
+   },
+   {
+    "id": "bildu-0088",
+    "partido": "bildu",
+    "titular": "Transferir la competencia del Ingreso Mínimo Vital y aumentar sus cuantías",
+    "marca_actual": [],
+    "texto": "- Transferencia integral de la competencia del Ingreso Mínimo Vital. Transitoriamente, y hasta que la transferencia sea efectiva, ampliar las condiciones y requisitos para hacerlo accesible a más personas. Además, se propone aumentar las cuantías y simplificar trámites para garantizar el acceso a su percepción."
+   },
+   {
+    "id": "bildu-0114",
+    "partido": "bildu",
+    "titular": "Renacionalizar y territorializar la PAC para una política agraria propia",
+    "marca_actual": [],
+    "texto": "- Soberanía alimentaria y capacidad de decisión sobre la PAC: Impulsar una mayor capacidad de gestión y decisión de la Política Agraria Común, avanzando hacia su renacionalización y territorialización, para que Euskal Herria pueda diseñar y desarrollar una política agraria propia dentro del marco europeo, priorizando los intereses estratégicos del sector productor y construyendo un sistema agroalimentario resiliente, sostenible y orientado al futuro."
+   },
+   {
+    "id": "bildu-0120",
+    "partido": "bildu",
+    "titular": "Transferir a la CAPV y Nafarroa las competencias ferroviarias, aeroportuarias y portuarias",
+    "marca_actual": [],
+    "texto": "- Competencias íntegras en materia de movilidad: transferencia completa y efectiva a la CAPV y Nafarroa de las competencias ferroviarias, aeroportuarias y portuarias. Impulsar el traspaso efectivo de todas las competencias."
+   },
+   {
+    "id": "bildu-0156",
+    "partido": "bildu",
+    "titular": "Transferir las competencias migratorias para un modelo vasco de acogida",
+    "marca_actual": [],
+    "texto": "- Transferencia integral de las competencias migratorias que nos permitan desarrollar un modelo vasco de acogida propio."
+   },
+   {
+    "id": "bildu-0172",
+    "partido": "bildu",
+    "titular": "Diagnóstico: la Transición perpetuó la unidad de España y el Régimen del 78",
+    "marca_actual": [],
+    "texto": "El Estado español nunca afrontó una ruptura con las hipotecas heredadas de la dictadura. La regeneración necesaria para alcanzar un estadio democrático nunca se produjo y, en consecuencia, sigue pendiente una democratización real que abra los caminos de la plurinacionalidad, la justicia social y la regeneración democrática.\n\nLa llamada transición, lejos de suponer una ruptura real y democrática con la dictadura franquista, consistió en apuntalar y perpetuar la unidad indivisible de españa, la negación de las naciones del estado como Euskal Herria y el reforzamiento de un modelo capitalista y neoliberal que perpetúa la desigualdad de clase. Pilares, todos ellos, que siguen constituyendo hoy los pilares del sistema político, institucional y social del Estado español. Es toda esta arquitectura antidemocrática lo que definimos como Régimen del 78."
+   },
+   {
+    "id": "bildu-0173",
+    "partido": "bildu",
+    "titular": "Una democratización que respete los derechos nacionales del pueblo vasco",
+    "marca_actual": [],
+    "texto": "Un régimen sustentado durante décadas por los diferentes partidos y gobiernos españoles, que ha hecho valer sus estructuras y aparatos, como el judicial o el policial, durante décadas contra el independentismo vasco y la disidencia política y que, hoy, se encuentra plenamente al servicio del bloque reaccionario; los privilegios de clase que establecieron el sistema económico neoliberal, siguen hoy blindando los privilegios de las elites sobre las clases populares y trabajadoras; la corrupción estructural e intrínseca que ha corrompido a los diferentes partidos y gobiernos españoles o la función garante de todo ello de monarquía heredera directa del franquismo, son expresiones de un régimen que se revuelve frente a las cada vez mayores pulsiones democratizadoras y soberanistas.\n\nEs por eso que es necesaria una profunda democratización que acabe con las imposiciones que como nación y clase aún padecemos, abriendo las puertas a un nuevo ciclo histórico en los que sean posibles nuevos escenarios basados en el respeto a los derechos nacionales, sociales, lingüísticos y culturales de nuestro pueblo y nuestra sociedad.\n\nPara hacer todo ello posible, trabajaremos por avanzar en los siguientes ámbitos:"
+   },
+   {
+    "id": "bildu-0174",
+    "partido": "bildu",
+    "titular": "Reconocer el carácter plurinacional del Estado",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "Lograr el reconocimiento efectivo del carácter plurinacional del estado, lo que deberá suponer:"
+   },
+   {
+    "id": "bildu-0175",
+    "partido": "bildu",
+    "titular": "Reconocer a Euskal Herria y a las demás naciones del Estado",
+    "marca_actual": [
+     "federal"
+    ],
+    "texto": "- El respeto y reconocimiento de Euskal Herria como nación, así como de las diferentes naciones que actualmente componen el estado español."
+   },
+   {
+    "id": "bildu-0176",
+    "partido": "bildu",
+    "titular": "Reconocer el carácter político del conflicto y buscar una solución democrática",
+    "marca_actual": [],
+    "texto": "- El reconocimiento del carácter político del conflicto entre Euskal Herria y el estado y, en consecuencia, el compromiso de lograr una solución política y democrática para el mismo."
+   },
+   {
+    "id": "bildu-0177",
+    "partido": "bildu",
+    "titular": "Reconocer el derecho a decidir del pueblo vasco",
+    "marca_actual": [],
+    "texto": "- El reconocimiento del derecho a decidir del pueblo vasco como mecanismo democrático y legítimo para dicha solución, basado en la voluntad y decisión de la ciudadanía vasca libre y democráticamente expresada."
+   },
+   {
+    "id": "bildu-0178",
+    "partido": "bildu",
+    "titular": "Respetar las normas de las instituciones vascas y evitar injerencias del Estado",
+    "marca_actual": [],
+    "texto": "- El compromiso de respetar los acuerdos, propuestas y normas que emanen de las instituciones vascas en cualquier ámbito, respetando la legitimidad y capacidad de decisión de nuestras instituciones, evitando las injerencias que desde las diferentes instituciones del estado se producen."
+   },
+   {
+    "id": "bildu-0179",
+    "partido": "bildu",
+    "titular": "Respetar los nuevos estatus que refrende la sociedad vasca",
+    "marca_actual": [],
+    "texto": "- El respeto a los acuerdos sobre los nuevos marcos de relación con el estado/los nuevos estatus que puedan producirse mediante amplios acuerdos y cuando estos resulten refrendados por la sociedad vasca."
+   },
+   {
+    "id": "bildu-0180",
+    "partido": "bildu",
+    "titular": "Exigir la transferencia de las competencias pendientes del Estatuto y el Amejoramiento",
+    "marca_actual": [],
+    "texto": "- Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años."
+   },
+   {
+    "id": "bildu-0181",
+    "partido": "bildu",
+    "titular": "Asumir competencias en migración, Seguridad Social, energía y relaciones laborales",
+    "marca_actual": [],
+    "texto": "- Propondremos la asunción de nuevas competencias plenas e instrumentos para ampliar nuestras capacidades de autogobierno que nos permitan decidir, diseñar y desarrollar políticas propias adaptadas a las realidades y necesidades de nuestro país y nuestra sociedad:\n - Migración\n - Seguridad Social\n - Protección social y desempleo\n - Puertos y aeropuertos\n - Energía\n - Marco Vasco y Navarro de Relaciones Laborales"
+   },
+   {
+    "id": "bildu-0182",
+    "partido": "bildu",
+    "titular": "Defender el autogobierno frente a la recentralización y las invasiones competenciales",
+    "marca_actual": [],
+    "texto": "- Defenderemos también, por encima de cualquier intento de re-centralización o retroceso, el autogobierno y todas las capacidades y competencias asociadas al mismo:\n - Velaremos por que ninguna norma que pueda ser propuesta por el Gobierno, el Congreso o el Senado, conlleve ningún tipo de invasión competencial, para lo que trabajaremos caso por caso para corregir y eliminar las posibles invasiones.\n - Trabajaremos para que cualquier nueva figura, ley o medida que interfiera y/o resulte complementaria a nuestras propias herramientas y/o competencias, sean transferidas y asumidas por las instituciones vascas, ensanchando así nuestras capacidades y autogobierno."
+   },
+   {
+    "id": "bildu-0194",
+    "partido": "bildu",
+    "titular": "Permitir que las selecciones vascas compitan internacionalmente",
+    "marca_actual": [],
+    "texto": "Propondremos la modificación de la actual legislación que impide que nuestras selecciones, las selecciones vascas, puedan competir en cualquier ámbito y disciplina, en igual de condiciones que el resto de selecciones en el ámbito internacional, y con la participación de deportistas de los siete territorios que componen nuestro país, Euskal Herria.\n\nAsí mismo, trabajaremos para eliminar el régimen sancionador que se aplica a los y las deportistas que no deseen participar de las selecciones españolas, constituyendo una imposición y una amenaza inaceptables para los y las deportistas vascas."
+   },
+   {
+    "id": "bildu-0200",
+    "partido": "bildu",
+    "titular": "Replegar las Fuerzas y Cuerpos de Seguridad del Estado de la CAV y Navarra",
+    "marca_actual": [],
+    "texto": "- Impulsar en la Comunidad Autónoma Vasca y en la Comunidad Foral de Navarra, el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado, en el marco del respeto y pleno desarrollo de las competencias de ambas comunidades en materia de seguridad ciudadana y orden público y en coherencia con el carácter integral de la Ertzaintza y de la Policía Foral."
+   }
+  ]
+ },
+ {
+  "eje": "eje-agua",
+  "pregunta": "¿Trasvases e interconexión de cuencas?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, un plan hidrológico con interconexión de cuencas"
+   },
+   {
+    "id": "no",
+    "nombre": "No: gestión de la demanda, agua como bien público"
+   }
+  ],
+  "n": 46,
+  "palabras": 2789,
+  "candidatos": [
+   {
+    "id": "podemos-0345",
+    "partido": "podemos",
+    "titular": "Cerrar regadíos ilegales en Doñana y Daimiel y cumplir la ley del Mar Menor",
+    "marca_actual": [],
+    "texto": "327. **Salvar Doñana, las Tablas de Daimiel y el Mar Menor.** Cerrar los regadíos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y su biodiversidad. Doñana tendrá personalidad jurídica, con derecho a existir y a ser protegida, conservada y restaurada, en el Parque Nacional y su zona periférica, y se recuperará el Guadiamar. Se cumplirá la ley del Mar Menor y se acabará con los vertidos que lo envenenan."
+   },
+   {
+    "id": "podemos-0375",
+    "partido": "podemos",
+    "titular": "Nueva política del agua que adapte las demandas a los recursos de cada cuenca",
+    "marca_actual": [],
+    "texto": "357. **Una nueva política de agua adaptada a la emergencia climática.** Impulsaremos un plan estatal de investigación y reconversión hidrológica que permita conocer el estado real de nuestros ríos, acuíferos y humedales y anticipar los efectos del cambio climático. Estableceremos objetivos vinculantes y financiación suficiente para recuperar los ecosistemas acuáticos, reducir la contaminación y las extracciones insostenibles y garantizar los caudales ecológicos. Adaptaremos las demandas de agua a los recursos disponibles en cada cuenca, priorizando el abastecimiento humano y la conservación de la naturaleza."
+   },
+   {
+    "id": "podemos-0376",
+    "partido": "podemos",
+    "titular": "Moratoria a regadíos hiperintensivos de fondos buitre y reducir el consumo de agua",
+    "marca_actual": [],
+    "texto": "358. **Reducir el consumo de un agua que España ya no tiene, pero haciéndolo de forma justa, protegiendo a nuestros pequeños y medianos productores tradicionales frente a los fondos buitre y las grandes corporaciones del agronegocio.**\n - Para ello, se establecerá, en primer lugar, una **moratoria a los regadíos hiperintensivos en manos de fondos buitre y otras medidas para la reducción del consumo de agua en el campo.** Cada vez más, se está viendo como fondos buitre y grandes multinacionales extractivas se van haciendo con el campo español, desplazando y expulsando a la agricultura tradicional formada por las pequeñas y medianas explotaciones que llevan toda la vida trabajando el campo, y lo hacen además de una forma agresiva con el medio ambiente, mediante prácticas insostenibles y que generan una competencia desleal con el resto de los productores. Uno de los ejemplos más evidentes es el establecimiento de **regadíos de cultivos en sistemas hiperintensivos** o en las macrogranjas de ganadería intensiva, con un gasto absolutamente excesivo e injustificable de agua, para cultivar variedades que siempre se han cultivado en suelos de secano en nuestro país, como es el caso del olivar, y acaparando derechos de riego mediante el abuso de posición dominante. Por todo ello, para evitar quedarse sin agua o incluso transitar a épocas de colapso hídrico en las que se puedan llegar a ver restricciones de suministro a las grandes ciudades, pero también para proteger a los pequeños y medianos productores de la agricultura tradicional y familiar, garantizando para ellos el suministro de agua, se pondrá en marcha una **moratoria inmediata a la apertura de sistemas de regadíos hiperintensivos en manos de grandes propietarios —moratoria que se extenderá a la apertura de nuevos regadíos ordinarios en cuencas afectadas habitualmente por la sequía—** así como **el control (o corte) del suministro a aquellos ya existentes en cuencas que se encuentren en situación de sequía** o que haya predicciones científicas ciertas de que se pueden hallar en esa situación en el futuro próximo.\n - **Prohibir el acaparamiento de derechos de riego por parte de los fondos buitre y las grandes corporaciones del agronegocio.**\n - Paralizar de forma inmediata la concesión de nuevos derechos de riego por supuesto a las explotaciones de regadíos hiperintensivos, pero también a cualquier otra explotación en manos de fondos de inversión o de grandes corporaciones. Se paralizará la concesión de nuevos derechos de riego a cualquier tipo de explotación en aquellas cuencas sometidas a intensos periodos de sequía.\n - Prohibir la venta de derechos de riego a las grandes explotaciones en manos de fondos de inversión o de grandes corporaciones. Los pequeños y medianos productores tradicionales podrán comprar y vender derechos de riego entre ellos o vendérselos a la administración pública para así aumentar la capacidad de nuestros recursos hídricos.\n - Llevar a cabo una auditoría de los derechos de riego en manos de grandes productores de regadío y hiperintensivo así como de cualquier explotación en manos de fondos de inversión o grandes corporaciones. Dichos derechos de riego quedarían cancelados si, como resultado de la auditoría, se encontrase que afectan gravemente a la sostenibilidad hídrica de la cuenca o a la sostenibilidad económica de los pequeños y medianos productores situados en la misma.\n - Del mismo modo, en cuencas que se encuentren en situación de sequía, **se interrumpirá el suministro de agua para usos que no cubren necesidades básicas de la población o del sector primario** como pueden ser los campos de golf o las piscinas privadas. Cuando la interrupción del suministro no sea posible de forma material, se establecerá la prohibición legal con su correspondiente sistema de multas.\n - Evidentemente, y en paralelo a estas acciones, se debe **reforzar y acelerar la puesta en marcha de medidas más de medio plazo para acelerar el incremento de la eficiencia y la sostenibilidad de nuestros recursos hídricos**. Entre ellas se debe incluir el aumento de las plantas desaladoras, el incremento de las partidas y ayudas para la mejora, mantenimiento y modernización de los sistemas de riego, el fomento de la sustitución de cultivos más intensivos en agua por otro que lo sean menos, la investigación científica en variedades resistentes a la sequía, la reducción de pérdidas en los sistemas de canalización o el incremento del esfuerzo en infraestructuras de recuperación y depuración de aguas."
+   },
+   {
+    "id": "podemos-0377",
+    "partido": "podemos",
+    "titular": "Plan Nacional de Recuperación de Acuíferos y Humedales",
+    "marca_actual": [],
+    "texto": "359. **Recuperar nuestros acuíferos y devolver la vida a los humedales.** Pondremos en marcha un Plan Nacional de Recuperación de Acuíferos y Humedales para frenar la sobreexplotación, restaurar los ecosistemas degradados y garantizar la disponibilidad de agua en el futuro. Los humedales son zonas de especial interés, tanto por ser reservas de agua, como por su biodiversidad, pero también por ser sumideros de CO2. Por tanto, son excelentes aliados para hacer frente al cambio climático Por ello, reforzaremos el control de las extracciones, recuperaremos humedales y masas de agua deterioradas y destinaremos financiación suficiente a su conservación. Proteger el agua es proteger la biodiversidad, combatir la emergencia climática y garantizar un futuro habitable para las próximas generaciones.\n En este sentido, además identificaremos y delimitaremos las zonas de recarga de los acuíferos de todo el país y estableceremos perímetros de protección legalmente vinculantes. Limitaremos las actividades urbanísticas, agrícolas, industriales y extractivas que pongan en peligro la infiltración del agua o contaminen las reservas subterráneas. Daremos prioridad a los acuíferos más sobreexplotados y vulnerables al cambio climático, incorporando su protección a la planificación territorial e hidrológica."
+   },
+   {
+    "id": "podemos-0379",
+    "partido": "podemos",
+    "titular": "Plan de choque contra las extracciones ilegales de agua y los regadíos ilegales",
+    "marca_actual": [],
+    "texto": "361. **Acabar con el robo de agua y perseguir los regadíos ilegales.** Pondremos en marcha un plan de choque contra las extracciones ilegales de agua, con el cierre efectivo de pozos y balsas ilegales, sanciones disuasorias y más inspectores en las Confederaciones Hidrográficas y efectivos especializados sobre el terreno. Restauraremos las zonas naturales dañadas por estas prácticas y reforzaremos la vigilancia de los acuíferos sobreexplotados. La ley debe aplicarse a todo el mundo, también a los grandes propietarios, para garantizar el agua de los pueblos, la agricultura sostenible y los espacios naturales."
+   },
+   {
+    "id": "podemos-0385",
+    "partido": "podemos",
+    "titular": "Plan de choque contra la sobreexplotación de acuíferos y moratoria a nuevos regadíos intensivos",
+    "marca_actual": [],
+    "texto": "367. **Plan de choque contra la sobreexplotación de acuíferos.** No podemos seguir agotando nuestros acuíferos para sostener un modelo de regadío insostenible. Por ello pondremos en marcha un plan de choque para recuperar las aguas subterráneas, clausurar las extracciones ilegales y establecer una moratoria a nuevos regadíos intensivos y ampliaciones en las cuencas con estrés hídrico. Revisaremos las concesiones existentes para garantizar la recuperación de los acuíferos, el cumplimiento de los caudales ecológicos y la protección de los ecosistemas. Defenderemos una gestión del agua que priorice el abastecimiento humano y permita mantener una agricultura familiar adaptada a los recursos disponibles."
+   },
+   {
+    "id": "podemos-0402",
+    "partido": "podemos",
+    "titular": "Prohibir los vertidos mineros a ríos y masas de agua",
+    "marca_actual": [],
+    "texto": "384. **Prohibir los vertidos mineros que contaminan nuestros ríos.** Prohibiremos las autorizaciones de vertido de aguas residuales e industriales procedentes de la exploración, extracción y tratamiento de minerales en los cauces públicos y demás masas de agua superficiales y costeras. Reforzaremos los controles ambientales sobre las explotaciones existentes y los nuevos proyectos, garantizando la prevención de la contaminación y la protección de los ecosistemas fluviales. La búsqueda de materias primas no puede justificar poner en peligro el agua potable, la biodiversidad ni la salud de la población."
+   },
+   {
+    "id": "adelante-0024",
+    "partido": "adelante",
+    "titular": "Ley del ciclo del agua y ley estatal de Doñana",
+    "marca_actual": [],
+    "texto": "22. **Agua, Guadalquivir y Doñana protegidas** — Ley del ciclo del agua y ley estatal de Doñana.\nSe desarrolla en el programa: Propuestas 416 y 423 · Área 05 Bienes comunes"
+   },
+   {
+    "id": "adelante-0401",
+    "partido": "adelante",
+    "titular": "Gestión exclusiva de la cuenca del Guadalquivir por la Junta",
+    "marca_actual": [],
+    "texto": "349. **El Guadalquivir, para Andalucía** — Gestión exclusiva de la cuenca por la Junta. _Porque el Guadalquivir es un río andaluz y el Estatuto lo reconoce._"
+   },
+   {
+    "id": "adelante-0467",
+    "partido": "adelante",
+    "titular": "Techo de agua y energía para centros de datos y nunca agua potable",
+    "marca_actual": [],
+    "texto": "413. **Los centros de datos no se beben nuestra agua** — Techo de consumo de agua y energía por cuenca, nunca agua potable para refrigerar y prohibición de vender suelo público para centros de datos. _Porque el agua es escasa en Andalucía y no puede ir a refrigerar servidores._"
+   },
+   {
+    "id": "adelante-0468",
+    "partido": "adelante",
+    "titular": "El agua como derecho humano con mínimo vital gratuito y sin cortes",
+    "marca_actual": [],
+    "texto": "414. **El agua, un derecho humano** — Mínimo vital gratuito, sin cortes por no poder pagar y acceso digno para personas sin hogar y en asentamientos. _Porque el agua es un derecho humano y nadie debería quedarse sin ella._"
+   },
+   {
+    "id": "adelante-0469",
+    "partido": "adelante",
+    "titular": "Ciclo urbano del agua en manos públicas sin cánones concesionales",
+    "marca_actual": [],
+    "texto": "415. **Gestión pública del agua** — Ciclo urbano del agua en manos públicas, sin cánones concesionales y con plazos para las concesiones vigentes. _Porque el agua es un bien común y no un negocio._"
+   },
+   {
+    "id": "adelante-0470",
+    "partido": "adelante",
+    "titular": "Ley del ciclo del agua: caudales ecológicos, freno al regadío intensivo y ni trasvases",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "416. **Ley del ciclo del agua** — Caudales ecológicos y abastecimiento primero, freno al regadío intensivo, ni trasvases ni compraventa de derechos de riego, cierre de los pozos ilegales y canon progresivo para las grandes explotaciones. _Porque el agua tiene que llegar primero a las personas y a los ríos._"
+   },
+   {
+    "id": "adelante-0471",
+    "partido": "adelante",
+    "titular": "Planes de sequía e inundaciones con participación pública",
+    "marca_actual": [],
+    "texto": "417. **Planes de sequía e inundaciones** — Con participación pública, protección de la población vulnerable y recuperación de espacios fluviales. _Porque las sequías y las inundaciones serán cada vez más frecuentes._"
+   },
+   {
+    "id": "adelante-0472",
+    "partido": "adelante",
+    "titular": "Financiación estatal de redes pluviales y tanques de tormenta",
+    "marca_actual": [],
+    "texto": "418. **Pluviales y tanques de tormenta** — Financiación estatal para separar redes y evitar vertidos e inundaciones urbanas. _Porque las lluvias fuertes provocan vertidos e inundaciones en las ciudades._"
+   },
+   {
+    "id": "adelante-0473",
+    "partido": "adelante",
+    "titular": "Mantenimiento y seguridad de las presas de la Confederación del Guadalquivir",
+    "marca_actual": [],
+    "texto": "419. **Presas seguras** — Mantenimiento y seguridad de las presas y embalses de la Confederación Hidrográfica del Guadalquivir. _Porque una presa sin mantenimiento es un riesgo para quien vive aguas abajo._"
+   },
+   {
+    "id": "adelante-0477",
+    "partido": "adelante",
+    "titular": "Ley de Doñana frente a la sobreexplotación del agua",
+    "marca_actual": [],
+    "texto": "423. **Ley de Doñana** — Protección frente a la sobreexplotación del agua y a cualquier proyecto que la amenace. _Porque Doñana se está secando por la sobreexplotación del agua._"
+   },
+   {
+    "id": "adelante-0504",
+    "partido": "adelante",
+    "titular": "Modernizar regadíos sin aumentar la superficie regada",
+    "marca_actual": [],
+    "texto": "450. **Regadíos que ahorran agua** — Modernizar las infraestructuras hídricas y de regadío sin aumentar la superficie regada, y cuidar la viabilidad de las zonas forestales. _Porque el agua que se pierde en canales viejos es agua que falta._"
+   },
+   {
+    "id": "adelante-0774",
+    "partido": "adelante",
+    "titular": "Plan de seguridad hídrica para la Axarquía con financiación estatal",
+    "marca_actual": [],
+    "texto": "702. **Agua para la Axarquía** — Plan de seguridad hídrica con financiación estatal: menos fugas, depuración y regeneración para aliviar La Viñuela, control de las extracciones ilegales y reparto transparente del agua de riego, con atención a las pequeñas explotaciones. _Porque la Axarquía sufre sequías graves y sus acuíferos se agotan._"
+   },
+   {
+    "id": "adelante-0775",
+    "partido": "adelante",
+    "titular": "Depuradora para Benaoján y Montejaque y plan de depuración del Valle del Genal",
+    "marca_actual": [],
+    "texto": "703. **Depuración en la Serranía de Ronda** — Depuradora para Benaoján y Montejaque que acabe con los vertidos al Guadiaro y plan de depuración del Valle del Genal con calendario público, para cumplir la normativa europea. _Porque los vertidos sin depurar dañan el Guadiaro y pueden costar multas a los pueblos._"
+   },
+   {
+    "id": "adelante-0776",
+    "partido": "adelante",
+    "titular": "Solución definitiva al abastecimiento de agua en Valle de Abdalajís y Humilladero",
+    "marca_actual": [],
+    "texto": "704. **Agua para Valle de Abdalajís y Humilladero** — Solución definitiva al abastecimiento, financiada por Adif en Valle de Abdalajís, con un suministro alternativo seguro mientras tanto. _Porque estos pueblos llevan años con problemas de agua potable._"
+   },
+   {
+    "id": "bng-0018",
+    "partido": "bng",
+    "titular": "Transferir costas y la Confederación Hidrográfica Miño-Sil a Galicia",
+    "marca_actual": [],
+    "texto": "- Transferencia das competencias en materia de costas e do dominio público marítimo-terrestre, tanto as normativas en materia de protección do litoral como aquelas de intervención e xestión (autorizacións de instalacións na costa galega). Tamén se afrontará o traspaso das competencias sobre as bacías hidrográficas (transferencia plena da Confederación Hidrográfica Miño-Sil)."
+   },
+   {
+    "id": "bng-0284",
+    "partido": "bng",
+    "titular": "Estudiar un sistema separativo de depuración de aguas residuales en Galicia",
+    "marca_actual": [],
+    "texto": "- Estudo para a modificación da depuración de augas residuais de Galiza a un sistema separativo, por terse demostrado a ineficacia para o noso pais do sistema unitario agora instalado, e poder desenvolver o saneamento integral real e a rexeneración ambiental e produtiva das rías galegas."
+   },
+   {
+    "id": "bng-0390",
+    "partido": "bng",
+    "titular": "Saneamiento integral con redes separativas y regeneración de las rías",
+    "marca_actual": [],
+    "texto": "- Impulsar o saneamento integral real a través de redes separativas e enerxeticamente eficientes de saneamento e da rexeneración das rías galegas, transferindo a Galiza os recursos necesarios, así como a capacidade para a planificación, deseño, aprobación e a execución das infraestruturas hidráulicas que actualmente ten atribuídas o Goberno central."
+   },
+   {
+    "id": "bng-0490",
+    "partido": "bng",
+    "titular": "Auditorías hídricas y ambientales para todo proyecto tecnológico",
+    "marca_actual": [],
+    "texto": "- Auditorías hídricas e ambientais. Condicionar calquera proxecto tecnolóxico a unha avaliación rigorosa que garanta que o seu consumo de auga non sature os acuíferos nin prexudique o abastecemento da poboación e dos ecosistemas."
+   },
+   {
+    "id": "erc-0188",
+    "partido": "erc",
+    "titular": "Modificar el Plan Hidrológico del Ebro para garantizar los caudales ecológicos",
+    "marca_actual": [],
+    "texto": "148. Modificar el Pla Hidrològic de l’Ebre i garantir els cabals ecològics i l’equilibri mediambiental. Cal protegir el Delta de l’Ebre i el conjunt de l’ecosistema del riu."
+   },
+   {
+    "id": "erc-0189",
+    "partido": "erc",
+    "titular": "Comisión bilateral del delta del Ebro y traspaso de las cuencas de la CHE",
+    "marca_actual": [],
+    "texto": "149. Comissió Bilateral del Delta de l’Ebre i cessió de conques de la CHE. Convocar la comissió bilateral entre la Direcció General de Costes i la Generalitat de Catalunya per coordinar les estratègies de protecció del litoral i incrementar la seguretat jurídica dels titulars de drets al delta de l’Ebre. Reclamar el traspàs i la cessió de la gestió de les conques catalanes que depenen de la Confederació Hidrogràfica de l’Ebre (CHE)."
+   },
+   {
+    "id": "erc-0190",
+    "partido": "erc",
+    "titular": "Financiar a fondo perdido los 435 millones de las desaladoras de Tordera y Foix",
+    "marca_actual": [],
+    "texto": "150. Finançament estatal per a les dessalinitzadores de la Tordera i del Foix. Reclamar la modificació de la via de finançament establerta al RDL 4/2023 per convertir els 435 milions d’euros en una injecció directament estatal a fons perdut, evitant que s’articulin com un crèdit que acabi sent repercutit sobre la factura de l’aigua dels ciutadans de Catalunya."
+   },
+   {
+    "id": "erc-0192",
+    "partido": "erc",
+    "titular": "Permitir el uso de agua regenerada en la industria cárnica y ganadera",
+    "marca_actual": [],
+    "texto": "152. Ús d’aigua regenerada a la indústria càrnia. Desenvolupar la normativa estatal necessària per permetre l’ús d’aigua regenerada en activitats industrials i ramaderes que no suposin risc per a la salut pública (com la neteja i desinfecció de vehicles de transport d’animals o de granges), evitant el malbaratament de més de 460 milions de litres d’aigua potable a l’any."
+   },
+   {
+    "id": "erc-0204",
+    "partido": "erc",
+    "titular": "Financiación estatal para modernizar los regadíos, empezando por los Canales d'Urgell",
+    "marca_actual": [],
+    "texto": "163. Garantir el finançament estatal de la modernització dels regadius de Catalunya. Exigir a l’Estat una aportació pressupostària suficient i sostinguda per modernitzar les infraestructures de regadiu, millorar l’eficiència hídrica i adaptar el sector agrari a la sequera i al canvi climàtic. Prioritzar la modernització integral dels Canals d’Urgell, incloent-hi la connexió amb el Segarra-Garrigues i el Canal Auxiliar, amb un calendari pluriennal de finançament que eviti carregar-ne el cost sobre els regants, així com les actuacions a les conques compartides de l’Ebre, el Xúquer i el Segura."
+   },
+   {
+    "id": "cnv-0146",
+    "partido": "cnv",
+    "titular": "Soberanía hidrológica y rectificar el Plan Hidrológico del Ebro por el Delta",
+    "marca_actual": [],
+    "texto": "- Exigirem la sobirania hidrològica de Catalunya i la rectificació del Pla Hidrològic de l’Ebre per garantir cabals adequats al Delta i compatibilitat amb l’activitat agrària."
+   },
+   {
+    "id": "cnv-0147",
+    "partido": "cnv",
+    "titular": "Inversión estatal en infraestructuras hídricas y reutilización del agua",
+    "marca_actual": [],
+    "texto": "- Sol·licitarem inversions estatals en infraestructures hídriques i la implementació de tecnologies de reutilització d'aigua."
+   },
+   {
+    "id": "cnv-0148",
+    "partido": "cnv",
+    "titular": "Financiación estatal para modernizar el regadío y optimizar el agua",
+    "marca_actual": [],
+    "texto": "- Demanarem el finançament de l'Estat a la modernització del regadiu i optimització de l’ús de l’aigua, potenciant infraestructures eficients per adaptar-se a les noves condicions climàtiques."
+   },
+   {
+    "id": "cnv-0152",
+    "partido": "cnv",
+    "titular": "Plan con el Estado contra la sequía en Cataluña",
+    "marca_actual": [],
+    "texto": "- Demanarem la col·laboració de l'estat en el desenvolupament d'un pla d'actuació per a lluitar contra la sequera a Catalunya, que tingui en compte les particularitats del territori."
+   },
+   {
+    "id": "cnv-0276",
+    "partido": "cnv",
+    "titular": "Regeneración y reutilización del agua, desalinización y aprovechamiento de acuíferos",
+    "marca_actual": [],
+    "texto": "- Apostarem per la regeneració i reutilització de l’aigua amb solucions adaptades a les necessitats de cada territori (depuració d’aigües grises i negres, dessalinització, aprofitament d’aqüífers)."
+   },
+   {
+    "id": "cnv-0277",
+    "partido": "cnv",
+    "titular": "Marco normativo de gestión del agua con control y sanciones",
+    "marca_actual": [],
+    "texto": "- Impulsarem un marc normatiu que asseguri una gestió òptima de l’aigua, amb mecanismes de control efectius i sancions rigoroses en cas d’incompliment."
+   },
+   {
+    "id": "cnv-0278",
+    "partido": "cnv",
+    "titular": "Campañas de concienciación sobre el uso responsable del agua",
+    "marca_actual": [],
+    "texto": "- Desenvoluparem campanyes de conscienciació sobre l’ús responsable de l’aigua com a recurs escàs i vital, promovent una cultura de la sostenibilitat compartida."
+   },
+   {
+    "id": "pnv-0089",
+    "partido": "pnv",
+    "titular": "Reforzar las inversiones en abastecimiento, saneamiento y depuración de aguas",
+    "marca_actual": [],
+    "texto": "11. **Reforzar las inversiones en abastecimiento, saneamiento y depuración de aguas**, mejorando la eficiencia de las redes, la seguridad de las presas y la prevención de la contaminación."
+   },
+   {
+    "id": "bildu-0124",
+    "partido": "bildu",
+    "titular": "Fijar objetivos de trasvase de mercancías de la carretera al tren",
+    "marca_actual": [],
+    "texto": "- Trasvase de mercancías al tren: Fijar objetivos ambiciosos de trasvase de mercancías de la carretera al ferrocarril."
+   },
+   {
+    "id": "teruel-0099",
+    "partido": "teruel",
+    "titular": "Proteger las masas de agua según la Directiva Marco del Agua",
+    "marca_actual": [],
+    "texto": "- **Directiva Marco del Agua.** Proteger y mejorar las masas de agua superficiales y subterráneas y garantizar el suministro sin comprometer los recursos."
+   },
+   {
+    "id": "teruel-0100",
+    "partido": "teruel",
+    "titular": "Rechazar el trasvase del Ebro",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- **Trasvase del Ebro, no.** Rechazamos esos proyectos y rebatiremos los argumentos que intentan justificarlos. Aprovechamientos en la margen derecha turolense."
+   },
+   {
+    "id": "teruel-0101",
+    "partido": "teruel",
+    "titular": "Actualizar los planes de sequía y reutilizar caudales depurados",
+    "marca_actual": [],
+    "texto": "- **Sequía.** Actualizar los planes de sequía, ahorro en todos los usos, mejor depuración para reutilizar caudales, separación progresiva de redes de pluviales y residuales, y microactuaciones de regulación."
+   },
+   {
+    "id": "teruel-0102",
+    "partido": "teruel",
+    "titular": "Adaptar el Pacto del Agua de Aragón al cambio climático",
+    "marca_actual": [],
+    "texto": "- **Agua en Aragón.** Adaptar el Pacto del Agua al cambio climático y garantizar las demandas de los afectados por embalses, la reserva estratégica y los caudales para cada uso y los ecológicos. Defender los embalses, canales y regadíos que sean sostenibles social, ecológica y económicamente."
+   },
+   {
+    "id": "teruel-0103",
+    "partido": "teruel",
+    "titular": "Defender a los usuarios del Guadalope y más agua para el abastecimiento de Teruel",
+    "marca_actual": [],
+    "texto": "- **Agua en Teruel.** Defensa de los usuarios del Guadalope ante la CHE tras liberar a ENDESA de sus obligaciones en el pantano de Santolea. Completar la elevación de aguas del Ebro a la zona de Andorra sin limitar usos. Balsas laterales en el Matarraña. Mantenimiento y uso de la presa de los Toranes. Más recursos hídricos para el abastecimiento de Teruel y su comarca."
+   },
+   {
+    "id": "teruel-0104",
+    "partido": "teruel",
+    "titular": "Conservar las riberas y cauces del dominio público hidráulico",
+    "marca_actual": [],
+    "texto": "- **Riberas y dominio público hidráulico.** Mantenimiento, limpieza y conservación de la vegetación natural, así como de los cauces; parque lineal y usos lúdico-deportivos en el embalse de Lechago."
+   },
+   {
+    "id": "teruel-0105",
+    "partido": "teruel",
+    "titular": "Educación ambiental sobre el uso del agua",
+    "marca_actual": [],
+    "texto": "- **Educación ambiental** sobre la importancia y el uso del agua."
+   }
+  ]
+ },
+ {
+  "eje": "eje-ley-vivienda",
+  "pregunta": "¿Qué hacer con la Ley de Vivienda de 2023?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla"
+   },
+   {
+    "id": "mantener-ampliar",
+    "nombre": "Mantenerla, aplicarla o ampliarla"
+   }
+  ],
+  "n": 17,
+  "palabras": 1820,
+  "candidatos": [
+   {
+    "id": "podemos-0006",
+    "partido": "podemos",
+    "titular": "La vivienda como mecanismo de transferencia de riqueza hacia arriba",
+    "marca_actual": [],
+    "texto": "La vivienda se ha convertido en uno de los principales mecanismos de transferencia de riqueza desde abajo hacia arriba, desde quienes menos tienen hacia quienes más tienen. Cada mes, millones de trabajadores y trabajadoras destinan una parte creciente de sus salarios a pagar alquileres e hipotecas que alimentan los beneficios de los grandes propietarios, los fondos de inversión y las entidades financieras. Esta situación es consecuencia de un modelo que ha convertido la vivienda en un negocio, un activo financiero y una mercancía con la que especular, en lugar de garantizarla como un derecho, tal y como establece el artículo 47 de nuestra Constitución.\n\nEsta concepción de la vivienda tiene profundas raíces históricas. Durante el franquismo, el ministro de Vivienda José Luis Arrese proclamó su aspiración de construir «un país de propietarios, no de proletarios». La vivienda en propiedad se convirtió en una forma de vincular el futuro de las familias a la propiedad inmobiliaria y a su revalorización."
+   },
+   {
+    "id": "adelante-0003",
+    "partido": "adelante",
+    "titular": "Vivienda como derecho exigible y alquiler nunca por encima del 20 % del salario",
+    "marca_actual": [],
+    "texto": "1. **Fin de la especulación inmobiliaria y garantía del derecho a la vivienda**\n - La vivienda como un derecho que se pueda exigir ante los tribunales.\n - Ningún alquiler por encima del 20 % del salario y contratos indefinidos.\n - Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.\n - Prohibición de la compra especulativa y de que los fondos compren vivienda.\n - Retirada de licencias de apartamentos turísticos donde los precios se han disparado.\n - Impuesto a la vivienda vacía de grandes tenedores.\n - Reforma de la VPO para evitar la especulación y que sean accesibles.\n - Creación de una constructora pública.\n - Ilegalización de las empresas de “desokupación”.\n Se desarrolla en el programa: Propuestas 157, 159, 161, 162, 167, 168, 172, 173, 181 y 185 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0203",
+    "partido": "adelante",
+    "titular": "Ningún hogar pagará más del 20 % de sus ingresos por su casa",
+    "marca_actual": [],
+    "texto": "Ningún hogar pagará más del 20 % de sus ingresos por su casa y ninguna familia será desahuciada sin alternativa."
+   },
+   {
+    "id": "adelante-0204",
+    "partido": "adelante",
+    "titular": "Reforma constitucional para hacer de la vivienda un derecho fundamental",
+    "marca_actual": [],
+    "texto": "157. **Vivienda como derecho fundamental** — Reforma constitucional para llevar el artículo 47 al capítulo de derechos fundamentales, con recurso de amparo. _Porque si la vivienda fuera un derecho fundamental se podría exigir ante los tribunales._"
+   },
+   {
+    "id": "adelante-0205",
+    "partido": "adelante",
+    "titular": "Ley de emergencia habitacional con definición legal de la especulación",
+    "marca_actual": [],
+    "texto": "158. **Ley de emergencia habitacional** — Declaración de emergencia de vivienda y pobreza energética con definición legal de la especulación y de la función social de la propiedad. _Porque la situación de la vivienda es ya una emergencia para miles de familias._"
+   },
+   {
+    "id": "adelante-0531",
+    "partido": "adelante",
+    "titular": "Comisión en el Congreso para preparar las reformas constitucionales del programa",
+    "marca_actual": [],
+    "texto": "476. **Comisión para la reforma constitucional** — Comisión en el Congreso que prepare las reformas de este programa que necesitan cambiar la Constitución: el voto de las personas extranjeras residentes en todas las elecciones, la vivienda como derecho fundamental, el aborto, Andalucía como nacionalidad histórica, el fin de los aforamientos, el Senado territorial, la elección directa del Consejo General del Poder Judicial, el referéndum de iniciativa ciudadana y el referéndum obligatorio de toda reforma constitucional. _Porque muchas de estas reformas necesitan cambiar la Constitución._"
+   },
+   {
+    "id": "bng-0027",
+    "partido": "bng",
+    "titular": "Diagnóstico: las familias gallegas destinan más del 31 % a la vivienda",
+    "marca_actual": [],
+    "texto": "O acceso a unha vivenda converteuse nunha das principais causas de exclusión social. Neste senso, lonxe de estar garantida como dereito, a vivenda é, na actualidade e desde hai anos, un ben para a especulación e un enorme aspirador de rendas.\n\nDe feito, as familias galegas xa teñen que destinar máis do 31% do que ingresan a pagar a vivenda na que viven e os gastos derivados dela. Uns custes que, segundo o INE, aumentaron o 10% nun só ano.\n\nO incremento desorbitado dos prezos dos alugueiros, a proliferación descontrolada de vivendas de uso turístico, a demolición da política social de vivenda e a paralización –durante máis dunha década-- da construción de vivenda pública sitúanse entre as principais causas da emerxencia habitacional na que nos atopamos.\n\nPara protexer a función social da vivenda, combater a especulación e asegurar o dereito a unha vivenda digna e accesible para todas as persoas, desde o BNG defendemos:"
+   },
+   {
+    "id": "erc-0077",
+    "partido": "erc",
+    "titular": "Diagnóstico: la vivienda, principal problema, tratada como activo financiero",
+    "marca_actual": [],
+    "texto": "L’accés a l’habitatge s’ha convertit en el principal problema de la ciutadania, no només a Catalunya sinó a gran part d’Europa. Els preus del lloguer i de compra han crescut molt per sobre dels salaris, expulsen les famílies dels seus barris i municipis i fan cada vegada més difícil construir un projecte de vida amb dignitat.\n\nLa crisi de l’habitatge no és inevitable ni és fruit de la casualitat: és el resultat d’anys de polítiques de l’Estat que han permès tractar l’habitatge com un actiu financer en lloc de garantir-lo com a dret bàsic de la ciutadania. La regulació injusta, la manca d’un parc d’habitatge públic suficient i l’entrada de grans especuladors en el mercat han fet que tant l’accés al lloguer com l’accés a la compra siguin cada vegada més inassolibles per a les classes treballadores i mitjanes de Catalunya.\n\nDavant d’aquesta situació d’emergència residencial marcada per l’increment salvatge de preus de compra i lloguer i la falta d’oferta de lloguer d’habitatge habitual de llarga durada, la ciutadania s’ha mobilitzat. Aquest clam social ha situat la crisi de l’habitatge al centre del debat polític i exigeix un canvi profund en les polítiques en aquesta matèria."
+   },
+   {
+    "id": "erc-0078",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat los medios de vivienda y limitar los usos especulativos",
+    "marca_actual": [],
+    "texto": "Esquerra Republicana, davant d’aquesta emergència d’habitatge, defensa que l’Estat traspassi a la Generalitat de Catalunya, competent en matèria d’habitatge, tots els mitjans necessaris per garantir l’accés a un lloguer assequible i a un habitatge en propietat. Per això, es planteja el traspàs dels pisos de la SAREB a la Generalitat de Catalunya, l’habilitació per aprovar una llei d’arrendaments urbans (LAU) catalana i el traspàs de recursos necessaris per ampliar el parc públic d’habitatge. Alhora, Esquerra Republicana defensa que l’Administració General de l’Estat, des dels seus àmbits competencials, adopti les mesures necessàries per garantir el dret a l’habitatge. Així, es planteja que es limiti els usos especulatius i efectuï una reforma fiscal que incentivi que els habitatges es destinin a primera residència i en combati els usos especulatius. L’objectiu és incrementar la disponibilitat de pisos i cases per viure-hi i garantir que l’habitatge compleixi la seva funció social com a llar.\n\nPerquè una societat justa és una societat en què tothom pot tenir una llar digna, independentment de la seva edat, situació econòmica o municipi on visqui. Per a Esquerra Republicana, l’habitatge és un dret, no un privilegi."
+   },
+   {
+    "id": "erc-0089",
+    "partido": "erc",
+    "titular": "Acceso de las administraciones de vivienda a los datos de suministros básicos",
+    "marca_actual": [],
+    "texto": "65. Garantir l’accés de les administracions competents a les dades dels subministraments bàsics. Establir l’obligació de les empreses subministradores d’aigua, electricitat i gas de facilitar a les administracions competents en matèria d’habitatge i drets socials la informació necessària per millorar la planificació, la gestió i l’eficàcia de les polítiques públiques, garantint la protecció de les dades personals."
+   },
+   {
+    "id": "cnv-0024",
+    "partido": "cnv",
+    "titular": "Familia en el centro de las políticas sociales y derecho a la vivienda",
+    "marca_actual": [],
+    "texto": "Catalunya ha de renovar el seu compromís amb les persones, posant la dignitat, els drets i el benestar de tothom al centre de les polítiques públiques, a totes les etapes de la vida.\n\nL’equitat ha de ser l’eix de les polítiques socials: només garantint les mateixes oportunitats per a infants, joves i persones grans —especialment les més vulnerables— podrem construir una societat justa. Calen mesures per garantir la seguretat, protecció i autonomia de la infància i la gent gran, erradicant qualsevol forma de violència, abús o discriminació.\n\nAquest pacte intergeneracional és un compromís de país: per una Catalunya que protegeix, acompanya i ofereix oportunitats a tothom.\n\nDefensem la família, en totes les seves formes, com a columna vertebral de la nostra societat, font de solidaritat intergeneracional i espai privilegiat de transmissió de valors i identitat col·lectiva. Les polítiques de suport a la família, la natalitat i la conciliació familiar seran una prioritat.\n\nAlhora, entenem el dret a un habitatge digne com un element clau per a una societat justa.\n\nTot i que l’article 47 de la Constitució Espanyola el reconeix i en demana l’efectivitat, l’habitatge continua sent una assignatura pendent. Volem la competència compartida entre les comunitats autònomes i els ens locals, la seva gestió i planificació és avui una necessitat urgent."
+   },
+   {
+    "id": "cnv-0025",
+    "partido": "cnv",
+    "titular": "Diagnóstico: déficit de vivienda y rechazo a las ocupaciones ilegales",
+    "marca_actual": [],
+    "texto": "A Catalunya hi ha un gran desequilibri entre les necessitats residencials i la seva oferta: segons el Banc d’Espanya, caldrien 600.000 habitatges nous fins al 2025, mentre prop de 4 milions romanen buits a l’Estat i només un 1,6% són de lloguer social.\n\nEns comprometen que cap unitat familiar quedi sense llar i que els joves puguin emancipar-se amb accés a l’habitatge.\n\nCal un nou impuls amb col·laboració publicoprivada, lideratge institucional i responsabilitat compartida.\n\nRebutgem amb fermesa les ocupacions il·legals, especialment les promogudes per màfies que s’aprofiten de la vulnerabilitat.\n\nLa resposta a les necessitats d’habitatge ha de venir de les administracions i les entitats socials, no de la vulneració de drets.\n\nPer tot això, des de Convergents proposem:"
+   },
+   {
+    "id": "cnv-0068",
+    "partido": "cnv",
+    "titular": "Derogar la Ley 12/2023 por el derecho a la vivienda",
+    "marca_actual": [
+     "derogar"
+    ],
+    "texto": "- Proposarem la derogació de la Llei 12/2023, de 24 de maig, pel dret a l’habitatge, per considerar-la una invasió competencial, un atac a la propietat privada i un fre a l’oferta de lloguer per culpa dels controls de preus."
+   },
+   {
+    "id": "pnv-0006",
+    "partido": "pnv",
+    "titular": "Vivienda asequible, salarios adaptados al coste de vida y emancipación",
+    "marca_actual": [],
+    "texto": "**_Vivienda, empleo, salarios, educación y oportunidades para que las personas jóvenes y las familias puedan desarrollar su proyecto de vida en Euskadi._**\n\nTener trabajo debería permitirte pagar una vivienda y empezar tu propia vida. Hoy, para muchas personas jóvenes y familias, el alquiler o la hipoteca se llevan demasiado del sueldo. Queremos más viviendas disponibles y asequibles, menos abusos en el alquiler y oportunidades reales para emanciparse. Y queremos que el salario alcance para vivir, ahorrar y formar una familia si así lo decides.\n\nNuestra prioridad es que acceder a una vivienda deje de ser una carrera de obstáculos. Defenderemos medidas para aumentar la construcción y rehabilitación, movilizar pisos vacíos ofreciendo seguridad a las personas propietarias y, evitar contratos que esquiven las garantías de las personas inquilinas. Más oferta y reglas claras para que vivir aquí no sea un privilegio.\n\nTambién queremos que el esfuerzo de trabajar se note a final de mes. Defenderemos salarios adaptados al coste de vida, condiciones laborales dignas y una formación conectada con el empleo. La educación y la Formación Profesional deben abrir puertas, no dejar a nadie esperando una oportunidad."
+   },
+   {
+    "id": "pnv-0008",
+    "partido": "pnv",
+    "titular": "Más oferta de vivienda y reglas claras para el alquiler",
+    "marca_actual": [],
+    "texto": "Queremos que encontrar una vivienda sea más fácil y que el alquiler tenga reglas claras. Defenderemos medidas para aumentar la oferta, frenar los usos fraudulentos y proteger a quienes necesitan una casa para vivir."
+   },
+   {
+    "id": "bildu-0004",
+    "partido": "bildu",
+    "titular": "Cambiar de raíz el mercado de la vivienda contra la especulación y el rentismo",
+    "marca_actual": [],
+    "texto": "Que toda persona pueda contar con una vivienda digna y asequible es un derecho básico que se debe garantizar. Para ello, es necesario romper con las reglas actuales y cambiar de raíz el mercado de la vivienda, convertido hoy en un negocio basado en la especulación y el rentismo. Por eso se deberán tomar medidas que ofrezcan seguridad, estabilidad y garantías de acceso para toda persona que necesite un hogar, interviniendo el mercado y regulando el uso de los alojamientos, acabando con la especulación, impidiendo los desahucios, estableciendo regulaciones de los precios y aportando seguridad mediante contratos duraderos y prorrogables automáticamente. Todo ello con el objetivo de asegurar la función social de la vivienda. Para ello:"
+   },
+   {
+    "id": "teruel-0060",
+    "partido": "teruel",
+    "titular": "Soluciones específicas para el problema de vivienda de Teruel",
+    "marca_actual": [],
+    "texto": "La provincia de Teruel sufre un problema de vivienda propio que se ignora desde las grandes capitales. Buscaremos soluciones específicas para garantizar nuestro futuro."
+   }
+  ]
+ },
+ {
+  "eje": "eje-concertada",
+  "pregunta": "¿Qué hacer con la escuela concertada?",
+  "posiciones": [
+   {
+    "id": "apoyar",
+    "nombre": "Apoyarla o garantizar la libertad de elección de centro"
+   },
+   {
+    "id": "reducir",
+    "nombre": "Reducir su financiación y priorizar la pública"
+   }
+  ],
+  "n": 15,
+  "palabras": 1527,
+  "candidatos": [
+   {
+    "id": "podemos-0214",
+    "partido": "podemos",
+    "titular": "Desprivatizar las residencias hasta una gestión 100 % pública y directa",
+    "marca_actual": [],
+    "texto": "196. **Desprivatización del sistema de residencias.** Se llevará a cabo un proceso de desprivatización del sistema de residencias en España con el horizonte de que su gestión sea pública y directa al 100%. Para ello, se establecerá, en primer lugar, la prohibición de que se firmen nuevos conciertos, nuevos convenios y nuevas externalizaciones con el sector privado. Asimismo, todos los contratos que vayan caducando revertirán inmediatamente en el control público. Por último, en los casos en los que una residencia privada o concertada incumpla grave y repetidamente los parámetros de la Ley de Calidad del SECC, esta será desprivatizada inmediatamente mediante el pago del justiprecio."
+   },
+   {
+    "id": "podemos-0297",
+    "partido": "podemos",
+    "titular": "Desprivatizar la educación: moratoria de conciertos y reabsorción de la concertada",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "279. **Desprivatización de la educación pública y apuesta por la gestión pública directa como garantía de calidad, equidad y universalidad.** Avanzaremos hacia una única red educativa de gestión pública directa, poniendo fin progresivamente a la privatización de la enseñanza y a la utilización de fondos públicos para financiar negocios privados. Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas, y aprobaremos una legislación para la reabsorción progresiva y voluntaria de los centros privados-concertados en la red pública, garantizando en todo momento los puestos de trabajo y el mantenimiento o mejora de las condiciones laborales de sus profesionales. Asimismo, retiraremos los conciertos a aquellos centros que incumplan de forma reiterada los requisitos legales y los estándares mínimos de calidad, con garantías para las plantillas. Prohibiremos el cobro de cuotas obligatorias o complementarias en los centros concertados, combatiremos la segregación escolar mediante estudios periódicos sobre la composición socioeconómica y la diversidad del alumnado y estableceremos medidas correctoras cuando se detecten prácticas discriminatorias. Pondremos fin progresivamente a la externalización de los servicios de comedor y otros servicios complementarios en los centros públicos, recuperando su gestión directa conforme vayan venciendo los contratos."
+   },
+   {
+    "id": "podemos-0299",
+    "partido": "podemos",
+    "titular": "Fondo estatal para la educación pública e inversión del 7 % del PIB",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "281. **Reforzar la financiación y ampliar la red pública hasta garantizar una educación gratuita y universal.** Crearemos un fondo estatal para reforzar exclusivamente la educación pública de gestión directa, con un sistema de reparto territorial que tenga en cuenta la población, el coste de los servicios y las necesidades de las zonas rurales y despobladas. Las comunidades autónomas deberán complementar la financiación estatal con un euro de recursos propios por cada dos euros recibidos y mantener el esfuerzo presupuestario educativo, sin que estos fondos puedan destinarse a financiar la enseñanza privada-concertada. Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legislatura. Ampliaremos la red pública para garantizar plazas suficientes en todas las etapas educativas, a mi meconstruyendo nuevos centros y aumentando la oferta pública allí donde exista demanda, hasta cubrir la totalidad de las necesidades de escolarización en Formación Profesional. En Educación Infantil de 0 a 3 años, construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa. Para ello, paralizaremos la concesión de nuevas licencias privadas y estableceremos vías de incorporación voluntaria a la red pública para las pequeñas empresas y personas autónomas que actualmente prestan estos servicios."
+   },
+   {
+    "id": "podemos-0300",
+    "partido": "podemos",
+    "titular": "Subir un 30 % los salarios del personal de los centros públicos",
+    "marca_actual": [],
+    "texto": "282. **Dignificar las condiciones laborales y salariales de todo el personal educativo.** Mejoraremos las condiciones laborales y salariales de todas las personas que trabajan en los centros educativos, con independencia de su categoría profesional, etapa o titularidad del centro. Incrementaremos un 30 % los salarios del personal de los centros públicos, actualizaremos anualmente las retribuciones conforme al coste de la vida y garantizaremos la equiparación salarial y de complementos para quienes desempeñen trabajos equivalentes. En los centros privados y concertados sostenidos con fondos públicos, garantizaremos que los salarios y complementos no sean inferiores en más de un 15 % a los del personal de los centros públicos. Acabaremos con la precariedad y la falta de personal, garantizando la cobertura de las vacantes necesarias en un plazo máximo de siete días y desarrollando procesos de estabilización del empleo público. Eliminaremos los contratos fijos-discontinuos de las y los Técnicos Superiores en Integración Social (TSIS), garantizando contratos a jornada completa y su adscripción estable a los centros educativos. Reconoceremos el carácter educativo del trabajo desarrollado por todo el personal de los centros, incluyendo al personal del primer ciclo de Educación Infantil como personal docente y a las TSIS como profesionales educativos, reconociendo sus funciones de intervención, planificación y coordinación y adecuando su clasificación profesional y sus condiciones laborales. Asimismo, reconoceremos las enfermedades profesionales propias de cada colectivo y garantizaremos la evaluación y prevención de los riesgos laborales físicos y psicosociales."
+   },
+   {
+    "id": "podemos-0318",
+    "partido": "podemos",
+    "titular": "Derogar la Ley 15/1997 y blindar la gestión pública directa de la sanidad",
+    "marca_actual": [],
+    "texto": "300. **Acabar con la privatización y recuperar la sanidad para lo público.** Para ello derogaremos la Ley 15/1997, los artículos 66, 67 y 90 de la Ley General de Sanidad, y todas las leyes privatizadoras que abrieron la puerta a la gestión privada de la sanidad, y blindaremos la titularidad y la gestión pública directa como modelo obligatorio del Sistema Nacional de Salud. Prohibiremos la externalización y privatización de centros y servicios sanitarios, tanto existentes como de nueva creación, así como las concesiones de obras y servicios destinadas a la construcción o explotación integral de establecimientos sanitarios públicos. Impulsaremos la recuperación de los servicios privatizados a medida que venzan los contratos vigentes, prohibiendo expresamente su prórroga. Procederemos a la desprivatización inmediata de los servicios, hospitales o áreas sanitarias externalizados o concertados que incumplan los parámetros mínimos de la Ley de Calidad durante un periodo determinado, y realizaremos auditorías de los contratos para detectar aumentos injustificados de costes sin mejora de la calidad, que llevarán también a su desprivatización inmediata. Mientras subsistan los conciertos, reforzaremos la inspección y el control para garantizar el buen uso de los fondos públicos e impedir que las empresas privadas obtengan beneficios a costa del sistema público. El personal de nuevo ingreso de MUFACE, ISFAS y MUGEJU recibirá asistencia sanitaria directamente a través de los servicios públicos de salud, sin conciertos con entidades privadas."
+   },
+   {
+    "id": "adelante-0016",
+    "partido": "adelante",
+    "titular": "Todo el dinero público para la escuela pública, hasta la inversión media europea",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "14. **Todo el dinero público para la escuela pública** — Hasta igualar la inversión por estudiante de la media europea, con ratios más bajas y plantillas suficientes.\nSe desarrolla en el programa: Propuestas 70, 77 y 78 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0109",
+    "partido": "adelante",
+    "titular": "Suelo del 5 % del PIB y una sola red pública, laica y gratuita",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "La educación pública tendrá un suelo del 5 % del PIB y avanzaremos hacia una sola red pública, laica y gratuita, con un plan de transición para los conciertos."
+   },
+   {
+    "id": "adelante-0111",
+    "partido": "adelante",
+    "titular": "Blindar la escuela pública y acabar con la cesión de suelo a concertados",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "71. **Blindaje de la escuela pública** — Prioridad presupuestaria en la normativa básica, prohibido cerrar líneas públicas mientras haya unidades privadas-concertadas en la misma zona y fin de la cesión de suelo público a centros privados y privados-concertados. _Porque la escuela pública se vacía mientras se abren aulas privadas-concertadas en la misma zona._"
+   },
+   {
+    "id": "adelante-0112",
+    "partido": "adelante",
+    "titular": "Paralizar los conciertos y eliminar progresivamente la privada-concertada",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "72. **Una sola red pública** — Paralizar y revisar los conciertos, retirar de inmediato los de centros que discriminen o segreguen y eliminar progresivamente la privada-concertada, incorporando a la pública a su profesorado y alumnado. _Porque el dinero público debe ir a una red pública que no seleccione a su alumnado._"
+   },
+   {
+    "id": "bng-0176",
+    "partido": "bng",
+    "titular": "Una única red de enseñanza pública con libros y material gratuitos",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Promover un modelo educativo fundamentado no dereito universal á educación para os galegos e galegas de 0 a 18 anos e obrigatoria de 3 a 18 anos, sustentado nunha única rede de ensino, a pública, con servizos complementarios, con libros de texto, material escolar e actividades extraescolares gratuítas. Un ensino público, galego, laico, coeducativo, gratuíto e democrático."
+   },
+   {
+    "id": "bng-0179",
+    "partido": "bng",
+    "titular": "Suprimir los conciertos educativos, empezando por los centros que segregan",
+    "marca_actual": [
+     "reducir"
+    ],
+    "texto": "- Defender inequivocamente o ensino público. Regular a admisión do alumnado nos centros educativos para estabelecer, mentres non se suprimiren, os concertos educativos. Por conseguinte, sermos especialmente vixilantes co cumprimento efectivo da eliminación dos concertos educativos dos centros que segregan alumnado por razón de xénero, controlando que o modelo de segregación desapareza dos centros que reciben fondos públicos e aplicando medidas sancionadoras no caso do incumprimento da lei. No camiño da supresión dos concertos en todos os niveis educativos, eliminación destes no ensino non-obrigatorio e control do financiamento alleo aos concertos nos centros sostidos con fondos públicos."
+   },
+   {
+    "id": "cnv-0156",
+    "partido": "cnv",
+    "titular": "Reforzar el modelo educativo con centros públicos, privados y concertados",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "D’altra banda, Catalunya compta amb una rica tradició d’iniciativa social i privada que conformen els centres educatius públics, privats i concertats. Aquesta diversitat de models configuren el Servei d’Educació de Catalunya, garantint una oferta educativa plural i de qualitat. És fonamental que reforcem aquest model, cercant un enfocament global i integrador que asseguri l’èxit educatiu i fomenti l’equitat.\n\nCal però una visió estratègica que uneixi els esforços de tota la comunitat educativa i diferents administracions per millorar els resultats educatius de tot els nostres alumnat, posant especial atenció amb els més vulnerables.\n\nLes propostes que seguidament presentem, s’inspiren en la tradició democràtica europea, el respecte a la pluralitat, la defensa de la llibertat d’ensenyament, l’arrelament al país, la promoció del català, la inclusió i la sobirania educativa de Catalunya.\n\nPer tot això, des de convergents proposem:"
+   },
+   {
+    "id": "cnv-0160",
+    "partido": "cnv",
+    "titular": "Sistema educativo plural con apoyo decidido a la escuela de iniciativa social",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "- Defensarem un sistema educatiu plural que integri escoles públiques, concertades i privades, amb un suport decidit a l’escola d’iniciativa social i un finançament just."
+   },
+   {
+    "id": "cnv-0161",
+    "partido": "cnv",
+    "titular": "Defender la libertad de enseñanza y el derecho de las familias a elegir centro",
+    "marca_actual": [
+     "apoyar"
+    ],
+    "texto": "- Defensarem la llibertat d’ensenyament i el dret de les famílies a escollir centre educatiu, garantint alhora els criteris d’equitat imprescindibles per avançar cap a una societat cohesionada."
+   },
+   {
+    "id": "bildu-0098",
+    "partido": "bildu",
+    "titular": "Crear un impuesto sobre los beneficios de las grandes distribuidoras alimentarias",
+    "marca_actual": [],
+    "texto": "- Aprobar un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias, concertado con las haciendas forales para su gestión y recaudación."
+   }
+  ]
+ },
+ {
+  "eje": "eje-cgpj",
+  "pregunta": "¿Quién elige a los vocales judiciales del CGPJ?",
+  "posiciones": [
+   {
+    "id": "jueces",
+    "nombre": "Que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "parlamento",
+    "nombre": "Mantener la elección parlamentaria"
+   }
+  ],
+  "n": 6,
+  "palabras": 700,
+  "candidatos": [
+   {
+    "id": "podemos-0431",
+    "partido": "podemos",
+    "titular": "Suprimir los aforamientos y reducir el peso político del Tribunal Supremo",
+    "marca_actual": [],
+    "texto": "409. **Supresión de los aforamientos y reducción del peso político del Tribunal Supremo.** Con la supresión de los aforamientos, las salas de lo Penal de nombramiento discrecional, en especial la Sala Segunda del Tribunal Supremo, tendrán menos peso político y un carácter más jurisdiccional, como tribunal de casación. Asimismo, la aplicación estricta de los principios de mérito, capacidad y paridad de género restablecerá el prestigio de sus salas, devaluado como consecuencia de la politización de su composición, determinada por el CGPJ."
+   },
+   {
+    "id": "podemos-0436",
+    "partido": "podemos",
+    "titular": "Elegir los vocales judiciales del CGPJ por mayoría absoluta y evitar bloqueos",
+    "marca_actual": [
+     "parlamento"
+    ],
+    "texto": "414. **Renovación y democratización del Consejo General del Poder Judicial y del Tribunal Constitucional.** Reformaremos la legislación para establecer mecanismos efectivos de cese y sustitución de los miembros del CGPJ y del TC una vez agotados sus mandatos, respetando los procedimientos de renovación. Asimismo, reformaremos la Ley Orgánica del Poder Judicial para que la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta y el respaldo de al menos la mitad de los grupos parlamentarios, garantizando el pluralismo y evitando los bloqueos. Mientras no exista una mayoría suficiente para acometer la reforma constitucional que permita su elección directa por la ciudadanía, ampliaremos la participación en la presentación de candidaturas mediante avales ciudadanos y comparecencias públicas. Garantizaremos también que los nombramientos discrecionales respeten los principios de mérito, capacidad, transparencia y paridad de género."
+   },
+   {
+    "id": "podemos-0437",
+    "partido": "podemos",
+    "titular": "Democratizar el acceso a la carrera judicial con la mitad de plazas por concurso",
+    "marca_actual": [],
+    "texto": "415. **Democratizar el acceso a la carrera judicial.** Reformaremos el sistema de acceso y selección de la carrera judicial para combinar los principios de mérito y capacidad con mecanismos de participación ciudadana que refuercen la legitimidad democrática del Poder Judicial. Diseñaremos un sistema de participación directa de la ciudadanía o indirecta a través de sus representantes en los distintos niveles de responsabilidad judicial, garantizando en todo momento la independencia judicial, la imparcialidad y la igualdad. Asimismo, estableceremos un sistema de acceso a la judicatura en el cual la mitad de las plazas sean por concurso, primando la experiencia de los y las profesionales del derecho en el turno de oficio y justicia gratuita y la formación en derechos humanos y derecho antidiscriminatorio, incluida la perspectiva de género e infancia. Todos los jueces y juezas, sean cuales sean su mecanismo de acceso a la carrera deberán realizar prácticas durante al menos dos años en algún turno de oficio o servicio de orientación jurídica. La preparación de las oposiciones se realizará a través de un posgrado universitario a precios públicos con un sistema de becas que garantice el acceso universal, que será común para el acceso a los puestos jurídicos públicos: Fiscalía, Abogacía del Estado y cuerpos superiores de la administración cuya preparación es actualmente privada y generalizadamente opaca al fisco.La Escuela Judicial dejará de depender exclusivamente del CGPJ, y en su dirección y gestión participarán la Universidad y la Abogacía. De sus planes de estudio y su dirección y gestión se dará cuenta anualmente a la Comisión de Justicia del Congreso de los Diputados."
+   },
+   {
+    "id": "adelante-0527",
+    "partido": "adelante",
+    "titular": "Elección directa del CGPJ por la ciudadanía y, mientras, mejorar la parlamentaria",
+    "marca_actual": [],
+    "texto": "472. **Poder judicial democrático y sin bloqueos** — Reformar el Consejo General del Poder Judicial para reforzar su independencia mediante la elección directa por la ciudadanía. Hasta entonces, mejorar la elección parlamentaria de los vocales para ganar pluralidad y transparencia, sin bloqueos partidistas. Todos los nombramientos discrecionales del CGPJ cumplirán los principios de mérito, capacidad y paridad de género. _Porque el reparto partidista del CGPJ ha bloqueado la justicia durante años._"
+   },
+   {
+    "id": "adelante-0531",
+    "partido": "adelante",
+    "titular": "Comisión en el Congreso para preparar las reformas constitucionales del programa",
+    "marca_actual": [],
+    "texto": "476. **Comisión para la reforma constitucional** — Comisión en el Congreso que prepare las reformas de este programa que necesitan cambiar la Constitución: el voto de las personas extranjeras residentes en todas las elecciones, la vivienda como derecho fundamental, el aborto, Andalucía como nacionalidad histórica, el fin de los aforamientos, el Senado territorial, la elección directa del Consejo General del Poder Judicial, el referéndum de iniciativa ciudadana y el referéndum obligatorio de toda reforma constitucional. _Porque muchas de estas reformas necesitan cambiar la Constitución._"
+   },
+   {
+    "id": "erc-0058",
+    "partido": "erc",
+    "titular": "Crear el Consejo de Justicia de Cataluña como órgano desconcentrado del CGPJ",
+    "marca_actual": [],
+    "texto": "41. Crear el Consell de Justícia de Catalunya. Estructurar el govern judicial propi a Catalunya i, per a això, cal impulsar la reforma de la Llei Orgànica del Poder Judicial per fer possible la creació d’un Consell de Justícia de Catalunya, com a òrgan desconcentrat del CGPJ, amb seu a Barcelona i competències sobre govern judicial, territorial, nomenaments, formació, inspecció, disciplina, organització i planta."
+   }
+  ]
+ },
+ {
+  "eje": "eje-lomloe",
+  "pregunta": "¿Qué hacer con la ley educativa vigente (LOMLOE)?",
+  "posiciones": [
+   {
+    "id": "derogar",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o desarrollarla"
+   }
+  ],
+  "n": 3,
+  "palabras": 224,
+  "candidatos": [
+   {
+    "id": "bng-0173",
+    "partido": "bng",
+    "titular": "Diagnóstico: un sistema educativo centralista que impide uno propiamente gallego",
+    "marca_actual": [],
+    "texto": "O actual sistema educativo emana do Estado centralista que, mediante os artigos 3 e 27 da Constitución, asegura a privatización, a confesionalidade e a españolización do ensino. O Estado continúa reservando para si numerosas competencias que impiden conformar un sistema educativo propiamente galego. A reforma da LOMCE coa aplicación da LOMLOE é exemplo de que a alternancia no goberno estatal pode introducir mudanzas, mais o control do sistema educativo é un elemento consubstancial coa visión centralista e unitaria do Estado; unha visión que só o soberanismo puxo e pon en cuestión.\n\nEntre tanto o Estado mantiver as competencias básicas en educación, propomos:"
+   },
+   {
+    "id": "bng-0175",
+    "partido": "bng",
+    "titular": "Leyes gallegas de educación, FP, enseñanzas artísticas y universidades",
+    "marca_actual": [],
+    "texto": "- Estabelecer un marco educativo novo que supere as limitacións competenciais aplicadas por unha visión unitaria do Estado e do sistema educativo, tanto no ensino non-universitario (LOMLOE, LOFP) como no universitario (LOSU) e que, por tanto, parta da configuración plurinacional e plurilingüe do Estado; que Galiza poida organizar e ordenar o sistema educativo mediante unha Lei galega de educación que regule o noso sistema educativo até o Bacharelato, unha Lei galega de formación profesional, unha Lei de ensinanzas artísticas superiores que permita que os centros que imparten estas ensinanzas poidan adscribirse á universidade e unha Lei do Sistema Universitario Galego."
+   },
+   {
+    "id": "bng-0514",
+    "partido": "bng",
+    "titular": "Revertir los aspectos lesivos de la LOMLOE, la LOSU y la Ley de FP",
+    "marca_actual": [],
+    "texto": "- Reverter os aspectos lesivos mantidos ou introducidos pola nova lexislación en materia de ensino na LOMLOE, LOSU e Lei de FP."
+   }
+  ]
+ }
+]

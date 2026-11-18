@@ -1,0 +1,2020 @@
+[
+ {
+  "eje": "eje-jefatura",
+  "pregunta": "¿Monarquía o república?",
+  "posiciones": [
+   {
+    "id": "monarquia",
+    "nombre": "Defender la monarquía o la Corona"
+   },
+   {
+    "id": "republica",
+    "nombre": "Avanzar hacia una república"
+   }
+  ],
+  "n": 43,
+  "palabras": 5601,
+  "candidatos": [
+   {
+    "id": "podemos-0097",
+    "partido": "podemos",
+    "titular": "Nuevo Plan África basado en los derechos humanos y la soberanía de los pueblos",
+    "marca_actual": [],
+    "texto": "84. **Un nuevo Plan África basado en los derechos humanos y la soberanía de los pueblos.** Superaremos, en África, las políticas centradas en la contención de la migración, la securitización de fronteras y la extracción de recursos naturales a través de un nuevo Plan África que ponga en el centro la defensa de los derechos humanos, la profundización democrática, el desarrollo sostenible y la soberanía de los pueblos. Apoyar la búsqueda de resolución pacífica del conflicto en Níger, Sudán, Etiopía, la República Democrática del Congo y los problemas de inestabilidad en el Sahel a partir de un enfoque de seguridad humana integral, derechos humanos y participación de la sociedad civil."
+   },
+   {
+    "id": "podemos-0115",
+    "partido": "podemos",
+    "titular": "Reconocer diplomáticamente a la República Árabe Saharaui Democrática",
+    "marca_actual": [],
+    "texto": "102. **Reconocimiento diplomático de la República Árabe Saharaui Democrática (RASD).** Promoveremos el reconocimiento diplomático de la República Árabe Saharaui Democrática (RASD) por parte de España y el establecimiento de relaciones institucionales de alto nivel con su representante legítimo, el Frente Polisario."
+   },
+   {
+    "id": "podemos-0425",
+    "partido": "podemos",
+    "titular": "Diagnóstico: la Corona, cúspide del sistema, y la corrupción como reparto del poder",
+    "marca_actual": [],
+    "texto": "La Corona representa la cúspide de ese sistema. Una jefatura del Estado designada por Franco, hereditaria y cuyo titular disfruta de inviolabilidad. La opacidad sobre los negocios de la monarquía y sus relaciones corruptas con las grandes fortunas plantea la duda de a quién sirve el poder y ante quién responde. Ningún apellido debería situar a nadie por encima de la ciudadanía, ni ninguna institución puede quedar al margen del escrutinio público.\n\nLa corrupción también debe entenderse como una forma de organizar el poder y distribuir la riqueza. Cuando una empresa consigue contratos mediante favores, cuando una trama financia ilegalmente a un partido o cuando un cargo público termina cobrando de una compañía beneficiada por sus decisiones, se rompe la obligación de gobernar para el interés general. El dinero de todos acaba alimentando beneficios privados. Y quienes se benefician de ese reparto ganan más poder. Mientras, la mayoría paga las consecuencias en servicios públicos deteriorados o recursos que dejan de atender sus necesidades."
+   },
+   {
+    "id": "podemos-0427",
+    "partido": "podemos",
+    "titular": "Horizonte republicano: que la soberanía popular llegue donde manda el dinero",
+    "marca_actual": [],
+    "texto": "Horizonte republicano significa romper ese círculo y hacer que la soberanía popular alcance también los lugares donde hoy manda el dinero. Significa que ninguna fortuna tenga más capacidad de decidir que millones de personas, que las instituciones respondan ante la ciudadanía y que una mayoría democrática pueda transformar la economía sin encontrarse con poderes que se consideran dueños del país. Para que el dinero deje de subir de abajo arriba, el poder tiene que empezar a bajar de arriba abajo."
+   },
+   {
+    "id": "podemos-0428",
+    "partido": "podemos",
+    "titular": "Proceso constituyente y referéndum para elegir entre monarquía y república",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "406. **Proceso constituyente y referéndum sobre la forma de Estado.** Impulsaremos la aprobación de una constitución republicana que incorpore los avances democráticos previstos en este capítulo. Nuestro horizonte político es la acumulación de fuerzas para romper el candado del Régimen del 78 y plantear una tercera república como forma de Estado y la democracia social y participativa como su expresión política: no un simple cambio de jefatura, sino la apertura de un proceso que profundice la democracia, reconozca la plurinacionalidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro. Esta reforma constitucional permitirá, por primera vez, que la ciudadanía decida de forma separada y directa entre monarquía y república, la cuestión que se negó en la “transición”, recuperando el referéndum como instrumento democrático básico para que sea el soberano quien decida."
+   },
+   {
+    "id": "podemos-0429",
+    "partido": "podemos",
+    "titular": "Eliminar la inviolabilidad del Rey y someter a la Casa Real a transparencia",
+    "marca_actual": [],
+    "texto": "407. **Eliminar los privilegios de la Corona y garantizar la transparencia y rendición de cuentas de la Casa Real.** Reformaremos el artículo 56.3 de la Constitución para eliminar la inviolabilidad del Rey y suprimir la referencia a que la justicia se administra en nombre del Rey, reconociendo que emana del pueblo. Someteremos a la Casa Real a las mismas obligaciones de transparencia que al resto de las instituciones públicas, haciendo público el patrimonio de todos sus miembros y sus actividades económicas. Asimismo, impulsaremos una comisión de investigación parlamentaria sobre los negocios de la monarquía y revisaremos las condecoraciones concedidas por Juan Carlos I a dictadores y los títulos nobiliarios otorgados a personas condenadas por corrupción."
+   },
+   {
+    "id": "adelante-0510",
+    "partido": "adelante",
+    "titular": "Suprimir los aforamientos de parlamentarios, Gobierno y Corona",
+    "marca_actual": [],
+    "texto": "455. **Fin de los aforamientos** — Para quienes ocupan escaño en el Congreso y el Senado, el Gobierno y la Corona, mediante reforma constitucional. _Porque los cargos públicos no pueden tener privilegios ante la justicia._"
+   },
+   {
+    "id": "erc-0002",
+    "partido": "erc",
+    "titular": "Tres prioridades: defender el país, la gente y los servicios públicos",
+    "marca_actual": [],
+    "texto": "Aquestes eleccions van de tot això. Però, sobretot, van de tu. De la teva vida, dels teus drets, de les teves oportunitats i del futur que volem construir col·lectivament. Perquè no n’hi ha prou amb resistir davant les amenaces: cal avançar, conquerir nous drets i garantir-nos un bon futur compartit.\n\nDes d’Esquerra Republicana tenim clar què cal fer i assumim el compromís de treballar per aconseguir-ho. Aquest programa electoral recull el nostre projecte i les nostres propostes, articulades al voltant de tres grans prioritats: defensar el país, defensar la gent i defensar els serveis públics.\n\nEns hi deixarem la pell per aturar l’extrema dreta, defensar els teus drets i millorar la teva vida."
+   },
+   {
+    "id": "erc-0003",
+    "partido": "erc",
+    "titular": "Cataluña a punto de colapsar: servicios para seis millones en un país de ocho",
+    "marca_actual": [],
+    "texto": "En aquestes eleccions, els catalans ens hi juguem molt. No només perquè ens trobem en un moment clau per al futur del nostre país, sinó també perquè l’amenaça d’un govern del Partit Popular i de VOX posarà en risc la nostra cultura, la nostra llengua i el nostre autogovern.\n\nCatalunya fa temps que és a punt de col·lapsar. Tenim un país de vuit milions de persones amb unes infraestructures i serveis per a sis milions. I això fa que la qualitat dels serveis públics se’n vegin afectats.\n\nDes de fa temps, Esquerra Republicana, sovint en solitari, ha estat treballant i negociant per aconseguir revertir aquesta situació, mitjançant un acord de finançament que aporti gairebé 5.000 milions d’euros anuals per als nostres serveis públics, la condonació de bona part del deute i la gestió catalana de Rodalies per posar fi a un servei pèssim.\n\nNecessitem una Esquerra Republicana forta per enllestir aquesta tasca i per continuar guanyant sobirania a cada pas, en benefici dels treballadors i les classes mitjanes del país."
+   },
+   {
+    "id": "erc-0004",
+    "partido": "erc",
+    "titular": "Defender lengua, cultura y autogobierno ante un gobierno del PP y Vox",
+    "marca_actual": [],
+    "texto": "Però també necessitarem una Esquerra Republicana forta si, finalment, hi ha un govern del Partit Popular i de VOX a Madrid. Catalunya s’haurà de defensar dels atacs d’aquesta coalició espanyolista que intentarà acabar amb la nostra llengua, la nostra cultura i el nostre autogovern. I, davant d’aquesta amenaça, només una Esquerra Republicana forta podrà defensar el nostre país, la nostra cultura i la nostra gent."
+   },
+   {
+    "id": "erc-0005",
+    "partido": "erc",
+    "titular": "Defensa de la autodeterminación de Cataluña y derogación de la Ley mordaza",
+    "marca_actual": [],
+    "texto": "Catalunya té dret a exercir l’autodeterminació, i són els catalans i les catalanes qui han de decidir el futur polític del país. Com a partit independentista, Esquerra Republicana mai no renunciarà a la llibertat del nostre poble i continuarà defensant que l’autodeterminació és la millor manera de resoldre democràticament el conflicte polític amb l’Estat espanyol.\n\nEl suport a l’independentisme continua ben vigent. El 43 % dels catalans, segons el darrer baròmetre del CEO, es mostra a favor de la independència. La diferència amb els contraris a l’independentisme es troba en els nivells més baixos des de 2022. A més, el 76 % dels catalans està d’acord a exercir el dret a l’autodeterminació. Esquerra Republicana continuarà defensant aquestes posicions polítiques, que es troben al cor de la nostra formació, a les Corts.\n\nTambé cal una Esquerra Republicana forta per persistir en la defensa dels drets i les llibertats en un Estat on s’han vulnerat constantment les darreres dècades. En primer terme, cal derogar la Llei mordassa, una norma absolutament lesiva per als moviments socials i la dissidència política, que va aprovar el PP però que el PSOE ha mantingut. De la mateixa manera, cal suprimir els delictes d’ofensa als sentiments religiosos i d’injúries contra la Corona."
+   },
+   {
+    "id": "erc-0006",
+    "partido": "erc",
+    "titular": "Reparar a las víctimas de la mili y cumplir la Ley de Memoria Democrática",
+    "marca_actual": [],
+    "texto": "En matèria de memòria, cal reconèixer i reparar les víctimes del Servei Militar Obligatori a l’Estat, tal com Esquerra Republicana ha reclamat intensament durant la XV legislatura. A més, cal convertir la comissaria de Policia Nacional de Via Laietana en un espai de memòria i finalitzar l’auditoria de béns espoliats pel franquisme a entitats i associacions, exigint a l’Estat que compleixi amb la Llei de Memòria Democràtica i estableixi les responsabilitats pertinents."
+   },
+   {
+    "id": "erc-0009",
+    "partido": "erc",
+    "titular": "Suprimir los delitos de ofensa religiosa y de injurias a la Corona",
+    "marca_actual": [],
+    "texto": "3. Suprimir els delictes d’ofensa als sentiments religiosos i d’injúries i calúmnies contra la Corona i contra les assemblees legislatives. Eliminar del Codi Penal aquestes previsions que privilegien determinades persones i institucions per sobre d’altres. La seva presència en la legislació penal resulta contraria al principi d’igualtat davant la llei. Cal posar fi als tipus penals que s’usen per combatre la dissidència política i aplicar càstigs exemplars."
+   },
+   {
+    "id": "erc-0015",
+    "partido": "erc",
+    "titular": "Fiscalizar a la Casa Real y poner fin a la monarquía",
+    "marca_actual": [
+     "republica"
+    ],
+    "texto": "9. Impulsar totes les iniciatives parlamentàries oportunes per fiscalitzar l’activitat del rei d’Espanya, la casa reial i la família reial i totes les iniciatives que puguin influir a l’hora de posar fi a aquesta institució contrària al principi democràtic. Donar suport a totes les mesures que puguin contribuir al control de les institucions de la monarquia, l’eliminació dels seus privilegis, la transparència i la fiscalització de la seva activitat econòmica."
+   },
+   {
+    "id": "erc-0016",
+    "partido": "erc",
+    "titular": "El catalán, amenazado: avanzar hacia el reconocimiento efectivo del plurilingüismo",
+    "marca_actual": [],
+    "texto": "El català, la llengua pròpia de Catalunya, té amenaçat l’ús social al carrer, a les institucions i a l’escola. La recuperació de l’ús social de la llengua és una prioritat per a Esquerra Republicana i, a Madrid, lluitarem per impulsar-ne l’ús, afrontar les ingerències de l’Estat i defensar la capacitat de Catalunya de decidir les pròpies polítiques lingüístiques. Defensarem la llengua davant de qualsevol atac.\n\nLa construcció de la identitat nacional espanyola s’ha fet, històricament, a partir de la llengua i la cultura castellanes, tot relegant el català i la resta de llengües pròpies de les diverses nacions de l’Estat a una posició de subordinació i promovent un model d’assimilació cultural.\n\nLes administracions no garanteixen plenament l’exercici dels drets lingüístics i les vulneracions continuen sent habituals, especialment en àmbits com la justícia, l’Administració de l’Estat i els serveis públics. És una realitat que contradiu tant el mandat constitucional de respecte i protecció de les llengües oficials com la Carta Europea de les Llengües Regionals o Minoritàries. Fins que no aconseguim independitzar-nos de l’Estat espanyol, hem d’avançar cap a un reconeixement efectiu del plurilingüisme en tots els àmbits de l’Estat, des de les institucions i els serveis públics fins als centres de treball, l’educació i els mitjans de comunicació."
+   },
+   {
+    "id": "erc-0017",
+    "partido": "erc",
+    "titular": "Diagnóstico: solo el 32,6 % tiene el catalán como lengua habitual",
+    "marca_actual": [],
+    "texto": "Només el 32,6 % de la població té el català com a llengua habitual. Davant d’aquesta situació, Esquerra Republicana continuarà exigint a l’Estat que respecti els drets lingüístics, posi fi a les ingerències en les polítiques lingüístiques de Catalunya i contribueixi activament a revertir el retrocés del català. La pluralitat lingüística és un valor col·lectiu i una riquesa social que cal preservar i promoure, garantint la presència de totes les llengües parlades i signades a Catalunya en tots els àmbits."
+   },
+   {
+    "id": "erc-0034",
+    "partido": "erc",
+    "titular": "Financiación en la línea de un concierto económico solidario con ordinalidad",
+    "marca_actual": [],
+    "texto": "Per posar fil a l’agulla, Esquerra Republicana proposa un model de finançament que avanci en la línia d’un concert econòmic solidari, tal com es preveia a l’Estatut d’Autonomia aprovat pel Parlament el 2006, i que faci efectius els compromisos que el Govern de l’Estat no ha estat capaç de materialitzar aquesta legislatura. Aquest model és la clau de volta per protegir Catalunya de la dreta i l’extrema dreta espanyola, perquè garanteix la capacitat de decisió de la Generalitat en detriment de l’Estat i la dota de sobirania econòmica.\n\nLa proposta d’Esquerra Republicana pretenia posar fi al model de finançament actual, que ha perjudicat no només Catalunya sinó els Països Catalans. Aquesta proposta suposa un guany evident en sobirania, garanteix el principi d’ordinalitat de la despesa per població ajustada i acaba amb el sistema de bestretes, una llosa per a les finances de la Generalitat que Esquerra Republicana no s’ha cansat de denunciar."
+   },
+   {
+    "id": "erc-0035",
+    "partido": "erc",
+    "titular": "Quita de la deuda del FLA y derogación de la LRSAL",
+    "marca_actual": [],
+    "texto": "Més enllà d’aquesta proposta, Esquerra Republicana ha reivindicat també la importància de la quitança del deute del Fons de Liquiditat Autonòmica (FLA), un deute trampós i il·legítim imposat per l’Administració General de l’Estat, mitjançant una proposició de llei que ja era en tramitació parlamentària al Congrés. Aquesta iniciativa corregia part de la injustícia per la qual la Generalitat es va veure forçada a endeutar-se amb l’Estat, especialment la dècada passada, a conseqüència de no poder disposar dels recursos propis que li pertoquen.\n\nTambé destaca la proposta de millora del finançament local, que complementa la proposta, també inclosa al programa, de derogar la Llei de racionalització i sostenibilitat de l’Administració local (LRSAL) i reformar la Llei Orgànica d’Estabilitat Pressupostària i Sostenibilitat Financera. Els ajuntaments catalans han patit les conseqüències d’unes regles fiscals injustes derivades d’aquests textos, que se sumen a un infrafinançament crònic per part de l’Estat. Conjuntament amb els del País Valencià, els ajuntaments catalans son els més mal finançats de tot l’Estat: el 2024, van rebre fins a un 40 % per sota del finançament que rebien els municipis de l’Aragó."
+   },
+   {
+    "id": "erc-0036",
+    "partido": "erc",
+    "titular": "Nuevo modelo de financiación: recaudar todos los impuestos y 4.700 millones más al año",
+    "marca_actual": [],
+    "texto": "23. Aprovar un nou model de finançament per garantir la sobirania dels Països Catalans i el benestar de la ciutadania. Esquerra Republicana va arrencar el compromís del PSC i de l’executiva federal del PSOE d’impulsar un sistema de finançament singular basat en els ingressos, pel qual Catalunya recaptés tots els impostos generats a Catalunya i l’Estat espanyol en sufragués els costos mitjançant un percentatge de participació en aquests impostos. Prenent aquest punt de partida, el passat gener de 2026 es va acordar un nou model de finançament amb el Govern de l’Estat que, per primer cop, garantia l’ingrés directe dels impostos i el compliment del principi d’ordinalitat de la despesa per població ajustada, i suposava uns ingressos addicionals de 4.700 MEUR anuals per a Catalunya. El bloqueig parlamentari ha impedit que aquests acords polítics es poguessin posar en funcionament durant l’anterior legislatura. Ara, resulta urgent combatre el dèficit fiscal i garantir el finançament de les institucions catalanes per mitjà de canvis de model en el sentit dels acords esmentats."
+   },
+   {
+    "id": "erc-0037",
+    "partido": "erc",
+    "titular": "Condonar los más de 17.100 millones de euros del FLA",
+    "marca_actual": [],
+    "texto": "24. Condonar de forma efectiva els més de 17.100 milions d’euros del FLA. Dur a terme la tramitació del projecte de llei impulsat per Esquerra Republicana, que suposa una reducció de deute de la Generalitat equivalent a la inversió que fa en quatre anys. A més, l’eliminació d’aquest deute suposarà un estalvi entorn de 1.500 milions d’euros anuals en interessos abonats per la Generalitat de Catalunya."
+   },
+   {
+    "id": "erc-0048",
+    "partido": "erc",
+    "titular": "Asumir todas las competencias y defender las selecciones deportivas catalanas",
+    "marca_actual": [],
+    "texto": "Com a país amb voluntat d’exercir la seva llibertat, Catalunya aspira a desenvolupar l’autogovern i a assumir plenament totes les competències. Esquerra Republicana continuarà treballant per guanyar àmbits de sobirania, mentre exigeix el finançament necessari per oferir uns serveis públics a l’alçada del que es mereixen els catalans i les catalanes.\n\nEsquerra Republicana també continuarà denunciant les vulneracions del marc competencial del Govern espanyol allà on es produeixin. No permetrem cap passa enrere en l’autogovern de Catalunya, ni en l’àmbit de la salut, ni en el de l’habitatge ni en el de l’educació. Volem preparar el futur del país amb les màximes competències i totes les eines per gestionar-lo com es mereix la ciutadania.\n\nEsquerra Republicana defensa el dret de les seleccions catalanes de competir internacionalment en totes les disciplines esportives, i així ho ha reclamat històricament. El reconeixement de les seleccions catalanes no només es correspon amb les competències que ja té la Generalitat sinó que és una eina clau per a la projecció internacional del país, diferenciada de la visió imposada pel nacionalisme espanyol."
+   },
+   {
+    "id": "erc-0059",
+    "partido": "erc",
+    "titular": "Diagnóstico: crisis del multilateralismo y Cataluña como referente en derechos humanos",
+    "marca_actual": [],
+    "texto": "La crisi del multilateralisme és un dels principals factors explicatius de la inestabilitat del sistema internacional. El sistema de Nacions Unides viu un dels moments més complicats des que es va crear, i aquesta situació es declina en una evident incapacitat per resoldre conflictes en curs o per promoure respostes compartides a reptes com el canvi climàtic o el desenvolupament del Sud Global. El proteccionisme comercial, l’unilateralisme que duu a conflictes bèl·lics a Ucraïna o l’Iran i les retallades en ajut al desenvolupament són expressions paral·leles d’aquesta crisi.\n\nDes d’Esquerra Republicana volem liderar una altra proposta per al sistema internacional, que ancori Catalunya com a referent en drets humans i com a territori compromès amb el sistema de Nacions Unides i la presa de decisions multilateral. I ho volem fer donant veu pròpia a Catalunya, seguint l’obra d’Esquerra Republicana a la Generalitat i denunciant totes les contradiccions de la política exterior espanyola."
+   },
+   {
+    "id": "erc-0060",
+    "partido": "erc",
+    "titular": "Exigir el 0,7 % de ayuda al desarrollo y el catalán oficial en Europa",
+    "marca_actual": [],
+    "texto": "Catalunya ja ha liderat l’aposta per la cooperació al desenvolupament i la justícia global a l’Estat en un context altament desfavorable. A l’Estat, per la presència de governs del PP i de VOX que ataquen en primera instància aquestes polítiques sense pensar que són clau per a la prosperitat, per exemple, de la mateixa conca del Mediterrani. A escala global, aquesta ofensiva és replicada per la internacional de l’extrema dreta, encapçalada pels EUA de Trump. En aquest àmbit, Esquerra Republicana exigim a l’Estat complir amb el compromís d’assolir el 0,7 % en Ajut Oficial al Desenvolupament i permetre a Catalunya participar de manera directa en programes europeus de cooperació.\n\nContinuem exigint també l’oficialitat del català a Europa, una eina importantíssima en clau de reconeixement i protecció legal de la nostra llengua. A més, demanem més presència en els òrgans multilaterals, reflectint un llarg compromís de les institucions i la societat catalana, com també més finançament per a l’ensenyament de la llengua a l’estranger."
+   },
+   {
+    "id": "erc-0061",
+    "partido": "erc",
+    "titular": "Revertir el giro sobre el Sáhara y embargo de armas a Israel",
+    "marca_actual": [],
+    "texto": "En matèria de relacions bilaterals, Esquerra Republicana ha estat una de les veus més crítiques amb el gir del govern del PSOE respecte el Sàhara Occidental. Cal revertir-lo, denunciar les violacions de drets humans del Marroc i exigir que es compleixin les resolucions del Tribunal de Justícia de la Unió Europea. També exigim un embargament complet d’armes a Israel i la suspensió de l’acord d’associació UE-Israel com a resposta al genocidi a Gaza.\n\nPer últim, defensem un rol preponderant de la Unió Europea en el nou tauler internacional. La Unió Europea ha de tenir una veu pròpia més forta al món, compromesa amb l’ajuda a Ucraïna davant l’agressió russa, dotada amb un pressupost comú més ambiciós i autònoma de l’OTAN en matèria de defensa. Una Europa on Catalunya hi ha de tenir veu pròpia com a espai natural de relació política. Un exemple n’és el procés de presa de decisions en matèria econòmica del Semestre Europeu."
+   },
+   {
+    "id": "erc-0066",
+    "partido": "erc",
+    "titular": "Cumplir el 0,7 % de ayuda oficial al desarrollo con cooperación descentralizada y feminista",
+    "marca_actual": [],
+    "texto": "46. Complir amb el compromís del 0,7 % d’Ajut Oficial al Desenvolupament. Donar el compliment efectiu al compromís del 0,7 % de l’AOD (Ajuda Oficial al Desenvolupament), com ja ha impulsat la Generalitat de Catalunya a instància d’Esquerra Republicana. A més, cal garantir que un percentatge vinculant d’aquests recursos es canalitzi mitjançant la cooperació descentralitzada i feminista, evitant la centralització dels fons europeus en l’administració central."
+   },
+   {
+    "id": "erc-0072",
+    "partido": "erc",
+    "titular": "Presupuesto europeo ambicioso y descentralizado con un impuesto digital a grandes plataformas",
+    "marca_actual": [],
+    "texto": "52. Apostar per un pressupost europeu ambiciós i descentralitzat. Exigir a l’Estat espanyol que, durant les negociacions per al Marc Financer Pluriennal (MFP), defensi el principi de governança multinivell, un pilar fonamental per a la política de cohesió europea durant dècades, i s’oposi a la recentralització de programes gestionats per autoritats locals i de territoris com Catalunya. A més, Esquerra Republicana aposta per un pressupost europeu ambiciós, que pugui fer front a reptes compartits en matèria de canvi climàtic, competitivitat o reindustrialització, i que disposi de noves fonts d’ingressos propis europeus, com ara un impost digital dirigit a les grans plataformes tecnològiques."
+   },
+   {
+    "id": "erc-0075",
+    "partido": "erc",
+    "titular": "Balance: la riqueza no ha llegado a la gente tras ocho años de PSOE-Sumar",
+    "marca_actual": [],
+    "texto": "Després de vuit anys de govern de PSOE i Sumar, si alguna cosa ha caracteritzat aquest govern és que, si no hi ha la força d’Esquerra Republicana, Bildu, BNG i altres forces progressistes sobiranistes que els obliguen, no s’haurien fet la majoria dels avenços socials d’aquests darrers anys. Però ha estat una legislatura amb moltes ombres. En un període en què l’economia no ha deixat de créixer, aquesta riquesa no ha arribat a la ciutadania. Encara pitjor, la vida ha empitjorat per a la majoria de la gent treballadora i les classes mitjanes del nostre país.\n\nL’encariment del preu de l’habitatge, la impossibilitat d’accedir-hi de joves i no tan joves i l’encariment de la vida, que ha suposat que els preus hagin pujat molt més que els sous, han perjudicat la majoria de la població.\n\nDavant d’aquests que han estat governant i només celebren les dades macroeconòmiques sense ser conscients de com ha empitjorat el dia a dia de les famílies, Esquerra Republicana és qui més ha defensat els treballadors i les classes mitjanes i ho continuarà fent en el proper mandat, perquè la lluita contra l’encariment de la vida i l’accés a l’habitatge són dues de les nostres prioritats, a més de la defensa dels drets socials i els serveis públics de qualitat."
+   },
+   {
+    "id": "erc-0076",
+    "partido": "erc",
+    "titular": "Defender los derechos sociales ante un posible gobierno de derecha y extrema derecha",
+    "marca_actual": [],
+    "texto": "Uns drets que es poden veure afectats per un possible govern de dreta i extrema dreta que retallarà serveis públics, deixarà l’habitatge encara més a mans del mercat i provocarà que l’encariment continuï escalant. Davant la deixadesa d’uns i l’atac frontal als drets socials i l’economia familiar dels altres, només una Esquerra Republicana forta pot defensar la nostra gent."
+   },
+   {
+    "id": "erc-0078",
+    "partido": "erc",
+    "titular": "Traspasar a la Generalitat los medios de vivienda y limitar los usos especulativos",
+    "marca_actual": [],
+    "texto": "Esquerra Republicana, davant d’aquesta emergència d’habitatge, defensa que l’Estat traspassi a la Generalitat de Catalunya, competent en matèria d’habitatge, tots els mitjans necessaris per garantir l’accés a un lloguer assequible i a un habitatge en propietat. Per això, es planteja el traspàs dels pisos de la SAREB a la Generalitat de Catalunya, l’habilitació per aprovar una llei d’arrendaments urbans (LAU) catalana i el traspàs de recursos necessaris per ampliar el parc públic d’habitatge. Alhora, Esquerra Republicana defensa que l’Administració General de l’Estat, des dels seus àmbits competencials, adopti les mesures necessàries per garantir el dret a l’habitatge. Així, es planteja que es limiti els usos especulatius i efectuï una reforma fiscal que incentivi que els habitatges es destinin a primera residència i en combati els usos especulatius. L’objectiu és incrementar la disponibilitat de pisos i cases per viure-hi i garantir que l’habitatge compleixi la seva funció social com a llar.\n\nPerquè una societat justa és una societat en què tothom pot tenir una llar digna, independentment de la seva edat, situació econòmica o municipi on visqui. Per a Esquerra Republicana, l’habitatge és un dret, no un privilegi."
+   },
+   {
+    "id": "erc-0091",
+    "partido": "erc",
+    "titular": "Reindustrialización verde, salario mínimo catalán y reforma del IRPF y el IVA",
+    "marca_actual": [],
+    "texto": "Davant d’aquest panorama, Esquerra Republicana aposta tant per mesures estructurals que ens permetin avançar cap a un model econòmic més inclusiu, fomentant la reindustrialització verda, com per mesures de suport a la classe treballadora que pateix les conseqüències d’un model econòmic basat en salaris baixos.\n\nEntre altres mesures, Esquerra Republicana fa anys que reclama que Catalunya tingui un salari mínim propi, que reflecteixi el cost de vida més alt que el d’altres territoris de l’Estat. També defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+   },
+   {
+    "id": "erc-0102",
+    "partido": "erc",
+    "titular": "Concentración bancaria y apuesta por más intervención pública y banca pública",
+    "marca_actual": [],
+    "texto": "A l’Estat espanyol, aquesta tendència ha estat visible els darrers quinze anys amb el procés de concentració bancària que ha esborrat el model de caixes d’estalvi arrelades al territori i amb una funció social. Els grans bancs que n’han resultat han assolit els darrers anys beneficis rècord i nodreixen un IBEX-35 en què també hi destaquen les grans empreses energètiques o constructores, que es beneficien de la capacitat de capturar recursos de l’Estat i de tècniques d’elusió fiscal que els permeten abonar uns tipus efectius inferiors als de no només la classe treballadora sinó també de moltes petites i mitjanes empreses.\n\nDes d’Esquerra Republicana proposem una intervenció més gran del sector públic en l’economia, especialment encaminada a accelerar la transició ecològica. També exigim més justícia fiscal en la tributació dels grans patrimonis, la banca i les empreses energètiques, mentre continuem reivindicant la banca pública amb l’ICF al capdavant. Per últim, també proposem una passa endavant en la fiscalitat verda, on l’Estat es troba a la cua d’Europa, seguint les passes ambicioses que ja ha fet la Generalitat de Catalunya."
+   },
+   {
+    "id": "erc-0117",
+    "partido": "erc",
+    "titular": "Blindar las políticas feministas, los derechos LGBTI+ y el antirracismo",
+    "marca_actual": [],
+    "texto": "Malauradament, arribem a aquest escenari després d’una legislatura marcada per la manca d’ambició política del Ministeri d’Igualtat del Govern espanyol, que no ha impulsat les transformacions necessàries. Davant l’immobilisme del Govern espanyol i l’amenaça de les dretes, Esquerra Republicana defensa blindar les polítiques feministes, reforçar la protecció i reparació davant totes les violències masclistes, garantir els drets sexuals i reproductius i avançar en el reconeixement de la diversitat familiar, els drets de les persones cuidadores i la corresponsabilitat de les cures.\n\nLa defensa dels drets LGBTI+ exigeix continuar eliminant les discriminacions legals i socials, reconèixer totes les identitats de gènere i models familiars, combatre les pràctiques de conversió i reparar la persecució històrica d’aquest col·lectiu. Alhora, la lluita contra el racisme i la xenofòbia ha de ser una prioritat de les polítiques públiques, combatent la discriminació estructural i institucional, garantint la igualtat d’oportunitats i reforçant la resposta davant els delictes d’odi, les organitzacions racistes i els discursos discriminatoris, especialment en els entorns digitals. L’origen, el color de pell o la situació administrativa no poden justificar cap forma de discriminació ni d’exclusió."
+   },
+   {
+    "id": "erc-0118",
+    "partido": "erc",
+    "titular": "Una sociedad feminista, diversa y libre de discriminaciones",
+    "marca_actual": [],
+    "texto": "Esquerra Republicana defensa una societat feminista, diversa i lliure de discriminacions, on totes les persones puguin viure amb dignitat, llibertat i igualtat de drets. Avançar en feminisme, drets LGBTI+ i antiracisme és avançar en justícia social i democràcia, respectant les competències de Catalunya i reforçant la seva capacitat per desenvolupar polítiques pròpies."
+   },
+   {
+    "id": "erc-0136",
+    "partido": "erc",
+    "titular": "Reforzar la financiación de la Seguridad Social, sin recortes ni privatización",
+    "marca_actual": [],
+    "texto": "La Seguretat Social és una de les grans conquestes de la classe treballadora i el principal instrument de solidaritat col·lectiva per garantir una protecció econòmica davant la malaltia, la desocupació o la vellesa. L’envelliment de la població i la jubilació de la generació del baby boom plantegen reptes per al sosteniment del sistema públic de pensions, però la resposta no pot ser retallar drets ni privatitzar les pensions, sinó reforçar-ne el finançament. Esquerra Republicana defensem un model econòmic que generi ocupació de qualitat, salaris més elevats i noves fonts d’ingressos perquè els grans beneficis empresarials i les rendes del capital també contribueixin al sosteniment de la Seguretat Social."
+   },
+   {
+    "id": "erc-0161",
+    "partido": "erc",
+    "titular": "Diagnóstico: debilitamiento industrial europeo y necesidad de autonomía estratégica",
+    "marca_actual": [],
+    "texto": "Catalunya ha Estat, és i ha de continuar sent una potència industrial. Des d’Esquerra Republicana treballarem per garantir el futur industrial de Catalunya i per estar preparats per liderar els nous àmbits en què podem excel·lir com a país.\n\nUn dels efectes més clars de la globalització ha estat el debilitament del teixit industrial europeu, que ha vist reduït el seu pes fins a tan sols el 14 % del PIB del continent. Els darrers anys, aquesta tendència s’ha accelerat a partir de dos fenòmens ben visibles. El primer és el xoc xinès 2.0, pel qual el gegant xinès ha augmentat exponencialment les vendes a Europa, guanyant un gran poder de mercat en sectors clau com el de l’automòbil. Aquesta tendència ha fet posar el crit d’alarma al cor exportador de la Unió Europea i ha ocupat bona part de les converses sobre política comercial del bloc.\n\nD’altra banda, la COVID-19 va posar de manifest les debilitats europees en períodes d’inestabilitat i crisi i ha situat dos conceptes al centre de la conversa econòmica. El primer és la resiliència, que anima a localitzar cadenes de valor dins del continent, especialment en sectors crítics. El segon és l’autonomia estratègica, que es declina en més sobirania tecnològica, industrial, alimentària o econòmica."
+   },
+   {
+    "id": "erc-0162",
+    "partido": "erc",
+    "titular": "Proteger la química y la automoción con una política industrial activa",
+    "marca_actual": [],
+    "texto": "Aquestes lliçons tenen una expressió clara en la política industrial. Així, la Unió Europea està impulsant un paquet de mesures legislatives per fomentar la descarbonització i la reindustrialització que posen el focus en sectors altament estratègics, com ara el vehicle elèctric, el sector químic, les energies renovables o les matèries primeres crítiques.\n\nDavant les amenaces que pateix la química o la producció de vehicles a Catalunya, ens sembla urgent protegir aquests sectors, que ofereixen llocs de treball qualificats, estabilitat i capacitats tecnològiques i industrials clau en el món actual. Però no només això: cal també exigir una política industrial activa que fomenti el desenvolupament de sectors en ascens i que permeti al teixit econòmic català continuar competint a escala global.\n\nEn aquest sentit, des d’Esquerra Republicana apostem per una administració emprenedora que lideri la transformació del model econòmic amb instruments públics i participació en empreses estratègiques.\n\nTambé apostem per les pimes com a peça clau del teixit econòmic català i que sovint es troben amb dificultats per obtenir finançament adequat per créixer."
+   },
+   {
+    "id": "erc-0223",
+    "partido": "erc",
+    "titular": "Defender los servicios públicos frente a recortes y privatizaciones",
+    "marca_actual": [],
+    "texto": "Per a Esquerra Republicana, els serveis públics són totalment prioritaris i els defensarem amb aferrissament. Són els serveis públics els que ens garanteixen una societat justa i cohesionada, i són els serveis públics els que fan millors les societats.\n\nEn els darrers anys, a Catalunya patim un desgast evident dels nostres serveis públics. No tenim uns serveis públics dimensionats per a la població actual i la manca de finançament ha fet que la qualitat dels nostres serveis se n’hagi vist afectada. Per això hem batallat per aconseguir un acord de finançament imprescindible per als nostres serveis públics i per això hem treballat perquè Catalunya governi Rodalies i les seves infraestructures. Només amb més finançament i guanyant sobirania a l’Estat podrem millorar els nostres serveis públics.\n\nDavant la possibilitat d’un govern de dreta i extrema dreta que retallarà en allò que és troncal per a qualsevol societat —educació, sanitat, polítiques socials— cal algú prou fort per enfrontar-s’hi i defensar els serveis públics. Esquerra Republicana serem el mur de contenció contra l’onada privatitzadora d’aquesta dreta extrema que parla amb arrogància de possibles retallades.\n\nCatalunya ha de defensar els seus serveis públics i els ha de reforçar per poder tenir un país a l’alçada de la seva gent. I el compromís d’Esquerra Republicana és el de trencar-se la cara per defensar-los."
+   },
+   {
+    "id": "erc-0261",
+    "partido": "erc",
+    "titular": "Completar el despliegue de competencias de los Mossos d'Esquadra",
+    "marca_actual": [],
+    "texto": "La seguretat és un dret de la ciutadania i una responsabilitat fonamental dels poders públics. Catalunya disposa d’un model de policia integral articulat al voltant del Cos de Mossos d’Esquadra, però encara hi ha competències per desplegar, limitacions en l’accés a la informació policial i mancances de coordinació que dificulten una resposta plenament eficaç davant la delinqüència.\n\nDefensem una política de seguretat que combini la prevenció, la capacitat d’investigació, la mediació i la resposta efectiva davant els delictes, amb una justícia dotada dels recursos necessaris per actuar amb agilitat i garantir la protecció de les víctimes. Tot això requereix completar el desplegament de les competències del Cos de Mossos d’Esquadra, reforçar les policies locals —posant l’èmfasi en els municipis petits i mitjans— i millorar la cooperació entre cossos policials i serveis d’emergències.\n\nEsquerra Republicana reclamem també que Catalunya pugui exercir plenament les seves competències en seguretat, trànsit i protecció civil perquè volem una seguretat pública més coordinada, amb més recursos i capacitat d’actuació i que garanteixi una resposta adequada a tots els territoris de Catalunya."
+   },
+   {
+    "id": "erc-0265",
+    "partido": "erc",
+    "titular": "Incorporar 180 plazas de jueces en Cataluña entre 2026 y 2027",
+    "marca_actual": [],
+    "texto": "212. Garantir més recursos judicials per agilitzar els procediments i acabar amb la impunitat. Cal continuar apostant pel desplegament de noves places de jutges i jutgesses a Catalunya, garantint el compliment de l’acord a iniciativa d’Esquerra Republicana per incorporar 180 places entre 2026 i 2027 per accelerar els tràmits judicials, especialment els derivats de processos de reincidència, el cost del qual, per al Govern, serà de 20 milions d’euros anuals. Defensar també una distribució territorial de les places d’acord amb la càrrega de treball dels òrgans judicials."
+   },
+   {
+    "id": "erc-0270",
+    "partido": "erc",
+    "titular": "Municipalismo fuerte y reforma de la Ley de bases del régimen local",
+    "marca_actual": [],
+    "texto": "Els ajuntaments són la institució més propera a la ciutadania i la primera porta d’accés a molts serveis públics. Sovint són l’administració des d’on s’atenen més bé les necessitats dels ciutadans. Però els ajuntaments catalans pateixen un greu infrafinançament, agreujat per les dificultats de disposar de personal tècnic en zones rurals, i es troben amb serioses dificultats per oferir serveis públics de qualitat.\n\nEsquerra Republicana defensem un municipalisme fort, basat en l’autonomia local, la suficiència financera i el principi de subsidiarietat. Cal que les competències s’exerceixin des de l’administració més propera, prestant serveis amb garanties i assegurant els recursos humans i econòmics necessaris. Així mateix, és necessari que clarifiquem les responsabilitats de cada administració, eliminem duplicitats innecessàries i simplifiquem els procediments per reduir les càrregues administratives que suporta la ciutadania, les empreses i els treballadors públics. Cal modificar la Llei 7/1985, de 2 d’abril, reguladora de les bases del règim local PER clarificar les competències locals i flexibilitzar les condicions per remunicipalitzar serveis actualment externalitzats."
+   },
+   {
+    "id": "erc-0271",
+    "partido": "erc",
+    "titular": "Financiación local ligada a las competencias y al coste de vida",
+    "marca_actual": [],
+    "texto": "Esquerra Republicana apostem per una administració moderna, transparent, accessible i eficient, que reforci la professionalització dels serveis públics i fomenti la cooperació voluntària entre municipis. És necessari que tots els pobles i ciutats de Catalunya, independentment de la dimensió que tinguin, disposin dels recursos i les eines necessàries per donar resposta a les necessitats de la ciutadania.\n\nPer tot això, proposem una reforma del sistema de finançament que vinculi els recursos disponibles a les competències exercides i al cost de vida de cada territori. També exigim que es faci un repartiment just dels tributs i ingressos públics, que eviti que els ajuntaments hagin de compensar la manca de recursos amb un sobreesforç en forma de pressió fiscal sobre la ciutadania. Aquest finançament ha de reconèixer les circumstàncies excepcionals dels municipis en àrees turístiques i ha d’anar acompanyat de recursos humans, com ara secretaris i interventors, adaptats a la realitat de Catalunya."
+   },
+   {
+    "id": "pnv-0178",
+    "partido": "pnv",
+    "titular": "Reformar los delitos de opinión sobre la Corona, las instituciones y los símbolos",
+    "marca_actual": [],
+    "texto": "3. Favorecer la reforma del Código Penal en los delitos relacionados con la expresión de opiniones sobre la Corona, las instituciones y los símbolos del Estado, adecuando la legislación a los estándares europeos de libertad de expresión."
+   },
+   {
+    "id": "bildu-0173",
+    "partido": "bildu",
+    "titular": "Una democratización que respete los derechos nacionales del pueblo vasco",
+    "marca_actual": [],
+    "texto": "Un régimen sustentado durante décadas por los diferentes partidos y gobiernos españoles, que ha hecho valer sus estructuras y aparatos, como el judicial o el policial, durante décadas contra el independentismo vasco y la disidencia política y que, hoy, se encuentra plenamente al servicio del bloque reaccionario; los privilegios de clase que establecieron el sistema económico neoliberal, siguen hoy blindando los privilegios de las elites sobre las clases populares y trabajadoras; la corrupción estructural e intrínseca que ha corrompido a los diferentes partidos y gobiernos españoles o la función garante de todo ello de monarquía heredera directa del franquismo, son expresiones de un régimen que se revuelve frente a las cada vez mayores pulsiones democratizadoras y soberanistas.\n\nEs por eso que es necesaria una profunda democratización que acabe con las imposiciones que como nación y clase aún padecemos, abriendo las puertas a un nuevo ciclo histórico en los que sean posibles nuevos escenarios basados en el respeto a los derechos nacionales, sociales, lingüísticos y culturales de nuestro pueblo y nuestra sociedad.\n\nPara hacer todo ello posible, trabajaremos por avanzar en los siguientes ámbitos:"
+   }
+  ]
+ },
+ {
+  "eje": "eje-lengua",
+  "pregunta": "¿Qué lengua en la escuela?",
+  "posiciones": [
+   {
+    "id": "espanol",
+    "nombre": "Garantizar el español como lengua vehicular"
+   },
+   {
+    "id": "cooficiales",
+    "nombre": "Proteger las lenguas cooficiales y la inmersión"
+   }
+  ],
+  "n": 76,
+  "palabras": 3885,
+  "candidatos": [
+   {
+    "id": "podemos-0274",
+    "partido": "podemos",
+    "titular": "Preservar las cuotas de pantalla para las lenguas oficiales del Estado",
+    "marca_actual": [],
+    "texto": "256. **Preservar las cuotas de pantalla para las Lenguas Oficiales del Estado y fomentar su uso en la producción audiovisual,** con el objetivo de visibilizar la situación plurilingüe del Estado a la vez que se refuerza el tejido empresarial y profesional en todo el territorio."
+   },
+   {
+    "id": "podemos-0310",
+    "partido": "podemos",
+    "titular": "Educación democrática, alfabetización mediática y enseñanza de lenguas cooficiales",
+    "marca_actual": [],
+    "texto": "292. **Impulsar una educación democrática, crítica y comprometida con la diversidad cultural y lingüística.** Incorporaremos una educación democrática en todas las etapas educativas que permita al alumnado conocer sus derechos fundamentales, el funcionamiento de las instituciones, el acceso y disfrute de los servicios públicos y los principios básicos del derecho constitucional y administrativo. Impulsaremos planes de participación democrática en los centros mediante asambleas, presupuestos participativos y comisiones con representación del alumnado, el profesorado y las familias, para que la comunidad educativa participe en las decisiones que afectan a su entorno. Desarrollaremos un programa estatal de alfabetización científica, digital y mediática que enseñe a contrastar información, interpretar datos, comprender el funcionamiento de los algoritmos y la inteligencia artificial y combatir la desinformación. Pondremos a disposición de los centros herramientas educativas públicas, abiertas e independientes de los intereses comerciales de las plataformas digitales. Garantizaremos la promoción y enseñanza de las lenguas cooficiales y propias de los distintos pueblos del Estado, asegurando una oferta educativa suficiente para estudiar todas las lenguas reconocidas legalmente en los diferentes territorios y, cuando exista demanda, las de otros territorios. Adaptaremos la normativa de especialidades docentes para garantizar su enseñanza en todas las etapas educativas, incluida la Formación Profesional y las enseñanzas de régimen especial."
+   },
+   {
+    "id": "adelante-0136",
+    "partido": "adelante",
+    "titular": "Aulas de acogida lingüística para el alumnado extranjero sin español",
+    "marca_actual": [],
+    "texto": "94. **Aulas de acogida lingüística** — Personal en todos los centros con alumnado extranjero para que quien llega sin español pueda seguir las clases. _Porque nadie puede aprender en una lengua que todavía no entiende._"
+   },
+   {
+    "id": "adelante-0653",
+    "partido": "adelante",
+    "titular": "Reconocer y proteger el romanó y el caló",
+    "marca_actual": [],
+    "texto": "594. **El romanó y el caló, lenguas protegidas** — Reconocimiento, estudio y difusión. _Porque sus lenguas son parte de nuestro patrimonio._"
+   },
+   {
+    "id": "adelante-0667",
+    "partido": "adelante",
+    "titular": "Institución que estudie y promueva las hablas andaluzas",
+    "marca_actual": [],
+    "texto": "606. **Institución de las hablas andaluzas** — Impulsar y fomentar las hablas andaluzas con una institución que las estudie, documente y promueva y combata los prejuicios, sin imponer una sola forma de hablar. _Porque las hablas andaluzas son una riqueza y no un error._"
+   },
+   {
+    "id": "adelante-0668",
+    "partido": "adelante",
+    "titular": "Presencia del habla andaluza en medios públicos y protocolos contra la discriminación lingüística",
+    "marca_actual": [],
+    "texto": "607. **Respeto al habla andaluza en lo público** — Presencia normalizada en los medios públicos estatales y protocolos contra la discriminación lingüística. _Porque nadie debería sentirse menos por su forma de hablar._"
+   },
+   {
+    "id": "adelante-0669",
+    "partido": "adelante",
+    "titular": "Apoyar la escritura en andaluz como la EPA, sin carácter obligatorio",
+    "marca_actual": [],
+    "texto": "608. **Apoyo a la escritura en andaluz** — Respaldo y difusión de propuestas de escritura en andaluz como la EPA, como expresión cultural y sin carácter obligatorio. _Porque escribir en andaluz es una expresión cultural legítima._"
+   },
+   {
+    "id": "bng-0105",
+    "partido": "bng",
+    "titular": "Admitir el conocimiento del gallego como criterio para la nacionalidad española",
+    "marca_actual": [],
+    "texto": "A garantía ao acceso á lingua galega debe ser parte integral do proceso de acollida desde o primeiro momento. Aprender galego é un dereito e unha ferramenta de participación plena na vida social, cultural e democrática do país e fomenta a identificación con Galiza e o seu pobo. Demandamos tamén que un acreditado coñecemento da lingua e cultura galegas sexa admitido como criterio para acceder á nacionalidade española, con independencia do coñecemento do español, ao demostrar unha integración na sociedade galega e unha vontade clara de pertencer a ela.\n\nNos últimos anos vemos con enorme preocupación o avance de discursos de odio aberta e desacomplexadamente racistas e xenófobos que poñen en cuestión e ameazan os dereitos máis básicos e fundamentais das persoas inmigrantes e do conxunto da sociedade.\n\nPara unha forza política como o BNG, construír sociedades inclusivas, orgullosas da súa diversidade e nas que os dereitos humanos de todas as persoas sexan garantidos é unha obriga; porén, na actualidade isto non é así. Moitas persoas son vítimas de comportamentos e actitudes discriminatorias, racistas e xenófobas que proceden do ámbito privado mais tamén do público.\n\nDesde o Bloque Nacionalista Galego asumimos o compromiso de:"
+   },
+   {
+    "id": "bng-0406",
+    "partido": "bng",
+    "titular": "La plena normalización del gallego frente a las trabas de la Administración del Estado",
+    "marca_actual": [],
+    "texto": "A plena normalización da nosa lingua é un obxectivo prioritario e que debe ser asumido como tal por todas as Administracións públicas e polo conxunto da nosa sociedade. Porén, a Administración do Estado é unha fonte permanente de trabas e de obstáculos para o uso do galego con normalidade e para o respecto dos dereitos lingüísticos de galegas e dos galegos.\n\nNese sentido, en canto Galiza non tiver a plena capacidade de decidir sobre a política lingüística necesaria para garantir a normalización, o BNG traballará por:"
+   },
+   {
+    "id": "bng-0407",
+    "partido": "bng",
+    "titular": "Plan estatal de apoyo a los medios de comunicación en lenguas minorizadas",
+    "marca_actual": [],
+    "texto": "- Impulsar un plan estatal de apoio aos medios de comunicación en linguas minoradas."
+   },
+   {
+    "id": "bng-0408",
+    "partido": "bng",
+    "titular": "Presencia regular del gallego y la cultura gallega en RTVE",
+    "marca_actual": [],
+    "texto": "- Garantir a presenza regular da lingua e das producións culturais galegas na RTVE, tanto nas desconexións para Galiza como na programación para todo o Estado."
+   },
+   {
+    "id": "bng-0409",
+    "partido": "bng",
+    "titular": "Más horas de desconexión en gallego en TVE hacia un canal propio",
+    "marca_actual": [],
+    "texto": "- Incrementar as horas de desconexión territorial en galego na TVE, no horizonte de crear un novo canal de TV en galego."
+   },
+   {
+    "id": "bng-0410",
+    "partido": "bng",
+    "titular": "Recuperar Radio4, la emisora de RNE en gallego",
+    "marca_actual": [],
+    "texto": "- Recuperar a Radio4, emisora da RNE en galego."
+   },
+   {
+    "id": "bng-0411",
+    "partido": "bng",
+    "titular": "Incluir el gallego como opción en la programación de Clan TV",
+    "marca_actual": [],
+    "texto": "- Incluír o galego como opción na programación do ClanTV."
+   },
+   {
+    "id": "bng-0412",
+    "partido": "bng",
+    "titular": "Garantizar y aumentar las ayudas del Ministerio de Cultura al audiovisual en gallego",
+    "marca_actual": [],
+    "texto": "- Garantir e incrementar a liña de axudas dirixida especificamente a longametraxes, curtametraxes e producións audiovisuais en galego por parte do Ministerio de Cultura."
+   },
+   {
+    "id": "bng-0413",
+    "partido": "bng",
+    "titular": "Reformar la Ley del audiovisual para la igualdad de las lenguas oficiales",
+    "marca_actual": [],
+    "texto": "- Reformar a Lei do audiovisual para garantir a plena igualdade de todas as linguas oficiais do Estado. Exixir ás plataformas a dispoñibilidade das producións do seu catálogo con dobraxe e lexendaxe en galego, especialmente nos contidos dirixidos ao público infantil, ademais de mellorar a definición e regulación das produtoras independentes e a promoción e normalización da lingua galega no mundo audiovisual."
+   },
+   {
+    "id": "bng-0414",
+    "partido": "bng",
+    "titular": "Convenios para enseñar gallego en secundaria y EOI de otros territorios",
+    "marca_actual": [],
+    "texto": "- Impulsar os convenios para o ensino do galego como segundo idioma na educación secundaria e nas Escolas Oficiais de Idiomas noutros territorios do Estado."
+   },
+   {
+    "id": "bng-0415",
+    "partido": "bng",
+    "titular": "Convenios para enseñar gallego en los territorios gallegohablantes limítrofes",
+    "marca_actual": [],
+    "texto": "- De forma especial, garantir a sinatura de convenios para ensino do galego en toda a etapa educativa nos territorios galegofalantes de comunidades limítrofes."
+   },
+   {
+    "id": "bng-0416",
+    "partido": "bng",
+    "titular": "Aumentar la cofinanciación de las instituciones lingüísticas y culturales gallegas",
+    "marca_actual": [],
+    "texto": "- Aumentar o cofinanciamento das institucións lingüísticas e culturais do noso país."
+   },
+   {
+    "id": "bng-0417",
+    "partido": "bng",
+    "titular": "Ayudas a la creación literaria en gallego sin exigir traducción al español",
+    "marca_actual": [],
+    "texto": "- Garantir unha liña de axudas específica para a creación literaria en galego, eliminando o requisito de ter que entregar traducidas esas obras ao español."
+   },
+   {
+    "id": "bng-0420",
+    "partido": "bng",
+    "titular": "Normalizar el uso del gallego en la Administración central y entre su funcionariado",
+    "marca_actual": [],
+    "texto": "- Asegurar a plena normalización do uso da lingua galega por parte da Administración central, encomezando polo coñecemento do galego entre o funcionariado para así garantir os dereitos lingüísticos na relación entre esta e as empresas que traballan para ela."
+   },
+   {
+    "id": "bng-0421",
+    "partido": "bng",
+    "titular": "Respetar la toponimia gallega en el Estado y en las apps de geolocalización",
+    "marca_actual": [],
+    "texto": "- Garantir o estrito respecto da nosa toponimia por parte de todos os organismos da administración do Estado, así como exixir o respecto pola legalidade por parte das apps de xeolocalización que seguen a utilizar nomenclatura deturpada."
+   },
+   {
+    "id": "bng-0422",
+    "partido": "bng",
+    "titular": "Oficializar la toponimia marítima gallega en su forma original",
+    "marca_actual": [],
+    "texto": "- Realizar as mudanzas legais precisas para oficializar na súa orixinalidade galega a toponimia marítima na costa galega: nomes de distritos e provincias marítimas, matriculación de embarcacións e cartografía marítima e cartas náuticas, avisos a navegantes, e denominación dos accidentes xeográficos (nomes das rías, illas, puntas, cantís, etc.)."
+   },
+   {
+    "id": "bng-0423",
+    "partido": "bng",
+    "titular": "Aceptar como oficial la documentación en gallego ante la Administración del Estado",
+    "marca_actual": [],
+    "texto": "- Impulsar as modificacións legais para que, de acordo con todas as ferramentas tecnolóxicas hoxe dispoñíbeis, a documentación en galego sexa aceptada como oficial para calquera xestión coa Administración Xeral do Estado."
+   },
+   {
+    "id": "bng-0424",
+    "partido": "bng",
+    "titular": "Cumplir la oficialidad del gallego en la Administración de Justicia",
+    "marca_actual": [],
+    "texto": "- Cumprir coa oficialidade do galego na Administración de Xustiza, no horizonte de promovelo a lingua preferente nas resolucións, comunicacións e notificacións de oficio dos órganos administrativos. Impulsaranse plans piloto, formación e incentivos profesionais para garantir a oficialidade real do galego."
+   },
+   {
+    "id": "bng-0425",
+    "partido": "bng",
+    "titular": "Disponibilidad plena del gallego en todos los trámites digitales del Estado",
+    "marca_actual": [],
+    "texto": "- Garantir a dispoñibilidade plena do galego en toda a Administración Xeral do Estado e nas súas plataformas dixitais, habilitando a opción de galego en todas as tramitacións telemáticas, formularios, notificacións e canles de atención de todos os organismos estatais, en igualdade real de condicións co castelán, tanto na web como nas aplicación móbeis e nos sistemas de identificación e sinatura dixitais."
+   },
+   {
+    "id": "bng-0426",
+    "partido": "bng",
+    "titular": "Que los sistemas de IA y atención automatizada del Estado funcionen en gallego",
+    "marca_actual": [],
+    "texto": "- Garantir que todos os sistemas de IA, atención automatizada e administración dixital do Estado funcionen plenamente en galego (chatbots, asistentes virtuais, formularios intelixentes etc)."
+   },
+   {
+    "id": "bng-0427",
+    "partido": "bng",
+    "titular": "Financiar tecnologías del habla y modelos de lengua en gallego",
+    "marca_actual": [],
+    "texto": "- Promover liñas específicas de financiamento para garantir actualización en galego de tecnoloxías da fala, modelos de lingua, ferramentas educativas dixitais etc."
+   },
+   {
+    "id": "bng-0428",
+    "partido": "bng",
+    "titular": "Derecho a estudiar y examinarse en gallego en la UNED",
+    "marca_actual": [],
+    "texto": "- Garantir o dereito a estudar e realizar os exames da UNED en galego."
+   },
+   {
+    "id": "bng-0429",
+    "partido": "bng",
+    "titular": "Incluir el gallego como optativa en la Acción Educativa Exterior",
+    "marca_actual": [],
+    "texto": "- Incluír o galego como materia optativa na rede de centros da Acción Educativa Exterior."
+   },
+   {
+    "id": "bng-0430",
+    "partido": "bng",
+    "titular": "Derecho a trámites y documentación en gallego en los consulados",
+    "marca_actual": [],
+    "texto": "- Garantir o dereito a acceder á documentación e trámites administrativos en galego nos consulados españois no estranxeiro."
+   },
+   {
+    "id": "bng-0432",
+    "partido": "bng",
+    "titular": "Oficialidad plena del gallego en la Unión Europea",
+    "marca_actual": [],
+    "texto": "- Oficialidade plena do galego na Unión Europea."
+   },
+   {
+    "id": "bng-0433",
+    "partido": "bng",
+    "titular": "Oferta regular de cursos de gallego en el Instituto Cervantes",
+    "marca_actual": [],
+    "texto": "- Garantir unha oferta regular e non puntual de cursos de galego (presenciais e en liña) en centros estratéxicos e por faixas horarias accesíbeis."
+   },
+   {
+    "id": "bng-0434",
+    "partido": "bng",
+    "titular": "Módulos formativos sobre la diversidad de lenguas del Estado en el Cervantes",
+    "marca_actual": [],
+    "texto": "- Impulsar módulos formativos sobre a diversidade de linguas do Estado español."
+   },
+   {
+    "id": "bng-0435",
+    "partido": "bng",
+    "titular": "Programa anual de actividades culturales en gallego en el Instituto Cervantes",
+    "marca_actual": [],
+    "texto": "- Desenvolver unha liña anual e regular de actividades culturais en galego (literatura, cinema, música, ciencia etc)."
+   },
+   {
+    "id": "bng-0436",
+    "partido": "bng",
+    "titular": "Reforzar los fondos en gallego de las bibliotecas del Instituto Cervantes",
+    "marca_actual": [],
+    "texto": "- Reforzar os fondos bibliográficos e dixitais en galego en todas as bibliotecas do Instituto Cervantes."
+   },
+   {
+    "id": "bng-0457",
+    "partido": "bng",
+    "titular": "El gallego debe estar en igualdad en la inteligencia artificial y los servicios digitales",
+    "marca_actual": [],
+    "texto": "O galego debe estar presente en condicións de igualdade no desenvolvemento da intelixencia artificial e dos servizos dixitais para evitar que o noso futuro dependa de ferramentas privadas que o marxen ou reproduzan nesgos alleos á nosa realidade cultural."
+   },
+   {
+    "id": "bng-0458",
+    "partido": "bng",
+    "titular": "Partidas estatales para tecnologías del gallego y modelos de lenguaje públicos",
+    "marca_actual": [],
+    "texto": "- Financiamento das tecnoloxías da lingua. Reclamar partidas orzamentarias estatais específicas e proporcionais para a rexeneración dixital do galego, incluíndo modelos de linguaxe de gran escala públicos, corpus lingüísticos e ferramentas de procesamento de texto e voz."
+   },
+   {
+    "id": "bng-0459",
+    "partido": "bng",
+    "titular": "Exigir a las plataformas el gallego en sistemas operativos, apps y modelos de IA",
+    "marca_actual": [],
+    "texto": "- Plena dispoñibilidade do galego. Esixir ás plataformas dixitais a incorporación efectiva e de calidade do galego (en texto e voz) en sistemas operativos, aplicacións e modelos de IA, en igualdade co resto de linguas oficiais."
+   },
+   {
+    "id": "bng-0460",
+    "partido": "bng",
+    "titular": "Cooperación tecnológica gallego-portuguesa y acceso a medios de Portugal y Brasil",
+    "marca_actual": [],
+    "texto": "- Cooperación galego-portuguesa. Aproveitar o espazo lingüístico galego-portugués para compartir recursos tecnolóxicos e corpus. En cumprimento da Lei Paz-Andrade, garantir o acceso algorítmico por defecto aos contidos e medios de comunicación de Portugal e do Brasil, e viceversa."
+   },
+   {
+    "id": "bng-0475",
+    "partido": "bng",
+    "titular": "Exigir el gallego en cada contrato público de software",
+    "marca_actual": [],
+    "texto": "- Lingua e cultura na contratación tecnolóxica. Esixir en cada contrato público de software a presenza adecuada do galego e da nosa cultura, garantindo financiamento para nubes públicas federadas que permitan compartir capacidades entre administracións sen perder identidade."
+   },
+   {
+    "id": "bng-0510",
+    "partido": "bng",
+    "titular": "Garantizar oferta audiovisual y de videojuegos en lengua gallega",
+    "marca_actual": [],
+    "texto": "- Garantir que exista unha oferta real de contidos audiovisuais en lingua galega, tanto nas plataformas audivisuais, de streaming, coma nos videoxogos; vixiando o crumprimento efectivo da Lei do Audiovisual."
+   },
+   {
+    "id": "erc-0016",
+    "partido": "erc",
+    "titular": "El catalán, amenazado: avanzar hacia el reconocimiento efectivo del plurilingüismo",
+    "marca_actual": [],
+    "texto": "El català, la llengua pròpia de Catalunya, té amenaçat l’ús social al carrer, a les institucions i a l’escola. La recuperació de l’ús social de la llengua és una prioritat per a Esquerra Republicana i, a Madrid, lluitarem per impulsar-ne l’ús, afrontar les ingerències de l’Estat i defensar la capacitat de Catalunya de decidir les pròpies polítiques lingüístiques. Defensarem la llengua davant de qualsevol atac.\n\nLa construcció de la identitat nacional espanyola s’ha fet, històricament, a partir de la llengua i la cultura castellanes, tot relegant el català i la resta de llengües pròpies de les diverses nacions de l’Estat a una posició de subordinació i promovent un model d’assimilació cultural.\n\nLes administracions no garanteixen plenament l’exercici dels drets lingüístics i les vulneracions continuen sent habituals, especialment en àmbits com la justícia, l’Administració de l’Estat i els serveis públics. És una realitat que contradiu tant el mandat constitucional de respecte i protecció de les llengües oficials com la Carta Europea de les Llengües Regionals o Minoritàries. Fins que no aconseguim independitzar-nos de l’Estat espanyol, hem d’avançar cap a un reconeixement efectiu del plurilingüisme en tots els àmbits de l’Estat, des de les institucions i els serveis públics fins als centres de treball, l’educació i els mitjans de comunicació."
+   },
+   {
+    "id": "erc-0017",
+    "partido": "erc",
+    "titular": "Diagnóstico: solo el 32,6 % tiene el catalán como lengua habitual",
+    "marca_actual": [],
+    "texto": "Només el 32,6 % de la població té el català com a llengua habitual. Davant d’aquesta situació, Esquerra Republicana continuarà exigint a l’Estat que respecti els drets lingüístics, posi fi a les ingerències en les polítiques lingüístiques de Catalunya i contribueixi activament a revertir el retrocés del català. La pluralitat lingüística és un valor col·lectiu i una riquesa social que cal preservar i promoure, garantint la presència de totes les llengües parlades i signades a Catalunya en tots els àmbits."
+   },
+   {
+    "id": "erc-0018",
+    "partido": "erc",
+    "titular": "Ley del plurilingüismo para relacionarse con el Estado en cualquier lengua oficial",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "10. Aprovar una Llei del plurilingüisme per reforçar els drets lingüístics i garantir una protecció més efectiva de les llengües oficials diferents del castellà. Cal garantir que qualsevol ciutadà es pugui relacionar amb totes les institucions de l’Estat en qualsevol llengua oficial, amb plena validesa jurídica, independentment del lloc on sigui. També cal fer possible que les administracions públiques dels territoris amb llengües oficials diferents del castellà es relacionin entre si i amb l’Administració General de l’Estat en aquestes llengües. La llei ha de regular l’ús de les llengües oficials en els procediments administratius; exigir el coneixement de les llengües oficials pròpies de cada territori als treballadors de l’Administració de l’Estat (cossos policials, administració de justícia i tributària...); incorporar criteris lingüístics en la contractació pública; garantir la presència de les llengües oficials en l’etiquetatge; reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament, i establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà."
+   },
+   {
+    "id": "erc-0019",
+    "partido": "erc",
+    "titular": "Oficialidad del catalán, el occitano y la lengua de signos catalana en la UE",
+    "marca_actual": [],
+    "texto": "11. Reclamar el reconeixement oficial del català, l’occità i la llengua de signes catalana a la Unió Europea. Instar l’Estat espanyol a mantenir i lluitar la petició perquè el català, l’occità i la llengua de signes catalana siguin llengües oficials a la Unió Europea i de treball al Parlament Europeu. L’oficialitat és una eina clau per a la protecció legal, els drets ciutadans i polítics i el prestigi de la llengua catalana, i el català té un nombre de parlants i un estatus legal que justifiquen plenament que sigui oficial."
+   },
+   {
+    "id": "erc-0020",
+    "partido": "erc",
+    "titular": "Financiación mínima y cuota de pantalla para el audiovisual en catalán y occitano",
+    "marca_actual": [],
+    "texto": "12. Garantir el finançament i la presència de les llengües catalana i occitana i de la llengua de signes catalana en el sector cinematogràfic i audiovisual. Establir per llei una aportació mínima de l’Estat espanyol al fons d’ajuts i crèdits per a la cinematografia i l’audiovisual en llengües catalana i occitana, i garantir que els productes siguin igualment accessibles als usuaris de la llengua de signes catalana. En la mateixa línia, establir una quota de pantalla en el sector cinematogràfic i audiovisual per promoure l’ús social de la llengües catalana i occitana i de la llengua de signes catalana, i regular l’obligació de les plataformes de publicar les dades de compliment de quotes lingüístiques."
+   },
+   {
+    "id": "erc-0021",
+    "partido": "erc",
+    "titular": "Derogar el artículo 145 de la Constitución y equiparar las denominaciones catalán y valenciano",
+    "marca_actual": [],
+    "texto": "13. Reforçar la cooperació entre els territoris de parla catalana i el reconeixement de la unitat de la llengua. Derogar l’article 145 de la Constitució espanyola per facilitar la cooperació bilateral entre la Generalitat de Catalunya, la Generalitat Valenciana i el Govern de les Illes Balears, eliminant tot possible veto de l’Estat espanyol o de les Corts espanyoles. En la mateixa línia, cal aprovar l’equiparació de les denominacions català i valencià com a sinònimes i intercanviables."
+   },
+   {
+    "id": "erc-0022",
+    "partido": "erc",
+    "titular": "Impulsar la enseñanza del catalán y el occitano en el exterior",
+    "marca_actual": [],
+    "texto": "14. Impulsar l’ensenyament del català i de l’occità a l’exterior. Promoure acords de col·laboració amb l’Estat per incorporar l’ensenyament del català i de l’occità en el sistema d’educació a l’exterior, com també vies de col·laboració amb l’Instituto Cervantes per ampliar-ne l’oferta formativa i la difusió internacional."
+   },
+   {
+    "id": "erc-0023",
+    "partido": "erc",
+    "titular": "Garantizar el uso del catalán en los centros de trabajo con planes lingüísticos",
+    "marca_actual": [],
+    "texto": "15. Garantir l’ús del català als centres de treball. Impulsar l’elaboració i aplicació de plans lingüístics a les empreses, garantir els drets lingüístics de les persones treballadores i usuàries, especialment en les empreses que presten serveis públics o reben finançament públic, i facilitar l’accés a la formació de català dins l’horari laboral."
+   },
+   {
+    "id": "erc-0024",
+    "partido": "erc",
+    "titular": "La escuela catalana y la inmersión lingüística como pilares de cohesión",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "L’escola catalana és un dels grans consensos i conquestes col·lectives del país, i no deixarem que ningú l’ataqui. Malgrat les mancances actuals, és una de les grans fortaleses de Catalunya i una eina fonamental per garantir la cohesió social, la igualtat d’oportunitats i la plena normalització del català. És el resultat d’anys de lluita per construir un sistema educatiu en què tots els infants, independentment de l’origen o de la llengua que parlin a casa, tinguin les mateixes oportunitats.\n\nEl català com a llengua vehicular i la immersió lingüística són pilars del nostre model educatiu. En una societat cada vegada més diversa, l’escola ha de garantir que tot l’alumnat conegui, utilitzi i faci seva la llengua del país. La immersió és també una eina fonamental per evitar la segregació de l’alumnat per raó de llengua i fer del català una llengua compartida. Atacar-la és atacar la cohesió del país. Caldrà millorar moltes coses de la nostra escola, començant per aconseguir els recursos necessaris de l’Estat espanyol i poder fer efectiva la normalització lingüística, però res d’això no serà possible si no defensem el nostre model davant les amenaces de l’extrema dreta espanyolista."
+   },
+   {
+    "id": "erc-0025",
+    "partido": "erc",
+    "titular": "Blindar la escuela catalana ante las injerencias judiciales y políticas",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "L’Estat espanyol i els seus tribunals han convertit les aules en un camp de batalla política, amb sentències que pretenen imposar als centres com han d’ensenyar i en quina llengua. Cap tribunal pot substituir la capacitat de les institucions catalanes per decidir el seu propi model educatiu. Cal una resposta ferma, unitària i de país, que protegeixi els centres i el professorat, blindar l’escola catalana davant les ingerències judicials i polítiques i avançar cap a l’exercici ple de les competències educatives.\n\nAquesta defensa també passa per garantir l’estabilitat del model educatiu, perquè no pateixi cops de volant amb cada canvi de majoria parlamentària ni amb cada sentència, i per dotar-lo dels recursos necessaris per afrontar els reptes actuals: el retrocés de l’ús social del català entre infants i joves, la segregació escolar i l’atenció a la diversitat de l’alumnat. L’Estat no pot continuar imposant obligacions a Catalunya sense assumir el finançament que li correspon ni respectar les competències de les institucions catalanes.\n\nDefensar l’escola catalana és defensar la llengua, la cohesió social i la capacitat de Catalunya per decidir el seu futur. I ho farem sense demanar perdó i sense retrocedir."
+   },
+   {
+    "id": "erc-0026",
+    "partido": "erc",
+    "titular": "Pacto de país en defensa de la escuela catalana y la inmersión lingüística",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "16. Impulsar una resposta de país en defensa de l’escola catalana. Promoure un gran pacte de país, amb la participació de les institucions, la comunitat educativa i les entitats socials, per defensar el model d’escola catalana, la immersió lingüística i el català com a llengua vehicular i de cohesió social, davant les ingerències judicials i els intents de desmantellar-lo de l’Estat espanyol."
+   },
+   {
+    "id": "erc-0027",
+    "partido": "erc",
+    "titular": "Blindar la inmersión e impedir la imposición de porcentajes lingüísticos en los centros",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "17. Blindar el model d’escola catalana i la immersió lingüística. Defensar un model d’escola pública, laica, gratuïta i de qualitat, amb el català com a llengua vehicular i d’acollida, com a eina de cohesió social, inclusió i igualtat d’oportunitats. Garantir, amb recursos i formació del professorat, que tot l’alumnat assoleixi una competència plena en català i, a l’Aran, en aranès. Modificar la legislació educativa estatal per impedir les ingerències de l’Estat, la imposició de percentatges lingüístics als centres i qualsevol vulneració dels projectes lingüístics i del model d’immersió de Catalunya."
+   },
+   {
+    "id": "erc-0046",
+    "partido": "erc",
+    "titular": "Cuotas audiovisuales en lenguas cooficiales: un 25 % de las obras europeas de TVE",
+    "marca_actual": [],
+    "texto": "31. Establir noves regulacions per assegurar més producció i més oferta de continguts audiovisuals en català. Almenys el 50 % del temps d’emissió dedicat a obres audiovisuals europees es reservarà a obres en les llengües oficials de l’Estat o de les Comunitats Autònomes. En aquest marc, TVE reservarà un mínim del 25 % d’aquestes obres a produccions en les llengües oficials diferents del castellà. Així mateix, les plataformes de televisió i de vídeo a petició reservaran a obres europees almenys el 35 % del seu catàleg, i les televisions públiques hauran de destinar un 25 % del finançament anticipat d’obra audiovisual europea a obres en les llengües oficials diferents del castellà."
+   },
+   {
+    "id": "erc-0067",
+    "partido": "erc",
+    "titular": "Más financiación del Institut Ramon Llull y el catalán y el occitano en Erasmus+",
+    "marca_actual": [],
+    "texto": "47. Facilitar l’accés a l’ensenyament del català a l’exterior, exigint a l’Estat que augmenti el finançament de l’Institut Ramon Llull per ampliar la xarxa de lectorats i incloent el català i l’occità en l’oferta d’idiomes dels programes europeus d’educació (Erasmus+) i del Centre Europeu de Llengües Modernes del Consell d’Europa."
+   },
+   {
+    "id": "cnv-0010",
+    "partido": "cnv",
+    "titular": "Hacer obligatorio el conocimiento del catalán reformando el Estatut",
+    "marca_actual": [],
+    "texto": "- Impulsarem la modificació de l’Estatut d’Autonomia de Catalunya per tal que el coneixement del català sigui obligatori per a tots els ciutadans catalans, com l’espanyol ho és per a tots els ciutadans espanyols, i que es revisi en conseqüència la jurisprudència, en aquesta matèria, per part del Tribunal Constitucional."
+   },
+   {
+    "id": "cnv-0011",
+    "partido": "cnv",
+    "titular": "Exigir la oficialidad del catalán en las instituciones europeas",
+    "marca_actual": [],
+    "texto": "- Exigirem al govern espanyol que el català sigui llengua oficial a totes les institucions europees i que utilitzi totes les mesures de pressió que té al seu abast, inclòs el veto a altres decisions, per garantir l’èxit del propòsit."
+   },
+   {
+    "id": "cnv-0012",
+    "partido": "cnv",
+    "titular": "Uso del catalán en todos los ámbitos, también en la Administración estatal",
+    "marca_actual": [],
+    "texto": "- Treballarem perquè el Català sigui llengua emprada en tots els àmbits de la vida i institucions del país, també en les administracions estatals que operen a Catalunya."
+   },
+   {
+    "id": "cnv-0013",
+    "partido": "cnv",
+    "titular": "Acabar con la diferenciación entre valenciano y catalán en el Estado",
+    "marca_actual": [],
+    "texto": "- Acabarem amb la diferenciació, entre el valencià i el català, a totes les institucions de l’Estat, de la mateixa manera que no es diferencia el castellà/espanyol, de l’andalús o bé del canari."
+   },
+   {
+    "id": "cnv-0158",
+    "partido": "cnv",
+    "titular": "Uso intensivo del catalán como lengua vehicular en los centros educativos",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "- Treballarem per garantir l’ús intensiu del català (i de l’aranès a la Val d’Aran) com a llengua vehicular i de cohesió social, evitant el retrocés lingüístic que pateix la nostra llengua als centres educatius."
+   },
+   {
+    "id": "cnv-0159",
+    "partido": "cnv",
+    "titular": "Preservar y actualizar el modelo de inmersión lingüística",
+    "marca_actual": [
+     "cooficiales"
+    ],
+    "texto": "- Preservarem i actualitzarem el model d’immersió lingüística per garantir el domini oral i escrit del català en totes les etapes."
+   },
+   {
+    "id": "cnv-0168",
+    "partido": "cnv",
+    "titular": "Favorecer el aprendizaje de lenguas extranjeras",
+    "marca_actual": [],
+    "texto": "- Afavorirem l’aprenentatge de llengües estrangeres, dins el marc curricular establert."
+   },
+   {
+    "id": "cnv-0220",
+    "partido": "cnv",
+    "titular": "Exigir a los profesionales sanitarios dominio suficiente del catalán",
+    "marca_actual": [],
+    "texto": "- Garantirem que tots els professionals sanitaris que treballin a Catalunya tinguin el domini suficient del català per garantir el dret de la ciutadania a ser atesa en la seva llengua."
+   },
+   {
+    "id": "cnv-0304",
+    "partido": "cnv",
+    "titular": "Oficialidad en la UE del catalán, el occitano y otras lenguas minorizadas",
+    "marca_actual": [],
+    "texto": "- Exigirem que el català, l’occità i la resta de llengües minoritzades que ho sol·licitin siguin llengües oficials i de ple dret a la UE."
+   },
+   {
+    "id": "pnv-0199",
+    "partido": "pnv",
+    "titular": "Valorar las lenguas oficiales en el acceso a la formación sanitaria especializada",
+    "marca_actual": [],
+    "texto": "2. **Permitir la valoración del conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada**, en los territorios con más de una lengua oficial."
+   },
+   {
+    "id": "pnv-0262",
+    "partido": "pnv",
+    "titular": "Oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+    "marca_actual": [],
+    "texto": "4. Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea, garantizando su presencia y utilización efectiva en las instituciones comunitarias."
+   },
+   {
+    "id": "bildu-0052",
+    "partido": "bildu",
+    "titular": "Reservar el 53 % de plazas MIR a quienes dominen las dos lenguas oficiales",
+    "marca_actual": [],
+    "texto": "- Transitoriamente y mientras la transferencia no se haga efectiva, proponer la reserva de un 53% de las plazas del MIR, EIR, PIR, etc. para aquellos profesionales que dominen las dos lenguas oficiales del País Vasco."
+   },
+   {
+    "id": "bildu-0079",
+    "partido": "bildu",
+    "titular": "Exigir el euskera en la administración estatal en Araba, Bizkaia, Gipuzkoa y Nafarroa",
+    "marca_actual": [],
+    "texto": "- Establecer como requisito el conocimiento del euskara para los servicios que la administración pública estatal ofrece en Araba, Bizkaia, Gipuzkoa y Nafarroa, incluyendo la administración de justicia, asegurando el derecho de la ciudadanía a interactuar y ser atendida en nuestra lengua tanto de manera presencial como telemática o telefónica. Para ello se deberán modificar las leyes que establecen los criterios de funcionamiento, selección y acceso a la administración general del estado."
+   },
+   {
+    "id": "bildu-0164",
+    "partido": "bildu",
+    "titular": "Financiar tecnologías lingüísticas e IA en euskera y demás lenguas oficiales",
+    "marca_actual": [],
+    "texto": "- Garantizar la financiación y los recursos específicos a nivel estatal para el desarrollo de las tecnologías lingüísticas y de los modelos lingüísticos, conjuntos de datos, tecnologías de voz y sistemas de traducción automática en euskera. Incorporar el euskera y el resto de lenguas oficiales de forma igualitaria en el desarrollo de la IA, en sintonía con las políticas de protección de la diversidad lingüística en Europa."
+   },
+   {
+    "id": "bildu-0184",
+    "partido": "bildu",
+    "titular": "Garantizar los derechos lingüísticos de la ciudadanía vasca en todos los ámbitos",
+    "marca_actual": [],
+    "texto": "Trabajaremos para que se respeten y aseguren los derechos lingüísticos de la ciudadanía vasca en todos los ámbitos, terminando con la exclusión y discriminación que las diferentes estructuras y administraciones del estado mantienen. Para ello será necesario:"
+   },
+   {
+    "id": "bildu-0185",
+    "partido": "bildu",
+    "titular": "Garantizar la atención en euskera en todas las administraciones del Estado",
+    "marca_actual": [],
+    "texto": "- Garantizar la atención y uso del euskera en todas las administraciones del estado, asegurando el derecho de la ciudadanía vasca a interactuar y ser atendida en nuestra lengua tanto de manera presencial como telemática o telefónica. Para ello se deberán modificar las diferentes leyes que establecen los criterios de funcionamiento, selección y acceso a la administración estatal, mediante la Proposición de Ley que, junto al resto de grupos soberanistas, presentamos y que, pese a ser tomada en consideración, decayó en la tramitación debido al final anticipado de la legislatura."
+   },
+   {
+    "id": "bildu-0186",
+    "partido": "bildu",
+    "titular": "Ampliar el euskera en el ámbito digital y en las plataformas audiovisuales",
+    "marca_actual": [],
+    "texto": "- Promover medidas para ampliar y extender el euskera en el ámbito digital y audiovisual, para alcanzar nuevos objetivos tanto en la producción como en el consumo de contenidos audiovisuales en euskera por parte de plataformas de contenido digitales."
+   },
+   {
+    "id": "bildu-0187",
+    "partido": "bildu",
+    "titular": "Apoyar el reconocimiento del catalán, gallego, asturiano y aragonés",
+    "marca_actual": [],
+    "texto": "- Apoyar y acompañar los esfuerzos conjuntos para que todas las lenguas propias de las diferentes naciones del Estado como el catalá, el galego, el asturiano o el aragonés cuenten con el reconocimiento y respeto que merecen."
+   },
+   {
+    "id": "bildu-0188",
+    "partido": "bildu",
+    "titular": "Lograr la oficialidad del euskera, el catalán y el gallego en la UE",
+    "marca_actual": [],
+    "texto": "- Seguir trabajando para lograr la oficialidad del euskera, el catalá y el galego en la Unión Europea y sus instituciones, para que nuestra lengua conviva en igualdad de condiciones con el resto de las lenguas de europa."
+   },
+   {
+    "id": "bildu-0190",
+    "partido": "bildu",
+    "titular": "Blindar por ley las ayudas a producciones en euskera y otras lenguas oficiales",
+    "marca_actual": [],
+    "texto": "- Blindar legislativamente ayudas a las producciones en euskera y el resto de lenguas oficiales diferentes al castellano."
+   }
+  ]
+ },
+ {
+  "eje": "eje-financiacion-autonomica",
+  "pregunta": "¿Condonar parte de la deuda autonómica?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, condonarla"
+   },
+   {
+    "id": "no",
+    "nombre": "No, rechazar la condonación"
+   }
+  ],
+  "n": 43,
+  "palabras": 2958,
+  "candidatos": [
+   {
+    "id": "podemos-0156",
+    "partido": "podemos",
+    "titular": "Aprobar la Ley Jornalera y vincular el subsidio agrario al 50 % del SMI",
+    "marca_actual": [],
+    "texto": "141. **Protección para los jornaleros y jornaleras del campo.** Aprobaremos la Ley Jornalera para mejorar las condiciones de vida y la protección social de las personas trabajadoras agrarias. Eliminaremos el requisito de las peonadas para acceder al subsidio agrario y vincularemos su cuantía al 50 % del SMI, con incrementos progresivos en función de las jornadas realizadas hasta alcanzar el SMI a partir de las 200 jornadas anuales. Reformaremos el sistema de cotización agraria para garantizar que no se pierda ningún periodo cotizado por cada jornal trabajado, eliminaremos el requisito de las 30 jornadas para mantener el alta durante los periodos de inactividad y condonaremos las cuotas correspondientes a dichos periodos en Andalucía y Extremadura. Garantizaremos, asimismo, que las personas menores de 25 años sin responsabilidades familiares accedan a las mismas condiciones de reducción o eliminación de jornadas y a los mismos criterios de cuantía y duración del subsidio que el resto de trabajadores y trabajadoras."
+   },
+   {
+    "id": "adelante-0022",
+    "partido": "adelante",
+    "titular": "Financiación justa para Andalucía sin ordinalidad y pago de la deuda histórica",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "20. **Financiación justa para Andalucía** — Sin ordinalidad, con población ajustada y un fondo transitorio de nivelación inmediato; pago de la deuda histórica que reconoce el Estatuto y compensación de la nueva deuda que ha dejado la infrafinanciación..Auditoría de la deuda de Andalucía e impago de la deuda contraída contra los intereses del pueblo andaluz.\nSe desarrolla en el programa: Propuestas 337 a 343 · Área 03 Andalucía en el Estado"
+   },
+   {
+    "id": "adelante-0104",
+    "partido": "adelante",
+    "titular": "Financiación sanitaria suficiente en el nuevo modelo de financiación autonómica",
+    "marca_actual": [],
+    "texto": "65. **Financiación sanitaria suficiente** — En el nuevo modelo de financiación autonómica, para cumplir el suelo de gasto por habitante. _Porque Andalucía no puede cumplir el suelo de gasto con la financiación que recibe hoy._"
+   },
+   {
+    "id": "adelante-0174",
+    "partido": "adelante",
+    "titular": "Financiación finalista para ratios y estabilización docente en Andalucía",
+    "marca_actual": [],
+    "texto": "128. **Financiación finalista** — Para aplicar las nuevas ratios y la estabilización docente en Andalucía, dentro del nuevo modelo de financiación autonómica. _Porque Andalucía no puede pagar sola las mejoras que necesita su escuela con la financiación actual._"
+   },
+   {
+    "id": "adelante-0388",
+    "partido": "adelante",
+    "titular": "Diagnóstico: Andalucía recibe unos 1.634 millones menos al año de financiación",
+    "marca_actual": [],
+    "texto": "Andalucía no pide favores: pide lo que le deben. El sistema de financiación nos deja cada año unos 1.634 millones por debajo de lo que nos correspondería, según Fedea, y en 2024 cada persona andaluza recibió 193 euros menos que la media. A eso se suma una inversión del Estado que se presupuesta y no se ejecuta, y una deuda histórica que el Estatuto reconoce y nadie ha saldado. Ni el PSOE ni el PP corrigieron esa injusticia cuando gobernaban, porque ninguno de los dos responde ante Andalucía sino ante sus direcciones en Madrid. Y la extrema derecha, que quiere acabar con las autonomías, nos condenaría a seguir pidiendo permiso. Exigimos financiación justa sin ordinalidad, inversión según población y ejecutada, y el mismo autogobierno que las nacionalidades que más tienen."
+   },
+   {
+    "id": "adelante-0389",
+    "partido": "adelante",
+    "titular": "Rechazar la ordinalidad en el nuevo sistema de financiación",
+    "marca_actual": [],
+    "texto": "337. **No a la ordinalidad** — El nuevo sistema no garantizará a las comunidades más ricas que sigan recibiendo más. _Porque la ordinalidad asegura más a quien más tiene y perpetúa la desigualdad entre territorios._"
+   },
+   {
+    "id": "adelante-0390",
+    "partido": "adelante",
+    "titular": "Ajustar la población con criterios sociales en la financiación autonómica",
+    "marca_actual": [],
+    "texto": "338. **Población ajustada con criterios sociales** — Contar la población de 0 a 18 años, el alumnado universitario, el riesgo de pobreza, el paro y la temporalidad. _Porque prestar servicios cuesta más donde hay más población joven, más pobreza y más paro._"
+   },
+   {
+    "id": "adelante-0391",
+    "partido": "adelante",
+    "titular": "Ceder a las comunidades el 55 % del IRPF y 70 % del IVA",
+    "marca_actual": [],
+    "texto": "339. **Más recursos para los servicios públicos** — Al menos el 55 % del IRPF y el 70 % del IVA y de los impuestos especiales para las comunidades, todo en el fondo de garantía. _Porque las comunidades pagan la sanidad y la educación con unos ingresos insuficientes._"
+   },
+   {
+    "id": "adelante-0392",
+    "partido": "adelante",
+    "titular": "Fondo transitorio de nivelación mientras se aprueba el nuevo sistema",
+    "marca_actual": [],
+    "texto": "340. **Fondo transitorio de nivelación** — Recursos inmediatos mientras se aprueba el nuevo sistema, con calendario plurianual. _Porque Andalucía no puede esperar años a que se apruebe un nuevo sistema._"
+   },
+   {
+    "id": "adelante-0393",
+    "partido": "adelante",
+    "titular": "Condonar la deuda causada por la infrafinanciación y quita del FLA",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "341. **La deuda de la infrafinanciación no la paga Andalucía** — Condonación de la parte de la deuda causada por la falta de financiación, quita del FLA e intereses hacia el 0 %. _Porque esa deuda se debe a la infrafinanciación, no a una mala gestión._"
+   },
+   {
+    "id": "adelante-0394",
+    "partido": "adelante",
+    "titular": "Cuantificar y pagar la deuda histórica que reconoce el Estatuto",
+    "marca_actual": [],
+    "texto": "342. **Deuda histórica** — Cuantificar y pagar el déficit de inversión con el que Andalucía llegó a la autonomía, como obliga la disposición adicional segunda del Estatuto, y compensar la nueva deuda que ha dejado la infrafinanciación. _Porque el Estatuto la reconoce y nadie la ha pagado entera._"
+   },
+   {
+    "id": "adelante-0395",
+    "partido": "adelante",
+    "titular": "Auditoría independiente de la infrafinanciación andaluza desde 2009",
+    "marca_actual": [],
+    "texto": "343. **Auditoría independiente de la infrafinanciación** — Cálculo contrastado de lo que Andalucía ha dejado de recibir desde 2009: Fedea estima unos 1.634 millones al año, y en 2024 cada persona andaluza recibió 193 euros menos que la media. _Porque hace falta un cálculo independiente de lo que Andalucía ha dejado de recibir._"
+   },
+   {
+    "id": "adelante-0396",
+    "partido": "adelante",
+    "titular": "Dotar suficientemente el Fondo de Compensación Interterritorial",
+    "marca_actual": [],
+    "texto": "344. **Fondo de compensación interterritorial real** — Dotación suficiente para que cumpla su función constitucional. _Porque el fondo creado para corregir desigualdades apenas tiene dinero._"
+   },
+   {
+    "id": "bng-0004",
+    "partido": "bng",
+    "titular": "Balance: traspaso de la AP-9, financiación de la dependencia y condonación de 4.000 millones",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "O BNG conseguiu un acordo de investidura con medidas de grande relevancia para mellorar a vida da xente. Moitas delas, realmente importantes, saíron adiante e están sendo aplicadas. Por citar apenas uns exemplos, conseguimos desbloquear despois de moitos anos de incumprimentos a transferencia a Galiza da AP-9 a través da aprobación dunha lei que traspasa ao goberno da Xunta a titularidade e xestión desta infraestrutura. Logramos tamén bonificacións e descontos nas peaxes da AP-9 e da AP-53 e a modernización e electrificación da vía no tren que une Lugo e Ourense. Así mesmo, conseguimos que o Goberno español incrementase o financiamento da dependencia e que a nova lei recolla sen ambigüidades a obriga de que o Estado financie o 50% do SAAD e que o Estado asumise a condonación de 4.000 millóns de euros da débeda pública galega malia o rexeitamento do goberno do Partido Popular na Xunta de Galiza."
+   },
+   {
+    "id": "bng-0010",
+    "partido": "bng",
+    "titular": "Financiación basada en el concierto económico y la bilateralidad con el Estado",
+    "marca_actual": [],
+    "texto": "- Un novo modelo de financiamento baseado no concerto económico e na bilateralidade co Estado. Trátase de que Galiza recade todos os impostos e teña capacidade para decidir como os inviste, na perspectiva de poder desenvolver políticas sociais, de desenvolvemento económico autocentrado e de blindaxe de servizos públicos universais e de calidade."
+   },
+   {
+    "id": "bng-0012",
+    "partido": "bng",
+    "titular": "Crear una Hacienda gallega con política fiscal propia",
+    "marca_actual": [],
+    "texto": "- Posta en marcha dunha Facenda Galega, como instrumento esencial do novo modelo de financiamento. En consonancia, capacidade plena de Galiza para implantar unha política fiscal propia, que responda a criterios de xustiza e redistribución social e que garanta que todas as empresas que operan no noso país paguen aquí os tributos que corresponder, de forma que permita facer uso pleno dos nosos recursos económicos para os colocar ao servizo do pobo galego."
+   },
+   {
+    "id": "bng-0485",
+    "partido": "bng",
+    "titular": "Transferir a las comunidades la recaudación de los impuestos tecnológicos",
+    "marca_actual": [],
+    "texto": "- Retorno fiscal ás comunidades. Reclamar que a recadación derivada destes impostos tecnolóxicos se transfira ás comunidades para financiar infraestruturas dixitais públicas, servizos de interese xeral e espazos de datos en man común."
+   },
+   {
+    "id": "erc-0003",
+    "partido": "erc",
+    "titular": "Cataluña a punto de colapsar: servicios para seis millones en un país de ocho",
+    "marca_actual": [],
+    "texto": "En aquestes eleccions, els catalans ens hi juguem molt. No només perquè ens trobem en un moment clau per al futur del nostre país, sinó també perquè l’amenaça d’un govern del Partit Popular i de VOX posarà en risc la nostra cultura, la nostra llengua i el nostre autogovern.\n\nCatalunya fa temps que és a punt de col·lapsar. Tenim un país de vuit milions de persones amb unes infraestructures i serveis per a sis milions. I això fa que la qualitat dels serveis públics se’n vegin afectats.\n\nDes de fa temps, Esquerra Republicana, sovint en solitari, ha estat treballant i negociant per aconseguir revertir aquesta situació, mitjançant un acord de finançament que aporti gairebé 5.000 milions d’euros anuals per als nostres serveis públics, la condonació de bona part del deute i la gestió catalana de Rodalies per posar fi a un servei pèssim.\n\nNecessitem una Esquerra Republicana forta per enllestir aquesta tasca i per continuar guanyant sobirania a cada pas, en benefici dels treballadors i les classes mitjanes del país."
+   },
+   {
+    "id": "erc-0033",
+    "partido": "erc",
+    "titular": "Diagnóstico: déficit fiscal catalán de 22.000 millones, el 9,6 % del PIB",
+    "marca_actual": [],
+    "texto": "Catalunya necessita els recursos que genera per poder oferir els serveis públics de qualitat que els catalans mereixen. Cal complir amb l’acord per a un nou sistema de finançament com a instrument clau perquè els recursos dels catalans es quedin a Catalunya.\n\nEl Govern català està esgotat econòmicament, pres d’un sistema de finançament injust que fa 13 anys que ja ha caducat. És urgent resoldre un finançament que ens asfixia com a país i, especialment, que impedeix finançar un estat del benestar de qualitat.\n\nEl dèficit fiscal de Catalunya va assolir, el 2021, un màxim històric de 22.000 milions d’euros, un 9,6 % del PIB o més de la meitat del pressupost de la Generalitat de Catalunya. Com a resultat, serveis públics de rodalies, salut o educació tenen un finançament molt per sota del que els ciutadans de Catalunya mereixen. Aquest 2025, de fet, la Generalitat ha arribat a una despesa desplaçada de 5.295 milions d’euros, malgrat que Catalunya genera recursos per poder cobrir aquestes despeses."
+   },
+   {
+    "id": "erc-0034",
+    "partido": "erc",
+    "titular": "Financiación en la línea de un concierto económico solidario con ordinalidad",
+    "marca_actual": [],
+    "texto": "Per posar fil a l’agulla, Esquerra Republicana proposa un model de finançament que avanci en la línia d’un concert econòmic solidari, tal com es preveia a l’Estatut d’Autonomia aprovat pel Parlament el 2006, i que faci efectius els compromisos que el Govern de l’Estat no ha estat capaç de materialitzar aquesta legislatura. Aquest model és la clau de volta per protegir Catalunya de la dreta i l’extrema dreta espanyola, perquè garanteix la capacitat de decisió de la Generalitat en detriment de l’Estat i la dota de sobirania econòmica.\n\nLa proposta d’Esquerra Republicana pretenia posar fi al model de finançament actual, que ha perjudicat no només Catalunya sinó els Països Catalans. Aquesta proposta suposa un guany evident en sobirania, garanteix el principi d’ordinalitat de la despesa per població ajustada i acaba amb el sistema de bestretes, una llosa per a les finances de la Generalitat que Esquerra Republicana no s’ha cansat de denunciar."
+   },
+   {
+    "id": "erc-0035",
+    "partido": "erc",
+    "titular": "Quita de la deuda del FLA y derogación de la LRSAL",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "Més enllà d’aquesta proposta, Esquerra Republicana ha reivindicat també la importància de la quitança del deute del Fons de Liquiditat Autonòmica (FLA), un deute trampós i il·legítim imposat per l’Administració General de l’Estat, mitjançant una proposició de llei que ja era en tramitació parlamentària al Congrés. Aquesta iniciativa corregia part de la injustícia per la qual la Generalitat es va veure forçada a endeutar-se amb l’Estat, especialment la dècada passada, a conseqüència de no poder disposar dels recursos propis que li pertoquen.\n\nTambé destaca la proposta de millora del finançament local, que complementa la proposta, també inclosa al programa, de derogar la Llei de racionalització i sostenibilitat de l’Administració local (LRSAL) i reformar la Llei Orgànica d’Estabilitat Pressupostària i Sostenibilitat Financera. Els ajuntaments catalans han patit les conseqüències d’unes regles fiscals injustes derivades d’aquests textos, que se sumen a un infrafinançament crònic per part de l’Estat. Conjuntament amb els del País Valencià, els ajuntaments catalans son els més mal finançats de tot l’Estat: el 2024, van rebre fins a un 40 % per sota del finançament que rebien els municipis de l’Aragó."
+   },
+   {
+    "id": "erc-0036",
+    "partido": "erc",
+    "titular": "Nuevo modelo de financiación: recaudar todos los impuestos y 4.700 millones más al año",
+    "marca_actual": [],
+    "texto": "23. Aprovar un nou model de finançament per garantir la sobirania dels Països Catalans i el benestar de la ciutadania. Esquerra Republicana va arrencar el compromís del PSC i de l’executiva federal del PSOE d’impulsar un sistema de finançament singular basat en els ingressos, pel qual Catalunya recaptés tots els impostos generats a Catalunya i l’Estat espanyol en sufragués els costos mitjançant un percentatge de participació en aquests impostos. Prenent aquest punt de partida, el passat gener de 2026 es va acordar un nou model de finançament amb el Govern de l’Estat que, per primer cop, garantia l’ingrés directe dels impostos i el compliment del principi d’ordinalitat de la despesa per població ajustada, i suposava uns ingressos addicionals de 4.700 MEUR anuals per a Catalunya. El bloqueig parlamentari ha impedit que aquests acords polítics es poguessin posar en funcionament durant l’anterior legislatura. Ara, resulta urgent combatre el dèficit fiscal i garantir el finançament de les institucions catalanes per mitjà de canvis de model en el sentit dels acords esmentats."
+   },
+   {
+    "id": "erc-0037",
+    "partido": "erc",
+    "titular": "Condonar los más de 17.100 millones de euros del FLA",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "24. Condonar de forma efectiva els més de 17.100 milions d’euros del FLA. Dur a terme la tramitació del projecte de llei impulsat per Esquerra Republicana, que suposa una reducció de deute de la Generalitat equivalent a la inversió que fa en quatre anys. A més, l’eliminació d’aquest deute suposarà un estalvi entorn de 1.500 milions d’euros anuals en interessos abonats per la Generalitat de Catalunya."
+   },
+   {
+    "id": "erc-0051",
+    "partido": "erc",
+    "titular": "Traspasar a la Agencia Tributaria de Cataluña la recaudación de los impuestos estatales",
+    "marca_actual": [],
+    "texto": "34. Fer efectiu el traspàs de les competències en la recaptació d’impostos estatals a l’Agència Tributària de Catalunya. Complir amb els acords de la Comissió Bilateral Generalitat Estat de juliol de 2025 sobre l’assumpció de competències en l’IRPF per part de la Generalitat, fent efectius els canvis legislatius pertinents per a la recaptació no només d’aquest tribut sinó de tots els impostos que es generen a Catalunya."
+   },
+   {
+    "id": "erc-0157",
+    "partido": "erc",
+    "titular": "Prohibir de forma permanente los cortes de suministro a hogares vulnerables",
+    "marca_actual": [],
+    "texto": "122. Garantir la continuïtat de la prohibició de talls de subministrament i mantenir-los de forma permanent per a llars vulnerables. Convertir en estable la garantia de subministrament que actualment es manté amb caràcter temporal fins a 31 de desembre de 2026, adaptant el marc estatal als estàndards de protecció dels consumidors vulnerables de la Directiva europea 2024/1711. Posar en marxa un pla de condonació del deute de les llars en situació de vulnerabilitat acumulat durant la moratòria de talls de subministrament, assegurant la corresponsabilitat econòmica de les empreses subministradores d’aquests serveis bàsics."
+   },
+   {
+    "id": "cnv-0005",
+    "partido": "cnv",
+    "titular": "Soberanía nacional de Cataluña y concierto económico como el vasco",
+    "marca_actual": [],
+    "texto": "Convergents és un partit que defensa la sobirania nacional dels catalans i les catalanes i el dret a decidir lliurament el seu futur. Reconeixem Catalunya com a nació i, per tant, com a subjecte polític que té el dret i el deure de maximitzar el seu autogovern. Reclamem allò que és nostre, tant en matèria de competències com de recursos econòmics, i ens oposem a les injustícies estructurals que l’Estat espanyol perpetua sistemàticament contra el nostre país.\n\nAixí mateix, el català —i l’occità/aranès a la Vall d’Aran—, com a llengües pròpies de Catalunya, són els nostres béns culturals més preuats. Preservar-los, garantir-ne l’ús social i institucional, i fer-los créixer és un deure col·lectiu i una prioritat política.\n\nLa realitat política catalana dels darrers cicles electorals ha estat marcada per una alta complexitat i fragmentació. És l’hora d’un nou rumb polític, que faci compatibles l’ambició sobiranista i el “bon govern”, basat en la responsabilitat, l’eficiència i el diàleg. És hora de recuperar la nostra ambició com a país: construir una Catalunya pròspera, capdavantera, econòmicament i culturalment forta, i socialment cohesionada.\n\nPer fer-ho possible, cal un nou model de finançament, just i estable, com el concert econòmic vigent al País Basc, que garanteixi la sostenibilitat del nostre progrés."
+   },
+   {
+    "id": "cnv-0009",
+    "partido": "cnv",
+    "titular": "Concierto económico para Cataluña como el del País Vasco",
+    "marca_actual": [],
+    "texto": "- Impulsarem un Concert Econòmic per a Catalunya, com el que tenen al país Basc. Per fer-ho possible, aprovarem una Llei Orgànica específica i una modificació de l’Estatut d’Autonomia."
+   },
+   {
+    "id": "cnv-0054",
+    "partido": "cnv",
+    "titular": "Financiar la dependencia según el mayor coste de vida de Cataluña",
+    "marca_actual": [],
+    "texto": "- Exigirem que els recursos de l’Estat per finançar el cost dels serveis d’atenció a la dependència a Catalunya tinguin en compte el cost més alt de la de la vida que tenim a Catalunya."
+   },
+   {
+    "id": "cnv-0070",
+    "partido": "cnv",
+    "titular": "Elevar los fondos estatales de vivienda al 0,6 % del PIB",
+    "marca_actual": [],
+    "texto": "- Reclamarem l’augment progressiu dels fons estatals destinats a polítiques d’habitatge fins a situar-los en la mitjana europea (0,6% del PIB). I reclamarem la transferència d’aquests recursos a la Generalitat en la part corresponent al pes de la població de Catalunya respecte l’Estat."
+   },
+   {
+    "id": "cnv-0082",
+    "partido": "cnv",
+    "titular": "Titularidad de la Generalitat sobre todos los impuestos generados en Cataluña",
+    "marca_actual": [],
+    "texto": "- Reclamarem la titularitat per a la Generalitat de tots els impostos generats a Catalunya, així com les competències normatives i de gestió relacionada."
+   },
+   {
+    "id": "cnv-0083",
+    "partido": "cnv",
+    "titular": "Concierto económico, hacienda propia y respeto al principio de ordinalidad",
+    "marca_actual": [],
+    "texto": "- Treballarem per aconseguir un concert econòmic per a Catalunya i impulsarem una hisenda pròpia que recapti, gestioni i inspeccioni tots els tributs generats a Catalunya. Mentrestant, exigirem el respecte al principi d’ordinalitat."
+   },
+   {
+    "id": "cnv-0084",
+    "partido": "cnv",
+    "titular": "Ceder el Impuesto de Sociedades con deducciones reforzadas para I+D+i",
+    "marca_actual": [],
+    "texto": "- Proposarem la cessió i gestió de l’Impost de Societats, amb deduccions reforçades per a projectes d’R+D+I."
+   },
+   {
+    "id": "pnv-0132",
+    "partido": "pnv",
+    "titular": "Respetar el Concierto Económico y la autonomía financiera vasca",
+    "marca_actual": [],
+    "texto": "5. Asegurar que las reformas fiscales y presupuestarias respeten el Concierto Económico y la autonomía financiera de las instituciones vascas, así como sus mecanismos propios de coordinación y relación con el Estado."
+   },
+   {
+    "id": "pnv-0133",
+    "partido": "pnv",
+    "titular": "Ampliar la capacidad normativa foral en el IVA y los Impuestos Especiales",
+    "marca_actual": [],
+    "texto": "6. Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales. Reclamar, mediante la actualización del Concierto Económico y las modificaciones legales necesarias, una mayor capacidad normativa de las instituciones competentes de los Territorios Históricos en estos impuestos, dentro de los límites de armonización establecidos por la Unión Europea, para adaptar mejor la fiscalidad a la realidad económica de Euskadi, apoyar la competitividad industrial y responder a las necesidades de las empresas y de las personas consumidoras."
+   },
+   {
+    "id": "pnv-0240",
+    "partido": "pnv",
+    "titular": "Defender el Concierto Económico y extender la bilateralidad a la relación política",
+    "marca_actual": [],
+    "texto": "**El Concierto Económico nos permite gestionar nuestros recursos y desarrollar políticas propias. Lo defenderemos frente a cualquier ataque y, asimismo, queremos extender los principios del pacto y la bilateralidad en los que se basa a nuestra relación política con el Estado.**"
+   },
+   {
+    "id": "pnv-0241",
+    "partido": "pnv",
+    "titular": "Ampliar las capacidades financiero-fiscales modificando la Ley del Concierto",
+    "marca_actual": [],
+    "texto": "1. Aumentar nuestras capacidades financiero-fiscales promoviendo la modificación de la Ley del Concierto económico y el convenio económico."
+   },
+   {
+    "id": "pnv-0242",
+    "partido": "pnv",
+    "titular": "Que las reformas fiscales estatales respeten el Concierto Económico",
+    "marca_actual": [],
+    "texto": "2. Asegurar que las reformas fiscales y presupuestarias estatales respeten el Concierto Económico, la autonomía financiera de Euskadi y los mecanismos propios de relación y coordinación con el Estado."
+   },
+   {
+    "id": "bildu-0134",
+    "partido": "bildu",
+    "titular": "Concertar con las Haciendas Forales cualquier nueva fiscalidad ambiental estatal",
+    "marca_actual": [],
+    "texto": "- Respeto a las Haciendas Forales y concertación tributaria: Someter cualquier nueva figura o modificación fiscal ambiental promovida a nivel estatal a los mecanismos de concertación previa con el Concierto Económico en la CAPV y el Convenio Económico en Nafarroa."
+   },
+   {
+    "id": "bildu-0183",
+    "partido": "bildu",
+    "titular": "Ensanchar el Concierto y el Convenio y negociar un nuevo cálculo del Cupo",
+    "marca_actual": [],
+    "texto": "Defenderemos estas herramientas como uno de los pilares de nuestro bienestar social y autogobierno económico, fiscal y financiero. Igualmente, trabajaremos para lograr ensanchar estos instrumentos, dotándolos de nuevas capacidades y, además, acordar un nuevo modelo de negociación y cálculo para el Cupo y la Aportación, que acabe con la actual situación de desigualdad que perjudica los intereses de la sociedad vasca."
+   },
+   {
+    "id": "teruel-0006",
+    "partido": "teruel",
+    "titular": "Financiación justa y trato diferenciado para Teruel",
+    "marca_actual": [],
+    "texto": "3. **Financiación justa para Teruel.** Teruel necesita un trato diferenciado, es hora de que cumplan con nosotros."
+   },
+   {
+    "id": "teruel-0035",
+    "partido": "teruel",
+    "titular": "Una financiación que reconozca el mayor coste de los servicios en Teruel",
+    "marca_actual": [],
+    "texto": "Defenderemos un sistema de financiación que se ajuste a la realidad de Teruel y de Aragón, y no uno hecho a medida de los territorios que más presionan al Estado. Prestar un servicio, en condiciones de calidad equivalente, donde la población es poca y está dispersa cuesta más, y la financiación tiene que reconocerlo."
+   },
+   {
+    "id": "teruel-0036",
+    "partido": "teruel",
+    "titular": "Reformar la financiación autonómica según la despoblación y la dispersión",
+    "marca_actual": [],
+    "texto": "- **Reforma de la financiación autonómica** para que los criterios reflejen el coste efectivo real de los servicios, con la despoblación, orografía, dispersión y densidad de población tenidas en cuenta."
+   },
+   {
+    "id": "teruel-0037",
+    "partido": "teruel",
+    "titular": "Que el Estado pague el coste mínimo de sanidad, educación y servicios sociales",
+    "marca_actual": [],
+    "texto": "- **El Estado garantiza el mínimo.** Asumirá el coste del nivel mínimo de los servicios públicos del Estado del bienestar (sanidad, educación y servicios sociales) según su coste efectivo. Las comunidades autónomas financiarán las mejoras sobre ese mínimo."
+   }
+  ]
+ },
+ {
+  "eje": "eje-iva",
+  "pregunta": "¿Qué hacer con el IVA?",
+  "posiciones": [
+   {
+    "id": "bajar",
+    "nombre": "Bajarlo, en general o en algunos productos"
+   },
+   {
+    "id": "subir-lujo",
+    "nombre": "Subirlo a bienes de lujo o reordenar tipos al alza"
+   }
+  ],
+  "n": 38,
+  "palabras": 2029,
+  "candidatos": [
+   {
+    "id": "podemos-0021",
+    "partido": "podemos",
+    "titular": "Aumentar al 21 % el IVA de los pisos turísticos (remite a otro apartado)",
+    "marca_actual": [],
+    "texto": "14. **Aumentar al 21% el IVA de los pisos turísticos.** _Ver en apartado de los precios tienen que bajar_"
+   },
+   {
+    "id": "podemos-0052",
+    "partido": "podemos",
+    "titular": "Reducir al 10 % el IVA de las peluquerías",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "42. **IVA reducido para peluquerías.** Reduciremos al 10 % el IVA de los servicios de peluquería, con el objetivo de apoyar a pequeños negocios y profesionales autónomos y garantizar el acceso a cuidados esenciales."
+   },
+   {
+    "id": "podemos-0053",
+    "partido": "podemos",
+    "titular": "Atención veterinaria pública y rebaja del IVA veterinario al 10 %",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "43. **IVA reducido a productos veterinarios y garantía de acceso a la atención veterinaria.** Avanzaremos hacia un sistema público de atención veterinaria universal y gratuita, comenzando por garantizar el acceso a medicamentos y tratamientos esenciales y estableciendo pólizas sufragadas por las administraciones para hogares con menores ingresos y personas en situación de vulnerabilidad. Reconoceremos las clínicas veterinarias como centros sanitarios y reduciremos el IVA de los servicios veterinarios al 10%, avanzando progresivamente hacia el 4%."
+   },
+   {
+    "id": "podemos-0054",
+    "partido": "podemos",
+    "titular": "Bajar al 5 % el IVA de los espectáculos culturales en vivo",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "44. **IVA al 5% para las entradas a teatro, danza, circo, conciertos y demás espectáculos culturales en vivo.** Bajaremos el IVA del 10% al 5% y extenderemos el tipo reducido a los servicios artísticos prestados mediante cooperativas y sociedades de artistas, que hoy tributan al 21 %."
+   },
+   {
+    "id": "podemos-0055",
+    "partido": "podemos",
+    "titular": "Eximir de IVA los productos menstruales",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "45. **Exención de IVA en productos menstruales.** Para combatir la pobreza menstrual que sigue afectando a las mujeres y personas menstruantes en nuestro país, estableceremos que todos los productos menstruales queden exentos de IVA."
+   },
+   {
+    "id": "podemos-0063",
+    "partido": "podemos",
+    "titular": "Aumentar al 21 % el IVA de los pisos turísticos",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "53. **Aumentar al 21% el IVA de los pisos turísticos.** Mientras se completa la prohibición del uso turístico de viviendas residenciales, elevaremos al 21 % el IVA aplicable a los servicios de alojamiento en pisos turísticos."
+   },
+   {
+    "id": "podemos-0075",
+    "partido": "podemos",
+    "titular": "Franquicia de IVA y criterio de caja universal para pymes y autónomos",
+    "marca_actual": [],
+    "texto": "65. **Reforma del modelo de IVA para Pymes y autónomos.** Además de incorporar el franquiciado de IVA de la normativa europea, estableceremos un sistema que garantice la aplicación universal de un criterio de caja adecuado que haga que ningún autónomo o Pyme tenga que adelantar IVA de facturas impagadas por sus clientes."
+   },
+   {
+    "id": "podemos-0158",
+    "partido": "podemos",
+    "titular": "Desarrollar el Estatuto del Artista con protección por desempleo específica",
+    "marca_actual": [],
+    "texto": "143. **Desarrollar el Estatuto del Artista y garantizar los derechos laborales y la protección social de las personas trabajadoras de la cultura.** Impulsaremos el desarrollo completo del Estatuto del Artista y del Trabajador de la Cultura para adaptar dar solución a los problemas relacionados con la deducción de gastos derivados de la actividad profesional, la mejora del criterio de caja para el pago del IVA, la flexibilización del RETA ante situaciones de discontinuidad laboral, el reconocimiento de las enfermedades profesionales y la regulación de los periodos de readaptación, formación, reciclaje y transición profesional al final de las carreras artísticas. Asimismo, incorporaremos los perfiles profesionales de artistas y personal técnico de la cultura al Catálogo Nacional de Cualificaciones, implantaremos titulaciones MECES 1 y 2 y certificados de profesionalidad que reconozcan sus competencias y faciliten su empleabilidad y movilidad profesional. Estableceremos una renta compensatoria, un sistema específico de protección por desempleo para artistas afectados por la intermitencia laboral o situaciones de vulnerabilidad. Garantizaremos también su defensa jurídica mediante una especialidad laboral en el turno de oficio y reforzaremos la protección de sus derechos frente al uso indebido de la inteligencia artificial, creando un registro público de inclusión voluntaria que permita a los creadores decidir si sus obras pueden utilizarse en proyectos de IA y facilitando la defensa de sus derechos a través de la gestión colectiva."
+   },
+   {
+    "id": "podemos-0391",
+    "partido": "podemos",
+    "titular": "Contrato eléctrico de temporada efectivo y rebaja del 85 % del impuesto eléctrico",
+    "marca_actual": [],
+    "texto": "373. **Modificación de la tarifa eléctrica en el sector primario.**\n - Hacer que funcione de verdad el contrato de temporada. Por sus muy diferentes necesidades energéticas según el momento del año, las explotaciones agrarias y las comunidades de regantes ya tienen derecho por ley a contratar dos potencias distintas a lo largo del año sin que les suba el precio, pero muchos regantes siguen sin poder acogerse a él: se garantizará que las compañías eléctricas lo apliquen, con sanciones para las que no lo hagan. Hay que impedir que las grandes empresas energéticas se sigan forrando a costa de la viabilidad económica de las explotaciones del campo.\n - Extender a las pequeñas y medianas explotaciones ganaderas la reducción del 85% del Impuesto Especial sobre la Electricidad que ya tienen los riegos agrícolas —como permite la normativa comunitaria—; no así a las macrogranjas y las explotaciones hiperintensivas."
+   },
+   {
+    "id": "podemos-0411",
+    "partido": "podemos",
+    "titular": "IVA reducido a productos veterinarios y acceso a la atención veterinaria",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "393. **IVA reducido a productos veterinarios y garantía de acceso a la atención veterinaria.** _Ver en apartado Los precios tienen que bajar._"
+   },
+   {
+    "id": "podemos-0421",
+    "partido": "podemos",
+    "titular": "Estrategia de alimentación vegetal y opción vegana diaria en comedores públicos",
+    "marca_actual": [],
+    "texto": "403. **Una alimentación más vegetal, saludable y respetuosa con los animales.** Aprobaremos una Estrategia Estatal para impulsar la alimentación vegetal y un Plan Nacional de Proteínas Vegetales que favorezca la producción, disponibilidad y consumo de estos alimentos. Garantizaremos diariamente una opción vegana nutricionalmente adecuada en los servicios públicos de restauración colectiva y desarrollaremos el Real Decreto 315/2025, formando al personal responsable de la planificación de menús. Integraremos las opciones vegetales completas y equilibradas en las políticas de salud pública, educación alimentaria y promoción de hábitos saludables. Equipararemos la fiscalidad de los alimentos vegetales sustitutivos a la de los productos a los que sustituyen y estableceremos un sistema de etiquetado claro y fiable que permita conocer las condiciones de bienestar animal en la producción de alimentos. Exigiremos asimismo cláusulas espejo en las importaciones para que los productos procedentes de terceros países cumplan estándares equivalentes de bienestar animal a los establecidos en la Unión Europea."
+   },
+   {
+    "id": "adelante-0289",
+    "partido": "adelante",
+    "titular": "IVA superreducido para luz, agua, alimentos básicos, productos menstruales y cultura",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "239. **IVA superreducido para lo básico** — Electricidad, agua, alimentos básicos, productos menstruales y cultura. _Porque la luz, el agua y la comida básica no son un lujo._"
+   },
+   {
+    "id": "adelante-0290",
+    "partido": "adelante",
+    "titular": "IVA reducido para pañales, leche de fórmula y productos de limpieza básicos",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "240. **IVA reducido para la crianza y la limpieza** — Pañales, toallitas, biberones, leche de fórmula y productos de limpieza básicos. _Porque criar a un bebé no debería pagar el IVA de un lujo._"
+   },
+   {
+    "id": "adelante-0291",
+    "partido": "adelante",
+    "titular": "IVA del 21 % para el alquiler turístico",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "241. **IVA del 21 % para el alquiler turístico** — Que tribute como la actividad empresarial que es. _Porque el alquiler turístico es un negocio y debe tributar como tal._"
+   },
+   {
+    "id": "adelante-0391",
+    "partido": "adelante",
+    "titular": "Ceder a las comunidades el 55 % del IRPF y 70 % del IVA",
+    "marca_actual": [],
+    "texto": "339. **Más recursos para los servicios públicos** — Al menos el 55 % del IRPF y el 70 % del IVA y de los impuestos especiales para las comunidades, todo en el fondo de garantía. _Porque las comunidades pagan la sanidad y la educación con unos ingresos insuficientes._"
+   },
+   {
+    "id": "adelante-0684",
+    "partido": "adelante",
+    "titular": "Diagnóstico: la protección animal no puede tener excepciones a la carta",
+    "marca_actual": [],
+    "texto": "Una sociedad que protege a quien no puede defenderse es una sociedad más justa. La ley estatal de bienestar animal dejó fuera a los perros de caza, la atención veterinaria sigue pagando un IVA del 21 % como si fuera un lujo y la tauromaquia continúa recibiendo dinero público. La protección animal no puede tener excepciones a la carta: la ley tiene que proteger a todos los animales, y el dinero público no puede financiar su sufrimiento."
+   },
+   {
+    "id": "adelante-0686",
+    "partido": "adelante",
+    "titular": "Bajar el IVA de los servicios veterinarios al tipo reducido",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "623. **IVA reducido en veterinaria** — Bajar el IVA de los servicios veterinarios al tipo reducido. _Porque cuidar a un animal no es un lujo._"
+   },
+   {
+    "id": "adelante-0697",
+    "partido": "adelante",
+    "titular": "Aplicar el IVA general a los espectáculos taurinos",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "633. **IVA general para los toros** — El tipo general en los espectáculos taurinos. _Porque no tiene sentido una rebaja de impuestos para la tauromaquia._"
+   },
+   {
+    "id": "bng-0243",
+    "partido": "bng",
+    "titular": "El IVA como traba de acceso a bienes básicos para las rentas bajas",
+    "marca_actual": [],
+    "texto": "En relación co Imposto sobre o Valor Engadido (IVE), por se tratar dun imposto indirecto que deben pagar as persoas con independencia do seu nivel de renda, e que supón unha traba no acceso a bens básicos no caso das rendas máis baixas e das clases populares, defendemos:"
+   },
+   {
+    "id": "bng-0244",
+    "partido": "bng",
+    "titular": "Aplicar el IVA superreducido a bienes esenciales y culturales",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Reducir a imposición do IVE de bens e servizos esenciais, así como os bens de carácter cultural, para que tributen no tramo superreducido."
+   },
+   {
+    "id": "bng-0245",
+    "partido": "bng",
+    "titular": "Rebaja permanente del IVA de alimentos básicos, higiene y transporte público",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Estabelecer a rebaixa permanente do IVE de produtos de alimentación básica, produtos do mar, elementos de hixiene persoal e feminina, transporte público de pasaxeiros, investimentos en eficiencia enerxética e enerxías renovábeis no ámbito doméstico e nas pequenas e medianas empresas."
+   },
+   {
+    "id": "bng-0246",
+    "partido": "bng",
+    "titular": "IVA permanente del 5 % para electricidad, gas, biomasa y leña",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Rebaixar de novo o IVE aplicado á electricidade, gas, biomasa para quecemento e madeira para leña, e do resto de subministracións básicas ao 5% e estabelecer a súa permanencia."
+   },
+   {
+    "id": "bng-0247",
+    "partido": "bng",
+    "titular": "Fijar de forma permanente el Impuesto Especial sobre la Electricidad en el 0,5 %",
+    "marca_actual": [],
+    "texto": "- Estabelecer a permanencia incondicionada da redución da taxa impositiva do Imposto Especial sobre a Electricidade (IEE) do 5,1 % ao 0,5 %."
+   },
+   {
+    "id": "bng-0281",
+    "partido": "bng",
+    "titular": "Reducir el IVA de los productos pesqueros",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- A redución do IVE aos produtos pesqueiros."
+   },
+   {
+    "id": "erc-0083",
+    "partido": "erc",
+    "titular": "Subir IVA e ITP de la vivienda no habitual y bajarlos para la primera",
+    "marca_actual": [],
+    "texto": "59. Incrementar els tipus de l’IVA i l’ITP sobre la compra d’habitatge quan aquest es destini a usos diferents a l’habitatge habitual. L’increment dels tipus d’IVA i l’ITP cal associar-lo als usos turístics, al lloguer de temporada, a les segones residències i als habitatges buits. Alhora, cal que es redueixin els tipus impositius quan l’ús final de l’habitatge sigui la primera residència, del propietari o de l’arrendatari.."
+   },
+   {
+    "id": "erc-0084",
+    "partido": "erc",
+    "titular": "Subir al 21 % el IVA del alquiler turístico",
+    "marca_actual": [],
+    "texto": "60. Augmentar l’IVA al lloguer turístic. Elevar el tipus d’IVA aplicable al lloguer turístic al 21 %, inclosos els habitatges oferts o gestionats per plataformes digitals."
+   },
+   {
+    "id": "erc-0091",
+    "partido": "erc",
+    "titular": "Reindustrialización verde, salario mínimo catalán y reforma del IRPF y el IVA",
+    "marca_actual": [],
+    "texto": "Davant d’aquest panorama, Esquerra Republicana aposta tant per mesures estructurals que ens permetin avançar cap a un model econòmic més inclusiu, fomentant la reindustrialització verda, com per mesures de suport a la classe treballadora que pateix les conseqüències d’un model econòmic basat en salaris baixos.\n\nEntre altres mesures, Esquerra Republicana fa anys que reclama que Catalunya tingui un salari mínim propi, que reflecteixi el cost de vida més alt que el d’altres territoris de l’Estat. També defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+   },
+   {
+    "id": "erc-0096",
+    "partido": "erc",
+    "titular": "Rebajar el IVA de alimentos básicos y productos de higiene",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "70. Dur a terme una reforma social de l’IVA. Rebaixar l’IVA aplicable a aliments bàsics i productes d’higiene, acabant amb un gran nombre de les reduccions i deduccions respecte a la mitjana europea."
+   },
+   {
+    "id": "erc-0273",
+    "partido": "erc",
+    "titular": "Reformar la Ley de Haciendas Locales y rebajar a 10.000 habitantes el municipio turístico",
+    "marca_actual": [],
+    "texto": "218. Cal una reforma de la Llei 39/1988, de 28 de desembre, reguladora de les hisendes locals que actualitzi el finançament per exercir les competències que avui en dia tenen els ajuntaments i altres ens locals, tendint a un sistema de finançament que doni estabilitat als ajuntaments i els faci menys dependents de les subvencions. Aquesta reforma ha de permetre incrementar els ingressos per la participació en els ingressos de l’Estat i que tots els ajuntaments, no només els més grans de 75.000 habitants, puguin rebre un percentatge dels grans impostos com l’IRPF i l’IVA. També ha de servir per assegurar la viabilitat econòmica de l’AMB i d’altres àrees que es puguin crear en un futur, permetent establir exempcions, reduccions i tipus de gravàmens diferenciats en l’aplicació de l’IBI, assegurant la justícia fiscal del tribut. Cal modificar la legislació relativa a l’IBI per equiparar els beneficis per les famílies monoparentals als previstos per les famílies nombroses. I també calen canvis en el finançament dels municipis turístics. Atès la pressió real que l’activitat turística exerceix sobre els serveis municipals, cal redefinir el concepte de municipi turístic rebaixant el llindar poblacional actual de 20.000 a 10.000 habitants i establint altres criteris alternatius més enllà del poblacional."
+   },
+   {
+    "id": "cnv-0067",
+    "partido": "cnv",
+    "titular": "Bajar al 10 % el IVA de la cesión de suelo para vivienda social",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Plantejarem a l’Estat la reducció de l’IVA aplicat a la cessió de sòl per a habitatge social, del 21% al 10%, amb la finalitat de facilitar la seva construcció i minorar el preu del lloguer."
+   },
+   {
+    "id": "cnv-0238",
+    "partido": "cnv",
+    "titular": "Reducir la carga fiscal y el IVA que soporta el sector deportivo",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Defensarem la reducció de la càrrega fiscal que afecta el sector esportiu, actualment penalitzat per l’IVA, i promourem mesures econòmiques que facilitin el finançament i l’accés a la pràctica d’activitat física i esport."
+   },
+   {
+    "id": "pnv-0071",
+    "partido": "pnv",
+    "titular": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %",
+    "marca_actual": [],
+    "texto": "6. **Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %**, dentro de los límites permitidos por la normativa europea."
+   },
+   {
+    "id": "pnv-0128",
+    "partido": "pnv",
+    "titular": "Reformar el IVA de bienes esenciales con tipos cero o superreducidos en alimentos",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "1. Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos (pescado, carne, entre otros) y a productos alimenticios específicos (personas celíacas, entre otros colectivos) y la revisión de la tributación de suministros esenciales (electricidad, gas, combustibles…) y transporte público, dentro del marco europeo."
+   },
+   {
+    "id": "pnv-0129",
+    "partido": "pnv",
+    "titular": "Revisar el IVA cultural para favorecer a artistas y galerías",
+    "marca_actual": [],
+    "texto": "2. **Revisar el IVA cultural para favorecer la actividad de artistas y galerías**, aprovechando las posibilidades de la normativa europea."
+   },
+   {
+    "id": "pnv-0133",
+    "partido": "pnv",
+    "titular": "Ampliar la capacidad normativa foral en el IVA y los Impuestos Especiales",
+    "marca_actual": [],
+    "texto": "6. Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales. Reclamar, mediante la actualización del Concierto Económico y las modificaciones legales necesarias, una mayor capacidad normativa de las instituciones competentes de los Territorios Históricos en estos impuestos, dentro de los límites de armonización establecidos por la Unión Europea, para adaptar mejor la fiscalidad a la realidad económica de Euskadi, apoyar la competitividad industrial y responder a las necesidades de las empresas y de las personas consumidoras."
+   },
+   {
+    "id": "bildu-0014",
+    "partido": "bildu",
+    "titular": "IVA del 21 % para alojamientos turísticos de corta duración",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "- Establecer un IVA del 21% para alojamientos turísticos de corta duración."
+   },
+   {
+    "id": "bildu-0046",
+    "partido": "bildu",
+    "titular": "Gratuidad de productos de higiene menstrual e IVA superreducido",
+    "marca_actual": [
+     "bajar"
+    ],
+    "texto": "- Aprobar la gratuidad de productos de higiene menstrual mediante su distribución farmacéutica y aplicar el IVA superreducido a estos productos en todos los puntos de venta."
+   },
+   {
+    "id": "bildu-0099",
+    "partido": "bildu",
+    "titular": "Aplicar un IVA del 21 % a los alojamientos turísticos de corta duración",
+    "marca_actual": [
+     "subir-lujo"
+    ],
+    "texto": "- Establecer un 21% de IVA para los alojamientos turísticos de corta duración."
+   }
+  ]
+ },
+ {
+  "eje": "eje-jubilacion",
+  "pregunta": "¿Qué hacer con la edad de jubilación?",
+  "posiciones": [
+   {
+    "id": "adelantar",
+    "nombre": "Adelantarla o flexibilizarla a la baja"
+   },
+   {
+    "id": "mantener-retrasar",
+    "nombre": "Mantenerla o incentivar retrasarla"
+   }
+  ],
+  "n": 29,
+  "palabras": 1587,
+  "candidatos": [
+   {
+    "id": "podemos-0130",
+    "partido": "podemos",
+    "titular": "Eliminar las penalizaciones por jubilación anticipada con 40 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "115. **Eliminar las penalizaciones por jubilación anticipada para las personas con 40 años cotizados.** Revisaremos los coeficientes reductores que afectan a las personas con largas carreras de cotización, eliminando retroactivamente las penalizaciones para los trabajadores y trabajadoras con 40 años o más de cotización. La reforma incluirá la revisión de las pensiones ya reconocidas, criterios objetivos y equitativos, una memoria económica y un calendario de aplicación y seguimiento, con la participación de las plataformas de pensionistas."
+   },
+   {
+    "id": "podemos-0131",
+    "partido": "podemos",
+    "titular": "Adelantar la edad ordinaria de jubilación a los 63 años",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "116. **Adelantar la edad ordinaria de jubilación a los 63 años.** Reformaremos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presupuestos Generales del Estado."
+   },
+   {
+    "id": "podemos-0145",
+    "partido": "podemos",
+    "titular": "Jubilación anticipada sin penalización en sectores especialmente duros",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "130. **Jubilación anticipada y sin penalización en sectores especialmente duros.** Las trabajadoras y los trabajadores de los sectores especialmente duros y precarios podrán jubilarse anticipadamente sin penalización."
+   },
+   {
+    "id": "podemos-0157",
+    "partido": "podemos",
+    "titular": "Precio mínimo por kilómetro y pago a 30 días a pequeños transportistas",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "142. **Garantizar un precio mínimo por kilómetro y proteger los derechos de las y los pequeños y medianos transportistas.** Se protegerá a las y los pequeños y medianos transportistas frente a las prácticas abusivas de las grandes compañías de distribución y de los grandes puertos: se prohibirá pagarles a más de 30 días, se garantizará un precio mínimo por kilómetro que vaya más allá de cubrir sus costes, se permitirá una jubilación anticipada sin penalización en razón de la especial dureza de este empleo y se prohibirán las prácticas de competencia desleal basadas en la utilización de flotas de otros países para la prestación de servicios internos con el objetivo de reducir sus ingresos y su poder de negociación en periodos de huelga o conflicto laboral."
+   },
+   {
+    "id": "podemos-0286",
+    "partido": "podemos",
+    "titular": "Coeficientes reductores de jubilación para la danza, el circo y otras profesiones artísticas",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "268. **Jubilación de profesiones de especial penosidad.** Inicio del procedimiento del Real Decreto 402/2025 para coeficientes reductores en la danza, el circo y otras profesiones artísticas y técnicas con desgaste físico acreditado."
+   },
+   {
+    "id": "podemos-0392",
+    "partido": "podemos",
+    "titular": "Plan de choque para incorporar jóvenes al sector primario y garantizar el relevo",
+    "marca_actual": [],
+    "texto": "374. **Plan de choque para incrementar significativamente la incorporación de los y las jóvenes al sector primario y garantizar así la renovación generacional y la continuidad del modelo de pequeñas y medianas explotaciones.** Durante la década que va desde 2020 a 2030, 6 de cada 10 agricultores/as-ganaderos/as entran en edad de jubilación, lo que supone una pérdida de aproximadamente 200.000 activos. Esto significa que, si no se consigue incorporar 20.000 nuevos agricultores/as-ganaderos/as cada año, el relevo generacional no será posible, las explotaciones pequeñas y medianas tendrán que ir cerrando paulatinamente y los fondos buitre y los capitales extractivos se irán haciendo cada vez más con nuestro campo. Por ello, es obligación de las administraciones públicas poner todos los recursos que sean necesarios para garantizar el mantenimiento de nuestro modelo agrario. En particular, se tomarán las siguientes medidas:\n - **Eliminación de las ayudas de la PAC de los agentes económicos que no llevan a cabo actividad agraria real.** Puesta a disposición de todos esos fondos liberados para ayudas a agricultores/as-ganaderos/as jóvenes.\n - **Formación profesional continua, adaptada y de calidad** para todos los trabajos asociados al sector primario. Ampliación de los servicios públicos de asesoramiento para mejorar la gestión técnica, económica y medioambiental de las explotaciones.\n - Establecimiento de **ayudas directas suficientes para la instalación de nuevos agricultores/as-ganaderos/as jóvenes.**\n - Estudiar la posibilidad de **bonificar parcialmente el Impuesto de Transmisiones Patrimoniales cuando dicha transmisión se produzca en beneficio de agricultores/as-ganaderos/as jóvenes** y proveniente de propietarios/as que estén cerca de la jubilación. Se estudiará también la posibilidad de habilitar la jubilación anticipada sin penalización cuando la explotación vaya a parar a manos de agricultores/as-ganaderos/as jóvenes.\n - Habilitar el **acceso preferente a la tierra y a los derechos de ayuda, plantación, cuota y riego para agricultores/as-ganaderos/as jóvenes.**"
+   },
+   {
+    "id": "podemos-0459",
+    "partido": "podemos",
+    "titular": "Ley de reparación a personas LGTBI represaliadas con prestación económica vitalicia",
+    "marca_actual": [],
+    "texto": "437. **Ley de Memoria y Justicia para la Reparación de las Personas Trans y LGTBI víctimas de la represión y la violencia institucional.** Reconoceremos a todas las víctimas y repararemos las graves vulneraciones de derechos humanos sufridas por razón de orientación sexual, identidad o expresión de género durante la dictadura franquista, la transición y los primeros años de democracia. La ley establecerá una prestación económica vitalicia, equivalente a la pensión mínima de jubilación para mayores de 65 años sin cargas familiares, compatible con otras pensiones e ingresos, que se incrementará en un 50 % para quienes hayan sufrido privación de libertad como consecuencia de la legislación represiva. Asimismo, garantizará medidas de reparación integral, reconocimiento institucional y recuperación de la memoria histórica LGTBI, incluyendo la investigación y preservación de archivos, la difusión de testimonios y la señalización de lugares de memoria. Se establecerán también medidas de acceso prioritario a la vivienda pública y a residencias para personas mayores, con el objetivo de garantizar una vejez digna a quienes sufrieron décadas de persecución, exclusión y discriminación institucional."
+   },
+   {
+    "id": "adelante-0012",
+    "partido": "adelante",
+    "titular": "Pensiones públicas revalorizadas con el IPC real y jubilación a los 64 años",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "10. **Pensiones dignas y 100 % públicas** — Un sistema público blindado en la Constitución y revalorizado con el IPC real por ley; pensiones mínimas y no contributivas iguales al salario mínimo neto; jubilación a los 64 años, desde los 55 con contrato de relevo, y jubilación completa con 40 años cotizados.\nSe desarrolla en el programa: Propuestas 216, 217, 218 y 220 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0053",
+    "partido": "adelante",
+    "titular": "Jubilación anticipada voluntaria a los 60 para el personal sanitario",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "19. **Jubilación anticipada a los 60** — Voluntaria, por la penosidad del trabajo sanitario. _Porque el trabajo sanitario a turnos y de noche desgasta mucho más que otros empleos._"
+   },
+   {
+    "id": "adelante-0126",
+    "partido": "adelante",
+    "titular": "Carrera docente con prácticas retribuidas y jubilación anticipada flexible",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "85. **Carrera docente** — Un primer curso de prácticas retribuidas en codocencia y con tutoría del equipo docente, menos horas lectivas al final de la vida laboral, mentoría y jubilación anticipada, flexible y progresiva. _Porque nadie aprende a dar clase sin acompañamiento, ni puede hacerlo igual a los 64 años que a los 30._"
+   },
+   {
+    "id": "adelante-0256",
+    "partido": "adelante",
+    "titular": "Jubilación anticipada sin penalización para quien cuidó a un hijo con gran discapacidad",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "208. **Jubilación anticipada para quien cuida** — Sin penalización para las madres y padres que han cuidado durante años a un hijo o hija con gran discapacidad. _Porque quien ha dedicado su vida a cuidar no debería ser castigado en su jubilación._"
+   },
+   {
+    "id": "adelante-0267",
+    "partido": "adelante",
+    "titular": "Jubilación completa sin coeficientes reductores con 40 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "218. **40 años cotizados, jubilación completa** — Sin coeficientes reductores para quien acredite 40 años cotizados. _Porque quien ha cotizado 40 años ya ha aportado de sobra._"
+   },
+   {
+    "id": "adelante-0268",
+    "partido": "adelante",
+    "titular": "Adelantar la jubilación en pesca, marisqueo, industria naval y campo",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "219. **Jubilación anticipada para los oficios duros** — Adelanto de la edad de jubilación para la pesca, el marisqueo, la industria naval y el trabajo en el campo, como ya tienen otros oficios penosos. _Porque son trabajos que desgastan el cuerpo mucho antes de la edad de jubilación._"
+   },
+   {
+    "id": "adelante-0269",
+    "partido": "adelante",
+    "titular": "Jubilación ordinaria a los 64 años y anticipada desde los 55 con relevo",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "220. **Jubilación a los 64 años** — Edad ordinaria de jubilación a los 64 años y jubilación anticipada desde los 55 con contrato de relevo. _Porque jubilarse antes permite que entren jóvenes a trabajar._"
+   },
+   {
+    "id": "adelante-0270",
+    "partido": "adelante",
+    "titular": "Jubilación anticipada en profesiones penosas, sanitarios desde los 60",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "221. **Jubilación anticipada en profesiones penosas** — Personal sanitario desde los 60, conducción profesional y las que se reconozcan. _Porque hay profesiones que no se pueden aguantar hasta los 67 años._"
+   },
+   {
+    "id": "adelante-0336",
+    "partido": "adelante",
+    "titular": "Transporte por carretera sin trabajar bajo costes y con jubilación anticipada",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "285. **Transporte por carretera digno** — Prohibido trabajar por debajo de costes, jubilación anticipada y enfermedades profesionales reconocidas. _Porque el transporte por carretera tiene jornadas y riesgos que hay que reconocer._"
+   },
+   {
+    "id": "adelante-0444",
+    "partido": "adelante",
+    "titular": "Transporte público gratis para menores, parados, mayores de 65 y rentas bajas",
+    "marca_actual": [],
+    "texto": "391. **Transporte gratis para quien más lo necesita** — Gratuidad para menores, personas desempleadas, mayores de 65 años y hogares con rentas bajas. _Porque el transporte público debe estar al alcance de quien menos tiene._"
+   },
+   {
+    "id": "bng-0072",
+    "partido": "bng",
+    "titular": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Recuperación da xubilación ordinaria aos 65 anos e a parcial aos 61 anos."
+   },
+   {
+    "id": "bng-0074",
+    "partido": "bng",
+    "titular": "Jubilación voluntaria sin penalización con 35 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Recoñecer a xubilación voluntaria sen penalización, a partir de ter cotizados 35 anos, reais ou por aplicación dos coeficientes redutores en determinadas profesións."
+   },
+   {
+    "id": "bng-0075",
+    "partido": "bng",
+    "titular": "Eliminar las penalizaciones por jubilación anticipada",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Eliminación das penalizacións por acceso anticipado á xubilación."
+   },
+   {
+    "id": "bng-0080",
+    "partido": "bng",
+    "titular": "Coeficientes reductores de la edad de jubilación en profesiones penosas",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Fixación de coeficientes redutores da idade de xubilación para as traballadoras e traballadores nas profesións de maior penosidade, perigosidade e insalubridade."
+   },
+   {
+    "id": "erc-0145",
+    "partido": "erc",
+    "titular": "Jubilación anticipada sin penalización en profesiones penosas o peligrosas",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "110. Reconèixer el dret a la jubilació anticipada per raó de l’activitat professional mitjançant coeficients reductors als sectors que compleixin els requisits de perillositat. Garantir l’accés a la jubilació anticipada sense penalitzacions en la pensió a les persones treballadores de sectors i professions especialment penosos, perillosos, tòxics o insalubres, quan les condicions de treball i els riscos per a la salut justifiquin una reducció de l’edat mínima de jubilació. En particular, fer efectiu el reconeixement d’aquest dret als conductors i conductores professionals del transport de mercaderies i de viatgers per carretera, atenent a la sinistralitat i als riscos associats a l’exercici prolongat d’aquestes professions. Igualment, aprovar de forma immediata la jubilació anticipada del Cos d’Agents Rurals equiparant les seves condicions a les del cos de Mossos d’Esquadra."
+   },
+   {
+    "id": "cnv-0042",
+    "partido": "cnv",
+    "titular": "Criterio «base 100»: pensión completa desde los 60 sumando edad y cotización",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Proposarem establir el criteri de “base 100” per accedir al 100% de la pensió de jubilació, de manera que les persones que, a partir dels 60 anys, sumin un total de 100 entre edat i anys cotitzats, puguin percebre la totalitat de la seva pensió."
+   },
+   {
+    "id": "cnv-0043",
+    "partido": "cnv",
+    "titular": "Suprimir coeficientes reductores en jubilación anticipada con 40 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Treballarem per la supressió dels coeficients reductors en la prestació de jubilació de les persones que han cotitzat 40 anys o més i es jubilen de forma anticipada."
+   },
+   {
+    "id": "cnv-0056",
+    "partido": "cnv",
+    "titular": "Rebajar la edad de jubilación de las personas con discapacidad",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Proposarem rebaixar l'edat mínima d'accés a la jubilació a les persones amb discapacitat i especials dificultats."
+   },
+   {
+    "id": "pnv-0190",
+    "partido": "pnv",
+    "titular": "Eliminar penalizaciones de la jubilación anticipada con más de 40 años cotizados",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "3. Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados, reconociendo las largas carreras laborales y promoviendo medidas para corregir las penalizaciones que afectan también a quienes ya están jubilados."
+   },
+   {
+    "id": "pnv-0193",
+    "partido": "pnv",
+    "titular": "Coeficientes reductores de jubilación para personas cuidadoras no profesionales",
+    "marca_actual": [],
+    "texto": "6. Favorecer coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social, reconociendo el desgaste físico y emocional de los cuidados prolongados."
+   },
+   {
+    "id": "bildu-0029",
+    "partido": "bildu",
+    "titular": "Blindar las pensiones públicas contra recortes, privatización o más edad de jubilación",
+    "marca_actual": [],
+    "texto": "- Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo."
+   },
+   {
+    "id": "bildu-0033",
+    "partido": "bildu",
+    "titular": "Pensión sin penalización con al menos 40 años de cotización",
+    "marca_actual": [
+     "adelantar"
+    ],
+    "texto": "- Culminar la tramitación de la Ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización."
+   }
+  ]
+ },
+ {
+  "eje": "eje-nuclear",
+  "pregunta": "¿Qué hacer con las centrales nucleares?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerlas o alargar su vida"
+   },
+   {
+    "id": "cerrar",
+    "nombre": "Cerrarlas según el calendario"
+   }
+  ],
+  "n": 12,
+  "palabras": 808,
+  "candidatos": [
+   {
+    "id": "podemos-0091",
+    "partido": "podemos",
+    "titular": "Firmar el tratado de prohibición de armas nucleares y prohibir armas autónomas letales",
+    "marca_actual": [],
+    "texto": "78. **Avance hacia el desarme nuclear y la prohibición de las armas autónomas letales.** Apoyaremos la abolición de las armas nucleares y promoveremos la adhesión y la firma del Tratado sobre la Prohibición de las Armas Nucleares (TPAN). Asimismo, impulsaremos la prohibición de los sistemas de armamento letal autónomo que carezcan de control humano significativo en las fases críticas de su uso."
+   },
+   {
+    "id": "podemos-0357",
+    "partido": "podemos",
+    "titular": "Cumplir el calendario de cierre nuclear, empezando por Almaraz",
+    "marca_actual": [
+     "cerrar"
+    ],
+    "texto": "339. **Cumplir el calendario de cierre nuclear y garantizar una transición justa.** Defenderemos el cumplimiento del calendario de cierre de las centrales nucleares, comenzando por Almaraz, de acuerdo con la planificación energética vigente y las condiciones de seguridad del sistema eléctrico. Acompañaremos el cierre con planes de transición justa, inversiones públicas y proyectos de reindustrialización verde que creen empleo estable y nuevas oportunidades económicas en las comarcas afectadas. Garantizaremos alternativas laborales para las personas trabajadoras y recursos para los municipios, para que el avance hacia un modelo energético limpio no se haga a costa del futuro de ningún territorio. Ni prórrogas nucleares indefinidas ni comarcas abandonadas. Cualquier almacén de residuos nucleares necesitará una consulta popular en el lugar elegido. En la UE se impulsará una hoja de ruta para abandonar la fisión nuclear y sacar la nuclear y el gas de la taxonomía verde."
+   },
+   {
+    "id": "adelante-0459",
+    "partido": "adelante",
+    "titular": "Desvincular el precio de la luz del gas de forma permanente",
+    "marca_actual": [],
+    "texto": "405. **La luz, desvinculada del gas** — De forma permanente, y gas y nuclear fuera de la taxonomía verde europea. _Porque el precio del gas dispara la factura de la luz aunque produzcamos con renovables._"
+   },
+   {
+    "id": "adelante-0461",
+    "partido": "adelante",
+    "titular": "Fin de subvenciones a fósiles y nuclear y cierre ordenado de El Cabril",
+    "marca_actual": [],
+    "texto": "407. **Ni un euro a los fósiles, ni basurero nuclear** — Fin de las subvenciones a combustibles fósiles y nuclear, moratoria de hidrocarburos y Andalucía libre de fracking. Cierre ordenado de El Cabril: un plan estatal de clausura del almacén de residuos radiactivos de Hornachuelos, en zona Red Natura 2000 y con riesgo sísmico, y un nuevo Plan General de Residuos Radiactivos que no convierta Andalucía en el basurero nuclear del Estado. _Porque Andalucía no puede seguir pagando la crisis climática ni cargando con los residuos nucleares de todo el Estado._"
+   },
+   {
+    "id": "adelante-0639",
+    "partido": "adelante",
+    "titular": "Renegociar los convenios de Rota y Morón para cerrar las bases extranjeras",
+    "marca_actual": [],
+    "texto": "580. **Rota y Morón sin bases extranjeras** — Renegociación de los convenios con el objetivo de cerrarlas y plan de empleo alternativo para las comarcas, sin escudo antimisiles ni submarinos nucleares en Gibraltar, y España en el Tratado sobre la Prohibición de las Armas Nucleares, sin armas nucleares en su territorio, puertos ni espacio aéreo. _Porque las bases extranjeras hacen de Andalucía un objetivo militar._"
+   },
+   {
+    "id": "adelante-0708",
+    "partido": "adelante",
+    "titular": "Exigir a Estados Unidos retirar la tierra contaminada de Palomares",
+    "marca_actual": [],
+    "texto": "643. **Palomares, limpio ya** — Exigir a Estados Unidos la retirada de la tierra contaminada, con controles independientes e información pública sobre los terrenos. _Porque Palomares sigue contaminado más de medio siglo después del accidente nuclear._"
+   },
+   {
+    "id": "bng-0393",
+    "partido": "bng",
+    "titular": "Inspección permanente del vertedero de residuos nucleares de la Fosa Atlántica",
+    "marca_actual": [],
+    "texto": "- Demandar un programa permanente de inspección e seguimento do estado e seguridade do vertedoiro de 140.000 toneladas de residuos nucleares na Foxa Atlántica, a 600 km da costa galega."
+   },
+   {
+    "id": "erc-0187",
+    "partido": "erc",
+    "titular": "Exigir la contribución del Estado al Fondo de Transición Nuclear catalán",
+    "marca_actual": [],
+    "texto": "147. Contribució de l’Estat al Fons de Transició Nuclear. Exigir la contribució obligatòria de l’Estat al Fons de Transició Nuclear de la Generalitat de Catalunya per un import equivalent al que aporta anualment l’administració catalana, mitjançant la recaptació finalista de l’impost sobre instal·lacions amb impacte ambiental provinent dels ingressos estatals de l’energia nuclear."
+   },
+   {
+    "id": "cnv-0246",
+    "partido": "cnv",
+    "titular": "Apuesta por la IA, infraestructuras gestionadas desde Cataluña y continuidad nuclear",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "Així mateix, la intel·ligència artificial, com a tecnologia transformadora de gran abast, ha de ser una aposta estratègica per a Catalunya. Cal impulsar-ne la recerca i l’aplicació des d’una perspectiva ètica, segura i al servei del país, fomentant la seva integració en àmbits com la salut, l’educació, la sostenibilitat o l’empresa. D’altra banda, Catalunya necessita unes infraestructures de transport modernes, eficients gestionades des del territori per garantir la competitivitat econòmica, la cohesió social i l’equilibri territorial. Davant dècades de desinversió i centralisme, exigim la finalització del Corredor Mediterrani, la renovació completa de la xarxa ferroviària, la gestió directa dels nostres ports i aeroports, i el traspàs efectiu de competències que ens permetin decidir sobre el nostre futur en mobilitat, logística i connexions internacionals.\n\nPel que fa a la transició energètica, entenem que la lluita contra el canvi climàtic exigeix solucions intel·ligents, realistes i amb visió de país. Defensem un mix energètic equilibrat i una gestió sobirana dels recursos, que garanteixi un subministrament estable, assequible i sostenible. Mentre no existeixi una tecnologia d’emmagatzematge d’energies renovables, com la de l’hidrogen verd, cal garantir la continuïtat de les centrals nuclears existents per tal de garantir l’estabilitat del subministrament. D’altra banda, cal seguir investigant en els reactors nuclears de fusió modulars i escalables, com un futur viable.\n\nPer tot això, des de Convergents proposem:"
+   },
+   {
+    "id": "cnv-0272",
+    "partido": "cnv",
+    "titular": "Mix energético que mantenga el parque nuclear mientras se desarrollan renovables",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "- Proposarem l’ús d’un mix energètic equilibrat que inclogui el manteniment de l’actual parc nuclear mentre es desenvolupa un sistema renovable segur i eficient."
+   },
+   {
+    "id": "bildu-0107",
+    "partido": "bildu",
+    "titular": "Mantener el calendario de cierre nuclear del PNIEC",
+    "marca_actual": [
+     "cerrar"
+    ],
+    "texto": "- Calendario nuclear: Apostaremos por mantener el calendario de cierre nuclear definido en el PNIEC."
+   },
+   {
+    "id": "bildu-0206",
+    "partido": "bildu",
+    "titular": "Adherirse al Tratado sobre la Prohibición de Armas Nucleares",
+    "marca_actual": [],
+    "texto": "Propondremos el impulso y la adhesión al Tratado sobre la Prohibición de Armas Nucleares (TPAN) frente al aumento del riesgo y la amenaza de su uso por parte de las potencias nucleares mundiales."
+   }
+  ]
+ },
+ {
+  "eje": "eje-tauromaquia",
+  "pregunta": "¿Proteger la tauromaquia?",
+  "posiciones": [
+   {
+    "id": "proteger",
+    "nombre": "Sí, protegerla como patrimonio"
+   },
+   {
+    "id": "retirar",
+    "nombre": "No, retirarle la protección o la financiación"
+   }
+  ],
+  "n": 9,
+  "palabras": 421,
+  "candidatos": [
+   {
+    "id": "podemos-0422",
+    "partido": "podemos",
+    "titular": "Derogar la Ley 18/2013 de la tauromaquia como patrimonio y retirar sus ayudas",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "404. **Acabar con la tauromaquia y las fiestas basadas en el maltrato animal.** Derogaremos la Ley 18/2013 que declara la tauromaquia patrimonio cultural, respaldando la ILP «No es mi cultura», y eliminaremos las ayudas y la promoción institucional de espectáculos que impliquen maltrato animal. Garantizaremos que los territorios puedan decidir democráticamente sobre su celebración mediante mecanismos de participación y consulta. Prohibiremos la asistencia y participación de menores en espectáculos taurinos y su acceso a escuelas taurinas. Pondremos fin a prácticas como el tiro de pichón y otros espectáculos que utilicen animales vivos como objetivo, así como a las fiestas populares que impliquen maltrato. Impulsaremos la reconversión de las instalaciones taurinas y medidas de transición laboral para las personas trabajadoras afectadas."
+   },
+   {
+    "id": "adelante-0684",
+    "partido": "adelante",
+    "titular": "Diagnóstico: la protección animal no puede tener excepciones a la carta",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "Una sociedad que protege a quien no puede defenderse es una sociedad más justa. La ley estatal de bienestar animal dejó fuera a los perros de caza, la atención veterinaria sigue pagando un IVA del 21 % como si fuera un lujo y la tauromaquia continúa recibiendo dinero público. La protección animal no puede tener excepciones a la carta: la ley tiene que proteger a todos los animales, y el dinero público no puede financiar su sufrimiento."
+   },
+   {
+    "id": "adelante-0685",
+    "partido": "adelante",
+    "titular": "Ley de bienestar animal sin excepciones y tauromaquia en transición a su abolición",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "622. **Ley de bienestar animal sin excepciones** — Que proteja a todos los animales, incluidos los perros de caza y de trabajo, los de experimentación, los de producción y los usados en festejos, con la tauromaquia en transición hasta su abolición. _Porque la protección animal no puede tener excepciones a la carta._"
+   },
+   {
+    "id": "adelante-0694",
+    "partido": "adelante",
+    "titular": "Transición hasta la abolición de la tauromaquia",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "La posición del programa es la transición hasta la abolición de la tauromaquia."
+   },
+   {
+    "id": "adelante-0695",
+    "partido": "adelante",
+    "titular": "Derogar la Ley 18/2013 que regula la tauromaquia como patrimonio cultural",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "631. **Tauromaquia, no patrimonio** — Derogar la Ley 18/2013, que la regula como patrimonio cultural. _Porque el sufrimiento de un animal no puede ser patrimonio cultural._"
+   },
+   {
+    "id": "adelante-0696",
+    "partido": "adelante",
+    "titular": "Fin de toda subvención y fondo europeo a la tauromaquia y escuelas taurinas",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "632. **Ni un euro público para los toros** — Fin de toda subvención, también a las escuelas taurinas, y ningún fondo europeo para nada relacionado con la tauromaquia. _Porque el dinero público no debe financiar el maltrato animal._"
+   },
+   {
+    "id": "adelante-0697",
+    "partido": "adelante",
+    "titular": "Aplicar el IVA general a los espectáculos taurinos",
+    "marca_actual": [
+     "retirar"
+    ],
+    "texto": "633. **IVA general para los toros** — El tipo general en los espectáculos taurinos. _Porque no tiene sentido una rebaja de impuestos para la tauromaquia._"
+   },
+   {
+    "id": "adelante-0698",
+    "partido": "adelante",
+    "titular": "Prohibir que menores de 16 años participen o asistan a festejos taurinos",
+    "marca_actual": [],
+    "texto": "634. **Menores fuera de los toros** — Prohibido que las personas menores de 16 años participen o asistan a festejos taurinos y a clases prácticas con reses. _Porque los menores no deben presenciar la violencia hacia los animales._"
+   },
+   {
+    "id": "adelante-0699",
+    "partido": "adelante",
+    "titular": "Ninguna corrida en televisión pública en horario infantil",
+    "marca_actual": [],
+    "texto": "635. **Sin toros en horario infantil** — Ninguna corrida en televisión pública ni contenido con violencia hacia animales en esa franja. _Porque la televisión pública no debe emitir violencia en horario infantil._"
+   }
+  ]
+ }
+]

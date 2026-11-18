@@ -1,0 +1,1760 @@
+[
+ {
+  "eje": "eje-clima-ritmo",
+  "pregunta": "¿Qué ritmo para la transición climática?",
+  "posiciones": [
+   {
+    "id": "acelerar",
+    "nombre": "Mantener o acelerar los objetivos"
+   },
+   {
+    "id": "frenar",
+    "nombre": "Frenarla o revertir el Pacto Verde y la Agenda 2030"
+   }
+  ],
+  "n": 51,
+  "palabras": 4632,
+  "candidatos": [
+   {
+    "id": "podemos-0309",
+    "partido": "podemos",
+    "titular": "Plan de Educación Ecosocial y adaptación climática de los centros públicos",
+    "marca_actual": [],
+    "texto": "291. **Una educación pública preparada para afrontar la emergencia climática.** Pondremos en marcha un Plan Estatal de Educación Ecosocial que incorpore la emergencia climática, la pérdida de biodiversidad, la justicia ambiental, las desigualdades sociales y la economía de los cuidados a los contenidos educativos, mediante proyectos interdisciplinares, materiales públicos y actividades prácticas de ciencia ciudadana y conservación ambiental. Garantizaremos que todo el alumnado pueda participar en iniciativas de recuperación de ecosistemas, estudio de la biodiversidad y vigilancia de la contaminación, en colaboración con universidades públicas, organismos científicos y organizaciones ambientales. Asimismo, desarrollaremos un plan de formación inicial y permanente del profesorado en emergencia climática y justicia ambiental, con recursos y tiempo dentro de la jornada laboral. Impulsaremos un plan integral de rehabilitación y adaptación climática de los centros educativos públicos que garantice temperaturas adecuadas durante todo el año, sin superar los 26 grados en verano ni bajar de los 17 grados en invierno. Mejoraremos la eficiencia energética y la climatización, crearemos patios verdes y zonas de sombra, impulsaremos huertos escolares y aulas al aire libre, retiraremos el amianto, prevendremos los riesgos derivados del gas radón y garantizaremos el mantenimiento y la accesibilidad universal de los edificios. Eliminaremos progresivamente las aulas provisionales y priorizaremos los centros con mayores necesidades."
+   },
+   {
+    "id": "podemos-0332",
+    "partido": "podemos",
+    "titular": "Ley de Adaptación Climática de las Ciudades y red de refugios climáticos",
+    "marca_actual": [],
+    "texto": "314. **Ciudades más verdes y preparadas para el cambio climático.** Aprobaremos una Ley de Adaptación Climática de las Ciudades para transformar nuestros municipios, recuperar espacios naturales y proteger a la población frente a las olas de calor y los fenómenos climáticos extremos. Impulsaremos la renaturalización de los espacios públicos, la recuperación de suelos naturales y la protección del arbolado urbano. Prohibiremos que las administraciones públicas, incluido los ayuntamientos, puedan talar arbolado salvo por razones justificadas de seguridad o de sanidad vegetal. Garantizaremos el cumplimiento de las zonas de bajas emisiones, impulsaremos el transporte público gratuito y accesible (ver en el apartado “Los precios tienen que bajar”), y crearemos una red de refugios climáticos de acceso público para que nadie tenga que afrontar las temperaturas extremas sin protección. Más árboles, más sombra y más protección frente al calor."
+   },
+   {
+    "id": "podemos-0333",
+    "partido": "podemos",
+    "titular": "Obligar a la industria militar a declarar sus emisiones",
+    "marca_actual": [],
+    "texto": "315. **Poner fin a la opacidad de la huella climática de la industria militar.** Obligaremos a las Fuerzas Armadas y a las empresas de defensa y armamento a declarar de forma transparente, rigurosa y exhaustiva sus emisiones de gases de efecto invernadero, incluyendo las derivadas de la producción militar en el Estado español. Impulsaremos una normativa específica que garantice su medición y control, y defenderemos ante las Naciones Unidas compromisos vinculantes para que las emisiones militares dejen de quedar al margen de las obligaciones internacionales de transparencia climática."
+   },
+   {
+    "id": "podemos-0334",
+    "partido": "podemos",
+    "titular": "Reducir emisiones un 55 % en 2030 y adelantar la neutralidad a 2040",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "316. **Más ambición climática: reducir las emisiones y adelantar la transición ecológica.** Frente a la emergencia climática, ni excusas ni objetivos insuficientes. Reformaremos la Ley de Cambio Climático y Transición Energética para elevar la ambición de los objetivos de reducción de emisiones y acelerar la transición hacia un modelo energético limpio y sostenible. Fijaremos como objetivo reducir las emisiones de gases de efecto invernadero al menos un 55 % para 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantaremos a 2040 el horizonte de neutralidad climática. Porque proteger el planeta también significa proteger la salud, garantizar un futuro habitable y evitar que los costes y las consecuencias de la crisis climática recaigan sobre quienes menos tienen."
+   },
+   {
+    "id": "podemos-0335",
+    "partido": "podemos",
+    "titular": "Auditar y eliminar las ayudas públicas a los combustibles fósiles",
+    "marca_actual": [],
+    "texto": "317. **Que el dinero público deje de financiar la crisis climática.** Mientras la inversión mundial en energías limpias ha alcanzado la cifra récord de 2,2 billones de dólares según la Agencia Internacional de la Energía, el Fondo Monetario Internacional (FMI) cifra el apoyo total a la industria fósil en unos 7 billones de dólares anuales. Pondremos en marcha una auditoría oficial de todas las ayudas, subvenciones, beneficios fiscales y mecanismos de financiación pública destinados a la industria de los combustibles fósiles. Publicaremos sus resultados y aprobaremos un plan para eliminar progresivamente estas ayudas y redirigir los recursos hacia las energías renovables, el ahorro energético y una transición ecológica justa. El dinero público debe servir para proteger el planeta y mejorar la vida de la gente, no para sostener un modelo energético que agrava la emergencia climática y sus consecuencias sobre la salud. Ni un euro público para alimentar la crisis climática."
+   },
+   {
+    "id": "podemos-0338",
+    "partido": "podemos",
+    "titular": "Refrigeración obligatoria en centros públicos ante las olas de calor",
+    "marca_actual": [],
+    "texto": "320. **Proteger a las personas más vulnerables frente a las olas de calor mediante la instalación obligatoria de equipos de refrigeración en todo el sistema público.** Se establecerá la obligación legal de contar con equipos de aire acondicionado —o sistemas más eficientes energéticamente como aspersores de refrigeración o ventiladores, cuando esto sea suficiente para mantener una temperatura compatible con la salud— que deberán estar debidamente mantenidos para su correcto funcionamiento en todos los establecimientos educativos (incluyendo escuelas infantiles), centros de salud y hospitalarios, centros de día, centros de atención para personas sin hogar, residencias de ancianos y vehículos del sistema de transporte público. No puede ser que las altas temperaturas y las olas de calor provoquen problemas de salud a los usuarios de estos sistemas, muchos de ellos personas vulnerables, o incluso que se produzca la paralización del proceso educativo durante periodos que, debido al calentamiento global, van a ocupar cada vez más días al año. Y tampoco puede ser que se acepte como normal la discriminación por cuestión de clase económica que supone que el transporte privado, los colegios privados o las clínicas privadas sí tengan, al menos en mayor medida, sistemas confortables de refrigeración, pero estos falten en el sistema público."
+   },
+   {
+    "id": "podemos-0339",
+    "partido": "podemos",
+    "titular": "Proteger a mayores y personas sin hogar durante las olas de calor",
+    "marca_actual": [],
+    "texto": "321. **Proteger a mayores y personas sin hogar del calor.** En las olas de calor se vigilará a las personas mayores y con discapacidad que viven solas, con llamadas regulares a quienes tienen patologías de riesgo, y se reforzará la atención en los barrios con viviendas mal climatizadas o pocas zonas verdes. Habrá campañas de calor para las personas sin hogar, como las del frío: más plazas de alojamiento y albergues diurnos frescos, agua, comida y coordinación entre los servicios de emergencia y los sociales."
+   },
+   {
+    "id": "podemos-0341",
+    "partido": "podemos",
+    "titular": "Red de refugios climáticos a menos de 200 metros de cada persona",
+    "marca_actual": [],
+    "texto": "323. **Una red de refugios climáticos.** Habrá una red de refugios climáticos, en bibliotecas, escuelas, centros cívicos y locales por convenio, frescos y abiertos a todo el mundo en las horas centrales, con agua gratuita y prioridad para las personas sin hogar o en infravivienda, hasta que nadie tenga uno a más de 200 metros."
+   },
+   {
+    "id": "podemos-0346",
+    "partido": "podemos",
+    "titular": "Sistema eléctrico 95 % renovable en 2035 y descarbonizado en 2040",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "328. **Un sistema eléctrico 100% renovable y libre de combustibles fósiles.** Revisaremos el Plan Nacional Integrado de Energía y Clima para acelerar la transición energética, estableciendo como meta una reducción al 50 % de la energía primaria fósil en 2030 y alcanzar al menos un 95 % de generación eléctrica renovable en 2035, avanzando hacia un sistema completamente descarbonizado en 2040. Impulsaremos el despliegue equilibrado de la energía solar y eólica, el autoconsumo, las comunidades energéticas y los sistemas de almacenamiento mediante baterías y bombeo hidráulico, y modernizaremos las redes eléctricas mediante planificaciones basadas en simulaciones horarias y escenarios meteorológicos para garantizar un suministro seguro y estable. Mantendremos transitoriamente las centrales de ciclo combinado de gas como respaldo indispensable del sistema. Apostaremos por una transición planificada, con criterios de protección de la biodiversidad, participación ciudadana y equilibrio territorial, que erradique nuestra dependencia exterior de los combustibles fósiles. Garantizaremos que, antes del cese de cualquier actividad laboral vinculada a los combustibles fósiles, se active la creación de dos nuevos empleos con condiciones laborales y salariales idénticas o mejoradas en la misma comarca, otorgando prioridad absoluta de contratación a las personas afectadas."
+   },
+   {
+    "id": "podemos-0349",
+    "partido": "podemos",
+    "titular": "Financiar al 100 % placas y rehabilitación energética para rentas bajas",
+    "marca_actual": [],
+    "texto": "331. **Inversión 100% pública y municipal de placas fotovoltaicas y rehabilitación energética de viviendas en edificios y viviendas particulares de ingresos medios bajos, así como un plan de subvenciones para eliminar las instalaciones domésticas de gas natural.** Se llevará a cabo un plan integral que perseguirá dos importantísimos objetivos al mismo tiempo: la reducción de la factura energética de las familias y la descarbonización del consumo energético doméstico. Este plan constará al menos de las siguientes vertientes:\n - Las familias vulnerables tienen dificultades para la instalación de placas fotovoltaicas por la inversión inicial a realizar, y a pesar de las subvenciones públicas existentes, su coste económico sigue siendo considerable. Por ejemplo, actualmente los particulares pueden subvencionar aproximadamente entre un 30 y un 40% del coste de instalaciones fotovoltaicas. Por ello, una medida tanto de ahorro energético como de política social es la creación de un fondo de financiación para municipios que permita la **financiación al 100% del coste de instalación de placas en barrios vulnerables y/o para familias de ingresos bajos**. Las actuaciones las llevará a cabo directamente la administración pública, lo cual garantizaría la ausencia de cuellos de botella burocráticos. Al garantizarse que se van a producir las reformas, el plan liderará la creación de empleo en pymes locales y entidades de la economía social, fortaleciendo un sector emergente de nuestra economía. La instalación y el mantenimiento de estas podrá realizarse por pequeñas y medianas empresas que colaboren en la formación en este sector. Así, se establecerán convenios de colaboración y prácticas con centros de formación profesional trabajando en este ámbito, para que así esta política pública ayude al fomento de la formación en el sector. Ello no quita el mantenimiento de programas de subvenciones para propietarios con mayor capacidad financiera, con el objetivo de acelerar la transición.\n - Exactamente lo mismo se hará con la **rehabilitación energética de viviendas**.\n - **Plan de subvenciones y créditos blandos para sustituir las instalaciones domésticas de gas natural**. Se llevará a cabo un plan de subvenciones y créditos blandos para sustituir la tecnología de gas natural doméstico por otras tecnologías electrificadas y/o no dependientes del gas, como las calderas eléctricas, las cocinas de inducción o la aerotermia y las bombas de calor. Esta situación de crisis es un buen momento para avanzar en esa dirección al tiempo que se evita el impacto negativo en la economía doméstica. En el medio plazo, se facilitará y financiará la instalación de sistemas centralizados de calefacción por barrios, de titularidad pública, como por ejemplo los que existen a día de hoy en Dinamarca, facilitando un cambio tecnológico transparente para las personas usuarias finales y beneficiándonos de la economía de escala que conlleva un ahorro económico desde el principio frente a las calderas individuales."
+   },
+   {
+    "id": "podemos-0369",
+    "partido": "podemos",
+    "titular": "Ley de Movilidad Sostenible hacia un transporte público de gestión directa",
+    "marca_actual": [],
+    "texto": "351. **Aprobaremos una Ley de Movilidad Sostenible.** Impulsaremos una Ley de Movilidad Sostenible para recuperar el transporte público y garantizar una movilidad segura y justa. Aprobaremos una Ley de Movilidad Sostenible que avance hacia un modelo de transporte público de gestión directa, poniendo fin a las nuevas externalizaciones y creando un fondo estatal para que las administraciones puedan recuperar progresivamente la gestión de los servicios actualmente privatizados. Frenaremos la uberización del transporte, garantizando la titularidad pública de los servicios, la transparencia y estabilidad de las tarifas y el control público de las plataformas de información y venta. Blindaremos las competencias municipales para regular el transporte y la circulación en sus ciudades, impediremos nuevas privatizaciones de las torres de control aeroportuarias y avanzaremos en la recuperación pública de las actualmente privatizadas. Asimismo, protegeremos los derechos laborales de las trabajadoras y trabajadores del sector, garantizando que puedan adoptar decisiones por razones de seguridad sin sufrir represalias y evitando que la gestión algorítmica se traduzca en precariedad laboral. Todo ello con el objetivo de avanzar hacia la neutralidad climática del transporte antes de 2040, con objetivos intermedios de reducción de emisiones para 2030 y 2035."
+   },
+   {
+    "id": "podemos-0378",
+    "partido": "podemos",
+    "titular": "Prohibir los nuevos desarrollos urbanísticos en zonas inundables",
+    "marca_actual": [],
+    "texto": "360. **Prohibición de urbanizar en zonas inundables.** No se puede seguir construyendo donde el agua necesita su espacio. Prohibiremos los nuevos desarrollos urbanísticos en zonas inundables y revisaremos la planificación territorial para incorporar los escenarios de riesgo climático más exigentes. Adaptaremos la cartografía de inundabilidad a los efectos previsibles del cambio climático y reforzaremos las medidas de prevención y protección de la población. La seguridad de las personas debe estar por encima de los intereses urbanísticos."
+   },
+   {
+    "id": "podemos-0395",
+    "partido": "podemos",
+    "titular": "Garantizar la viabilidad de las pequeñas explotaciones en su adaptación climática",
+    "marca_actual": [],
+    "texto": "377. **Garantizar la sostenibilidad social y económica de los pequeños y medianos productores a la hora de llevar a cabo la necesaria adaptación del sector a la lucha contra el cambio climático.** Es evidente que la transición ecológica y la lucha contra el cambio climático es una tarea urgente y es una tarea de todos, y nadie mejor que los productores del campo —que sufren de forma directa la sequía, los fenómenos meteorológicos extremos o la desertificación— sabe que esto es así. Pero lo que no puede ser es que las necesarias medidas para adaptar nuestro sector primario a esta situación pongan en peligro la viabilidad económica de nuestros pequeños y medianos productores. Que eso ocurra es un completo sinsentido. Si los requisitos medioambientales, tal y como están actualmente establecidos, llevan a la desaparición de muchas explotaciones tradicionales pequeñas y medianas, eso no es positivo para el medioambiente. Las explotaciones tradicionales pequeñas y medianas tienden a ser mucho más respetuosas con la sostenibilidad ya que están arraigadas en el territorio y necesitan seguir operando en el largo plazo, frente a los grandes capitales extractivos que no tiene ningún problema de llevarse el dinero a otra parte una vez que hayan destruido el suelo y los recursos naturales. Pero es que además, si no se resuelve este problema, se dan alas al negacionismo climático de la extrema derecha que ya está dibujando a la transición ecológica como un enemigo de los pequeños y medianos productores cuando debería ser todo lo contrario. Por todo ello, es vital que se lleven a cabo **todas las medidas necesarias para garantizar la viabilidad de las pequeñas y medianas explotaciones del campo en su adaptación a la lucha contra el cambio climático:** ayudas directas para hacer las reformas necesarias, acompañamiento exhaustivo de la administración, reducción drástica de la burocracia y establecimiento de un trato diferencial en términos de plazos y condiciones frente a los que tengan que cumplir las grandes explotaciones. La administración pública no puede dejar caer ni un solo agricultor ni un solo ganadero en este proceso. La única manera de que la transición ecológica sea exitosa es que sea socialmente justa."
+   },
+   {
+    "id": "adelante-0021",
+    "partido": "adelante",
+    "titular": "Desprivatizar la energía, empresa pública andaluza y ley de emergencia climática",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "19. **Desprivatización de toda la energía para una transición ecosocial** — Toda la energía debería ser pública y tener un objetivo social. Desprivatizar la energía y crear una empresa pública andaluza de energía y una ley de emergencia climática con objetivos anuales verificables. Renovables pequeñas y repartidas por el territorio en lugar de macroplantas, redes renovadas y fin de los cortes de luz en los barrios.\nSe desarrolla en el programa: Propuestas 397, 399, 400, 401, 404 y 412 · Área 05 Bienes comunes"
+   },
+   {
+    "id": "adelante-0152",
+    "partido": "adelante",
+    "titular": "Plan estatal para climatizar colegios, retirar el amianto y eliminar prefabricadas",
+    "marca_actual": [],
+    "texto": "109. **Colegios preparados para el clima** — Plan estatal para climatizar los colegios, crear sombra, retirar el amianto y acabar con las aulas prefabricadas, con calendario público. _Porque hay aulas que superan los 30 grados y alumnado que da clase en prefabricadas._"
+   },
+   {
+    "id": "adelante-0450",
+    "partido": "adelante",
+    "titular": "Diagnóstico: Andalucía, de las tierras más expuestas al cambio climático en Europa",
+    "marca_actual": [],
+    "texto": "Andalucía es de las tierras más expuestas al cambio climático en Europa: sequías cada vez más largas, olas de calor que ya cuestan vidas, incendios fuera de temporada y un litoral amenazado. Y, sin embargo, se sigue sobreexplotando el agua de Doñana, se llenan el campo y el monte de macroplantas sin planificar y se protege más el negocio del gas que a los hogares que no pueden pagar la luz. Mientras tanto, la extrema derecha niega la emergencia climática que ya sufren nuestros campos y nuestros pueblos: negar el problema es la forma más cara de no resolverlo. El agua, la energía y el territorio son de todas y todos y se gestionarán para el bien común: una ley de emergencia climática con objetivos verificables, la salida del gas, energía pública y renovable, el agua como derecho y una naturaleza protegida que también dé empleo en los pueblos."
+   },
+   {
+    "id": "adelante-0451",
+    "partido": "adelante",
+    "titular": "Ley de emergencia climática con objetivos anuales y el 2 % del PIB ambiental",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "397. **Ley de emergencia climática** — Objetivos anuales y verificables de reducción de emisiones y de demanda energética, y un mínimo del 2 % del PIB para políticas ambientales. _Porque sin objetivos verificables las leyes climáticas se quedan en papel._"
+   },
+   {
+    "id": "adelante-0452",
+    "partido": "adelante",
+    "titular": "Reformar la Ley de Cambio Climático según el TEDH y exigir planes municipales",
+    "marca_actual": [],
+    "texto": "398. **Planes climáticos que cumplan los derechos humanos** — Reformar la Ley de Cambio Climático conforme a la jurisprudencia del Tribunal Europeo de Derechos Humanos y obligar a planes municipales. _Porque el Tribunal Europeo de Derechos Humanos ya ha condenado la inacción climática._"
+   },
+   {
+    "id": "adelante-0458",
+    "partido": "adelante",
+    "titular": "Salida del gas del sistema eléctrico en 2030 y de la industria en 2035",
+    "marca_actual": [],
+    "texto": "404. **Calendario de salida del gas** — Fuera del sistema eléctrico en 2030, industria descarbonizada en 2035 y ninguna infraestructura gasista nueva. _Porque seguir dependiendo del gas es caro y contaminante._"
+   },
+   {
+    "id": "adelante-0481",
+    "partido": "adelante",
+    "titular": "Bosques urbanos, sombra y más zonas verdes para ciudades más frescas",
+    "marca_actual": [],
+    "texto": "427. **Ciudades más frescas** — Bosques urbanos, sombra en parques y patios escolares y más zonas verdes. _Porque las ciudades sin sombra son cada vez más peligrosas en verano._"
+   },
+   {
+    "id": "adelante-0492",
+    "partido": "adelante",
+    "titular": "Prohibir construir en zonas inundables y cambiar el uso de lo construido",
+    "marca_actual": [],
+    "texto": "438. **Ni una casa más en zona inundable** — Prohibir construir en zonas inundables y planificar el cambio de uso de lo ya construido. _Porque construir en zonas inundables pone vidas en peligro._"
+   },
+   {
+    "id": "bng-0307",
+    "partido": "bng",
+    "titular": "Transferir a Galicia las competencias en materia energética",
+    "marca_actual": [],
+    "texto": "- Transferir as competencias en materia enerxética, de maneira que se corrixa a anomalía democrática de que, malia estar especializada na produción, Galiza teña impedimentos para deseñar o seu propio modelo enerxético e de descarbonización de maneira acorde ás súas necesidades enerxéticas, sociais, económicas e medioambientais, garantindo o control público galego deste sector estratéxico."
+   },
+   {
+    "id": "bng-0315",
+    "partido": "bng",
+    "titular": "Impulsar el ahorro energético y las renovables y reducir los combustibles fósiles",
+    "marca_actual": [],
+    "texto": "- Impulsar o aforro enerxético, do descenso do impacto medioambiental e da soberanía enerxética, así como a aposta por unha política decidida de fomento das enerxías renovábeis e da redución do consumo de combustíbeis fósiles en todos os sectores consumidores, poñendo especial atención naqueles que, polas súas características teñen unha dependencia estrema destes, como poden ser os sectores primarios ou o transporte."
+   },
+   {
+    "id": "bng-0319",
+    "partido": "bng",
+    "titular": "Terminar los concursos de transición justa manteniendo los megavatios liberados",
+    "marca_actual": [],
+    "texto": "- Rematar os concursos de transición xusta para Galiza mantendo, como mínimo os megavatios liberados no peche das centrais, de forma que se fomenten proxectos industriais con investimento e creación de emprego nos concellos afectados, mediante un proceso con bases de concorrencia e supervisado por unha mesa de transición onde estean representados os axentes sociais e a administración local das zonas de transición xusta."
+   },
+   {
+    "id": "bng-0321",
+    "partido": "bng",
+    "titular": "Convocar regularmente las mesas de seguimiento de la transición justa",
+    "marca_actual": [],
+    "texto": "- Garantir o seguimento, o diálogo e a concreción das medidas de transición enerxética a través da convocatoria regular das mesas de transición a obxecto de facer seguimento aos cumprimentos dos Convenios de Transición Xusta."
+   },
+   {
+    "id": "bng-0322",
+    "partido": "bng",
+    "titular": "Compensar la deuda histórica del Estado con las comarcas mineras gallegas",
+    "marca_actual": [],
+    "texto": "- Compensar a débeda histórica do Estado coas comarcas mineiras galegas polo incumprimento e pola exclusión dos sucesivos Plans do Carbón."
+   },
+   {
+    "id": "bng-0358",
+    "partido": "bng",
+    "titular": "Declarar el ferrocarril modo de transporte prioritario e incluirlo en el PNIEC",
+    "marca_actual": [],
+    "texto": "- Declarar que o transporte ferroviario sexa a modalidade prioritaria sobre calquera outra forma de transporte persoal e de mercadorías por terra. Introducir esta declaración no Plan Nacional Integrado de Enerxía e Clima, con obxectivos medíbeis por ano."
+   },
+   {
+    "id": "bng-0373",
+    "partido": "bng",
+    "titular": "Diagnóstico: el sistema capitalista agrava la degradación ambiental y climática",
+    "marca_actual": [],
+    "texto": "O sistema económico capitalista baseado na acumulación, no incremento exponencial do consumo e na extracción masiva de recursos naturais contribuíu decisivamente á aceleración e agravamento dos procesos de degradación ambiental: perda de biodiversidade, deterioro dos ecosistemas e das paisaxes, proliferación de especies invasoras, contaminación do solo, do ar e das augas, etc. Xunto con estes procesos, a cara máis visíbel da crise ecolóxica é a mudanza do clima, que deriva en emerxencia pola proliferación de fenómenos meteorolóxicos extremos (incremento das temperaturas medias, ondas de calor recorrentes, episodios de seca continuada, sucesión de temporais e chuvias torrenciais…) e as súas consecuencias devastadoras para a saúde, a vida, os ecosistemas, as infraestruturas, as emerxencias ou as actividades económicas. A recorrencia e intensidade dos grandes incendios forestais constitúe a manifestación máis evidente dos riscos extraordinarios para a poboación, os núcleos habitados, a biodiversidade ou a economía."
+   },
+   {
+    "id": "bng-0374",
+    "partido": "bng",
+    "titular": "Plena capacidad gallega en medio ambiente frente al modelo extractivo",
+    "marca_actual": [],
+    "texto": "Desde o BNG rexeitamos e combatemos estes sistema que pon en risco a vida das persoas e ameaza o futuro do planeta. Asumimos que estamos diante dun reto de máxima relevancia ao que temos que dar unha resposta acaida como sociedade e como país. Unha resposta que poña o foco nas causas estruturais desta crise, que sinale e combata a quen pretende incrementar os lucros a costa da emerxencia e que propoña unha alternativa -sustentábel e autocentrada- ao espolio colonial dos nosos recursos e da nosa riqueza.\n\nPor iso, o BNG aposta por unha Galiza con plena capacidade para decidir en materia ambiental, que poida aplicar políticas avanzadas e transformadoras neste ámbito. Defenderemos en todos os ámbitos, e nomeadamente nas Cortes, a superación dun modelo dependente e extractivo que converteu a Galiza en fornecedora de materias primas e enerxía, con altísimos custos sociais e ambientais. Asemade, combaterá un sistema económico e social baseado no espolio dos recursos naturais, no hiperconsumismo, na cultura de “usar e descartar”, no descontrol e dispendio de recursos como a auga ou a enerxía, e na xeración excesiva de residuos."
+   },
+   {
+    "id": "bng-0396",
+    "partido": "bng",
+    "titular": "Sustituir los créditos de carbono por compensación de servicios ecosistémicos",
+    "marca_actual": [],
+    "texto": "- Transformar o modelo de mercantilización da captura de CO2 (sistema de compra de créditos de carbono por parte de empresas contaminantes) cara a sistemas de compensación pola prestación de servizos ecosistémicos (preservación de ecosistemas de alto interese, prevención do cambio climático, conservación e protección dos recursos hídricos, conservación do bosques maduros, prevención da erosión, da degradación e da artificialización de solos, incremento da superficie agraria útil e da produción sustentábel de alimentos, usos socioculturais e de lecer…)."
+   },
+   {
+    "id": "erc-0169",
+    "partido": "erc",
+    "titular": "Democratizar el mercado energético con autoconsumo y comunidades energéticas",
+    "marca_actual": [],
+    "texto": "En definitiva, la transició energètica és una revolució que ha de democratitzar el mercat energètic, alliberar-lo d’oligopolis i garantir l’accés a l’energia a preus justos com a bé de primera necessitat. Per fer-ho possible, cal convertir la ciutadania, les cooperatives, les pimes i els municipis en actors actius del sistema mitjançant l’autoconsum col·lectiu, les comunitats energètiques locals i la participació en la gestió de la xarxa. Aquesta és l’aposta per a una Catalunya compromesa amb els objectius globals de l’Agenda 2030: un model sostenible, d’eficiència, amb plena complicitat territorial i que situï la sobirania energètica al servei de la gent i de la competitivitat de la nostra economia."
+   },
+   {
+    "id": "erc-0193",
+    "partido": "erc",
+    "titular": "Reducir emisiones de CO2 un 65 % en 2030 y 95 % en 2040",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "153. Alinear la planificació energètica i climàtica amb els objectius científics. Cal assegurar el compliment amb els objectius de reducció d’emissions de CO2 d’almenys el 65 % el 2030 i del 95 % el 2040, respecte a 1990."
+   },
+   {
+    "id": "erc-0195",
+    "partido": "erc",
+    "titular": "Plan estatal contra la regresión litoral del delta del Ebro",
+    "marca_actual": [],
+    "texto": "155. Protegir el delta de l’Ebre davant la regressió litoral i el canvi climàtic. Exigir un pla estatal anual acordat amb el territori per combatre la regressió, la subsidència i la pujada del mar al delta de l’Ebre, prioritzant la mobilització de sorres i la recuperació de sediments d’embassaments, adaptant la gestió d’inundacions i eliminant tràmits que bloquegen les actuacions catalanes."
+   },
+   {
+    "id": "cnv-0152",
+    "partido": "cnv",
+    "titular": "Plan con el Estado contra la sequía en Cataluña",
+    "marca_actual": [],
+    "texto": "- Demanarem la col·laboració de l'estat en el desenvolupament d'un pla d'actuació per a lluitar contra la sequera a Catalunya, que tingui en compte les particularitats del territori."
+   },
+   {
+    "id": "cnv-0153",
+    "partido": "cnv",
+    "titular": "Fondo de estabilización climática para pérdidas por sequías o heladas",
+    "marca_actual": [],
+    "texto": "- Impulsarem la creació d’un fons d’estabilització climàtica, amb participació pública i privada, destinat a compensar les pèrdues derivades de fenòmens extrems com les sequeres o les gelades."
+   },
+   {
+    "id": "pnv-0052",
+    "partido": "pnv",
+    "titular": "Proteger el futuro industrial de comarcas en crisis como Aiaraldea",
+    "marca_actual": [],
+    "texto": "3. Proteger el futuro industrial de las comarcas especialmente afectadas por procesos de crisis o transformación, como Aiaraldea, mediante inversiones, innovación, descarbonización, disponibilidad de suelo industrial y diálogo con los agentes implicados."
+   },
+   {
+    "id": "pnv-0067",
+    "partido": "pnv",
+    "titular": "Revisar la planificación energética estatal y el PNIEC según las necesidades industriales",
+    "marca_actual": [],
+    "texto": "2. **Revisar la planificación energética estatal y el Plan Nacional Integrado de Energía y Clima**, incorporando las necesidades industriales, la seguridad del suministro y la competitividad económica."
+   },
+   {
+    "id": "pnv-0078",
+    "partido": "pnv",
+    "titular": "Una transición ecológica que reduzca emisiones sin comprometer la actividad productiva",
+    "marca_actual": [],
+    "texto": "**Queremos una Euskadi industrial y sostenible. La transición ecológica debe reducir emisiones, proteger nuestros recursos y facilitar nuevas oportunidades económicas sin comprometer la actividad productiva.**"
+   },
+   {
+    "id": "pnv-0084",
+    "partido": "pnv",
+    "titular": "Estrategia de adaptación al cambio climático con financiación suficiente",
+    "marca_actual": [],
+    "texto": "6. Favorecer una estrategia de adaptación al cambio climático con financiación suficiente, priorizando la prevención de inundaciones, temporales, incendios y fenómenos meteorológicos extremos."
+   },
+   {
+    "id": "pnv-0088",
+    "partido": "pnv",
+    "titular": "Plan de adaptación y protección de la costa vasca frente a la erosión",
+    "marca_actual": [],
+    "texto": "10. Favorecer un plan de adaptación y protección de la costa vasca, frente a la erosión, los temporales, las inundaciones y la subida del nivel del mar."
+   },
+   {
+    "id": "bildu-0103",
+    "partido": "bildu",
+    "titular": "Transición ecosocial: acelerar la descarbonización con autosuficiencia conectada",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "EH Bildu concibe la transición ecosocial como una transformación urgente y sistémica que enfrente la emergencia climática, sitúe en el centro la sostenibilidad de la vida, responda al principio de justicia climática y genere una nueva prosperidad respetando los límites ecológicos del planeta. Al trasladar este enfoque a las Cortes Generales, nuestra acción se acomete con una perspectiva propia en el camino de nuestra soberanía nacional. Prioritariamente, buscamos acelerar la descarbonización y reducir la dependencia energética exterior, aplicando el principio de la autosuficiencia conectada, es decir, impulsando la mayor provisión posible de energía, bienes y recursos desde la proximidad, mediante el aprovechamiento de las capacidades propias y su articulación en redes de cooperación e interdependencia entre territorios, exigiendo pleno respeto a la capacidad de decisión de las instituciones propias de Euskal Herria, así como al Concierto Económico y al Convenio Económico. Sin ser un programa de gobierno detallado, las líneas estratégicas que presentamos buscan favorecer el desarrollo de la ponencia Bizigintza, la vía de EH Bildu para impulsar la transición ecosocial desde y para Euskal Herria. Las líneas que se esbozan aquí no agotan el conjunto de medidas que pueden contribuir a la transición ecosocial. Por ello, EH Bildu está abierta a apoyar o vehiculizar otras iniciativas que lleguen desde la sociedad civil organizada, siempre que estén en línea con la orientación general de nuestra base programática y respeten el marco competencial. Esto es especialmente relevante en materias como la adaptación al cambio climático, donde defendemos un enfoque bottom-up, con las instituciones más próximas como protagonistas."
+   },
+   {
+    "id": "bildu-0104",
+    "partido": "bildu",
+    "titular": "Revisar al alza el PNIEC y adelantar la descarbonización a 2045",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- Ambición climática: Revisión al alza de los objetivos de la planificación de energía y clima (PNIEC), con el objetivo de adelantar la descarbonización, al menos, a 2045."
+   },
+   {
+    "id": "bildu-0105",
+    "partido": "bildu",
+    "titular": "Reducir con urgencia el uso de combustibles fósiles en todos los sectores",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- Dependencia fósil: Reducir urgentemente el uso de los combustibles fósiles como vía prioritaria para reducir emisiones y dependencia energética exterior. Actuar para ello en todos los sectores estableciendo objetivos más ambiciosos en cada uno de ellos."
+   },
+   {
+    "id": "bildu-0107",
+    "partido": "bildu",
+    "titular": "Mantener el calendario de cierre nuclear del PNIEC",
+    "marca_actual": [],
+    "texto": "- Calendario nuclear: Apostaremos por mantener el calendario de cierre nuclear definido en el PNIEC."
+   },
+   {
+    "id": "bildu-0108",
+    "partido": "bildu",
+    "titular": "Adaptación climática desde abajo con la comarca como unidad",
+    "marca_actual": [],
+    "texto": "- Adaptación a la emergencia climática: EH Bildu apuesta por una estrategia bottom-up, con la comarca como unidad adaptativa ideal, a través de estrategias integrales que combinen políticas de planificación territorial, agua, forestal, urbanística, agrícola-ganadera, movilidad, infraestructuras etc. encaminadas a hacer nuestros territorios más resilientes. Como orientación general, apoyaremos las modificaciones legislativas más avanzadas según criterios científico-técnicos, respetando la distribución competencial."
+   },
+   {
+    "id": "bildu-0109",
+    "partido": "bildu",
+    "titular": "Electrificar, reforzar las redes y reformar el mercado eléctrico",
+    "marca_actual": [],
+    "texto": "- Electrificación: Apuesta por la electrificación como vía prioritaria a la descarbonización. Apoyo a establecer objetivos de electrificación vinculantes.\n - Refuerzo del sistema eléctrico: Reforzar las redes eléctricas, el almacenamiento y los mecanismos de flexibilidad necesarios para integrar más energía renovable y responder a la demanda creciente.\n - Reformar el mercado eléctrico para evitar que el aumento del precio del gas fósil en los mercados internacionales presione excesivamente al alza el precio del conjunto de la electricidad.\n - Comunidades energéticas y autoconsumo: Facilitar, a través del marco normativo, el marco fiscal y el apoyo económico directo, la expansión del autoconsumo, las comunidades energéticas y comunidades ciudadanas de energías.\n - Protección social y automatización del bono social eléctrico: Automatizar el acceso al bono social eléctrico y térmico para cerrar la brecha actual de NON TAKE UP, y favorecer la participación de hogares vulnerables en comunidades energéticas."
+   },
+   {
+    "id": "bildu-0110",
+    "partido": "bildu",
+    "titular": "Impulsar el Made in Europe como instrumento de soberanía industrial",
+    "marca_actual": [],
+    "texto": "- Impulsar una estrategia legislativa estatal y europea para desarrollar el Made in Europe como instrumento de soberanía industrial, transición ecológica y justicia social, dentro del ámbito del Industrial Accelerator Act para reforzar las capacidades productivas europeas, ampliar los sectores estratégicos y vincular las ayudas públicas y la contratación a criterios de descarbonización, empleo digno y valor añadido industrial. Impulsar estos principios mediante reformas legislativas que condicionen los recursos públicos al retorno social y productivo, refuercen la participación pública en sectores estratégicos y garanticen el protagonismo de Euskal Herria en la construcción de la soberanía económica y tecnológica europea."
+   },
+   {
+    "id": "bildu-0111",
+    "partido": "bildu",
+    "titular": "Descarbonizar y electrificar la industria sustituyendo el gas fósil",
+    "marca_actual": [],
+    "texto": "- Electrificación y descarbonización: Impulsar una estrategia de descarbonización y electrificación competitiva de la industria, apoyando inversiones en electrificación, eficiencia energética y sustitución progresiva del gas fósil por alternativas técnicamente viables (primando la electrificación), que permitan reducir emisiones y costes energéticos y reforzar la competitividad industrial."
+   },
+   {
+    "id": "teruel-0020",
+    "partido": "teruel",
+    "titular": "Actualizar la ley de cambio climático y abrir las subastas a pequeños inversores",
+    "marca_actual": [],
+    "texto": "- **Actualizar la ley de cambio climático** con instrumentos para llevarla al territorio: planes estratégicos municipales de energía, planes sectoriales y modelo físico de implantación. Cambiaremos el sistema de subastas para que accedan pequeños inversores y comunidades."
+   },
+   {
+    "id": "teruel-0028",
+    "partido": "teruel",
+    "titular": "Compromiso de comarcas y gobiernos locales contra el cambio climático",
+    "marca_actual": [],
+    "texto": "- **Acción local.** Compromiso voluntario de comarcas, ciudades y gobiernos locales contra el cambio climático, con más participación ciudadana, mejores espacios públicos y mejor diseño urbano."
+   },
+   {
+    "id": "teruel-0031",
+    "partido": "teruel",
+    "titular": "Cumplir los objetivos de emisiones de 2030 y la neutralidad climática en 2050",
+    "marca_actual": [
+     "acelerar"
+    ],
+    "texto": "- **Clima.** Cumplir los objetivos de reducción de emisiones para 2030 y la neutralidad climática en 2050, con políticas de mitigación, adaptación y resiliencia, y protección a los consumidores vulnerables en la factura energética."
+   }
+  ]
+ },
+ {
+  "eje": "eje-patrimonio",
+  "pregunta": "¿Qué hacer con los impuestos al patrimonio y las grandes fortunas?",
+  "posiciones": [
+   {
+    "id": "suprimir-bajar",
+    "nombre": "Suprimirlos o bajarlos"
+   },
+   {
+    "id": "reforzar",
+    "nombre": "Reforzarlos o subirlos"
+   }
+  ],
+  "n": 46,
+  "palabras": 4420,
+  "candidatos": [
+   {
+    "id": "podemos-0004",
+    "partido": "podemos",
+    "titular": "Diagnóstico: beneficios récord de grandes empresas y aumento del gasto militar",
+    "marca_actual": [],
+    "texto": "En los nueve primeros meses de 2026, Repsol obtuvo 5.006 millones de euros de beneficio neto e Iberdrola, 5.816 millones. Mercadona obtuvo 1.729 millones de euros de beneficio neto en todo 2025, un 24,9% más que en 2024. La riqueza de los milmillonarios españoles ha aumentado un 29,5% en un año y situó su número en 44, nueve más que en 2025. Más grandes fortunas y más riqueza en sus manos.\n\nEl gasto militar mundial alcanzó en 2025 un nuevo récord de 2,887 billones de dólares, un 2,9% más en términos reales y once años consecutivos de aumentos. En España creció un 50%. Mientras se nos pide ajustar las expectativas sobre lo que podemos pagar colectivamente, el dinero para el rearme sigue aumentando. Y los fabricantes de armas baten récords. Rheinmetall cerró 2025 con un resultado operativo récord y, en los nueve primeros meses de 2026, lo incrementó otro 69%, hasta superar los 1.300 millones de euros. Para los fabricantes son contratos y oportunidades de crecimiento. Para los pueblos, la guerra significa vidas destruidas. Los fabricantes de armas cuentan los contratos. Quienes sufren la guerra cuentan los muertos y las casas que han perdido."
+   },
+   {
+    "id": "podemos-0005",
+    "partido": "podemos",
+    "titular": "Propósito del programa: paz, casa y trabajo",
+    "marca_actual": [],
+    "texto": "Esto es lo que decimos cuando decimos que el sistema no funciona. Cada vez cuesta más hacer planes tan normales como irse de casa, tener un hijo o saber quién va a cuidar de nuestros padres y madres.\n\nLa riqueza que creamos entre todos tiene que servir para eso. Para que podamos pagar una casa con nuestro sueldo. Para que nos atiendan cuando enfermamos. Para que cuidar a alguien no nos cueste el empleo. Para que una avería sea una avería y no un mes entero haciendo cuentas.\n\nPor eso decimos: **paz, casa y trabajo.** Queremos dedicar el dinero público a cuidar la vida, garantizar una vivienda en la que se pueda vivir sin miedo a la próxima subida y asegurar un trabajo que dé para vivir y deje tiempo para hacerlo. Queremos que el dinero empiece a bajar de arriba abajo y se note donde tiene que notarse, en lo que queda en la cuenta después de pagar lo básico y en los servicios públicos con los que podemos contar. Para eso presentamos este programa de cara a las elecciones generales del 29N."
+   },
+   {
+    "id": "podemos-0006",
+    "partido": "podemos",
+    "titular": "La vivienda como mecanismo de transferencia de riqueza hacia arriba",
+    "marca_actual": [],
+    "texto": "La vivienda se ha convertido en uno de los principales mecanismos de transferencia de riqueza desde abajo hacia arriba, desde quienes menos tienen hacia quienes más tienen. Cada mes, millones de trabajadores y trabajadoras destinan una parte creciente de sus salarios a pagar alquileres e hipotecas que alimentan los beneficios de los grandes propietarios, los fondos de inversión y las entidades financieras. Esta situación es consecuencia de un modelo que ha convertido la vivienda en un negocio, un activo financiero y una mercancía con la que especular, en lugar de garantizarla como un derecho, tal y como establece el artículo 47 de nuestra Constitución.\n\nEsta concepción de la vivienda tiene profundas raíces históricas. Durante el franquismo, el ministro de Vivienda José Luis Arrese proclamó su aspiración de construir «un país de propietarios, no de proletarios». La vivienda en propiedad se convirtió en una forma de vincular el futuro de las familias a la propiedad inmobiliaria y a su revalorización."
+   },
+   {
+    "id": "podemos-0040",
+    "partido": "podemos",
+    "titular": "Hacer estatal y permanente el impuesto a las grandes fortunas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "30. **Impuesto a las Grandes Fortunas.** Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen. Para ello reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal permanente con idénticas características que el Impuesto del Patrimonio. Modificaremos la normativa básica de ambos impuestos para que las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patrimonio pase de 100 millones de euros."
+   },
+   {
+    "id": "podemos-0059",
+    "partido": "podemos",
+    "titular": "Equiparar la tributación de las rentas del capital y del trabajo",
+    "marca_actual": [],
+    "texto": "49. **Equiparación fiscal de las rentas del capital y del trabajo.** Reformaremos el IRPF para equiparar progresivamente, en un plazo máximo de una legislatura, los tipos impositivos de los rendimientos del capital a los de los rendimientos del trabajo, poniendo fin al trato fiscal más favorable de las rentas procedentes del patrimonio frente a las obtenidas mediante el trabajo. Avanzaremos así hacia un sistema fiscal más justo y redistributivo."
+   },
+   {
+    "id": "podemos-0070",
+    "partido": "podemos",
+    "titular": "Aumentar la plantilla de la Agencia Tributaria hasta la media europea",
+    "marca_actual": [],
+    "texto": "60. **Potenciar la lucha contra el fraude fiscal.** Aumentaremos los efectivos de la Agencia Tributaria hasta alcanzar al menos la media europea, así como reestructurar sus funciones para poner el foco en las grandes fortunas y las grandes empresas, que es donde se produce el 70% del fraude."
+   },
+   {
+    "id": "podemos-0073",
+    "partido": "podemos",
+    "titular": "Reformar el REF de Canarias para que las grandes empresas paguen más",
+    "marca_actual": [],
+    "texto": "63. **Una fiscalidad justa para Canarias.** Como región ultraperiférica de la Unión Europea, Canarias cuenta en la actualidad con un Régimen Económico y Fiscal (REF) que consagra una enorme desigualdad en lo relativo al sistema fiscal de las islas: mientras las personas autónomas y las PYMES pagan en torno al 20% de sus ingresos en concepto de impuestos, las grandes empresas de las islas pagan porcentajes irrisorios que bajan hasta el 4%. Se reformará el sistema para hacerlo verdaderamente progresivo, de forma que los autónomos y las PyMEs paguen menos y las grandes empresas paguen más."
+   },
+   {
+    "id": "podemos-0118",
+    "partido": "podemos",
+    "titular": "Impuesto mínimo global a milmillonarios, tasa Tobin y fin de los paraísos fiscales",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "105. **Justicia fiscal global, impuesto a las grandes fortunas y lucha contra los paraísos fiscales.** Justicia fiscal global, impuesto a las grandes fortunas y lucha contra los paraísos fiscales. Impulsaremos las propuestas de la Tasa Mínima Global para Milmillonarios proponiendo un impuesto mínimo global. También impulsaremos un impuesto europeo sobre las transacciones financieras: se implantará una Tasa Tobin, complementaria de las tasas estatales. Impulsaremos la eliminación de los paraísos fiscales, la creación de una lista de países y jurisdicciones de baja tributación y la prohibición de contratar con las administraciones públicas a empresas que operen a través de ellos, directamente o mediante su cadena de producción. También promoveremos la prohibición internacional de los productos financieros altamente especulativos, la coordinación fiscal para avanzar hacia una mayor progresividad tributaria y la desconcentración de las estructuras empresariales."
+   },
+   {
+    "id": "podemos-0125",
+    "partido": "podemos",
+    "titular": "Un modelo laboral para trabajar menos, cobrar más y vivir mejor",
+    "marca_actual": [],
+    "texto": "Esta situación resulta especialmente injusta en un momento de extraordinarios avances tecnológicos. La automatización, la robotización y la inteligencia artificial permiten producir más bienes y servicios con menos esfuerzo humano. Sin embargo, los beneficios de esta revolución tecnológica se están concentrando en manos de una minoría de grandes empresas y tecno oligarcas, como Elon Musk, Jeff Bezos o los grandes accionistas de las multinacionales tecnológicas.\n\nLas grandes empresas acumulan beneficios históricos y los márgenes empresariales han aumentado, pero esa prosperidad no se reparte de manera justa. Los beneficios de las grandes compañías contrastan con las dificultades de quienes viven de su salario. La inflación de los últimos años ha erosionado la capacidad adquisitiva de los salarios, y las mejoras salariales no se han traducido para muchas familias en una mayor seguridad económica.\n\nPor eso defendemos un nuevo modelo laboral que permita trabajar menos, cobrar más y vivir mejor. Una distribución justa de los beneficios empresariales y una transición tecnológica que proteja los derechos de los trabajadores. Queremos que el tiempo recuperado se convierta en tiempo para cuidar, descansar, disfrutar, aprender, participar en la sociedad y compartir la vida con quienes queremos. Porque la verdadera riqueza no es solamente el dinero que tenemos, sino también el tiempo del que disponemos.\n\nQueremos trabajar menos y vivir más. Porque vida solo hay una."
+   },
+   {
+    "id": "podemos-0307",
+    "partido": "podemos",
+    "titular": "Asignatura obligatoria de Educación Sexual y en Igualdad e impedir el Pin Parental",
+    "marca_actual": [],
+    "texto": "289. **Impulsar una educación feminista, sexual y en igualdad, libre de violencias y discriminación.** Implantaremos una asignatura obligatoria de Educación Sexual y en Igualdad en todas las etapas educativas, que aborde la prevención de las infecciones de transmisión sexual, los métodos anticonceptivos, la cultura del consentimiento, la diversidad en materia de orientación sexual e identidad de género, la igualdad entre mujeres y hombres y la lucha contra el racismo y la LGTBIfobia. Incorporaremos también contenidos y talleres sobre masculinidades igualitarias y la realidad de los cuidados, su contribución a la reproducción social y a la riqueza del país. Crearemos la figura de las coeducadoras y coeducadores en los centros educativos para promover la igualdad, prevenir las violencias machistas y fomentar el respeto a la diversidad. Garantizaremos formación obligatoria en igualdad, diversidad y prevención de las violencias machistas y LGTBIfóbicas para todo el personal educativo, junto con protocolos de detección precoz, actuación y acompañamiento al alumnado, incluidos los procesos de transición de género. Impediremos la aplicación del denominado Pin Parental y protegeremos el derecho de todo el alumnado a recibir una educación sexual y afectivo-sexual integral. Impulsaremos medidas específicas para combatir la brecha de género en los ámbitos científicos y tecnológicos, mediante becas y ayudas para mujeres jóvenes en carreras STEM, y promoveremos la igualdad y la participación de niñas, adolescentes y alumnado LGTBIQA+ en la actividad deportiva."
+   },
+   {
+    "id": "podemos-0424",
+    "partido": "podemos",
+    "titular": "Diagnóstico: democratizar el Estado es inseparable de repartir la riqueza",
+    "marca_actual": [],
+    "texto": "El sistema está montado para que el dinero suba de abajo arriba. Y para que los de arriba tengan el poder de impedir que las cosas cambien. Por eso, democratizar el Estado es inseparable de repartir la riqueza. Cuando una minoría puede influir en las leyes, condicionar las decisiones de los gobiernos o poner las instituciones al servicio de sus negocios, la democracia se vacía de contenido. La ciudadanía puede elegir a sus representantes, pero encuentra enormes obstáculos para conseguir que su voluntad se traduzca en una vida mejor si eso afecta a los intereses de los poderosos.\n\nPara comprender el reparto actual del poder también hay que mirar de dónde viene. La democracia española tiene pendiente afrontar las consecuencias económicas y sociales de la dictadura franquista. La memoria democrática exige mirar también los patrimonios y las estructuras de poder, esclarecer quién se enriqueció con la represión y el trabajo forzado. También reparar a quienes fueron desposeídos, reprimidos o asesinados. La memoria habla del pasado, pero también de quién tiene hoy la riqueza y quién conserva el poder en este sistema."
+   },
+   {
+    "id": "podemos-0425",
+    "partido": "podemos",
+    "titular": "Diagnóstico: la Corona, cúspide del sistema, y la corrupción como reparto del poder",
+    "marca_actual": [],
+    "texto": "La Corona representa la cúspide de ese sistema. Una jefatura del Estado designada por Franco, hereditaria y cuyo titular disfruta de inviolabilidad. La opacidad sobre los negocios de la monarquía y sus relaciones corruptas con las grandes fortunas plantea la duda de a quién sirve el poder y ante quién responde. Ningún apellido debería situar a nadie por encima de la ciudadanía, ni ninguna institución puede quedar al margen del escrutinio público.\n\nLa corrupción también debe entenderse como una forma de organizar el poder y distribuir la riqueza. Cuando una empresa consigue contratos mediante favores, cuando una trama financia ilegalmente a un partido o cuando un cargo público termina cobrando de una compañía beneficiada por sus decisiones, se rompe la obligación de gobernar para el interés general. El dinero de todos acaba alimentando beneficios privados. Y quienes se benefician de ese reparto ganan más poder. Mientras, la mayoría paga las consecuencias en servicios públicos deteriorados o recursos que dejan de atender sus necesidades."
+   },
+   {
+    "id": "podemos-0426",
+    "partido": "podemos",
+    "titular": "Denuncia de la guerra judicial y defensa de la derogación de la Ley Mordaza",
+    "marca_actual": [],
+    "texto": "Por eso, democratizar la justicia es imprescindible para proteger a la gente frente a los abusos tienen más poder. En España, se utilizan los tribunales para perseguir adversarios políticos, prolongar causas sin indicios o interferir en el debate democrático. Se ha convertido al poder judicial en un instrumento para preservar el orden existente. Por eso, la guerra judicial y las cloacas del Estado comparten una lógica profundamente antidemocrática. Ningún juez, policía, empresario o servicio de inteligencia debería tener la capacidad de corregir la voluntad popular.\n\nUn sistema que concentra la riqueza y el poder en unas pocas manos necesita también poner obstáculos a quienes se organizan para cambiarlo. Cuando el pueblo se rebela contra la injusticia, defender la democracia exige proteger su derecho a protestar, a hacer huelga y a disputar las decisiones que afectan a su vida. Por eso defendemos la derogación de la Ley Mordaza y el fin de la criminalización de la protesta."
+   },
+   {
+    "id": "adelante-0009",
+    "partido": "adelante",
+    "titular": "Revolución fiscal: impuesto a grandes fortunas e IRPF más alto desde 100.000 euros",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "7. **Revolución fiscal: que pague más quien más tiene** — Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.\nSe desarrolla en el programa: Propuestas 232, 233 y 236 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0281",
+    "partido": "adelante",
+    "titular": "Diagnóstico: paro andaluz del 14,91 % y apuesta por reforma fiscal y 32 horas",
+    "marca_actual": [],
+    "texto": "Andalucía cerró el tercer trimestre de 2026 con un paro del 14,91 %, el más alto de todas las comunidades y casi cinco puntos por encima de la media estatal (10,18 %). No es una fatalidad: es el resultado de un modelo que nos ha condenado a la temporalidad y a los bajos salarios, que exporta materias primas y jóvenes mientras el beneficio se va fuera. La derecha y la extrema derecha prometen bajar impuestos a los de arriba y culpan a quien vive al lado; en Adelante Andalucía señalamos a quien de verdad se lleva la riqueza. Que pague más quien más tiene, que el trabajo dé para vivir y que la riqueza que se produce en Andalucía se quede en Andalucía: una reforma fiscal progresiva, banca pública, reindustrialización verde, jornada de 32 horas y salarios que suban con los precios."
+   },
+   {
+    "id": "adelante-0282",
+    "partido": "adelante",
+    "titular": "IRPF más progresivo con tipos más altos desde 100.000 euros",
+    "marca_actual": [],
+    "texto": "232. **IRPF más progresivo** — Rebaja para las rentas más bajas y tipos mucho más altos a partir de 100.000 euros al año, menos deducciones para las rentas altas y rentas del capital que tributen al menos como las del trabajo. _Porque quien más gana debe aportar más, y el trabajo no puede pagar más que el capital._"
+   },
+   {
+    "id": "adelante-0283",
+    "partido": "adelante",
+    "titular": "Impuesto sobre la riqueza y la tierra que sustituya a Patrimonio",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "233. **Impuesto sobre la riqueza y la tierra** — Sustituye a Patrimonio y grava las grandes fortunas, la gran propiedad inmobiliaria y los latifundios. _Porque la riqueza está cada vez más concentrada y apenas tributa._"
+   },
+   {
+    "id": "adelante-0284",
+    "partido": "adelante",
+    "titular": "Tributación mínima común en sucesiones y donaciones contra el dumping fiscal",
+    "marca_actual": [],
+    "texto": "234. **Suelo común en sucesiones y donaciones** — Tributación mínima en todo el Estado para acabar con el dumping fiscal entre comunidades. _Porque algunas comunidades bajan este impuesto para atraer grandes fortunas._"
+   },
+   {
+    "id": "adelante-0293",
+    "partido": "adelante",
+    "titular": "Impuesto de salida a grandes fortunas que trasladen su residencia fiscal",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "243. **Impuesto de salida** — Tributación de las grandes fortunas que trasladen su residencia fiscal fuera de España. _Porque no se puede ganar dinero aquí y huir a otro país para no pagar impuestos._"
+   },
+   {
+    "id": "adelante-0316",
+    "partido": "adelante",
+    "titular": "Plan de turismo con red pública de alojamientos, Imserso para todos y tasa turística",
+    "marca_actual": [],
+    "texto": "266. **Plan de turismo para todas y todos** — Un turismo que deje la riqueza en el territorio y al que pueda acceder la clase trabajadora: recuperación de las Residencias de Tiempo Libre y una red pública de hoteles, campings y apartahoteles a precios asequibles, cofinanciada por el Estado y las comunidades; un programa como el del Imserso para personas de todas las edades que no pueden irse de vacaciones; obligación de las cadenas hoteleras de repartir beneficios con sus plantillas; cooperativas turísticas para que el beneficio se quede entre quienes lo generan; una red de piscinas públicas de ocio en todos los municipios, con financiación estatal; una tasa turística finalista, dedicada a reparar el impacto ambiental del turismo y a políticas de vivienda; un portal público de turismo donde guías, empresas de actividades y personas autónomas puedan anunciarse sin depender de los grandes intermediarios, y freno a la turistificación. _Porque el turismo genera mucha riqueza, poco empleo digno y cada vez menos personas trabajadoras pueden permitirse unas vacaciones._"
+   },
+   {
+    "id": "adelante-0667",
+    "partido": "adelante",
+    "titular": "Institución que estudie y promueva las hablas andaluzas",
+    "marca_actual": [],
+    "texto": "606. **Institución de las hablas andaluzas** — Impulsar y fomentar las hablas andaluzas con una institución que las estudie, documente y promueva y combata los prejuicios, sin imponer una sola forma de hablar. _Porque las hablas andaluzas son una riqueza y no un error._"
+   },
+   {
+    "id": "bng-0076",
+    "partido": "bng",
+    "titular": "Financiar las pensiones con presupuestos y eliminar el tope de cotización",
+    "marca_actual": [],
+    "texto": "- Garantía de sostemento do sistema público de pensións a través da supresión do veto ao financiamento público, con cargo aos orzamentos e aos impostos que gravan a riqueza, eliminando o tope máximo ás bases de cotización, así como a revisión e redución das bonificacións e descontos nas cotizacións empresariais."
+   },
+   {
+    "id": "bng-0231",
+    "partido": "bng",
+    "titular": "Diagnóstico: el sistema fiscal penaliza las rentas del trabajo frente al capital",
+    "marca_actual": [],
+    "texto": "Existe unha penalización fiscal das rendas do traballo fronte ás do capital. Por iso, en tanto non acadarmos un modelo de financiamento adecuado para o noso país que nos capacite para regular e recadar todos os impostos, defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas, porque o sistema actual discrimina as persoas cuxa principal fonte de ingresos é o traballo.\n\nEn primeiro lugar, a respecto do Imposto sobre a Renda das Persoas Físicas (IRPF), consideramos preciso:"
+   },
+   {
+    "id": "bng-0234",
+    "partido": "bng",
+    "titular": "Gravar menos las rentas del trabajo y más las del capital",
+    "marca_actual": [],
+    "texto": "- Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital."
+   },
+   {
+    "id": "bng-0248",
+    "partido": "bng",
+    "titular": "Blindar los impuestos a banca, grandes energéticas y grandes fortunas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Blindar a permanencia dos impostos específicos aos beneficios da banca, das grandes enerxéticas e ás grandes fortunas, reducir os límites de exención, aumentar a súa progresividade e traspasar a súa xestión á Galiza."
+   },
+   {
+    "id": "bng-0249",
+    "partido": "bng",
+    "titular": "Introducción de nuevas propuestas fiscales de justicia social",
+    "marca_actual": [],
+    "texto": "Así mesmo, consideramos preciso introducir propostas novas no ámbito fiscal que acheguen xustiza social e de respecto polo patrimonio público, como por exemplo:"
+   },
+   {
+    "id": "bng-0326",
+    "partido": "bng",
+    "titular": "Rechazo a los proyectos mineros estratégicos y reforma de la ley de minas",
+    "marca_actual": [],
+    "texto": "Neste contexto, a declaración de proxectos mineiros como «estratéxicos» resulta especialmente lesiva para Galiza; reduce os prazos de autorización, facilita o acceso ao financiamento e outórgalles de antemán a consideración de interese público, chegando mesmo a permitir que ese suposto interese prevaleza sobre afeccións á auga, aos hábitats e á biodiversidade.\n\nEste procedemento condiciona a avaliación ambiental antes de que se analicen todas as consecuencias, debilita a participación social e corre o risco de converter o territorio galego nunha zona de sacrificio ao servizo do rearme europeo e dos intereses das multinacionais mineiras, sen garantir control público, transformación industrial no país nin beneficios duradeiros para as comunidades afectadas.\n\nAo igual que no eido enerxético, Galiza debe ter poder de decisión total sobre un sector estratéxico, como é o da minaría e garantir que os beneficios das materias primas sirvan para pechar ciclos produtivos no país, creando emprego de calidade e riqueza local, e como non pode ser doutra maneira, preservando o medio ambiente e garantindo a participación social.\n\nPor isto propoñemos a modificación da lei básica da minaría do estado coas seguintes demandas:"
+   },
+   {
+    "id": "bng-0374",
+    "partido": "bng",
+    "titular": "Plena capacidad gallega en medio ambiente frente al modelo extractivo",
+    "marca_actual": [],
+    "texto": "Desde o BNG rexeitamos e combatemos estes sistema que pon en risco a vida das persoas e ameaza o futuro do planeta. Asumimos que estamos diante dun reto de máxima relevancia ao que temos que dar unha resposta acaida como sociedade e como país. Unha resposta que poña o foco nas causas estruturais desta crise, que sinale e combata a quen pretende incrementar os lucros a costa da emerxencia e que propoña unha alternativa -sustentábel e autocentrada- ao espolio colonial dos nosos recursos e da nosa riqueza.\n\nPor iso, o BNG aposta por unha Galiza con plena capacidade para decidir en materia ambiental, que poida aplicar políticas avanzadas e transformadoras neste ámbito. Defenderemos en todos os ámbitos, e nomeadamente nas Cortes, a superación dun modelo dependente e extractivo que converteu a Galiza en fornecedora de materias primas e enerxía, con altísimos custos sociais e ambientais. Asemade, combaterá un sistema económico e social baseado no espolio dos recursos naturais, no hiperconsumismo, na cultura de “usar e descartar”, no descontrol e dispendio de recursos como a auga ou a enerxía, e na xeración excesiva de residuos."
+   },
+   {
+    "id": "erc-0095",
+    "partido": "erc",
+    "titular": "Subir al 35 % el IRPF del capital y bajarlo bajo 35.000 euros",
+    "marca_actual": [],
+    "texto": "69. Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros per augmentar els recursos disponibles i la capacitat adquisitiva de la classe treballadora."
+   },
+   {
+    "id": "erc-0103",
+    "partido": "erc",
+    "titular": "Hacer permanente el impuesto a grandes fortunas con un tramo nuevo desde 100 millones",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "74. Fiscalitat dels multimilionaris. Fer permanent l’impost temporal de solidaritat de les grans fortunes, augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros."
+   },
+   {
+    "id": "erc-0114",
+    "partido": "erc",
+    "titular": "Prórrogas de hasta 4 años en el pago de tributos cedidos",
+    "marca_actual": [],
+    "texto": "85. Facilitar les pròrrogues en el pagament de tributs cedits. Modificar la legislació vigent i els reglaments que la despleguen per facilitar que, en les liquidacions dels tributs cedits, es puguin sol·licitar pròrrogues en el pagament fins a 4 anys després d’haver-se concretat el fet imposable."
+   },
+   {
+    "id": "cnv-0001",
+    "partido": "cnv",
+    "titular": "Presentación: soberanismo de centro y «bon govern» para Cataluña",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "Convergents és una força sobiranista que aglutina idees de centre ampli i defensa el dret a decidir del poble català d’una manera ferma i sense fissures. Un partit que reconeix com a Pàtria pròpia la catalana i com a bandera la senyera. Som hereus naturals de Convergència Democràtica de Catalunya, i, com a tals, continuadors del llegat polític que va construir la Catalunya moderna dels darrers 50 anys a través d’una basta obra de govern.\n\nCatalunya viu un moment crucial.\n\nEns trobem davant una cruïlla històrica on la societat catalana reclama, més que mai, respecte, reconeixement i responsabilitat. Després d’anys de judicialització del conflicte polític i d’una gestió marcada per la confrontació estèril, la tensió i la improvisació, el país necessita una nova manera de fer política: valenta en la defensa dels drets nacionals, però també rigorosa, dialogant i orientada als resultats. És hora de fer compatible l’ambició sobiranista amb el “bon govern”: hem de ser presents a les taules estatals i europees on es decideixi el nostre futur, i, alhora, hem de continuar exigint polítiques com la desaparició dels impostos de patrimoni, successions i donacions."
+   },
+   {
+    "id": "cnv-0075",
+    "partido": "cnv",
+    "titular": "Redistribuir el esfuerzo fiscal a favor de las pymes",
+    "marca_actual": [],
+    "texto": "- Impulsarem la redistribució de l’esforç fiscal a favor de les PIMES, amb mesures específiques per protegir aquest segment fonamental i representatiu de l’economia catalana."
+   },
+   {
+    "id": "cnv-0078",
+    "partido": "cnv",
+    "titular": "Criterios de sostenibilidad en la fiscalidad sin aumentar la presión fiscal global",
+    "marca_actual": [],
+    "texto": "- Incorporarem criteris de sostenibilitat i transició verda a la fiscalitat, sense incrementar la pressió fiscal global."
+   },
+   {
+    "id": "cnv-0088",
+    "partido": "cnv",
+    "titular": "Eliminar los impuestos de Sucesiones, Donaciones y Patrimonio",
+    "marca_actual": [
+     "suprimir-bajar"
+    ],
+    "texto": "- Defensarem l’eliminació dels imposts de Successions, Donacions i Patrimoni."
+   },
+   {
+    "id": "pnv-0047",
+    "partido": "pnv",
+    "titular": "Una economía que cree riqueza y empleo y se note en el bolsillo",
+    "marca_actual": [],
+    "texto": "**_Industria, empresas, energía, campo, mar, infraestructuras y sostenibilidad._**\n\nQueremos que Euskadi siga creando riqueza y empleo de calidad. Para ello necesitamos empresas que puedan invertir, producir y crecer aquí, y trabajadores cuyos salarios mejoren con la productividad. **Una economía fuerte debe notarse en el bolsillo**: mejores nóminas, energía asequible y negocios con futuro.\n\nDefenderemos una industria competitiva, con redes eléctricas suficientes y costes que no frenen las inversiones. **Apoyaremos al tejido productivo, pymes, personas autónomas y cooperativas** para que puedan mantener su actividad, contratar y afrontar los cambios tecnológicos.\n\nTambién exigiremos infraestructuras que funcionen. **Cada retraso ferroviario o inversión incumplida perjudica a quienes se desplazan para trabajar** y a las empresas que necesitan transportar mercancías. Queremos obras terminadas, plazos públicos y servicios fiables.\n\nPara conseguirlo necesitamos decisiones concretas: energía a precios competitivos, redes eléctricas capaces de atender las necesidades de nuestra industria, apoyo a las pymes y personas autónomas, menos trabas administrativas y un marco laboral que combine productividad, buenos salarios y derechos.\n\nTambién queremos un futuro para nuestros pueblos y nuestras comunidades costeras. La agricultura, la ganadería y la pesca producen alimentos, generan empleo y mantienen vivo nuestro territorio. Defender su rentabilidad, facilitar el relevo generacional y garantizar su participación en las decisiones europeas es defender una parte esencial de Euskadi."
+   },
+   {
+    "id": "pnv-0127",
+    "partido": "pnv",
+    "titular": "Una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica",
+    "marca_actual": [],
+    "texto": "**Queremos que las instituciones puedan utilizar sus recursos para responder a las necesidades de la ciudadanía. Y una fiscalidad que proteja el poder adquisitivo y favorezca la actividad económica.**"
+   },
+   {
+    "id": "bildu-0002",
+    "partido": "bildu",
+    "titular": "Balance: logros en pensiones, vivienda, impuestos y memoria en Madrid",
+    "marca_actual": [],
+    "texto": "Son muchos los logros y avances que hemos conseguido para la ciudadanía vasca estos últimos años en Madrid. Hemos aumentado las pensiones mínimas de viudedad y no contributivas; hemos aprobado nuevas medidas en materia de Vivienda y también los decretos de emergencia junto al escudo social; hemos aumentado el impuesto a la banca y las grandes fortunas logrando la gestión propia para nuestras haciendas forales; hemos avanzado en la recuperación de nuestra memoria histórica convirtiendo en lugares de Memoria el palacio de La Cumbre y el fuerte de San Cristóbal o impulsando el Memorial del 3 de Marzo; hemos reforzado el respeto hacia el euskera y hemos logrado nuevas competencias y herramientas para nuestro pais; y también hemos logrado más de 200 millones de euros en inversiones en nuestros pueblos y ciudades para la mejora de los transportes, proyectos culturales, transición ecológica, accesibilidad, cuidados, educación o infraestructuras. Y hemos hecho todo ello, además de apoyar con nuestros votos todos los avances sociales y de justicia social que se han producido los últimos años. Dijimos que lo haríamos, y lo hemos hecho."
+   },
+   {
+    "id": "bildu-0095",
+    "partido": "bildu",
+    "titular": "Redistribuir la riqueza haciendo que las grandes empresas aporten lo que deben",
+    "marca_actual": [],
+    "texto": "La redistribución de la riqueza debe ser un objetivo que cualquier sociedad justa debe asegurar. La política fiscal es uno de los instrumentos eficaces para ello. Por eso resulta necesario que el sector privado, especialmente las grandes empresas, aporten lo que deben en un momento de acumulación de capital por parte de estas con grandes márgenes de beneficio que, sin embargo, no revierten como deberían en la ciudadanía y los servicios públicos. Para ello, propondremos:"
+   },
+   {
+    "id": "bildu-0097",
+    "partido": "bildu",
+    "titular": "Aumentar el impuesto a la banca y a las grandes fortunas",
+    "marca_actual": [
+     "reforzar"
+    ],
+    "texto": "- Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas."
+   },
+   {
+    "id": "bildu-0157",
+    "partido": "bildu",
+    "titular": "Diagnóstico: la IA debe servir a los derechos y al interés general",
+    "marca_actual": [],
+    "texto": "El desarrollo de la digitalización y de la Inteligencia Artificial está provocando profundas transformaciones en todos los ámbitos tecnológicos, económicos y sociales. A pesar de los avances en la digitalización, la conectividad, la investigación y la inversión pública para promover el desarrollo de la IA, siguen existiendo importantes debilidades: la necesidad de desarrollar capacidades tecnológicas propias, el limitado nivel de digitalización de las pymes, la necesidad de mejorar la eficiencia de la transformación digital de los servicios públicos, la escasez de talento tecnológico y la fuerte dependencia de los proveedores tecnológicos externos. En el ámbito de la IA en particular, desarrollar infraestructuras, gobernanza de datos, capacidades de computación y modelos propios es un reto estratégico.\n\nPero el reto no es sólo tecnológico: también es político, económico, social y democrático. El desarrollo de la IA se está produciendo en un contexto de concentración de poder y competencia geopolítica de las grandes empresas tecnológicas. El riesgo es que los avances desarrollados con recursos públicos dejen el conocimiento y la riqueza en manos de unos pocos, aumente la dependencia tecnológica y profundice las desigualdades. Por ello, la IA debe ponerse al servicio de los derechos de las personas, de los intereses de los trabajadores, del medio ambiente y del interés general, garantizando un control democrático y una justa distribución de beneficios."
+   },
+   {
+    "id": "bildu-0161",
+    "partido": "bildu",
+    "titular": "Proteger el empleo ante la IA y reducir la jornada sin bajar el salario",
+    "marca_actual": [],
+    "texto": "- Empleo, distribución de la riqueza y justicia social. Prevenir las transformaciones laborales de la IA, garantizando los derechos de los trabajadores y las condiciones de trabajo dignas. Poner en beneficio de la IA y del conjunto de la sociedad lo generado por la automatización. Promover la reducción de jornada sin reducción de salario aprovechando los beneficios de la IA. Promover la formación y el reciclaje profesional de acuerdo con la estrategia europea de competencias digitales."
+   },
+   {
+    "id": "teruel-0023",
+    "partido": "teruel",
+    "titular": "Que lo extraído por la minería se transforme en el territorio",
+    "marca_actual": [],
+    "texto": "- **Minería.** Los proyectos mineros tienen que generar riqueza en el territorio. Que lo que se extrae, si es autorizable, se transforme aquí. No aceptaremos ser el territorio de sacrificio del Estado."
+   },
+   {
+    "id": "teruel-0042",
+    "partido": "teruel",
+    "titular": "Fiscalidad progresiva con bonificaciones para atraer población a la provincia",
+    "marca_actual": [],
+    "texto": "- **Fiscalidad justa y diferenciada.** Un sistema general, equitativo y progresivo, acorde con los servicios que sostiene, que a su vez aplique bonificaciones para el desarrollo de objetivos estratégicos prioritarios para la provincia, como el de asentar y atraer población."
+   },
+   {
+    "id": "teruel-0091",
+    "partido": "teruel",
+    "titular": "Defender la agricultura familiar frente a los fondos de inversión",
+    "marca_actual": [],
+    "texto": "- **Agricultura familiar frente a los fondos de inversión.** Defenderemos la agricultura familiar frente a la uberización del campo y frente a fondos de inversión que solo buscan rentabilizar la tierra, sin fijar población ni generar riqueza local."
+   },
+   {
+    "id": "teruel-0146",
+    "partido": "teruel",
+    "titular": "Cuidar el medio ambiente y el paisaje como principal riqueza de Teruel",
+    "marca_actual": [],
+    "texto": "Cuidar el medio ambiente y los paisajes de Teruel es cuidar su principal riqueza."
+   }
+  ]
+ },
+ {
+  "eje": "eje-smi",
+  "pregunta": "¿Seguir subiendo el salario mínimo?",
+  "posiciones": [
+   {
+    "id": "subir",
+    "nombre": "Subirlo o reforzarlo por ley"
+   },
+   {
+    "id": "contener",
+    "nombre": "No, contenerlo o fijarlo por acuerdo"
+   }
+  ],
+  "n": 45,
+  "palabras": 3166,
+  "candidatos": [
+   {
+    "id": "podemos-0035",
+    "partido": "podemos",
+    "titular": "Cheque energético anual de 300 euros para hogares de bajos ingresos",
+    "marca_actual": [],
+    "texto": "28. **Creación de un cheque energético de 300 euros.** Crearemos un cheque energético anual de 300 euros para las unidades de convivencia cuyos ingresos no superen el salario mínimo interprofesional (SMI) multiplicado por el número de miembros de la unidad de convivencia, con el objetivo de aliviar el coste de las facturas energéticas y garantizar el acceso a la energía."
+   },
+   {
+    "id": "podemos-0058",
+    "partido": "podemos",
+    "titular": "Subir el IRPF a las rentas de más de 60.000 euros",
+    "marca_actual": [],
+    "texto": "48. **Reforma del IRPF para que las rentas más altas contribuyan más.** Reformaremos la escala estatal del IRPF sobre la base imponible general para reforzar la progresividad fiscal, reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales: un 23 % entre 60.000 y 99.000 € un 24 % entre 100.000 y 199.999 euros; un 25,5 % entre 200.000 y 299.999 euros; un 27 % entre 300.000 y 499.999 euros, y un 28,5 % a partir de 500.000 euros. Llevaremos a cabo una reforma para que los perceptores de rentas inferiores al SMI no tributen ni sean objeto de retención."
+   },
+   {
+    "id": "podemos-0124",
+    "partido": "podemos",
+    "titular": "Diagnóstico: pluriempleo récord y salarios que crecen menos que los beneficios",
+    "marca_actual": [],
+    "texto": "En España, millones de personas dedican buena parte de su vida a trabajar y, sin embargo, cada vez tienen más dificultades para vivir de su trabajo. Trabajar ya no garantiza poder pagar una vivienda, llegar a fin de mes, formar una familia o disfrutar del tiempo libre. Mientras los precios de los alquileres, la alimentación y los suministros absorben una parte creciente de los ingresos, muchas familias necesitan acumular horas extraordinarias, encadenar empleos o renunciar a su tiempo de descanso para sostener unas condiciones de vida cada vez más difíciles. La gran contradicción de nuestro tiempo es que trabajamos para poder vivir, pero el trabajo nos está dejando sin tiempo y sin dinero para vivir.\n\nEn España, cada vez hay más personas que necesitan trabajar más para poder sobrevivir, mientras los grandes beneficios empresariales crecen mucho más deprisa que los salarios. El pluriempleo ha alcanzado un récord de 651.200 personas que tienen que compatibilizar varios trabajos, 70.000 más que un año antes. Cada semana se realizan 2,5 millones de horas extraordinarias que no se pagan ni se compensan con descanso. Y, mientras tanto, el salario bruto medio aumentó apenas un 3,1% en 2025, frente al incremento del 30,9% de los beneficios ordinarios de las empresas."
+   },
+   {
+    "id": "podemos-0126",
+    "partido": "podemos",
+    "titular": "SMI de 1.800 euros y nunca inferior al 75 % del salario mediano",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "111. **Elevar el salario mínimo interprofesional hasta los 1.800 euros mensuales.** Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura para garantizar salarios dignos y acercar el poder adquisitivo de las personas trabajadoras al de los países de nuestro entorno. Estableceremos por ley que nunca pueda ser inferior al 75% del salario mediano."
+   },
+   {
+    "id": "podemos-0127",
+    "partido": "podemos",
+    "titular": "Subida automática de los salarios según el coste de la vida",
+    "marca_actual": [],
+    "texto": "112. **Subida salarial automática.** Garantizar la subida automática de los salarios conforme al coste de la vida. Vincularemos la actualización de todos los conceptos salariales al incremento del coste de la vida cuando no exista un pacto en la negociación colectiva que establezca mejoras, para proteger el poder adquisitivo de las personas trabajadoras."
+   },
+   {
+    "id": "podemos-0135",
+    "partido": "podemos",
+    "titular": "Eliminar la contratación temporal sin causa y reforzar la Inspección de Trabajo",
+    "marca_actual": [],
+    "texto": "120. **Tolerancia cero con el fraude laboral y la contratación precaria.** Reforzaremos la legislación laboral y los mecanismos de inspección y control para combatir el fraude empresarial y garantizar la estabilidad en el empleo. Eliminaremos la posibilidad de recurrir a la contratación temporal sin causa justificada durante 90 días al año y perseguiremos el uso fraudulento de contratos a tiempo parcial para encubrir jornadas superiores a las declaradas, eludir el pago de las horas efectivamente trabajadas y abonar salarios inferiores al SMI que corresponda en proporción a la jornada realizada. Garantizaremos que los despidos vinculados al fraude en la contratación temporal o a la utilización fraudulenta de falsos autónomos sean declarados ilegales, garantizando su readmisión y al abono de los salarios dejados de percibir. Asimismo, estableceremos la presunción de laboralidad cuando exista una única vía de ingresos relevante y obligaremos a las empresas a incorporar a las personas afectadas por falsos autónomos mediante contratos indefinidos, reconociéndoles todos los derechos laborales y de Seguridad Social que les hubieran correspondido desde el inicio de la relación laboral. Extenderemos la presunción de laboralidad a todas las plataformas digitales y reforzaremos la Inspección de Trabajo y Seguridad Social con más recursos humanos y materiales, unidades especializadas para perseguir estas prácticas y un régimen sancionador más contundente."
+   },
+   {
+    "id": "podemos-0142",
+    "partido": "podemos",
+    "titular": "Equiparar la pensión mínima al SMI y la no contributiva al 80 %",
+    "marca_actual": [],
+    "texto": "127. **Equiparar la pensión mínima al salario mínimo interprofesional.** Garantizaremos que la pensión mínima contributiva se equipare al SMI, y la pensión no contributiva al 80% del SMI."
+   },
+   {
+    "id": "podemos-0149",
+    "partido": "podemos",
+    "titular": "Prácticas externas retribuidas al menos según el SMI y de cinco horas máximo",
+    "marca_actual": [],
+    "texto": "134. **Poner orden en el sistema de prácticas externas para que sean un trampolín y no una trampa de precariedad.** Para ello, se garantizará que estén incluidas en los planes de estudio y que sean formativas, y que estén tuteladas profesionalmente y sean retribuidas al menos conforme al SMI según el número de horas cotizadas y con jornadas máximas de cinco horas."
+   },
+   {
+    "id": "podemos-0152",
+    "partido": "podemos",
+    "titular": "Prestación a cuidadoras familiares de hasta el 100 % del SMI según grado",
+    "marca_actual": [],
+    "texto": "137. **Reconocer y remunerar el trabajo de cuidados en el entorno familiar.** Reconoceremos económicamente el trabajo de las personas cuidadoras principales de personas en situación de dependencia, garantizando una prestación económica digna que permita dar protección a quienes sostienen los cuidados en el ámbito familiar. Para ello, modificaremos el artículo 18 de la Ley 39/2006, estableciendo una prestación económica vinculada al grado de dependencia equivalente al 100 % del SMI para el grado III, al 70 % para el grado II y al 40 % para el grado I, con actualización conforme al SMI vigente."
+   },
+   {
+    "id": "podemos-0156",
+    "partido": "podemos",
+    "titular": "Aprobar la Ley Jornalera y vincular el subsidio agrario al 50 % del SMI",
+    "marca_actual": [],
+    "texto": "141. **Protección para los jornaleros y jornaleras del campo.** Aprobaremos la Ley Jornalera para mejorar las condiciones de vida y la protección social de las personas trabajadoras agrarias. Eliminaremos el requisito de las peonadas para acceder al subsidio agrario y vincularemos su cuantía al 50 % del SMI, con incrementos progresivos en función de las jornadas realizadas hasta alcanzar el SMI a partir de las 200 jornadas anuales. Reformaremos el sistema de cotización agraria para garantizar que no se pierda ningún periodo cotizado por cada jornal trabajado, eliminaremos el requisito de las 30 jornadas para mantener el alta durante los periodos de inactividad y condonaremos las cuotas correspondientes a dichos periodos en Andalucía y Extremadura. Garantizaremos, asimismo, que las personas menores de 25 años sin responsabilidades familiares accedan a las mismas condiciones de reducción o eliminación de jornadas y a los mismos criterios de cuantía y duración del subsidio que el resto de trabajadores y trabajadoras."
+   },
+   {
+    "id": "podemos-0169",
+    "partido": "podemos",
+    "titular": "Prestación equivalente al SMI durante 6 meses para víctimas de violencias machistas",
+    "marca_actual": [],
+    "texto": "151. **Plan Integral de Compensación, Reparación y Recuperación de la Autonomía para mujeres que enfrentan violencias machistas.** Frente a las violencias machistas, la autonomía económica y habitacional, son derechos que salvan vidas. Por ello, su desarrollo efectivo debe ser acometido a través de una política pública concreta y urgente, que sitúe a la vivienda y la autonomía económica como piedra angular de un sistema amplio de reparación a las víctimas. Este plan incluirá:\n - Una **prestación para mujeres víctimas de violencias machistas** destinada a asegurar que la autonomía económica no sea un factor que perjudique la salida de una relación de violencia machista de cualquier tipo. La prestación supondrá un salario mínimo equivalente al Salario Mínimo Interprofesional durante 6 meses prorrogables, que se incrementará según el número de personas que cada mujer tenga a su cargo.\n - **Alternativa habitacional digna e inmediata.** Para las mujeres que sufren la violencia machista, incluidas la violencia sexual y la trata con fines de explotación sexual, y para los niños, niñas y adolescentes a su cargo.\n - **Equiparar las ayudas específicas de las víctimas**, directas e indirectas, de violencias machistas reguladas por la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual al sistema de ayudas a las víctimas del terrorismo, en cuantías y requisitos para su percepción. Atribuir su gestión al Ministerio con competencias en Igualdad."
+   },
+   {
+    "id": "podemos-0197",
+    "partido": "podemos",
+    "titular": "Prestación universal por crianza del 15 % del SMI hasta los 21 años",
+    "marca_actual": [],
+    "texto": "179. **Establecer una prestación universal por crianza hasta los 21 años.** Establecer una prestación mensual por cada hija o hijo, desde el nacimiento hasta los 21 años, equivalente al 15 % del Salario Mínimo Interprofesional (SMI). Una medida para garantizar el bienestar de la infancia, aliviar la carga económica que supone la crianza y avanzar hacia una sociedad en la que tener hijas e hijos no sea un obstáculo económico, contribuyendo así a hacer frente al problema de la baja natalidad en España."
+   },
+   {
+    "id": "podemos-0211",
+    "partido": "podemos",
+    "titular": "Ley de Calidad del SECC con sueldos mínimos de 1,5 veces el SMI",
+    "marca_actual": [],
+    "texto": "193. **Ley de Calidad del SECC.** Esta ley, establecerá una serie de parámetros mínimos respecto de la prestación de los servicios, como, por ejemplo, las ratios profesionales/usuarios en los centros residenciales, en las escuelas infantiles, etc., las tablas salariales (con ningún sueldo por debajo de 1,5 veces el SMI) y los derechos laborales de las personas cuidadoras, etc. Obviamente, aquellas comunidades autónomas que lo deseen pueden aumentar la calidad de la atención por encima de los parámetros mínimos que fije la ley. Esta ley garantizará también el reconocimiento profesional, el acceso a prestaciones, el acceso a servicios socio-sanitarios (particularmente el acceso a los servicios de salud mental) y la prevención de riesgos laborales de las personas que cuidan."
+   },
+   {
+    "id": "adelante-0008",
+    "partido": "adelante",
+    "titular": "Ligar por ley los salarios y el salario mínimo a la inflación",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "6. **Salarios que suben con los precios** — Salarios y salario mínimo ligados a la inflación por ley.\nSe desarrolla en el programa: Propuestas 269 y 270 · Área 02 Economía y empleo"
+   },
+   {
+    "id": "adelante-0012",
+    "partido": "adelante",
+    "titular": "Pensiones públicas revalorizadas con el IPC real y jubilación a los 64 años",
+    "marca_actual": [],
+    "texto": "10. **Pensiones dignas y 100 % públicas** — Un sistema público blindado en la Constitución y revalorizado con el IPC real por ley; pensiones mínimas y no contributivas iguales al salario mínimo neto; jubilación a los 64 años, desde los 55 con contrato de relevo, y jubilación completa con 40 años cotizados.\nSe desarrolla en el programa: Propuestas 216, 217, 218 y 220 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0157",
+    "partido": "adelante",
+    "titular": "Prácticas de FP remuneradas con al menos el SMI proporcional y cotización",
+    "marca_actual": [],
+    "texto": "113. **Prácticas de FP remuneradas** — Al menos el SMI en proporción a las horas, con alta y cotización desde el primer día, y un fondo público que cubra parte del coste a pymes y economía social; una FP dual que no sea mano de obra gratuita. _Porque trabajar gratis no es formarse._"
+   },
+   {
+    "id": "adelante-0244",
+    "partido": "adelante",
+    "titular": "Estatuto de la cuidadora principal con cotización y prestación ligada al SMI",
+    "marca_actual": [],
+    "texto": "196. **Estatuto de la cuidadora principal** — Cotización, desempleo, jubilación y una prestación ligada al salario mínimo según el grado de dependencia. _Porque quien cuida a un familiar a tiempo completo se queda sin derechos._"
+   },
+   {
+    "id": "adelante-0264",
+    "partido": "adelante",
+    "titular": "Pensiones con el IPC real y mínimas no inferiores al salario mínimo neto",
+    "marca_actual": [],
+    "texto": "Las pensiones públicas subirán con el IPC real y ninguna mínima quedará por debajo del salario mínimo neto."
+   },
+   {
+    "id": "adelante-0266",
+    "partido": "adelante",
+    "titular": "Pensiones mínimas iguales al salario mínimo neto",
+    "marca_actual": [],
+    "texto": "217. **Pensiones mínimas iguales al SMI neto** — Complemento estatal para jubilación, incapacidad, viudedad y no contributivas, tomando como referencia el neto del salario mínimo de 2026 (1.221 euros brutos en 14 pagas). _Porque nadie debería vivir con una pensión por debajo de lo necesario para vivir._"
+   },
+   {
+    "id": "adelante-0318",
+    "partido": "adelante",
+    "titular": "Trabajar tiene que dar para vivir: menos horas, mejores sueldos y despido más caro",
+    "marca_actual": [],
+    "texto": "Trabajar tiene que dar para vivir: menos horas, mejores sueldos y despidos que dejen de salir baratos."
+   },
+   {
+    "id": "adelante-0320",
+    "partido": "adelante",
+    "titular": "Indexar los salarios y el salario mínimo a la inflación",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "269. **Salarios que suben con los precios** — Recuperar el poder adquisitivo perdido e indexar los salarios a la inflación, también el salario mínimo. _Porque los precios han subido mucho más que los salarios._"
+   },
+   {
+    "id": "adelante-0321",
+    "partido": "adelante",
+    "titular": "Subida salarial automática tras un año de convenio bloqueado",
+    "marca_actual": [],
+    "texto": "270. **Subida automática si el convenio se bloquea** — Reforma del artículo 86 del Estatuto de los Trabajadores: tras un año de convenio denunciado sin acuerdo, las tablas salariales subirán cada año, como mínimo, lo que sea mayor entre el IPC, la subida del salario mínimo o lo fijado en un acuerdo interprofesional, como condición mínima compensable y absorbible y salvo pacto en contrario. _Porque bloquear un convenio no puede ser una forma de congelar sueldos._"
+   },
+   {
+    "id": "adelante-0322",
+    "partido": "adelante",
+    "titular": "Impedir que las subidas de convenio se absorban con pluses o antigüedad",
+    "marca_actual": [],
+    "texto": "271. **Ni pluses ni antigüedad absorbidos** — Las subidas pactadas en convenio no podrán compensarse con complementos ni trienios, y la nómina detallará lo absorbido. _Porque las subidas pactadas no pueden desaparecer absorbidas en la nómina._"
+   },
+   {
+    "id": "adelante-0326",
+    "partido": "adelante",
+    "titular": "Abanico salarial máximo de 1 a 5 en cada empresa",
+    "marca_actual": [],
+    "texto": "275. **Abanico salarial de 1 a 5** — Nadie cobrará en una empresa más de cinco veces el salario más bajo. _Porque las diferencias salariales dentro de una misma empresa son cada vez mayores._"
+   },
+   {
+    "id": "adelante-0354",
+    "partido": "adelante",
+    "titular": "Valoraciones sin mutuas y grado de discapacidad resuelto en seis meses",
+    "marca_actual": [],
+    "texto": "303. **Valoraciones médicas justas** — Coordinación entre sanidad pública e INSS y fin de las sesiones conjuntas con las mutuas; valoraciones de incapacidad y discapacidad basadas en los informes médicos y sin cupos, el grado de discapacidad resuelto en seis meses y ayuda para la defensa jurídica y los peritajes a quien cobra menos del salario mínimo. _Porque las mutuas tienen interés en dar altas y las valoraciones se eternizan._"
+   },
+   {
+    "id": "bng-0047",
+    "partido": "bng",
+    "titular": "Subir el SMI al 60 % del salario medio y descentralizarlo",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Incrementar o Salario Mínimo Interprofesional até o situar no 60 % do salario medio, tal e como fixa a Carta Social Europea conforme aos datos do EUROSTAT. Prohibir expresamente que o SMI sexa compensábel ou absorbíbel por outros complementos salariais. Aprobar a descentralización do SMI para que en Galiza teñamos competencia para mellorar o estatal."
+   },
+   {
+    "id": "bng-0054",
+    "partido": "bng",
+    "titular": "Derogar el IPREM y recuperar el SMI como único indicador de renta",
+    "marca_actual": [],
+    "texto": "- Derrogar o IPREM (DL 3/2004), recuperando o SMI como único indicador de renda."
+   },
+   {
+    "id": "bng-0055",
+    "partido": "bng",
+    "titular": "Prohibir las dobles escalas salariales y las categorías de entrada",
+    "marca_actual": [],
+    "texto": "- Prohibir as duplas escalas salariais e categorías de entrada,"
+   },
+   {
+    "id": "bng-0066",
+    "partido": "bng",
+    "titular": "Elevar la prestación por desempleo al 75 % y nunca por debajo del SMI",
+    "marca_actual": [],
+    "texto": "- Elevar a protección por desemprego:\n - Prestación contributiva: Elevar a súa contía ao 75% da base reguladora os primeiros 180 días e 65% despois, non podendo ser nunca inferior ao SMI.\n - Subsidio por desemprego non inferior ao SMI en toda a súa duración.\n - Fixos-descontinuos: subsidio sen tempo mínimo de cotización previa e duración mínima de 6 meses.\n - Revisión das táboas de cotización por desemprego para penalizar a contratación precaria e favorecer a indefinida a tempo completo."
+   },
+   {
+    "id": "bng-0070",
+    "partido": "bng",
+    "titular": "Subir las pensiones mínimas al menos hasta el SMI",
+    "marca_actual": [],
+    "texto": "- Incremento das pensións mínimas até situalas como mínimo na mesma contía que o Salario Mínimo Interprofesional (60 % do salario medio, conforme ás cifras do EUROSTAT)."
+   },
+   {
+    "id": "bng-0093",
+    "partido": "bng",
+    "titular": "Transferir el IMV a Galicia para una renta de inclusión no inferior al SMI",
+    "marca_actual": [],
+    "texto": "- Reclamar a transferencia a Galiza do Ingreso Mínimo Vital (IMV) para garantir unha xestión máis áxil e acaída á realidade galega, permitindo a creación dunha verdadeira Renda Galega de Inclusión Social e Laboral nunha contía non inferior ao SMI."
+   },
+   {
+    "id": "erc-0091",
+    "partido": "erc",
+    "titular": "Reindustrialización verde, salario mínimo catalán y reforma del IRPF y el IVA",
+    "marca_actual": [],
+    "texto": "Davant d’aquest panorama, Esquerra Republicana aposta tant per mesures estructurals que ens permetin avançar cap a un model econòmic més inclusiu, fomentant la reindustrialització verda, com per mesures de suport a la classe treballadora que pateix les conseqüències d’un model econòmic basat en salaris baixos.\n\nEntre altres mesures, Esquerra Republicana fa anys que reclama que Catalunya tingui un salari mínim propi, que reflecteixi el cost de vida més alt que el d’altres territoris de l’Estat. També defensa una reforma de l’IRPF i l’IVA que penalitzi les rendes més altes, dependents del capital, mentre es redueix l’IRPF a la classe treballadora i es fan més accessibles productes bàsics per a la ciutadania."
+   },
+   {
+    "id": "erc-0092",
+    "partido": "erc",
+    "titular": "Subir el SMI hasta el 60 % del salario medio bruto",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "66. Incrementar el Salari Mínim Interprofessional de l’estat fins al 60 % del salari mitjà brut d’acord amb les exigències del dret internacional comunitari i, en particular, de la Carta Social Europea."
+   },
+   {
+    "id": "erc-0093",
+    "partido": "erc",
+    "titular": "Salario mínimo catalán de 1.460 euros con competencias para la Generalitat",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "67. Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €. Efectuar les modificacions normatives oportunes perquè el Govern de la Generalitat pugui establir un salari mínim interprofessional territorialitzat, superior al fixat a escala estatal, d’acord amb la realitat socioeconòmica de Catalunya i amb l’objectiu de garantir una remuneració suficient i un nivell de vida digne, en la línia de la Carta Social Europea i del criteri del Comitè Europeu de Drets Socials, que situa el salari mínim en, com a referència, almenys el 60 % del salari mitjà net."
+   },
+   {
+    "id": "erc-0135",
+    "partido": "erc",
+    "titular": "Diagnóstico: salarios por detrás de los precios y precariedad laboral",
+    "marca_actual": [],
+    "texto": "Viure dignament ha de ser una realitat per a tothom, independentment de la situació laboral, econòmica o personal de cadascú. El treball ha de permetre desenvolupar un projecte de vida i no condemnar ningú a la precarietat o a la pobresa. Però en els darrers anys l’encariment del cost de la vida, amb uns salaris que no han evolucionat al mateix ritme que els preus, ha provocat que cada vegada més persones, tot i tenir una feina, tinguin dificultats per arribar a final de mes. Aquesta realitat evidencia els límits d’un model que continua repartint de manera desigual la riquesa i que prioritza els beneficis empresarials per sobre les condicions de vida de la classe treballadora.\n\nCal garantir les rendes i avançar cap a l’assoliment de salaris suficients per viure, combatre la precarietat i la temporalitat injustificada, reduir les desigualtats i evitar que l’acomiadament sigui una via fàcil i barata per a les empreses. També implica reforçar la protecció social, garantir unes pensions dignes i assegurar que ningú quedi desprotegit davant de situacions de vulnerabilitat."
+   },
+   {
+    "id": "cnv-0191",
+    "partido": "cnv",
+    "titular": "Ley estatal de igualdad retributiva por trabajos de igual valor",
+    "marca_actual": [],
+    "texto": "- Impulsarem una llei Estatal que fomenti la igualtat retributiva entre gèneres per a treballs del mateix valor, així com la igualtat d’accés a l’ocupació."
+   },
+   {
+    "id": "cnv-0311",
+    "partido": "cnv",
+    "titular": "Normativa europea de salario mínimo por encima del umbral de pobreza",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Impulsarem una normativa europea que garanteixi, en tots els Estats Membres, un salari mínim per sobre del llindar de pobresa."
+   },
+   {
+    "id": "pnv-0022",
+    "partido": "pnv",
+    "titular": "Salarios acordes con el coste de vida de Euskadi y empleo estable",
+    "marca_actual": [],
+    "texto": "Trabajar debe permitir pagar una vivienda, afrontar los gastos cotidianos y ahorrar. Defenderemos salarios acordes con el coste de vida de Euskadi, empleos estables y derechos laborales que se cumplan."
+   },
+   {
+    "id": "pnv-0023",
+    "partido": "pnv",
+    "titular": "Reclamar la competencia para un salario mínimo vasco superior al estatal",
+    "marca_actual": [],
+    "texto": "1. Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal. Impulsar su definición mediante el diálogo social, con la participación de sindicatos y organizaciones empresariales."
+   },
+   {
+    "id": "pnv-0025",
+    "partido": "pnv",
+    "titular": "Favorecer la negociación colectiva para trasladar la productividad a los salarios",
+    "marca_actual": [],
+    "texto": "3. Favorecer la negociación colectiva para que las mejoras de productividad se traduzcan en mejores salarios, mayor poder adquisitivo y un reparto equilibrado del valor generado."
+   },
+   {
+    "id": "pnv-0034",
+    "partido": "pnv",
+    "titular": "Actualizar el precio de contratos públicos para cubrir subidas salariales pactadas",
+    "marca_actual": [],
+    "texto": "12. Evitar que las mejoras salariales pactadas pongan en riesgo servicios públicos contratados: permitir, en casos estratégicos y justificados, actualizar el precio de los contratos para cubrir esos costes y garantizar tanto el empleo como la continuidad del servicio."
+   },
+   {
+    "id": "pnv-0208",
+    "partido": "pnv",
+    "titular": "Prestación digna para cuidadoras no profesionales con referencia al salario mínimo",
+    "marca_actual": [],
+    "texto": "1. Favorecer una prestación económica digna para las personas cuidadoras no profesionales que hayan abandonado su actividad laboral o reducido su jornada para atender a familiares dependientes, tomando como referencia el salario mínimo y la intensidad de los cuidados."
+   },
+   {
+    "id": "bildu-0016",
+    "partido": "bildu",
+    "titular": "Salarios dignos y condiciones laborales justas para la mayoría trabajadora",
+    "marca_actual": [],
+    "texto": "Lograr salarios dignos y suficientes, condiciones laborales justas y defender los derechos de la mayoría trabajadora serán los objetivos a lograr en el ámbito laboral. Condiciones mínimas para que los y las trabajadoras cuenten con medios materiales para una vida digna. Por eso, propondremos:"
+   },
+   {
+    "id": "bildu-0018",
+    "partido": "bildu",
+    "titular": "SMI propio por comunidad autónoma y despido improcedente de al menos 45 días",
+    "marca_actual": [
+     "subir"
+    ],
+    "texto": "- Establecer la adaptación a la realidad socioeconómica mediante un SMI propio, que permita alcanzar valores de suficiencia, evitando la pérdida de poder adquisitivo de los sectores más dependientes del Salario Mínimo Interprofesional como jóvenes, mujeres y sectores vulnerables. Para ello:\n - Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.\n - Establecer por ley, como parámetro de suficiencia para el establecimiento de las cuantías, la referencia que establece la Carta Social Europea.\n - Adoptar las medidas que impidan a las empresas la absorción de los aumentos mediante pluses y complementos.\n - Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes:\n - Indemnización por despido improcedente de al menos 45 días, cumpliendo con la resolución del Comité Europeo de Derechos Sociales de establecer indemnizaciones disuasorias y suficientes\n - Salarios de tramitación.\n - Recuperar en el Estatuto de los Trabajadores la necesaria autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo, con el objetivo de proteger el empleo y la viabilidad de la actividad empresarial.\n - Medidas específicas orientadas a reducir la precariedad, temporalidad y parcialidad que aún afectan especialmente a sectores como mujeres y personas jóvenes, con el objetivo de reducir la brecha salarial existente."
+   },
+   {
+    "id": "bildu-0031",
+    "partido": "bildu",
+    "titular": "Subir las pensiones mínimas al menos hasta 1.220 € ligadas al SMI",
+    "marca_actual": [],
+    "texto": "- Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI como exige el movimiento de pensionistas."
+   }
+  ]
+ },
+ {
+  "eje": "eje-alquiler",
+  "pregunta": "¿Limitar el precio del alquiler?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí, regular o bajar precios"
+   },
+   {
+    "id": "no",
+    "nombre": "No, más oferta y seguridad jurídica"
+   }
+  ],
+  "n": 41,
+  "palabras": 2212,
+  "candidatos": [
+   {
+    "id": "podemos-0008",
+    "partido": "podemos",
+    "titular": "Bajar los alquileres un 40 % por ley",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "1. **Bajar los alquileres un 40% por ley.** Aprobaremos una reducción extraordinaria del 40 % de los precios del alquiler, aplicable a los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos para acabar con los alquileres abusivos y garantizar el derecho a la vivienda. Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual en la correspondiente zona. Si la vivienda nunca ha sido puesta antes en alquiler, el precio inicial será el 60% del precio medio actual de la zona. Acabaremos así con los alquileres abusivos y avanzaremos hacia el derecho efectivo a la vivienda."
+   },
+   {
+    "id": "podemos-0009",
+    "partido": "podemos",
+    "titular": "Contratos de alquiler de vivienda habitual indefinidos por defecto",
+    "marca_actual": [],
+    "texto": "2. **Contratos de alquiler indefinidos.** Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto, para garantizar la estabilidad residencial y evitar que nadie tenga que abandonar su hogar por el mero vencimiento del contrato."
+   },
+   {
+    "id": "podemos-0015",
+    "partido": "podemos",
+    "titular": "Crear una inmobiliaria pública con rentas máximas del 30 % de la renta media",
+    "marca_actual": [],
+    "texto": "8. **Creación de una Inmobiliaria Pública.** Crearemos una inmobiliaria pública que actúe como intermediaria entre propietarios e inquilinos y asuma la gestión integral de los arrendamientos, incluidas las obligaciones y responsabilidades que correspondan a los propietarios. A cambio, garantizará alquileres asequibles, con una renta máxima equivalente al 30 % de la renta media del municipio."
+   },
+   {
+    "id": "podemos-0022",
+    "partido": "podemos",
+    "titular": "Incluir el alquiler de temporada y por habitaciones en la regulación de la LAU",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "15. **Regulación del alquiler de temporada y por habitaciones.** Incorporaremos de forma inmediata los alquileres de temporada y por habitaciones a la regulación de la vivienda de la Ley de Arrendamientos Urbanos (LAU), para evitar que estas modalidades se utilicen para eludir los límites legales, encarecer los alquileres y precarizar las condiciones de acceso a la vivienda."
+   },
+   {
+    "id": "podemos-0027",
+    "partido": "podemos",
+    "titular": "Reconocer los derechos sindicales de las personas inquilinas",
+    "marca_actual": [],
+    "texto": "20. **Reconocimiento de los derechos sindicales de las personas inquilinas.** Reconoceremos el derecho de las personas inquilinas a organizarse, negociar colectivamente con los propietarios y defender sus intereses de forma conjunta. Garantizaremos la representación de sus organizaciones en los conflictos de alquiler y ampliaremos su capacidad para presentar demandas colectivas frente a grandes tenedores e inmobiliarias."
+   },
+   {
+    "id": "podemos-0028",
+    "partido": "podemos",
+    "titular": "Perseguir los abusos y la discriminación en el acceso al alquiler",
+    "marca_actual": [],
+    "texto": "21. **Acabar con los abusos y discriminación en el acceso a la vivienda.** Reforzaremos los derechos de las personas inquilinas y cerraremos las vías de fraude utilizadas por inmobiliarias y propietarios para imponer cobros encubiertos, garantías desproporcionadas y cláusulas abusivas. Perseguiremos especialmente la discriminación racista, capacitista, xenófoba y LGTBIfóbica en el acceso al alquiler, impidiendo que se rechace a personas por su origen, nacionalidad o situación administrativa, racialización, orientación ideológica, religión, orientación sexual, edad, tenencia de mascotas, identidad o expresión de género o situación familiar, incluida la que afecta a familias monomarentales. Estableceremos mecanismos ágiles de denuncia, inspecciones y sanciones efectivas, garantizando la devolución de los cobros indebidos y de las fianzas cuando corresponda, así como el derecho a una vivienda en condiciones dignas."
+   },
+   {
+    "id": "podemos-0029",
+    "partido": "podemos",
+    "titular": "Crear un registro público de todas las viviendas y alquileres",
+    "marca_actual": [],
+    "texto": "22. **Crear un registro público de todas las viviendas y de todos los alquileres.** Creación de un registro público, digital y único de todas las viviendas del país y de su uso habitual, alquilada, vacía o turística, de las que se ofrecen en alquiler y de quienes buscan alquilar. No se podrá alquilar una vivienda que no esté inscrita, y el registro servirá de censo de las viviendas vacías de bancos, fondos y grandes tenedores."
+   },
+   {
+    "id": "podemos-0044",
+    "partido": "podemos",
+    "titular": "Crear una red pública de supermercados",
+    "marca_actual": [],
+    "texto": "34. **Establecimiento de una red pública de supermercados.** La existencia de un operador público en el sector de la gran distribución de alimentos tendrá innumerables ventajas: el control de precios, especialmente en contextos de inflación, al no repercutir margen de beneficio sobre el precio de venta al público, el fomento de la viabilidad de las pequeñas y medianas explotaciones agrícolas y ganaderas del país mediante la priorización de la compra de proximidad, la implementación de esquemas de alimentación social y de colaboración con los bancos de alimentos con una mayor eficacia logística y, como siempre, el aumento de los ingresos del Estado. Esta red pública de supermercados, además de ocuparse de la venta al público, también se puede ocupar de suministrar alimentos a todas las administraciones públicas canalizando así la producción ecológica y nacional hacia el conjunto del sector público."
+   },
+   {
+    "id": "podemos-0415",
+    "partido": "podemos",
+    "titular": "Garantizar el acceso con animales a la vivienda, albergues y recursos sociales",
+    "marca_actual": [],
+    "texto": "397. **Ninguna persona debe verse obligada a separarse de su animal para acceder a una vivienda o a una protección social.** Además de reformar la Ley de Arrendamientos Urbanos para impedir que la mera convivencia con animales pueda ser motivo de prohibición genérica en los contratos de alquiler, garantizaremos que las personas puedan acceder con sus animales a albergues, alojamientos temporales, servicios sociales y otros recursos asistenciales, especialmente cuando se encuentren en situación de vulnerabilidad o sin hogar. Promoveremos soluciones que permitan mantener el vínculo con los animales en residencias de mayores, centros de discapacidad y otros recursos asistenciales, siempre que las condiciones sanitarias y de convivencia lo permitan. Reconoceremos los animales como posibles instrumentos de control y violencia vicaria en situaciones de violencia machista y crearemos redes públicas de acogida temporal para los animales de las víctimas, incorporando su protección a los protocolos de atención y garantizando que ninguna mujer tenga que permanecer en una situación de violencia por no poder proteger a su animal."
+   },
+   {
+    "id": "adelante-0003",
+    "partido": "adelante",
+    "titular": "Vivienda como derecho exigible y alquiler nunca por encima del 20 % del salario",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "1. **Fin de la especulación inmobiliaria y garantía del derecho a la vivienda**\n - La vivienda como un derecho que se pueda exigir ante los tribunales.\n - Ningún alquiler por encima del 20 % del salario y contratos indefinidos.\n - Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.\n - Prohibición de la compra especulativa y de que los fondos compren vivienda.\n - Retirada de licencias de apartamentos turísticos donde los precios se han disparado.\n - Impuesto a la vivienda vacía de grandes tenedores.\n - Reforma de la VPO para evitar la especulación y que sean accesibles.\n - Creación de una constructora pública.\n - Ilegalización de las empresas de “desokupación”.\n Se desarrolla en el programa: Propuestas 157, 159, 161, 162, 167, 168, 172, 173, 181 y 185 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0208",
+    "partido": "adelante",
+    "titular": "Índice estatal para que ningún alquiler supere el 20 % de la renta media",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "161. **Alquiler al 20 % del salario** — Índice estatal de referencia por barrio o municipio para que ningún alquiler supere el 20 % de la renta media de la zona. _Porque muchas familias dedican al alquiler casi la mitad de lo que ganan._"
+   },
+   {
+    "id": "adelante-0209",
+    "partido": "adelante",
+    "titular": "Alquileres indefinidos, prórroga sin subida y registro obligatorio de contratos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "162. **Contratos indefinidos** — Alquileres de duración indefinida y prórroga sin subida, para acabar con los desahucios silenciosos, y registro obligatorio de los contratos conectado con Hacienda contra el alquiler en negro. _Porque no renovar un contrato se ha convertido en una forma de echar a la gente._"
+   },
+   {
+    "id": "adelante-0210",
+    "partido": "adelante",
+    "titular": "Mismos límites y garantías para el alquiler de temporada y por habitaciones",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "163. **Temporada y habitaciones con derechos** — Los mismos límites y garantías que el alquiler de vivienda habitual. _Porque los alquileres de temporada y por habitaciones se usan para saltarse la ley._"
+   },
+   {
+    "id": "adelante-0211",
+    "partido": "adelante",
+    "titular": "Declaración automática de zonas tensionadas por indicadores objetivos",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "164. **Zonas tensionadas obligatorias** — Declaración automática por indicadores objetivos, sin depender de cada comunidad. _Porque la Junta no ha querido declarar zonas tensionadas para no limitar los precios._"
+   },
+   {
+    "id": "adelante-0212",
+    "partido": "adelante",
+    "titular": "Gran tenedor desde cinco viviendas y límites a sus compras en zonas tensionadas",
+    "marca_actual": [],
+    "texto": "165. **Gran tenedor desde cinco viviendas** — En todo el Estado, con límites a sus nuevas compras en zonas tensionadas. _Porque con el límite actual muchos grandes tenedores quedan fuera de las obligaciones._"
+   },
+   {
+    "id": "adelante-0220",
+    "partido": "adelante",
+    "titular": "Moratoria de pisos turísticos en zonas tensionadas y cierre de los ilegales",
+    "marca_actual": [],
+    "texto": "173. **Moratoria de pisos turísticos** — Ninguna licencia nueva en zonas tensionadas, retirada progresiva y cierre de los que funcionan sin licencia. _Porque los pisos turísticos están expulsando al vecindario de los barrios._"
+   },
+   {
+    "id": "adelante-0226",
+    "partido": "adelante",
+    "titular": "Nulas las cláusulas de alquiler que prohíben animales de compañía",
+    "marca_actual": [],
+    "texto": "179. **Animales en el alquiler** — Nulas las cláusulas que prohíben convivir con animales de compañía. _Porque nadie debería tener que elegir entre su casa y su animal._"
+   },
+   {
+    "id": "adelante-0234",
+    "partido": "adelante",
+    "titular": "Préstamo sin intereses para la fianza, aval público y seguro de impago",
+    "marca_actual": [],
+    "texto": "187. **Fianza cero y aval público** — Préstamo sin intereses para la fianza y aval público gratuito ante la propiedad, como el sistema francés, con seguro público de impago para quien alquile a precio de referencia. _Porque reunir varios meses de fianza es imposible para muchas familias._"
+   },
+   {
+    "id": "adelante-0235",
+    "partido": "adelante",
+    "titular": "Portal público de alquiler sin comisiones e inspección de habitabilidad",
+    "marca_actual": [],
+    "texto": "188. **Portal público de alquiler** — Oferta de alquiler sin comisiones, con cédula de vivienda digna e inspección previa de la habitabilidad. _Porque las comisiones de las agencias encarecen el acceso al alquiler._"
+   },
+   {
+    "id": "adelante-0236",
+    "partido": "adelante",
+    "titular": "Agencias públicas que alquilan a pequeños propietarios y subarriendan a precio social",
+    "marca_actual": [],
+    "texto": "189. **Agencias públicas de alquiler** — El Estado alquila a quien tiene una pequeña propiedad con garantía de cobro y subarrienda a precio social. _Porque mucha gente con una pequeña propiedad no alquila por miedo a no cobrar._"
+   },
+   {
+    "id": "adelante-0237",
+    "partido": "adelante",
+    "titular": "Dejar el alquiler con un mes de preaviso por despido o enfermedad",
+    "marca_actual": [],
+    "texto": "190. **Salir del contrato sin castigo** — Preaviso de un mes y sin penalización en caso de despido, traslado laboral o enfermedad, y persecución de los falsos contratos de temporada. _Porque quien pierde el empleo o enferma no debería ser castigado por dejar su casa._"
+   },
+   {
+    "id": "adelante-0238",
+    "partido": "adelante",
+    "titular": "Bono Alquiler Joven también para habitaciones y pisos compartidos",
+    "marca_actual": [],
+    "texto": "191. **Bono joven también para pisos compartidos** — Que el Bono Alquiler Joven cubra la habitación y el piso compartido, que es como vive la mayoría de la juventud. _Porque la mayoría de la juventud no puede pagar un piso entero._"
+   },
+   {
+    "id": "adelante-0570",
+    "partido": "adelante",
+    "titular": "Ayudas de hasta el 100 % del alquiler y viviendas transitorias para víctimas",
+    "marca_actual": [],
+    "texto": "514. **Vivienda para salir de la violencia** — Ayudas de hasta el 100 % del alquiler y viviendas transitorias. _Porque muchas mujeres no dejan al maltratador por no tener a dónde ir._"
+   },
+   {
+    "id": "bng-0028",
+    "partido": "bng",
+    "titular": "Topar por ley los alquileres y prohibir desahucios de personas vulnerables",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Topar por lei os prezos dos alugueiros e prohibir os desafiuzamentos de persoas en situación de vulnerabilidade, así como decretar a suspensión automática e indefinida de calquera lanzamento sen alternativa habitacional"
+   },
+   {
+    "id": "bng-0029",
+    "partido": "bng",
+    "titular": "Renovación automática y carácter indefinido de los contratos de alquiler",
+    "marca_actual": [],
+    "texto": "- Impulsar a protección e estabilidade das persoas arrendatarias ante as dinámicas especulativas, estabelecendo a renovación automática dos alugueiros, blindando por lei o carácter indefinido dos contratos de alugueiro e impulsando mecanismos e recursos para a persecución das prácticas de acoso, discriminación e abuso inmobiliario."
+   },
+   {
+    "id": "bng-0037",
+    "partido": "bng",
+    "titular": "Condicionar las ayudas a la rehabilitación a la duración de los alquileres",
+    "marca_actual": [],
+    "texto": "- Modificar as axudas do Plan estatal de vivenda destinadas á rehabilitación, accesibilidade e renovación urbana e rural para que se condicionen á duración dos contratos vixentes e futuros das vivendas ou edificios subvencionados ou ben ao control de rendas durante un período de tempo determinado, co fin de evitar que as melloras, en ámbitos con forte presión especulativa, deriven en finalización de contratos ou subas abusivas."
+   },
+   {
+    "id": "bng-0508",
+    "partido": "bng",
+    "titular": "Frenar la discriminación de jóvenes sin avales o con contratos temporales en vivienda",
+    "marca_actual": [],
+    "texto": "- Estabelecer medidas contra a discriminación de persoas novas no acceso á vivenda por non dispoñeren de avais familiares ou por ter contratos laborais temporais."
+   },
+   {
+    "id": "erc-0079",
+    "partido": "erc",
+    "titular": "Delegar en la Generalitat la competencia para una ley de arrendamientos urbanos catalana",
+    "marca_actual": [],
+    "texto": "55. Dotar la Generalitat de Catalunya de competències per al desplegament d’una llei d’arrendaments urbans catalana. Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola, que delegui formalment a la Generalitat de Catalunya la facultat de legislar de manera plena i integral en matèria d’arrendaments urbans. Aquest nou marc normatiu hauria de permetre solucionar el bloqueig de competències en matèria de dret civil i habitatge, que impedeix a la Generalitat un desplegament efectiu de les seves competències en habitatge mitjançant les lleis aprovades pel Parlament de Catalunya, i respondre a la realitat socioeconòmica singular del mercat de l’habitatge a Catalunya, als consensos socials del país i a les necessitats de les persones treballadores."
+   },
+   {
+    "id": "erc-0086",
+    "partido": "erc",
+    "titular": "Evitar desahucios de personas vulnerables sin alternativa y compensar a pequeños propietarios",
+    "marca_actual": [],
+    "texto": "62. Millorar la regulació dels arrendaments per protegir els drets dels arrendataris i evitar els desnonaments de les persones vulnerables sense habitatge alternatiu i mantenir les compensacions als petits propietaris que es puguin veure perjudicats per aquestes situacions."
+   },
+   {
+    "id": "cnv-0068",
+    "partido": "cnv",
+    "titular": "Derogar la Ley 12/2023 por el derecho a la vivienda",
+    "marca_actual": [
+     "no"
+    ],
+    "texto": "- Proposarem la derogació de la Llei 12/2023, de 24 de maig, pel dret a l’habitatge, per considerar-la una invasió competencial, un atac a la propietat privada i un fre a l’oferta de lloguer per culpa dels controls de preus."
+   },
+   {
+    "id": "pnv-0011",
+    "partido": "pnv",
+    "titular": "Evitar el uso fraudulento de los contratos de temporada",
+    "marca_actual": [],
+    "texto": "3. Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual."
+   },
+   {
+    "id": "pnv-0012",
+    "partido": "pnv",
+    "titular": "Regular los alquileres de temporada y turísticos",
+    "marca_actual": [],
+    "texto": "4. Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial."
+   },
+   {
+    "id": "pnv-0014",
+    "partido": "pnv",
+    "titular": "Dar seguridad jurídica a personas inquilinas y pequeños propietarios",
+    "marca_actual": [],
+    "texto": "6. Dar seguridad jurídica a las personas inquilinas y a los pequeños propietarios para favorecer el alquiler habitual."
+   },
+   {
+    "id": "bildu-0004",
+    "partido": "bildu",
+    "titular": "Cambiar de raíz el mercado de la vivienda contra la especulación y el rentismo",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "Que toda persona pueda contar con una vivienda digna y asequible es un derecho básico que se debe garantizar. Para ello, es necesario romper con las reglas actuales y cambiar de raíz el mercado de la vivienda, convertido hoy en un negocio basado en la especulación y el rentismo. Por eso se deberán tomar medidas que ofrezcan seguridad, estabilidad y garantías de acceso para toda persona que necesite un hogar, interviniendo el mercado y regulando el uso de los alojamientos, acabando con la especulación, impidiendo los desahucios, estableciendo regulaciones de los precios y aportando seguridad mediante contratos duraderos y prorrogables automáticamente. Todo ello con el objetivo de asegurar la función social de la vivienda. Para ello:"
+   },
+   {
+    "id": "bildu-0005",
+    "partido": "bildu",
+    "titular": "Contratos de alquiler ordinarios con prórroga automática",
+    "marca_actual": [],
+    "texto": "- Establecer contratos de arrendamiento ordinarios con prórroga automática como mecanismo para ofrecer estabilidad y seguridad a inquilinas e inquilinos y también a pequeños propietarios."
+   },
+   {
+    "id": "bildu-0007",
+    "partido": "bildu",
+    "titular": "Financiación estatal a ayuntamientos que declaren zonas tensionadas",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Un mecanismo especial de financiación estatal dirigido a ayuntamientos que hayan aplicado y declarado zonas tensionadas, para impulsar el desarrollo de los planes de vivienda locales asociados a la declaración y regulación del alquiler."
+   },
+   {
+    "id": "bildu-0011",
+    "partido": "bildu",
+    "titular": "Condicionar la compra de edificios completos al alquiler regulado",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- La compra de edificios completos de inmuebles quedará condicionada a que su finalidad/destino sea el de alquiler regulado en función de los índices de precios, quedando prohibida la compra con finalidad turística o especulativa."
+   },
+   {
+    "id": "bildu-0012",
+    "partido": "bildu",
+    "titular": "Limitar de forma estructural al 2 % la actualización anual del alquiler",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Establecer de manera estructural el máximo de 2% de actualización anual de renta en los contratos de arrendamiento, siempre que el IPC interanual a fecha de actualización supere este porcentaje."
+   },
+   {
+    "id": "bildu-0013",
+    "partido": "bildu",
+    "titular": "Eliminar deducciones fiscales cuando se suba la renta del alquiler",
+    "marca_actual": [],
+    "texto": "- Eliminar cualquier deducción fiscal cuando se produzca incremento de renta sobre el anterior contrato o sobre el índice de precios de referencia."
+   },
+   {
+    "id": "bildu-0129",
+    "partido": "bildu",
+    "titular": "Condicionar las ayudas a la rehabilitación a límites al precio del alquiler",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Protección del alquiler y del derecho a la vivienda: Condicionar las subvenciones públicas a la rehabilitación a compromisos de permanencia de las personas inquilinas y límites al precio del alquiler para evitar subidas abusivas o desahucios indirectos."
+   },
+   {
+    "id": "teruel-0066",
+    "partido": "teruel",
+    "titular": "Incentivar que se pongan más viviendas en alquiler en el medio rural",
+    "marca_actual": [],
+    "texto": "- **Incentivos al alquiler**. Impulsaremos medidas para poner más viviendas en alquiler en el medio rural para potenciar la repoblación."
+   }
+  ]
+ },
+ {
+  "eje": "eje-mordaza",
+  "pregunta": "¿Qué hacer con la Ley de Seguridad Ciudadana («ley mordaza»)?",
+  "posiciones": [
+   {
+    "id": "derogar-sustituir",
+    "nombre": "Derogarla o sustituirla"
+   },
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o reforzarla"
+   }
+  ],
+  "n": 15,
+  "palabras": 1610,
+  "candidatos": [
+   {
+    "id": "podemos-0426",
+    "partido": "podemos",
+    "titular": "Denuncia de la guerra judicial y defensa de la derogación de la Ley Mordaza",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "Por eso, democratizar la justicia es imprescindible para proteger a la gente frente a los abusos tienen más poder. En España, se utilizan los tribunales para perseguir adversarios políticos, prolongar causas sin indicios o interferir en el debate democrático. Se ha convertido al poder judicial en un instrumento para preservar el orden existente. Por eso, la guerra judicial y las cloacas del Estado comparten una lógica profundamente antidemocrática. Ningún juez, policía, empresario o servicio de inteligencia debería tener la capacidad de corregir la voluntad popular.\n\nUn sistema que concentra la riqueza y el poder en unas pocas manos necesita también poner obstáculos a quienes se organizan para cambiarlo. Cuando el pueblo se rebela contra la injusticia, defender la democracia exige proteger su derecho a protestar, a hacer huelga y a disputar las decisiones que afectan a su vida. Por eso defendemos la derogación de la Ley Mordaza y el fin de la criminalización de la protesta."
+   },
+   {
+    "id": "podemos-0449",
+    "partido": "podemos",
+    "titular": "Derogar la Ley Mordaza y prohibir las pelotas de goma",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "427. **Derogar la Ley Mordaza y reformar la legislación que limita los derechos fundamentales.** Derogaremos la Ley de Reforma de la Ley Orgánica de protección de la seguridad ciudadana, y promoveremos una nueva regulación garantista que proteja la libertad de expresión, reunión y manifestación, y que incluya expresamente la prohibición del uso de pelotas de goma como método de contención. Asimismo, se eliminará de toda la legislación correspondiente la presunción de veracidad de los atestados y de las declaraciones de los agentes que muchas veces se utiliza como única prueba para perseguir a los movimientos sociales; se exigirá que estas declaraciones vayan acompañadas de declaraciones coherentes de otros testigos o de pruebas materiales para que se pueda producir una sanción. Revisaremos también las disposiciones del Código Penal que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información. Estableceremos un plazo de detención máximo de 48 horas en cualquier supuesto, y crearemos un modelo reforzado de Habeas Corpus para evitar las detenciones arbitrarias una infracción."
+   },
+   {
+    "id": "adelante-0028",
+    "partido": "adelante",
+    "titular": "Derogar las leyes mordaza y los delitos de opinión del Código Penal",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "26. **Fuera las leyes mordaza** — Derogación de las leyes que persiguen la protesta y de los delitos de opinión del Código Penal.\nSe desarrolla en el programa: Propuestas 487 y 507 · Área 06 Instituciones limpias y libertades"
+   },
+   {
+    "id": "adelante-0507",
+    "partido": "adelante",
+    "titular": "Diagnóstico: la corrupción y los privilegios alejan a la gente de las instituciones",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "La política no puede ser un oficio ni una forma de enriquecerse. La corrupción que ha salpicado a los grandes partidos, las puertas giratorias y los privilegios de quienes gobiernan han alejado a la gente de las instituciones y han dado alas a una extrema derecha que se presenta como antisistema mientras vive de él y defiende los privilegios de siempre. Cobrarás lo que cobrabas antes, ni un euro más; nada de pagas vitalicias ni aforamientos; transparencia sin trabas y una autoridad independiente contra la corrupción. Y más poder para la ciudadanía: derogar la ley mordaza, una justicia con medios y unos medios de comunicación libres de la banca y del poder político."
+   },
+   {
+    "id": "adelante-0542",
+    "partido": "adelante",
+    "titular": "Derogar la ley mordaza y anular las sanciones por protestar",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "487. **Derogación de la ley mordaza** — Con anulación de las sanciones por protestar. _Porque la ley mordaza castiga la protesta y limita la libertad de expresión._"
+   },
+   {
+    "id": "adelante-0554",
+    "partido": "adelante",
+    "titular": "Ley orgánica de secreto profesional y directiva contra demandas abusivas a periodistas",
+    "marca_actual": [],
+    "texto": "499. **Secreto profesional y fin de las demandas mordaza** — Ley orgánica de secreto profesional y transposición de la directiva contra las demandas abusivas a periodistas. _Porque las demandas abusivas se usan para silenciar a periodistas._"
+   },
+   {
+    "id": "bng-0005",
+    "partido": "bng",
+    "titular": "Balance: incumplimientos del Gobierno y defensa de políticas de avance social",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "Outros compromisos que estaban en andamento ficaron no ar polo adianto electoral. Porén, algunhas outras medidas acordadas -témolo que dicir con claridade- non foron cumpridas polo goberno do PSOE-Sumar. En todo o caso, é claro que a responsabilidade polos incumprimentos é de quen non cumpre, o que nos leva directamente á reflexión de que máis forza para o BNG e maior representación tamén é necesaria para ter capacidade de obrigar os gobernos españois a cumprir con Galiza.\n\nO BNG foi nestes anos vangarda no Congreso e no Senado na defensa de políticas rupturistas, transformadoras e de avance social. Do impulso ás pensións mínimas e non contributivas por riba do IPC ao aumento dos permisos de maternidade e paternidade; da exixencia de derrogación da Lei da Mordaza ou da reforma laboral do PP de forma íntegra, á defensa da redución da xornada a 35 horas sen mingua salarial; de propostas para atallar a escalada de prezos que afogan as clases populares, ao impulso de medidas valentes e eficaces para garantir o dereito a unha vivenda digna fronte á especulación inmobiliaria..."
+   },
+   {
+    "id": "bng-0156",
+    "partido": "bng",
+    "titular": "Derogar íntegramente la Ley Mordaza y prohibir pelotas de goma y devoluciones en caliente",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "- Derrogación íntegra da Lei Mordaza por favorecer a discrecionalidade policial, a criminalización do dereito de reunión e manifestación e afondar na indefensión das e dos cidadáns. Especialmente a supresión da desobediencia e resistencia á autoridade, que é considerada unha infracción grave, igual que a negativa a identificarse ou a falta de consideración a algún axente das Forzas e Corpos de Seguranza do Estado. Debe tamén prohibirse o uso de pelotas de goma, as devolucións en quente e eliminarse o principio de presunción de veracidade que se outorga ás declaracións (denuncias, actas ou atestados) das e dos axentes."
+   },
+   {
+    "id": "bng-0527",
+    "partido": "bng",
+    "titular": "Derogar íntegramente la Ley Mordaza y prohibir pelotas de goma y devoluciones en caliente",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "- Derrogación íntegra da Lei Mordaza por favorecer a discrecionalidade policial, a criminalización do dereito de reunión e manifestación e afondar na indefensión das e dos cidadáns. Especialmente a supresión da desobediencia e resistencia á autoridade, que é considerada unha infracción grave, igual que a negativa a identificarse ou a falta de consideración a algún axente das Forzas e Corpos de Seguranza do Estado. Debe tamén prohibirse o uso de pelotas de goma, as devolucións en quente e eliminarse o principio de presunción de veracidade que se outorga ás declaracións (denuncias, actas ou atestados) das e dos axentes."
+   },
+   {
+    "id": "erc-0005",
+    "partido": "erc",
+    "titular": "Defensa de la autodeterminación de Cataluña y derogación de la Ley mordaza",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "Catalunya té dret a exercir l’autodeterminació, i són els catalans i les catalanes qui han de decidir el futur polític del país. Com a partit independentista, Esquerra Republicana mai no renunciarà a la llibertat del nostre poble i continuarà defensant que l’autodeterminació és la millor manera de resoldre democràticament el conflicte polític amb l’Estat espanyol.\n\nEl suport a l’independentisme continua ben vigent. El 43 % dels catalans, segons el darrer baròmetre del CEO, es mostra a favor de la independència. La diferència amb els contraris a l’independentisme es troba en els nivells més baixos des de 2022. A més, el 76 % dels catalans està d’acord a exercir el dret a l’autodeterminació. Esquerra Republicana continuarà defensant aquestes posicions polítiques, que es troben al cor de la nostra formació, a les Corts.\n\nTambé cal una Esquerra Republicana forta per persistir en la defensa dels drets i les llibertats en un Estat on s’han vulnerat constantment les darreres dècades. En primer terme, cal derogar la Llei mordassa, una norma absolutament lesiva per als moviments socials i la dissidència política, que va aprovar el PP però que el PSOE ha mantingut. De la mateixa manera, cal suprimir els delictes d’ofensa als sentiments religiosos i d’injúries contra la Corona."
+   },
+   {
+    "id": "erc-0008",
+    "partido": "erc",
+    "titular": "Derogar la Ley mordaza y revisar las normas que restringen la protesta",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "2. Derogar la Llei mordassa. La Llei Orgànica 4/2015 de protecció de la seguretat ciutadana es va dissenyar per reprimir, principalment, els moviments socials, les persones i les organitzacions que lluiten i protesten per drets i llibertats que mereix la població. En aquest sentit, cal derogar aquesta Llei i revisar tot el marc normatiu que restringeix drets fonamentals, com ara els de protesta, mobilització i llibertat d’expressió. La llei mordassa, mentrestant, no s’hauria d’aplicar en els territoris amb les competències de seguretat transferides, perquè puguin usar íntegrament la seva pròpia norma en aquesta matèria."
+   },
+   {
+    "id": "pnv-0161",
+    "partido": "pnv",
+    "titular": "Perímetros de al menos 150 metros en centros de interrupción voluntaria del embarazo",
+    "marca_actual": [],
+    "texto": "5. **Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo**, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres."
+   },
+   {
+    "id": "pnv-0177",
+    "partido": "pnv",
+    "titular": "Reformar la «ley mordaza» eliminando restricciones desproporcionadas",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "2. Impulsar la reforma de la legislación conocida como «ley mordaza», eliminando las restricciones desproporcionadas al ejercicio de derechos y libertades."
+   },
+   {
+    "id": "bildu-0168",
+    "partido": "bildu",
+    "titular": "Acabar con la Ley Mordaza y con el uso de pelotas de goma",
+    "marca_actual": [
+     "derogar-sustituir"
+    ],
+    "texto": "- Acabar con la Ley Mordaza. Volveremos a presentar la Proposición de Ley de Protección de las Libertades y Seguridad Ciudadana para acabar con la Ley Mordaza basada en el acuerdo que hace dos años EH Bildu logró para acabar con todos los artículos contrarios a la libertad de expresión y los derechos y libertades básicas de la ciudadanía, la cual, tras su admisión a trámite por mayoría, ha sido bloqueada por diferentes grupos durante su tramitación. Este acuerdo incluía las cuatro principales cuestiones y medidas que quedaron pendientes en la anterior legislatura y que el Gobierno español, hasta ese acuerdo momento, no había aceptado modificar:\n - Acabar con el uso de las pelotas de goma mediante su sustitución por medios menos lesivos y la implantación de protocolos específicos de actuación. Estos deberán incluir las directrices para el uso de los medios y actuaciones menos lesivas para la ciudadanía y evitar el uso de materiales que causen lesiones irreparables.\n - Acabar con las sanciones injustificadas o basadas en interpretaciones policiales subjetivas, blindando la libertad de expresión y estableciendo su cancelación en caso de retractación de la persona denunciada.\n - Se establecen criterios objetivos para las acusaciones de desobediencia, que pasa de grave a leve, y que serán sancionables sólo cuando esta esté ajustada a la legalidad u ordenamiento jurídico, impidiendo la discrecionalidad policial sobre requerimientos y sanciones.\n - Se establece la modificación de la Ley de Extranjería para aplicar los criterios de Derechos Humanos y protección internacional, estableciendo para para ello el acceso y evaluación de las solicitudes de protección internacional previas acordes al derecho internacional humanitario."
+   },
+   {
+    "id": "bildu-0200",
+    "partido": "bildu",
+    "titular": "Replegar las Fuerzas y Cuerpos de Seguridad del Estado de la CAV y Navarra",
+    "marca_actual": [],
+    "texto": "- Impulsar en la Comunidad Autónoma Vasca y en la Comunidad Foral de Navarra, el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado, en el marco del respeto y pleno desarrollo de las competencias de ambas comunidades en materia de seguridad ciudadana y orden público y en coherencia con el carácter integral de la Ertzaintza y de la Policía Foral."
+   }
+  ]
+ },
+ {
+  "eje": "eje-eutanasia",
+  "pregunta": "¿Eutanasia o cuidados paliativos?",
+  "posiciones": [
+   {
+    "id": "mantener",
+    "nombre": "Mantenerla o garantizarla"
+   },
+   {
+    "id": "derogar",
+    "nombre": "Poner el acento en los cuidados paliativos"
+   }
+  ],
+  "n": 12,
+  "palabras": 917,
+  "candidatos": [
+   {
+    "id": "podemos-0164",
+    "partido": "podemos",
+    "titular": "Blindar el aborto en la Constitución y sacarlo del Código Penal",
+    "marca_actual": [],
+    "texto": "146. **Blindar el derecho al aborto.** La interrupción voluntaria del embarazo es un derecho de las mujeres reconocido por ley. Para blindarlo:\n - **Eliminaremos todas las referencias al aborto consentido dentro del Código Penal.**\n - Incorporar expresamente el derecho al aborto en la **Constitución dentro del Título I Capítulo II Sección 1º como parte de los derechos fundamentales**, concretamente en el Artículo 15 como ya lo reconoce la jurisprudencia del Tribunal Constitucional."
+   },
+   {
+    "id": "podemos-0331",
+    "partido": "podemos",
+    "titular": "Garantizar el ejercicio efectivo del derecho a una muerte digna",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "313. **Garantizaremos el ejercicio efectivo del derecho a una muerte digna.** Reforzaremos los recursos humanos y materiales de las Comisiones de Garantía y Evaluación y de los equipos sanitarios para agilizar los procedimientos, estableciendo vías de tramitación prioritaria para las personas cuya situación clínica requiera una respuesta urgente y mecanismos de seguimiento que eviten retrasos injustificados. Garantizaremos equipos profesionales suficientes para que la objeción de conciencia individual nunca suponga un obstáculo para ejercer el derecho. Asimismo, estableceremos estándares comunes de atención y tiempos de tramitación, con mecanismos de supervisión y evaluación de las desigualdades territoriales."
+   },
+   {
+    "id": "podemos-0413",
+    "partido": "podemos",
+    "titular": "Estrategia Estatal de Prevención del Abandono y sacrificio cero",
+    "marca_actual": [],
+    "texto": "395. **Tolerancia cero frente al maltrato y el abandono: más recursos para proteger a los animales.** Reforzaremos los recursos del SEPRONA y la coordinación entre policías, servicios veterinarios y fiscalías para perseguir el maltrato animal, con protocolos estatales comunes de intervención, atención veterinaria, recogida de pruebas y protección de los animales. Aprobaremos una Estrategia Estatal de Prevención del Abandono, con financiación suficiente para que los municipios garanticen la recogida, atención, rehabilitación y acogida de los animales. Avanzaremos hacia el sacrificio cero: ningún animal podrá morir por falta de plazas en un centro de acogida y la eutanasia quedará reservada exclusivamente a los casos de sufrimiento irremediable acreditados por criterio veterinario. Auditaremos los centros financiados con fondos públicos y garantizaremos la transparencia sobre los animales fallecidos y las causas de su muerte. Impulsaremos una red estatal de adopción y acogida responsable y garantizaremos financiación estable para la gestión de colonias felinas mediante programas de captura, esterilización y retorno, identificación y atención veterinaria, protegiendo también a las personas cuidadoras."
+   },
+   {
+    "id": "podemos-0419",
+    "partido": "podemos",
+    "titular": "Prohibir espectáculos con animales silvestres y proteger al lobo en el LESPRE",
+    "marca_actual": [],
+    "texto": "401. **Proteger a los animales silvestres y acabar con su explotación como espectáculo.** Actualizaremos la legislación sobre fauna silvestre y zoológicos, elevando los estándares de bienestar, reforzando las inspecciones y prohibiendo los espectáculos y actividades basados en la exhibición o interacción directa con animales. Avanzaremos hacia el fin de la cría y mantenimiento en cautividad de elefantes y otros animales silvestres para su exhibición, así como hacia la eliminación progresiva de los espectáculos con cetáceos, transformando los zoológicos en centros de conservación, educación y recuperación. Aprobaremos una ley de grandes simios que prohíba su cría en cautividad para exhibición y su sacrificio, salvo eutanasia veterinaria estrictamente necesaria, y establezca restricciones a la experimentación y los traslados, así como una hoja de ruta para acabar progresivamente con su cautividad. Crearemos y reforzaremos una red estatal de centros de recuperación y rescate de fauna, incluidos centros especializados para animales procedentes del comercio ilegal y especies confiscadas. Impulsaremos medidas para reducir los atropellos y la mortalidad de fauna provocada por carreteras, ferrocarriles y tendidos eléctricos. Recuperaremos la protección del lobo en todo el territorio mediante su inclusión en el LESPRE, priorizando siempre los métodos no letales y garantizando medidas preventivas y sistemas adecuados de compensación."
+   },
+   {
+    "id": "adelante-0026",
+    "partido": "adelante",
+    "titular": "Pacto contra la violencia machista, permisos iguales y aborto en la Constitución",
+    "marca_actual": [],
+    "texto": "24. **Igualdad real y lucha contra el machismo** — Pacto de Estado contra la violencia machista con presupuesto; permisos iguales y pagados al 100 %; el aborto en la sanidad pública y en la Constitución, y ni un euro público para las organizaciones que acosan a las mujeres que abortan.\nSe desarrolla en el programa: Propuestas 47, 48, 508 y 523 · Área 01 Servicios públicos"
+   },
+   {
+    "id": "adelante-0068",
+    "partido": "adelante",
+    "titular": "Red pública de cuidados paliativos y plazos más ágiles para la eutanasia",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "33. **Paliativos y muerte digna** — Nuevo plan con una red pública de cuidados paliativos, también pediátricos, y hospitalización a domicilio las 24 horas, con atención especial al medio rural; cumplimiento del testamento vital y plazos más ágiles por ley para la eutanasia, sin recurso de familiares o allegados. _Porque morir sin dolor y con dignidad es un derecho que no puede depender del código postal._"
+   },
+   {
+    "id": "adelante-0083",
+    "partido": "adelante",
+    "titular": "Aborto en la sanidad pública de todas las provincias y blindado en la Constitución",
+    "marca_actual": [],
+    "texto": "El derecho al aborto se garantizará en la sanidad pública de todas las provincias, sin conciertos ni copagos, y quedará blindado en la Constitución."
+   },
+   {
+    "id": "adelante-0085",
+    "partido": "adelante",
+    "titular": "Blindar el derecho al aborto en la Constitución",
+    "marca_actual": [],
+    "texto": "48. **El aborto, en la Constitución** — Blindar el derecho en la Constitución. _Porque un derecho conquistado no puede quedar a merced de quien gobierne._"
+   },
+   {
+    "id": "pnv-0161",
+    "partido": "pnv",
+    "titular": "Perímetros de al menos 150 metros en centros de interrupción voluntaria del embarazo",
+    "marca_actual": [],
+    "texto": "5. **Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo**, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres."
+   },
+   {
+    "id": "bildu-0049",
+    "partido": "bildu",
+    "titular": "Ampliar la eutanasia al sufrimiento psíquico y blindar el derecho a morir dignamente",
+    "marca_actual": [
+     "mantener"
+    ],
+    "texto": "- Modificar la ley Orgánica 3/2021 de 4 de marzo, de regulación de la Eutanasia para garantizar el derecho a recibir la prestación de todas las personas, que abarque por igual el sufrimiento de origen físico, como psíquico. Con el objetivo de blindar el derecho a morir dignamente frente a la intromisión judicial de terceros. Asegurando así que el procedimiento de la petición de la ayuda a morir constituya un acto de estricta intimidad personal y de autodeterminación."
+   },
+   {
+    "id": "bildu-0136",
+    "partido": "bildu",
+    "titular": "Blindar el derecho al aborto libre, seguro y confidencial",
+    "marca_actual": [],
+    "texto": "- Blindar el derecho al aborto. Para ello, daremos los pasos y propondremos todas las medidas necesarias para garantizar el acceso libre, seguro, confidencial y digno al aborto."
+   },
+   {
+    "id": "bildu-0137",
+    "partido": "bildu",
+    "titular": "Perímetros de protección frente al acoso en los centros que practican abortos",
+    "marca_actual": [],
+    "texto": "- Avanzar en medidas de protección frente al acoso en el acceso al aborto. Particularmente defenderemos medidas concretas de protección en torno a los centros sanitarios que practican interrupciones voluntarias del embarazo como perímetros de protección, protocolos preventivos y recogida de datos sobre posibles coacciones, acoso o intimidaciones."
+   }
+  ]
+ },
+ {
+  "eje": "eje-voto16",
+  "pregunta": "¿Votar a los 16 años?",
+  "posiciones": [
+   {
+    "id": "si",
+    "nombre": "Sí"
+   },
+   {
+    "id": "no",
+    "nombre": "No"
+   }
+  ],
+  "n": 6,
+  "palabras": 334,
+  "candidatos": [
+   {
+    "id": "podemos-0210",
+    "partido": "podemos",
+    "titular": "Ampliar el Plan Corresponsables a todas las familias con menores de 16 años",
+    "marca_actual": [],
+    "texto": "192. **Ampliación del Plan Corresponsables.** Llegar a la totalidad de las familias españolas y aumentar el tiempo de cobertura. El objetivo es que el Estado contribuya parcialmente al cuidado de los niños y niñas de hasta 16 años para que las familias y, en particular, las mujeres, puedan conciliar la vida laboral y familiar, así como tener acceso a tiempo de ocio y de descanso. Esto se llevará a cabo mediante la puesta a disposición por parte del Estado de cuidadores y/o de espacios públicos habilitados a tal efecto que se puedan hacer cargo de los niños y niñas a lo largo de determinadas horas del día. Este apoyo se podrá solicitar también durante la duración de los permisos de maternidad y paternidad. Se desplegará asimismo la parte relativa a la certificación de cuidadores/as profesionales."
+   },
+   {
+    "id": "podemos-0435",
+    "partido": "podemos",
+    "titular": "Derecho al voto a partir de los 16 años",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "413. **Derecho al voto a partir de los 16 años.** Reconoceremos el derecho al sufragio a partir de los 16 años para ampliar la participación democrática, garantizar que la juventud tenga voz en las decisiones que afectan a su futuro y fortalecer una democracia más inclusiva y participativa."
+   },
+   {
+    "id": "adelante-0532",
+    "partido": "adelante",
+    "titular": "Reformar la ley electoral para votar desde los 16 años",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "477. **Voto a los 16 años** — Reforma de la ley electoral para que la juventud pueda votar desde los 16 años. _Porque la juventud de 16 años trabaja, paga impuestos y debe poder votar._"
+   },
+   {
+    "id": "adelante-0698",
+    "partido": "adelante",
+    "titular": "Prohibir que menores de 16 años participen o asistan a festejos taurinos",
+    "marca_actual": [],
+    "texto": "634. **Menores fuera de los toros** — Prohibido que las personas menores de 16 años participen o asistan a festejos taurinos y a clases prácticas con reses. _Porque los menores no deben presenciar la violencia hacia los animales._"
+   },
+   {
+    "id": "bng-0518",
+    "partido": "bng",
+    "titular": "Reconocer el derecho a votar a los 16 y 17 años",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "- Recoñecer o dereito das mozas e dos mozos de 16 e 17 anos a poderen votar nas diferentes convocatorias electorais."
+   },
+   {
+    "id": "erc-0073",
+    "partido": "erc",
+    "titular": "Transponer la Ley Electoral Europea y promover el voto a los 16",
+    "marca_actual": [
+     "si"
+    ],
+    "texto": "53. Promoure la transposició de la Llei Electoral Europea, assegurant que garanteixi la pluralitat i la representativitat i que no s’utilitzen els llindars electorals i la configuració de circumscripcions com a minories de bloqueig contra minories nacionals ni contra la pluralitat política. En aquest marc, promoure també l’exercici del dret de vot a partir dels 16 anys."
+   }
+  ]
+ }
+]
