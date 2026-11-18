@@ -9,7 +9,9 @@ css = (web / 'styles.css').read_text(encoding='utf-8')
 fuente = lambda m: 'url("data:font/woff2;base64,' + base64.b64encode((web / m[1]).read_bytes()).decode() + '")'
 css = re.sub(r'url\("(fonts/[^"]+\.woff2)"\)', fuente, css)
 html = re.sub(r'<link rel="preload" href="fonts/[^"]+"[^>]*>\n', '', html)
-html = html.replace('href="icono.png"', 'href="data:image/png;base64,' + base64.b64encode((web / 'icono.png').read_bytes()).decode() + '"')
+html = html.replace('<link rel="icon" href="favicon.ico" sizes="any">\n', '')
+for png in ('favicon-32.png', 'icono.png'):
+    html = html.replace(f'href="{png}"', 'href="data:image/png;base64,' + base64.b64encode((web / png).read_bytes()).decode() + '"')
 js = lambda n: (web / n).read_text(encoding='utf-8').replace('</script', '<\\/script')
 
 piezas = {

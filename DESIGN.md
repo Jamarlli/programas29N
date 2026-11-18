@@ -201,7 +201,7 @@ La página tiene dos voces. Lo que dicen los partidos va en serif (Newsreader) y
 - **Subtema:** tarjeta con, en «Resumen», una columna por partido visible, con su franja de color y su nombre fijo arriba; cada columna tiene una altura máxima (30rem) y se lee con scroll propio. En «Texto completo» los partidos se apilan en filas. Por debajo de 820px las columnas pasan a pestañas con su recuento; la elegida se mantiene en todos los subtemas.
 - **Búsqueda:** vista propia con caja grande (52px) y botón «Buscar». Sin palabras, propone ejemplos que existen en los programas, con su número de extractos. Con resultados, una tarjeta por partido con su franja.
 - **Pie:** dos columnas (una en móvil). A la izquierda, «Fuentes» plegado: los programas oficiales con su enlace y páginas, y la fecha de los datos. A la derecha, «¿Has visto un error o quieres comentar algo?»: asunto, correo opcional y mensaje, con «Enviar». Se manda por EmailJS y el resultado se anuncia en la misma línea del botón.
-- **Al compartir el enlace:** `web/og.png` (1200×630) con el titular y una pregunta de «Dónde chocan», e icono `web/icono.png`. Se generan con capturas de `pipeline/og/imagen.html` y `pipeline/og/icono.html`.
+- **Al compartir el enlace:** `web/og.png` (1200×630) con el titular y una pregunta de «Dónde chocan», icono `web/icono.png` (180 px, pantalla de inicio del móvil) y favicon `web/favicon.ico` (a 16 px solo «29», para que se lea). Se generan con capturas de las páginas de `pipeline/og/`; el favicon, además, con `pipeline/og/favicon.py`.
 - **Ritmo:** 16px entre tarjetas, 26–30px de relleno interior, más aire encima de un encabezado que debajo.
 - **Puntos de corte:** 1080, 960, 820, 760 y 640px. A 640px las tarjetas ocupan todo el ancho.
 
