@@ -39,7 +39,7 @@ Las visitas se cuentan con Cloudflare Web Analytics, que no usa cookies ni guard
 
 | Carpeta | Qué hay |
 |---|---|
-| `web/` | La web: HTML, CSS y JavaScript sin framework. `data.js` y `md/` (el Markdown de cada programa, para descargarlo) los genera `build_web.py`. |
+| `web/` | La web: HTML, CSS y JavaScript sin framework. `data.js` y `descargas/` (el ZIP con todos los programas en Markdown) los genera `build_web.py`. |
 | `dist/` | La web en un único HTML. |
 | `pipeline/` | Los scripts que convierten los PDF en los datos de la web. |
 | `descargas/` | Los PDF oficiales (y alguna página web) tal como los publicó cada partido. |
@@ -72,4 +72,10 @@ Los cuatro primeros programas (PP, PSOE, Vox y Frente Amplio) se convirtieron co
 - **Código** (`web/`, `pipeline/` y los scripts): [MIT](LICENSE).
 - **Datos propios** (titulares, clasificación por temas, marcas de «Dónde chocan», taxonomía, mapa y listado de candidaturas): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Puedes reutilizarlos citando la fuente.
 - **Fuentes tipográficas** (Newsreader y Schibsted Grotesk, en `web/fonts/`): [SIL Open Font License 1.1](web/fonts/). Se sirven desde la propia web, sin pasar por Google Fonts.
-- **Los programas electorales son de cada partido.** Los PDF de `descargas/`, su conversión en `markdown/` y el texto literal de los extractos no están cubiertos por ninguna de las dos licencias; se incluyen para que todo se pueda comprobar.
+- **Los programas electorales son de cada partido.** Los PDF de `descargas/`, su conversión en `markdown/` y el texto literal de los extractos no están cubiertos por ninguna de las dos licencias; se incluyen para que todo se pueda comprobar.
+
+El ZIP con todos los PDF pesa más de los 25 MB que admite Cloudflare por fichero, así que va en la release `programas` de GitHub. `build_web.py` lo deja en `dist/programas-29n-pdf.zip`; si cambia algún PDF, hay que volver a subirlo:
+
+```
+gh release upload programas dist/programas-29n-pdf.zip --clobber -R Jamarlli/programas29N
+```
