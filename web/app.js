@@ -244,7 +244,7 @@
     return `
       <section class="hero">
         <h1>Qué proponen los partidos para el 29N</h1>
-        <p class="lead">Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href="#/" data-salto="h-temas">cada tema</a> y <a href="#/choques">dónde chocan</a> entre sí. No es lo que «dijo» un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.</p>
+        <p class="lead">Votar es un derecho pero también una responsabilidad, y debemos hacerlo de la forma más consciente e informada posible. No obstante, los programas electorales son muuuuy largos, y casi nadie tiene tiempo de leérselos enteros. Así que aquí los tienes ordenados para que veas qué propone cada partido sobre <a href="#/" data-salto="h-temas">cada tema</a> y <a href="#/choques">dónde chocan</a> entre sí. No es lo que "dijo" un representante nosedónde, sino <strong>lo que pone en su programa electoral</strong>.</p>
         <ul class="hero-p">${partidos.map((p) => `<li><a href="#/programa/${p.id}" data-p="${p.id}">${punto(p)}${esc(p.corto)}</a><span class="c">${p.paginas} págs.</span></li>`).join('')}</ul>
       </section>
       <section class="bloque" aria-labelledby="h-temas">

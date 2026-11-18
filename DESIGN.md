@@ -12,18 +12,18 @@ colors:
   tinta-media: "#454d59"
   tinta-suave: "#5c6573"
   rotulador: "#ffe066"
-  partido-fa: "#dc6a1c"
-  partido-pp: "#1f5fa6"
-  partido-psoe: "#a8122a"
-  partido-vox: "#3e9230"
-  partido-compromis: "#0f7f99"
-  partido-salf: "#6b3fa0"
-  partido-pacma: "#7a7a12"
-  partido-fo: "#b0287a"
-  partido-mundo: "#8a5a2b"
-  partido-fe: "#44507c"
-  partido-pcte: "#a87b00"
-  partido-autonomos: "#5d6d7e"
+  partido-fa: "#809f1b"
+  partido-pp: "#21599e"
+  partido-psoe: "#de0612"
+  partido-vox: "#065a36"
+  partido-compromis: "#e17a0d"
+  partido-salf: "#b4902a"
+  partido-pacma: "#007e2a"
+  partido-fo: "#7e1218"
+  partido-mundo: "#8a5c46"
+  partido-fe: "#1d1d1b"
+  partido-pcte: "#ae2a36"
+  partido-autonomos: "#001e5a"
 typography:
   display:
     fontFamily: "Schibsted Grotesk, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -151,10 +151,13 @@ La página tiene dos voces. Lo que dicen los partidos va en serif (Newsreader) y
 ## Colors
 
 ### Partidos
-- **Frente Amplio** (#dc6a1c): el naranja rojizo de la portada de su programa.
-- **PP** (#1f5fa6), **PSOE** (#a8122a) y **Vox** (#3e9230): sus colores habituales.
-- Validados con la herramienta de paleta: con visión normal se distinguen y tienen contraste de 3:1 sobre blanco. Con daltonismo, rojo, naranja y verde se confunden; por eso el color nunca identifica solo: siempre lleva al lado el nombre o la sigla, y cada partido ocupa siempre la misma posición.
-- **Partidos que se pueden añadir** (los de la Comunitat Valenciana): Compromís #0f7f99, SALF #6b3fa0, PACMA #7a7a12, Frente Obrero #b0287a, Mundo Más Justo #8a5a2b, Falange #44507c, PCTE #a87b00 y P. Autónomos #5d6d7e. Se definen en `data/partidos.json`. Con 12 colores es imposible que todos se distingan entre sí con daltonismo; están validados por pares vecinos (contraste 3:1, separación normal ≥ 15 y CVD ≥ 8) y, como siempre, el nombre va al lado.
+- Cada partido lleva el color principal de su marca, sacado de la portada de su programa y de su web. Si dos se confundían, se usa el segundo color del partido:
+  - **Frente Amplio** #809f1b: el verde lima de las letras de su portada (su rojo anaranjado era casi igual que el del PSOE).
+  - **PSOE** #de0612, **PP** #21599e (el azul de su web) y **Vox** #065a36 (el verde oscuro de su programa del 29N).
+  - **Compromís** #e17a0d, **SALF** #b4902a (el dorado de su portada), **PACMA** #007e2a, **Frente Obrero** #7e1218, **Por un Mundo Más Justo** #8a5c46, **Falange** #1d1d1b (el negro de su bandera; su rojo se confundía con los de Frente Obrero y PCTE), **PCTE** #ae2a36 y **P. Autónomos** #001e5a.
+- Los colores demasiado claros (el lima de FA y el naranja de Compromís) se oscurecen lo justo para llegar a 3:1 de contraste sobre blanco.
+- Los cuatro de la comparación por defecto se distinguen bien entre sí. Con 12 partidos hay pares cercanos (Compromís y SALF, PSOE y PCTE, Vox y PACMA…), y con daltonismo se confunden más; por eso el color nunca identifica solo: siempre lleva al lado el nombre o la sigla, y cada partido ocupa siempre la misma posición.
+- Se definen en `data/partidos.json` (y los cuatro de la comparación por defecto también en `web/styles.css`).
 - Uso: punto de 8–10px delante del nombre, franja de 3–4px encima de columnas y tarjetas, subrayado de la pestaña activa y barras de la tabla de portada (la columna ya dice de qué partido es).
 
 ### Acento

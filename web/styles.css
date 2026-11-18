@@ -32,10 +32,10 @@
   --gut: clamp(16px, 3vw, 32px);
   --top: 64px;
   --abajo: 0px;
-  --c-fa: #dc6a1c;
-  --c-pp: #1f5fa6;
-  --c-psoe: #a8122a;
-  --c-vox: #3e9230;
+  --c-fa: #809f1b;
+  --c-pp: #21599e;
+  --c-psoe: #de0612;
+  --c-vox: #065a36;
   color-scheme: light;
 }
 
