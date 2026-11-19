@@ -13,3 +13,4 @@
 
 - eu (pasada de coherencia): abreviaturas declinadas sin guion («CC. AA.ei», araua 196), OCDE → ELGA y «bijilantzia» → «zaintza» comprobados en eu-001…009 el 19-11 (volver a buscarlos al final); «Comité (Europeo) de las Regiones» → «Europako Eskualdeetako Batzordea»; «Bono Cultural Joven» se dejó como marca en eu-009 (va usa «Bo Cultural Jove», el nombre oficial en catalán): decidir si en eu se traduce «Bonua».
 - PIME/pime: misma caja que el original (hecho en va el 19-11; aplicar en ca al revisar).
+- eu (pasada de coherencia): ERE → EEE desde eu-023 (eu-006 y quizá eu-025 dejaron «ERE»/«ERTE»: decidir ERTE → ABEE o copiar); «lanzamiento» → «botatze», ETT → ABLE en lotes anteriores a eu-018; «principio de no devolución» → «ez itzultzeko printzipioa» (eu-021); «Bono Primer Empleado» → «Primer Empleado Bonua» (eu-023), mismo criterio que «Bono Cultural Joven».
