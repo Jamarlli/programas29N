@@ -48,6 +48,9 @@ Trampas que ya han salido en otros lotes:
 - eu: un subjuntivo no es «poder»: «se ha aceptado que las competencias entren» → «sartzea», no «sar daitezkeela». Pon «ahal»/«-ke» solo donde el original dice «poder».
 - eu: «del Fondo», «del SNS» y otros genitivos: no amplíes a qué se refieren al reordenar («ampliado la duración y triplicado el anticipo del Fondo» → la duración no se ata al Fondo).
 - eu: la sigla IA → AA también dentro de nombres de planes («Bono IA» → «AA Bonua»): es la sigla del término común, no parte de la marca.
+- eu: «País Valencià» → «Valentziako Herrialdea» (no se deja en catalán); València → Valentzia. OMS → OME, ONG → GKE, ESO → DBH, UCI → ZIU (siglas vascas asentadas, como ELGA). Lema de Vox «ES SENTIDO COMÚN» → «ZENTZU KOMUNA DA».
+- eu: caza y especies (Ehiza eta Arrantza hiztegia, Elhuyar): «montería» → «mendi-ehiza», «rehala» → «ehiza-txakur saldo», «batida/ojeo» → «uxaldi», «cetrería» → «falkoneria», «galápago» → «apoarmatu», «cotorra argentina» → «papagai argentinarra», «calima» → «hauts-gandu». «Ley de Costas» → «Kosten Legea»; «Ley de Montes» → «Mendien Legea».
+- eu: cuidado con el alcance de «bakarrik», «ere» y de los adjetivos al reordenar: un adjetivo que el original aplica a dos nombres («ràtios i llistes d'espera màxims») sigue aplicándose a los dos («gehieneko biztanleria-ratio eta itxaron-zerrenda»).
 - Lee el glosario completo de INSTRUCCIONES.md: se amplía a menudo (I+D+i → R+D+I en catalán; IA → AA, IPC → KPI en euskera; Cercanías; Correos…).
 
 El significado no puede cambiar en nada: traduce todo lo que dice el original y solo eso, con la misma fuerza en cada afirmación y las mismas cifras. No «mejores» nada.

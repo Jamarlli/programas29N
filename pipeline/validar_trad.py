@@ -74,7 +74,7 @@ palabras = lambda s: re.findall(r"[a-záéíóúàèòïüçñ·'’]+", s.lower
 
 
 def forma(linea):
-    m = re.match(r'^(\s*)([-*]\s|\d+[.)]\s|\*\*\d+[.)]?)?', linea)
+    m = re.match(r'^(\s*)([-*]\s|\d+[.)]\s|\*\*\d+[.)])?', linea)
     return (len(m.group(1)), (m.group(2) or '').strip()), linea.count('**')
 
 
