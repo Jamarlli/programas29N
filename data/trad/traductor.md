@@ -44,7 +44,7 @@ Trampas que ya han salido en otros lotes:
 - eu: porcentajes con el signo delante y pegado: «%25», «%2,5».
 - eu: abreviaturas con punto declinadas sin guion (Euskaltzaindia, araua 196): «CC. AA.ei», «AA.PP.ekin», no «CC. AA.-ei». Se respeta el espaciado del original.
 - eu: ILP se copia (HEL no está asentada); OCDE → ELGA; «Comité Europeo de las Regiones» → «Europako Eskualdeetako Batzordea»; «vigilancia» → «zaintza» («bijilantzia» no es batua); «vapear» → «bapeatu».
-- eu: no añadas «emakume» a un nombre que en el original no marca género («niñas y jóvenes» → «neskak eta gazteak»). Sí cuando el original usa el femenino («ganaderas» → «emakume abeltzainak»).
+- eu: no añadas «emakume» a un nombre que en el original no marca género («niñas y jóvenes» → «neskak eta gazteak»). Sí cuando el original usa el femenino para hablar de mujeres («ganaderas» → «emakume abeltzainak»), no cuando es el nombre genérico de una profesión feminizada («trabajadoras del hogar» → «etxeko langileak», «camareras de piso» → «hotel-gelazainak»).
 - eu: un subjuntivo no es «poder»: «se ha aceptado que las competencias entren» → «sartzea», no «sar daitezkeela». Pon «ahal»/«-ke» solo donde el original dice «poder».
 - eu: «del Fondo», «del SNS» y otros genitivos: no amplíes a qué se refieren al reordenar («ampliado la duración y triplicado el anticipo del Fondo» → la duración no se ata al Fondo).
 - eu: la sigla IA → AA también dentro de nombres de planes («Bono IA» → «AA Bonua»): es la sigla del término común, no parte de la marca.
