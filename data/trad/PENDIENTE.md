@@ -1,16 +1,8 @@
-# Para las revisiones de mañana (puntos concretos a añadir al prompt del revisor)
-- Revisar: eu-003, eu-004, ca-005, gl-005, va-005, ca-006, va-006, gl-006 (+ eu-005, ca-007, va-007, gl-007 cuando acaben)
-- Todos ca/va: quitar guion en «Reial Decret-llei» → «Reial Decret llei» (también en lotes ya revisados: ca-001..004, va-001..004)
-- eu-003/eu-004: «Illes Balears» → decidir (Balear Uharteak); IBI/OIT/VIH/LAU copiados; FP→LH solo en un titular (fa-0611): coherencia
-- ca-006/va-006: «Fons Espanya Creix», «Bo IA», «Xarxa NEURONA» traducidos: ¿marca? decidir criterio único para ca/va/gl
-- gl-006: «quienes» → «os que» (regla nueva: «quen» + singular); psoe-0114 «poñan en marcha un imposto» es reconstrucción → ca/va pusieron «posin/posen un impost»: unificar sin añadir
-- gl-006: porcentajes sin unificar (40% vs 50 %): en es se normalizó a «40 %»; en gl decidir
-- va-005: «bianual» mantenido; ca-005/va-005: «caus fiscals»
-- ca-007: nombres de planes mezclados (Nuevo Rumbo/Sonríe/A Tu Lado en castellano; «Dona 45+», «Compte de Futur», «País dels 30 minuts» traducidos) → fijar criterio en INSTRUCCIONES (propuesta: marcas/lemas en mayúscula o entre comillas se dejan; nombres descriptivos se traducen) y aplicarlo a ca/va/gl/eu
-- va-007 psoe-0183: puso pasado («vam reforçar») donde el castellano es ambiguo presente/pasado → comprobar contra ca-007/gl-007 y el contexto; no fijar un tiempo si el original no lo fija
-- va-007: «UIMP» desarrollado como «Universitat Internacional Menéndez Pelayo» → las siglas se copian; volver a «UIMP»
-- va-007: planes «Pla Sonríe», «Mujer 45+» (ca tradujo «Dona 45+») → entra en el criterio único de nombres de planes
-- gl-007: «pueblo» → «vila» (¿pobo/aldea según contexto?); «jóvenes» → «mozos» vs «xente nova» (psoe-0353): coherencia; psoe-0342 titular «Crear…» → «Creación…» por el validador (aceptable si no hay forma mejor)
-- eu-005 fa-0967: «al menos bianual» → «urtean bitan» deshace la ambigüedad (va-005 dejó «bianual»): buscar forma ambigua o literal
-- eu-005: «financiación finalista» → «finantzaketa xedatua» (el revisor de eu-002 rechazó «xedatua»: → «finalista»)
-- eu-003/004/005: IA/AA, IBI/OHZ, RNB, AOD, ONGD→GGKE: unificar con el glosario
+# Pendiente de las traducciones
+
+- 19-11: revisiones lanzadas de ca-005..007, va-005..007, gl-005..007, eu-003..005 con los puntos concretos de cada lote.
+- Hecho: «Reial Decret-llei» → «Reial Decret llei» en ca-004..006 y va-004..006.
+- Hecho: regla 4 de INSTRUCCIONES (nombres de planes y fondos), siglas no se desarrollan, ambigüedades, arreglo mínimo de erratas, porcentajes con espacio.
+- Pasada de coherencia al acabar cada idioma: nombres de planes en los lotes revisados antes de la regla 4 (p. ej. va-001 «Plan Veo» → «Pla Veo»), siglas eu (IA/AA en eu-002…), porcentajes.
+- Orden: valenciano primero (va-008…048 y va-rutas); el resto de idiomas, después.
+- gl: «sinhogarismo» → «sinfogarismo» (gl-006, gl-007) vs «persoas sen fogar» (gl-001 fa-0093): fijar criterio en la pasada de coherencia gallega

@@ -22,6 +22,11 @@ Trampas que ya han salido en otros lotes:
 - En valenciano, nada de formas del catalán central (aquest, sigui, puguin, garanteixin, nens).
 - ca/va: «insumos» → «inputs» («insums» no es normativo); «cortas a hecho» → «tallades arreu»; «Reial Decret», «reial decret llei» (sin guion).
 - gl: «quienes» → «quen» con el verbo en singular (no «os que», que añade masculino), salvo que el antecedente ya sea masculino; topónimos en gallego («Illas Baleares», «Comunidade Valenciana»); «Real decreto», «Real decreto-lei».
+- Nombres de planes, fondos y programas: la marca o el lema se deja («Pla Sonríe», «Fons España Crece»), los nombres descriptivos se traducen («Compte de Futur»). Mira la regla 4 de INSTRUCCIONES.md.
+- Las siglas no se desarrollan ni se crean (UIMP sigue siendo UIMP).
+- Si el original admite dos lecturas (presente/pasado, «bianual» = dos veces al año o cada dos años, a qué nombre se refiere un adjetivo), la traducción también: no elijas una.
+- Para corregir una errata del original (regla 11), el arreglo mínimo, sin añadir palabras con contenido («pongan en un impuesto» → «posin un impost», no «posin en marxa»).
+- Porcentajes en ca/va/gl con espacio («40 %»).
 - Lee el glosario completo de INSTRUCCIONES.md: se amplía a menudo (I+D+i → R+D+I en catalán; IA → AA, IPC → KPI en euskera; Cercanías; Correos…).
 
 El significado no puede cambiar en nada: traduce todo lo que dice el original y solo eso, con la misma fuerza en cada afirmación y las mismas cifras. No «mejores» nada.
