@@ -8,3 +8,4 @@
 - gl: «sinhogarismo» → «sinfogarismo» (gl-006, gl-007) vs «persoas sen fogar» (gl-001 fa-0093): fijar criterio en la pasada de coherencia gallega
 - okupa/ocupa: glosario cambiado el 19-11 (antes «okupación» → «ocupació il·legal»). Pasada de coherencia: buscar «ocupació il·legal», «ocupación ilegal», «legez kanpoko» en lotes ca/va/gl/eu ya revisados y dejar solo donde el original dice «ilegal».
 - Fundación Affinity: se deja en castellano en todos los idiomas (sin forma establecida confirmada).
+- va/ca: «Algeciras» → «Algesires» (exónimo de la GEC y la Viquipèdia; «Puerto Bahía de Algeciras» se deja como marca). Corregir va-001 en la pasada de coherencia.

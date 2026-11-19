@@ -1,0 +1,34 @@
+General: «Porque …» → «Perquè …»; «suelo» de gasto/financiación/tributación → «mínim» (0104, 0109, 0179, 0284); «suelo» terreno → «sòl» (0111, 0215, 0216, 0222, 0231, 0233); «paro» → «atur», «desempleo» → «desocupació», «empleo» → «ocupació» (también «perd l'ocupació» en 0237, «dues ocupacions» en 0295, «una ocupació que no es crea» en 0325); «I+D+i» → «R+D+I» y, por coherencia, «I+D» → «R+D» (0190, 0315); «personas mayores» → «persones majors»; «desde lo público» / «volver a lo público» → «allò públic» (0108, 0215, 0300) y «al servicio de lo social» → «al servei d'allò social» (0303).
+adelante-0100, 0108, 0211: la @q del original abarca también la frase final en cursiva «_Porque …_» sin los guiones bajos; el validador exige copia exacta del @t, así que la cita traducida lleva «_Perquè …_» con los guiones bajos.
+adelante-0081: «casas hogar» → «cases llar»; «viviendas tuteladas» → «habitatges tutelats».
+adelante-0087: «Test de embarazo … gratuitos» (plural implícito) → «Tests d'embaràs … gratuïts».
+adelante-0092: «Código Internacional de Comercialización de Sucedáneos de Leche Materna» → «Codi Internacional de Comercialització de Succedanis de Llet Materna» (literal, sin artículo).
+adelante-0093, 0094, 0096: «desabastecimiento(s)» → «desabastiment(s)», como en lotes anteriores.
+adelante-0099: «Monodosis» → «Monodosis»; «errores en la toma» → «errors en la presa».
+adelante-0108: «Hospital del Aljarafe» se deja como nombre propio del centro (no «de l'Aljarafe»); «centros Pascual» → «centres Pascual».
+adelante-0111: «se abren aulas» → «s'obrin aules» (forma valenciana de «obrir»).
+adelante-0114: «1.º de Infantil» → «1r d'Infantil»; «bono de transporte» → «abonament de transport».
+adelante-0129, 0132: NEAE, PT, AL y PTIS se copian como siglas.
+adelante-0136: «sin español» → «sense espanyol» (se respeta «español», no «castellà»).
+adelante-0141: «contratas» → «contractes»; adelante-0276 «subcontratas» → «subcontractacions».
+adelante-0159: «como soldadura» → «com soldadura» (sin artículo, como el original).
+adelante-0162, 0163: «afectivo-sexual» → «afectivosexual» (grafía normativa, como en lotes anteriores).
+adelante-0166: «bulos» → «notícies falses» («bulo» no está en el DNV); revisar si se prefiere otra solución.
+adelante-0173: «exigiremos que el Estado lo pague» → «que l'Estat ho pague» (neutro, mismo referente indeterminado).
+adelante-0189: «en lugar de investigando» → «en lloc d'investigar» (gerundio del original corregido, regla 11).
+adelante-0213: «rentismo» → «rendisme».
+adelante-0216: «Puertos del Estado» → «Ports de l'Estat» (forma habitual en la prensa valenciana y catalana); en el titular, «Puertos» → «Ports».
+adelante-0224: «Vivienda primero» → «Habitatge primer» (minúsculas, como en el original).
+adelante-0228: «VPO» se copia (no «HPO»), según la regla de siglas: en la duda, se copia.
+adelante-0238: «Bono Alquiler Joven» se deja como nombre de la ayuda (nombre yuxtapuesto, tipo marca, regla 4); el titular en negrita «Bono joven» → «Bo jove» porque ahí es descripción genérica.
+adelante-0254: «Real Decreto-ley 20/2012» → «Reial Decret llei 20/2012».
+adelante-0255: «quienes cuidan» → «els qui cuiden».
+adelante-0265: «Revalorización» → «Revalorització», como en lotes anteriores.
+adelante-0266, 0272: «viudedad» → «viudetat» (forma valenciana; en catalán central «viduïtat»).
+adelante-0271: «sin topes» → «sense topalls».
+adelante-0283: «Sustituye a Patrimonio» → «Substituïx Patrimoni» (nombre corto del impuesto, sin artículo, como el original).
+adelante-0284: «dumping» → «dúmping».
+adelante-0293: «Impuesto de salida» → «Impost d'eixida».
+adelante-0308: «despedir a los suyos» (decir adiós) → «acomiadar-se dels seus», para no leerlo como «despedir» laboral.
+adelante-0316: «Residencias de Tiempo Libre» → «Residències de Temps Lliure» (nombre descriptivo, se traduce); «Imserso» se deja.
+adelante-0321: «lo fijado en un acuerdo interprofesional» → «el que s'haja fixat en un acord interprofessional»; «salvo pacto en contrario» → «llevat de pacte en contrari».

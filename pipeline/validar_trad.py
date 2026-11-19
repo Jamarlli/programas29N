@@ -27,6 +27,10 @@ PROPIAS = {
 }
 
 
+def sin_cursivas(s):
+    s = re.sub(r'https?://\S+|www\.\S+', ' ', s)  # las URL tampoco cuentan
+    return re.sub(r'(?<![\w_])_[^_\n]+_(?![\w_])', ' ', s)
+
 def leer(ruta):
     """Devuelve [(id, {campo: [valores]})] en orden."""
     out = []
@@ -116,10 +120,17 @@ def comprobar(lote):
                         err.append(f'{i}: @{campo} longitud muy distinta del original ({r:.2f} veces)')
                     elif r < 0.72 or r > 1.5:
                         avi.append(f'{i}: @{campo} longitud {r:.2f} veces la del original')
-                wa = palabras(a)
+                # Los títulos de obras en cursiva (_…_) se dejan en el idioma original (regla 4):
+                # no cuentan para «sin traducir» ni para el detector de idioma.
+                a_sc, b_sc = sin_cursivas(a), sin_cursivas(b)
+                wa = palabras(a_sc)
                 if len(wa) >= 6 and a.strip() == b.strip():
-                    err.append(f'{i}: @{campo} sin traducir (igual que el original)')
-                wb = palabras(b)
+                    # igual que el original: error si, quitados los títulos en cursiva, queda alguna palabra típica de otro idioma
+                    if any(w in PROPIAS[k] for w in wa for k in PROPIAS if k != idioma):
+                        err.append(f'{i}: @{campo} sin traducir (igual que el original)')
+                    else:
+                        avi.append(f'{i}: @{campo} igual que el original (solo títulos, nombres o enlaces): compruébalo')
+                wb = palabras(b_sc)
                 if len(wb) >= 25:
                     propias = sum(w in PROPIAS[idioma] for w in wb)
                     ajenas = max(sum(w in PROPIAS[k] for w in wb) for k in PROPIAS if k != idioma and not {k, idioma} <= {'ca', 'va'})

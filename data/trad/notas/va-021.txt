@@ -1,0 +1,40 @@
+fe-0102: «PYMEs» → «pimes» (glosario); «Impuesto de Sociedades de Retorno» se traduce por descriptivo: «Impost de Societats de Retorn».
+fe-0103: «IVA de caja» → «IVA de caixa»; «devengo» → «meritació» (también en fe-0104).
+fe-0108: «Garantización» (sustantivo raro del original) → «Garantia».
+fe-0112: «con visos a revisar» (errata por «con vistas a») → «amb vista a revisar» (regla 11).
+fe-0117: «Instituto Nacional de Industria» → «Institut Nacional d'Indústria» (nombre histórico con forma catalana habitual).
+fe-0118, fe-0133: «el I+D» → «la R+D» (como el glosario para I+D+i); fe-0171 y fe-0229 «I+D+i/I+D+I» → «R+D+I»; pcte-0082 «I+D militar» → «R+D militar».
+fe-0119: “clusters” se deja en inglés, entre las mismas comillas (regla 5); en el titular, «clústers».
+fe-0123: «exigirá que todo Centro de datos deberá implantar» → «exigirà que tot Centre de dades haja d'implantar» (se mantiene la obligación sin el doble verbo); «colindantes» → «confrontants».
+fe-0131: «Declaración de interés nacional todas las reservas» (falta «de») → «Declaració d'interés nacional de totes les reserves» (regla 11).
+fe-0134: «15kW» se deja sin espacio, como en el original; «kilovatio-hora kWh» → «quilowatt hora kWh».
+fe-0148: «alumbrando» → «donant a llum». El aviso del validador es por el nombre «Falange Española de las JONS», que no se traduce.
+fe-0149: cita de José Antonio traducida: «gloriosamente fenecida» → «gloriosament finida»; «no está en nuestro ánimo el de realizar una suerte de revisión histórica en el que se juzgue» → «no és en el nostre ànim fer una mena de revisió històrica en què es jutge» (concordancias corregidas, regla 11).
+fe-0159: frase con la sintaxis rota del original («confesiones no solo ajenas…, sino que… representa una amenaza…, será limitada») traducida literal, sin reinterpretar.
+fe-0160, fe-0161: «centros okupas» (sic) → «centres okupes» (sic); «okupación» → «okupació», con la k del original.
+fe-0163: «Ley de Fugas» → «Llei de Fugues».
+fe-0169: «EEUU» → «EUA» (sigla asentada en valenciano, como en los lotes revisados).
+fe-0180: «la reducción de 2 días de condena menos por cada día» → «la reducció de 2 dies de condemna per cada dia» (se quita el «menos» redundante, regla 11). Revisar si se prefiere literal.
+fe-0181: «punto 19.2.» se copia aunque parezca errónea (debería ser 17.2), regla 11.
+fe-0187: legislación «al bulto» → «a ull» (= sin precisión), entre las mismas comillas.
+fe-0193: «sinsentidos» → «despropòsits».
+fe-0195: «enchufismo» → «endollisme».
+fe-0197: «2º, 4º y 6º» → «2n, 4t i 6é».
+fe-0213: «Plan Bolonia» → «Pla Bolonya» (forma habitual en catalán/valenciano).
+fe-0219: «relativo a» (concordancia) → «relatius a» (regla 11).
+fe-0223: «centros…, en el que se derive» → «centres…, als quals es derive» (concordancia, regla 11).
+fe-0239: «creencias que promulgan valores» se deja literal («promulguen»), aunque quizá quería decir «promueven».
+fe-0248: frase literal («Obligació de la declaració per part del fabricant… i l'ampliació de garantia a esta»), manteniendo la ambigüedad de «a la misma».
+fe-0254: «alumbrado desde Bruselas» → «gestat des de Brussel·les».
+fe-0257: «Cercanías» → «Rodalia» (glosario va); «Media Distancia» → «Mitja Distància» (como en lotes anteriores).
+fe-0266: «¡¡¡ARRIBA ESPAÑA!!!» se deja sin traducir, como lema (regla 4). Revisar si se prefiere traducir.
+pcte-0002: «somos nosotros y nosotras quienes» → «som nosaltres qui» («nosaltres» ya es inclusivo; no hay desdoblamiento posible); «conformarnos con ello» → «conformar-nos amb això».
+pcte-0003: «ponga pie en pared» → «es plante»; «una trampa para colarnos» → «un parany per a fer-nos empassar».
+pcte-0004, pcte-0005: «topes/Tope» → «topalls/Topall».
+pcte-0045: «Paro» → «Atur», «desempleo» → «desocupació»; en pcte-0080 «desempleados» → «desocupats/desocupades».
+pcte-0059: «anticipo» → «anticipació».
+pcte-0061: «caseros» → «arrendadors».
+pcte-0063: «Beca-salario» → «Beca salari» (sin guion, criterio IEC 2016 para compuestos de dos nombres).
+pcte-0083: «no tienen por qué elegir» → «no tenen per què triar» (no «no han de», que podría leerse como prohibición).
+pcte-0089: «Embargo» → «Embargament».
+pcte-0091: «saharaui» → «sahrauí» (como en lotes anteriores).

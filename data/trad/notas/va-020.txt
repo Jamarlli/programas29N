@@ -1,0 +1,56 @@
+mundo-0222: «Asi mismo» (sin tilde) → «Així mateix».
+mundo-0229: «Transparencia Int.» → «Transparència Int.» (Transparència Internacional tiene forma establecida en catalán); «puesto 49» → «lloc 49».
+mundo-0229 y siguientes fichas: «Meta» → «Objectiu», «Plazo» → «Termini», «Medida nueva» → «Mesura nova», «Dato del programa» → «Dada del programa», «dic. 2025» → «des. 2025» (mundo-0298), como en va-018/va-019; titulares «en 2027» → «el 2027».
+mundo-0232, 0274, 0319: «Amnistía Internacional» → «Amnistia Internacional» (forma establecida); se dejan sin traducir «España Puede Ser la Hostia», «Hogar Sí», «Red FACIAM», «Plataforma de Infancia», «Plataforma del Tercer Sector», «Oxfam Intermón», «Coordinadora ONGD», «Enlázate por la Justicia», «Funcas», «Fundación para la Ciudadanía Global», «Coordinadora de Organizaciones para el Desarrollo».
+mundo-0236: «el reporte anual» → «l'informe anual»; «debieran ser» → «haurien de ser».
+mundo-0237: «en base a» → «sobre la base de».
+mundo-0240: la comilla de apertura sin cierre del original se mantiene; «DDHH» se copia.
+mundo-0244: «sociedad civil elemento indispensable» (sin coma ni nexo en el original) se deja literal; «entornos habilitantes» → «entorns habilitants».
+mundo-0252, 0263, 0275, 0280, 0291, 0301, 0314: categorías de «T'interessa si t'importa» como en va-018/va-019; «Igualdad» → «Igualtat», «Mundo y paz» → «Món i pau», «Mundo rural · Planeta» → «Món rural · Planeta».
+mundo-0265: «huérfanos y huérfanas» → «orfes i òrfenes».
+mundo-0269: «trata de personas» → «tràfic de persones» (glosario); titular «Combatir la trata» → «Combatre el tràfic».
+mundo-0280 y siguientes: «sinhogarismo» → «sensellarisme», «personas sin hogar» → «persones sense llar» (como los lotes revisados); «alerta temprana» → «alerta primerenca» (mundo-0281). En mundo-0280 falta el punto final de la cursiva en el original: se mantiene.
+mundo-0286: «Housing First (Primero el hogar)» → «Housing First (Primer la llar)»: se traduce la glosa castellana entre paréntesis y se deja el nombre en inglés.
+mundo-0295: «ratios máximas» (titular) y «ratios máximos» (texto) → «ràtios màximes» en los dos (en valenciano «ràtio» es femenino).
+mundo-0304: «400M€» sin espacio, como el original; «expertise» se deja en inglés (regla 5).
+mundo-0305: «tomadores de decisión» → «prenedors de decisions».
+mundo-0306, 0307, 0309: porcentajes con espacio («0,7 %», «10 %», «20 %»), aunque el original los escribe sin espacio.
+mundo-0315, 0318: «España Vaciada» (con mayúscula en el original) → «Espanya Buidada» (los lotes revisados usan «Espanya buidada» con minúscula cuando el original la lleva).
+mundo-0316: «pastizales» → «pastures»; «pastoreo extensivo» → «pasturatge extensiu».
+mundo-0319, 0320: los títulos de los informes citados (en cursiva) se han traducido. La regla 4 dejaría los títulos de obras como están, pero en mundo-0320 eso deja el @t entero en castellano y el validador da error («no parece estar en va»), y el lote no entraría; para ser coherentes se han traducido también los de mundo-0319. Revisar si se prefiere otra solución. Los nombres de las entidades, las URL y la falta de espacio en «_.Disponible» ([9]) se mantienen como en el original.
+fe-0001: «dueña de su destino» → «mestressa del seu destí»; «el quehacer diario» → «el quefer diari».
+fe-0002: «desnortada» → «desnortada» (DIEC: desnortat).
+fe-0003: falta el punto final del original: se mantiene.
+fe-0005: «suelo patrio» → «sòl patri» (suelo como terreno); «coladero» → «colador» (también en fe-0021); «visa» y «visados» → «visat» / «visats».
+fe-0007: «hijos de padre o madre española» (concordancia ambigua) se mantiene: «fills de pare o mare espanyola».
+fe-0009: «MENAS» se copia como en el original.
+fe-0011: «apresados» → «apresats».
+fe-0018: errata del original «la capacidad los CIE» → «la capacitat dels CIE» (regla 11).
+fe-0019: «mientras dicha persona soluciona» (singular tras «las personas expulsadas») se deja literal: «mentre la dita persona soluciona».
+fe-0021: «bajo fraude de ley» → «en frau de llei».
+fe-0023: «que vayan a retornar» → «que vagen a retornar» (perífrasis de futuro; alternativa «que hagen de retornar» cambiaría el sentido).
+fe-0031: «disminuyendo estos progresivamente hasta ser cero en caso de retornar una familia numerosa» (sentido poco claro) traducido literal.
+fe-0035: «justiprecio» → «justipreu».
+fe-0039: «SOCIMIs» y (fe-0072) «ETTs» se copian como en el original; «Fondos Buitre» → «Fons Voltor» (glosario, con la mayúscula del original); «con objeto de reducir la oferta» se deja literal, aunque probablemente quiere decir «demanda».
+fe-0040: «Se reducirá la categoría de gran tenedor a partir de 5 pisos» traducido literal.
+fe-0042: concordancia «créditos hipotecarios … cercanas al 0%» → «crèdits hipotecaris … pròxims al 0 %» (regla 11); «Instituto de Crédito Oficial» → «Institut de Crèdit Oficial»; titular «Hipotecas del ICO cercanas al 0 %» → «Hipoteques de l'ICO pròximes al 0 %».
+fe-0044, fe-0045: «acondicionamiento» → «condicionament».
+fe-0046: «no pudiendo ser superior» → «sense que puga ser superior».
+fe-0048: «ocupación ilegal» → «ocupació il·legal» (literal).
+fe-0051: concordancia «el abandono británico que, de no producirse, provocarán» → «provocarà» (regla 11).
+fe-0052: «nuestros traidores gobernantes» → «els nostres traïdors governants» (mismo orden); «de sobra» → «de sobres».
+fe-0054: «llamar a filas a todas aquellas [naciones] que se sobrepasen» (uso impropio, probablemente por «llamar al orden») traducido literal: «cridar a files».
+fe-0055: «inmiscuida» → «immiscida».
+fe-0060: «una refundación … en el que» (concordancia) → «en la qual» (regla 11).
+fe-0061: «todos los territorios de la que componen España» → «tots els territoris que componen Espanya» (regla 11).
+fe-0062: «disolutivo» → «dissolutiu».
+fe-0065: errata «Indivisble» → «Indivisible»; «Vascongadas» → «Vascongades».
+fe-0068: porcentajes con espacio («8 %», «-3 % actual-»); los guiones de inciso pegados se mantienen como en el original.
+fe-0070: errata «el cambio modelo productivo» → «el canvi de model productiu» (regla 11).
+fe-0083: «becarías» (coloquial: puestos de becario) → «beques», como el titular («Limitar las becas»); revisar.
+fe-0088: «alumbrar una familia» → «engendrar una família».
+fe-0096: «que facilite a los trabajadores españoles que sus puestos lo permitan, repartirse» (queísmo) → «que facilite als treballadors espanyols els llocs dels quals ho permeten, repartir-se» (regla 11; se mantiene la coma).
+fe-0098: «nuestra propuesta de Nacional-Sindicalista de la economía» → «la nostra proposta Nacional-Sindicalista de l'economia» (sobra «de»; regla 11); se mantiene «Nacional-Sindicalista» con guion, como el original (la forma normativa sería «nacionalsindicalista»), también en el titular.
+fe-0099: «así como por la creación» (anacoluto) se deja literal: «així com per la creació».
+fe-0101: «Regulación tarifaria e impositiva que afecten» (plural) se deja literal: «que afecten».
+fe-0069, fe-0083: «empleos» contables → «llocs de treball»; «primer empleo» → «primera ocupació»; «paro» → «atur» (fe-0016, fe-0075).
