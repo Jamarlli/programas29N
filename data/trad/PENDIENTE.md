@@ -7,3 +7,4 @@
 - Orden: valenciano primero (va-008…048 y va-rutas); el resto de idiomas, después.
 - gl: «sinhogarismo» → «sinfogarismo» (gl-006, gl-007) vs «persoas sen fogar» (gl-001 fa-0093): fijar criterio en la pasada de coherencia gallega
 - okupa/ocupa: glosario cambiado el 19-11 (antes «okupación» → «ocupació il·legal»). Pasada de coherencia: buscar «ocupació il·legal», «ocupación ilegal», «legez kanpoko» en lotes ca/va/gl/eu ya revisados y dejar solo donde el original dice «ilegal».
+- Fundación Affinity: se deja en castellano en todos los idiomas (sin forma establecida confirmada).

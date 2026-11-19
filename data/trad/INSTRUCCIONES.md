@@ -45,9 +45,9 @@ Un fichero con **la misma estructura**: los mismos `@@@ id` en el mismo orden y 
    - Los nombres de partidos, coaliciones y personas no se traducen.
    - Tampoco se traducen las marcas ni los nombres oficiales de entidades que no tienen traducción establecida (SAREB, Casa 47, SEPES, Rodalies, FGC, Osakidetza…).
    - Las instituciones del Estado y las de la UE se traducen con su nombre habitual en el idioma de destino. Mira el glosario.
-   - Planes, fondos, programas y ayudas con nombre propio: si el nombre es una marca o un lema (Sonríe, Nuevo Rumbo, «A Tu Lado», Veo, España Crece, NEURONA, Financia Europa, TU CASA, Verano Joven, ATRAE), la marca se deja como está y solo se traduce la palabra genérica que la precede: «Pla Sonríe», «Fons España Crece», «Xarxa NEURONA», «Bo IA». Si el nombre está hecho solo de palabras comunes que describen lo que es (Cuenta de Futuro, Mujer 45+, País de los 30 minutos, Becas Luisa de Medrano), se traduce entero: «Compte de Futur», «Dona 45+».
+   - Planes, fondos, programas y ayudas con nombre propio: si el nombre es una marca o un lema (Sonríe, Nuevo Rumbo, «A Tu Lado», Veo, España Crece, NEURONA, Financia Europa, TU CASA, Verano Joven, ATRAE), la marca se deja como está y solo se traduce la palabra genérica que la precede: «Pla Sonríe», «Fons España Crece», «Xarxa NEURONA», «Bo IA». Si el nombre está hecho solo de palabras comunes que describen lo que es (Cuenta de Futuro, Mujer 45+, País de los 30 minutos, Becas Luisa de Medrano), se traduce entero: «Compte de Futur», «Dona 45+». Los nombres acuñados con palabras yuxtapuestas sin preposición, al estilo de una marca (Verano Joven, Hucha Hogar Joven), cuentan como marca y se dejan.
    - Las siglas no se desarrollan (UIMP sigue siendo UIMP) ni se crean.
-   - Títulos de obras publicadas (informes, libros, campañas) entre comillas: se dejan como están («Viaje al interior de las macrogranjas»). Proyectos y asociaciones con nombre propio sin traducción establecida, también («Proyecto Gran Simio», «Ecologistas en Acción»).
+   - Títulos de obras publicadas (informes, libros, campañas) entre comillas: se dejan como están («Viaje al interior de las macrogranjas»). Proyectos y asociaciones con nombre propio sin traducción establecida, también («Ecologistas en Acción»). Si tienen traducción establecida en el idioma de destino, se usa («Projecte Gran Simi» en ca/va).
    - Las leyes: se traduce la parte descriptiva y se mantienen el número y la fecha («Ley 12/2023, de 24 de mayo, por el derecho a la vivienda»).
 5. **Lo que ya está en otro idioma se queda como está:** una frase en inglés, en latín o, en un programa en castellano, un lema en catalán o en euskera.
 6. **El estilo del original.**
@@ -115,6 +115,8 @@ Si necesitas ficheros de trabajo (por ejemplo, una vista intercalada para compar
 | vivienda | habitatge | vivenda | etxebizitza |
 | alquiler | lloguer | aluguer | alokairua |
 | desahucio | desnonament | desafiuzamento | etxegabetzea |
+| Convención sobre los Derechos del Niño / de la Infancia | ca «Convenció sobre els Drets de l'Infant» · va ídem | Convención sobre os Dereitos do Neno | Haurren Eskubideen Hitzarmena |
+| Comité de los Derechos del Niño (ONU) | ca «Comitè dels Drets de l'Infant» · va «Comité de Drets del Xiquet» (Llei 26/2018 GVA) | Comité dos Dereitos do Neno | Haurren Eskubideen Batzordea |
 | okupación / okupa | okupació / okupa | okupación / okupa | okupazioa / okupa |
 | ocupación (de viviendas) / ocupa | ocupació / ocupa | ocupación / ocupa | okupazioa / okupa |
 | ocupación ilegal | ocupació il·legal | ocupación ilegal | legez kanpoko okupazioa |
