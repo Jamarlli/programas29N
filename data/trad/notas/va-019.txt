@@ -1,0 +1,32 @@
+General: vocabulario valenciano coherente con va-002…va-007: «servei/serveis», «hui», «xiquets/xiquetes», «xicotet», «eixida», «ací», «arrere», «tindre», «mantindre», «previndre», «per davall de», «per damunt de»; demostrativos este/eixe; incoativos en -ix; subjuntivos en -e/-isca. «empleo» → «ocupació», «paro» → «atur», «desempleadas» → «desocupades»; «pymes» → «pimes»; «del SMI / SNS» → «de l'SMI», «de l'SNS» (apóstrofo ante sigla, como «l'FP» en va-007). Porcentajes sin espacio del original («40%», «55%», «3%», «90%», «25%», «30%», «2%») escritos con espacio.
+General (fichas de metas): «Meta» → «Objectiu», «Plazo» → «Termini», «Medida nueva» → «Mesura nova», «en 2030» → «el 2030»; «Te interesa si te importa» → «T'interessa si t'importa»; etiquetas: «Mayores» → «Persones majors» (como fam-mayores en data/i18n/va.json), «Mundo rural» → «Món rural», «Mundo y paz» → «Món i pau», «Servicios públicos» → «Serveis públics», «Familias e infancia» → «Famílies i infància», «Conocimiento y cultura» → «Coneixement i cultura», «Derechos y democracia» → «Drets i democràcia». Si la web ya traduce estas etiquetas en otro sitio, unificar.
+mundo-0055, 0066, 0127, 0142, 0169, 0178, 0219: nombres de entidades sin traducción establecida, en castellano: «Plataforma de Infancia», «Plataforma del Tercer Sector», «Mesa Estatal por el Blindaje de las Pensiones (MERP)», «Fundación Ciudadanía Global», «Enlázate por la Justicia», «Coordinadora ONGD», «Oxfam Intermón». En cambio «Amnistia Internacional», «Càritas», «Fundació FOESSA» (0113) y «Fundació Affinity» (0199) con su forma habitual en valenciano/catalán.
+mundo-0066: se mantiene la coma entre sujeto y verbo del original («M+J, forma part…»).
+mundo-0070: «suelo de suficiencia» → «mínim de suficiència» (glosario).
+mundo-0071: «destope» → «destopament»; «Orden PJC/297/2026» → «Orde PJC/297/2026».
+mundo-0080: «Pilar Uno de la OCDE» → «Pilar U».
+mundo-0098: «fontanera» → «fontanera» (en valenciano «fontaner» es el oficio; no «lampista»).
+mundo-0103: se mantiene «**.Crear» sin espacio, como en el original.
+mundo-0104: «ago.» → «ag.»; «Hacienda» → «Hisenda»; siglas CCAA y EE. LL. copiadas.
+mundo-0105: «Dic. 2026» → «Des. 2026».
+mundo-0111: «usar y tirar» → «usar i tirar»; la construcción «a nivel interior como transfronterizo» se deja literal («a nivell interior com transfronterer»).
+mundo-0113: «índice de precios de lo suficiente» → «índex de preus del que és suficient»; «Presupuesto de Referencia para unas Condiciones de Vida Dignas (PRCVD)» traducido (nombre descriptivo) y la sigla copiada.
+mundo-0117: «Real Decreto-ley 7/2018» → «Reial Decret llei 7/2018»; 0163: «proyecto de real decreto-ley» → «projecte de reial decret llei».
+mundo-0123: frase del original sin verbo principal («para que la coordinación… y el compromiso de una partida…»): traducida literal, sin completarla.
+mundo-0137: falta un punto en el original antes de «Todo ello»; se mantiene igual («continuar Tot això»).
+mundo-0138: «en su caso» → «si és el cas».
+mundo-0144, 0163: «no discriminación» → «no-discriminació» (sustantivo, con guion); «principio de no devolución» → «no devolució», como en lotes anteriores.
+mundo-0150: «aprendizaje-servicio» → «aprenentatge-servei».
+mundo-0152: «abandono temprano» → «abandonament prematur» (como va-007).
+mundo-0157: «para que se equipare al de otros países» (concordancia dudosa con «inversión») se deja literal: «s'equipare al d'altres països».
+mundo-0158: «I+D» → «R+D».
+mundo-0164: «víctimas de trata» → «víctimes de tràfic» (glosario); «salvo prueba en contrario» → «llevat de prova en contrari».
+mundo-0166: «personas recién llegadas» → «persones nouvingudes».
+mundo-0171: «así como el alcanzar la neutralidad» → «així com assolir la neutralitat» (se omite el artículo ante el infinitivo); «gases efecto invernadero» → «gasos d'efecte d'hivernacle».
+mundo-0180: «linderos, setos» → «marges, bardisses».
+mundo-0181: «cañadas reales» → «canyades reials»; se mantiene la concordancia del original «ecosistemes … que impacta».
+mundo-0184: «acequias y regueras» → «séquies i regueres».
+mundo-0194: se mantiene la enumeración incompleta del original («ja siga en granges amuntegades, en laboratoris de cosmètica, i volem…»).
+mundo-0211, 0218: «Dividendo para la paz (mundial)» → «Dividend per a la pau (mundial)» (nombre descriptivo traducido); «un trillón de dólares» → «un trilió de dòlars», literal (probable calco del inglés «trillion» = billón; no se corrige).
+mundo-0215: «sin dobles raseros» → «sense dobles vares de mesurar»; «Corte Internacional de Justicia / Corte Penal Internacional» → «Cort Internacional de Justícia / Cort Penal Internacional», siglas CIJ y CPI copiadas.
+mundo-0214: «alerta temprana» → «alerta primerenca» (como va-007); sigla SAT y los nombres en inglés copiados.

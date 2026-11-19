@@ -47,6 +47,7 @@ Un fichero con **la misma estructura**: los mismos `@@@ id` en el mismo orden y 
    - Las instituciones del Estado y las de la UE se traducen con su nombre habitual en el idioma de destino. Mira el glosario.
    - Planes, fondos, programas y ayudas con nombre propio: si el nombre es una marca o un lema (Sonríe, Nuevo Rumbo, «A Tu Lado», Veo, España Crece, NEURONA, Financia Europa, TU CASA, Verano Joven, ATRAE), la marca se deja como está y solo se traduce la palabra genérica que la precede: «Pla Sonríe», «Fons España Crece», «Xarxa NEURONA», «Bo IA». Si el nombre está hecho solo de palabras comunes que describen lo que es (Cuenta de Futuro, Mujer 45+, País de los 30 minutos, Becas Luisa de Medrano), se traduce entero: «Compte de Futur», «Dona 45+».
    - Las siglas no se desarrollan (UIMP sigue siendo UIMP) ni se crean.
+   - Títulos de obras publicadas (informes, libros, campañas) entre comillas: se dejan como están («Viaje al interior de las macrogranjas»). Proyectos y asociaciones con nombre propio sin traducción establecida, también («Proyecto Gran Simio», «Ecologistas en Acción»).
    - Las leyes: se traduce la parte descriptiva y se mantienen el número y la fecha («Ley 12/2023, de 24 de mayo, por el derecho a la vivienda»).
 5. **Lo que ya está en otro idioma se queda como está:** una frase en inglés, en latín o, en un programa en castellano, un lema en catalán o en euskera.
 6. **El estilo del original.**
@@ -114,7 +115,9 @@ Si necesitas ficheros de trabajo (por ejemplo, una vista intercalada para compar
 | vivienda | habitatge | vivenda | etxebizitza |
 | alquiler | lloguer | aluguer | alokairua |
 | desahucio | desnonament | desafiuzamento | etxegabetzea |
-| okupación / okupa | ocupació il·legal / okupa | ocupación ilegal / okupa | okupazioa / okupa |
+| okupación / okupa | okupació / okupa | okupación / okupa | okupazioa / okupa |
+| ocupación (de viviendas) / ocupa | ocupació / ocupa | ocupación / ocupa | okupazioa / okupa |
+| ocupación ilegal | ocupació il·legal | ocupación ilegal | legez kanpoko okupazioa |
 | sanidad pública | sanitat pública | sanidade pública | osasun publikoa |
 | pensiones | pensions | pensións | pentsioak |
 | autónomos | autònoms | autónomos | autonomoak |
@@ -143,7 +146,7 @@ Siglas: se copian como están en el original (VUT sigue siendo VUT aunque en otr
 
 Coherencia en todos los lotes al castellano: «Cataluña», «Galicia» (también por «Galiza»), «Islas Baleares», «Valle de Arán» para el territorio (las comarcas, en su forma original: «Empordà», «Vallès»; los servicios con nombre propio también: «Rodalies de Catalunya»), «Parlamento de Cataluña» (como en el BOE), pero se dejan los nombres de instituciones que en castellano se usan sin traducir («Generalitat de Catalunya», «Mossos d'Esquadra», «Xunta de Galicia»); «EE. UU.»; porcentajes con espacio («30 %»).
 
-El glosario vale en las dos direcciones, pero al traducir **al castellano** se respeta la palabra que eligió el original: «ocupació il·legal» → «ocupación ilegal» (no «okupación»); «okupació» u «okupa» → «okupación», «okupa».
+Con «okupa/ocupa» se respeta siempre la palabra del original: «ilegal» solo si el original lo dice, «k» solo si el original la escribe. El glosario vale en las dos direcciones, pero al traducir **al castellano** se respeta la palabra que eligió el original: «ocupació il·legal» → «ocupación ilegal» (no «okupación»); «okupació» u «okupa» → «okupación», «okupa».
 
 Topónimos:
 - Usa la forma oficial o la habitual en el idioma de destino: ca «Saragossa, Osca, Terol, Conca»; gl «Xixón», «Illas Baleares», «Comunidade Valenciana», «Cataluña»; eu «Iruñea, Gasteiz, Donostia, Nafarroa, Araba, Bizkaia, Gipuzkoa».

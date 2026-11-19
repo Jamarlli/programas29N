@@ -6,3 +6,4 @@
 - Pasada de coherencia al acabar cada idioma: nombres de planes en los lotes revisados antes de la regla 4 (p. ej. va-001 «Plan Veo» → «Pla Veo»), siglas eu (IA/AA en eu-002…), porcentajes.
 - Orden: valenciano primero (va-008…048 y va-rutas); el resto de idiomas, después.
 - gl: «sinhogarismo» → «sinfogarismo» (gl-006, gl-007) vs «persoas sen fogar» (gl-001 fa-0093): fijar criterio en la pasada de coherencia gallega
+- okupa/ocupa: glosario cambiado el 19-11 (antes «okupación» → «ocupació il·legal»). Pasada de coherencia: buscar «ocupació il·legal», «ocupación ilegal», «legez kanpoko» en lotes ca/va/gl/eu ya revisados y dejar solo donde el original dice «ilegal».

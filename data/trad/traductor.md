@@ -19,6 +19,9 @@ Trampas que ya han salido en otros lotes:
 - No conviertas infinitivos que dependen de un verbo («Garantizaremos X, mejorar Y…») en compromisos sueltos en futuro.
 - eu: «impuesto finalista» → «zerga finalista» (no «xedatua»); «vertidos» de energía → «energia-isurketak»; cargos del Gobierno de España, no los del Gobierno Vasco («Presidenteordetza», no «Lehendakariordetza»).
 - En euskera, cuidado con negaciones, modalidad («podrá», «deberá») y cuantificadores al reordenar la frase.
+- okupa/ocupa: se respeta la palabra exacta del original. «okupación» → «okupació», «ocupación» → «ocupació», «okupa» → «okupa»; «il·legal» solo si el original dice «ilegal». Nunca añadas calificativos.
+- «Ley de Montes» → ca/va «Llei de Forests» (traducción oficial del BOE); «monte» forestal → «mont/monts».
+- Léxico valenciano: compruébalo en el DNV de la AVL. Caza: «montería» → «munteria», «rehala» → «gossada»; «galápago» → «tortuga d'aigua».
 - En valenciano, nada de formas del catalán central (aquest, sigui, puguin, garanteixin, nens).
 - ca/va: «insumos» → «inputs» («insums» no es normativo); «cortas a hecho» → «tallades arreu»; «Reial Decret», «reial decret llei» (sin guion).
 - gl: «quienes» → «quen» con el verbo en singular (no «os que», que añade masculino), salvo que el antecedente ya sea masculino; topónimos en gallego («Illas Baleares», «Comunidade Valenciana»); «Real decreto», «Real decreto-lei».
@@ -27,6 +30,8 @@ Trampas que ya han salido en otros lotes:
 - Si el original admite dos lecturas (presente/pasado, «bianual» = dos veces al año o cada dos años, a qué nombre se refiere un adjetivo), la traducción también: no elijas una.
 - Para corregir una errata del original (regla 11), el arreglo mínimo, sin añadir palabras con contenido («pongan en un impuesto» → «posin un impost», no «posin en marxa»).
 - Porcentajes en ca/va/gl con espacio («40 %»).
+- va: «paro» → «atur», «desempleo» → «desocupació», «empleo» → «ocupació»; «ocupación» de viviendas → «ocupació» (sin añadir «il·legal» ni nada que no diga el original).
+- Nunca añadas calificativos que no están en el original, aunque parezca que aclaran.
 - Lee el glosario completo de INSTRUCCIONES.md: se amplía a menudo (I+D+i → R+D+I en catalán; IA → AA, IPC → KPI en euskera; Cercanías; Correos…).
 
 El significado no puede cambiar en nada: traduce todo lo que dice el original y solo eso, con la misma fuerza en cada afirmación y las mismas cifras. No «mejores» nada.
