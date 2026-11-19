@@ -1,0 +1,45 @@
+eu-014 (va → eu Compromís 0509–0548; es → eu SALF 0001–0164): decisiones para revisar
+General: glosario: IRPF → PFEZ, IVA → BEZ, IPC → KPI, PIB → BPG, IBI → OHZ, FP → LH, ONU → NBE, OTAN → NATO, UCI → ZIU (sigla asentada de término común). Se copian las de organismos, leyes y figuras: FMI, OIT, TJUE, LOPJ, CIE/CIES, RNB, CGPJ, AIReF, CNMC, SEPBLAC, UCO, UDEF, UDYCO, INSS, IMV, RETA, SOCIMI, ITP, AJD, ZEC, CES, MIR, PAC, TIP, NASAMS.
+General: porcentajes con el signo delante («%35»), SALVO cuatro líneas de cifra destacada que empiezan por «**N %**» (salf-0074 «**10 %**», salf-0086 «**13 % → 17 %**», salf-0130 «**41,4 %**», salf-0142 «**12,8 %**»): el validador exige que la línea empiece por «**» + cifra igual que el original, y «**%10**» da error. Revisar si se acepta o se cambia el validador.
+salf-0055: «**20 de agosto**» → «**20, abuztua**» por la misma restricción del validador (la línea tiene que empezar por «**20»); lo natural sería «Abuztuaren 20a».
+salf-0026: «Desde el 1.º día» → «1. egunetik» desplazado dentro de la frase («…soldata publikoaren %100, 1. egunetik, …»), porque a principio de línea el validador lo toma por una lista numerada.
+compromis-0517: «País Valencià» → «Valentziako Herrialdea». compromis-0521: «Alacant» se deja (también en el titular, que decía «Alicante»); «Centre Internacional de Resolució de Disputes» → «Liskarrak Ebazteko Nazioarteko Zentroa».
+compromis-0510: «garantir una regulació pròpia del matrimoni i drets de persones amb unions estables» → se lee «garantir» con los dos complementos (regulación propia del matrimonio y derechos); «unions estables» literal → «batasun egonkorrak» (no «izatezko bikoteak»).
+compromis-0512: «departament de municipalisme» → «munizipalismo-saila»; «diputacions provincials» → «probintzia-aldundiak».
+compromis-0518: «Assemblea Parlamentària» → «Batzar Parlamentarioa». compromis-0527: «Unió Europea de la Defensa» → «Defentsaren Europar Batasuna»; «puga substituir» → «ordeztu ahal izango duen», «reduïsca» sin «ahal».
+compromis-0531: «Reformularem … als nous reptes» → «erronka eta mehatxu hibrido berrietarako birformulatuko ditugu».
+compromis-0536: «lliure determinació dels pobles» → «herrien autodeterminazio-eskubidea».
+compromis-0539: «fins al menys el 2% RNB» → «gutxienez RNBren %2ra iritsiko den aurrekontu indartu bat»; RNB copiada.
+compromis-0543: el original no lleva punto final; tampoco la traducción.
+compromis-0547: «vies de regularització i reformes que faciliten…» → la relativa va delante de los dos nombres («…errazten duten erregularizazio-bideak eta erreformak»), igual de ambigua que el original.
+salf-0001…0014: nombres de ministerios en la forma habitual («Atzerri Arazoak», «Barne Arazoak», «Presidentetza» —no «Lehendakaritza»—); «VP 1.ª» → «1. VP» (sigla copiada); «Absorbe:» → «Bereganatzen ditu:». salf-0014: «Campo, mar y mundo rural» → «Nekazal eremua, itsasoa eta landa-mundua» (para no repetir «landa»).
+salf-0023, 0130, 0131: «cuña fiscal» → «zerga-ziria».
+salf-0028: «devuelto íntegro en la renta» → «errenta-aitorpenean osorik itzulita»; «sobrecoste autonómico» → «gainkostu autonomikoa» (también en salf-0072).
+salf-0030: «inquiokupa» → «inkiokupa» entre comillas «» (jerga sin entrada en el diccionario); «desaloja» → «husten du»; «lanzamiento» → «kaleratzea»; «juicio verbal» → «hitzezko judizioa».
+salf-0039, 0040, 0048: «multirreincidentes» → «berrerorle anizkoitzak». Comprobar el término.
+salf-0039: «cumple entero» → «osorik betetzen du» (sin añadir «zigorra»); salf-0041, 0115: «cumplimiento íntegro» → «osoko betetzea».
+salf-0045: «Plan Estrecho» → «Itsasarte Plana» (nombre descriptivo: se traduce); «Ejército del Aire» → «Aireko Armada»; «narcolanchas» → «narko-txalupak».
+salf-0046, 0047: «mili» → «soldaduska»; «libres de IRPF» → «PFEZtik libre»; «mínimo exento» → «gutxieneko salbuetsia».
+salf-0049: «legítima defensa» → «legezko defentsa».
+salf-0052: «binomio obligatorio» → «binomio derrigorrezkoa»; «defensa» (porra) → «defentsa», literal.
+salf-0053: «como la policía local» / «como en la policía local» → «udaltzaingoa bezala» / «udaltzaingoan bezala».
+salf-0059, 0133: «IVA de caja» → «kutxa-irizpideko BEZa» (como en lotes anteriores).
+salf-0066: «Comunidades Autónomas» → «autonomia-erkidegoak» en minúscula (convención de eu-010); «sanchismo» → «sanchismoa».
+salf-0067: «techo» → «sabaia»; «umbral de confiscatoriedad» → «konfiskagarritasun-atalasea»; «Tribunales Económico-Administrativos» → «Ekonomia eta Administrazio Auzitegiak».
+salf-0070: «la banca» → «banka» (singular, como en el original); «contado en 'Cómo se paga'» → «'Nola ordaintzen den' atalean zenbatua» («atalean» añadido para que se entienda).
+salf-0082: «Hermanos Musulmanes» → «Anaia Musulmanak»; «culto» → «gurtza».
+salf-0089, 0094: «hucha» → «itsulapikoa». salf-0090, 0131: «a tu cuenta» → «zure kontuan» (no «zure kontura», que se leería «a tu costa»).
+salf-0093: «cesantías» → «kargu-uzteagatiko ordainsariak». Comprobar.
+salf-0109, 0139: «carné» (de partido) → «karneta»; salf-0139: «enchufes» → «adiskidekeria» (amiguismo). Comprobar si se prefiere otro término.
+salf-0110: «salvo renuncia expresa de ambos progenitores» → «salbu eta bi gurasoek berariaz uko egiten badiote».
+salf-0116: «librero» → «liburu-saltzailea»; «Orden del Mérito Civil» → «Meritu Zibilaren Ordena».
+salf-0120: «Fiscalía Anticorrupción» → «Ustelkeriaren aurkako Fiskaltza»; «la Antidroga» → «Drogen aurkakoa»; «Vigilancia Aduanera» → «Aduanen Zaintza» (también en salf-0051). Presentes del original («pasa a», «cubre», «duplica») mantenidos en presente.
+salf-0125: «y cinco para que un exministro … presida» → «eta bost, ministro ohi batek … zuzentzeko» (la coma evita leer «cinco exministros»).
+salf-0138: «fijos discontinuos» → «aldizkako finkoak».
+salf-0140: «Ingreso Mínimo» → «Gutxieneko Diru-sarrera»; «cts» → «zt»; «no uno a uno» → «ez bat bateko».
+salf-0142: «español» (lengua) → «espainiera»; salf-0143, 0144: «castellano» → «gaztelania», como distingue el original (convención de eu-010). salf-0144: «exigible por la familia» → «familiarentzat exijigarria» (sin «-ke»).
+salf-0156: «Ley de Restauración» → «Lehengoratze Legea»; «Red Natura» → «Natura Sarea».
+salf-0159: «plaza franca» → «plaza librea»; «puerto franco» → «portu librea»; «Sociedades» (impuesto) → «Sozietateak», abreviado como en el original.
+salf-0160: «el 75 % de residente en avión y barco» → «egoiliarraren %75a hegazkinean eta itsasontzian»: elíptico como el original (descuento de residente), sin desarrollar.
+salf-0161: «antiaérea y antidrón» → «aire-erasoen eta droneen aurkako defentsa»; «V Bandera de la Legión» → «Legioaren V. Bandera».
+salf-0163: «cosoberanía» → «subiranotasun partekatua»; «la Verja» → «Hesia»; «paraíso fiscal» → «zerga-paradisua».
