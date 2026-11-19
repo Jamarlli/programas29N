@@ -149,9 +149,9 @@ def comprobar(lote):
                 elif forma(x) != forma(y):
                     err.append(f'{i}: @t línea {k}: cambia la marca de lista, la sangría, la numeración o el número de «**» ({forma(x)} → {forma(y)})')
         if 'q' in o and 't' in t:
-            texto = plano(t['t'][0])
+            texto = plano(t['t'][0]).replace('_', '')
             for c in t.get('q', []):
-                if plano(c) not in texto:
+                if plano(c).replace('_', '') not in texto:
                     err.append(f'{i}: la cita traducida no está tal cual en el texto traducido: «{c[:90]}»')
     return err, avi
 

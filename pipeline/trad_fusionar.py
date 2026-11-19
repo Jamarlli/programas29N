@@ -46,7 +46,8 @@ def main():
                 x['h'] = campos['h'][0]
             if 't' in campos:
                 x['t'] = campos['t'][0]
-                x['q'] = dict(zip(o.get('q', []), campos.get('q', [])))
+                # la cita se muestra como texto plano: si la original no lleva «_» de cursiva, la traducida tampoco
+                x['q'] = {a: (b if '_' in a else b.replace('_', '')) for a, b in zip(o.get('q', []), campos.get('q', []))}
             d['extractos'][i] = x
         d['lotes'][lote] = 'revisado' if revisado else 'sin revisar'
     for L, d in por_idioma.items():
