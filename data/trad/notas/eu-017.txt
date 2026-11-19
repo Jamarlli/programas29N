@@ -1,0 +1,36 @@
+eu-017 (es → eu, programa de PACMA, pacma-0201…0337): decisiones para revisar
+General: lenguaje inclusivo del original («españoles y españolas», «niños y niñas», «alumnos y alumnas», «delegados y delegadas», «estos/as profesionales», «candidatos/as», «empresarios/as») → formas neutras del euskera (espainiarrak, haurrak, ikasleak, ordezkariak, profesionalak, hautagaiak, enpresaburuak), sin añadir «emakume».
+General: «Diagnóstico:» en los titulares → «Diagnostikoa:» (como en lotes anteriores). «PACMAtik …» para «Desde PACMA …»; «Partido Animalista (Con el Medio Ambiente)» no se traduce.
+General: asociaciones con nombre propio sin traducción establecida se dejan en castellano (regla 4): «Asociación de Ganaderos de Burgohondo» (pacma-0221), «Asociación Española de Ecología Terrestre» (pacma-0223), «Sociedad Española de Epidemiología y Salud Pública Oral» (pacma-0275). Organismos del Estado, traducidos: CSIC → «Ikerketa Zientifikoen Kontseilu Nagusia - CSIC» (0223); IDAEA-CSIC → «Ingurumen Diagnostikoko eta Uraren Azterketetako Institutua (IDAEA-CSIC)» (0239). Revisar si se prefiere dejar el IDAEA en castellano.
+General: OMS → «Osasunaren Mundu Erakundea» / OME; ONU → NBE; IA → AA (0201); I+D+i → I+G+B (0251, 0320); «CCAA» se copia («CCAAk», como en lotes anteriores).
+pacma-0201: «caudales ambientales» → «ingurumen-emariak». Última frase: para que la negrita cubra lo mismo que el original con un solo par de «**», «del agua disponible» queda como aposición fuera de la negrita («…kalitatea ziurtatuko dutenak**, eskuragarri dagoen urarena»); la cita sigue esa misma forma. «su consumo» → «haien kontsumoa» (de las masas de agua).
+pacma-0202: «contaminación difusa» → «kutsadura lausoa».
+pacma-0203: «Informe Planeta Vivo» (sin comillas ni cursiva en el original) → «Planeta Bizia Txostena»; «Fondo Mundial para la Naturaleza» → «Naturarako Mundu Funtsa». Revisar si se prefiere dejar el título en castellano.
+pacma-0204: «reduciendo la capacidad de mitigación…» (probablemente quería decir «no reduciendo») se deja literal («gaitasuna murriztuz»), sin interpretar. «fondos comunitarios» → «Erkidegoko funtsak».
+pacma-0205: errata del original «no sólo ha perdió la vida» → pasado («galdu zuen»), en línea con «tuvo que presenciar». «pedanía hellinera de Isso, Albacete» → «Hellíngo Isso herrixkan, Albaceten». Fauna: ginetas → katajinetak, garduñas → lepazuriak, azulones → basahateak, culebras → sugeak.
+pacma-0206: «aljibes» → «ur-biltegiak»; «azudes» → «uharkak»; el nombre del proyecto «SAFE - Stop Atropellos de Fauna en España» se copia.
+pacma-0215: «escalas de estanques sucesivos» → «ondoz ondoko urmaelez osatutako eskalak».
+pacma-0219: «Grupo Intergubernamental de Expertos sobre el Cambio Climático - IPCC» → «Klima Aldaketari buruzko Gobernuarteko Adituen Taldeak - IPCC», con el guion del original.
+pacma-0220: «Ley de Montes» → «Mendien Legea» (como en lotes anteriores); «Planes de ordenación de los recursos forestales (PORF)» → «Baso-baliabideak antolatzeko planak (PORF)». «que deban realizar los propietarios de los montes» se deja tras la enumeración, con la misma ambigüedad sobre a qué elementos se refiere.
+pacma-0222: «especies que sí son autóctonas» → «hauek bai bertakoak diren espezieetakoak», para mantener el énfasis de «sí».
+pacma-0223: «ramonea como pasta» → «adaxkak jaten dituena nahiz larrean bazkatzen dena».
+pacma-0224: «rastrojeras» → «anizkak»; «en términos extensivos» → «zentzu zabalean».
+pacma-0225, 0239: «farolillos voladores» → «farol hegalariak»; «selvicultura preventiva» → «basogintza prebentiboa». «Ley de evaluación ambiental» → «Ingurumen-ebaluazioari buruzko Legea».
+pacma-0226: PORN → «Natura Baliabideak Antolatzeko Planak (PORN)»; PRUG → «Erabilera eta Kudeaketa Zuzentzeko Planak (PRUG)»; siglas copiadas.
+pacma-0238: «niveles de ruido superiores a 55 decibelios generados» (redacción rara del original) → «sortutako 55 dezibeletik gorako zarata-mailak», literal. «acúfenos» → «akufenoak».
+pacma-0239, 0240, 0241: «contaminación lumínica» → «argi-kutsadura».
+pacma-0243: PIDESC y CDESC se copian (siglas de un tratado y de un organismo).
+pacma-0244: «mínimo vital de agua» → «uraren gutxieneko bitala». «medidas como» (en negrita) → «**honelako neurriak** … :».
+pacma-0256: «copago» → «ordainketa partekatua».
+pacma-0258: errata del original «dietistanutricionista» (falta el guion) → «dietista-nutrizionista», como en el resto del extracto.
+pacma-0261: errata del original «Es necesario un dar una respuesta» (sobra «un») → traducido en forma correcta.
+pacma-0265: _bullying_ y _ciberbullying_ en cursiva sin declinar («**_Bullying_ eta** **_ziberbullying_** **detektatu eta artatzeko estrategiak**») para no romper la cursiva del Markdown; «ciberbullying» → «ziberbullying».
+pacma-0271: «supervivientes del suicidio» → «suizidioaren biziraleak». Para mantener un solo par de «**», la negrita cubre también «suizidioaren», que en el original va fuera.
+pacma-0275: «bucodental» → «aho-hortzetako».
+pacma-0277: «arma arrojadiza» → «arma jaurtigarri». «Pacto de Estado por la Educación» → «Hezkuntzaren aldeko Estatu Ituna».
+pacma-0281: «libros de texto con licencia _copyleft_» → «lizentzia _copyleft_ duten testu-liburuak».
+pacma-0290, 0295, 0301, 0327: el orden del euskera obliga a que la negrita cubra un poco más o un poco menos que en el original (el número de «**» por línea es el mismo).
+pacma-0321: el título del informe de Oxfam Intermón entre comillas se deja en castellano; las citas literales entre comillas rectas se traducen.
+pacma-0322, 0323: «Ley de Paridad» → «Parekotasun Legea»; «Ley Electoral» → «Hauteskunde Legea»; «listas cremallera» → «kremailera-zerrendak». pacma-0324: «Ley de Representación Paritaria» → «Ordezkaritza Parekidearen Legea».
+pacma-0325: «Ley para promover la conciliación de la vida familiar y laboral de las personas trabajadoras» → «Langileen familia- eta lan-bizitza bateratzea sustatzeko Legea».
+pacma-0337: ONG → GKE.
