@@ -10,3 +10,4 @@
 - Fundación Affinity: se deja en castellano en todos los idiomas (sin forma establecida confirmada).
 - va/ca: «Algeciras» → «Algesires» (hecho en va; «Puerto Bahía de Algeciras» se deja como marca). Falta en ca.
 - va/ca (pasada de coherencia): «com a» usado para ejemplos («como jóvenes, mujeres…») → «com ara»; «ocupació de la llar» → «treball de la llar».
+- Titular nuestro de bildu-0171 (es): «proteger el pluralismo y la desinformación» no tiene sentido; revisar el titular original y su traducción en todos los idiomas.
