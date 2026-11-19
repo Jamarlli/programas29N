@@ -1,0 +1,26 @@
+Remisiones internas: se usan las mismas formas que en las salidas revisadas: ruta:podemos:3 «Els preus han de baixar» (va-023, va-025, va-026); ruta:fa:18 «2.2. Dret a cuidar i a rebre cures» (va-002); ruta:psoe:69 «Espanya a Europa i en el món» (va-009); ruta:salf:9 y ruta:nex:4 «Com es paga» (va-012).
+ruta:adelante:20: el original pone «Ciencia , investigación» con un espacio antes de la coma; se ha quitado (errata de puntuación).
+ruta:fe:24: «Regímen» (tilde mal puesta en el original) → «Règim».
+ruta:bng:23: «dependenciae» (errata del gallego original, palabras pegadas) → «dependència i».
+ruta:bng:56: se mantiene «8.6 .» con el espacio, igual que el original y es-rutas.
+ruta:bng:*: «Galiza» → «Galícia», como en va-030..033; gallego traducido desde el original y comprobado con es-rutas.
+titulo:bildu: «Posible egin» está en euskera y se deja (regla 5); ruta:bildu:36 «Euskal Herriko selekzioak» y ruta:bildu:44 «Bardeak herriarentzat», también.
+ruta:bildu:33: «Convenio Económico Navarro» → «Conveni Econòmic Navarrés» (gentilici AVL, como en va: «Marc Basc i Navarrés»). ruta:bildu:34: «Euskera» → «Èuscar».
+titulo:soria: «Soria ¡Sí!» se deja como está (nombre/lema de la candidatura); en los demás títulos, el topónimo es «Sòria».
+titulo:teruel: «Vamos a seguir defendiendo» → «Continuarem defenent» (se evita la perífrasi «anar a» + infinitivo, que es castellanismo).
+titulo:nex: «100%» → «100 %» (porcentaje con espacio).
+ruta:pacma:110: «Por nuestros/as mayores» → «Pels/per les nostres majors» para mantener el desdoblamiento (en valenciano «nostres» no tiene marca de género).
+ruta:pacma:96: «emprendedores/as, autónomos/as» → «emprenedors/es, autònoms/es».
+ruta:pacma:99, ruta:fe:19, ruta:fa:75: «I+D+I» / «I+D+i» → «R+D+I» (glosario).
+ruta:pacma:12: «empleo de animales» = uso → «ús d'animals» (no «ocupació»).
+ruta:pacma:27, ruta:pacma:35: «Cese a…» → «Cessament de…».
+ruta:d21:73: «Hucha de Formación para Jóvenes» → «Guardiola de Formació per a Joves»: nombre descriptivo con preposición, se traduce (regla 4); «Hucha Hogar Joven» sí se dejaba como marca.
+ruta:d21:42, ruta:d21:60: «Plan Nacional de Barrios» → «Pla Nacional de Barris»; «Programa Estatal de Auditoría de Barreras» → «Programa Estatal d'Auditoria de Barreres» (descriptivos, se traducen).
+ruta:d21:77, ruta:d21:81: «PYME» → «PIME» (glosario pymes → pimes).
+ruta:d21:32: «prioridad nº1» → «prioritat núm. 1».
+ruta:d21:4: «enchufismo» → «endollisme»; ruta:d21:13: «repartos de sillones» → «repartiments de cadires».
+ruta:pp:27: «MERECERÁ LA PENA» → «VALDRÀ LA PENA».
+ruta:psoe:1..4, 62; ruta:fa:33, 34: «seguir avanzando / liderando / mejorando» → «continuar avançant / liderant / millorant», como en las salidas de psoe.
+ruta:fa:40, ruta:psoe:14: «como un pilar / como un actor» → «com un pilar / com un actor» (no «com a un»).
+ruta:fa:91..93, ruta:adelante:25, ruta:salf:14, ruta:bildu:4…: «empleo» incontable → «ocupació»; ruta:pacma:87 «un empleo justo» → «una ocupació justa».
+ruta:teruel:18, 21; ruta:nex:27; ruta:soria:5: «montes» → «monts».
