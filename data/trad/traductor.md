@@ -40,6 +40,14 @@ Trampas que ya han salido en otros lotes:
 - Porcentajes en ca/va/gl con espacio («40 %»).
 - va: «paro» → «atur», «desempleo» → «desocupació», «empleo» → «ocupació»; «ocupación» de viviendas → «ocupació» (sin añadir «il·legal» ni nada que no diga el original).
 - Nunca añadas calificativos que no están en el original, aunque parezca que aclaran.
+- eu: siglas vascas asentadas de términos comunes, ya usadas en eu-001…005: IBI → OHZ, VIH → GIB, AOD → GLO, ONGD → GGKE, OCDE → ELGA, FP → LH. «seguridad humana» → «giza segurtasuna»; «financiación finalista» → «finantzaketa finalista» (no «xedatua»). Las siglas de organismos, leyes y planes se copian (CGPJ, AECID, LOPJ…).
+- eu: porcentajes con el signo delante y pegado: «%25», «%2,5».
+- eu: abreviaturas con punto declinadas sin guion (Euskaltzaindia, araua 196): «CC. AA.ei», «AA.PP.ekin», no «CC. AA.-ei». Se respeta el espaciado del original.
+- eu: ILP se copia (HEL no está asentada); OCDE → ELGA; «Comité Europeo de las Regiones» → «Europako Eskualdeetako Batzordea»; «vigilancia» → «zaintza» («bijilantzia» no es batua); «vapear» → «bapeatu».
+- eu: no añadas «emakume» a un nombre que en el original no marca género («niñas y jóvenes» → «neskak eta gazteak»). Sí cuando el original usa el femenino («ganaderas» → «emakume abeltzainak»).
+- eu: un subjuntivo no es «poder»: «se ha aceptado que las competencias entren» → «sartzea», no «sar daitezkeela». Pon «ahal»/«-ke» solo donde el original dice «poder».
+- eu: «del Fondo», «del SNS» y otros genitivos: no amplíes a qué se refieren al reordenar («ampliado la duración y triplicado el anticipo del Fondo» → la duración no se ata al Fondo).
+- eu: la sigla IA → AA también dentro de nombres de planes («Bono IA» → «AA Bonua»): es la sigla del término común, no parte de la marca.
 - Lee el glosario completo de INSTRUCCIONES.md: se amplía a menudo (I+D+i → R+D+I en catalán; IA → AA, IPC → KPI en euskera; Cercanías; Correos…).
 
 El significado no puede cambiar en nada: traduce todo lo que dice el original y solo eso, con la misma fuerza en cada afirmación y las mismas cifras. No «mejores» nada.

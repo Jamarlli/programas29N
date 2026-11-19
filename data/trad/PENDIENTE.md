@@ -11,4 +11,5 @@
 - va/ca: «Algeciras» → «Algesires» (hecho en va; «Puerto Bahía de Algeciras» se deja como marca). Falta en ca.
 - va/ca (pasada de coherencia): «com a» usado para ejemplos («como jóvenes, mujeres…») → «com ara»; «ocupació de la llar» → «treball de la llar».
 
+- eu (pasada de coherencia): abreviaturas declinadas sin guion («CC. AA.ei», araua 196), OCDE → ELGA y «bijilantzia» → «zaintza» comprobados en eu-001…009 el 19-11 (volver a buscarlos al final); «Comité (Europeo) de las Regiones» → «Europako Eskualdeetako Batzordea»; «Bono Cultural Joven» se dejó como marca en eu-009 (va usa «Bo Cultural Jove», el nombre oficial en catalán): decidir si en eu se traduce «Bonua».
 - PIME/pime: misma caja que el original (hecho en va el 19-11; aplicar en ca al revisar).
