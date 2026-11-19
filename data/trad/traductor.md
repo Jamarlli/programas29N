@@ -24,6 +24,9 @@ Trampas que ya han salido en otros lotes:
 - Léxico valenciano: compruébalo en el DNV de la AVL. Caza: «montería» → «munteria», «rehala» → «gossada»; «galápago» → «tortuga d'aigua».
 - Títulos de informes, libros y documentos (en cursiva _…_ o entre comillas, también en anexos de fuentes): se dejan en el idioma original. El validador ya no los cuenta como «sin traducir»; si un extracto queda igual que el original por eso, sale como aviso y está bien.
 - «salario/renta mediano/a» (la mediana) → ca/va «salari medià», «renda mediana»; gl «salario mediano»; eu «soldata mediana». Nunca «mitjà/medio/batez bestekoa», que es la media.
+- ca/va: «como» para dar ejemplos → «com» o «com ara» (nunca «com a», que es «en calidad de»). «empleo de hogar» → «treball de la llar»; «empleadas de hogar» → «empleades de la llar».
+- No añadas palabras para que suene más natural si se puede decir sin ellas.
+- No cambies el número gramatical (un plural sigue en plural) ni añadas o quites la coma delante de una relativa: «los derivados que son…» (especificativa) no es «los derivados, que son…» (explicativa).
 - En valenciano, nada de formas del catalán central (aquest, sigui, puguin, garanteixin, nens).
 - ca/va: «insumos» → «inputs» («insums» no es normativo); «cortas a hecho» → «tallades arreu»; «Reial Decret», «reial decret llei» (sin guion).
 - gl: «quienes» → «quen» con el verbo en singular (no «os que», que añade masculino), salvo que el antecedente ya sea masculino; topónimos en gallego («Illas Baleares», «Comunidade Valenciana»); «Real decreto», «Real decreto-lei».
