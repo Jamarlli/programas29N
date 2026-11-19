@@ -3,5 +3,13 @@
   <url>
     <loc>https://programas29n.jamarlli.workers.dev/</loc>
     <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://programas29n.jamarlli.workers.dev/"/>
+    <xhtml:link rel="alternate" hreflang="ca-ES-valencia" href="https://programas29n.jamarlli.workers.dev/va/"/>
+  </url>
+  <url>
+    <loc>https://programas29n.jamarlli.workers.dev/va/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://programas29n.jamarlli.workers.dev/"/>
+    <xhtml:link rel="alternate" hreflang="ca-ES-valencia" href="https://programas29n.jamarlli.workers.dev/va/"/>
   </url>
 </urlset>
