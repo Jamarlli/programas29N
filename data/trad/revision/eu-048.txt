@@ -1,0 +1,50 @@
+# nex-0114: «multinazionalei JEZean» (dativo) se leía como «más margen para las multinacionales»; el original es el IAE que pagan las multinacionales → genitivo «multinazionalen JEZean» (@h y @t)
+@@@ nex-0114
+@h
+Udal-tarte handiagoa multinazionalen JEZean eta tasak banaketa-plataformei
+@t
+103. Udal-tarte handiagoa multinazionalen JEZean eta banaketa-plataformei ezarritako tasetan.
+# d21-0061: AJD → EJD: sigla vasca en uso real (Bizkaiko Foru Aldundia: «Ondare Eskualdaketa eta EJDen gaineko Zerga»), como ITP → OEZ
+@@@ d21-0061
+@h
+Zero zerga 35 urtetik beherakoek ohiko etxebizitza erosteko
+@t
+3. **Zero Zerga 35 Urtetik Beherakoei eta Zerga-jaitsiera Guztientzat:** etxebizitza gehien garestitzen duena Administrazioa bera da. 35 urtetik beherako gazteentzat ohiko etxebizitzaren erosketako zerga guztiak (BEZ, OEZ eta EJD) ezabatuko ditugu, eta guztientzat murriztuko ditugu (gehienez 400.000€ arte).
+@q
+35 urtetik beherako gazteentzat ohiko etxebizitzaren erosketako zerga guztiak (BEZ, OEZ eta EJD) ezabatuko ditugu, eta guztientzat murriztuko ditugu
+# d21-0066: «tipifikatzeko kontratu bat» se leía como «un contrato para tipificar» (objeto pospuesto); se anuncia el objeto con «honako hauek …:» sin cambiar el contenido y la @q sigue siendo un trozo seguido
+@@@ d21-0066
+@h
+Errentamendu-epaitegiak 90 eguneko ebazpenarekin eta inkiokupazioaren amaiera
+@t
+- **Justizia Espezializatua 90 Egunean eta Inkiokupazioaren Amaiera:** justiziaren geldotasuna da alokairuaren etsairik handiena. Doako eta loteslea den **Errentamenduen Bitartekaritza Zerbitzu** bat sortuko dugu (gehienez 30 eguneko ebazpena), eta **Errentamenduetan Espezializatutako Epaitegiak**, 60 eguneko epe gehigarri batean ebazpen irmoa bermatuko dutenak. Aldi berean, Zigor Kodea aldatuko dugu, honako hauek iruzur-delitu gisa berariaz tipifikatzeko: kontratu bat ez ordaintzeko asmo aurrez pentsatuarekin sinatzea eta legez kanpoko azpierrentamendua.
+@q
+Errentamenduetan Espezializatutako Epaitegiak, 60 eguneko epe gehigarri batean ebazpen irmoa bermatuko dutenak. Aldi berean, Zigor Kodea aldatuko dugu, honako hauek iruzur-delitu gisa berariaz tipifikatzeko: kontratu bat ez ordaintzeko asmo aurrez pentsatuarekin sinatzea
+# d21-0070: AJD → EJD (uso real, véase d21-0061)
+@@@ d21-0070
+@h
+BEZ, OEZ eta EJD kentzea 35 urtetik beherakoen ohiko etxebizitzan
+@t
+- **Zero Zerga Erosketan 35 Urtetik Beherakoentzat:** Estatua etxebizitzaren ekuazio espekulatibotik aterako dugu. 35 urtetik beherako gazteentzat ohiko etxebizitzaren erosketako zerga guztiak (BEZ, OEZ eta EJD) ezabatuko ditugu (gehienez 400.000€ arte).
+@q
+35 urtetik beherako gazteentzat ohiko etxebizitzaren erosketako zerga guztiak (BEZ, OEZ eta EJD) ezabatuko ditugu
+# d21-0071: AJD → EJD (uso real, véase d21-0061)
+@@@ d21-0071
+@h
+Ohiko etxebizitza: OEZ %2an, EJD zero eta BEZ %4an
+@t
+- **Ohiko Etxebizitza Erostean Zergen Salbuespenezko Jaitsiera:** zerga-itomena ez da 35 urterekin amaitzen. Familia guztiek jabetza eskuratzea errazteko eta merkatuaren errotazioa sustatzeko, OEZ %2ko tasa bakarrera jaitsiko dugu, EJD %0ra, eta %4ko BEZ supermurriztuaren aplikazioa ohiko bizileku izateko etxebizitzaren erosketara zabalduko dugu (gehienez 400.000€ arte).
+@q
+%4ko BEZ supermurriztuaren aplikazioa ohiko bizileku izateko etxebizitzaren erosketara zabalduko dugu
+# d21-0090: faltaba «tampoco» («de modo que tampoco haya que aportar…»): se añade «ere»
+@@@ d21-0090
+@h
+«Behin bakarrik» printzipioa betetzea Administrazioan
+@t
+- **Azkenean “Behin Bakarrik” Printzipioa Betetzea:** Autobide Digital honek azkenean bermatuko du 39/2015 Legearen benetako betetzea; lege horrek eskubide hori aitortzen du jada, baina ez da modu eraginkorrean aplikatzen: Administrazio batek ere ez dezala berriro eskatu dagoeneko sektore publikoaren esku dagoen daturik edo dokumenturik. Organismo batek Estatuak dagoeneko duen dokumentu bat eskatzen badu, hura aurkitzeko erantzukizuna automatikoki eta soilik Administrazioaren gain geratuko da, horrek espedientearen epeak geldiarazi gabe eta inola ere herritarraren aldeko ebazpena kaltetu gabe. Sistema hau “once-only” Europako plataformarekin konektatuko dugu, beste Estatu kide batean emandako dokumentuak ere berriro aurkeztu behar ez izateko, eta organismoka betetze-adierazleak argitaratuko ditugu.
+# d21-0094: «por defecto» (software) → «lehenespenez»; «berez» significa «de por sí, por naturaleza»
+@@@ d21-0094
+@h
+Zibersegurtasun Irekiko Biltegi Nazionala eta lizentzia irekiko software publikoa
+@t
+- **Burujabetza Teknologikoa eta Biltegi Irekia:** gastu publikoa optimizatzeko eta kanpoko aholkularitza-enpresa handiekiko mendekotasun kronikoa murrizteko, Zibersegurtasun Irekiko Biltegi Nazionala sortuko dugu, Teknologia Transferitzeko Zentroa eta CCN-CERTek dagoeneko garatutako tresnak aprobetxatuz. Hemendik aurrera, diru publikoarekin finantzatutako defentsa digitaleko tresnak eta softwarea lizentzia irekiekin garatuko dira lehenespenez, segurtasun-arrazoiek justifikatutako salbuespenetan izan ezik. Horri esker, edozein udalek, unibertsitatek, Autonomia Erkidegok edo ETEk eskura dagoen babes-teknologiarik onena modu arinean berrerabili ahal izango du, defentsak partekatuz, gauza bera bi aldiz ordaindu beharrean.
