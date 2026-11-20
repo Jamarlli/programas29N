@@ -1,0 +1,609 @@
+@@@ d21-0095
+@h
+Herritar bakoitzaren datuetara nor sartzen den denbora errealean jasotzen duen erregistroa
+@t
+- **Gardentasuna Zure Datuei Buruz:** herritar bakoitzak denbora errealeko erregistro garden bat izango du eskura, eta bertan egiaztatu ahal izango du zein erakunde, pertsona edo administrazio-unitate sartu den bere datuetara, noiz egin duen eta zer justifikazio legalekin. Sarbidea zerga-, polizia- edo epai-ikerketen esparruan gertatzen denean, informazioa ikerketak amaitutakoan erakutsiko da, eta justifikatu gabeko edozein sarbide zuzenean salatu ahal izango da Datuak Babesteko Espainiako Agentzian.
+@@@ d21-0096
+@h
+Administrazio guztientzako zibersegurtasuneko baliabide tekniko partekatuak
+@t
+- **Zure Datuen Babesaren Bermea:** zibersegurtasuneko eta babes digitaleko benetako neurriak aplika daitezen bermatzeko, administrazio guztiak (estatukoak, autonomikoak eta tokikoak) baliabide tekniko partekatuez hornituko ditugu, diputazioen eta zibersegurtasuneko operazio-zentroen bidez, egokitzapen-aldi nahikoarekin.
+@@@ d21-0097
+@h
+Diagnostikoa: BGDSrako eskubidea duten etxeen erdiak baino gehiagok ez du eskatzen
+@t
+Espainiako Ongizate Estatuaren porrotik handiena ez da baliabide falta, herritarrak beren eskubideetatik bereizten dituen hesi burokratikoa baizik. Bizitzeko Gutxieneko Diru-sarrerarako eskubidea duten etxeen erdiak baino gehiagok ez du eskatzera iristen, eta seme-alabengatik laguntza jasotzeko baldintzak betetzen dituzten hamar familiatatik zazpik ez dute bat ere jasotzen. Hondamendi naturalen aurrean, ikusi dugu erantzun publikoa beranduegi iristen dela, zatituta eta izapide itogarrien azpian lurperatuta. Estatuak badauzka jada gure datuak, eta haren betebeharra da datu horiek zuzenean pertsonen berehalako zerbitzu automatikoan jartzea.
+@@@ d21-0098
+@h
+Administrazio Proaktiboaren Legea: ofizioz emandako prestazioak eta kenkariak
+@t
+- **Funtzionatzen Duten Laguntzak:** Estatuak utzi egingo dio herritarrak legez dagozkion eskubideak aurkitu, eskatu eta justifikatu arte itxaroteari. Administrazio Proaktiboaren Lege batek aitortuko du jada dagokizuna eskatu behar ez izateko eskubidea, eta zehaztuko du zer prestazio ematen diren ofizioz, zer datu gurutzatzen diren, zer helburu esklusiborekin eta pertsona bakoitzak nola egin dezakeen aurka edo nola zuzen ditzakeen bere datuak. Datu publikoen gurutzaketa adimendunaren bidez, Administrazioak ofizioz ebatziko du eta **automatikoki emango ditu prestazioak eta kenkariak, herritarrari zuzenean telefono mugikorrera jakinaraziz** edo posta arruntez, hala nahiago badu.
+Daturen bat falta denean, dagoeneko kalkulatuta dagoen proposamen bat jasoko du, eta klik batekin edo aurrez aurre onartu ahal izango du administrazio eskudunaren bidez, arreta bermatuz aurretiko hitzorduarekin edo gabe. Horrela funtzionatuko du, adibidez, ikasketa-beken esleipen zuzenean (errenta eta espediente akademikoa gurutzatuz, inprimakirik gabe) edo jaiotza baten kasuan (PFEZeko kenkariak edo familia-prestazioak berehala eta automatikoki aktibatuz jaioberria erregistratzean, AIReFek dagoeneko gomendatzen duen bezala).
+@@@ d21-0099
+@h
+Gizarte Alertako Sarea, BGDS eta CAPI ofizioz izapidetzeko
+@t
+- **Gizarte Alertako Sare Adimenduna:** lehentasunezko alerta-sistema publiko bat zabalduko dugu, enpleguari, zerga-sarrerei eta Gizarte Segurantzari buruzko datuak gurutzatuko dituena, bazterketa- edo haur-pobrezia-egoeran dauden etxeak goiz detektatzeko. Datu horiek laguntzak eskaintzeko bakarrik erabili ahal izango dira, inoiz ez zigortzeko ezta iruzurra kontrolatzeko ere, eta sistema Datuak Babesteko Espainiako Agentziaren gainbegiratzearen mende egongo da. Familia kalteberei burokrazian nabigatzeko eskatu beharrean, Administrazioa gizarte-zerbitzuen bidez jarriko da haiekin harremanetan, modu proaktiboan, Bizitzeko Gutxieneko Diru-sarrera (BGDS), Haurrentzako Laguntza Osagarria (CAPI) edo funtsezko beste gizarte-prestazio batzuk ofizioz izapidetzeko.
+@@@ d21-0100
+@h
+Hondamendien aurreko laguntza-plataforma, gehienez 72 orduko epean ordainketak egiteko
+@t
+- **Kudeaketa Proaktiboa eta Likidezia Gehienez 72 Ordutan:** plataforma bateratu bat sortuko dugu, administrazio eta erakunde publiko guztien datuak konbinatuko dituena, Aseguruen Konpentsazio Partzuergoarenak barne, eta ofizioz aktibatuko dena. Eskuzabaltasunaren eta hasierako fede onaren presuntzioaren printzipioa aplikatuko da berehalako likidezia emateko: 1.000 €-rainoko larrialdi-ordainketak berehalako transferentziaz egingo dira Ogasunean edo Gizarte Segurantzan jada jasota dagoen kontura (edo Bizum bidez, herritarrak hala nahiago badu; eta aurrez ordaindutako txartelaren bidez edo arreta-guneetan, banku-konturik ez duenarentzat), eta gainerako zenbatekoak banku-transferentziaz, legez finkatutako gehienez 72 orduko epean. Lehen ordainketa kaltetutako autonomoei eta negozio txikiei ere iritsiko zaie, ahalik eta lasterren berriro ireki ahal izan dezaten, eta, gainera, aurrez aurreko arretarako gune mugikorrak bermatuko dira konektibitaterik gabeko eremuetan.
+Laguntza handiagoak emateko, **kalte materialak ahalik eta denbora laburrenean ebaluatuko dira** satelite-irudien bidez (horretarako Copernicus sistema erabiliz), dronen, Katastroaren edo DGTren datuen, eta kaltetuek eurek telefono mugikorren bidez emandako informazioaren eta irudien bidez, 24 ordutan eskuragarri egongo den kaltetze-mapa batekin, lehen ordainketa eskatu gabe nork jasotzen duen zehaztuko duena. Prozesu osoa Gardentasuneko Atari Publiko baten bidez monitorizatuko da, diru publikoaren trazabilitaterik handiena bermatuko duena, udalerri bakoitzerako zenbat agindu den, zenbat ordaindu den eta zenbat pertsonari erakutsiz, eta herritarrei aukera emanez detektatu gabeko kalteen aitorpenak geroago zabaltzeko. Ordainketa bat bidegabea bada Administrazioaren akats batengatik, errekargurik gabe eta epeka erreklamatuko da; akatsa fede oneko herritar batena bada, itzulketa errekargurik eta zehapenik gabe egingo da.
+@@@ d21-0101
+@h
+Udalei laguntza teknikoa emateko estatu-unitatea, berreraikuntzarako
+@t
+- **Berreraikuntza Botila-lepo Gabe:** kaltetutako udalei laguntza teknikoa emateko estatu-unitate bat sortuko dugu, proiektuak, kontratazioa eta obren gauzatzea bere gain hartuko dituena hala eskatzen dutenean, hor trabatzen baita gaur egun berreraikuntza. Eredu hau larrialdi klimatikoaren aurreko herri-akordio baten zati operatibo gisa eskainiko dugu, hurrengo hondamendia gertatu aurretik legez diseinatutako laguntzekin.
+@@@ d21-0102
+@h
+Ekipo teknologiko publiko propioak eta erosketa publiko berritzailea
+@t
+- **Gaitasun Publikoak eta Erosketa Berritzailea:** Administrazioaren ekipo teknologiko propioak indartuko ditugu, aholkularitza-enpresen edo hornitzaile bakar baten mende ez egoteko. Estatua ez da teknologia erostera mugatuko: bultzatu egingo du, startup, ETE eta ikerketa-zentro espainiarrek irtenbideak garatu ditzaten, hala nola satelite bidezko kalte-ebaluazioa edo alerta goiztiarreko sistemak. Eta diru publikoarekin finantzatzen dena berrerabilgarria izango da administrazio guztientzat, zergadunarentzako itzulerarekin.
+@@@ d21-0103
+@h
+Algoritmoen erregistro publikoa, kode irekia eta ukapen orotan giza berrikuspena
+@t
+- **Adimen Artifiziala eta Algoritmoak Bermeekin:** eskubideei buruz erabakitzen duen algoritmo publiko oro erregistro publiko batean inskribatuko da, bere helburuarekin, erabiltzen dituen datuekin eta bere emaitzekin, eta lehenespenez kode irekiarekin, Auzitegi Gorenaren BOSCO epaiarekin bat, herritar batek ere auzitara jo behar izan ez dezan hura ezagutzeko. Sistema bakoitzak oinarrizko eskubideetan duen eraginaren ebaluazioa eta auditoria independenteak izango ditu, Adimen Artifiziala Gainbegiratzeko Espainiako Agentziaren (AESIA) gainbegiratzepean, eta AAren Europako Erregelamendua beteko du. Urtero akatsen txosten bat argitaratuko dugu, zenbat laguntza eman, ukatu edo berrikusi diren eta zer akats-tasarekin adierazita. Ukapen bat ere ez du makina batek bakarrik erabakiko: beti pertsona batek berrikusiko du.
+@@@ d21-0104
+@h
+Zergak igo eta jaitsi gabe: sistema progresibo, garden eta sinple bat
+@t
+Zergak dira Ongizate Estatuaren bizkarrezurra. Baina gaur egun gure zerga-sistema ulertzen zaila da, abisatu gabe aldatzen da, berdin tratatzen ditu laukitxo batean huts egiten duen herritarra eta jakinaren gainean iruzur egiten duena, eta Europaren aurrean atzera egiten ari da: Espainia 29. postutik 34.era jaitsi da ELGAko 38 herrialdeen artean zerga-lehiakortasunean. Albiste ona da ez dela zergak igo edo jaitsi behar askoz hobeto egiteko: nahikoa da sistema progresibo, garden, neutral eta sinple bat, betetzen duena errespetuz tratatzen duena eta bere indar guztia tranpak egiten dituenarengan biltzen duena. Bidezkoa dena ordaintzea eta ordaintzen duzuna ulertzea.
+@q
+ez dela zergak igo edo jaitsi behar askoz hobeto egiteko: nahikoa da sistema progresibo, garden, neutral eta sinple bat
+@@@ d21-0105
+@h
+Zergadunaren Ordainagiria: ordaindutakoaren eta haren helmugaren urteko xehapena
+@t
+- **Zergadunaren Ordainagiria:** edozein zergadunen galdera handiak erantzunik gabe jarraitzen du: nora doa nire dirua? Urtero, herritar bakoitzak bere mugikorrean jasoko du ekarritakoaren (PFEZ, gizarte-kotizazioak eta BEZ zenbatetsia) eta haren helmugaren xehapen digital eta interaktibo bat: "Zure 8.000 €-etatik, 2.800 €-k Osasuna finantzatu zuten, 1.200 €-k Hezkuntza…". Galdetegi azkarrak izango ditu, herritarrek ordaintzen dituzten zerbitzuak denbora errealean balora eta audita ditzaten.
+@@@ d21-0106
+@h
+Errenta klik batean: Ogasunak aitorpen sinpleak prestatu eta aurkezten ditu
+@t
+- **Errenta Klik Batean:** Ogasunak badaki jada gure datu gehienak, baina laukitxoak berrikusten, aitorpen sinpleengatik gestoriei ordaintzen eta kenkariak ezagutzen ez ditugulako galtzen jarraitzen dugu. Errenta sinpleak dituztenentzat, Ogasunak aitorpen osoa prestatu eta aurkeztuko du: epea igarota ezer aldatzen ez baduzu, eginda dago. Ofizioz aplikatuko ditu dagozkizun estatuko eta autonomia-erkidegoetako kenkari guztiak, administrazioek dagoeneko dituzten datuak gurutzatuz, eta Ogasunaren gutun orok esaldi argi batekin hasiko da: zer gertatzen den, zer egin behar duzun eta zer epetan. Eta laguntzaile ofizial batek, 24 orduetan eskuragarri, zure zalantzak argituko ditu hizkera argian: Ogasunak esan bazizun, balio du, eta haren erantzunei jarraitzen diena ezin izango da zigortu.
+@@@ d21-0107
+@h
+Akatsa egiteko eskubidea: zuzenketa gidatua, zehapenik gabe, fede txarrik ez dagoenean
+@t
+- **Huts Egiteko Gure Eskubidea:** ezin da gogortasun berarekin zigortu laukitxo batean huts egiten duen herritarra eta jakinaren gainean iruzur egiten duena. Zergei buruzko Lege Orokorra aldatuko dugu Akatsa Egiteko Eskubidea aitortzeko: fede txarrik ez badago, ezta legez kontra aberasteko asmorik ere, Administrazioak zuzenketa gidatuko aldi bat eskainiko du, zehapenik gabe.
+@@@ d21-0108
+@h
+PFEZaren tarteak eta gutxienekoak urtero legez eguneratzea KPIaren arabera
+@t
+- **Inflazioak Ez Ditzala Zure Zergak Igo:** zure soldata prezioen erritmoari jarraitzeko bakarrik igotzen bada, gaur egun PFEZean tartez jauzi egin dezakezu eta gehiago ordaindu, aberatsagoa ez izan arren, estatuko eskala ez delako inflazioarekin eguneratzen. Legez, tarteak, gutxieneko pertsonalak eta familiarrak eta murrizketak urtero eguneratuko dira KPIaren arabera, beti hurrengo urtarrilaren 1etik aurrera eta atzeraeraginik gabe. Ogasunak ez du gehiago bilduko atzeko atetik.
+@q
+Legez, tarteak, gutxieneko pertsonalak eta familiarrak eta murrizketak urtero eguneratuko dira KPIaren arabera
+@@@ d21-0109
+@h
+Urtebete baino gutxiagoko aktiboen irabaziek lanak bezala ordainduko dute zerga
+@t
+- **Epe Laburreko Espekulazioa, Lana Bezala:** duela hiru aste erositako akzio bat saltzeak gaur egun aurrezkiaren eskalan ordaintzen du zerga, %19tik %30era, askotan langile batek bere soldatako euro gehigarri bakoitzeko ordaintzen duena baino gutxiago. Urtebete baino gutxiagoz edukitako aktiboak saltzeagatiko irabaziek lanaren errenten moduan ordainduko dute zerga, 2014ra arte gertatzen zen bezala. Epe luzeko inbertsioak, enpresak eta aurrezkia eraikitzen dituenak, gaur egungo tratamendua mantenduko du.
+@q
+Urtebete baino gutxiagoz edukitako aktiboak saltzeagatiko irabaziek lanaren errenten moduan ordainduko dute zerga, 2014ra arte gertatzen zen bezala.
+@@@ d21-0110
+@h
+Ogasunak AArekin egiaztatuko ditu startupentzako eta I+Grako pizgarriak, hilabete batean
+@t
+- **Erabil Daitezkeen Pizgarriak:** Espainiak startupentzako pizgarriak eta I+Gko kenkariak ditu, baina haien baldintzak hain dira konplexuak, ezen ekintzaile askok uko egiten baitiote aplikatzeari. Ogasunak zure ordez egiaztatuko du, adimen artifizialarekin eta Administrazioak dagoeneko dituen datuekin, pizgarri bakoitzaren baldintzak betetzen dituzun, eta erantzun loteslea emango dizu gehienez hilabeteko epean.
+@@@ d21-0111
+@h
+Ikuskapena iruzur handian biltzea, ez Bizumean
+@t
+- **Benetako Iruzurraren Atzetik Joan, Ez Bizumaren Atzetik:** herritar askok beldur diote Ogasunari laukitxo bateko akats batengatik edo lagunen arteko Bizum batengatik, iruzur-poltsa handiak hor jarraitzen duten bitartean: ezkutuko ekonomia, BEZeko sare antolatuak, ondare ezkutua eta kriptoaktiboak. Ikuskatzaileak eta datu-analisia benetako iruzurra dagoen tokian bilduko ditugu, 2026tik eskuragarri dagoen kriptoaktiboei buruzko Europako informazio berria ahalik eta gehien aprobetxatuz, eta urtero aginte-koadro ireki bat argitaratuko dugu, ikuskapenean inbertitutako euro bakoitzak berreskuratzen duena jasoko duena. Esku luzatua betetzen duenari, esku irmoa iruzur egiten duenari.
+@@@ d21-0112
+@h
+Zerga-onurak ebaluazioarekin eta iraungitze-datarekin, eta zerga bereziak EBrekin parekatuta
+@t
+- **Zerga-onura Bakoitza, Iraungitze-datarekin:** Espainiak urtean 60.000 milioi euro inguru bideratzen ditu zerga-onuretara (kenkariak, salbuespenak eta tasa murriztuak), eta horietako asko ez dira inoiz ebaluatzen. Guztiek izango dute helburu neurgarri bat eta ebaluazio independente bat: betetzen ez badute, desagertu egingo dira eta haien kostua sistemara itzuliko da. Zerga bereziak ere berrikusiko ditugu (ingurumenekoak, tabakoaren gainekoa eta gainerakoak), Europar Batasunarekin parekatzeko, iragarritako egutegi batekin eta ustekaberik gabe.
+@@@ d21-0113
+@h
+Zerga-aldaketak urtarrilaren 1ean bakarrik, sei hilabete lehenago iragarrita eta atzeraeraginik gabe
+@t
+- **Arau Egonkorrak:** zerga-arauak urte erdian aldatzen dira, batzuetan dagoeneko hasitako ekitaldien gainean, eta horrek segurtasunik eza eta auziak sortzen ditu. Zerga-aldaketak urtarrilaren 1ean bakarrik sartuko dira indarrean, gutxienez sei hilabete lehenago iragarriko dira eta ez dute inoiz atzeraeraginik izango.
+@@@ d21-0114
+@h
+Diagnostikoa: urtean milioi bat orrialde arautegi baino gehiago
+@t
+Espainia ekiten duena itotzen duen eta gure gizartearen talentua galgatzen duen hiperarauketa-oihan bihurtu da. Urtero 1.000.000 orrialde arautegi baino gehiago argitaratzen dira Estatuaren eta autonomia-erkidegoen artean. Labirinto honek ez gaitu babesten: marruskadura burokratikoa (sludge) sortu eta merkatua zatitu besterik ez du egiten. Arauak sinplifikatu, merkatu nazionala harmonizatu eta oztopo izateari utziko dion Estatu arin bat sortu behar dugu.
+@@@ d21-0115
+@h
+Oztopoen Auditoria, justifikaziorik gabeko arauak eta izapideak 12 hilabetean indargabetzeko
+@t
+- Oztopoen Auditorietarako Estatuko Programa bat abiaraziko dugu, **babes publikoko justifikazio argirik ez duen arau edo izapide oro 12 hilabeteko epean indargabetzeko.** ELGAren sludge audit (marruskadura burokratikoaren auditoria) murrizketa-metodologia erabiliz, enpresa-sektoreak, ETEak, autonomoak eta gizarte-eragileak zuzenean inplikatuko ditugu, gure denboratik orduak kentzen dizkigun eta inbertsioa eta ekintzailetza galgatzen dituen traba bakoitza identifikatu eta erauzteko. Helburua da Administrazioak herritarrei eta enpresei ezartzen dizkien beharrezkoak ez diren oztopoak identifikatu, neurtu eta ezabatzea: izapide erredundanteak, dokumentazio errepikatua, baimen justifikatu gabeak, gehiegizko epeak, prozedura nahasgarriak eta baliorik ematen ez duten administrazio-kostuak.
+@@@ d21-0116
+@h
+Sinplifikazioa sektore ekonomikoen arabera, enpresen eta autonomoen parte-hartzearekin
+@t
+- Lan hau **sektore ekonomiko bakoitzerako jarduera-ildo espezifikoen bidez** antolatuko dugu, lehentasun-egutegi bati jarraituz. Espainiak dagoeneko posizio lehiakor nabarmena duen sektoreetatik hasiko gara. Gure etorkizun ekonomiko, teknologiko eta industrialerako sektore estrategikoekin jarraituko dugu, eta metodologia pixkanaka gainerako jarduera ekonomikoetara zabalduko dugu.
+Sektore-ildo bakoitzak enpresen, autonomoen, profesionalen eta elkarte ordezkagarrien parte-hartze zuzena izango du, lan-mahaien, kontsulta publiko irekien eta traba zehatzak jakinarazteko eta irtenbideak proposatzeko mekanismo digitalen bidez. Estatuko, autonomia-erkidegoetako eta tokiko administrazioak ere inplikatuko ditugu, karga burokratiko asko gobernu-maila desberdinen arteko betekizunen metaketatik baitatoz.
+Emaitza sinplifikazio-programa jarraitu bat izango da, helburu neurgarriekin, arduradun identifikatuekin eta epe publikoekin, zenbat izapide ezabatzen diren, zenbat denbora aurrezten den eta herritarrentzako eta enpresentzako kostuak zenbat murrizten diren egiaztatzeko aukera emango duena.
+@@@ d21-0117
+@h
+Desburokratizazioa hilabetez hilabete neurtuko duen panel digital publikoa
+@t
+- Herritar guztientzat irisgarria izango den panel digital bat sortuko dugu, eta bertan **hilabetez hilabete monitorizatuko da desburokratizazioaren aurrerapena** sektorez sektore, ezabatutako izapideak, lan-ordutan zenbatetsitako aurrezpena eta eremu ekonomiko bakoitzean sinplifikatutako arauak ikusgai jarriz.
+@@@ d21-0118
+@h
+Erkidego batean onartutako lizentziek eta tituluek Espainia osoan balioa izatea
+@t
+- Autonomia-erkidegoek kudeaketa herritarrengana hurbiltzeko balio behar dute, inoiz ez ekonomia zatitzeko. **Europar Batasunaren Elkarrekiko Aitorpenaren printzipioetan inspiratutako Araudia Harmonizatzeko Programa bat** ezarriko dugu: autonomia-erkidego batean onartutako edozein lizentzia, homologazio, titulu edo betekizun automatikoki izango da baliozkoa lurralde nazional osoan.
+@@@ d21-0119
+@h
+Beste eskualde batzuetan jarduteko izapideak errepikatzea edo tasa bikoiztuak ordaintzea debekatzea
+@t
+- Legez debekatuko dugu enpresa edo profesional batek **administrazio-izapideak errepikatu edo tasa bikoiztuak ordaindu** behar izatea Espainiako eskualde desberdinetan jarduteko, barne-merkatu arin eta erakargarria bermatuz inbertsio nazional eta nazioartekoarentzat.
+@@@ d21-0120
+@h
+Diagnostikoa: politizazioak Administrazioaren maila teknikoak kolonizatu ditu
+@t
+Alderdien eraginak eta politizazioak Administrazioaren maila tekniko guztiak kolonizatu dituzte, profesionalen karrera itoz eta prekarietatea eta ziurgabetasuna sortuz. Gainera, gure zerbitzari publikoak konpartimentu isolatuetan funtzionatzen duten iraganeko egiturek galgatuta jarraitzen dute. Iritsi da Administrazio arin, profesional eta independente bat eraikitzeko unea, non talentuak eta merituak alderdi-txartela ordezkatuko duten, eta non enplegatu publikoek prestigioa eta tresnarik onenak izango dituzten 21. mendeko erronkei erantzuteko.
+@@@ d21-0121
+@h
+Estatu idazkariaren azpiko izendapen diskrezionalak ezabatzea
+@t
+- **Talentu Publikoarentzako Erreserba Esklusiboa:** Estatuaren makineriak gaitasun tekniko handienarekin funtziona dezan bermatzeko, kudeaketak ezin du afinitate politikoen mende egon. Estatu Idazkariaren mailaren azpiko izendapen diskrezionalei sarrera-atea itxiko diegu, eta karrerako funtzionario ez diren pertsonak Zuzendari Nagusi izendatzea ahalbidetzen duen lege-salbuespena ezabatuko dugu. Administrazioaren zuzendaritza teknikoa zerbitzari publiko onenek bakarrik gauzatuko dute, haien autonomia, independentzia eta jarraitutasuna bermatuz.
+@@@ d21-0122
+@h
+Zuzendaritza nagusiak lehiaketa bidez betetzea, lau urteko agintaldiekin
+@t
+- **Europako Ereduaren Araberako Hautaketa eta Agintaldi Blindatuak:** Zuzendaritza eta Zuzendariordetza Nagusiak lehiaketa publiko bidez beteko dira, batzorde profesional eta independenteek ebaluatuta (goi-funtzionarioek eta profil akademikoek osatuak, Europako erakundeetan dagoeneko gertatzen den bezala). Teknikariek alboratuak izateko beldurrik gabe lan egin eta erabakiak hartu ahal izan ditzaten ziurtatzeko, lau urteko agintaldi egonkorrak izango dituzte (behin bakarrik luzagarriak), eta legean zehaztutako kausa objektiboengatik bakarrik kendu ahal izango dira karguetatik; kausa horien artean ez da egongo Gobernu, ministro/kontseilari edo Estatuko/autonomia-erkidegoko idazkari aldaketa.
+@@@ d21-0123
+@h
+Elkarrizketa-mahaia, TREBEP eta enplegu publikorako sarbidea erreformatzeko
+@t
+- **Enplegu Publikorako Sarbidearen Erreformarako Elkarrizketa eta Etorkizun Mahaia:** karrerako funtzionarioen, bitarteko-kolektiboen, sindikatuen, akademikoen eta talentuaren kudeaketan eta Europako administrazio-zuzenbidean adituen ordezkariak deituko ditugu, Enplegatu Publikoaren Oinarrizko Estatutuaren Legearen (TREBEP) eta arau osagarrien erreforma baten izapidetzea abiarazteko. Adostasun handi horren helburua bikoitza izango da: gerora sortutako prekarietateari eta behin-behinekotasunari irtenbide bidezko eta segurtasun juridikoduna egituratzea, eta belaunaldi-erreleboa gure erakundeetan bermatuko duen sarbide-esparru moderno bat diseinatzea.
+@@@ d21-0124
+@h
+Enplegu publikorako sarbidea modernizatzea eta STEM profilen sarrera arintzea
+@t
+- **Sarbidearen Bilakaera eta Talentu Publikoaren Erakarpena:** legeria berriak Europako estandarrik onenekin homologatutako sarbide-sistema bat batera diseinatzea bilatuko du, egungo sistemaren zorroztasuna kasu praktikoen ebazpena eta gaitasun digitalak txertatzen dituzten metodologia arinekin osatuz. Hautaketa-prozesuak arinduko ditugu eta profil teknikoen eta STEM profilen (Zientzia, Teknologia, Ingeniaritza eta Matematika) premiazko sarrera erraztuko dugu. Helburua izango da herritarrarentzako zerbitzua, arazoen ebazpena eta gaitasun digitalak erdigunean jartzea, aukera-berdintasuna bermatuz eta Espainiako sektore publikoaren parte izateko pertsona konprometituenak eta prestatuenak erakarriz.
+@@@ d21-0125
+@h
+Administrazioan «misioen araberako lana» egiteko talde transbertsalak sortzea
+@t
+- **Sail Hermetikoekin Haustea:** egungo Administrazioak elkarren artean gutxitan komunikatzen diren konpartimentu itxietan funtzionatzen du. Eredu hori aldatzea proposatuko dugu, "misioen araberako lana" bultzatuz: talde arin eta transbertsalak sortuz, non sail eta administrazio desberdinetako adituek elkarrekin lan egingo duten proiektu berean (adibidez, etxebizitza eskuratzea edo berrikuntza teknologikoa), arazoak eta krisiak modu zuzenagoan eta koordinatuagoan konponduz.
+@@@ d21-0126
+@h
+Jarduna ebaluatzea eta errendimendua ematen duen zerbitzari publikoari pizgarri ekonomikoak ematea
+@t
+- **Jardun Onaren Aitorpena eta Karrera Profesionala:** ahalegina bereizten ez duten eredu lauak atzean utziko ditugu. Karrera profesionaleko eta jardunaren ebaluazioko sistema moderno bat garatuko dugu, errendimendua ematen duen, arazoak konpontzen dituen eta herritarrarentzako arreta hobetzen duen zerbitzari publikoa aitortuko duena eta hari pizgarri ekonomikoak emango dizkiona, motibazioa eta bikaintasuna Estatuko maila guztietan sustatuz.
+@@@ d21-0127
+@h
+Diagnostikoa: eraikitakoa zaintzeari utzi dion Estatua
+@t
+Inoiz sentitu baduzu Espainian gauzek jada ez dutela lehen bezala funtzionatzen, ez zara bakarra. Garaiz iristen ez diren trenak, hondatzen ari diren errepideak, hogeita hamar urtean ia hazi ez diren soldatak eta hemen aurkitzen ez dutena aurkitzeko kanpora joan behar duten gazteak. Baina huts egiten duena ez da herrialdea: guztion artean eraiki duguna zaintzeari utzi dion Estatua da. **Guk Espainia bat nahi dugu, ondoen egiten dakienari esker berriro aurrera egingo duena: bere jendearen talentua, ahalegina eta ezagutza.**
+@@@ d21-0128
+@h
+Helburuak: hezkuntza, soldatak, ETEak, autonomoak, zientzia eta azpiegiturak
+@t
+Izan ere, espainiarrok lau hamarkadatan Europako azpiegitura-sare onenetako bat eraiki genuen, mundu-mailako lehen mailako ikertzaileak prestatu ditugu eta ekonomiari milioika ETE eta autonomorekin eusten diogu. **Behin egin genuena berriro egin dezakegu, eta hobeto. Hezkuntzan inbertitzen duen, ekiten duena saritzen duen eta eraikitzen duena kontserbatzen duen herrialdea soldatak igotzen diren eta aukerak etxean geratzen diren herrialdea da. Eta ahaleginak berriro merezi izatea lortuko dugu.**
+- Hezkuntza erdigunean jarriz, haur-eskolatik unibertsitatera eta LHra.
+- Soldata altuagoekin, ekonomia produktiboago batek bultzatuta.
+- Galgarik eta oztopo alferrikakorik gabe hazten diren ETEekin.
+- Irabazten dutenagatik ordaintzen duten eta 21. mendeko eskubideak dituzten autonomoekin.
+- Zentzuzko migrazio-politika batekin, eta itzuli nahi duten espainiarrei ateak irekita.
+- Gure zientzialariengan konfiantza izanez, merezi duten inbertsioarekin, autonomiarekin eta karrerarekin.
+- Eta azpiegitura seguruak berreskuratuz, ondo kontserbatuak eta datuekin planifikatuak, ez promesekin.
+@@@ d21-0129
+@h
+Diagnostikoa: hezkuntza motor gisa eta PISA 2025eko emaitzarik txarrenak
+@t
+_Hezkuntzak guztiaren erdigunean egon behar du. Edozein gizarteren mugikortasun sozialaren, aukera-berdintasunaren eta aurrerapen pertsonalaren motor nagusia da: beti gure bertsiorik onena izatearen alde egitea, haurtzarotik helduarora arte prestatuz. Gizarte oparo eta etorkizundun bat eraikitzeko bide bakarra da._
+
+_Azken PISA 2025 txostenean Espainiak irakurketan, matematikan eta zientzietan izan dituen emaitza historiko txarrenak, bai eta gure ikasgelen eta mundu-mailan eskatzen ari den prestakuntza-mailaren arteko desdoikuntza ere, anbiziorik gabeko hamarkadetako erreforma alderdikoien ondorio dira._
+@@@ d21-0130
+@h
+Teknologia curriculumaren enborreko eta zeharkako espezialitate gisa txertatzea
+@t
+- **Teknologia Hezkuntza Curriculumaren Oinarrizko Zutabe Gisa Txertatuko Dugu:** bidean garen gizarte teknologikoan, teknologia menderatzea herritar aske izateko joan den mendean irakurtzen eta idazten ikastea izan zen bezain ezinbestekoa da. Liburuak pantailekin ordezkatzera mugatzearen akatsa gainditzen saiatuko gara, eta ezagutza teknologiko aplikatua (AAren oinarriak, zibersegurtasuna, etika digitala, pentsamendu konputazionala, algoritmoak eta sare sozialak) enborreko eta zeharkako espezialitate gisa txertatuko dugu curriculumean, analogikoaren eta digitalaren arteko bizikidetza egokia mantenduz. Helburua herritar kritikoak prestatzea izango da, teknologia etikaz, konfiantzaz eta segurtasunez ulertzeko eta erabiltzeko gai direnak.
+@@@ d21-0131
+@h
+Hezkuntzari laguntzeko AA eredu propio eta auditatua garatzea
+@t
+- **Hezkuntzako Adimen Artifiziala:** gure ikasleak kontrolik gabeko adimen artifizial generikoak erabiltzearen arriskuetatik eta alborapenetatik babesteko, prestakuntza digitaleko ingurune seguru bat bermatuko dugu. Hezkuntzari laguntzeko Adimen Artifizialeko hizkuntza-eredu propio bat garatuko dugu, pentsamendu kritikoa sustatuko duena, Estoniako hezkuntza-eredu arrakastatsuari jarraituz (PISAn Europako 1. postua). Estatuak finantzatu eta auditatuko du. Sistema honek errefortzuko tutore pertsonalizatu gisa jardungo du ikasle bakoitzarentzat, ikasleen aniztasunera egokituz eta haren pribatutasuna bermatuz.
+@@@ d21-0132
+@h
+Komunikatzen, eztabaidatzen eta jendaurrean hitz egiten irakasteko zeharkako programa
+@t
+- **Komunikatzen Jakitea Lehentasun Absolutua Izango Da:** teknologiak ez du itzali behar gure giza komunikaziorako gaitasuna. Ikasgeletan ulermenaren eta ahozko adierazpenaren atzerakadaren aurrean, ikasgai guztietarako zeharkako programa bat ezarriko dugu, segurtasunez komunikatzen irakasteko. Ideiak egituratzen, prozesu deduktiboak argudiatzen, errespetutik eztabaidatzen eta jendaurrean hitz egiten jakitea curriculum-lehentasuna izango da, ikasleei beren gogoetak edozein ingurune pertsonal edo profesionaletan defendatzeko behar duten konfiantza emanez.
+@@@ d21-0133
+@h
+DBHn Kultura Ekonomiko eta Finantzarioko derrigorrezko ikasgai bat sortzea
+@t
+- **Bizitzarako Hezkuntza Ekonomikoa:** gure gazteek ezin dute derrigorrezko hezkuntza amaitu nomina bat irakurtzen eta hipoteka bat ulertzen jakin gabe, edo zerbitzu publikoak zergen bidez nola finantzatzen diren ezagutu gabe. Kultura Ekonomiko eta Finantzarioko derrigorrezko ikasgai berri bat txertatuko dugu DBHn. Haren curriculumak ikuspegi praktikoa izango du eta funtsezko hiru zutabetan egituratuko da: ekonomia pertsonala, ekonomia soziala eta ekonomia profesionala/ekintzailetzarena.
+@@@ d21-0134
+@h
+Eskola-bizikidetzarako Hezkuntza Erantzunkidetasunerako Programa bat sortzea
+@t
+- **Errespetua, Erantzunkidetasuna eta Eskola-bizikidetza:** Hezkuntza Erantzunkidetasunerako Programa bat ezarriko dugu, irakasle, ikasle eta gurasoen artean Eskola Errespetuko ordezkariak izango dituena. Ikasturte bakoitzaren hasieran konpromiso argi eta elkarrekikoak adostuko dira irakasleen, ikasleen eta familien artean. Sari Nazional bat ezarriko da bizikidetza sustatzeko lanagatik nabarmendu diren ikastetxeentzat, eta Tresna-kutxa publiko bat sortuko da urtero hobekien funtzionatzen duten neurriekin, ikastetxe guztiek jardunbide onenak erabili ahal izan ditzaten.
+@@@ d21-0135
+@h
+Tokiko negozioen urteko jardunaldi bat ikasleekin, bisiten eta mikropraktiken bidez
+@t
+- **Ikaskuntza Praktikoa Mundu Errealean:** proposatzen dugu tokiko negozioek, gutxienez urtean behin, eskola-etapan dauden gazteekin harreman zuzena izateari jardunaldi bat eskaintzeko konpromiso zibikoa har dezatela, bisiten, erronken edo mikropraktiken bidez. Belaunaldien arteko kohesio-ariketa bat, bokazioak piztu eta teoria akademikoa gure ehun produktiboaren eguneroko ahaleginarekin lotu ahal izango dituena.
+@@@ d21-0136
+@h
+Espainia 8 urtean PISAko Europako top 10ean kokatzeko plana
+@t
+- **PISA Helburua - Espainia Europako Top 10era**: Hezkuntzako Estatu Plan bat abiaraziko dugu Espainia **PISAren hiru eremuetan (matematika, irakurriaren ulermena eta zientziak) Europako herrialdeen top 10ean** kokatzeko, gehienez 8 urteko epean. Ikasleengan berehalako hobekuntza lortzeko, ikasgai instrumentalei eskainitako orduak handituko dituen berrantolaketa bat bultzatuko dugu. Irakasleekin batera, zientzia kognitiboak eta nazioarteko ebidentziak bermatutako metodologiak ezarriko ditugu: fonetikaren errefortzua, ozen irakurtzea, idazketa sortzailea eta liburu osoak irakurtzearen sustapena; kalkulu mentala eta urratsez urratseko ebazpen logikoa matematikan; eta behaketa, hipotesia eta esperimentazio zuzena zientziak ulertzeko.
+@@@ d21-0137
+@h
+Hezkuntzako graduan diziplina-aipamenak berrezartzea eta Teknologiakoa sortzea
+@t
+- **Espezialitate Berriak:** Hezkuntzako graduan diziplina-aipamenak eta -espezializazioak berrezarriko ditugu (Matematika, Hizkuntza eta Zientziak), eta Teknologiako espezialitate berri bat sortuko dugu. Egungo irakasleen prestakuntza errazteko, etengabeko prestakuntza-planak bultzatuko ditugu, espezialitate berri horietan egiaztatu ahal izan daitezen.
+@@@ d21-0138
+@h
+0-3 etapa pedagogiko gisa sendotzea eta haur-hezitzaileak balioestea
+@t
+- **Haur Hezkuntza (0-3 urte) Lehen Igogailu Sozial Gisa:** ebidentzia zientifikoak ohartarazten du 3 urterekin badagoela jada hiztegiaren eta garapen kognitiboaren arrakala sakon bat haurtzaroan, ingurune sozioekonomikoak baldintzatua. Haur guztiek beren eskola-etapa aukeren oinarri berarekin has dezaten bermatzeko, kontziliaziorako "haurtzaindegi" ikuspegi asistentzialarekin amaituko dugu, eta 0-3 etapa pedagogiko erabakigarriena gisa sendotuko dugu. Haur-hezitzaileak modu nabarian balioetsiko ditugu —haien ordainsaria duinduz, ratioak berrikusiz eta ikasgelan laguntzeko "hezkuntza-bikotea" pixkanaka txertatuz— eta estimulazio goiztiarreko plan berri bat bultzatuko dugu, hizkuntzaren aberastasunean, psikomotrizitatean eta elkarreragin kognitiboan oinarritua.
+@@@ d21-0139
+@h
+Ikastetxe eta institutu publikoak birgaitzeko estatu-plana eta barrakoien amaiera
+@t
+- **Hezkuntza Azpiegiturak Berritzeko Plana:** ikasle edo irakasle batek ere ezin du errendimendurik eman ikasgela zaharkitu edo hondatuetan. Ikastetxe eta institutu publikoak oso-osorik birgaitzeko eta modernizatzeko aparteko estatu-plan bat abiaraziko dugu, eraginkortasun energetikoa, bero- edo hotz-boladen aurreko klimatizazio egokia, barrakoiak behin betiko ezabatzea eta laborategiz, tailerrez eta kalitatezko material teknologikoz hornitzea bermatuz.
+@@@ d21-0140
+@h
+Aldizkako ebaluazio nazionalak eta baliabideak banatzeko Indize Sozioedukatibo bat
+@t
+- **Hezkuntza Laguntzarako Neurketa Sistema:** ezagutzak aldizka ebaluatuko ditugu maila nazionalean, lurralde-arrakalak desagerrarazteko (ez da onargarria autonomia-erkidego batzuk Kanadaren mailan egotea eta beste batzuk Turkiaren mailan). Laguntza- eta errefortzu-programa estatal bat aktibatuko da batez besteko nazionalaren azpitik bi puntu baino gehiago jaisten diren erkidegoentzat. Emaitza horiek behar bezala testuinguruan jartzeko, **Indize Sozioedukatibo** bat sortuko dugu, familien maila sozioekonomikoa, behar espezifikoak dituzten ikasleen kopurua eta bizikidetza-adierazleak neurtuko dituena, ikastetxe bakoitzari dagozkion finantzaketa eta baliabide gehigarriak modu objektiboan zehaztuz.
+@@@ d21-0141
+@h
+Ikastetxeei Errefortzuko Talde Iraunkorrak esleitzea eta irakaskuntza partekatua
+@t
+- **Irakasleei Laguntzeko Ezkutuak:** ikasgelako errealitatea izugarri aldatu da: gaur egun irakasleek bakarka egiten diete aurre gero eta profil anitzagoei, hizkuntza-oztopoei, ikaskuntza-nahasmenduei eta osasun mentaleko erronkei. Indize Sozioedukatiboaren datuak erabiliz, Errefortzuko Talde Iraunkorrak esleituko dizkiegu ikastetxeei (gizarte-hezitzaileak, orientatzaile psikopedagogikoak eta atzerriko hizkuntzetako irakasleak). Aldizkako "irakaskuntza partekatuaren" eredu bat sustatuko dugu, non irakasleak laguntza zuzena izango duen kasu konplexuak kudeatzeko eta taldearen gainerakoaren erritmo akademikoari eusteko.
+@@@ d21-0142
+@h
+Irakasleekin batera antzinatasunean soilik oinarritzen ez den karrera profesional bat diseinatzea
+@t
+- **Meritua eta Ahalegina Aitortzea:** jakitun garelarik irakasleek zer frustrazio eta geldialdi-sentsazio jasaten duten profesionalki aurrera egiteko modu bakarra antzinatasuna metatzea den sistema zurrun batean, entzute aktiboko eta lankidetza zuzeneko prozesu bat irekiko dugu irakasleekin, karrera profesionaleko eredu berri bat batera diseinatzeko. Elkarrekin eraiki nahi dugu, ikasgeletako benetako esperientziatik abiatuta, 21. mendeko irakaskuntzarako progresio-sistema ireki bat, antzinatasunaren eredu esklusiboa atzean utziko duena eta azkenik irakasleen ahalegina eta bokazioa aitortzea, baloratzea eta saritzea ahalbidetuko duena.
+@@@ d21-0143
+@h
+Irakaskuntzako unibertsitate-graduetarako sarbide-probak ezartzea
+@t
+- **Hezkuntza Fakultateetarako Sarbide Probak:** bokazio honen zorroztasuna merezi bezala balioan jarri eta blindatzeko, sarrera-ebaluazio espezifikoak ezarriko ditugu irakaskuntzako unibertsitate-graduetara sartzeko. Izangaiaren komunikazio-gaitasuna, irakurriaren ulermena, idatzizko adierazpena eta profil bokazionala neurtuko dira, irakaskuntzan aritu nahi duenak beti oinarri humano eta akademiko bikaina izango duela bermatuz.
+@@@ d21-0144
+@h
+Bi urteko prestakuntza praktiko ordaindua duen Hezkuntzako MIRa ezartzea
+@t
+- **Hezkuntzako MIRa:** irakasleen prestakuntza eraldatuko dugu osasun-ereduan inspiratutako sistema baten bidez. Hezkuntzako MIRa ezarriko dugu: bi urteko prestakuntza praktiko ordaindua eta erabateko murgiltzea ikastetxe eta institutuetan. Inork ez du ezagutzen ikasgelako errealitatea egunero bertan eskolak ematen dituztenek baino hobeto; horregatik, etapa hau gure egungo irakasleek gidatu eta gainbegiratuko dute. Haiek jardungo dute belaunaldi berrien mentore gisa, beren bizi-esperientzia transmitituz, izangaiei babesa emanez eta tokian bertan etengabeko kalitatezko ebaluazioa bermatuz.
+@@@ d21-0145
+@h
+Ikastetxeen zuzendaritza profesionalizatzea, prestakuntza eta ordainsari espezifikoekin
+@t
+- **Hezkuntza Zuzendaritza Profesionalizatzea eta Babestea:** zuzendariaren figura profesionalizatuko dugu, benetako lider pedagogiko bihur dadin, prestakuntza espezifikoarekin eta bere erantzukizunari dagokion ordainsariarekin. Ikastetxe baten zuzendaritza hartzeak ezin du esan eguneroko arazoen aurrean bakarrik egotea; horregatik, babes instituzionala eta administratiboa bermatuko dugu, zuzendaritza-taldeei behar duten babesa emanez, benetan garrantzitsua denean zentratu ahal izan daitezen: hezkuntza-proiektua bultzatzea eta beren eskola-komunitatea zaintzea.
+@@@ d21-0146
+@h
+Gradu malguak, adarkako lehen ikasturte komunarekin eta unibertsitate arteko ibilbideekin
+@t
+- **Gradu Malguak eta Unibertsitate Artekoak**: ikasketa-planen zurruntasuna hautsiko dugu, lan-errealitate batera egokitzeko, non diziplinen arteko mugak gero eta lausoagoak diren eta arlo desberdinetako ezagutzak etengabe konbinatzen diren. Jakintza-adarren araberako lehen ikasturte komun eta aukerako bat ezarriko dugu, zalantza bokazionalen aurrean ikasketak uztea saihestuko duena. Graduek mikrokredentzialak, aipamen malguak eta beste unibertsitate batzuekiko ibilbideak konbinatzea ahalbidetuko dute.
+@@@ d21-0147
+@h
+Unibertsitate-titulu guztietan praktika tutorizatuak eta ordainduak bermatzea
+@t
+- **Ikaskuntza Praktikoa:** beste herrialde batzuen bideari jarraituz, esperientzia praktikoa sustatuko dugu unibertsitate-prestakuntzaren etapa guztietan, unibertsitatea mundu profesionalera hurbilduz, gazteek prestakuntza akademikoa ez ezik, enplegagarritasunerakoa ere lor dezaten. Gaur egun praktiketarako sarbidea zailtzen duten oztopo burokratikoak eta lan-oztopoak ezabatuko ditugu. Pizgarri-sistema bat diseinatuko dugu, enpresek ikasleei ikaskuntza- eta benetako esperientzia-aukerak eskain diezazkieten, kalitate-, ordainsari-, gainbegiratze- eta gehiegikerien aurkako babes-bermeekin. Titulu guztiek praktika tutorizatuak eta mundu profesionalarekin lotuak izango dituztela bermatuko dugu.
+@@@ d21-0148
+@h
+Unibertsitate publikoen nazioarteko campusak babestea herrialde hispanohiztunetan
+@t
+- **Nazioarteko Hedapena:** unibertsitate publikoen arteko akordioak babestuko ditugu nazioarteko campusen irekieran (batez ere herrialde hispanohiztunetan), gure ikasleen mugikortasun-aukerak biderkatzeko eta gure talentu akademikoa eta eragina nazioartean proiektatzeko.
+@@@ d21-0149
+@h
+Bekak ikasturte hasieran ordaintzea eta azterketa ekonomikoa Ogasunaren esku uztea
+@t
+- **Irailean Garaiz Iritsiko Diren Bekak:** gure beka-sistemak diseinu-anomalia larri bat du: laguntzak lehen lauhilekoaren ondoren iristen dira, eta irailean behar dituzten errenta txikiko ikasleak larriki kaltetzen dituzte. Beken ordainketa ikasturte hasieran bermatuko dugu, egutegi akademikoak udaren aurretik bateratuz, bi urte lehenagoko zerga-errenta ebaluatuz izapideak arintzeko, eta azterketa ekonomikoa Ogasun Ministerioari esleituz, unibertsitateak karga horretatik libratuz.
+@@@ d21-0150
+@h
+Titulazioen Konparatzaile Publiko bat sortzea, laneratzearekin eta soldatekin
+@t
+- **Titulazioen Konparatzaile Publikoa:** karrera bat aukeratzea gure gazteen bizi-erabaki eta erabaki ekonomiko garrantzitsuenetako bat da. Ikasleen eta haien familien aukeraketa datu errealekin orientatzeko, Titulazioen lehen Konparatzaile Publikoa sortuko dugu: estatu-mailako plataforma bat, graduz gradu eta unibertsitatez unibertsitate, modu gardenean erakutsiko dituena ikasleen gogobetetze-maila, 1, 3 eta 5 urtera laneratze-tasak eta haien graduatuen batez besteko soldatak.
+@@@ d21-0151
+@h
+Irakaskuntza Berrikuntzako Seiurtekoa sortzea eta unibertsitate-irakasleen kontratazioa irekitzea
+@t
+- **Irakasle Talentua eta Irakaskuntza Berrikuntzako Seiurtekoa**: irakasleen kontratazioa nazioarteko estandarretara eta kanpoko epaimahai independenteetara irekiko dugu, munduko ikertzailerik onenak atxikitzeko eta erakartzeko. Ikerketarekin batera, irakaskuntzaren prestigioa sustatuko dugu Irakaskuntza Berrikuntzako Seiurteko espezifiko bat sortuz, soldatan eta sustapenean eragina izango duena, bikaintasun pedagogikoagatik eta mentoretzagatik nabarmentzen direnak saritzeko. Era berean, gizarte zibiletik eta ehun produktibotik datozen irakasle elkartuen kontratazio arina erraztuko dugu.
+@@@ d21-0152
+@h
+LHko irakasleentzako soldata-osagarria eta esperientzia teknikoaren araberako sarbidea
+@t
+- **Irakasle Talentuaren Erakarpena eta Egonkortasuna LHn:** LHko prekarietateari eta langileen gehiegizko errotazioari aurre egingo diegu, zenbait ikastetxetan urtean %80 gainditzen baitu. Irakasle-poltsetarako sarbidea erreformatuko dugu, lehentasun osoa emanez benetako sektore produktiboko esperientzia teknikoari, proba praktikoak teorikoak baino pisu handiagoa izango duen oposizioekin. Profesional horiek enpresa pribatura ihes egin ez dezaten, soldata-osagarri espezifiko bat sortuko dugu, espezialitate kritikoetan (robotika, informatika, automozioa edo industria-mantentzea) talentua atxikiko duena, merkatuko soldatei indexatua.
+@@@ d21-0153
+@h
+LHko praktikak bigarren ikasturtera eramatea eta Sektoreko Tutore Partekatua sortzea
+@t
+- **LHren Malgutzea eta ETEentzako Tutore Partekatua:** LHren egutegia erreformatuko dugu, lehen ikasturtean praktikak egiteko derrigortasuna kentzeko eta, lehenespenez, bigarren ikasturtera eramateko, enpresarako sarbidea legez baldintzatuz ikasleak eskatutako ezagutza guztiak bereganatu eta frogatu izanari. Gainera, eredua ETE espainiarren errealitatera egokitzeko, Sektoreko Tutore Partekatuaren figura sortuko dugu, administrazioak finantzatua, bakarrik tutoretza egin ezin duten enpresa txikiei laguntzeko.
+@@@ d21-0154
+@h
+Enpresa Itzulerako Kredituak sortzea, prestakuntza ematen duten ETE eta autonomoentzat
+@t
+- **Enpresa Itzulerako Kredituak - Prestakuntza Ematen Duena Saritu eta Konpentsatu**: talentu gazteari ateak irekitzen dizkioten ETEen eta autonomoen gizarte-funtzioa aitortuko dugu, teknologiak junior profilen zereginak azkar eraldatzen dituen ingurune batean. Enpresa Itzulerako Kredituak sortuko ditugu: sistema horretan, ETEek saldoa metatuko dute ziurtatutako mentoretza- eta tutoretza-ordu bakoitzeko, eta saldo hori trukagarria izango da zerga-kenkari zuzenengatik, langile propioentzako prestakuntzagatik, LHko tailer publikoetarako sarbideagatik edo kontratazio publikoko puntuazio gehigarriagatik.
+@@@ d21-0155
+@h
+LHren urte anitzeko finantzaketa eskariaren arabera, hiru urtean behin berrikusgarria
+@t
+- **LHrentzako Urte Anitzeko Finantzaketa Estrategikoa:** urte anitzeko aurrekontu-eredu bat ezarriko dugu —hiru urtean behin berrikusgarria—, plazetako, azpiegituretako, materialetako eta irakasleetako inbertsioa eskariaren hiru ardatz estrategikoren arabera finkatuko duena: ikasleen interesa, enpresa-ehunaren benetako kontratazio-beharrak eta sektore estrategiko nazionalak (enplegu osoko titulazioetako itxaron-zerrendak behin betiko amaituz).
+@@@ d21-0156
+@h
+18 urteko gazte bakoitzarentzat 500 euro inguruko Prestakuntza Itsulapikoa
+@t
+- Gazte Kultura Bonua eta Verano Joven **Gazteentzako Prestakuntza Itsulapiko** batean integratuko ditugu, Espainian 18 urte betetzen dituzten pertsona guztiei zuzendua. Bi ekimen horietara gaur egun urtean bideratzen diren 300 milioi euroak banakako kontu digital batean integratuko dira, **gazte bakoitzeko 500 euro inguru** izango dituena, unibertsitateko edo lanbide-heziketako matrikuletan, kultura-prestakuntzan, ziurtagiri profesionaletan, hizkuntzetan, prestakuntza teknologikoan, oposizioetan, jarduera artistikoetan eta ikasketa-materialetan erabiltzeko modukoa. Espainian bizi diren 18 eta 30 urte bitarteko pertsona guztietara zabaltzea ere ebaluatuko dugu.
+@@@ d21-0157
+@h
+Diagnostikoa: soldata errealak %2 bakarrik hazi dira 30 urtean
+@t
+_30 urtean Espainiako soldata errealak %2 eskas hazi dira (ELGAko batez bestekoa baino hamaika aldiz gutxiago!). Geldialdi kroniko honek ez gaitu pobretu bakarrik; belaunaldi oso baten bizi-proiektua ere zapuztu du. Iritsi da gure politika ekonomikoari erabateko bira emateko eta herrialdearen indar guztiak geroraezina den helburu batean biltzeko unea: produktibitatea handitzea, lanaren gaineko zerga-kargak murriztea eta Espainiako soldatak gure gizarteak merezi duen indarrarekin eta duintasunarekin haztea._
+@@@ d21-0158
+@h
+AA Integratzeko Estatuko Plana, produktibitatea hobetzeko
+@t
+- **Adimen Artifiziala Dinamizatzeko eta Integratzeko Estatuko Plana:** AA Dinamizatzeko eta Integratzeko Estatuko Plan bat zabalduko dugu maila nazionalean, **gure produktibitatea sektore guztietan hobetzeko.** Sektore bakoitzeko enpresak eta gizarte-eragileak inplikatuko dira, AA integratzeko ezagutza eta jardunbide egokiak transmititzea erraztuz, gure lehiakortasuna sektore guztietan hobetzeko helburuarekin, bai sektore teknologikoan, bai tradizionalenetan. Aldi berean, AAk enpleguan duen eraginaren monitorizazio-sistema aurreratu bat abiaraziko da, neurri zuzentzaileak edo laguntza-neurriak bizkor hartu ahal izateko, desdoikuntza sozialak arintzeko eta beste arlo batzuetako politikak egokitzeko, hala nola hezkuntzan.
+@@@ d21-0159
+@h
+%5eko PFEZa produktibitate-bonusentzat, 5.000 €-ra arte
+@t
+- **Benetako Produktibitateagatiko Soldatarako Zerga Pizgarria:** ahalegina eta berrikuntza berehala nominan islatu daitezen, produktibitatearen igoera objektibo eta egiaztagarriei lotutako soldata-pizgarriek eta -bonusek langilearen PFEZean %5eko tasa bakarrean ordainduko dute zerga, urtean 5.000 €-ra arte. Gaur egun batez beste PFEZaren %5 baino gutxiago ordaintzen dutenentzat, plus horiek ez dute ezer ordainduko zergetan, ezta inolako kenkaririk galaraziko ere. Hobekuntza hori bere langileekin partekatzen duen enpresak %50eko hobaria izango du gehigarri horrengatik Gizarte Segurantzari egiten dion kotizazioan, eta %75era iritsiko da 50 langile baino gutxiagoko ETEetan. Horrela, prozesuak hobetzeak beti ekarriko ditu soldata garbi hobeak eta enpresa lehiakorragoak: 2.000 €-ko bonus bakoitzeko, batez besteko soldata duen langile batek 500 € garbi inguru gehiago jasoko ditu, eta ETE batek ia 500 € aurreztuko ditu kotizazioan.
+@q
+produktibitatearen igoera objektibo eta egiaztagarriei lotutako soldata-pizgarriek eta -bonusek langilearen PFEZean %5eko tasa bakarrean ordainduko dute zerga, urtean 5.000 €-ra arte.
+@@@ d21-0160
+@h
+LGSrako Organo Tekniko Independentea, medianaren 2/3ko helburuarekin
+@t
+- **LGSren Eguneratzea Organo Tekniko eta Independente Baten Bidez:** Lanbide arteko Gutxieneko Soldataren finkapena despolitizatuko dugu, Organo Tekniko Independente baten bidez, urtero testuinguru makroekonomikoa, produktibitatea eta soldata mediana ebaluatuko dituena (inflazioagatiko berrikuspen-klausulak eta kolektibo kalteberentzako "zuhurtzia-iragazki" espezifikoak barne, hala nola gazteentzat edo enpresa txikientzat). Urte anitzeko ibilbide bat ezarriko dugu, LGS gure herrialdeko soldata medianaren 2/3tik behera ez jaisteko helburuarekin, baina enpresei erabateko ziurtasuna eskainiz beren lan-kostuak behar bezala planifikatzeko.
+@q
+Urte anitzeko ibilbide bat ezarriko dugu, LGS gure herrialdeko soldata medianaren 2/3tik behera ez jaisteko helburuarekin
+@@@ d21-0161
+@h
+Sozietateen gaineko zergan kenkaria, soldatak KPItik gora igotzen dituzten enpresentzat
+@t
+- **Soldatak Igotzeak Saria Izango Du:** soldaten hobekuntza bultzatuko dugu zerga-pizgarrien bidez, Sozietateen gaineko Zergan kenkari bat ezarriz beren langileen soldatak KPItik gora handitzen dituzten enpresentzat, langile gazteen soldata-hobekuntzetarako pizgarri indartu batekin. Kenkaria benetako soldata-igoeraren gainean kalkulatuko da, langileen erosteko ahalmena hobetzen gehien laguntzen duten enpresek zerga-onura handiagoa lor dezaten. Sistema automatikoa eta sinplea izango da, Zerga Agentziak eta Gizarte Segurantzak dagoeneko dituzten soldata- eta kotizazio-datuak erabiliz, enpresentzako aitorpen edo betebehar administratibo berririk gabe.
+@q
+Sozietateen gaineko Zergan kenkari bat ezarriz beren langileen soldatak KPItik gora handitzen dituzten enpresentzat
+@@@ d21-0162
+@h
+Kontratazio publikoan soldata duinak dituzten hitzarmen kolektiboak eskatzea
+@t
+- **Erosketa Publiko Eredugarria - Euro Publiko Bat Ere Ez Soldata Prekarioak Dituzten Enpresentzat:** Estatuak eredu emango du, kontratazio publikoko baldintza-agiri guztietan —batez ere esku-lan handiko zerbitzuetan, hala nola garbiketan, segurtasunean, garraioan edo eraikuntzan— soldata duinak dituzten hitzarmen kolektiboak zorrotz eta ziurtatuta betetzea legez eskatuz. Gizarte Segurantzarekin datuak gurutzatzen dituzten auditoria automatikoen bidez, soldata-arloko _dumping_ bidez lehiatzen saiatzen den edozein enpresa lizitatzaile zigortuko dugu edo haren kontratuak suntsiaraziko ditugu, nazionala zein atzerrikoa izan.
+@@@ d21-0163
+@h
+Zerga- eta kotizazio-salbuespena, mozkinak langileekin banatzeagatik
+@t
+- **Mozkinak Langileekin Banatzeko Pizgarriak:** arrakasta partekatuaren kultura bultzatuko dugu, langileek mozkinetan parte hartzeko esparru borondatezko eta hobaridun baten bidez. Irabaziak langileekin banatzeko eskema gardenak ezartzen dituzten enpresek zerga- eta kotizazio-salbuespena izango dute zenbateko aldakor horien gainean, betiere baldintza negoziaezin bat betetzen bada: diru gehigarriak ez dezala ordeztu ezta izoztu ere oinarrizko soldata finkoaren aldizkako igoera, gutxieneko soldata-maila sendo bat eta langile guztien hazkunde kolektiborako irekita dagoen diru-sarreren sabai bat bermatuz.
+@@@ d21-0164
+@h
+Diagnostikoa: arau-trabek, kargek eta finantzaketa faltak ETEak galgatzen dituzte
+@t
+ETEak dira Espainiako bihotz produktiboa: 4tik 3rentzat haztea da lehentasun nagusia, baina hazkunde hori galgatuta ikusten dute arau-trabengatik, lan- eta zerga-kargengatik eta finantzaketa-zailtasunengatik. Gure egungo ereduak haien anbizioa zigortzen du eta enplegu gehiago eta hobeak sortzeko gaitasuna galgatzen du. Iritsi da ordua Estatuak karga izateari utz diezaion eta bidea erraz dezan, gure enpresa txiki eta ertainak galgarik gabe hazi eta merkatu berriak konkista ditzaten.
+@@@ d21-0165
+@h
+Sozietateen gaineko zerga %5ean ETEetan berrinbertitutako mozkinentzat
+@t
+- **Sozietateen gaineko Zerga %5ean ETEetan Berrinbertitutako Mozkinentzat:** ETEentzako sozietateen gaineko zerga %5ekoa izango da enpresaren barruan geratzen diren mozkin guztien gainean. Enpresa txiki eta ertainek ez dute euro bakar bat ere gehiago ordainduko zerga honengatik, beren irabaziak hazteko, langileak kontratatzeko, soldatak igotzeko, digitalizatzeko edo erreserbak metatzeko berrinbertitzen dituzten bitartean. Dibidenduak banatzea erabakitzen duten unean bakarrik ordainduko dute zerga modu arruntean.
+@q
+ETEentzako sozietateen gaineko zerga %5ekoa izango da enpresaren barruan geratzen diren mozkin guztien gainean.
+@@@ d21-0166
+@h
+Arau-atalaseak «arrapala progresibo» batekin eta ETE Test batekin ordeztea
+@t
+- **“Maila Efektua”tik “Arrapala Progresiboa”ra:** fakturazio- edo langile-atalaseak gainditzean enpresen hazkundea desanimatzen duten arau-jauzi bortitzak arrapala moduko trantsizio-eredu batekin ordeztuko ditugu. Arau berri orok nahitaezko "ETE Testa" izango du, hazkundea itomen burokratikoarekin zigortu ez dadin, eta eskakizun berriak pixkanaka aplikatuko dira, urte anitzeko erreferentzia-aldiekin eta egokitzeko epe zabalekin.
+@@@ d21-0167
+@h
+Bigarren Aukera erreformatzea, ekintzaileentzako ordainketa-plan errealistekin
+@t
+- **Benetako Bigarren Aukera Beldurrik Gabe Ekiteko:** ekitea eta porrot egitea ezin da betiko espetxe-zigorra izan. Bigarren Aukeraren mekanismoaren erreforma bat onartuko dugu, ordainketa-plan errealistak, zor publikoaren tratamendu proportzionatua eta berrekintzailetzarako laguntza eraginkorra bermatzeko. Gure araudia Europar Batasunarekin lerrokatuko dugu babes judiziala indartuz, estropezu egin duten ekintzaileek berriro aberastasuna sortu ahal izan dezaten.
+@@@ d21-0168
+@h
+Lan-baimen berrien aurrean, 2 urteko trantsizioa mikroenpresentzat gainkosturik gabe
+@t
+- **Lan Esparru Proportzionala:** lan-eskubideak ezin dira finantzatu negozio txikienak itoz. Estatuak baimen berri bat onartzen badu, 2 urteko egokitzapen-aldi iragankor bat gaitu beharko du, eta aldi horretan Estatuak bermatu behar du mikroenpresek ez dutela gainkostua beren gain hartzen.
+@@@ d21-0169
+@h
+Enpresa bat ordubetean sortzea, %100 digitala den protokolo batekin
+@t
+- **Enpresa Bat Sortzea Ordu 1ean - Estoniako Eredua Espainian:** %100 digitala eta azkarra den eraketa-protokolo bat ezarriko dugu. Edozein herritarrek bere enpresa ordubetean sortu ahal izango du, Notaritza, Merkataritza Erregistroa, Zerga Agentzia eta Gizarte Segurantza bateratuz, lehenespenez erantzukizunpeko adierazpenarekin eta herrialde osoan estandarizatutako udal-ordenantza batekin osatuta.
+@@@ d21-0170
+@h
+Behin-behineko lizentzia automatikoa, Administrazioak garaiz ebazten ez badu
+@t
+- **Lizentzia Arinak:** enpresa batek eskaera osoa aurkezten badu eta Administrazioak ezarritako epean ebazten ez badu, bere jarduera berehala hasi ahal izango du behin-behineko lizentzia automatiko baten bidez, segurtasuneko edo osasun publikoko kasu zehaztuetan izan ezik.
+@@@ d21-0171
+@h
+Akatsa egiteko eskubidea aitortzea: ETE baten lehen akats formala, zehapenik gabe
+@t
+- **Akatsa Egiteko Eskubidea:** legez aitortuko dugu ETE batek administrazio-izapide batean (zergakoa, lanekoa edo lizentziena) egiten duen lehen akats formal, nahigabeko eta iruzurrik gabekoak zehapen ekonomikorik gabeko zuzenketa bat ekarri behar duela. Estatuak betetzen duten negozioei lagundu eta haiek babestu behar ditu, eta ez haiek lehenespenez errudun gisa tratatu.
+@@@ d21-0172
+@h
+Langabezia-prestazioa kapitalizatzeko bide azkarra, langileek enpresa eskura dezaten
+@t
+- **Ekonomia Soziala - Erretiroak Ez Dezala Enpresa Itxi:** langileek enpresa bideragarrien jarraitutasuna aztertzeko duten eskubidea aitortuko dugu, itxiera-, erretiro- edo berregituratze-prozesuen aurrean. Eskubide hori eraginkorra izan dadin, langabezia-prestazioaren kapitalizazioa erreformatuko dugu, bide azkar bat sortuz, langileei beren ordainketa bakarra denbora errekorrean biltzeko aukera emango diena, enpresa eskuratu eta kooperatiba edo lan-sozietate bihurtzeko, beren lanpostuak salbatuz. Gainera, abal publikoen ildo bat izango dute, eta beren langileei saltzen dieten jabeek zerga-pizgarri zuzen bat izango dute.
+@@@ d21-0173
+@h
+Kontratu publikoak lotetan banatzea eta azpikontratatutako ETEei zuzenean ordaintzea
+@t
+- **ETEaren Benetako Sarbidea Kontratazio Publikora:** Estatuaren erosketak enpresa txiki eta ertainei irekiko dizkiegu, beharrezkoak ez diren bitartekariak ezabatzeko. Kontratu publiko handiak tamaina txikiagoko lotetan banatzea sustatuko dugu, eta Administrazioari salbuespenezko justifikazio tekniko bat eskatuko diogu hori ez egitea erabakitzen badu. Aurretiko fidantza neurrigabeak ezabatuko ditugu. Azpikontratazioa dagoenean, faktura elektronikoaren plataformaren bidez, azpikontratatutako ETEei zuzenean eta automatikoki ordaintzeko sistema bat gaituko dugu, esleipendun handiek beren hornitzaileei dagokien dirua atxiki ez dezaten.
+@@@ d21-0174
+@h
+Berankortasunagatiko zehapenak gogortzea eta betetzen ez dutenak kontratazio publikotik kanpo uztea
+@t
+- **Erabateko Trazabilitatea Berankortasunaren Aurka:** negozio txikien likidezia babestuko dugu gehiegikerien aurrean. Zehapen-araubidea gogortuko dugu berandutze-interes automatikoekin, berrerortzeen erregistroarekin eta ordainketa-epeak sistematikoki betetzen ez dituzten enpresak kontratazio publikotik behin betiko kanporatuz. Gainera, faktura elektronikoan ordainketaren trazabilitate osoa (publikoa eta pribatua) txertatuko dugu, beren hornitzaileak itota finantzatzen direnak zigortzeko.
+@@@ d21-0175
+@h
+Elkarrizketa soziala ETEei, autonomoei eta ekonomia sozialari irekitzea
+@t
+- **Elkarrizketa Sozialaren Erreforma:** elkarrizketa soziala eguneratzeko prozesu bat irekiko dugu, gaur egun ordezkaritza propiorik ez duten kolektiboei irekiz, hala nola ETEei, autonomoei eta ekonomia sozialeko enpresei/kooperatibei.
+@@@ d21-0176
+@h
+Ziberbabeseko zerbitzu publikoa, doakoa mikroenpresentzat eta autonomoentzat
+@t
+- **Ziberbabes Kudeatuko Zerbitzu Publikoa:** ANCIk, zuzenean edo hornitzaile homologatuen bidez, oinarrizko babes-pakete bat eskainiko du (monitorizazioa, segurtasun-kopiak, posta iruzurtiaren iragazketa eta gertakarien aurreko erantzuna) harpidetza bidez, doakoa mikroenpresentzat eta autonomoentzat, eta gainerakoentzat tamainaren araberako kuota murriztuarekin. Eraso bat jasan duen ETE batek behin bakarrik jakinaraziko du, eta jakinarazpen hori ANCIra, Datuak Babesteko Espainiako Agentziara eta, hala badagokio, segurtasun-indarretara iritsiko da, bere jarduera berreskuratzen lagunduko dion erantzun azkarreko talde batekin.
+@@@ d21-0177
+@h
+ETEentzako ziberaholkularien sarea eta enpresa handiek beren hornitzaileei laguntzea
+@t
+- **Ziberaholkularien Sarea eta Hornikuntza-katea:** merkataritza-ganberekin, enpresa-elkarteekin eta agentzia autonomikoekin lankidetzan, ETE bakoitzak erreferentziazko aholkulari hurbil bat izan ahal izango du eskura. Gida eta klausula-eredu batzuk emango ditugu, zibersegurtasunari buruzko Europako araudiaren mende dauden enpresa handiek beren ETE hornitzaileei lagun diezaieten, betekizunak eskatzera mugatu beharrean, eta espezialista gazteen praktika kofinantzatuak bultzatuko ditugu ETEetan.
+@@@ d21-0178
+@h
+Diagnostikoa: zergak eta kuotak, 3,3 milioi autonomoren kezka nagusia
+@t
+3,3 milioi pertsona baino gehiagok eusten diote Espainiako ekonomiaren zati handi bati, beren kontura lan eginez. Baina %89k uste du Estatuak haien bizkarrez egiten dituela legeak. Zergak eta kuotak dira autonomoen egunerokoan gehien pisatzen duten kezkak: kolektibo horretan, ia 10etik 4k premiaz jotzen dute autoenplegura, eta %69k ziurgabetasunez eta kezkaz bizi du diru-sarrera errealen araberako kotizazio-sistema berria (batez ere diru-sarrera aldakorrak dituztenentzat edo beren fakturazioa aurreikusteko zailtasunak dituztenentzat). Iritsi da arauak sinplifikatzeko, kuotak benetako diru-sarreretara egokitzeko eta haien gizarte-babesaren erreforma bat mahai gainean jartzeko unea.
+@@@ d21-0179
+@h
+Autonomoen aukerako kuota, hilero aurreko hilean fakturatutakoaren arabera kalkulatua
+@t
+- **Borondatezko Likidazio Automatikoa - Irabazten Duzunagatik Bakarrik Ordaindu:** egungo sistemak presioa egiten die autonomoei, hilabete batzuk lehenago zenbat fakturatuko duten asmatzera behartuz. Ziurgabetasun horrekin amaitu nahi dutenentzat, **aukerako eredu** bat sortuko dugu, %100 automatikoa eta hilabete amaitutakoan ordaintzekoa. Gizarte Segurantzaren eta Ogasunaren arteko konexio digital osoari esker, zure kuota hilero kalkulatu eta kobratuko da, aurreko hilean fakturatu zenuen diru garbiaren arabera, zehazki. Hilabete batean gutxiago fakturatzen baduzu, zure kuota jaitsi egiten da. Autonomoek aukeratu ahal izango dute: egungo zenbatespen-sisteman geratu edo denbora errealeko likidazio automatikora pasatu.
+@@@ d21-0180
+@h
+Zerga-gerorapenak kutxa-fluxura egokitzea, diru-sarreren beherakada baten aurrean
+@t
+- **Malgutasuna Denbora Errealean Zorretarako eta Likideziarako:** zentzu komuneko logika bera eramango dugu Zerga Agentziarekiko harremanetara. Faktura elektronikoaren datuak aprobetxatuz, negozio batek diru-sarreren aldi baterako beherakada bat lehen aldiz igarotzen duenean, gerorapenen eta zerga-kredituen kudeaketa arin egokituko da haren benetako kutxa-fluxura. Diruzaintzako arazo koiuntural batek ez du ekarri behar bideragarria den jarduera bat itotzea edo enbargatzea.
+@@@ d21-0181
+@h
+Gizarte Elkarrizketarako Mahaia, Lan Autonomoaren Estatutu berri baterako
+@t
+- Indarrean dagoen Estatutua 2007koa da: duela bi hamarkadako testu bat, gizarte-babeserako eskari guztiak, digitalizazioa, sektoreen aniztasuna eta lan egiteko modu berriak alde batera uzten dituena. Iritsi da Espainia mugitzen dutenekin zor historiko bat kitatzeko ordua: **Autonomoekin Gizarte Elkarrizketarako Mahai** bat deituko dugu, non haiek beren legeen protagonista zuzen bihurtuko diren.
+Hurbileko merkataritzatik, ostalaritzatik, gremioetatik eta landa-eremutik hasi eta profesional liberaletaraino, sortzaile digitaletaraino eta ekosistema teknologikoraino: sektore guztiek izango dute ahotsa. Akordio nazional handi horretatik sortuko da **21. mendeko lan autonomoaren gizarte-eskubideen katalogo behin betikoa.**
+@@@ d21-0182
+@h
+Jarduera-uzte partziala eta aldi baterakoa autonomoentzat, «ABEE» baten antzera
+@t
+- **Jarduera-uzte Partziala - Autonomoaren "ABEE" Bat:** enpresa batek ABEE bat aplika dezakeen bezala bere langileak aldi baterako beherakada batean babesteko, autonomoak jarduera-uzte partzial bat aktibatu ahal izango du, bere negozioa erabat bajan eman beharrik gabe. Salbamendu-txaleko hori zorrozki aldi baterakoa izango da, eta diru-sarreren beherakada salbuespenezko, iraunkor eta faktura elektronikoaren datuen bidez automatikoki egiaztatuen aurrean aktibatuko da.
+@@@ d21-0183
+@h
+Ezkontidea eta seme-alabak libreki kontratatzea, langabezia-eskubidearekin eta erreleboko tarifarekin
+@t
+- **Belaunaldi Errelebo Plana - Familia Kontratatzeko Erabateko Askatasuna:** saihestuko dugu milaka negozio errentagarri erretiroagatik hiltzea, gaur egun norberaren familia kontratatzea eragozten duten oztopo absurduak ezabatuz. Ahalbidetuko dugu ezkontidea eta seme-alabak modu libre eta zuzenean sartzea besteren konturako langile gisa, langabezia-prestazioa kobratzeko eskubide osoarekin (FOGASAri dagokion kuotatik salbuetsiz). Gainera, trantsizioko tarifa murriztu bat sortuko dugu, erretiratzen den titularrak erreleboa hartzen duena tutorizatu eta negozioa hari eskualdatu ahal izan diezaion lehen hilabeteetan, kostuak bikoiztu gabe.
+@@@ d21-0184
+@h
+Frankiziako BEZa transposatzea urtean 85.000 € baino gutxiago fakturatzen dutenentzat
+@t
+- **Frankiziako BEZa - Zero Faktura Negozio Txikientzat:** lehentasunez transposatuko dugu frankiziako BEZari buruzko Europako zuzentaraua, urtean 85.000 € baino gutxiago fakturatzen duten autonomoak eta mikrojarduerak paper-lanetik libratzeko. Araubide horri atxikitzen zaizkionek ez dute BEZik gehitu beharko beren fakturetan, ezta hiruhileko aitorpen astunak aurkeztu beharko ere.
+@q
+lehentasunez transposatuko dugu frankiziako BEZari buruzko Europako zuzentaraua, urtean 85.000 € baino gutxiago fakturatzen duten autonomoak eta mikrojarduerak paper-lanetik libratzeko.
+@@@ d21-0185
+@h
+Abiatzeko Zerga Bonua autonomo berrientzat, lehen 3 urteetan
+@t
+- **Abiatzeko Zerga Bonua Lehen 3 Urteetarako:** PFEZean eta RETAko kotizazioetan dagoen presioa arinduko dugu jardueraren lehen urratsetan, Abiatzeko Zerga Bonu bat sortuz: autonomo berri bakoitzari esleitutako zerga-kreditu zuzen bat, bere lehen hiru ekitaldietan behar bezala aitortutako Estatuarekiko edozein betebehar (zergak edo Gizarte Segurantzako kotizazioak, adibidez) konpentsatzeko (zenbateko jakin bateraino), hasierako likidezia %100ean proiektuaren bideragarritasunean bil dadin.
+@q
+PFEZean eta RETAko kotizazioetan dagoen presioa arinduko dugu jardueraren lehen urratsetan, Abiatzeko Zerga Bonu bat sortuz
+@@@ d21-0186
+@h
+Hasierako proiektuetako inbertitzaileentzako eta business angels-entzako kenkariak zabaltzea
+@t
+- **Zerotik Hasteko Inbertsio Ekosistema Berria:** autoenplegurako eta mikroenpresetarako kapital erabilgarria biderkatuko dugu, banku-babes finantzarioa zein babes pribatua sustatuz. Hasierako fasean dauden proiektuetan kapitala injektatzen duten inbertitzaile partikularrentzako eta _business angels_-entzako zerga-kenkariak hobetu eta zabalduko ditugu. Paraleloki, zerga-pizgarri espezifikoak ezarriko ditugu lehendik dauden jarduerak eskuratzeko eta haien jarraitutasunerako —batez ere belaunaldi-erreleboagatiko eskualdaketetan edo ekintzaile gazteen negozioen arteko fusio- eta integrazio-prozesuetan—, finkatutako proiektuak ixtea saihestuz eta berehala eskala hartzea erraztuz.
+@@@ d21-0187
+@h
+I+G+Bko kenkarien ziurtapen digital sinplifikatua proiektu txikientzat
+@t
+- **I+G+B Express - Berrikuntzaren Ziurtapen Sinplifikatua Proiektu Berrientzat:** I+G+Bko kenkarietarako ziurtapen digitaleko prozedura arin bat sortuko dugu, autonomoek eta enpresa emergenteek planteatutako zenbateko txikiko proiektuetara berariaz bideratua. Sistema honek kenkari eta hobari zuzenak berehala eta oztopo burokratikorik gabe aplikatzeko aukera emango du, teknologiaren hartzea, prozesuen modernizazioa eta produktu berrien garapena lehen egunetik sarituz.
+@@@ d21-0188
+@h
+Diagnostikoa: immigrazioa, Estatuaren kontrola eskatzen duen abantaila lehiakor gisa
+@t
+Immigrazioa da gaur egun Espainiaren abantaila lehiakor handietako bat: 2022 eta 2025 artean gure ekonomiaren hazkundearen ia erdia ekarri zuen, sektore osoei eusten die eta zahartzen ari den herrialde bat gaztetzen du. Eta, hain zuzen ere, aktibo bat delako, Estatuak migrazio-politikaren kontrola izan behar du: nor sartzen den, nola sartzen den, noiz sartzen den eta, irten behar badu, noiz irteten den erabakitzea. Gaur egun ez da hori gertatzen. Legezko bideak hain dira estuak, ezen benetako sarrera-atea irregulartasuna izaten baita azkenean, atzerritartasun-arloko hitzorduak merkatu beltzean berriro saltzen dira, eta kanporatze-aginduen hamarretik bat baino gutxiago betearazten da. Desordena horrek ez dio inori onurarik ekartzen. Guk beste zerbait proposatzen dugu: xenofobiarekiko zero tolerantzia eta immigrazio-politika zentzuzko bat. Funtzionatzen duten legezko bideak, betetzen den lege bat, eskubide eta betebeharrekiko bizikidetza, eta ateak irekita egun batean joan ziren eta gaur itzuli nahi duten espainiarrentzat.
+@@@ d21-0189
+@h
+Lan bila aritzeko 6 hilabeteko bisa bat sortzea, puntu-baremoarekin
+@t
+- **Lana Bilatzeko Bisa Bat:** gaur egun, arau gisa, Espainiara jatorrizko herrialdetik dagoeneko sinatutako kontratu batekin iritsi behar da, praktikan oso gutxik lortzen duten zerbait, eta egungo lan bila aritzeko bisa espainiarren ondorengoei eta askotan ireki ere egiten ez diren kupoei mugatzen zaie. Emaitza: etorkin asko turista gisa sartzen dira eta irregulartasunean amaitzen dute. Lan bila aritzeko 6 hilabeteko bisa bat sortuko dugu (9ra arte luzagarria), Alemaniako Chancenkarten inspiratua: aurretiko eskaintzarik gabe, puntu-baremoarekin (titulazioa, esperientzia, hizkuntza eta sektoreko eskaria), benetako lanpostu hutsen araberako urteko kupoarekin eta gehienez bi hilabetean online ebazpenarekin. Lan formal bat aurkitzen duenak baimena lortuko du Espainiatik irten beharrik gabe; aurkitzen ez duena bere herrialdera itzuliko da, irteera egiaztatuta, eta etorkizuneko legezko bideetarako sarbiderik gabe hori betetzen ez badu.
+@@@ d21-0190
+@h
+Langileak jatorrian prestatzea, bisarekin eta sinatutako kontratuarekin bidaia dezaten
+@t
+- **Jatorrian Prestatuak, Bidaiatu Aurretik Kontratatuak:** lanbide-heziketako programa aitzindari bat abiaraziko dugu jatorrizko herrialde nagusietan, garapenerako lankidetza-funtsen zati batekin finantzatua eta Global Skills Partnerships-etan eta Europako Talentu Lankidetzetan inspiratua. Hitzarmen bilateralekin, irakasle espainiarrekin eta Espainiak homologatutako estandarrekin, egiturazko lanpostu hutsak dituzten sektoreetarako langileak prestatuko ditugu: zaintza, nekazaritza, eraikuntza, ostalaritza edo teknologia. Ibilbidea gainditzen duenak lan-bisarekin eta sinatutako kontratuarekin bidaiatuko du. Eta geratzea erabakitzen duenak bere herrialdeko kualifikazioa igoko du: aldi berean garapena eta migrazio ordenatua den lankidetza.
+@@@ d21-0191
+@h
+Atzerritartasun-espediente digitala, izendun hitzorduak eta berritze automatikoak
+@t
+- **Atzerritartasuna Ilararik Gabe, Mafiarik Gabe eta Paper Iraungirik Gabe:** gaur egun, atzerritartasun-arloko doako hitzordu batek ehunka euro balio ditzake merkatu beltzean, sare antolatuek programa automatikoekin bereganatzen dituztelako. Umiliazioa arauak betetzen dituenarentzat eta negozioa mafientzat. Atzerritartasuna 21. mendera eramango dugu: %100 digitala den espediente bakarra, denbora errealeko jarraipenarekin, sistemak esleitutako hitzordu izendunak, epe maximo bermatuak eta berritze automatikoak Administrazioak kotizazio-datuak eta aurrekari penalak dagoeneko dituenean. Funtzionatzen duen bide arrunt batekin, irregulartasuna ez da metatuko ezohiko erregularizazioak behartu arte. Kontrolatzen duen Estatua funtzionatzen duen Estatu batetik hasten da.
+@@@ d21-0192
+@h
+Kanporatze-aginduen erregistro digital bakarra, delituak egiten dituztenei lehentasuna emanez
+@t
+- **Bete Dadila Legeak Agintzen Duena:** 2023an Espainiak 64.260 kanporatze-agindu eman zituen eta 3.090 betearazi zituen, %5 baino gutxiago, eta Gobernuak berak onartzen du ez dakiela zenbat dauden oraindik zain. Betetzen ez den agindu batek Estatuaren izen ona kaltetzen du eta ez dio laguntzen etorkinen populazioari. Kanporatze-agindu bakoitzari ematen denetik betearazten den arte jarraipena egingo dion erregistro digital bakarra sortuko dugu. Lehentasuna delituak egiten dituztenak izango dira, batez ere berrerorleak. Bisa- eta lankidetza-politika jatorrizko herrialdeekiko berronartze-akordioei lotuko diegu, eta itzulera boluntario lagundua bultzatuko dugu. Urtebetean betearazpen-tasa nabarmen hobetzen ez bada, Gobernuak sistema erreformatzeko plan bat aurkeztuko du Gorteen aurrean.
+@@@ d21-0193
+@h
+Elkarreragingarritasun-plataforma, immigrazioari buruzko denbora errealeko datuekin
+@t
+- **Sistema Bakar Bat, Denbora Errealeko Datuekin:** gaur egun administrazio bakoitzak bere datuekin begiratzen dio immigrazioari, eta batek ere ez du ikusten koadro osoa. Elkarreragingarritasun-plataforma publiko bat sortuko dugu, Barne, Gizarte Segurantza, enplegu, errolda, osasun eta hezkuntza arloetako informazioa modu automatizatuan eta datuen babesaren berme osoekin gurutzatuko duena. Denbora errealean jakingo dugu zenbat pertsona iristen diren eta zer bidetatik, zer eragin duten zerbitzu publikoetan eta non biltzen den ezkutuko enplegua. Datuak ematea derrigorrezkoa izango da ministerioentzat, autonomia-erkidegoentzat eta udalentzat, eta betetzen ez duenari transferentziak atxikiko zaizkio. Eta adierazleak irekiak izango dira: immigrazioari buruzko eztabaida egitateekin egingo da, ez desinformazioarekin.
+@@@ d21-0194
+@h
+Migrazio eta Asiloko Europako Ituna eta erregistro biometrikoa atzerapenik gabe aplikatzea
+@t
+- **Europako Mugak, Adimendunak eta Seguruak:** 2026ko ekainetik Migrazio eta Asiloko Europako Ituna aplikatzen da, eta sistema digital batek datu biometrikoekin erregistratu behar ditu EBtik kanpotik datozenen sarrera eta irteera bakoitza. Osorik eta atzerapenik gabe aplikatuko dugu: iritsiera irregular bakoitzaren identifikazioa eta osasun- eta segurtasun-kontrola, eta asilo azkar eta bermeduna: babesa behar duenak laster izango du; behar ez duenak asteetan jakingo du, ez urteetan. Erregistro hori gure Sistema Integratuarekin konektatuko dugu, egonaldia gainditzen duena automatikoki detektatzeko. Eta jatorriko eta igarobideko herrialdeekin lankidetzan arituko gara bizitzekin trafikatzen duten mafien aurka, itsasoan arriskuan dagoena erreskatatzeari inoiz utzi gabe.
+@@@ d21-0195
+@h
+Bizileku eta lanerako 9 hilabeteko Aukera Txartela, tutoretzapean egondako gazteentzat
+@t
+- **Aukera Txartela Tutoretzapean Egondako Gazteentzat:** urtero, Espainiara bakarrik iritsi ziren milaka adingabek 18 urte betetzen dituzte eta babes-sistematik ateratzen dira, askotan paperak egoera onean izan gabe, prestakuntza erdizka eginda eta laguntzarik gabe: bazterketaren atarikoa. Aukera Txartel bat sortuko dugu, 9 hilabeteko bizileku- eta lan-baimena, gutxienez bigarren hezkuntzako edo lanbide-heziketako urtebete osatu dutenentzat, baldin eta beren harrera-zentroan etengabeko jokabide zibiko ona egiaztatzen badute eta nortasuna eta adina egiaztatuta badituzte. Mentore bat eta enpresa laguntzaileekiko lan-poltsa bat izango ditu. Kontratu bat sinatu eta kotizatzen duenak baimen arruntera igaroko da; bestela, txartela iraungi egingo da. Aukerak ahalegintzen eta betetzen duenarentzat.
+@q
+Aukera Txartel bat sortuko dugu, 9 hilabeteko bizileku- eta lan-baimena, gutxienez bigarren hezkuntzako edo lanbide-heziketako urtebete osatu dutenentzat
+@@@ d21-0196
+@h
+Doako harrera-ibilbidea, hizkuntza, lan-orientazioa eta Konstituzioa barne
+@t
+- **Integraziorako Pizgarriak:** integratzea hizkuntza eta jokoaren arauak ulertzetik hasten da. Lehen bizileku-baimena lortzen duen pertsona orok doako sarbidea izango du harrera-ibilbide batera: espainiera (eta hizkuntza koofiziala, halakorik dagoen tokian), lan-orientazioa eta Konstituzioari, gure eskubide eta betebeharrei eta zerbitzu publikoen funtzionamenduari buruzko modulu bat, formatu digitalean ere bai, lanarekin bateragarri egiteko. Hura osatzeak berritzeak arinduko ditu eta zuzenean prestatuko ditu naziotasunak eskatzen dituen hizkuntza- eta kultura-azterketak. Integratzeko ahalegina egiten duenak beti izango du bere saria.
+@@@ d21-0197
+@h
+Gorroto-delituen jazarpena indartzea eta kanporatze-arriskurik gabe salatzea
+@t
+- **Zero Tolerantzia Xenofobiarekin:** bizilagun bat bere jatorriagatik seinalatzen duenak ez du Espainia defendatzen: zatitu egiten du. Erabat gaitzesten dugu diskurtso xenofobo eta arrazista, eta haren aurka borrokatuko dugu. Gorroto-delituen jazarpena indartuko dugu fiskalekin eta baliabideekin, eta diskriminazio-probak zabalduko ditugu etxebizitzaren alokairuan eta hautaketa-prozesuetan, larruazalaren kolore batengatik edo abizen batengatik atea ixten duenarentzako zehapenekin. Eta gorroto-delitu baten edo lan-esplotazioaren biktima denak salatu ahal izango du, haren salaketak kanporatze-espediente bat aktibatu gabe, genero-indarkeriaren eta salerosketaren biktimekin dagoeneko gertatzen den bezala.
+@@@ d21-0198
+@h
+Zerga-araubide sinplea itzultzen diren ikertzaile eta profesionalentzat
+@t
+- **Etxera Itzultzea Ez Da Garestia Izango:** Espainian prestatutako milaka zientzialari eta profesional ez dira itzultzen gure zerga-sistemak kanpoan egin zuten karrera zigortzen duelako, batez ere haien erretirorako aurrezkiak, eta haiek bai nahi dituzten herrialdeetan amaitzen dute. Araubide sinple bat sortuko dugu itzultzen diren ikertzaile, irakasle eta profesional kualifikatuentzat, benetako soldatetarako pentsatua eta ez soilik egungo inpatriatuen araubideko soldata handietarako, eta leihatila bakar digital batean izapidetua.
+@@@ d21-0199
+@h
+Alta espresa, telelanean itzultzen diren espainiarren atzerriko enplegatzaileentzat
+@t
+- **Itzuli Zure Lanarekin:** espainiar asko bihar itzuliko lirateke urrutitik lanean jarraitu ahal izango balute beren atzerriko enpresarentzat. Gaur egun, enpresa horrek gure Gizarte Segurantzan alta eman behar du izapide konplexuekin, eta beldur da Espainian dagoen langile bakar batek ustekabeko zerga-betebeharrak sortuko ote dizkion. Erraz egingo dugu: alta espres bat, %100 digitala eta ingelesez ere bai, itzultzen den langile bat duten atzerriko enplegatzaileentzat, eta Ogasunaren arau argiak eta idatzizkoak, telelanean dagoen langile batek bere enpresa Espainian zergadun bihur ez dezan. Soldata hori hemen gasta dadila, kotiza dezala eta zergak ordain ditzala.
+@@@ d21-0200
+@h
+Bizilekua hilabete batean itzultzen denaren bikote eta seme-alaba atzerritarrentzat
+@t
+- **Familian Itzuli, Paper-lan Amaigaberik Gabe:** itzultzea ia inoiz ez da bidaia indibiduala. Itzultzen den herritar espainiar baten bikote atzerritarrak hilabeteak eman ditzake bere bizileku-baimenaren zain, eta seme-alabek baliozkotze motelekin egiten dute topo, eta ikasturte erdian eskola-plazarik gabe geratzen dira. Itzultzen denaren ezkontidearen edo bikotekidearen eta seme-alaba atzerritarren bizilekua hilabete batean ebatz dadin bermatuko dugu, lehentasunezko bide digital baten bidez, osasun-txartela eta erroldatzea lehen egunetik, ohikoenak diren hezkuntza-sistemetako eskola-ikasketen baliozkotze automatikoarekin.
+@@@ d21-0201
+@h
+Diagnostikoa: I+Gko inbertsioa BPGaren %1,5ekoa, Europako %2,2aren aldean
+@t
+Espainiak mundu-mailan bikaina den komunitate zientifiko eta tekniko bat du, prekarietateak, lan-azpisailkapenak, burokraziak eta BPGaren %1,5eko I+Gko inbertsioak galgatua, Europako %2,2aren aldean. Iritsi da paradigma-aldaketa baterako ordua: legez bermatutako inbertsioa, kontu-ematearekin batera doan autonomia, karrera duina ikertzaile eta teknikari guztientzat, merituari irekitako plazak eta zubi garbi bat ezagutzaren eta gizartearen artean.
+@@@ d21-0202
+@h
+CSICeko presidentetza nazioarteko lehiaketa bidez aukeratzea, sei urteko agintaldiarekin
+@t
+- **CSIC Independente Bat, Lidergo Zientifikoarekin, Ez Politikoarekin:** gaur egun Gobernuak libreki izendatzen eta kargutik kentzen du CSICeko presidentetza, eta Ministerioak izendatzen du haren Kontseilu Errektorea. Presidentetza nazioarteko lehiaketa publiko bidez aukeratuko da: batzorde independente batek, nazioarteko ospea duten zientzialariekin eta CSICeko komunitatearen ordezkaritzarekin, hiru hautagaiko zerrenda bat proposatuko du, eta hautatutako pertsona Kongresuaren aurrean agertuko da izendatu aurretik. Sei urteko agintaldia izango du, berritu ezina, legegintzaldiarekin bat ez datorrena eta kargutik diskrezionalki kentzeko aukerarik gabe. Kontseilu Errektoreak aditu independenteen gehiengoa izango du, eta eredu hau gainerako ikerketa-erakunde publikoetara zabalduko dugu.
+@@@ d21-0203
+@h
+Zientziaren Finantzaketarako Legea: BPGaren %1,25eko inbertsio publikoa
+@t
+- **Zientziako Inbertsioa Blindatuko Duen Lege Bat:** gaur egun finantzaketa zientifikoa igo eta jaitsi egiten da aurrekontu bakoitzarekin, eta izoztu egiten da aurrekontua luzatzen denean. Zientziaren Finantzaketarako Lege batek inbertsio publikoaren ibilbide legez loteslea finkatuko du, 2030ean BPGaren %1,25ekoa gutxienez, 2027an %2ko eta 2030ean %3ko inbertsio osoa lortzeko, benetako KPIarekin eguneratua eta aurrekontu-luzapenen aurrean babestua.
+@@@ d21-0204
+@h
+Urte anitzeko oinarrizko finantzaketa blokean CSICerako, unibertsitateetarako eta zentro publikoetarako
+@t
+- **Finantzaketa Egonkorra eta Aurreikusgarria - Erabaki Dezatela Zentroek, Unibertsitateek eta Haien Profesionalek:** CSICek, unibertsitate publikoek eta gainerako ikerketa-zentro publikoek, estatuko funtsekin, urte anitzeko oinarrizko finantzaketa blokean (block grant) jasoko dute, haien ebaluazio zientifikoari lotua. Haien zuzendaritza eta klaustro zientifiko eta teknikoek erabakiko dute zer ildo lehenetsi, zer talentu txertatu eta euro bakoitza zertan inbertitu, institutu edo fakultate bakoitzeko 100.000 €-rainoko gastu zuzeneko ahalmenarekin, eredua unibertsitate-institutuetara eta institutu mistoetara zabalduz autonomia-erkidegoekin adostuta. Eta Estatuko Planaren deialdiek (AEI, CDTI eta SETT) egutegi finkoa eta 3 eta 6 hilabete bitarteko gehieneko ebazpen-epe legala izango dute: talde bakoitzak jakingo du noiz eskatzen duen, noiz ebazten den eta noiz kobratzen duen.
+@@@ d21-0205
+@h
+AEIko ebaluatzaileei ordaintzea eta FPU eta FPI deialdiak desblokeatzea
+@t
+- **Garaiz Ordaindu Ebaluatzen Duenari eta Hasten Denari:** gaur egun proiektuak ebaluatzen dituzten adituek askotan urtebete itxaroten dute kobratzeko, eta doktoretza aurreko deialdiak eta egonaldiak blokeatu egiten dira. Ikerketako Estatu Agentziako ebaluatzaileekiko zorra kitatuko dugu, FPU eta FPI deialdiak eta egonaldiak desblokeatuko ditugu, eta legez Europako mailako ebaluazio-sistema profesional bat sortuko dugu (Horizonte Europa eta ERC): haien kualifikazioari dagozkion tarifa duinak, ordainketa puntuala eta plataforma teknologiko profesionalak.
+@@@ d21-0206
+@h
+Gauzatu gabeko I+G+Bko maileguak legez diru-laguntza bihurtzea
+@t
+- **Euro Bakoitza, Zientziarako:** urtero I+G+Bko aurrekontuaren zati handi bat gauzatu gabe geratzen da, batez ere ia inork eskatzen ez dituen maileguetan, laborategiek ozta-ozta bizirauten duten bitartean. Mailegu horiek legez diru-laguntza bihurtuko dira hurrengo urtean zentroentzat, unibertsitateentzat eta taldeentzat: oinarrizko finantzaketa, teknologoen kontratazioa eta industriarekin arriskuko koinbertsioa CDTIren eta SETTren bidez, euro publiko bakoitza pribatu batekin parekatuz. Zentro eta sail bakoitzak bere gerakinak gordeko ditu, eta gauzatze osoa publikoa izango da denbora errealean, itzulera sozial eta ekonomikoaren eta sortutako enplegu teknologikoaren ondorengo auditoriekin.
+@@@ d21-0207
+@h
+Autogobernu Zientifikoaren Estatutua, erosketa zuzenarekin eta mugarrien araberako justifikazioarekin
+@t
+- **Autogobernu Zientifikoaren Estatutua:** ikertzaile batek ez luke denbora gehiago eman behar fakturak justifikatzen ikertzen baino. CSICek, unibertsitateek eta OPIek kudeaketa propio eta arina izango dute: erosketa zientifiko zuzena egungo 50.000 €-ko atalasetik gora, Europako atalaseetaraino; denbora errealeko kontabilitatea kutxa bakarrarekin, laborategi-txartelarekin eta klik batean erosteko hornitzaileen katalogo digitalarekin; moduluen eta mugarrien araberako justifikazioa, ez fakturaz faktura, erreklamatzen dituzten funtsengatik komisioz kobratzen duten auditore pribaturik gabe; dieta eguneratuak, erakundeak ordainduak; taldeak sortzen dituen zeharkako kostuen zati bat taldeari itzultzea; eta ekipoak paper-lanetik libratuko dituzten kudeatzaile profesionalak. Ez da saiakuntzarik berriro geldituko iristen ez den erreaktibo batengatik.
+@@@ d21-0208
+@h
+CSIC eta OPIak ordezpen-tasatik askatzea; tenure track
+@t
+- **Murrizketarik Gabeko Ikertzaile Karrera:** CSIC eta OPIak ordezpen-tasatik eta langile-zerrenda zurrunetatik askatuko ditugu, beren talentua epe ertainera planifika dezaten. Karrera hasieratik amaierara aurreikusgarria izango da: KPIarekin eguneratutako doktoretza aurreko kontratuak, egutegi finkoko doktoretza ondoko deialdiak eta egonkortze-ibilbide bat (tenure track), bere ebaluazioak gainditzen dituenarentzat plaza bermatuarekin. Gaur egun gutxietsitako laguntza-postuak betetzen dituzten milaka doktore eta goi-mailako tituludun aitortuko ditugu beren sailkapenean eta soldatan. Eta amaitu da “zero kutxarekin” sartzea: ikertzaile egonkor berri orok Start-Up Package bat (hasierako zuzkidura derrigorrezkoa) izango du, bere laborategia abiarazteko eta nazioartean lehiatzeko.
+@@@ d21-0209
+@h
+Plaza zientifikoak EURAXESSen argitaratzea, kanpoko gehiengoa duten epaimahaiekin
+@t
+- **Munduari Irekitako Plazak - Irabaz Dezala Onenak:** plaza zientifiko bakoitza merituaren arabera bakarrik erabaki behar da. Funts publikoekin finantzatutako plaza guztiak EURAXESSen argitaratuko dira, enplegu zientifikoko Europako atarian, espainieraz eta ingelesez. Epaimahaiek kanpoko ebaluatzaileen gehiengoa izango dute, curriculum publikoekin, eta sistema digital batek interes-gatazkak eta ahaidetasunak baztertuko ditu epaimahaiak eratu aurretik. Prozesuak gehienez hiru hilabetean ebatziko dira, eta Europako estandarren arabera ebaluatuko da (CoARA eta DORA), zeinek kalitatea eta benetako eragina lehenesten baitituzte argitalpenen zenbaketaren gainetik. Talentu onenak, nondik datorren ere, jakingo du Espainian garbi lehiatzen dela.
