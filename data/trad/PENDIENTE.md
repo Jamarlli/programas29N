@@ -19,3 +19,4 @@
 - eu (pasada de coherencia): «ur birsortua» (9 usos en lotes anteriores a eu-036) → «ur leheneratua», la forma de URA.
 - Hecho 20-11: MIR/EIR/PIR/FIR/BIR → BAME/BAEE/BAPE/BAFE/BABE, ITS → STI y TSJPV en eu-001…040. Queda «Irakasleen MIRa» (eu-014): metáfora del «MIR docente», se deja.
 - eu-039 pnv-0173: «abertsio-praktikak» (terapias de aversión, Ley 4/2023) sin uso confirmado; alternativa «higuin-terapiak». Decidir en la pasada de coherencia.
+- Origen (es): el @h de pfac-0048 («Introducción a más medidas de transición ecológica») no corresponde al texto («Además:», más medidas sobre prostitución). Corregir el titular en castellano.
