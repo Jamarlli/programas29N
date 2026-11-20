@@ -1,0 +1,37 @@
+Remisiones y coherencia con las salidas eu-0*: ruta:podemos:3 «Prezioek jaitsi egin behar dute»; ruta:salf:9 y ruta:nex:4 «Nola ordaintzen den»; ruta:pnv:2 «Bost konpromiso Euskadirentzat»; áreas de Adelante (ruta:adelante:2, 26, 35, 40, 43, 48, 61) con las mismas formas que «NN. arloa: …» de las salidas; ruta:d21:42 «Auzoen Plan Nazionala»; ruta:d21:73 «Gazteentzako Prestakuntza Itsulapikoa»; ruta:d21:47 «Autobide Digitala»; ruta:d21:60 «Oztopoen Auditoria…»; ruta:fe:4 «Birmigrazio Plan Nazionala»; ruta:nex:15 «Gasolindegi publikoak»; ruta:nex:6 «Lan bermatu»; ruta:fa:65 «megagurutzaontziak»; ruta:fa:61 «Energia eta Klimaren Plan Nazional Integratua (PNIEC)».
+titulo:fa, titulo:comuns: «Un programa como una casa» → «Etxe bat bezalako programa» (literal; en castellano «como una casa» también significa «enorme», juego de palabras que se pierde en parte).
+titulo:vox: «Es sentido común» → «Zentzu komuna da» (como el lema fijado «ZENTZU KOMUNA DA»).
+titulo:soria: «Soria ¡Sí!» → «Soria, bai!» (eslogan traducido según el criterio de Javier; en va se dejó como nombre de la candidatura). Comprobar.
+titulo:bildu: «Posible egin» ya está en euskera y se deja; ruta:bildu:36 y ruta:bildu:44 («Euskal Herriko selekzioak», «Bardeak herriarentzat»), también. ruta:bildu:34 «Euskera» → «Euskara». ruta:bildu:33 → «Euskal Ekonomia Ituna eta Nafarroako Hitzarmen Ekonomikoa».
+titulo:pnv: «Defendemos Euskadi» → «Euskadi defendatzen dugu» (como «EUSKADI DEFENDATZEN DUGU» en las salidas de pnv).
+ruta:fa:118: «para todas, todos y todes» → «guztientzat»; ruta:pacma:78 «todos y todas» → «guztientzat»; ruta:pacma:96 «emprendedores/as, autónomos/as» → «ekintzaileei, autonomoei»; ruta:pacma:110 «nuestros/as mayores» → «gure adinekoen»; ruta:cnv:3 «dels catalans i de les catalanes» → «katalanen»; ruta:comuns:137 «diputats, diputades, senadors i senadores» → «diputatuen eta senatarien» (el euskera no marca género; de ahí el aviso de longitud de comuns:137).
+ruta:fa:16, ruta:pfac:17: IMV → BGDS; «El ingreso mínimo vital» (minúscula en el original) → «Bizitzeko Gutxieneko Diru-sarrera» (nombre propio con mayúscula).
+ruta:fa:17: «familias monomarentales» → «ama bakarreko familiak» (no «guraso bakarreko», que es «monoparentales»).
+ruta:fa:128: TJUE → «Europar Batasuneko Justizia Auzitegia» (forma fijada).
+ruta:fa:75, ruta:pacma:99, ruta:fe:19: I+D+i / I+D+I → I+G+B. ruta:fa:84, 85, ruta:pacma:96, ruta:adelante:33: pymes → ETEak; ruta:d21:77 «Revolución PYME» → «ETE iraultza»; ruta:d21:81 «Escudo digital PYME» → «ETEentzako ezkutu digitala»; ruta:comuns:31 «Pime» → «ETEen».
+ruta:comuns:31: en el original falta el espacio tras el punto («Pime.Que»); se ha puesto.
+ruta:comuns:59: PAC → «Nekazaritza Politika Bateratuaren (NPB)». ruta:comuns:72: «Sistema Nacional de Salut» → «Osasun Sistema Nazionala» (sin sigla, como el original). ruta:comuns:84 «FP» → «LH».
+ruta:comuns:67: «Enfortim» (imperativo o presente de 1.ª plural) → «Indar dezagun» (exhortativo). Comprobar.
+ruta:comuns:6: «que permeti liquidar el deute hipotecari i, si cal, fer la reducció…» → las dos acciones dependen de «ahalbidetuko duen» (lectura más natural).
+ruta:comuns:122: «antiracisme y migracions» (castellano «y» en el original catalán) → «eta». ruta:comuns:158: «l'Europa Fortales» (errata de «Fortalesa») → «Europa gotorlekua», como ruta:fa:132.
+ruta:cnv:18: «comer» (errata de «comerç») → «merkataritza». ruta:cnv:51: «plenamente» (castellanismo del original) → «erabat». ruta:cnv:54: «Revindicar» → «aldarrikatzea».
+ruta:fe:24: «Regímen» (tilde mal puesta) → «Erregimen». ruta:fe:2..29: «Bloque I.» → «I. blokea.» (orden vasco del ordinal; lo mismo en autonomos y pfac: «0. blokea.»…).
+ruta:bng:23: «dependenciae» (errata del gallego) → «mendekotasun-egoeran dauden pertsonak eta». ruta:bng:56: se mantiene «8.6 .» con el espacio, igual que el original. ruta:bng:*: «Galiza» → «Galizia», como en las salidas eu de BNG.
+ruta:bildu:46: «ocupacion» (sin tilde) → «okupazioa».
+ruta:pacma:17: «casilla de la Renta» → «Errenta-aitorpeneko laukitxoa». ruta:pacma:8: método CER se copia y se traduce la explicación («Harrapatu-Antzutu-Itzuli»).
+ruta:pacma:3, 15, 28: «Ley de Bienestar y Protección de los Animales» → «Animalien Ongizate eta Babeserako Legea»; ruta:d21:116 «Ley de Bienestar Animal 2.0» → «Animalien Ongizatearen Legea 2.0». ruta:pacma:45 «Ley de Grandes Simios» → «Tximino Handien Legea» (como las salidas).
+ruta:pacma:101, ruta:autonomos:5: «Regeneración democrática» → «Birsortze demokratikoa» (forma de las salidas eu-018/eu-040).
+ruta:d21:1: «España limpia» → «Espainia garbia» (adjetivo, como va «Espanya neta»; puede leerse como verbo, en serie con «España resuelve/prospera/cuida/lidera»). ruta:d21:31 «Espainiak konpontzen du», ruta:d21:66 «Espainiak aurrera egiten du», ruta:d21:100 «Espainiak zaintzen du», ruta:d21:127 «Espainiak gidatzen du».
+ruta:d21:4: «enchufismo» → «adiskidekeria» (forma fijada). ruta:d21:5: «impuestos revolucionarios» → «iraultza-zerga» (término vasco establecido para la extorsión de ETA, que es la alusión). ruta:d21:13: «repartos de sillones» → «Aulki-banaketa».
+ruta:d21:14: «Consejo General del Poder Judicial» → «Botere Judizialaren Kontseilu Nagusia» (nombre completo en el original; la sigla CGPJ se copiaría).
+ruta:d21:32: «prioridad nº1» → «1. lehentasuna».
+ruta:pp:14: «A QUIEN LO VIGILA» → «BERA GAINBEGIRATZEN DUENA» («zaindu» sería ambiguo con «cuidar»).
+ruta:pp:31: «EN CUATRO AÑOS» → «LAU URTEAN» (mantiene la ambigüedad «dentro de» / «al cabo de»).
+ruta:adelante:1: «Las 29 del 29N» → «29N-ko 29ak». ruta:adelante:20: «Ciencia , investigación» (espacio antes de la coma) → se quita.
+ruta:adelante:11, 71: «Lo que exigiremos para Andalucía en Madrid» → «Madrilen Andaluziarentzat exijituko duguna».
+ruta:junts:8: «TU.» (etiqueta de apartado, en la serie 01.–07.) → «ZU.». Comprobar si debe dejarse.
+ruta:ph:16: «Ningún ser humano es ilegal» → «Gizaki bat ere ez da legez kanpokoa» (literal; existe también el lema «Inor ez da ilegala»).
+ruta:pfac:37: «Una sola salud humana, animal y ambiental» → «Giza, animalia- eta ingurumen-osasun bakar bat».
+ruta:psoe:51: «El negacionismo mata» → «Ukazionismoak hiltzen du».
+ruta:nex:35: «Servicios públicos con plantilla» → «Plantilla duten zerbitzu publikoak».
+ruta:comuns:170, ruta:comuns:60: «vegueries» → «vegueriak» (como las salidas); «dejeccions ramaderes» → «abeltzaintzako gorotzak».
