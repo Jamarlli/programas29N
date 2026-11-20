@@ -15,3 +15,4 @@
 - PIME/pime: misma caja que el original (hecho en va el 19-11; aplicar en ca al revisar).
 - eu (pasada de coherencia): «lanzamiento» → «botatze», ETT → ABLE en lotes anteriores a eu-018; «principio de no devolución» → «ez itzultzeko printzipioa» (eu-021).
 - Hecho 19-11 (decisión de Javier: «como lo dicen de verdad los que escriben en euskera»): formas de uso real (bonos, «Bai bakarrik da bai» legea, NPB, EEE/ABEE, BGDS, NDF, EIB, OEZ, autonomia-erkidegoak, tribunales y DUDH sin sigla, Herritarraren Karpeta, «erabateko bakea») aplicadas en eu-001…030; la lista está en traductor.md. Al final, volver a buscar las siglas viejas (PAC, IMV, CCAA, FMI, TJUE…) en todo eu.
+- Origen (es), no traducciones: el @h de bng-0161 («…y reconocer la imprescriptibilidad del genocidio») presenta como propuesta algo que, en la lectura natural del gallego, es lo que la Ley de Amnistía impide. Revisar el titular en castellano.
