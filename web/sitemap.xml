@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://programas29n.jamarlli.workers.dev/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://programas29n.jamarlli.workers.dev/"/>
     <xhtml:link rel="alternate" hreflang="ca-ES-valencia" href="https://programas29n.jamarlli.workers.dev/va/"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://programas29n.jamarlli.workers.dev/eu/"/>
   </url>
   <url>
     <loc>https://programas29n.jamarlli.workers.dev/va/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://programas29n.jamarlli.workers.dev/"/>
     <xhtml:link rel="alternate" hreflang="ca-ES-valencia" href="https://programas29n.jamarlli.workers.dev/va/"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://programas29n.jamarlli.workers.dev/eu/"/>
+  </url>
+  <url>
+    <loc>https://programas29n.jamarlli.workers.dev/eu/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://programas29n.jamarlli.workers.dev/"/>
+    <xhtml:link rel="alternate" hreflang="ca-ES-valencia" href="https://programas29n.jamarlli.workers.dev/va/"/>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://programas29n.jamarlli.workers.dev/eu/"/>
   </url>
 </urlset>
