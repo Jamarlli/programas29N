@@ -17,3 +17,4 @@
 - Hecho 19-11 (decisión de Javier: «como lo dicen de verdad los que escriben en euskera»): formas de uso real (bonos, «Bai bakarrik da bai» legea, NPB, EEE/ABEE, BGDS, NDF, EIB, OEZ, autonomia-erkidegoak, tribunales y DUDH sin sigla, Herritarraren Karpeta, «erabateko bakea») aplicadas en eu-001…030; la lista está en traductor.md. Al final, volver a buscar las siglas viejas (PAC, IMV, CCAA, FMI, TJUE…) en todo eu.
 - Origen (es), no traducciones: el @h de bng-0161 («…y reconocer la imprescriptibilidad del genocidio») presenta como propuesta algo que, en la lectura natural del gallego, es lo que la Ley de Amnistía impide. Revisar el titular en castellano.
 - eu (pasada de coherencia): «ur birsortua» (9 usos en lotes anteriores a eu-036) → «ur leheneratua», la forma de URA.
+- eu (pasada de coherencia): eu-027 deja «MIR plazen» (2×, una en lista con BIR, EIR, FIR); desde eu-038 MIR → BAME: decidir si se cambian también BIR/EIR/FIR o se deja la lista copiada.
